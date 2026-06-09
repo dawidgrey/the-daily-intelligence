@@ -1,14 +1,17 @@
 # The Daily Intelligence
 
-Public GitHub Pages output for **The Daily Intelligence by LACB Grey**.
+**The Daily Intelligence** is a daily AI brief by **LACB Grey**.
 
-This repository is intentionally limited to published static newsletter content:
+It tracks the useful signal across AI news, agents, tools, models, business shifts, creator analysis, and open-source projects. Each issue is written for people who follow AI closely and want clear context without noise.
 
-- `index.html` — latest issue
-- `issues/` — archived issue pages
-- `styles.css` — public presentation stylesheet
-- `.nojekyll` — keeps GitHub Pages simple static hosting
+Every edition focuses on three things:
 
-Automation, source scripts, prompts, logs, and private configuration belong in the separate private repository:
+- what happened
+- why it matters
+- how it could affect work, business, and daily life
 
-`the-daily-intelligence-engine`
+The newsletter is fully automated. It finds relevant stories, prepares the issue, publishes the latest edition, updates the archive, and keeps the public site current without manual publishing work.
+
+Read the latest issue:
+
+https://dawidgrey.github.io/the-daily-intelligence/
