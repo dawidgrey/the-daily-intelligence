@@ -14,4 +14,4 @@ The newsletter is fully automated. It finds relevant stories, prepares the issue
 
 Read the latest issue:
 
-https://dawidgrey.github.io/the-daily-intelligence/
+https://dailyintelligence.lacbgrey.com.au/
