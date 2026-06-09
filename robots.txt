@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dawidgrey.github.io/the-daily-intelligence/sitemap.xml
+Sitemap: https://dailyintelligence.lacbgrey.com.au/sitemap.xml
