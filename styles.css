@@ -94,6 +94,17 @@ h1 {
   text-transform: uppercase;
 }
 
+.byline a {
+  color: inherit;
+  text-decoration-color: rgba(212, 149, 53, 0.45);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
+}
+
+.byline a:hover {
+  color: var(--accent);
+}
+
 .dek {
   color: var(--fg-2);
   font-size: clamp(15px, 2vw, 18px);
