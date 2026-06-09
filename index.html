@@ -28,70 +28,70 @@
     <main>
       <section class="intro-card" aria-labelledby="today-heading">
         <p class="section-label">Today</p>
-        <h2 id="today-heading">Agents move from demos into infrastructure</h2>
-        <p>Today’s issue tracks a practical shift: AI agents are no longer just writing text or code, they are changing passwords, routing model traffic, hardening software, investigating incidents, and reshaping developer workflows. The useful signal is less about magic and more about where automation is becoming dependable enough to enter daily work.</p>
+        <h2 id="today-heading">Agents move from demos into workflows, costs, and risk.</h2>
+        <p>Today’s issue tracks the parts of AI that are becoming operational: companies preparing for public markets, agents working directly with files and devices, open models pushing coding forward, and security teams racing to keep up with model-assisted abuse.</p>
       </section>
 
       <section class="issue-list" aria-label="Newsletter items">
         <article class="news-item">
-          <a class="news-item__title" href="https://twitter.com/openainewsroom/status/2064094175541461220">OpenAI files S-1, starting the path toward a public-market debut</a>
-          <div class="news-item__meta">OpenAI Newsroom · x · @openainewsroom</div>
-          <p><strong>Summary.</strong> OpenAI’s newsroom account said the company has filed an S-1, putting the ChatGPT maker on the path toward an IPO process. Public-market scrutiny would bring new pressure around revenue quality, infrastructure costs, governance, and how quickly enterprise AI spending converts into durable profit.</p>
-          <p><strong>Why it matters.</strong> For people and businesses using OpenAI tools every day, a listing process could make product roadmaps, pricing, capital needs, and strategic partnerships more visible. It also turns frontier AI from a private capital story into a broader market signal for the whole AI stack.</p>
+          <a class="news-item__title" href="https://openai.com/index/openai-submits-confidential-s-1">OpenAI confirms confidential S-1 submission</a>
+          <div class="news-item__meta">OpenAI · business · Surfaced in HN and broader AI news scans</div>
+          <p><strong>Summary.</strong> OpenAI says it has confidentially submitted a draft S-1 to the SEC, while noting that no timing has been set and that remaining private may still make some work easier.</p>
+          <p><strong>Why it matters.</strong> A potential OpenAI IPO would turn one of the central AI platforms into a public-market story, increasing scrutiny on revenue, costs, safety commitments, and the economics behind everyday AI tools.</p>
         </article>
         <article class="news-item">
-          <a class="news-item__title" href="https://www.anthropic.com/news/expanding-project-glasswing">Anthropic expands Project Glasswing to more critical-software partners</a>
-          <div class="news-item__meta">Anthropic · article</div>
-          <p><strong>Summary.</strong> Anthropic is expanding Project Glasswing, its program that gives vetted organizations access to Claude Mythos Preview for AI-assisted vulnerability discovery. The initial cohort of roughly 50 partners found more than 10,000 high- or critical-severity flaws, and Anthropic says the next phase will include about 150 more organizations across more than 15 countries.</p>
-          <p><strong>Why it matters.</strong> This is AI moving into defensive security at industrial scale. If these tools work responsibly, software maintainers may find serious bugs faster; if patching processes do not keep up, the bottleneck simply moves from discovery to verification and deployment.</p>
+          <a class="news-item__title" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no">Anthropic launches Cowork for file-based Claude Desktop tasks</a>
+          <div class="news-item__meta">VentureBeat · product</div>
+          <p><strong>Summary.</strong> Anthropic introduced Cowork, a Claude Desktop agent that can work inside a user-approved local folder to read, create, edit, organize, and transform files without requiring command-line skills.</p>
+          <p><strong>Why it matters.</strong> This is the clearest version of the agent shift for non-developers: instead of chatting about work, users can ask an assistant to act on real files, while still needing careful boundaries around destructive actions.</p>
         </article>
         <article class="news-item">
-          <a class="news-item__title" href="https://red.anthropic.com/2026/n-days/">Anthropic measures how frontier models compress N-day exploit development</a>
-          <div class="news-item__meta">Anthropic Red Team · research</div>
-          <p><strong>Summary.</strong> Anthropic reports that Claude Mythos Preview could turn public patch diffs into working crashes and exploit chains for Firefox and Windows kernel vulnerabilities in hours rather than weeks. The research argues that the traditional N-day patch window is becoming closer to an N-hour problem.</p>
-          <p><strong>Why it matters.</strong> For companies, developers, and even power users, patch latency is now a practical risk variable. Faster AI-assisted exploit construction makes boring hygiene—rapid updates, dependency inventory, and secure defaults—more important, not less.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/">Apple Passwords can automatically fix weak and compromised logins</a>
-          <div class="news-item__meta">MacRumors · article</div>
-          <p><strong>Summary.</strong> Apple announced an agentic Passwords feature that uses Apple Intelligence and Safari to update weak or compromised passwords after an initial user action. The system is designed to handle the tedious website-by-website password-change workflow in the background and show progress as a Live Activity.</p>
-          <p><strong>Why it matters.</strong> This is a consumer-friendly example of useful agency: a system doing a security chore people routinely ignore. The real test will be reliability across messy websites, two-factor flows, and edge cases where users need control rather than surprise automation.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents">Miasma worm shows AI coding agents are now part of the supply-chain attack surface</a>
-          <div class="news-item__meta">StepSecurity · article</div>
-          <p><strong>Summary.</strong> StepSecurity details a Miasma campaign that reached Microsoft Azure GitHub organizations and led GitHub to disable 73 repositories. The attack planted configuration files intended to trigger credential-stealing behavior when repositories were opened in tools such as Claude Code, Gemini CLI, Cursor, or VS Code.</p>
-          <p><strong>Why it matters.</strong> The attack pattern is a warning for anyone using AI coding tools: repository configuration is executable trust surface. Teams need to audit agent hooks, editor tasks, and project rules with the same seriousness they apply to package install scripts.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://www.cc.dev/">Command Center launches around the hard part of AI coding: reviewing agent output</a>
-          <div class="news-item__meta">Command Center · product</div>
-          <p><strong>Summary.</strong> Command Center positions itself as an agentic coding environment for developers who need to review, refactor, and ship large AI-generated diffs. It supports tools such as Claude Code, Codex, and OpenCode, with a focus on walkthroughs, parallel agent work, and production-quality review workflows.</p>
-          <p><strong>Why it matters.</strong> The constraint in AI coding is shifting from generation to verification. Tools that make a 50-file agent diff understandable may matter more to real teams than yet another faster code generator.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://huggingface.co/blog/hf-cli-for-agents">Hugging Face redesigns the hf CLI for coding agents as first-class users</a>
-          <div class="news-item__meta">Hugging Face Blog · article</div>
-          <p><strong>Summary.</strong> Hugging Face explains how it redesigned the official hf CLI with agent-aware output, non-interactive behavior, structured formats, next-command hints, and a compact skill reference. Its benchmarks found agents using the CLI completed Hub tasks with fewer errors and far less token use than agents using raw curl or the Python SDK.</p>
-          <p><strong>Why it matters.</strong> This is a small but important workflow pattern: products increasingly need interfaces built for both humans and agents. Clean CLIs, parseable output, and safe defaults can make automation cheaper and more reliable.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-1">Modular argues LLM inference needs routing built for KV cache and GPU state</a>
-          <div class="news-item__meta">Modular · article</div>
-          <p><strong>Summary.</strong> Modular’s engineering post argues that traditional HTTP load balancing breaks down for LLM inference because GPU backends are stateful, heterogeneous, and shaped by KV cache locality. The piece outlines why routers must understand cache residency, hardware specialization, session continuity, and multi-step model execution.</p>
-          <p><strong>Why it matters.</strong> Users experience this infrastructure debate as latency, reliability, and cost. Better inference routing could make long-context assistants, coding agents, and enterprise copilots feel faster and less expensive without changing the model itself.</p>
-        </article>
-        <article class="news-item">
-          <a class="news-item__title" href="https://deepmind.google/blog/introducing-gemini-omni/">Google introduces Gemini Omni for multimodal video generation and editing</a>
+          <a class="news-item__title" href="https://deepmind.google/blog/introducing-gemini-omni/">Google DeepMind introduces Gemini Omni Flash for conversational video generation and editing</a>
           <div class="news-item__meta">Google DeepMind · product</div>
-          <p><strong>Summary.</strong> Google introduced Gemini Omni, beginning with Gemini Omni Flash for video generation and conversational editing from combinations of text, image, video, and audio inputs. Google says the model is rolling out through the Gemini app, Flow, YouTube Shorts, and YouTube Create, with API access planned for developers and enterprises.</p>
-          <p><strong>Why it matters.</strong> Creative AI is moving from one-shot generation toward editable workflows. For creators and marketers, the key productivity gain is not just making video, but iterating on it with natural-language changes while preserving continuity.</p>
+          <p><strong>Summary.</strong> Google DeepMind announced Gemini Omni, beginning with Gemini Omni Flash, a multimodal model for creating and editing video from text, images, audio, and video through conversation.</p>
+          <p><strong>Why it matters.</strong> Video creation is becoming less like operating editing software and more like directing an assistant. That changes how creators, marketers, educators, and small businesses can produce visual material quickly.</p>
         </article>
         <article class="news-item">
-          <a class="news-item__title" href="https://github.com/superloglabs/superlog">Superlog open-sources an agentic observability workspace</a>
-          <div class="news-item__meta">GitHub · github</div>
-          <p><strong>Summary.</strong> Superlog’s open-source repository describes an observability platform that ingests OpenTelemetry traces, logs, and metrics, groups noisy signals into incidents, and provides agent runner interfaces for investigation workflows. The community edition includes a web app, API, OTLP proxy, worker processes, Postgres schema, and ClickHouse-backed telemetry queries.</p>
-          <p><strong>Why it matters.</strong> Operations teams are a natural home for useful agents because incident response already requires gathering evidence, reducing noise, and proposing next steps. Open-source tools in this category let teams test agentic debugging without handing all production context to a closed SaaS.</p>
+          <a class="news-item__title" href="https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/">Apple brings natural-language automation to Shortcuts</a>
+          <div class="news-item__meta">TechCrunch · product</div>
+          <p><strong>Summary.</strong> Apple is adding AI-powered workflow creation to Shortcuts in iOS 27, letting users describe automations in plain language instead of manually wiring together app actions and variables.</p>
+          <p><strong>Why it matters.</strong> If it works reliably, personal automation could move from power-user hobby to mainstream habit: reminders, messages, navigation, media, and app workflows assembled by description rather than by scripting.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://red.anthropic.com/2026/n-days/">Anthropic measures how frontier models accelerate N-day exploit development</a>
+          <div class="news-item__meta">Anthropic Red Team · security research · Surfaced via Hacker News</div>
+          <p><strong>Summary.</strong> Anthropic evaluated model-assisted exploit development for already-patched vulnerabilities and reported that Claude Mythos Preview could produce working exploits from Firefox and Windows patches, often within hours.</p>
+          <p><strong>Why it matters.</strong> Patch windows are shrinking. For teams and individuals, security updates become more urgent when public patches can also serve as roadmaps for AI-assisted attackers.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://huggingface.co/blog/Hcompany/holo31">Holo3.1 ships fast local computer-use agent models</a>
+          <div class="news-item__meta">Hugging Face / H Company · model release</div>
+          <p><strong>Summary.</strong> H Company released Holo3.1, a family of computer-use agent models designed for web, desktop, mobile, third-party harnesses, and local deployment, including quantized checkpoints for faster inference.</p>
+          <p><strong>Why it matters.</strong> Local computer-use agents point toward assistants that can operate privately and cheaply on user machines, not only through cloud APIs. That matters for latency, cost, and sensitive workflows.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in">NousCoder-14B lands as an open-source coding model in the agentic coding moment</a>
+          <div class="news-item__meta">VentureBeat · model release</div>
+          <p><strong>Summary.</strong> Nous Research released NousCoder-14B, an Apache-2.0 coding model trained with verifiable reinforcement learning and accompanied by open training infrastructure through the Atropos stack.</p>
+          <p><strong>Why it matters.</strong> Open coding models give developers and companies more control over cost, reproducibility, and deployment. The bigger signal is that coding assistants are becoming a competitive open-model category, not just a proprietary feature.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/">Deepseek tops Ramp’s trending software vendors as companies chase cheaper AI</a>
+          <div class="news-item__meta">The Decoder · business</div>
+          <p><strong>Summary.</strong> The Decoder reports that Deepseek led Ramp’s fastest-growing software vendors in June 2026, suggesting US companies are directly paying for cheaper model access despite security and governance concerns.</p>
+          <p><strong>Why it matters.</strong> AI buying decisions are becoming cost-sensitive. As usage grows, teams may increasingly choose models by price-performance and data policy rather than brand alone.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/">Meta discloses Instagram AI chatbot breach may have affected more than 20,000 accounts</a>
+          <div class="news-item__meta">The Decoder · security</div>
+          <p><strong>Summary.</strong> Meta disclosed that a flaw in an AI-assisted Instagram account recovery chatbot may have compromised up to 20,225 accounts by allowing reset links to be sent to unverified email addresses.</p>
+          <p><strong>Why it matters.</strong> AI support agents now touch account recovery, identity, and private messages. Convenience gains need stronger verification and audit trails, especially when assistants can trigger high-impact actions.</p>
+        </article>
+        <article class="news-item">
+          <a class="news-item__title" href="https://www.youtube.com/watch?v=UcUSGG8yoAs">YouTube creator stress-tests popular AI agents on real work</a>
+          <div class="news-item__meta">YouTube · youtube · Discovered via AI agent YouTube trend search</div>
+          <p><strong>Summary.</strong> A recent YouTube comparison tests six popular AI agents against everyday tasks such as booking travel, summarizing email, researching competitors, drafting follow-ups, and creating reports.</p>
+          <p><strong>Why it matters.</strong> The useful question for most people is not whether agents look impressive in demos, but whether they save time after setup, supervision, errors, and subscription or API costs are counted.</p>
         </article>
       </section>
     </main>
