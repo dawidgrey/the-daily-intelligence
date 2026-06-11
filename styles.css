@@ -40,7 +40,7 @@ a {
 }
 
 .site-frame {
-  width: min(100%, 1040px);
+  width: min(100%, 1320px);
   margin: 0 auto;
   padding: 56px 28px 48px;
 }
@@ -126,6 +126,17 @@ h1 {
   background: rgba(255, 255, 255, 0.018);
 }
 
+.content-layout {
+  display: grid;
+  gap: 28px;
+  grid-template-columns: minmax(0, 1fr) 292px;
+  align-items: start;
+}
+
+.content-layout main {
+  min-width: 0;
+}
+
 .intro-card {
   margin: 48px 0 2px;
   padding: 32px;
@@ -189,6 +200,80 @@ h1 {
   font-weight: 400;
 }
 
+.archive-panel {
+  position: sticky;
+  top: 86px;
+  margin-top: 48px;
+  padding: 24px;
+  background: rgba(255, 255, 255, 0.018);
+  border: 1px solid var(--rule);
+}
+
+.archive-panel h2 {
+  font-size: 22px;
+  letter-spacing: -0.035em;
+  margin-bottom: 12px;
+}
+
+.archive-panel__dek,
+.archive-panel__empty {
+  color: var(--fg-3);
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 0 0 20px;
+}
+
+.archive-panel__list {
+  display: grid;
+  gap: 2px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.archive-panel__list a {
+  display: grid;
+  gap: 4px;
+  padding: 14px 0;
+  border-top: 1px solid var(--rule);
+  color: inherit;
+  text-decoration: none;
+}
+
+.archive-panel__list li:last-child a {
+  border-bottom: 1px solid var(--rule);
+}
+
+.archive-panel__list a:hover .archive-panel__date,
+.archive-panel__list a:focus-visible .archive-panel__date,
+.archive-panel__all:hover,
+.archive-panel__all:focus-visible {
+  color: var(--accent);
+}
+
+.archive-panel__date {
+  color: var(--fg-1);
+  font-size: 14px;
+  letter-spacing: 0.04em;
+}
+
+.archive-panel__meta {
+  color: var(--fg-3);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.archive-panel__all {
+  display: inline-block;
+  margin-top: 22px;
+  color: var(--fg-2);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
 .site-footer {
   display: grid;
   gap: 16px;
@@ -207,6 +292,17 @@ h1 {
 @media (min-width: 760px) {
   .site-footer {
     grid-template-columns: 160px 1fr;
+  }
+}
+
+@media (max-width: 980px) {
+  .content-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .archive-panel {
+    position: static;
+    margin-top: 28px;
   }
 }
 
