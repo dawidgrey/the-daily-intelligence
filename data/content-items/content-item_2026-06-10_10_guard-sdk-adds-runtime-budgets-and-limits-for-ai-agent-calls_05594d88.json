@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_10_guard-sdk-adds-runtime-budgets-and-limits-for-ai-agent-calls_05594d88",
+  "sourceKind": "product",
+  "sourceName": "guard-sdk",
+  "sourceUrl": "https://guard-sdk.js.org/",
+  "canonicalUrl": "https://guard-sdk.js.org/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "guard-sdk adds runtime budgets and limits for AI agent calls",
+  "friendlyTitle": "guard-sdk helps control AI agent costs and limits",
+  "summary": "guard-sdk is a JavaScript toolkit for wrapping AI calls and multi-step agent loops with limits on cost, tokens, calls, retries, and duration. It includes logging and provider packages for OpenAI, Anthropic, Vercel AI, storage, telemetry, and pricing.",
+  "friendlySummary": "guard-sdk is a JavaScript toolkit that limits cost, tokens, calls, retries, and time for AI and agent workflows.",
+  "whyItMatters": "As agents run longer workflows, teams need boring but essential controls to prevent runaway loops and surprise bills. Runtime guardrails make agent adoption safer for small teams and production apps alike.",
+  "friendlyWhyItMatters": "These guardrails help stop runaway agent loops and surprise bills, which makes production AI safer for small teams.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

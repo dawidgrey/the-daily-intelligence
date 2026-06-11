@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_01_visa-and-openai-build-payment-infrastructure-for-ai-agents_65ddbd3c",
+  "sourceKind": "product",
+  "sourceName": "Visa",
+  "sourceUrl": "https://corporate.visa.com/en/sites/visa-perspectives/innovation/visa-openai-partnership.html",
+  "canonicalUrl": "https://corporate.visa.com/en/sites/visa-perspectives/innovation/visa-openai-partnership.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Visa and OpenAI build payment infrastructure for AI agents",
+  "friendlyTitle": "Visa and OpenAI are working on payments for AI agents",
+  "summary": "Visa announced a collaboration with OpenAI to support agentic commerce, using Visa Intelligent Commerce, tokenized credentials, real-time authorization, agent identification, fraud monitoring, and user-defined permissions.",
+  "friendlySummary": "Visa and OpenAI are building ways for AI agents to make purchases with tokenized payment details, identity checks, fraud monitoring, and user-set rules.",
+  "whyItMatters": "AI agents are starting to move from recommending purchases to initiating transactions. The practical question for consumers and businesses will be whether spending limits, approvals, merchant controls, and dispute handling are clear enough to trust.",
+  "friendlyWhyItMatters": "If agents can spend money, people and businesses need clear limits, approvals, merchant rules, and ways to fix mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_11_mvanhorn-last30days-skill-trends-as-an-agent-research-workflow_01e478ba",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/mvanhorn/last30days-skill",
+  "canonicalUrl": "https://github.com/mvanhorn/last30days-skill",
+  "credit": "3,558 stars today on GitHub Trending",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "mvanhorn/last30days-skill trends as an agent research workflow",
+  "friendlyTitle": "mvanhorn/last30days-skill trends as an agent research workflow",
+  "summary": "last30days-skill is an AI agent skill that researches a topic across public web and social sources, then synthesizes a grounded recent-history summary.",
+  "friendlySummary": "last30days-skill is an AI agent skill that researches a topic across public web and social sources, then synthesizes a grounded recent-history summary.",
+  "whyItMatters": "Use it as a pattern for building research agents that gather multiple signals before writing. It is especially relevant for monitoring markets, projects, competitors, or fast-moving technical topics.",
+  "friendlyWhyItMatters": "Use it as a pattern for building research agents that gather multiple signals before writing. It is especially relevant for monitoring markets, projects, competitors, or fast-moving technical topics.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}

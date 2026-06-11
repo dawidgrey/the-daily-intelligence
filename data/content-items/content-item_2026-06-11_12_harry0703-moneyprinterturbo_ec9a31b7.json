@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_12_harry0703-moneyprinterturbo_ec9a31b7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "canonicalUrl": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "friendlyTitle": "harry0703/MoneyPrinterTurbo",
+  "summary": "An AI-powered short-video generation project that can create scripts, gather materials, generate subtitles and voice narration, add music, and produce HD vertical or horizontal videos from a topic or keyword.",
+  "friendlySummary": "MoneyPrinterTurbo can generate short videos by making scripts, gathering materials, creating subtitles and voice, adding music, and rendering videos.",
+  "whyItMatters": "Creators and small teams can use it to prototype repeatable video-production pipelines. It is also a practical reference for stitching LLMs, TTS, subtitles, stock media, and rendering into one workflow.",
+  "friendlyWhyItMatters": "Creators and small teams can use it as a reference for repeatable AI video-production pipelines.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

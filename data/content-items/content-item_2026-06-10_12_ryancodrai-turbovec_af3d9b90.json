@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_12_ryancodrai-turbovec_af3d9b90",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/RyanCodrai/turbovec",
+  "canonicalUrl": "https://github.com/RyanCodrai/turbovec",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "RyanCodrai/turbovec",
+  "friendlyTitle": "RyanCodrai/turbovec",
+  "summary": "turbovec is a Rust-and-Python vector index built on TurboQuant, focused on memory-efficient local vector search. GitHub Trending listed it as a top Python mover, with strong daily star growth and claims of major memory reduction for large embedding corpora.",
+  "friendlySummary": "turbovec is a memory-efficient local vector search tool with Rust speed and Python bindings.",
+  "whyItMatters": "It can help developers build leaner local RAG systems, hybrid retrieval, and permission-filtered search without immediately reaching for heavier vector infrastructure. The Rust core plus Python bindings make it practical for both prototypes and performance-sensitive applications.",
+  "friendlyWhyItMatters": "It can help developers build leaner local search and RAG systems without heavy vector database infrastructure.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

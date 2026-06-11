@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_08_nextdoor-describes-codex-as-a-shift-toward-outcome-engineering_126a227c",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/nextdoor/",
+  "canonicalUrl": "https://openai.com/index/nextdoor/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Nextdoor describes Codex as a shift toward outcome engineering",
+  "friendlyTitle": "Nextdoor uses Codex for broader engineering work",
+  "summary": "OpenAI detailed how Nextdoor engineers use Codex to investigate production issues, work across frontend, backend, and mobile, and move from implementation-by-prompting toward describing outcomes and verification paths.",
+  "friendlySummary": "OpenAI described how Nextdoor engineers use Codex to investigate problems and work across frontend, backend, and mobile code.",
+  "whyItMatters": "AI coding agents are changing who can own a feature end to end. For product teams, this suggests smaller groups may ship more complete work if they can pair clear goals with strong testing and review.",
+  "friendlyWhyItMatters": "Coding agents may help smaller teams own more complete features when goals, tests, and reviews are clear.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

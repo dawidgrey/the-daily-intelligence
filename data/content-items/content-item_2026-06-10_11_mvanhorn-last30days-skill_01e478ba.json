@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_11_mvanhorn-last30days-skill_01e478ba",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/mvanhorn/last30days-skill",
+  "canonicalUrl": "https://github.com/mvanhorn/last30days-skill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "mvanhorn/last30days-skill",
+  "friendlyTitle": "mvanhorn/last30days-skill",
+  "summary": "A fast-rising AI agent skill for researching a topic across recent web, Hacker News, YouTube, GitHub, prediction-market, and social sources, then synthesizing a grounded summary. GitHub Trending showed it at the top of Python trending with more than 3,000 stars today.",
+  "friendlySummary": "This agent skill researches recent activity across the web, GitHub, YouTube, Hacker News, prediction markets, and social sources.",
+  "whyItMatters": "Use it as a reusable research workflow for agents when you need recent public-signal synthesis rather than a single search result. It is especially relevant for people building newsletter, due-diligence, or meeting-prep automations.",
+  "friendlyWhyItMatters": "Use it when an agent needs a recent, grounded summary of what changed on a topic instead of one simple search result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_04_notebooklm-adds-agentic-research-web-source-discovery-and-code-execution_614c280a",
+  "sourceKind": "product",
+  "sourceName": "Google Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "NotebookLM adds agentic research, web source discovery, and code execution",
+  "friendlyTitle": "NotebookLM can now research, find sources, and run code",
+  "summary": "Google upgraded NotebookLM with Gemini 3.5, agentic chat, a secure cloud computer that can write and run code, Google Search-based source discovery, and new export formats such as charts, spreadsheets, slide decks, and reports.",
+  "friendlySummary": "Google upgraded NotebookLM with better chat, web source discovery, code execution, and exports like charts, spreadsheets, slides, and reports.",
+  "whyItMatters": "Research assistants are becoming workbenches rather than chat boxes. For analysts, students, and teams, the practical gain is source-grounded synthesis that can also calculate, format, and package results.",
+  "friendlyWhyItMatters": "Research tools are becoming workbenches that can read, calculate, organise, and package results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

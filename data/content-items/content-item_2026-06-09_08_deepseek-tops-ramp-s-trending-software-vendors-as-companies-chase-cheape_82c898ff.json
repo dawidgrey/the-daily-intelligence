@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_08_deepseek-tops-ramp-s-trending-software-vendors-as-companies-chase-cheape_82c898ff",
+  "sourceKind": "business",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/",
+  "canonicalUrl": "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Deepseek tops Ramp’s trending software vendors as companies chase cheaper AI",
+  "friendlyTitle": "Deepseek tops Ramp’s trending software vendors as companies chase cheaper AI",
+  "summary": "The Decoder reports that Deepseek led Ramp’s fastest-growing software vendors in June 2026, suggesting US companies are directly paying for cheaper model access despite security and governance concerns.",
+  "friendlySummary": "The Decoder reports that Deepseek led Ramp’s fastest-growing software vendors in June 2026, suggesting US companies are directly paying for cheaper model access despite security and governance concerns.",
+  "whyItMatters": "AI buying decisions are becoming cost-sensitive. As usage grows, teams may increasingly choose models by price-performance and data policy rather than brand alone.",
+  "friendlyWhyItMatters": "AI buying decisions are becoming cost-sensitive. As usage grows, teams may increasingly choose models by price-performance and data policy rather than brand alone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "business",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_07_gitbutler-s-grit-experiment-rewrites-git-in-rust-with-agents_7ac4f9b4",
+  "sourceKind": "article",
+  "sourceName": "GitButler",
+  "sourceUrl": "https://blog.gitbutler.com/true-grit",
+  "canonicalUrl": "https://blog.gitbutler.com/true-grit",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "GitButler's Grit experiment rewrites Git in Rust with agents",
+  "friendlyTitle": "GitButler tested rebuilding Git with help from agents",
+  "summary": "Scott Chacon described Grit, a library-first Rust reimplementation of Git built with extensive agent assistance. The project reportedly passes 99.3% of Git's C test suite, though the author warns it is not production-ready and may corrupt data.",
+  "friendlySummary": "GitButler described Grit, a Rust rewrite of Git built with heavy agent help. It passes many tests, but it is not safe for production yet.",
+  "whyItMatters": "The story is a grounded example of what agents can and cannot do in large software rewrites: they can generate enormous progress against tests, but human judgment and real-world validation still matter. For developers, it points toward a future where agents help modernize critical infrastructure without making review optional.",
+  "friendlyWhyItMatters": "This shows agents can speed up large software rewrites, but human review and real testing are still essential.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

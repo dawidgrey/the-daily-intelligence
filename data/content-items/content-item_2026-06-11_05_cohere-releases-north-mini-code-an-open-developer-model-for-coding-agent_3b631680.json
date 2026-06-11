@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_05_cohere-releases-north-mini-code-an-open-developer-model-for-coding-agent_3b631680",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face / CohereLabs",
+  "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "canonicalUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Cohere releases North Mini Code, an open developer model for coding agents",
+  "friendlyTitle": "Cohere released an open coding model",
+  "summary": "Cohere released North Mini Code, a 30B-parameter mixture-of-experts coding model with 3B active parameters, Apache 2.0 licensing, Hugging Face weights, Cohere API access, and training focused on agentic software engineering tasks.",
+  "friendlySummary": "Cohere released North Mini Code, an open model trained for coding-agent work and available through Hugging Face and Cohere.",
+  "whyItMatters": "Open coding models give teams more options for private or lower-cost software agents. The release also reflects a broader move toward models trained for terminal work and multi-step repository tasks, not just code completion.",
+  "friendlyWhyItMatters": "Teams get more options for private or lower-cost coding agents that can work through multi-step software tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

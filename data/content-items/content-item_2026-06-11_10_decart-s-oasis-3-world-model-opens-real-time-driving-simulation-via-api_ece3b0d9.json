@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_10_decart-s-oasis-3-world-model-opens-real-time-driving-simulation-via-api_ece3b0d9",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Decart’s Oasis 3 world model opens real-time driving simulation via API",
+  "friendlyTitle": "Decart opened a real-time driving simulation model",
+  "summary": "Decart launched Oasis 3, a real-time world model for photorealistic driving environments, aimed first at autonomous-vehicle simulation and later broader robotics and physical-AI use cases, with API access available at launch.",
+  "friendlySummary": "Decart launched Oasis 3, a world model for photorealistic driving simulation, with API access.",
+  "whyItMatters": "World models could make rare physical scenarios cheaper to test, but the caveats matter: consistency, physics, controls, and long-term memory are still hard. The practical value is simulation as a developer platform, not magic realism.",
+  "friendlyWhyItMatters": "Simulation could make rare physical situations cheaper to test, but real physics, memory, and control are still hard problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

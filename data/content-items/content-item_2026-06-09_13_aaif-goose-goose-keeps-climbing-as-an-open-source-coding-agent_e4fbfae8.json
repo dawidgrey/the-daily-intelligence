@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_13_aaif-goose-goose-keeps-climbing-as-an-open-source-coding-agent_e4fbfae8",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/aaif-goose/goose",
+  "canonicalUrl": "https://github.com/aaif-goose/goose",
+  "credit": "699 stars today on GitHub Trending",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "aaif-goose/goose keeps climbing as an open-source coding agent",
+  "friendlyTitle": "aaif-goose/goose keeps climbing as an open-source coding agent",
+  "summary": "goose is an open-source, extensible AI agent for installing, executing, editing, and testing work with different LLM providers.",
+  "friendlySummary": "goose is an open-source, extensible AI agent for installing, executing, editing, and testing work with different LLM providers.",
+  "whyItMatters": "Use it to experiment with agentic coding workflows without being locked into a single model vendor. Its value is in connecting code edits, commands, and tests into one repeatable loop.",
+  "friendlyWhyItMatters": "Use it to experiment with agentic coding workflows without being locked into a single model vendor. Its value is in connecting code edits, commands, and tests into one repeatable loop.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItemIndex",
+  "generatedAtUtc": "2026-06-11T04:44:52Z",
+  "items": [
+    {
+      "id": "content-item_2026-06-11_01_visa-and-openai-build-payment-infrastructure-for-ai-agents_65ddbd3c",
+      "sourceKind": "product",
+      "sourceName": "Visa",
+      "title": "Visa and OpenAI build payment infrastructure for AI agents",
+      "sourceUrl": "https://corporate.visa.com/en/sites/visa-perspectives/innovation/visa-openai-partnership.html"
+    },
+    {
+      "id": "content-item_2026-06-11_02_google-releases-gemini-3-5-live-translate-for-near-real-time-speech-tran_8065dada",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Google releases Gemini 3.5 Live Translate for near real-time speech translation",
+      "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+    },
+    {
+      "id": "content-item_2026-06-11_03_google-introduces-gemma-4-12b-for-laptop-scale-multimodal-ai_e3d6d33a",
+      "sourceKind": "product",
+      "sourceName": "Google Blog",
+      "title": "Google introduces Gemma 4 12B for laptop-scale multimodal AI",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+    },
+    {
+      "id": "content-item_2026-06-11_04_notebooklm-adds-agentic-research-web-source-discovery-and-code-execution_614c280a",
+      "sourceKind": "product",
+      "sourceName": "Google Blog",
+      "title": "NotebookLM adds agentic research, web source discovery, and code execution",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/"
+    },
+    {
+      "id": "content-item_2026-06-11_05_cohere-releases-north-mini-code-an-open-developer-model-for-coding-agent_3b631680",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face / CohereLabs",
+      "title": "Cohere releases North Mini Code, an open developer model for coding agents",
+      "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+    },
+    {
+      "id": "content-item_2026-06-11_06_servicenow-benchmarks-voice-agents-on-bilingual-code-switched-speech_7a24901e",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face / ServiceNow-AI",
+      "title": "ServiceNow benchmarks voice agents on bilingual, code-switched speech",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+    },
+    {
+      "id": "content-item_2026-06-11_07_lseg-says-openai-tools-shortened-ai-product-cycles-from-months-to-weeks_2be94cf7",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "LSEG says OpenAI tools shortened AI product cycles from months to weeks",
+      "sourceUrl": "https://openai.com/index/lseg"
+    },
+    {
+      "id": "content-item_2026-06-11_08_nextdoor-describes-codex-as-a-shift-toward-outcome-engineering_126a227c",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "Nextdoor describes Codex as a shift toward outcome engineering",
+      "sourceUrl": "https://openai.com/index/nextdoor/"
+    },
+    {
+      "id": "content-item_2026-06-11_09_niteshift-launches-with-7m-to-reduce-coding-agent-lock-in_affdd374",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Niteshift launches with $7M to reduce coding-agent lock-in",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
+    },
+    {
+      "id": "content-item_2026-06-11_10_decart-s-oasis-3-world-model-opens-real-time-driving-simulation-via-api_ece3b0d9",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Decart’s Oasis 3 world model opens real-time driving simulation via API",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
+    },
+    {
+      "id": "content-item_2026-06-11_11_mvanhorn-last30days-skill_01e478ba",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "mvanhorn/last30days-skill",
+      "sourceUrl": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "id": "content-item_2026-06-11_12_harry0703-moneyprinterturbo_ec9a31b7",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "id": "content-item_2026-06-11_13_roboflow-supervision_32f1cc1e",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "roboflow/supervision",
+      "sourceUrl": "https://github.com/roboflow/supervision"
+    }
+  ]
+}

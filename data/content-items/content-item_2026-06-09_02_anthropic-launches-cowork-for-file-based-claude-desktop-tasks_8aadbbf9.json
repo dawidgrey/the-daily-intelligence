@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_02_anthropic-launches-cowork-for-file-based-claude-desktop-tasks_8aadbbf9",
+  "sourceKind": "product",
+  "sourceName": "VentureBeat",
+  "sourceUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+  "canonicalUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Anthropic launches Cowork for file-based Claude Desktop tasks",
+  "friendlyTitle": "Anthropic launches Cowork for file-based Claude Desktop tasks",
+  "summary": "Anthropic introduced Cowork, a Claude Desktop agent that can work inside a user-approved local folder to read, create, edit, organize, and transform files without requiring command-line skills.",
+  "friendlySummary": "Anthropic introduced Cowork, a Claude Desktop agent that can work inside a user-approved local folder to read, create, edit, organize, and transform files without requiring command-line skills.",
+  "whyItMatters": "This is the clearest version of the agent shift for non-developers: instead of chatting about work, users can ask an assistant to act on real files, while still needing careful boundaries around destructive actions.",
+  "friendlyWhyItMatters": "This is the clearest version of the agent shift for non-developers: instead of chatting about work, users can ask an assistant to act on real files, while still needing careful boundaries around destructive actions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_09_niteshift-launches-with-7m-to-reduce-coding-agent-lock-in_affdd374",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Niteshift launches with $7M to reduce coding-agent lock-in",
+  "friendlyTitle": "Niteshift wants to reduce coding-agent lock-in",
+  "summary": "Datadog veterans launched Niteshift with a $7 million seed round, positioning it as infrastructure for coding agents that can route work across multiple models and support enterprise testing, vetting, and production workflows.",
+  "friendlySummary": "Datadog veterans launched Niteshift with seed funding to help companies route coding-agent work across multiple models.",
+  "whyItMatters": "Companies are beginning to treat coding agents like cloud infrastructure: useful, but too strategic to lock to one vendor. Neutral orchestration could matter as model providers move further up the software stack.",
+  "friendlyWhyItMatters": "Companies may not want important software workflows locked to one AI vendor, just like they avoid risky cloud lock-in.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

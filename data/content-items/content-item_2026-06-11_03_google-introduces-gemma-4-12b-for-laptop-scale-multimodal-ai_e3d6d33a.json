@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_03_google-introduces-gemma-4-12b-for-laptop-scale-multimodal-ai_e3d6d33a",
+  "sourceKind": "product",
+  "sourceName": "Google Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Google introduces Gemma 4 12B for laptop-scale multimodal AI",
+  "friendlyTitle": "Google introduced Gemma 4 12B for laptops",
+  "summary": "Google released Gemma 4 12B, a mid-sized open model with text, vision, and native audio input, designed to run on laptops with around 16GB of VRAM or unified memory under an Apache 2.0 license.",
+  "friendlySummary": "Google released Gemma 4 12B, an open model that can work with text, images, and audio on capable laptops.",
+  "whyItMatters": "Local multimodal models reduce dependence on cloud inference for private, low-latency assistants. Developers can prototype audio- and vision-aware workflows on everyday hardware instead of waiting for large hosted systems.",
+  "friendlyWhyItMatters": "More AI work can happen privately and quickly on local hardware, instead of always relying on cloud services.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

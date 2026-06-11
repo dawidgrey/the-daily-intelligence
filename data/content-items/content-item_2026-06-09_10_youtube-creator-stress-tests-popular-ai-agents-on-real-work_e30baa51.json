@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_10_youtube-creator-stress-tests-popular-ai-agents-on-real-work_e30baa51",
+  "sourceKind": "youtube",
+  "sourceName": "YouTube",
+  "sourceUrl": "https://www.youtube.com/watch?v=UcUSGG8yoAs",
+  "canonicalUrl": "https://www.youtube.com/watch?v=UcUSGG8yoAs",
+  "credit": "Discovered via AI agent YouTube trend search",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "YouTube creator stress-tests popular AI agents on real work",
+  "friendlyTitle": "YouTube creator stress-tests popular AI agents on real work",
+  "summary": "A recent YouTube comparison tests six popular AI agents against everyday tasks such as booking travel, summarizing email, researching competitors, drafting follow-ups, and creating reports.",
+  "friendlySummary": "A recent YouTube comparison tests six popular AI agents against everyday tasks such as booking travel, summarizing email, researching competitors, drafting follow-ups, and creating reports.",
+  "whyItMatters": "The useful question for most people is not whether agents look impressive in demos, but whether they save time after setup, supervision, errors, and subscription or API costs are counted.",
+  "friendlyWhyItMatters": "The useful question for most people is not whether agents look impressive in demos, but whether they save time after setup, supervision, errors, and subscription or API costs are counted.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "youtube",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}

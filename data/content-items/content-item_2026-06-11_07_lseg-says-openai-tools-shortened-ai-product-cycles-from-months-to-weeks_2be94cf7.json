@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_07_lseg-says-openai-tools-shortened-ai-product-cycles-from-months-to-weeks_2be94cf7",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/lseg",
+  "canonicalUrl": "https://openai.com/index/lseg",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "LSEG says OpenAI tools shortened AI product cycles from months to weeks",
+  "friendlyTitle": "LSEG says OpenAI tools sped up AI product work",
+  "summary": "OpenAI published a case study on London Stock Exchange Group using ChatGPT Enterprise and OpenAI APIs to speed research, analytics, prototyping, and AI product delivery across financial data workflows.",
+  "friendlySummary": "OpenAI shared how London Stock Exchange Group uses ChatGPT Enterprise and APIs for research, analytics, prototypes, and AI product delivery.",
+  "whyItMatters": "The useful signal is not just faster drafting; it is faster movement from trusted data to decisions under governance. Regulated businesses are showing how AI adoption can be paired with compliance and release discipline.",
+  "friendlyWhyItMatters": "The important signal is faster movement from trusted data to decisions while still working under governance and compliance rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

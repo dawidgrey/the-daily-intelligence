@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_13_panniantong-agent-reach_d00d272b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/Panniantong/Agent-Reach",
+  "canonicalUrl": "https://github.com/Panniantong/Agent-Reach",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Panniantong/Agent-Reach",
+  "friendlyTitle": "Panniantong/Agent-Reach",
+  "summary": "Agent Reach is a CLI scaffold that installs and configures tools so AI agents can read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. It appeared among the biggest AI-related Python trending repos today.",
+  "friendlySummary": "Agent Reach helps install and configure connectors so agents can search platforms like X, Reddit, YouTube, GitHub, and more.",
+  "whyItMatters": "It is useful for agent operators who want to give coding or automation agents broader public-web research abilities without building every connector from scratch. The project is also a reminder to review security and login implications carefully before granting agents wider reach.",
+  "friendlyWhyItMatters": "It can give automation agents broader research access, but teams should review login and security risks before using it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

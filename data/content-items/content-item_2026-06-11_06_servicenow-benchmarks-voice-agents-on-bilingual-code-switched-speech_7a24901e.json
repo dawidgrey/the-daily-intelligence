@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_06_servicenow-benchmarks-voice-agents-on-bilingual-code-switched-speech_7a24901e",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face / ServiceNow-AI",
+  "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+  "canonicalUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "ServiceNow benchmarks voice agents on bilingual, code-switched speech",
+  "friendlyTitle": "ServiceNow tested voice agents with mixed-language speech",
+  "summary": "ServiceNow published a benchmark for automatic speech recognition on enterprise-style code-switched speech across Spanish-English, French-English, Canadian French-English, and German-English support scenarios.",
+  "friendlySummary": "ServiceNow published a benchmark for speech recognition when people switch languages during support conversations.",
+  "whyItMatters": "Voice agents often fail when real customers switch languages mid-sentence. Better evaluation here can improve HR, IT, support, and contact-center systems where transcription errors quickly become wrong tickets or bad answers.",
+  "friendlyWhyItMatters": "Voice agents need to understand how people really speak, or they can create wrong tickets and poor support answers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-11_02_google-releases-gemini-3-5-live-translate-for-near-real-time-speech-tran_8065dada",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "canonicalUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Google releases Gemini 3.5 Live Translate for near real-time speech translation",
+  "friendlyTitle": "Google released better live speech translation",
+  "summary": "Google introduced Gemini 3.5 Live Translate, an audio model for continuous speech-to-speech translation across more than 70 languages, rolling out through the Gemini Live API, AI Studio, Google Translate, and previews for Google Meet.",
+  "friendlySummary": "Google introduced Gemini 3.5 Live Translate for continuous speech-to-speech translation in more than 70 languages.",
+  "whyItMatters": "Better live translation can make meetings, travel, support calls, and education less dependent on shared language. For teams and service providers, the useful shift is from turn-by-turn translation toward smoother conversations.",
+  "friendlyWhyItMatters": "This can make meetings, travel, support calls, and classes easier when people speak different languages.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-11"
+  }
+}

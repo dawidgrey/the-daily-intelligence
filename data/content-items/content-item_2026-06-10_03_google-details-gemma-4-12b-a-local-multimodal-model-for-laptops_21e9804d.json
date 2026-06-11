@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-10_03_google-details-gemma-4-12b-a-local-multimodal-model-for-laptops_21e9804d",
+  "sourceKind": "research",
+  "sourceName": "Google Developers Blog",
+  "sourceUrl": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+  "canonicalUrl": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Google details Gemma 4 12B, a local multimodal model for laptops",
+  "friendlyTitle": "Google showed a local Gemma model for laptops",
+  "summary": "Google published a developer guide for Gemma 4 12B, a dense multimodal model with an encoder-free architecture for text, image, audio, video, code, and agentic workflows. The model is designed to run locally on capable laptops with about 16GB of VRAM or unified memory.",
+  "friendlySummary": "Google shared a guide for Gemma 4 12B, a model that can work with text, images, audio, video, and code on powerful laptops.",
+  "whyItMatters": "Local multimodal models make private, low-latency AI workflows more realistic for developers and power users. If the tooling matures, more useful assistants can run on personal hardware instead of sending every interaction to a cloud endpoint.",
+  "friendlyWhyItMatters": "Local AI can be faster and more private because some tasks can run on your own computer instead of in the cloud.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-10"
+  }
+}

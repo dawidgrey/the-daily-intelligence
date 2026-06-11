@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-09_06_holo3-1-ships-fast-local-computer-use-agent-models_440b7646",
+  "sourceKind": "model release",
+  "sourceName": "Hugging Face / H Company",
+  "sourceUrl": "https://huggingface.co/blog/Hcompany/holo31",
+  "canonicalUrl": "https://huggingface.co/blog/Hcompany/holo31",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T04:44:52Z",
+  "createdAtUtc": "2026-06-11T04:44:52Z",
+  "updatedAtUtc": "2026-06-11T04:44:52Z",
+  "title": "Holo3.1 ships fast local computer-use agent models",
+  "friendlyTitle": "Holo3.1 ships fast local computer-use agent models",
+  "summary": "H Company released Holo3.1, a family of computer-use agent models designed for web, desktop, mobile, third-party harnesses, and local deployment, including quantized checkpoints for faster inference.",
+  "friendlySummary": "H Company released Holo3.1, a family of computer-use agent models designed for web, desktop, mobile, third-party harnesses, and local deployment, including quantized checkpoints for faster inference.",
+  "whyItMatters": "Local computer-use agents point toward assistants that can operate privately and cheaply on user machines, not only through cloud APIs. That matters for latency, cost, and sensitive workflows.",
+  "friendlyWhyItMatters": "Local computer-use agents point toward assistants that can operate privately and cheaply on user machines, not only through cloud APIs. That matters for latency, cost, and sensitive workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "model release",
+    "legacyPublicationSlug": "2026-06-09"
+  }
+}
