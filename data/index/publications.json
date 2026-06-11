@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-11T04:44:52Z",
+  "generatedAtUtc": "2026-06-11T20:05:32Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-12",
+      "slug": "2026-06-12",
+      "status": "published",
+      "publicationDateUtc": "2026-06-11T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos to daily infrastructure",
+      "friendlyHeader": "AI agents are becoming everyday tools",
+      "summary": "Today’s issue tracks AI moving into the operating layer of work: persistent coding agents, faster open models, live translation, safer autonomy controls, and practical consumer tools. The through-line is less about spectacle and more about where AI starts reducing friction in everyday decisions, workflows, and creative systems.",
+      "friendlySummary": "Today’s brief looks at AI becoming more useful in normal work and life: coding agents that can keep working, faster models, live voice translation, safer controls, and tools for shopping and music. The big story is practical AI moving from demos into daily routines.",
+      "itemCount": 13,
+      "href": "issues/2026-06-12.html",
+      "dataUrl": "data/daily-publications/2026-06-12.json"
+    },
     {
       "id": "daily-publication_2026-06-11",
       "slug": "2026-06-11",

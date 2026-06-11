@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-12_12_activeloopai-hivemind_a25b0476",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/activeloopai/hivemind",
+  "canonicalUrl": "https://github.com/activeloopai/hivemind",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T20:05:32Z",
+  "createdAtUtc": "2026-06-11T20:05:32Z",
+  "updatedAtUtc": "2026-06-11T20:05:32Z",
+  "title": "activeloopai/hivemind",
+  "friendlyTitle": "Hivemind: shared memory for coding agents",
+  "summary": "Hivemind is a shared memory and skill system for coding agents that captures sessions, mines reusable patterns, and propagates them across tools such as Claude Code, Codex, Cursor, OpenClaw, and Hermes Agent. It was one of the day’s higher-scoring AI-related GitHub candidates.",
+  "friendlySummary": "Hivemind helps coding agents remember useful work across sessions and team members. It can capture traces, search past work, and turn repeated patterns into skills.",
+  "whyItMatters": "Teams experimenting with multiple coding agents can use it as a reference for shared agent memory, session trace search, and turning repeated solutions into reusable skills.",
+  "friendlyWhyItMatters": "This is useful for teams that do not want every agent session to start from zero. It can help spread lessons from one developer’s agent to others.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-12"
+  }
+}

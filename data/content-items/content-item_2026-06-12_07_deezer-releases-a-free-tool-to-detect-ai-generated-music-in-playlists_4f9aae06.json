@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-12_07_deezer-releases-a-free-tool-to-detect-ai-generated-music-in-playlists_4f9aae06",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T20:05:32Z",
+  "createdAtUtc": "2026-06-11T20:05:32Z",
+  "updatedAtUtc": "2026-06-11T20:05:32Z",
+  "title": "Deezer releases a free tool to detect AI-generated music in playlists",
+  "friendlyTitle": "Deezer lets listeners check playlists for AI music",
+  "summary": "Deezer launched a free online detector that scans playlists from Spotify, Apple Music, SoundCloud, YouTube Music, and other platforms for AI-generated tracks. The company says AI music is now a large share of daily uploads to Deezer, though a much smaller share of actual listening.",
+  "friendlySummary": "Deezer launched a free tool that checks playlists from major music platforms and flags AI-generated songs. It builds on Deezer’s wider effort to label and limit synthetic music spam.",
+  "whyItMatters": "Music platforms are becoming a test case for AI transparency, fraud controls, and creator compensation. A user-facing detector gives listeners more visibility into synthetic content that may otherwise blend into recommendations.",
+  "friendlyWhyItMatters": "Listeners and artists both need clearer labels as AI music grows. This tool gives people more control over what they are hearing and sharing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-12"
+  }
+}

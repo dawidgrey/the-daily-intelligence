@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "recordType": "DailyPublication",
-  "id": "daily-publication_2026-06-11",
-  "slug": "2026-06-11",
+  "id": "daily-publication_2026-06-12",
+  "slug": "2026-06-12",
   "status": "published",
-  "publicationDateUtc": "2026-06-10T20:00:00Z",
+  "publicationDateUtc": "2026-06-11T20:00:00Z",
   "displayTimeZone": "Australia/Sydney",
-  "header": "Agents move from demos into payments, research, coding, and local models",
-  "friendlyHeader": "AI agents are getting closer to real-world jobs.",
-  "summary": "Today’s Daily Intelligence tracks practical AI shifts: agentic commerce gets payment rails, research notebooks gain code execution, voice translation becomes more conversational, and open models/tools keep moving useful workflows closer to everyday hardware and teams.",
-  "friendlySummary": "Today’s issue looks at agents paying for things, research tools doing more work, live translation improving, open models helping coders, and practical tools moving AI closer to normal teams and laptops.",
+  "header": "Agents move from demos to daily infrastructure",
+  "friendlyHeader": "AI agents are becoming everyday tools",
+  "summary": "Today’s issue tracks AI moving into the operating layer of work: persistent coding agents, faster open models, live translation, safer autonomy controls, and practical consumer tools. The through-line is less about spectacle and more about where AI starts reducing friction in everyday decisions, workflows, and creative systems.",
+  "friendlySummary": "Today’s brief looks at AI becoming more useful in normal work and life: coding agents that can keep working, faster models, live voice translation, safer controls, and tools for shopping and music. The big story is practical AI moving from demos into daily routines.",
   "contentItemRefs": [
     {
-      "contentItemId": "content-item_2026-06-11_01_visa-and-openai-build-payment-infrastructure-for-ai-agents_65ddbd3c",
+      "contentItemId": "content-item_2026-06-12_01_openai-plans-to-acquire-ona-to-give-codex-persistent-cloud-workspaces_6600f3e4",
       "position": 1,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -23,7 +23,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_02_google-releases-gemini-3-5-live-translate-for-near-real-time-speech-tran_8065dada",
+      "contentItemId": "content-item_2026-06-12_02_google-introduces-diffusiongemma-an-experimental-open-model-for-faster-t_d9665153",
       "position": 2,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -34,7 +34,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_03_google-introduces-gemma-4-12b-for-laptop-scale-multimodal-ai_e3d6d33a",
+      "contentItemId": "content-item_2026-06-12_03_gemini-3-5-live-translate-brings-near-real-time-voice-translation-to-goo_8065dada",
       "position": 3,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -45,7 +45,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_04_notebooklm-adds-agentic-research-web-source-discovery-and-code-execution_614c280a",
+      "contentItemId": "content-item_2026-06-12_04_anthropic-launches-claude-corps-with-a-150-million-nonprofit-fellowship_e1ca2354",
       "position": 4,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -56,7 +56,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_05_cohere-releases-north-mini-code-an-open-developer-model-for-coding-agent_3b631680",
+      "contentItemId": "content-item_2026-06-12_05_cursor-details-auto-review-for-governing-coding-agent-autonomy_922dce3d",
       "position": 5,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -67,7 +67,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_06_servicenow-benchmarks-voice-agents-on-bilingual-code-switched-speech_7a24901e",
+      "contentItemId": "content-item_2026-06-12_06_doordash-launches-ask-doordash-for-prompt-and-photo-based-ordering_c3ff3dce",
       "position": 6,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -78,7 +78,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_07_lseg-says-openai-tools-shortened-ai-product-cycles-from-months-to-weeks_2be94cf7",
+      "contentItemId": "content-item_2026-06-12_07_deezer-releases-a-free-tool-to-detect-ai-generated-music-in-playlists_4f9aae06",
       "position": 7,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -89,7 +89,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_08_nextdoor-describes-codex-as-a-shift-toward-outcome-engineering_126a227c",
+      "contentItemId": "content-item_2026-06-12_08_google-deepmind-funds-research-into-risks-from-large-scale-agent-interac_11e089b7",
       "position": 8,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -100,7 +100,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_09_niteshift-launches-with-7m-to-reduce-coding-agent-lock-in_affdd374",
+      "contentItemId": "content-item_2026-06-12_09_hugging-face-opens-openenv-governance-for-agentic-reinforcement-learning_fbaf22fc",
       "position": 9,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -111,7 +111,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_10_decart-s-oasis-3-world-model-opens-real-time-driving-simulation-via-api_ece3b0d9",
+      "contentItemId": "content-item_2026-06-12_10_cohere-releases-north-mini-code-its-first-developer-focused-model_3b631680",
       "position": 10,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -122,7 +122,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_11_mvanhorn-last30days-skill_01e478ba",
+      "contentItemId": "content-item_2026-06-12_11_anomalyco-opencode_adbef724",
       "position": 11,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -133,7 +133,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_12_harry0703-moneyprinterturbo_ec9a31b7",
+      "contentItemId": "content-item_2026-06-12_12_activeloopai-hivemind_a25b0476",
       "position": 12,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -144,7 +144,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-11_13_roboflow-supervision_32f1cc1e",
+      "contentItemId": "content-item_2026-06-12_13_nvidia-skillspector_e30f8dee",
       "position": 13,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -158,7 +158,7 @@
   "createdAtUtc": "2026-06-11T20:05:32Z",
   "updatedAtUtc": "2026-06-11T20:05:32Z",
   "metadata": {
-    "legacySource": "final_issue_2026-06-11.json",
+    "legacySource": "final_issue_2026-06-12.json",
     "itemCount": 13
   }
 }

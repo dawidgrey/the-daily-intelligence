@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-12_10_cohere-releases-north-mini-code-its-first-developer-focused-model_3b631680",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog / CohereLabs",
+  "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "canonicalUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T20:05:32Z",
+  "createdAtUtc": "2026-06-11T20:05:32Z",
+  "updatedAtUtc": "2026-06-11T20:05:32Z",
+  "title": "Cohere releases North Mini Code, its first developer-focused model",
+  "friendlyTitle": "Cohere releases an open coding model for agent workflows",
+  "summary": "Cohere released North Mini Code, a 30B-parameter sparse MoE model with 3B active parameters, under Apache 2.0. The model is designed for agentic software engineering, terminal workflows, and multiple coding-agent harnesses including OpenCode and SWE-Agent.",
+  "friendlySummary": "North Mini Code is Cohere’s first model aimed at developers. It is built for coding agents, terminal work, and software engineering tasks, and its weights are available through Hugging Face.",
+  "whyItMatters": "Coding models are being optimized for tool use, terminals, and agent loops rather than only static benchmark prompts. For developers, that means smaller open models may become more practical in real software workflows.",
+  "friendlyWhyItMatters": "More open coding models give developers and teams alternatives to closed tools. The focus on agent workflows matters because modern coding assistants need to use tools, not just write snippets.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-12"
+  }
+}

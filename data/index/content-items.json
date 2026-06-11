@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-11T04:44:52Z",
+  "generatedAtUtc": "2026-06-11T20:05:32Z",
   "items": [
     {
-      "id": "content-item_2026-06-11_01_visa-and-openai-build-payment-infrastructure-for-ai-agents_65ddbd3c",
+      "id": "content-item_2026-06-12_01_openai-plans-to-acquire-ona-to-give-codex-persistent-cloud-workspaces_6600f3e4",
       "sourceKind": "product",
-      "sourceName": "Visa",
-      "title": "Visa and OpenAI build payment infrastructure for AI agents",
-      "sourceUrl": "https://corporate.visa.com/en/sites/visa-perspectives/innovation/visa-openai-partnership.html"
+      "sourceName": "OpenAI",
+      "title": "OpenAI plans to acquire Ona to give Codex persistent cloud workspaces",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona"
     },
     {
-      "id": "content-item_2026-06-11_02_google-releases-gemini-3-5-live-translate-for-near-real-time-speech-tran_8065dada",
+      "id": "content-item_2026-06-12_02_google-introduces-diffusiongemma-an-experimental-open-model-for-faster-t_d9665153",
+      "sourceKind": "research",
+      "sourceName": "Google DeepMind",
+      "title": "Google introduces DiffusionGemma, an experimental open model for faster text generation",
+      "sourceUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+    },
+    {
+      "id": "content-item_2026-06-12_03_gemini-3-5-live-translate-brings-near-real-time-voice-translation-to-goo_8065dada",
       "sourceKind": "product",
       "sourceName": "Google DeepMind",
-      "title": "Google releases Gemini 3.5 Live Translate for near real-time speech translation",
+      "title": "Gemini 3.5 Live Translate brings near real-time voice translation to Google products",
       "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
     },
     {
-      "id": "content-item_2026-06-11_03_google-introduces-gemma-4-12b-for-laptop-scale-multimodal-ai_e3d6d33a",
-      "sourceKind": "product",
-      "sourceName": "Google Blog",
-      "title": "Google introduces Gemma 4 12B for laptop-scale multimodal AI",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+      "id": "content-item_2026-06-12_04_anthropic-launches-claude-corps-with-a-150-million-nonprofit-fellowship_e1ca2354",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic launches Claude Corps with a $150 million nonprofit fellowship commitment",
+      "sourceUrl": "https://www.anthropic.com/news/claude-corps"
     },
     {
-      "id": "content-item_2026-06-11_04_notebooklm-adds-agentic-research-web-source-discovery-and-code-execution_614c280a",
+      "id": "content-item_2026-06-12_05_cursor-details-auto-review-for-governing-coding-agent-autonomy_922dce3d",
       "sourceKind": "product",
-      "sourceName": "Google Blog",
-      "title": "NotebookLM adds agentic research, web source discovery, and code execution",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/"
+      "sourceName": "Cursor",
+      "title": "Cursor details Auto-review for governing coding-agent autonomy",
+      "sourceUrl": "https://cursor.com/blog/agent-autonomy-auto-review"
     },
     {
-      "id": "content-item_2026-06-11_05_cohere-releases-north-mini-code-an-open-developer-model-for-coding-agent_3b631680",
+      "id": "content-item_2026-06-12_06_doordash-launches-ask-doordash-for-prompt-and-photo-based-ordering_c3ff3dce",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "DoorDash launches Ask DoorDash for prompt- and photo-based ordering",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
+    },
+    {
+      "id": "content-item_2026-06-12_07_deezer-releases-a-free-tool-to-detect-ai-generated-music-in-playlists_4f9aae06",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Deezer releases a free tool to detect AI-generated music in playlists",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
+    },
+    {
+      "id": "content-item_2026-06-12_08_google-deepmind-funds-research-into-risks-from-large-scale-agent-interac_11e089b7",
+      "sourceKind": "article",
+      "sourceName": "MIT Technology Review",
+      "title": "Google DeepMind funds research into risks from large-scale agent interaction",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+    },
+    {
+      "id": "content-item_2026-06-12_09_hugging-face-opens-openenv-governance-for-agentic-reinforcement-learning_fbaf22fc",
       "sourceKind": "research",
-      "sourceName": "Hugging Face / CohereLabs",
-      "title": "Cohere releases North Mini Code, an open developer model for coding agents",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face opens OpenEnv governance for agentic reinforcement learning",
+      "sourceUrl": "https://huggingface.co/blog/openenv-agentic-rl"
+    },
+    {
+      "id": "content-item_2026-06-12_10_cohere-releases-north-mini-code-its-first-developer-focused-model_3b631680",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog / CohereLabs",
+      "title": "Cohere releases North Mini Code, its first developer-focused model",
       "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
     },
     {
-      "id": "content-item_2026-06-11_06_servicenow-benchmarks-voice-agents-on-bilingual-code-switched-speech_7a24901e",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face / ServiceNow-AI",
-      "title": "ServiceNow benchmarks voice agents on bilingual, code-switched speech",
-      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
-    },
-    {
-      "id": "content-item_2026-06-11_07_lseg-says-openai-tools-shortened-ai-product-cycles-from-months-to-weeks_2be94cf7",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "LSEG says OpenAI tools shortened AI product cycles from months to weeks",
-      "sourceUrl": "https://openai.com/index/lseg"
-    },
-    {
-      "id": "content-item_2026-06-11_08_nextdoor-describes-codex-as-a-shift-toward-outcome-engineering_126a227c",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "Nextdoor describes Codex as a shift toward outcome engineering",
-      "sourceUrl": "https://openai.com/index/nextdoor/"
-    },
-    {
-      "id": "content-item_2026-06-11_09_niteshift-launches-with-7m-to-reduce-coding-agent-lock-in_affdd374",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Niteshift launches with $7M to reduce coding-agent lock-in",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
-    },
-    {
-      "id": "content-item_2026-06-11_10_decart-s-oasis-3-world-model-opens-real-time-driving-simulation-via-api_ece3b0d9",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Decart’s Oasis 3 world model opens real-time driving simulation via API",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
-    },
-    {
-      "id": "content-item_2026-06-11_11_mvanhorn-last30days-skill_01e478ba",
+      "id": "content-item_2026-06-12_11_anomalyco-opencode_adbef724",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "mvanhorn/last30days-skill",
-      "sourceUrl": "https://github.com/mvanhorn/last30days-skill"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "anomalyco/opencode",
+      "sourceUrl": "https://github.com/anomalyco/opencode"
     },
     {
-      "id": "content-item_2026-06-11_12_harry0703-moneyprinterturbo_ec9a31b7",
+      "id": "content-item_2026-06-12_12_activeloopai-hivemind_a25b0476",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "activeloopai/hivemind",
+      "sourceUrl": "https://github.com/activeloopai/hivemind"
     },
     {
-      "id": "content-item_2026-06-11_13_roboflow-supervision_32f1cc1e",
+      "id": "content-item_2026-06-12_13_nvidia-skillspector_e30f8dee",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "roboflow/supervision",
-      "sourceUrl": "https://github.com/roboflow/supervision"
+      "sourceName": "GitHub Trending Python",
+      "title": "NVIDIA/SkillSpector",
+      "sourceUrl": "https://github.com/NVIDIA/SkillSpector"
     }
   ]
 }

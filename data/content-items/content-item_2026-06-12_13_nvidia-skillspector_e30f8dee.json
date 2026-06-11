@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-12_13_nvidia-skillspector_e30f8dee",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/NVIDIA/SkillSpector",
+  "canonicalUrl": "https://github.com/NVIDIA/SkillSpector",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-11T20:05:32Z",
+  "createdAtUtc": "2026-06-11T20:05:32Z",
+  "updatedAtUtc": "2026-06-11T20:05:32Z",
+  "title": "NVIDIA/SkillSpector",
+  "friendlyTitle": "SkillSpector: a security scanner for AI agent skills",
+  "summary": "SkillSpector is an NVIDIA security scanner for AI-agent skills that checks repositories, URLs, ZIPs, directories, or SKILL.md files for vulnerabilities, malicious patterns, and supply-chain risks. It scans across categories including prompt injection, data exfiltration, privilege escalation, and MCP tool poisoning.",
+  "friendlySummary": "NVIDIA’s SkillSpector checks AI agent skills for security problems before they are installed. It looks for issues such as prompt injection, data leaks, dangerous scripts, and risky MCP tools.",
+  "whyItMatters": "Agent users and platform builders can run it before installing third-party skills, or integrate its JSON/SARIF output into review and CI workflows for safer agent ecosystems.",
+  "friendlyWhyItMatters": "This is useful for anyone installing third-party agent skills. It gives teams a way to review agent extensions before trusting them with files and tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-12"
+  }
+}
