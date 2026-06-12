@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "recordType": "DailyPublication",
-  "id": "daily-publication_2026-06-12",
-  "slug": "2026-06-12",
+  "id": "daily-publication_2026-06-13",
+  "slug": "2026-06-13",
   "status": "published",
-  "publicationDateUtc": "2026-06-11T20:00:00Z",
+  "publicationDateUtc": "2026-06-12T20:00:00Z",
   "displayTimeZone": "Australia/Sydney",
-  "header": "Agents move from demos to daily infrastructure",
-  "friendlyHeader": "AI agents are becoming everyday tools",
-  "summary": "Today’s issue tracks AI moving into the operating layer of work: persistent coding agents, faster open models, live translation, safer autonomy controls, and practical consumer tools. The through-line is less about spectacle and more about where AI starts reducing friction in everyday decisions, workflows, and creative systems.",
-  "friendlySummary": "Today’s brief looks at AI becoming more useful in normal work and life: coding agents that can keep working, faster models, live voice translation, safer controls, and tools for shopping and music. The big story is practical AI moving from demos into daily routines.",
+  "header": "AI moves deeper into work, security, and personal tools",
+  "friendlyHeader": "AI is becoming part of everyday work",
+  "summary": "Today’s issue focuses on practical AI adoption: enterprise rollouts, agent workspaces, model evaluation, cyber risk, local agents, and the open-source tools shaping how people build with AI. The useful signal is clear: AI is becoming less of a standalone chatbot and more of an operating layer for work, learning, software, and trust.",
+  "friendlySummary": "Today’s brief looks at how AI is showing up in normal work and daily decisions: banking, education, coding, security, live tools, and open-source projects. The main theme is practical AI moving from experiments into systems people actually rely on.",
   "contentItemRefs": [
     {
-      "contentItemId": "content-item_2026-06-12_01_openai-plans-to-acquire-ona-to-give-codex-persistent-cloud-workspaces_6600f3e4",
+      "contentItemId": "content-item_2026-06-13_01_anthropic-and-tcs-partner-to-bring-claude-into-regulated-industries_c63ebd83",
       "position": 1,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -23,7 +23,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_02_google-introduces-diffusiongemma-an-experimental-open-model-for-faster-t_d9665153",
+      "contentItemId": "content-item_2026-06-13_02_openai-academy-adds-courses-for-practical-ai-workflows-and-agents-at-wor_e17db838",
       "position": 2,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -34,7 +34,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_03_gemini-3-5-live-translate-brings-near-real-time-voice-translation-to-goo_8065dada",
+      "contentItemId": "content-item_2026-06-13_03_preply-shows-how-ai-lesson-summaries-can-support-human-tutoring_dcc2fd07",
       "position": 3,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -45,7 +45,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_04_anthropic-launches-claude-corps-with-a-150-million-nonprofit-fellowship_e1ca2354",
+      "contentItemId": "content-item_2026-06-13_04_bbva-scales-chatgpt-enterprise-to-more-than-100-000-employees_a9f0898c",
       "position": 4,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -56,7 +56,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_05_cursor-details-auto-review-for-governing-coding-agent-autonomy_922dce3d",
+      "contentItemId": "content-item_2026-06-13_05_anthropic-measures-how-llm-agents-can-speed-up-n-day-exploit-development_584783ac",
       "position": 5,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -67,7 +67,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_06_doordash-launches-ask-doordash-for-prompt-and-photo-based-ordering_c3ff3dce",
+      "contentItemId": "content-item_2026-06-13_06_apple-shows-how-to-run-local-agentic-ai-on-mac-with-mlx_793b2220",
       "position": 6,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -78,7 +78,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_07_deezer-releases-a-free-tool-to-detect-ai-generated-music-in-playlists_4f9aae06",
+      "contentItemId": "content-item_2026-06-13_07_ai2-releases-olmo-eval-for-iterative-model-evaluation_80b8efd8",
       "position": 7,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -89,7 +89,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_08_google-deepmind-funds-research-into-risks-from-large-scale-agent-interac_11e089b7",
+      "contentItemId": "content-item_2026-06-13_08_cohere-releases-north-mini-code-an-open-model-for-agentic-software-engin_3b631680",
       "position": 8,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -100,7 +100,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_09_hugging-face-opens-openenv-governance-for-agentic-reinforcement-learning_fbaf22fc",
+      "contentItemId": "content-item_2026-06-13_09_google-targets-ai-powered-phishing-in-a-new-york-lawsuit_6357666c",
       "position": 9,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -111,7 +111,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_10_cohere-releases-north-mini-code-its-first-developer-focused-model_3b631680",
+      "contentItemId": "content-item_2026-06-13_10_german-court-ruling-treats-google-ai-overviews-as-google-s-own-statement_79d3c2f2",
       "position": 10,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -122,7 +122,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_11_anomalyco-opencode_adbef724",
+      "contentItemId": "content-item_2026-06-13_11_anomalyco-opencode_adbef724",
       "position": 11,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -133,7 +133,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_12_activeloopai-hivemind_a25b0476",
+      "contentItemId": "content-item_2026-06-13_12_nvidia-skillspector_e30f8dee",
       "position": 12,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -144,7 +144,7 @@
       "overrideFriendlyWhyItMatters": null
     },
     {
-      "contentItemId": "content-item_2026-06-12_13_nvidia-skillspector_e30f8dee",
+      "contentItemId": "content-item_2026-06-13_13_maziyarpanahi-openmed_c0e198ef",
       "position": 13,
       "displayRole": "primary",
       "overrideTitle": null,
@@ -158,7 +158,7 @@
   "createdAtUtc": "2026-06-12T20:11:19Z",
   "updatedAtUtc": "2026-06-12T20:11:19Z",
   "metadata": {
-    "legacySource": "final_issue_2026-06-12.json",
+    "legacySource": "final_issue_2026-06-13.json",
     "itemCount": 13
   }
 }

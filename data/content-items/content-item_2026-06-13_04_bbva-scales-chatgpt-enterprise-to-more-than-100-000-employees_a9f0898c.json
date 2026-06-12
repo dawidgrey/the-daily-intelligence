@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_04_bbva-scales-chatgpt-enterprise-to-more-than-100-000-employees_a9f0898c",
+  "sourceKind": "article",
+  "sourceName": "OpenAI / BBVA",
+  "sourceUrl": "https://openai.com/index/bbva",
+  "canonicalUrl": "https://openai.com/index/bbva",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "BBVA scales ChatGPT Enterprise to more than 100,000 employees",
+  "friendlyTitle": "BBVA brings ChatGPT Enterprise to over 100,000 workers",
+  "summary": "OpenAI said BBVA has expanded ChatGPT Enterprise from an initial 3,000-person deployment to more than 100,000 employees globally. The bank reports more than 70% weekly active usage, around three hours saved per employee per week, and thousands of custom GPTs created across teams.",
+  "friendlySummary": "BBVA has rolled out ChatGPT Enterprise across a large part of the bank. OpenAI says employees use it for tasks across risk, operations, software development, customer work, and productivity.",
+  "whyItMatters": "Large-scale bank adoption is a useful benchmark for enterprise AI because financial institutions must manage security, compliance, and governance. It suggests that everyday AI productivity tools are becoming part of core operating models, not just side experiments.",
+  "friendlyWhyItMatters": "Banks move carefully, so this is a strong signal that workplace AI is becoming normal inside regulated companies. It also shows that training and governance matter as much as the tool itself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

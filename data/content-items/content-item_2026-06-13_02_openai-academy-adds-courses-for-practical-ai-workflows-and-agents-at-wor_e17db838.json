@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_02_openai-academy-adds-courses-for-practical-ai-workflows-and-agents-at-wor_e17db838",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "canonicalUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "OpenAI Academy adds courses for practical AI workflows and agents at work",
+  "friendlyTitle": "OpenAI adds work-focused AI training courses",
+  "summary": "OpenAI introduced three Academy courses: AI Foundations, Applied AI Foundations, and Agents and Workflows. The curriculum is designed to help employees move from basic prompting to repeatable AI workflows, agent direction, boundaries, checkpoints, and human review.",
+  "friendlySummary": "OpenAI Academy now has courses that teach people how to use AI in everyday work, build repeatable workflows, and guide agents with clearer instructions and review steps.",
+  "whyItMatters": "The bottleneck in workplace AI is often not access to a model, but knowing how to turn it into safe, repeatable habits. Structured training around agents and workflows gives teams a more realistic adoption path than asking everyone to improvise with chat prompts.",
+  "friendlyWhyItMatters": "This is useful because many workers have AI access but little structure. Training people on workflows and oversight can make AI more helpful and less chaotic.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

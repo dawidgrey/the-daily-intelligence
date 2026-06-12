@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-11T20:05:32Z",
+  "generatedAtUtc": "2026-06-12T20:11:19Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-13",
+      "slug": "2026-06-13",
+      "status": "published",
+      "publicationDateUtc": "2026-06-12T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves deeper into work, security, and personal tools",
+      "friendlyHeader": "AI is becoming part of everyday work",
+      "summary": "Today’s issue focuses on practical AI adoption: enterprise rollouts, agent workspaces, model evaluation, cyber risk, local agents, and the open-source tools shaping how people build with AI. The useful signal is clear: AI is becoming less of a standalone chatbot and more of an operating layer for work, learning, software, and trust.",
+      "friendlySummary": "Today’s brief looks at how AI is showing up in normal work and daily decisions: banking, education, coding, security, live tools, and open-source projects. The main theme is practical AI moving from experiments into systems people actually rely on.",
+      "itemCount": 13,
+      "href": "issues/2026-06-13.html",
+      "dataUrl": "data/daily-publications/2026-06-13.json"
+    },
     {
       "id": "daily-publication_2026-06-12",
       "slug": "2026-06-12",

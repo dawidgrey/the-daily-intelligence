@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_13_maziyarpanahi-openmed_c0e198ef",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/maziyarpanahi/openmed",
+  "canonicalUrl": "https://github.com/maziyarpanahi/openmed",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "maziyarpanahi/openmed",
+  "friendlyTitle": "OpenMed: local-first healthcare AI",
+  "summary": "OpenMed is an open-source, local-first healthcare AI toolkit for clinical named entity recognition, PII detection, de-identification, and specialized biomedical models. It supports Python, Dockerized REST APIs, batch processing, Apple MLX acceleration, and offline or air-gapped operation.",
+  "friendlySummary": "OpenMed is an open-source healthcare AI toolkit that can identify medical terms and remove private patient information from text while running locally.",
+  "whyItMatters": "Healthcare teams and builders can use it to extract structured information from clinical text or de-identify sensitive records locally, without sending patient data to a cloud vendor.",
+  "friendlyWhyItMatters": "It is useful for healthcare projects that need privacy. Teams can process clinical text on their own machines or servers instead of sending sensitive data to an outside API.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

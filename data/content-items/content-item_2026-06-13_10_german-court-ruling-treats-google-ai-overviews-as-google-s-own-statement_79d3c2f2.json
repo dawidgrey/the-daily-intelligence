@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_10_german-court-ruling-treats-google-ai-overviews-as-google-s-own-statement_79d3c2f2",
+  "sourceKind": "regulation",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "canonicalUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "German court ruling treats Google AI Overviews as Google’s own statements",
+  "friendlyTitle": "A German court says AI search summaries can create liability",
+  "summary": "The Decoder reports that a Munich regional court ruled Google can be directly liable for false claims made in AI Overviews, treating the generated summaries as Google’s own content rather than ordinary search results. The case involved false allegations about two publishers and is not yet final.",
+  "friendlySummary": "A Munich court reportedly ruled that Google’s AI Overviews are Google’s own statements when they make claims, not just normal search results. The decision involved false claims about two publishers and is not final.",
+  "whyItMatters": "AI search products are becoming answer engines, not just link lists. If courts hold platforms responsible for generated claims, users may see more cautious answers while businesses gain clearer paths to challenge damaging AI summaries.",
+  "friendlyWhyItMatters": "This could affect how AI search tools answer questions. It may push companies to be more careful when their AI summaries make claims about people or businesses.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

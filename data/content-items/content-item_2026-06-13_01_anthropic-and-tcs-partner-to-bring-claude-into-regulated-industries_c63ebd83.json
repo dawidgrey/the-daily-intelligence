@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_01_anthropic-and-tcs-partner-to-bring-claude-into-regulated-industries_c63ebd83",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+  "canonicalUrl": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "Anthropic and TCS partner to bring Claude into regulated industries",
+  "friendlyTitle": "Claude is heading deeper into regulated industries",
+  "summary": "Anthropic announced a partnership with Tata Consultancy Services to deploy Claude across TCS and build Claude-powered offerings for financial services, healthcare, public sector, aviation, telecom, and other regulated clients. TCS plans to roll Claude out to 50,000 employees and package industry-specific workflows such as insurance claims processing and bank lending advisory.",
+  "friendlySummary": "Anthropic and TCS are working together to bring Claude to sectors such as banking, healthcare, public services, aviation, and telecom. TCS will also use Claude internally across tens of thousands of employees.",
+  "whyItMatters": "Regulated industries are where AI adoption is often slowed by auditability, compliance, and accuracy requirements. A large systems integrator bringing Claude into those workflows signals that enterprise AI is shifting from pilots toward governed production deployment.",
+  "friendlyWhyItMatters": "This matters because these industries cannot adopt AI casually. If the partnership works, it could show how companies use AI while still keeping compliance, review, and trust controls in place.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

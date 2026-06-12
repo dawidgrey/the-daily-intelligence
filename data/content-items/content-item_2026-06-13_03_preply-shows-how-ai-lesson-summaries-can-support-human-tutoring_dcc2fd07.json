@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_03_preply-shows-how-ai-lesson-summaries-can-support-human-tutoring_dcc2fd07",
+  "sourceKind": "article",
+  "sourceName": "OpenAI / Preply",
+  "sourceUrl": "https://openai.com/index/preply",
+  "canonicalUrl": "https://openai.com/index/preply",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "Preply shows how AI lesson summaries can support human tutoring",
+  "friendlyTitle": "Preply uses AI to turn lessons into personalised feedback",
+  "summary": "OpenAI published a case study on Preply’s Lesson Insights feature, which uses lesson transcripts to generate summaries, grammar corrections, vocabulary notes, pronunciation feedback, and follow-up exercises. Preply says 75% of English-language learners and more than 70% of tutors use the feature.",
+  "friendlySummary": "Preply’s Lesson Insights feature analyses language lessons and creates summaries, corrections, vocabulary notes, pronunciation feedback, and practice exercises.",
+  "whyItMatters": "Education is a strong daily-life use case when AI strengthens, rather than replaces, the human relationship. Automated feedback can give learners clearer next steps while freeing tutors from repetitive preparation and note-writing.",
+  "friendlyWhyItMatters": "This is a practical example of AI helping learning. Students get clearer feedback, while tutors spend less time on admin and more time teaching.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

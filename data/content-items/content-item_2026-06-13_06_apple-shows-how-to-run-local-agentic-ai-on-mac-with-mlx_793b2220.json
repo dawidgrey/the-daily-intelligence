@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_06_apple-shows-how-to-run-local-agentic-ai-on-mac-with-mlx_793b2220",
+  "sourceKind": "youtube",
+  "sourceName": "Apple Developer",
+  "sourceUrl": "https://developer.apple.com/videos/play/wwdc2026/232/",
+  "canonicalUrl": "https://developer.apple.com/videos/play/wwdc2026/232/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "Apple shows how to run local agentic AI on Mac with MLX",
+  "friendlyTitle": "Apple explains local AI agents on Mac",
+  "summary": "Apple’s WWDC session demonstrates a local agentic AI stack using MLX, MLX-LM, and an OpenAI-compatible local server on Mac. The workflow lets coding agents and developer tools call local models, use tools, and keep inference on-device.",
+  "friendlySummary": "Apple showed how developers can run agent-style AI workflows on a Mac using MLX and a local OpenAI-compatible server. The model can stay on the device while the agent uses tools.",
+  "whyItMatters": "Local agents are attractive for privacy, cost control, low latency, and offline work. For developers and power users, Apple’s guidance makes on-device agent workflows feel less experimental and more like a real deployment pattern.",
+  "friendlyWhyItMatters": "This matters for privacy and cost. Some people and teams may prefer agents that work locally instead of sending code or data to a cloud model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "youtube",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

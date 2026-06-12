@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-11T20:05:32Z",
+  "generatedAtUtc": "2026-06-12T20:11:19Z",
   "items": [
     {
-      "id": "content-item_2026-06-12_01_openai-plans-to-acquire-ona-to-give-codex-persistent-cloud-workspaces_6600f3e4",
+      "id": "content-item_2026-06-13_01_anthropic-and-tcs-partner-to-bring-claude-into-regulated-industries_c63ebd83",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic and TCS partner to bring Claude into regulated industries",
+      "sourceUrl": "https://www.anthropic.com/news/tcs-anthropic-partnership"
+    },
+    {
+      "id": "content-item_2026-06-13_02_openai-academy-adds-courses-for-practical-ai-workflows-and-agents-at-wor_e17db838",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI plans to acquire Ona to give Codex persistent cloud workspaces",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona"
+      "title": "OpenAI Academy adds courses for practical AI workflows and agents at work",
+      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work"
     },
     {
-      "id": "content-item_2026-06-12_02_google-introduces-diffusiongemma-an-experimental-open-model-for-faster-t_d9665153",
+      "id": "content-item_2026-06-13_03_preply-shows-how-ai-lesson-summaries-can-support-human-tutoring_dcc2fd07",
+      "sourceKind": "article",
+      "sourceName": "OpenAI / Preply",
+      "title": "Preply shows how AI lesson summaries can support human tutoring",
+      "sourceUrl": "https://openai.com/index/preply"
+    },
+    {
+      "id": "content-item_2026-06-13_04_bbva-scales-chatgpt-enterprise-to-more-than-100-000-employees_a9f0898c",
+      "sourceKind": "article",
+      "sourceName": "OpenAI / BBVA",
+      "title": "BBVA scales ChatGPT Enterprise to more than 100,000 employees",
+      "sourceUrl": "https://openai.com/index/bbva"
+    },
+    {
+      "id": "content-item_2026-06-13_05_anthropic-measures-how-llm-agents-can-speed-up-n-day-exploit-development_584783ac",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google introduces DiffusionGemma, an experimental open model for faster text generation",
-      "sourceUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      "sourceName": "Anthropic Red Team",
+      "title": "Anthropic measures how LLM agents can speed up N-day exploit development",
+      "sourceUrl": "https://red.anthropic.com/2026/n-days/"
     },
     {
-      "id": "content-item_2026-06-12_03_gemini-3-5-live-translate-brings-near-real-time-voice-translation-to-goo_8065dada",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini 3.5 Live Translate brings near real-time voice translation to Google products",
-      "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      "id": "content-item_2026-06-13_06_apple-shows-how-to-run-local-agentic-ai-on-mac-with-mlx_793b2220",
+      "sourceKind": "youtube",
+      "sourceName": "Apple Developer",
+      "title": "Apple shows how to run local agentic AI on Mac with MLX",
+      "sourceUrl": "https://developer.apple.com/videos/play/wwdc2026/232/"
     },
     {
-      "id": "content-item_2026-06-12_04_anthropic-launches-claude-corps-with-a-150-million-nonprofit-fellowship_e1ca2354",
-      "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic launches Claude Corps with a $150 million nonprofit fellowship commitment",
-      "sourceUrl": "https://www.anthropic.com/news/claude-corps"
-    },
-    {
-      "id": "content-item_2026-06-12_05_cursor-details-auto-review-for-governing-coding-agent-autonomy_922dce3d",
-      "sourceKind": "product",
-      "sourceName": "Cursor",
-      "title": "Cursor details Auto-review for governing coding-agent autonomy",
-      "sourceUrl": "https://cursor.com/blog/agent-autonomy-auto-review"
-    },
-    {
-      "id": "content-item_2026-06-12_06_doordash-launches-ask-doordash-for-prompt-and-photo-based-ordering_c3ff3dce",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "DoorDash launches Ask DoorDash for prompt- and photo-based ordering",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
-    },
-    {
-      "id": "content-item_2026-06-12_07_deezer-releases-a-free-tool-to-detect-ai-generated-music-in-playlists_4f9aae06",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Deezer releases a free tool to detect AI-generated music in playlists",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
-    },
-    {
-      "id": "content-item_2026-06-12_08_google-deepmind-funds-research-into-risks-from-large-scale-agent-interac_11e089b7",
-      "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "Google DeepMind funds research into risks from large-scale agent interaction",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
-    },
-    {
-      "id": "content-item_2026-06-12_09_hugging-face-opens-openenv-governance-for-agentic-reinforcement-learning_fbaf22fc",
+      "id": "content-item_2026-06-13_07_ai2-releases-olmo-eval-for-iterative-model-evaluation_80b8efd8",
       "sourceKind": "research",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face opens OpenEnv governance for agentic reinforcement learning",
-      "sourceUrl": "https://huggingface.co/blog/openenv-agentic-rl"
+      "sourceName": "Hugging Face Blog / Ai2",
+      "title": "Ai2 releases olmo-eval for iterative model evaluation",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmo-eval"
     },
     {
-      "id": "content-item_2026-06-12_10_cohere-releases-north-mini-code-its-first-developer-focused-model_3b631680",
+      "id": "content-item_2026-06-13_08_cohere-releases-north-mini-code-an-open-model-for-agentic-software-engin_3b631680",
       "sourceKind": "research",
       "sourceName": "Hugging Face Blog / CohereLabs",
-      "title": "Cohere releases North Mini Code, its first developer-focused model",
+      "title": "Cohere releases North Mini Code, an open model for agentic software engineering",
       "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
     },
     {
-      "id": "content-item_2026-06-12_11_anomalyco-opencode_adbef724",
+      "id": "content-item_2026-06-13_09_google-targets-ai-powered-phishing-in-a-new-york-lawsuit_6357666c",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Google targets AI-powered phishing in a New York lawsuit",
+      "sourceUrl": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/"
+    },
+    {
+      "id": "content-item_2026-06-13_10_german-court-ruling-treats-google-ai-overviews-as-google-s-own-statement_79d3c2f2",
+      "sourceKind": "regulation",
+      "sourceName": "The Decoder",
+      "title": "German court ruling treats Google AI Overviews as Google’s own statements",
+      "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+    },
+    {
+      "id": "content-item_2026-06-13_11_anomalyco-opencode_adbef724",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
       "title": "anomalyco/opencode",
       "sourceUrl": "https://github.com/anomalyco/opencode"
     },
     {
-      "id": "content-item_2026-06-12_12_activeloopai-hivemind_a25b0476",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "activeloopai/hivemind",
-      "sourceUrl": "https://github.com/activeloopai/hivemind"
-    },
-    {
-      "id": "content-item_2026-06-12_13_nvidia-skillspector_e30f8dee",
+      "id": "content-item_2026-06-13_12_nvidia-skillspector_e30f8dee",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
       "title": "NVIDIA/SkillSpector",
       "sourceUrl": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "id": "content-item_2026-06-13_13_maziyarpanahi-openmed_c0e198ef",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "maziyarpanahi/openmed",
+      "sourceUrl": "https://github.com/maziyarpanahi/openmed"
     }
   ]
 }

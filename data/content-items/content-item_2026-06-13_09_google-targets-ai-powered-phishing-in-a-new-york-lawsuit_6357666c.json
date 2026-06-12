@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_09_google-targets-ai-powered-phishing-in-a-new-york-lawsuit_6357666c",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/",
+  "canonicalUrl": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "Google targets AI-powered phishing in a New York lawsuit",
+  "friendlyTitle": "Google sues over an AI-powered phishing kit",
+  "summary": "Reuters reports that Google sued the alleged makers of Outsider, a phishing kit that Google says helps criminals use AI tools to generate convincing fake sites and steal personal and financial information. Google said it detected more than 1.5 million URLs linked to Outsider between November and April.",
+  "friendlySummary": "Google says a phishing kit called Outsider helps criminals use AI to create fake websites and steal personal or financial information. Reuters reports Google found more than 1.5 million related URLs.",
+  "whyItMatters": "AI is improving both sides of cybersecurity: attackers can scale more convincing scams, while defenders use AI and legal action to disrupt infrastructure. For users, the practical advice remains direct navigation, cautious QR-code scanning, and faster reporting of suspicious messages.",
+  "friendlyWhyItMatters": "Scams are getting more convincing. People should be more careful with links, QR codes, and messages that push urgent action, even when they look polished.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItem",
-  "id": "content-item_2026-06-12_11_anomalyco-opencode_adbef724",
+  "id": "content-item_2026-06-13_11_anomalyco-opencode_adbef724",
   "sourceKind": "github",
   "sourceName": "GitHub Trending TypeScript",
   "sourceUrl": "https://github.com/anomalyco/opencode",
@@ -13,13 +13,13 @@
   "updatedAtUtc": "2026-06-12T20:11:19Z",
   "title": "anomalyco/opencode",
   "friendlyTitle": "OpenCode: an open-source coding agent",
-  "summary": "OpenCode is an open-source AI coding agent with terminal and desktop workflows, built-in planning and build agents, and broad package-manager support. It appeared among the top AI-related GitHub candidates collected for the issue.",
+  "summary": "OpenCode is a widely used open-source AI coding agent with terminal and desktop workflows, built-in planning and build agents, broad package-manager support, and active releases. It appeared as one of the most prominent AI-related GitHub candidates in the day’s collection.",
   "friendlySummary": "OpenCode is a popular open-source coding agent that runs in the terminal and also has a desktop app. It supports different agent modes for planning and building.",
   "whyItMatters": "Developers can use it as a transparent coding-agent alternative, inspect how agent workflows are implemented, or adapt its planning/build-agent pattern for their own tools.",
-  "friendlyWhyItMatters": "It is useful for developers who want a coding agent they can inspect, run locally, and adapt. Teams can also study its agent workflow design.",
+  "friendlyWhyItMatters": "It is useful for developers who want a coding agent they can inspect, run locally, and adapt. Teams can also study how its agent workflow is designed.",
   "tags": [],
   "metadata": {
     "legacyKind": "github",
-    "legacyPublicationSlug": "2026-06-12"
+    "legacyPublicationSlug": "2026-06-13"
   }
 }

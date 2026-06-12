@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-13_08_cohere-releases-north-mini-code-an-open-model-for-agentic-software-engin_3b631680",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog / CohereLabs",
+  "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "canonicalUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-12T20:11:19Z",
+  "createdAtUtc": "2026-06-12T20:11:19Z",
+  "updatedAtUtc": "2026-06-12T20:11:19Z",
+  "title": "Cohere releases North Mini Code, an open model for agentic software engineering",
+  "friendlyTitle": "Cohere releases an open coding model for agent workflows",
+  "summary": "Cohere released North Mini Code, a 30B-parameter sparse MoE model with 3B active parameters under Apache 2.0. The model is designed for agentic coding, terminal workflows, and software engineering tasks across multiple agent scaffolds.",
+  "friendlySummary": "North Mini Code is an open model built for coding agents, terminal work, and software engineering tasks. It is available through Hugging Face, OpenCode, and Cohere’s API.",
+  "whyItMatters": "Coding models are increasingly optimized for tool use and full agent loops, not just code-completion benchmarks. More capable open models give developers and companies more options for private, inspectable, and cost-controlled coding workflows.",
+  "friendlyWhyItMatters": "Developers get another open option for coding assistants. That matters for teams that want more control over cost, privacy, and how their coding tools work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-13"
+  }
+}
