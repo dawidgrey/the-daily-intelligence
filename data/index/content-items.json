@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-12T20:11:19Z",
+  "generatedAtUtc": "2026-06-13T20:09:29Z",
   "items": [
     {
-      "id": "content-item_2026-06-13_01_anthropic-and-tcs-partner-to-bring-claude-into-regulated-industries_c63ebd83",
-      "sourceKind": "product",
+      "id": "content-item_2026-06-14_01_anthropic-disables-fable-5-and-mythos-5-after-u-s-export-control-directi_b0d10e8d",
+      "sourceKind": "regulation",
       "sourceName": "Anthropic",
-      "title": "Anthropic and TCS partner to bring Claude into regulated industries",
-      "sourceUrl": "https://www.anthropic.com/news/tcs-anthropic-partnership"
+      "title": "Anthropic disables Fable 5 and Mythos 5 after U.S. export-control directive",
+      "sourceUrl": "https://www.anthropic.com/news/fable-mythos-access"
     },
     {
-      "id": "content-item_2026-06-13_02_openai-academy-adds-courses-for-practical-ai-workflows-and-agents-at-wor_e17db838",
+      "id": "content-item_2026-06-14_02_openai-will-acquire-ona-to-give-codex-persistent-secure-cloud-workspaces_e81195a0",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI Academy adds courses for practical AI workflows and agents at work",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      "title": "OpenAI will acquire Ona to give Codex persistent, secure cloud workspaces",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona/"
     },
     {
-      "id": "content-item_2026-06-13_03_preply-shows-how-ai-lesson-summaries-can-support-human-tutoring_dcc2fd07",
-      "sourceKind": "article",
-      "sourceName": "OpenAI / Preply",
-      "title": "Preply shows how AI lesson summaries can support human tutoring",
-      "sourceUrl": "https://openai.com/index/preply"
+      "id": "content-item_2026-06-14_03_openai-academy-adds-courses-for-ai-foundations-workflows-and-agents-at-w_7b41c34d",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI Academy adds courses for AI foundations, workflows, and agents at work",
+      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work/"
     },
     {
-      "id": "content-item_2026-06-13_04_bbva-scales-chatgpt-enterprise-to-more-than-100-000-employees_a9f0898c",
-      "sourceKind": "article",
-      "sourceName": "OpenAI / BBVA",
-      "title": "BBVA scales ChatGPT Enterprise to more than 100,000 employees",
-      "sourceUrl": "https://openai.com/index/bbva"
+      "id": "content-item_2026-06-14_04_gemini-3-5-live-translate-brings-near-real-time-speech-translation-to-70_8065dada",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Gemini 3.5 Live Translate brings near real-time speech translation to 70+ languages",
+      "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
     },
     {
-      "id": "content-item_2026-06-13_05_anthropic-measures-how-llm-agents-can-speed-up-n-day-exploit-development_584783ac",
+      "id": "content-item_2026-06-14_05_google-introduces-gemma-4-12b-for-local-multimodal-ai-on-laptops_9be096ef",
       "sourceKind": "research",
-      "sourceName": "Anthropic Red Team",
-      "title": "Anthropic measures how LLM agents can speed up N-day exploit development",
-      "sourceUrl": "https://red.anthropic.com/2026/n-days/"
+      "sourceName": "Google DeepMind",
+      "title": "Google introduces Gemma 4 12B for local multimodal AI on laptops",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
     },
     {
-      "id": "content-item_2026-06-13_06_apple-shows-how-to-run-local-agentic-ai-on-mac-with-mlx_793b2220",
-      "sourceKind": "youtube",
-      "sourceName": "Apple Developer",
-      "title": "Apple shows how to run local agentic AI on Mac with MLX",
-      "sourceUrl": "https://developer.apple.com/videos/play/wwdc2026/232/"
-    },
-    {
-      "id": "content-item_2026-06-13_07_ai2-releases-olmo-eval-for-iterative-model-evaluation_80b8efd8",
+      "id": "content-item_2026-06-14_06_google-deepmind-and-partners-open-a-10m-call-for-multi-agent-ai-safety-r_90b62352",
       "sourceKind": "research",
-      "sourceName": "Hugging Face Blog / Ai2",
-      "title": "Ai2 releases olmo-eval for iterative model evaluation",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmo-eval"
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind and partners open a $10M call for multi-agent AI safety research",
+      "sourceUrl": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
     },
     {
-      "id": "content-item_2026-06-13_08_cohere-releases-north-mini-code-an-open-model-for-agentic-software-engin_3b631680",
+      "id": "content-item_2026-06-14_07_hugging-face-redesigns-its-cli-for-coding-agents-as-well-as-humans_431ad766",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face redesigns its CLI for coding agents as well as humans",
+      "sourceUrl": "https://huggingface.co/blog/hf-cli-for-agents"
+    },
+    {
+      "id": "content-item_2026-06-14_08_cohere-releases-north-mini-code-an-open-model-for-agentic-coding_3b631680",
       "sourceKind": "research",
       "sourceName": "Hugging Face Blog / CohereLabs",
-      "title": "Cohere releases North Mini Code, an open model for agentic software engineering",
+      "title": "Cohere releases North Mini Code, an open model for agentic coding",
       "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
     },
     {
-      "id": "content-item_2026-06-13_09_google-targets-ai-powered-phishing-in-a-new-york-lawsuit_6357666c",
+      "id": "content-item_2026-06-14_09_kaggle-launches-a-multi-step-tool-attack-competition-for-ai-agent-securi_e5dcbf9b",
+      "sourceKind": "product",
+      "sourceName": "Kaggle",
+      "title": "Kaggle launches a multi-step tool-attack competition for AI agent security",
+      "sourceUrl": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks"
+    },
+    {
+      "id": "content-item_2026-06-14_10_anthropic-launches-claude-corps-with-a-150m-commitment-for-ai-fellowship_e1ca2354",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Google targets AI-powered phishing in a New York lawsuit",
-      "sourceUrl": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/"
+      "sourceName": "Anthropic",
+      "title": "Anthropic launches Claude Corps with a $150M commitment for AI fellowships",
+      "sourceUrl": "https://www.anthropic.com/news/claude-corps"
     },
     {
-      "id": "content-item_2026-06-13_10_german-court-ruling-treats-google-ai-overviews-as-google-s-own-statement_79d3c2f2",
-      "sourceKind": "regulation",
-      "sourceName": "The Decoder",
-      "title": "German court ruling treats Google AI Overviews as Google’s own statements",
-      "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
-    },
-    {
-      "id": "content-item_2026-06-13_11_anomalyco-opencode_adbef724",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "anomalyco/opencode",
-      "sourceUrl": "https://github.com/anomalyco/opencode"
-    },
-    {
-      "id": "content-item_2026-06-13_12_nvidia-skillspector_e30f8dee",
+      "id": "content-item_2026-06-14_11_nvidia-skillspector_e30f8dee",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
       "title": "NVIDIA/SkillSpector",
       "sourceUrl": "https://github.com/NVIDIA/SkillSpector"
     },
     {
-      "id": "content-item_2026-06-13_13_maziyarpanahi-openmed_c0e198ef",
+      "id": "content-item_2026-06-14_12_anomalyco-opencode_adbef724",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "anomalyco/opencode",
+      "sourceUrl": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "id": "content-item_2026-06-14_13_lmcache-lmcache_589bc978",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "maziyarpanahi/openmed",
-      "sourceUrl": "https://github.com/maziyarpanahi/openmed"
+      "title": "LMCache/LMCache",
+      "sourceUrl": "https://github.com/LMCache/LMCache"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-14_04_gemini-3-5-live-translate-brings-near-real-time-speech-translation-to-70_8065dada",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "canonicalUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-13T20:09:29Z",
+  "createdAtUtc": "2026-06-13T20:09:29Z",
+  "updatedAtUtc": "2026-06-13T20:09:29Z",
+  "title": "Gemini 3.5 Live Translate brings near real-time speech translation to 70+ languages",
+  "friendlyTitle": "Google’s new Gemini model translates speech almost live",
+  "summary": "Google released Gemini 3.5 Live Translate, an audio model for near real-time speech-to-speech translation across more than 70 languages. It is available in public preview for developers through the Gemini Live API and AI Studio, with rollouts planned for Google Translate and private preview in Google Meet.",
+  "friendlySummary": "Gemini 3.5 Live Translate can translate spoken conversations across more than 70 languages while preserving more natural pacing and tone. Developers can try it through Google’s Gemini Live API.",
+  "whyItMatters": "Live translation is one of the clearest daily-life AI use cases: travel, customer support, classrooms, healthcare, and global teams all benefit when language barriers shrink. The developer API also means this capability can start appearing inside third-party apps, calls, and services.",
+  "friendlyWhyItMatters": "This could make travel, meetings, lessons, and customer conversations easier when people do not share a language. It is a very practical AI use case.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-14"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-14",
+  "slug": "2026-06-14",
+  "status": "published",
+  "publicationDateUtc": "2026-06-13T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents need safer tools, steadier infrastructure, and better habits",
+  "friendlyHeader": "AI is becoming more practical, but also needs better guardrails",
+  "summary": "Today’s issue tracks the practical side of AI adoption: model access, persistent coding agents, workplace training, live translation, open models, agent security, and infrastructure that makes AI systems more useful in real work. The common thread is less glamour and more operating discipline: if AI is going to shape daily life for the better, it needs usable workflows, safer defaults, and tools people can actually trust.",
+  "friendlySummary": "Today’s brief looks at AI tools people can actually use: coding agents, workplace training, live translation, local models, security tests, and open-source projects. The main theme is simple: useful AI needs good workflows, strong safety checks, and infrastructure that keeps working after the demo ends.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-14_01_anthropic-disables-fable-5-and-mythos-5-after-u-s-export-control-directi_b0d10e8d",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_02_openai-will-acquire-ona-to-give-codex-persistent-secure-cloud-workspaces_e81195a0",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_03_openai-academy-adds-courses-for-ai-foundations-workflows-and-agents-at-w_7b41c34d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_04_gemini-3-5-live-translate-brings-near-real-time-speech-translation-to-70_8065dada",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_05_google-introduces-gemma-4-12b-for-local-multimodal-ai-on-laptops_9be096ef",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_06_google-deepmind-and-partners-open-a-10m-call-for-multi-agent-ai-safety-r_90b62352",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_07_hugging-face-redesigns-its-cli-for-coding-agents-as-well-as-humans_431ad766",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_08_cohere-releases-north-mini-code-an-open-model-for-agentic-coding_3b631680",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_09_kaggle-launches-a-multi-step-tool-attack-competition-for-ai-agent-securi_e5dcbf9b",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_10_anthropic-launches-claude-corps-with-a-150m-commitment-for-ai-fellowship_e1ca2354",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_11_nvidia-skillspector_e30f8dee",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_12_anomalyco-opencode_adbef724",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-14_13_lmcache-lmcache_589bc978",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-13T20:09:29Z",
+  "updatedAtUtc": "2026-06-13T20:09:29Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-14.json",
+    "itemCount": 13
+  }
+}

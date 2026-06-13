@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-14_10_anthropic-launches-claude-corps-with-a-150m-commitment-for-ai-fellowship_e1ca2354",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-corps",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-corps",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-13T20:09:29Z",
+  "createdAtUtc": "2026-06-13T20:09:29Z",
+  "updatedAtUtc": "2026-06-13T20:09:29Z",
+  "title": "Anthropic launches Claude Corps with a $150M commitment for AI fellowships",
+  "friendlyTitle": "Anthropic funds a fellowship to bring Claude into nonprofits",
+  "summary": "Anthropic launched Claude Corps, a fellowship program that will train 1,000 early-career fellows and place them full-time at nonprofits across the United States. The program begins with a $150 million Anthropic commitment and aims to help nonprofits adopt useful Claude workflows while giving fellows practical AI experience.",
+  "friendlySummary": "Claude Corps will train early-career fellows and place them at nonprofits to help build useful AI workflows. Anthropic says the first commitment is $150 million.",
+  "whyItMatters": "AI adoption is becoming a workforce and capability-building problem, not only a software rollout. Programs like this may show how smaller organizations can gain AI skills without hiring large technical teams or relying only on consultants.",
+  "friendlyWhyItMatters": "Nonprofits often lack the budget and staff to experiment with AI deeply. A fellowship model could help them turn AI into practical services and internal tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-14"
+  }
+}

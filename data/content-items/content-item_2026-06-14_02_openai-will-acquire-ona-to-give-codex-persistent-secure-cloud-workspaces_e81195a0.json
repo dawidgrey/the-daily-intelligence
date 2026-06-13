@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-14_02_openai-will-acquire-ona-to-give-codex-persistent-secure-cloud-workspaces_e81195a0",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/openai-to-acquire-ona/",
+  "canonicalUrl": "https://openai.com/index/openai-to-acquire-ona/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-13T20:09:29Z",
+  "createdAtUtc": "2026-06-13T20:09:29Z",
+  "updatedAtUtc": "2026-06-13T20:09:29Z",
+  "title": "OpenAI will acquire Ona to give Codex persistent, secure cloud workspaces",
+  "friendlyTitle": "OpenAI wants Codex agents to have safer cloud workspaces",
+  "summary": "OpenAI announced plans to acquire Ona, a company focused on secure cloud execution and orchestration technology. OpenAI says the deal will help Codex support long-running agent workflows inside customer-controlled cloud environments, with better governance, logging, and review.",
+  "friendlySummary": "OpenAI plans to buy Ona so Codex can run longer tasks in secure cloud environments. The goal is to let agents keep working while companies control access, logs, and review steps.",
+  "whyItMatters": "Coding agents are moving beyond short local sessions into work that may run for hours or days. Persistent, governed execution environments are a key missing piece for teams that want agents to do real production work without handing them uncontrolled access.",
+  "friendlyWhyItMatters": "This matters because useful agents need somewhere safe to work. A coding agent that runs for hours needs guardrails, not just a powerful model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-14"
+  }
+}

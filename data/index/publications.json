@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-12T20:11:19Z",
+  "generatedAtUtc": "2026-06-13T20:09:29Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-14",
+      "slug": "2026-06-14",
+      "status": "published",
+      "publicationDateUtc": "2026-06-13T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents need safer tools, steadier infrastructure, and better habits",
+      "friendlyHeader": "AI is becoming more practical, but also needs better guardrails",
+      "summary": "Today’s issue tracks the practical side of AI adoption: model access, persistent coding agents, workplace training, live translation, open models, agent security, and infrastructure that makes AI systems more useful in real work. The common thread is less glamour and more operating discipline: if AI is going to shape daily life for the better, it needs usable workflows, safer defaults, and tools people can actually trust.",
+      "friendlySummary": "Today’s brief looks at AI tools people can actually use: coding agents, workplace training, live translation, local models, security tests, and open-source projects. The main theme is simple: useful AI needs good workflows, strong safety checks, and infrastructure that keeps working after the demo ends.",
+      "itemCount": 13,
+      "href": "issues/2026-06-14.html",
+      "dataUrl": "data/daily-publications/2026-06-14.json"
+    },
     {
       "id": "daily-publication_2026-06-13",
       "slug": "2026-06-13",
