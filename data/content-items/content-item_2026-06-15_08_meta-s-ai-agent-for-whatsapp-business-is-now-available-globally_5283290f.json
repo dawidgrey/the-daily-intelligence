@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_08_meta-s-ai-agent-for-whatsapp-business-is-now-available-globally_5283290f",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+  "friendlyTitle": "WhatsApp Business is getting a global AI agent",
+  "summary": "TechCrunch reports that Meta is rolling out its Meta Business Agent globally in WhatsApp Business, with capabilities for answering questions, recommending products, booking appointments, qualifying leads and escalating to humans.",
+  "friendlySummary": "Meta’s business agent can answer customer questions, suggest products, book appointments and pass conversations to a person when needed.",
+  "whyItMatters": "AI agents are moving into the customer-service channels small businesses already use. For customers, this may mean faster replies; for businesses, it creates a new layer of automation and a new cost model tied to messaging and tokens.",
+  "friendlyWhyItMatters": "This could make small-business support faster and cheaper, especially for companies that already rely on WhatsApp to talk to customers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}

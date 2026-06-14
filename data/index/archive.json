@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-06-13T20:09:29Z",
+  "generatedAtUtc": "2026-06-14T20:14:30Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-06-15",
+      "slug": "2026-06-15",
+      "status": "published",
+      "publicationDateUtc": "2026-06-14T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos to daily workflows",
+      "friendlyHeader": "AI agents are moving into everyday work",
+      "summary": "Today’s brief tracks the practical edge of AI: frontier-model access rules, agent platforms moving into Microsoft 365, WhatsApp, GitHub and Codex, and the trust checks needed when AI-generated work enters professional life.",
+      "friendlySummary": "Today’s issue looks at useful AI changes for work and daily life: smarter assistants, coding tools, business agents, privacy infrastructure, and a reminder to check AI-generated claims before trusting them.",
+      "itemCount": 13,
+      "href": "issues/2026-06-15.html",
+      "dataUrl": "data/daily-publications/2026-06-15.json"
+    },
     {
       "id": "daily-publication_2026-06-14",
       "slug": "2026-06-14",

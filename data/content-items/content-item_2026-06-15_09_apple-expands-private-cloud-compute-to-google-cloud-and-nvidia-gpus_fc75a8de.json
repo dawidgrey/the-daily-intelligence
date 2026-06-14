@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_09_apple-expands-private-cloud-compute-to-google-cloud-and-nvidia-gpus_fc75a8de",
+  "sourceKind": "product",
+  "sourceName": "Apple Security Research",
+  "sourceUrl": "https://security.apple.com/blog/expanding-pcc/",
+  "canonicalUrl": "https://security.apple.com/blog/expanding-pcc/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "Apple expands Private Cloud Compute to Google Cloud and NVIDIA GPUs",
+  "friendlyTitle": "Apple is scaling private AI through Google Cloud and NVIDIA",
+  "summary": "Apple said it is extending Private Cloud Compute to run some Apple Intelligence workloads on Google Cloud using NVIDIA GPUs while preserving its PCC privacy requirements, including stateless computation and verifiable transparency.",
+  "friendlySummary": "Apple says some Apple Intelligence workloads will run on Google Cloud with NVIDIA GPUs, while keeping the privacy rules of Private Cloud Compute.",
+  "whyItMatters": "More capable personal AI often needs cloud inference, but users still need privacy guarantees. Apple’s approach is a notable attempt to scale AI reasoning and agentic tool use while keeping stronger constraints on what cloud providers can see.",
+  "friendlyWhyItMatters": "This matters because useful personal AI may need cloud power. The question is whether companies can provide that power without exposing personal data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}

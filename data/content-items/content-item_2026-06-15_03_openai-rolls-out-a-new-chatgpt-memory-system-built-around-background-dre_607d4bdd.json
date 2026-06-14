@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_03_openai-rolls-out-a-new-chatgpt-memory-system-built-around-background-dre_607d4bdd",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
+  "canonicalUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "OpenAI rolls out a new ChatGPT memory system built around background ‘dreaming’",
+  "friendlyTitle": "ChatGPT memory is getting more automatic and editable",
+  "summary": "OpenAI described a more scalable memory architecture for ChatGPT that synthesizes useful context across conversations, with reviewable memory summaries and controls for correcting or deleting remembered information.",
+  "friendlySummary": "OpenAI is upgrading ChatGPT’s memory so it can keep better track of useful context over time, while giving users a page to review and change what it remembers.",
+  "whyItMatters": "Personal AI gets more useful when it can remember goals, preferences and constraints accurately. The practical test is whether users can inspect and control that memory well enough to trust it for repeated daily work.",
+  "friendlyWhyItMatters": "A personal assistant is only helpful if it remembers the right things. Better controls matter because memory can save time, but wrong memory can quietly cause mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}

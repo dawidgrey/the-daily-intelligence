@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_07_github-copilot-sdk-reaches-general-availability_2d1ef409",
+  "sourceKind": "product",
+  "sourceName": "GitHub Changelog",
+  "sourceUrl": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+  "canonicalUrl": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "GitHub Copilot SDK reaches general availability",
+  "friendlyTitle": "GitHub’s Copilot SDK is ready for production use",
+  "summary": "GitHub announced that the Copilot SDK is generally available, giving developers a stable way to embed Copilot’s agent runtime, tool calling, file edits, streaming and multi-turn sessions into their own applications.",
+  "friendlySummary": "The Copilot SDK now lets developers build apps that use Copilot’s agent engine, including planning, tools, file edits and ongoing sessions.",
+  "whyItMatters": "Instead of every team building an agent orchestration layer from scratch, developers can now plug into a production-ready Copilot runtime. That could accelerate internal developer tools, CI assistants and custom coding workflows.",
+  "friendlyWhyItMatters": "This makes it easier for companies to build custom coding assistants without inventing all the plumbing themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}

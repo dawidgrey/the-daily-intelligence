@@ -1,94 +1,94 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-13T20:09:29Z",
+  "generatedAtUtc": "2026-06-14T20:14:30Z",
   "items": [
     {
-      "id": "content-item_2026-06-14_01_anthropic-disables-fable-5-and-mythos-5-after-u-s-export-control-directi_b0d10e8d",
+      "id": "content-item_2026-06-15_01_anthropic-says-us-directive-forced-it-to-disable-fable-5-and-mythos-5-fo_b0d10e8d",
       "sourceKind": "regulation",
       "sourceName": "Anthropic",
-      "title": "Anthropic disables Fable 5 and Mythos 5 after U.S. export-control directive",
+      "title": "Anthropic says US directive forced it to disable Fable 5 and Mythos 5 for all customers",
       "sourceUrl": "https://www.anthropic.com/news/fable-mythos-access"
     },
     {
-      "id": "content-item_2026-06-14_02_openai-will-acquire-ona-to-give-codex-persistent-secure-cloud-workspaces_e81195a0",
+      "id": "content-item_2026-06-15_02_openai-expands-codex-beyond-developers-with-role-specific-plugins-and-sh_5ae32ce5",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI will acquire Ona to give Codex persistent, secure cloud workspaces",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona/"
+      "title": "OpenAI expands Codex beyond developers with role-specific plugins and shareable Sites",
+      "sourceUrl": "https://openai.com/index/codex-for-every-role-tool-workflow/"
     },
     {
-      "id": "content-item_2026-06-14_03_openai-academy-adds-courses-for-ai-foundations-workflows-and-agents-at-w_7b41c34d",
+      "id": "content-item_2026-06-15_03_openai-rolls-out-a-new-chatgpt-memory-system-built-around-background-dre_607d4bdd",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI Academy adds courses for AI foundations, workflows, and agents at work",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work/"
+      "title": "OpenAI rolls out a new ChatGPT memory system built around background ‘dreaming’",
+      "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/"
     },
     {
-      "id": "content-item_2026-06-14_04_gemini-3-5-live-translate-brings-near-real-time-speech-translation-to-70_8065dada",
+      "id": "content-item_2026-06-15_04_openai-frontier-models-and-codex-become-available-on-aws_f5a536b1",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini 3.5 Live Translate brings near real-time speech translation to 70+ languages",
-      "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI frontier models and Codex become available on AWS",
+      "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
     },
     {
-      "id": "content-item_2026-06-14_05_google-introduces-gemma-4-12b-for-local-multimodal-ai-on-laptops_9be096ef",
-      "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google introduces Gemma 4 12B for local multimodal AI on laptops",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
-    },
-    {
-      "id": "content-item_2026-06-14_06_google-deepmind-and-partners-open-a-10m-call-for-multi-agent-ai-safety-r_90b62352",
-      "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind and partners open a $10M call for multi-agent AI safety research",
-      "sourceUrl": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
-    },
-    {
-      "id": "content-item_2026-06-14_07_hugging-face-redesigns-its-cli-for-coding-agents-as-well-as-humans_431ad766",
+      "id": "content-item_2026-06-15_05_microsoft-says-work-iq-apis-will-give-agents-governed-access-to-microsof_eb9cb07d",
       "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face redesigns its CLI for coding agents as well as humans",
-      "sourceUrl": "https://huggingface.co/blog/hf-cli-for-agents"
+      "sourceName": "Microsoft 365 Blog",
+      "title": "Microsoft says Work IQ APIs will give agents governed access to Microsoft 365 context",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/"
     },
     {
-      "id": "content-item_2026-06-14_08_cohere-releases-north-mini-code-an-open-model-for-agentic-coding_3b631680",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face Blog / CohereLabs",
-      "title": "Cohere releases North Mini Code, an open model for agentic coding",
-      "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
-    },
-    {
-      "id": "content-item_2026-06-14_09_kaggle-launches-a-multi-step-tool-attack-competition-for-ai-agent-securi_e5dcbf9b",
+      "id": "content-item_2026-06-15_06_microsoft-introduces-scout-an-always-on-personal-agent-for-microsoft-365_57989a6b",
       "sourceKind": "product",
-      "sourceName": "Kaggle",
-      "title": "Kaggle launches a multi-step tool-attack competition for AI agent security",
-      "sourceUrl": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks"
+      "sourceName": "Microsoft 365 Blog",
+      "title": "Microsoft introduces Scout, an always-on personal agent for Microsoft 365",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/"
     },
     {
-      "id": "content-item_2026-06-14_10_anthropic-launches-claude-corps-with-a-150m-commitment-for-ai-fellowship_e1ca2354",
+      "id": "content-item_2026-06-15_07_github-copilot-sdk-reaches-general-availability_2d1ef409",
+      "sourceKind": "product",
+      "sourceName": "GitHub Changelog",
+      "title": "GitHub Copilot SDK reaches general availability",
+      "sourceUrl": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/"
+    },
+    {
+      "id": "content-item_2026-06-15_08_meta-s-ai-agent-for-whatsapp-business-is-now-available-globally_5283290f",
       "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic launches Claude Corps with a $150M commitment for AI fellowships",
-      "sourceUrl": "https://www.anthropic.com/news/claude-corps"
+      "sourceName": "TechCrunch",
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
     },
     {
-      "id": "content-item_2026-06-14_11_nvidia-skillspector_e30f8dee",
+      "id": "content-item_2026-06-15_09_apple-expands-private-cloud-compute-to-google-cloud-and-nvidia-gpus_fc75a8de",
+      "sourceKind": "product",
+      "sourceName": "Apple Security Research",
+      "title": "Apple expands Private Cloud Compute to Google Cloud and NVIDIA GPUs",
+      "sourceUrl": "https://security.apple.com/blog/expanding-pcc/"
+    },
+    {
+      "id": "content-item_2026-06-15_10_gptzero-investigation-says-kpmg-agentic-ai-report-contained-widespread-f_1b958432",
+      "sourceKind": "article",
+      "sourceName": "GPTZero",
+      "title": "GPTZero investigation says KPMG agentic AI report contained widespread flawed citations",
+      "sourceUrl": "https://gptzero.me/news/investigations-kpmg/"
+    },
+    {
+      "id": "content-item_2026-06-15_11_nvidia-skillspector_e30f8dee",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
       "title": "NVIDIA/SkillSpector",
       "sourceUrl": "https://github.com/NVIDIA/SkillSpector"
     },
     {
-      "id": "content-item_2026-06-14_12_anomalyco-opencode_adbef724",
+      "id": "content-item_2026-06-15_12_andrewyng-aisuite_1b48712b",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "anomalyco/opencode",
-      "sourceUrl": "https://github.com/anomalyco/opencode"
+      "sourceName": "GitHub Trending Python",
+      "title": "andrewyng/aisuite",
+      "sourceUrl": "https://github.com/andrewyng/aisuite"
     },
     {
-      "id": "content-item_2026-06-14_13_lmcache-lmcache_589bc978",
+      "id": "content-item_2026-06-15_13_lmcache-lmcache_589bc978",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
       "title": "LMCache/LMCache",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_13_lmcache-lmcache_589bc978",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/LMCache/LMCache",
+  "canonicalUrl": "https://github.com/LMCache/LMCache",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "LMCache/LMCache",
+  "friendlyTitle": "LMCache/LMCache speeds up LLM serving",
+  "summary": "LMCache is a KV-cache layer for LLM workloads, aimed at speeding up inference and reducing repeated computation in serving systems.",
+  "friendlySummary": "LMCache helps reuse parts of LLM computation so applications can respond faster and waste less work.",
+  "whyItMatters": "Teams running LLM applications can use cache-aware serving to cut latency and cost, especially for repeated prompts, shared context and multi-turn workflows.",
+  "friendlyWhyItMatters": "It can lower cost and latency for teams serving AI apps with repeated context or many similar requests.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}

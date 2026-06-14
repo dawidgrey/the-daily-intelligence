@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-15_10_gptzero-investigation-says-kpmg-agentic-ai-report-contained-widespread-f_1b958432",
+  "sourceKind": "article",
+  "sourceName": "GPTZero",
+  "sourceUrl": "https://gptzero.me/news/investigations-kpmg/",
+  "canonicalUrl": "https://gptzero.me/news/investigations-kpmg/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-14T20:14:30Z",
+  "createdAtUtc": "2026-06-14T20:14:30Z",
+  "updatedAtUtc": "2026-06-14T20:14:30Z",
+  "title": "GPTZero investigation says KPMG agentic AI report contained widespread flawed citations",
+  "friendlyTitle": "A KPMG AI report shows why citations still need checking",
+  "summary": "GPTZero published an investigation alleging that KPMG’s agentic AI report contained extensive citation problems, including fake or distorted references and misattributed claims later summarized by City AM and other outlets.",
+  "friendlySummary": "GPTZero says a KPMG report about agentic AI had many flawed citations and questionable claims. KPMG reportedly removed the report and said it is reviewing what happened.",
+  "whyItMatters": "AI can speed up research and reporting, but professional output still needs source verification. The practical lesson for every team is simple: citation checks and human review are not optional when AI-generated work leaves the draft stage.",
+  "friendlyWhyItMatters": "AI can help write reports, but it can also produce confident-looking mistakes. Before sharing important work, someone still needs to verify the sources.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-15"
+  }
+}
