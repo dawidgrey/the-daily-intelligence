@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_09_reuters-ai-referred-shoppers-browse-longer-and-spend-more-per-visit_27fbfd32",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+  "canonicalUrl": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "Reuters: AI-referred shoppers browse longer and spend more per visit",
+  "friendlyTitle": "AI recommendations are sending higher-value shoppers to stores",
+  "summary": "Reuters reported Adobe Analytics data showing U.S. retail traffic referred by LLMs such as ChatGPT and Gemini rose 138% year over year in May. Adobe said AI-referred shoppers generated 53% more revenue per visit, converted 54% more often, and spent 53% more time on retail sites than non-AI referrals.",
+  "friendlySummary": "Adobe data reported by Reuters says shoppers coming from AI tools spend more time and money on retail sites. AI referral traffic also grew sharply from last year.",
+  "whyItMatters": "AI assistants are becoming a commerce discovery channel. Retailers and small businesses should make product pages accurate, structured, and easy for AI systems to understand, because recommendations may increasingly start inside chat tools.",
+  "friendlyWhyItMatters": "For businesses, being understandable to AI assistants may become as important as SEO. Clear product data, pricing, and useful pages matter more when shoppers start with ChatGPT or Gemini.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

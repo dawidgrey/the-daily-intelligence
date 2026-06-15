@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-14T20:14:30Z",
+  "generatedAtUtc": "2026-06-15T20:12:01Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-16",
+      "slug": "2026-06-16",
+      "status": "published",
+      "publicationDateUtc": "2026-06-15T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into daily operations",
+      "friendlyHeader": "AI agents are getting ready for real work",
+      "summary": "Today's issue tracks a practical shift in AI: agents are getting safer identities, more persistent workspaces, better voice interfaces, and clearer enterprise adoption paths. The signal is less about spectacle and more about where AI starts changing ordinary workflows, buying decisions, customer support, learning, and local development.",
+      "friendlySummary": "Today’s brief looks at useful AI changes you can actually act on: safer agent access, voice translation, workplace training, customer support automation, and open-source tools. The big theme is AI moving from chat boxes into everyday work systems.",
+      "itemCount": 13,
+      "href": "issues/2026-06-16.html",
+      "dataUrl": "data/daily-publications/2026-06-16.json"
+    },
     {
       "id": "daily-publication_2026-06-15",
       "slug": "2026-06-15",

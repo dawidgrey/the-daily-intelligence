@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_12_panniantong-agent-reach_d00d272b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/Panniantong/Agent-Reach",
+  "canonicalUrl": "https://github.com/Panniantong/Agent-Reach",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "Panniantong/Agent-Reach",
+  "friendlyTitle": "Agent Reach gives AI agents broader web access",
+  "summary": "Agent Reach is a capability layer that helps AI agents read and search web platforms including YouTube, GitHub, RSS feeds, X/Twitter, Reddit, Bilibili, and XiaoHongShu through selected open-source tools. It installs, configures, health-checks, and routes backends so agents can access external content more reliably.",
+  "friendlySummary": "Agent Reach helps agents connect to sources like YouTube, GitHub, RSS, and social platforms through command-line tools. It focuses on installing and checking the right backends for each source.",
+  "whyItMatters": "It can reduce the setup burden for research agents that need current web context. Treat it as infrastructure to audit carefully, especially because broad internet access expands an agent's permissions and risk surface.",
+  "friendlyWhyItMatters": "This is useful if your agent needs to research across many sites. Use it with clear permissions, because broader web access also means broader risk.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

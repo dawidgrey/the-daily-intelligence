@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_13_rohitg00-ai-engineering-from-scratch_1261f03c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "canonicalUrl": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "rohitg00/ai-engineering-from-scratch",
+  "friendlyTitle": "AI Engineering from Scratch is a full AI builder curriculum",
+  "summary": "AI Engineering from Scratch is an open-source curriculum with 503 lessons across 20 phases, covering math, machine learning, transformers, LLMs, multimodal systems, tools, MCP, agent engineering, infrastructure, safety, and capstone projects. Every lesson is designed to produce a reusable artifact such as a prompt, skill, agent, or MCP server.",
+  "friendlySummary": "This repo offers hundreds of lessons for learning AI engineering from fundamentals through agents and production systems. It is free, open source, and organized as a long-form learning path.",
+  "whyItMatters": "It is a structured path for developers who want to understand and build AI systems instead of only using APIs. Teams can also borrow its lesson structure for internal AI upskilling programs.",
+  "friendlyWhyItMatters": "Use it when you want a serious roadmap for becoming an AI builder. It can also help managers design team training beyond one-off prompt workshops.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_06_openai-academy-adds-courses-for-agents-and-repeatable-workflows_e17db838",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "canonicalUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "OpenAI Academy adds courses for agents and repeatable workflows",
+  "friendlyTitle": "OpenAI adds workplace courses for AI agents and workflows",
+  "summary": "OpenAI introduced three Academy courses: AI Foundations, Applied AI Foundations, and Agents and Workflows. The curriculum is designed to help employees move from one-off prompts to repeatable AI-enabled workflows with checkpoints, model choices, tools, and human oversight.",
+  "friendlySummary": "OpenAI’s new Academy courses teach people how to use AI for daily tasks, build repeatable workflows, and supervise agent-assisted work. The focus is practical adoption, not just AI theory.",
+  "whyItMatters": "The everyday productivity gap is increasingly about practice and process. Teams that learn to document reusable workflows and oversight points will get more value from AI than teams that treat prompting as a private improvisation skill.",
+  "friendlyWhyItMatters": "This is a reminder that AI skill is becoming workplace infrastructure. Useful teams will standardize good workflows instead of leaving everyone to invent their own prompts.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

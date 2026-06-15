@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_02_newcore-raises-66m-to-manage-identities-for-ai-agents_bf4c5682",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "NewCore raises $66M to manage identities for AI agents",
+  "friendlyTitle": "NewCore wants to give AI agents proper workplace IDs",
+  "summary": "Cybersecurity startup NewCore emerged from stealth with $66 million in seed funding to manage identities, permissions, and lifecycle controls for human workers, machines, and AI agents. Its product includes integrations for Claude Code, Codex, and Cursor so coding agents can access enterprise systems through managed identities rather than shared credentials.",
+  "friendlySummary": "NewCore raised $66 million to help companies control what AI agents can access. Its system gives agents managed permissions instead of loose passwords or shared API keys.",
+  "whyItMatters": "As agents gain access to codebases, ticketing systems, databases, and cloud services, identity becomes the safety layer. Companies adopting agents should start treating them like auditable digital workers with scoped permissions, revocation, and human approval paths.",
+  "friendlyWhyItMatters": "This is practical AI safety: not theory, but access control. If your team uses coding agents, identity and permission management should move up the checklist.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_05_openai-launches-partner-network-with-150m-enterprise-adoption-push_888bd1de",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+  "canonicalUrl": "https://openai.com/index/introducing-openai-partner-network",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "OpenAI launches Partner Network with $150M enterprise adoption push",
+  "friendlyTitle": "OpenAI is building a large partner network for enterprise AI",
+  "summary": "OpenAI announced a global Partner Network backed by a $150 million investment to help partners build, sell, and deliver AI solutions. The company says it aims to enable 300,000 certified consultants by the end of 2026 and highlighted enterprise deployments with Agilent, eBay, Paychex, and T-Mobile.",
+  "friendlySummary": "OpenAI is investing $150 million in partners who help companies deploy AI systems. It wants hundreds of thousands of consultants trained by the end of 2026.",
+  "whyItMatters": "The bottleneck in enterprise AI is shifting from model access to implementation: workflow redesign, integration, governance, and training. For buyers, partner ecosystems may become the practical route from pilots to production.",
+  "friendlyWhyItMatters": "For most companies, AI value comes from changing workflows, not just buying model access. This means more help should be available for turning experiments into working systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

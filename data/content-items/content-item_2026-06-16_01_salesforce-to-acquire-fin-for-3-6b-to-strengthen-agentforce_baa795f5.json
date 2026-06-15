@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_01_salesforce-to-acquire-fin-for-3-6b-to-strengthen-agentforce_baa795f5",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+  "credit": "@eoghan surfaced the deal on X",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "Salesforce to acquire Fin for $3.6B to strengthen Agentforce",
+  "friendlyTitle": "Salesforce is buying Fin to boost AI customer support",
+  "summary": "Salesforce signed an agreement to buy Fin, the AI customer-service platform formerly known as Intercom, for about $3.6 billion. Salesforce says Fin's team and technology will deepen Agentforce's service-agent capabilities across chat, WhatsApp, SMS, phone, Slack, and other support channels.",
+  "friendlySummary": "Salesforce plans to buy Fin, an AI customer-service platform, for about $3.6 billion. The goal is to make Salesforce’s Agentforce better at resolving customer questions across many channels.",
+  "whyItMatters": "Customer service is one of the first enterprise workflows where AI agents can produce measurable returns. For businesses, the deal is a sign that support automation is becoming core CRM infrastructure rather than a bolt-on chatbot.",
+  "friendlyWhyItMatters": "If you run or rely on customer support, expect more AI agents handling routine issues before a human steps in. The useful question is how well these systems escalate edge cases and keep context intact.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}

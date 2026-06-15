@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-16_08_google-cloud-proposes-open-knowledge-format-for-agent-readable-context_66eb7f00",
+  "sourceKind": "product",
+  "sourceName": "Google Cloud Blog",
+  "sourceUrl": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
+  "canonicalUrl": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-15T20:12:01Z",
+  "createdAtUtc": "2026-06-15T20:12:01Z",
+  "updatedAtUtc": "2026-06-15T20:12:01Z",
+  "title": "Google Cloud proposes Open Knowledge Format for agent-readable context",
+  "friendlyTitle": "Google Cloud wants company knowledge to be easier for agents to read",
+  "summary": "Google Cloud introduced Open Knowledge Format, a vendor-neutral specification that represents organizational knowledge as Markdown files with YAML frontmatter. The format is intended to make metadata, business definitions, runbooks, and other context portable across agents and systems.",
+  "friendlySummary": "Google Cloud introduced Open Knowledge Format, a simple Markdown-and-YAML way to package business context for AI systems. It is meant to make internal knowledge portable across tools.",
+  "whyItMatters": "AI agents are only as useful as the context they can reliably read. A simple file-based knowledge format could help teams turn scattered docs and data definitions into something both humans and agents can maintain.",
+  "friendlyWhyItMatters": "If your AI tools keep failing because they lack context, this is the kind of boring standard that can help. Better knowledge files can mean fewer hallucinated assumptions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-16"
+  }
+}
