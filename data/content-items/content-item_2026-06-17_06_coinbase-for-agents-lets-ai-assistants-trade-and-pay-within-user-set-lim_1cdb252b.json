@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_06_coinbase-for-agents-lets-ai-assistants-trade-and-pay-within-user-set-lim_1cdb252b",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "Coinbase for Agents lets AI assistants trade and pay within user-set limits",
+  "friendlyTitle": "Coinbase is letting AI agents help with trading",
+  "summary": "Coinbase launched Coinbase for Agents, allowing AI assistants such as ChatGPT and Claude to connect to Coinbase accounts, trade crypto, access market tools, and pay for research or compute through the x402 protocol. Coinbase says users can use their main account or a sandbox, with custom limits planned.",
+  "friendlySummary": "Coinbase introduced a tool that lets AI assistants connect to Coinbase accounts, trade crypto, and pay for some online services. Users can use a sandbox and Coinbase plans more custom limits.",
+  "whyItMatters": "Financial agents raise the stakes for permission design. The useful lesson is not to let agents act broadly, but to give them isolated portfolios, spending caps, service limits, and human review for consequential choices.",
+  "friendlyWhyItMatters": "Money-related AI needs strong limits. This is a good example of why people should set caps and review important actions before agents move real funds.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

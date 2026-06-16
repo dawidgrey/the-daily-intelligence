@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_11_egonex-ai-understand-anything-turns-codebases-into-explorable-knowledge_1bf41736",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/Egonex-AI/Understand-Anything",
+  "canonicalUrl": "https://github.com/Egonex-AI/Understand-Anything",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "Egonex-AI/Understand-Anything turns codebases into explorable knowledge graphs",
+  "friendlyTitle": "Understand Anything makes code easier to explore",
+  "summary": "Understand Anything analyzes codebases, documentation, and knowledge bases to build interactive graphs of files, functions, classes, dependencies, and domain concepts. It works alongside tools such as Claude Code, Codex, Cursor, Copilot, and Gemini CLI.",
+  "friendlySummary": "This GitHub project turns a codebase into an interactive map that shows files, functions, relationships, and business logic.",
+  "whyItMatters": "Use it to onboard into a large codebase, map architecture, search for business logic, or understand the impact of changes before committing. It is especially useful when AI coding agents need a clearer project map before making edits.",
+  "friendlyWhyItMatters": "It can help developers understand a new project faster and help AI coding tools avoid getting lost in a large codebase.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

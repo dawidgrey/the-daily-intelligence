@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_09_appviewx-launches-identity-security-for-enterprise-ai-agents_e4b9be1a",
+  "sourceKind": "product",
+  "sourceName": "AppViewX",
+  "sourceUrl": "https://www.appviewx.com/news/appviewx-launches-agent-identity-security-to-govern-agents-for-the-ai-and-quantum-era/",
+  "canonicalUrl": "https://www.appviewx.com/news/appviewx-launches-agent-identity-security-to-govern-agents-for-the-ai-and-quantum-era/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "AppViewX launches identity security for enterprise AI agents",
+  "friendlyTitle": "AppViewX wants to give AI agents safer identities",
+  "summary": "AppViewX launched Agent Identity Security, a product for discovering, governing, securing, and monitoring AI agents across enterprises. It combines AI agent governance with machine-identity and PKI controls, including an AI bill of materials, policy enforcement, and anomalous-behavior detection.",
+  "friendlySummary": "AppViewX launched a product that helps companies find, control, and monitor AI agents. It focuses on agent permissions, security policies, and unusual behavior.",
+  "whyItMatters": "As agents gain access to tools, credentials, and internal systems, identity becomes a core control layer. Businesses experimenting with agents need inventory, least privilege, audit evidence, and monitoring before agents quietly become shadow infrastructure.",
+  "friendlyWhyItMatters": "This helps companies avoid letting AI agents access too much data or too many tools without anyone noticing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

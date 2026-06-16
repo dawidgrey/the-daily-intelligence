@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-15T20:12:01Z",
+  "generatedAtUtc": "2026-06-16T20:15:04Z",
   "items": [
     {
-      "id": "content-item_2026-06-16_01_salesforce-to-acquire-fin-for-3-6b-to-strengthen-agentforce_baa795f5",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Salesforce to acquire Fin for $3.6B to strengthen Agentforce",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
-    },
-    {
-      "id": "content-item_2026-06-16_02_newcore-raises-66m-to-manage-identities-for-ai-agents_bf4c5682",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "NewCore raises $66M to manage identities for AI agents",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
-    },
-    {
-      "id": "content-item_2026-06-16_03_google-launches-gemini-3-5-live-translate-for-near-real-time-speech-tran_8065dada",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google launches Gemini 3.5 Live Translate for near real-time speech translation",
-      "sourceUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
-    },
-    {
-      "id": "content-item_2026-06-16_04_google-introduces-gemma-4-12b-for-local-multimodal-agents_9be096ef",
+      "id": "content-item_2026-06-17_01_glm-5-2-pushes-open-models-toward-long-horizon-coding-work_2ea3ccaf",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google introduces Gemma 4 12B for local multimodal agents",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
+      "sourceName": "Z.ai",
+      "title": "GLM-5.2 pushes open models toward long-horizon coding work",
+      "sourceUrl": "https://z.ai/blog/glm-5.2"
     },
     {
-      "id": "content-item_2026-06-16_05_openai-launches-partner-network-with-150m-enterprise-adoption-push_888bd1de",
+      "id": "content-item_2026-06-17_02_gpt-nl-shows-how-sovereign-ai-can-be-built-around-local-language-law-and_d4f917da",
+      "sourceKind": "research",
+      "sourceName": "TNO",
+      "title": "GPT-NL shows how sovereign AI can be built around local language, law, and data rights",
+      "sourceUrl": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
+    },
+    {
+      "id": "content-item_2026-06-17_03_framer-adds-ai-agents-directly-inside-production-website-workflows_18798d53",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI launches Partner Network with $150M enterprise adoption push",
-      "sourceUrl": "https://openai.com/index/introducing-openai-partner-network"
+      "sourceName": "Framer / Business Wire",
+      "title": "Framer adds AI agents directly inside production website workflows",
+      "sourceUrl": "https://www.businesswire.com/news/home/20260616909966/en/"
     },
     {
-      "id": "content-item_2026-06-16_06_openai-academy-adds-courses-for-agents-and-repeatable-workflows_e17db838",
+      "id": "content-item_2026-06-17_04_openrouter-fusion-turns-multiple-models-into-a-single-research-answer_534f7645",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI Academy adds courses for agents and repeatable workflows",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      "sourceName": "OpenRouter",
+      "title": "OpenRouter Fusion turns multiple models into a single research answer",
+      "sourceUrl": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/"
     },
     {
-      "id": "content-item_2026-06-16_07_openai-plans-to-acquire-ona-to-give-codex-persistent-cloud-workspaces_6600f3e4",
+      "id": "content-item_2026-06-17_05_meta-expands-business-agent-for-customer-conversations-across-messaging_65dd5164",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI plans to acquire Ona to give Codex persistent cloud workspaces",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona"
+      "sourceName": "Meta Newsroom",
+      "title": "Meta expands Business Agent for customer conversations across messaging apps",
+      "sourceUrl": "https://about.fb.com/news/2026/06/meta-business-agent/"
     },
     {
-      "id": "content-item_2026-06-16_08_google-cloud-proposes-open-knowledge-format-for-agent-readable-context_66eb7f00",
-      "sourceKind": "product",
-      "sourceName": "Google Cloud Blog",
-      "title": "Google Cloud proposes Open Knowledge Format for agent-readable context",
-      "sourceUrl": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing"
-    },
-    {
-      "id": "content-item_2026-06-16_09_reuters-ai-referred-shoppers-browse-longer-and-spend-more-per-visit_27fbfd32",
+      "id": "content-item_2026-06-17_06_coinbase-for-agents-lets-ai-assistants-trade-and-pay-within-user-set-lim_1cdb252b",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: AI-referred shoppers browse longer and spend more per visit",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/"
+      "sourceName": "TechCrunch",
+      "title": "Coinbase for Agents lets AI assistants trade and pay within user-set limits",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
     },
     {
-      "id": "content-item_2026-06-16_10_cartesia-launches-sonic-3-5-and-ink-2-for-real-time-voice-ai_864fe4a1",
+      "id": "content-item_2026-06-17_07_ito-tests-pull-requests-by-running-the-app-not-just-reading-code_bf065308",
       "sourceKind": "product",
-      "sourceName": "Cartesia",
-      "title": "Cartesia launches Sonic-3.5 and Ink-2 for real-time voice AI",
-      "sourceUrl": "https://www.cartesia.ai/launch/"
+      "sourceName": "Ito",
+      "title": "Ito tests pull requests by running the app, not just reading code",
+      "sourceUrl": "https://www.ito.ai"
     },
     {
-      "id": "content-item_2026-06-16_11_nvidia-skillspector_e30f8dee",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "NVIDIA/SkillSpector",
-      "sourceUrl": "https://github.com/NVIDIA/SkillSpector"
+      "id": "content-item_2026-06-17_08_the-2026-ai-index-highlights-the-gap-between-capability-and-preparedness_659a5c34",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "The 2026 AI Index highlights the gap between capability and preparedness",
+      "sourceUrl": "https://arxiv.org/abs/2606.15708"
     },
     {
-      "id": "content-item_2026-06-16_12_panniantong-agent-reach_d00d272b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "Panniantong/Agent-Reach",
-      "sourceUrl": "https://github.com/Panniantong/Agent-Reach"
+      "id": "content-item_2026-06-17_09_appviewx-launches-identity-security-for-enterprise-ai-agents_e4b9be1a",
+      "sourceKind": "product",
+      "sourceName": "AppViewX",
+      "title": "AppViewX launches identity security for enterprise AI agents",
+      "sourceUrl": "https://www.appviewx.com/news/appviewx-launches-agent-identity-security-to-govern-agents-for-the-ai-and-quantum-era/"
     },
     {
-      "id": "content-item_2026-06-16_13_rohitg00-ai-engineering-from-scratch_1261f03c",
+      "id": "content-item_2026-06-17_10_fullstory-brings-behavioral-data-into-ai-tools-with-mcp-and-storyai-agen_a974ad89",
+      "sourceKind": "product",
+      "sourceName": "Fullstory",
+      "title": "Fullstory brings behavioral data into AI tools with MCP and StoryAI Agents",
+      "sourceUrl": "https://www.fullstory.com/fullstory-launches-new-solutions-to-power-intelligent-digital-experiences/"
+    },
+    {
+      "id": "content-item_2026-06-17_11_egonex-ai-understand-anything-turns-codebases-into-explorable-knowledge_1bf41736",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "Egonex-AI/Understand-Anything turns codebases into explorable knowledge graphs",
+      "sourceUrl": "https://github.com/Egonex-AI/Understand-Anything"
+    },
+    {
+      "id": "content-item_2026-06-17_12_openbmb-voxcpm-offers-open-multilingual-voice-generation-and-cloning_0d88eaa1",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "sourceUrl": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "title": "OpenBMB/VoxCPM offers open multilingual voice generation and cloning",
+      "sourceUrl": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "id": "content-item_2026-06-17_13_datawhalechina-hello-agents-teaches-agent-building-from-first-principles_5535012b",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "datawhalechina/hello-agents teaches agent building from first principles",
+      "sourceUrl": "https://github.com/datawhalechina/hello-agents"
     }
   ]
 }

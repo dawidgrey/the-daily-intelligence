@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_13_datawhalechina-hello-agents-teaches-agent-building-from-first-principles_5535012b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/datawhalechina/hello-agents",
+  "canonicalUrl": "https://github.com/datawhalechina/hello-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "datawhalechina/hello-agents teaches agent building from first principles",
+  "friendlyTitle": "Hello-Agents is a free course for learning AI agents",
+  "summary": "Hello-Agents is a structured, free learning project covering AI agent theory, ReAct-style patterns, low-code platforms, agent frameworks, memory, RAG, context engineering, protocols, evaluation, and practical multi-agent projects. It includes code, tutorials, and complete learning paths.",
+  "friendlySummary": "This GitHub project teaches how AI agents work and how to build them, with lessons, examples, and practical projects.",
+  "whyItMatters": "Use it as a curriculum for moving from basic LLM usage to building agent systems with memory, tools, evaluation, and multi-agent workflows. It is particularly useful for teams that need shared foundations before adopting agent platforms.",
+  "friendlyWhyItMatters": "It can help developers and teams learn the basics before they build or buy agent systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

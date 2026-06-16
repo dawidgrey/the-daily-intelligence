@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_03_framer-adds-ai-agents-directly-inside-production-website-workflows_18798d53",
+  "sourceKind": "product",
+  "sourceName": "Framer / Business Wire",
+  "sourceUrl": "https://www.businesswire.com/news/home/20260616909966/en/",
+  "canonicalUrl": "https://www.businesswire.com/news/home/20260616909966/en/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "Framer adds AI agents directly inside production website workflows",
+  "friendlyTitle": "Framer now has AI helpers for real websites",
+  "summary": "Framer launched Framer Agents, External Agents, Branching, and a new community layer for creating and maintaining production websites inside the Framer canvas. The agents can edit pages, components, styles, CMS content, SEO settings, and publishing workflows while teams review changes before shipping.",
+  "friendlySummary": "Framer added AI agents that can help create, edit, and maintain live website projects. Teams can review changes in branches before publishing them.",
+  "whyItMatters": "Website work is often continuous maintenance rather than one big launch. AI inside an editable production canvas can help teams make faster updates without turning every marketing or design change into a developer handoff.",
+  "friendlyWhyItMatters": "This can make website updates faster for designers, marketers, and small teams, while still giving people control before changes go live.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_05_meta-expands-business-agent-for-customer-conversations-across-messaging_65dd5164",
+  "sourceKind": "product",
+  "sourceName": "Meta Newsroom",
+  "sourceUrl": "https://about.fb.com/news/2026/06/meta-business-agent/",
+  "canonicalUrl": "https://about.fb.com/news/2026/06/meta-business-agent/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "Meta expands Business Agent for customer conversations across messaging apps",
+  "friendlyTitle": "Meta is bringing AI customer helpers to more businesses",
+  "summary": "Meta announced Meta Business Agent and an enterprise Business Agent Platform for customer support, product recommendations, appointment booking, lead qualification, and business-message summaries. Meta says more than one million businesses are already using a Business Agent on WhatsApp and Messenger, with expansion to Instagram.",
+  "friendlySummary": "Meta’s Business Agent can answer customer questions, recommend products, book appointments, and summarize messages across apps like WhatsApp, Messenger, and Instagram.",
+  "whyItMatters": "For small businesses, agentic customer service is moving into channels customers already use daily. The practical upside is faster responses and better triage; the risk is that businesses need clear escalation rules when a human should step in.",
+  "friendlyWhyItMatters": "This could help small businesses reply faster, but they still need simple rules for when a real person should take over.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}

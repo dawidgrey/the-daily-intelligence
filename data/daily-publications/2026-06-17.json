@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-17",
+  "slug": "2026-06-17",
+  "status": "published",
+  "publicationDateUtc": "2026-06-16T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agent products move from demos to daily operations",
+  "friendlyHeader": "AI agents are starting to do real work",
+  "summary": "Today’s issue tracks a practical shift: new models are stretching long-running work, while agent products are moving into websites, customer service, finance, security, analytics, and software testing. The useful question is less whether agents are coming, and more where guardrails, context, and human review need to sit.",
+  "friendlySummary": "Today’s issue looks at AI tools that can help with websites, customer service, finance, security, coding, research, and voice. The big theme: AI is becoming more useful when it has clear limits, good data, and people checking important decisions.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-17_01_glm-5-2-pushes-open-models-toward-long-horizon-coding-work_2ea3ccaf",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_02_gpt-nl-shows-how-sovereign-ai-can-be-built-around-local-language-law-and_d4f917da",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_03_framer-adds-ai-agents-directly-inside-production-website-workflows_18798d53",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_04_openrouter-fusion-turns-multiple-models-into-a-single-research-answer_534f7645",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_05_meta-expands-business-agent-for-customer-conversations-across-messaging_65dd5164",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_06_coinbase-for-agents-lets-ai-assistants-trade-and-pay-within-user-set-lim_1cdb252b",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_07_ito-tests-pull-requests-by-running-the-app-not-just-reading-code_bf065308",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_08_the-2026-ai-index-highlights-the-gap-between-capability-and-preparedness_659a5c34",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_09_appviewx-launches-identity-security-for-enterprise-ai-agents_e4b9be1a",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_10_fullstory-brings-behavioral-data-into-ai-tools-with-mcp-and-storyai-agen_a974ad89",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_11_egonex-ai-understand-anything-turns-codebases-into-explorable-knowledge_1bf41736",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_12_openbmb-voxcpm-offers-open-multilingual-voice-generation-and-cloning_0d88eaa1",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-17_13_datawhalechina-hello-agents-teaches-agent-building-from-first-principles_5535012b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-17.json",
+    "itemCount": 13
+  }
+}

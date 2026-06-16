@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-17_08_the-2026-ai-index-highlights-the-gap-between-capability-and-preparedness_659a5c34",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2606.15708",
+  "canonicalUrl": "https://arxiv.org/abs/2606.15708",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-16T20:15:04Z",
+  "createdAtUtc": "2026-06-16T20:15:04Z",
+  "updatedAtUtc": "2026-06-16T20:15:04Z",
+  "title": "The 2026 AI Index highlights the gap between capability and preparedness",
+  "friendlyTitle": "A major AI report says society is still catching up",
+  "summary": "The Artificial Intelligence Index Report 2026 argues that AI capabilities are advancing faster than governance frameworks, evaluation methods, education systems, and impact-measurement infrastructure. This edition adds more coverage of economic value, labor-market effects, AI sovereignty, science, and medicine.",
+  "friendlySummary": "The 2026 AI Index says AI is improving quickly, but rules, education, evaluation, and data systems are not keeping up at the same speed.",
+  "whyItMatters": "For leaders and practitioners, the report is a reminder to track organizational readiness, not just model benchmarks. Daily AI adoption depends on evaluation, training, data governance, and realistic measurement of where AI is helping or creating risk.",
+  "friendlyWhyItMatters": "This matters because using AI well is not only about better models. People and organizations also need better training, checks, and planning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-17"
+  }
+}
