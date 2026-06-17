@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-18_10_google-introduces-a-gemini-first-google-home-speaker_fb7274f4",
+  "sourceKind": "product",
+  "sourceName": "Google Blog",
+  "sourceUrl": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-17T20:12:04Z",
+  "createdAtUtc": "2026-06-17T20:12:04Z",
+  "updatedAtUtc": "2026-06-17T20:12:04Z",
+  "title": "Google introduces a Gemini-first Google Home Speaker",
+  "friendlyTitle": "Google’s new smart speaker is built around Gemini",
+  "summary": "Google announced a $99.99 Google Home Speaker built for Gemini for Home, with preorders open and retail availability planned for June 25. The device supports more natural smart-home commands, multi-step requests, mid-sentence corrections, Continued Conversation, and optional Google Home Premium features such as Gemini Live and camera history search.",
+  "friendlySummary": "Google announced a new Home Speaker that can understand more natural voice commands, handle follow-up questions, and control smart-home devices with Gemini.",
+  "whyItMatters": "Smart speakers have long been useful but rigid; Gemini could make home automation feel more conversational and forgiving. The catch is that some advanced features sit behind a subscription, so households will need to judge whether the convenience is worth the recurring cost.",
+  "friendlyWhyItMatters": "This could make home voice assistants easier to use, especially for multi-step requests, but some features may require a paid plan.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-18"
+  }
+}

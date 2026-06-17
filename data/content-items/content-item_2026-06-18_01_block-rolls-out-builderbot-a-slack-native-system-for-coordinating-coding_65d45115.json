@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-18_01_block-rolls-out-builderbot-a-slack-native-system-for-coordinating-coding_65d45115",
+  "sourceKind": "product",
+  "sourceName": "Block",
+  "sourceUrl": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship",
+  "canonicalUrl": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship",
+  "credit": "X trend signal noted Builderbot’s launch and Block’s internal usage figures",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-17T20:12:04Z",
+  "createdAtUtc": "2026-06-17T20:12:04Z",
+  "updatedAtUtc": "2026-06-17T20:12:04Z",
+  "title": "Block rolls out Builderbot, a Slack-native system for coordinating coding agents",
+  "friendlyTitle": "Block shows how coding agents can work inside Slack",
+  "summary": "Block says Builderbot coordinates multiple AI agents across its codebase from Slack threads, handling research, branches, pull requests, CI feedback, and iterative changes. The company says it now executes more than 200,000 operations a day and merges about 1,500 Builderbot-assisted pull requests per week.",
+  "friendlySummary": "Block built Builderbot so engineers can ask for code changes in Slack. The tool can plan work, write code, open pull requests, watch tests, and respond to feedback.",
+  "whyItMatters": "This is a concrete example of agentic coding moving from individual developer copilots to company-scale engineering infrastructure. For teams, the practical lesson is that workflow integration, permissions, CI loops, and human steering matter as much as model capability.",
+  "friendlyWhyItMatters": "This shows what AI coding may look like at work: not just one assistant in one editor, but many agents connected to the tools teams already use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-18"
+  }
+}

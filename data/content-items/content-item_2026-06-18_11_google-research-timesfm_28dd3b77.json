@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-18_11_google-research-timesfm_28dd3b77",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/google-research/timesfm",
+  "canonicalUrl": "https://github.com/google-research/timesfm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-17T20:12:04Z",
+  "createdAtUtc": "2026-06-17T20:12:04Z",
+  "updatedAtUtc": "2026-06-17T20:12:04Z",
+  "title": "google-research/timesfm",
+  "friendlyTitle": "Google’s TimesFM helps forecast time-based data",
+  "summary": "TimesFM is Google Research’s pretrained foundation model for time-series forecasting, with recent packaging and example updates and integrations across Google products such as BigQuery ML and Sheets workflows.",
+  "friendlySummary": "TimesFM is an open Google Research model for predicting future values from time-series data, like sales, traffic, or sensor readings.",
+  "whyItMatters": "Developers and analysts can use it to forecast demand, metrics, inventory, finance, operations, or sensor data without training a custom model from scratch. It is especially relevant for teams adding forecasting to dashboards, agents, or data pipelines.",
+  "friendlyWhyItMatters": "You can use it when you need forecasts without building a forecasting model from zero.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-18"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-18_03_openai-reports-a-near-autonomous-ai-chemistry-workflow-improved-a-drug-m_1a8cd099",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/ai-chemist-improves-reaction",
+  "canonicalUrl": "https://openai.com/index/ai-chemist-improves-reaction",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-17T20:12:04Z",
+  "createdAtUtc": "2026-06-17T20:12:04Z",
+  "updatedAtUtc": "2026-06-17T20:12:04Z",
+  "title": "OpenAI reports a near-autonomous AI chemistry workflow improved a drug-making reaction",
+  "friendlyTitle": "OpenAI used AI to help improve a chemistry process",
+  "summary": "OpenAI connected GPT-5.4 with Molecule.one’s Maria system and a high-throughput lab to improve a Chan–Lam coupling reaction used in medicinal chemistry. The team says the workflow found TEMPO-based conditions that improved yields for most tested substrates, while human chemists still reviewed and steered the process.",
+  "friendlySummary": "OpenAI says an AI-assisted lab workflow helped find better conditions for a useful drug-making reaction. Human chemists still checked and guided the work.",
+  "whyItMatters": "This is a practical example of AI contributing beyond text generation: proposing hypotheses, running lab loops, and testing whether ideas survive physical-world noise. For science-heavy businesses, it points toward faster experimental cycles with human oversight still in the loop.",
+  "friendlyWhyItMatters": "This matters because AI may help scientists test ideas faster, which could speed up work in medicine and materials.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-18"
+  }
+}

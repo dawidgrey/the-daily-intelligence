@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-18_12_paddlepaddle-paddleocr_e16b03a4",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/PaddlePaddle/PaddleOCR",
+  "canonicalUrl": "https://github.com/PaddlePaddle/PaddleOCR",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-17T20:12:04Z",
+  "createdAtUtc": "2026-06-17T20:12:04Z",
+  "updatedAtUtc": "2026-06-17T20:12:04Z",
+  "title": "PaddlePaddle/PaddleOCR",
+  "friendlyTitle": "PaddleOCR turns documents and images into AI-ready text",
+  "summary": "PaddleOCR is a large open-source OCR and document AI toolkit for turning PDFs and images into structured text, Markdown, or JSON for LLM, RAG, and agent workflows. Its current positioning emphasizes multilingual OCR, document parsing, tables, formulas, charts, and production deployment options.",
+  "friendlySummary": "PaddleOCR helps extract structured information from PDFs, scans, forms, images, and tables.",
+  "whyItMatters": "It can be the ingestion layer for document-heavy AI systems: scan contracts, forms, receipts, manuals, or PDFs, then pass structured output into search, RAG, or automation workflows. The broad language support makes it practical for international document pipelines.",
+  "friendlyWhyItMatters": "It is useful when you want AI to read messy documents and turn them into searchable or usable data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-18"
+  }
+}

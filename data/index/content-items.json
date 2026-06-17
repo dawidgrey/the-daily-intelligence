@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-16T20:15:04Z",
+  "generatedAtUtc": "2026-06-17T20:12:04Z",
   "items": [
     {
-      "id": "content-item_2026-06-17_01_glm-5-2-pushes-open-models-toward-long-horizon-coding-work_2ea3ccaf",
+      "id": "content-item_2026-06-18_01_block-rolls-out-builderbot-a-slack-native-system-for-coordinating-coding_65d45115",
+      "sourceKind": "product",
+      "sourceName": "Block",
+      "title": "Block rolls out Builderbot, a Slack-native system for coordinating coding agents",
+      "sourceUrl": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship"
+    },
+    {
+      "id": "content-item_2026-06-18_02_apodex-1-0-emphasizes-verified-deep-research-with-multi-agent-evidence-c_6c35e988",
       "sourceKind": "research",
-      "sourceName": "Z.ai",
-      "title": "GLM-5.2 pushes open models toward long-horizon coding work",
-      "sourceUrl": "https://z.ai/blog/glm-5.2"
+      "sourceName": "Apodex",
+      "title": "Apodex-1.0 emphasizes verified deep research with multi-agent evidence checking",
+      "sourceUrl": "https://www.apodex.com/blog/apodex-1.0"
     },
     {
-      "id": "content-item_2026-06-17_02_gpt-nl-shows-how-sovereign-ai-can-be-built-around-local-language-law-and_d4f917da",
+      "id": "content-item_2026-06-18_03_openai-reports-a-near-autonomous-ai-chemistry-workflow-improved-a-drug-m_1a8cd099",
       "sourceKind": "research",
-      "sourceName": "TNO",
-      "title": "GPT-NL shows how sovereign AI can be built around local language, law, and data rights",
-      "sourceUrl": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI reports a near-autonomous AI chemistry workflow improved a drug-making reaction",
+      "sourceUrl": "https://openai.com/index/ai-chemist-improves-reaction"
     },
     {
-      "id": "content-item_2026-06-17_03_framer-adds-ai-agents-directly-inside-production-website-workflows_18798d53",
+      "id": "content-item_2026-06-18_04_openai-details-deployment-simulation-for-testing-model-behavior-before-l_b387731f",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI details Deployment Simulation for testing model behavior before launch",
+      "sourceUrl": "https://openai.com/index/deployment-simulation"
+    },
+    {
+      "id": "content-item_2026-06-18_05_retool-launches-a-react-ai-app-builder-aimed-at-production-governance_665eb092",
       "sourceKind": "product",
-      "sourceName": "Framer / Business Wire",
-      "title": "Framer adds AI agents directly inside production website workflows",
-      "sourceUrl": "https://www.businesswire.com/news/home/20260616909966/en/"
+      "sourceName": "Retool",
+      "title": "Retool launches a React AI app builder aimed at production governance",
+      "sourceUrl": "https://retool.com/blog/retool-launches-react-ai-app-builder"
     },
     {
-      "id": "content-item_2026-06-17_04_openrouter-fusion-turns-multiple-models-into-a-single-research-answer_534f7645",
-      "sourceKind": "product",
-      "sourceName": "OpenRouter",
-      "title": "OpenRouter Fusion turns multiple models into a single research answer",
-      "sourceUrl": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/"
-    },
-    {
-      "id": "content-item_2026-06-17_05_meta-expands-business-agent-for-customer-conversations-across-messaging_65dd5164",
-      "sourceKind": "product",
-      "sourceName": "Meta Newsroom",
-      "title": "Meta expands Business Agent for customer conversations across messaging apps",
-      "sourceUrl": "https://about.fb.com/news/2026/06/meta-business-agent/"
-    },
-    {
-      "id": "content-item_2026-06-17_06_coinbase-for-agents-lets-ai-assistants-trade-and-pay-within-user-set-lim_1cdb252b",
+      "id": "content-item_2026-06-18_06_hugging-face-proposes-agentic-resource-discovery-for-finding-tools-skill_da3c8166",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Coinbase for Agents lets AI assistants trade and pay within user-set limits",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face proposes Agentic Resource Discovery for finding tools, skills, and agents",
+      "sourceUrl": "https://huggingface.co/blog/agentic-resource-discovery-launch"
     },
     {
-      "id": "content-item_2026-06-17_07_ito-tests-pull-requests-by-running-the-app-not-just-reading-code_bf065308",
+      "id": "content-item_2026-06-18_07_strands-robots-connects-hugging-face-lerobot-workflows-to-agent-controll_c7b6e0d1",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face Blog / Amazon",
+      "title": "Strands Robots connects Hugging Face LeRobot workflows to agent-controlled hardware",
+      "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    },
+    {
+      "id": "content-item_2026-06-18_08_google-deepmind-and-the-uk-government-test-gemini-for-faster-planning-ap_12ceb5f0",
       "sourceKind": "product",
-      "sourceName": "Ito",
-      "title": "Ito tests pull requests by running the app, not just reading code",
-      "sourceUrl": "https://www.ito.ai"
+      "sourceName": "Google DeepMind Blog",
+      "title": "Google DeepMind and the UK government test Gemini for faster planning applications",
+      "sourceUrl": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
     },
     {
-      "id": "content-item_2026-06-17_08_the-2026-ai-index-highlights-the-gap-between-capability-and-preparedness_659a5c34",
+      "id": "content-item_2026-06-18_09_anthropic-study-finds-domain-expertise-still-matters-in-agentic-coding_6bbeb682",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "The 2026 AI Index highlights the gap between capability and preparedness",
-      "sourceUrl": "https://arxiv.org/abs/2606.15708"
+      "sourceName": "Anthropic",
+      "title": "Anthropic study finds domain expertise still matters in agentic coding",
+      "sourceUrl": "https://www.anthropic.com/research/claude-code-expertise"
     },
     {
-      "id": "content-item_2026-06-17_09_appviewx-launches-identity-security-for-enterprise-ai-agents_e4b9be1a",
+      "id": "content-item_2026-06-18_10_google-introduces-a-gemini-first-google-home-speaker_fb7274f4",
       "sourceKind": "product",
-      "sourceName": "AppViewX",
-      "title": "AppViewX launches identity security for enterprise AI agents",
-      "sourceUrl": "https://www.appviewx.com/news/appviewx-launches-agent-identity-security-to-govern-agents-for-the-ai-and-quantum-era/"
+      "sourceName": "Google Blog",
+      "title": "Google introduces a Gemini-first Google Home Speaker",
+      "sourceUrl": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/"
     },
     {
-      "id": "content-item_2026-06-17_10_fullstory-brings-behavioral-data-into-ai-tools-with-mcp-and-storyai-agen_a974ad89",
-      "sourceKind": "product",
-      "sourceName": "Fullstory",
-      "title": "Fullstory brings behavioral data into AI tools with MCP and StoryAI Agents",
-      "sourceUrl": "https://www.fullstory.com/fullstory-launches-new-solutions-to-power-intelligent-digital-experiences/"
-    },
-    {
-      "id": "content-item_2026-06-17_11_egonex-ai-understand-anything-turns-codebases-into-explorable-knowledge_1bf41736",
+      "id": "content-item_2026-06-18_11_google-research-timesfm_28dd3b77",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "Egonex-AI/Understand-Anything turns codebases into explorable knowledge graphs",
-      "sourceUrl": "https://github.com/Egonex-AI/Understand-Anything"
+      "sourceName": "GitHub trending Python",
+      "title": "google-research/timesfm",
+      "sourceUrl": "https://github.com/google-research/timesfm"
     },
     {
-      "id": "content-item_2026-06-17_12_openbmb-voxcpm-offers-open-multilingual-voice-generation-and-cloning_0d88eaa1",
+      "id": "content-item_2026-06-18_12_paddlepaddle-paddleocr_e16b03a4",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "OpenBMB/VoxCPM offers open multilingual voice generation and cloning",
-      "sourceUrl": "https://github.com/OpenBMB/VoxCPM"
+      "sourceName": "GitHub trending Python",
+      "title": "PaddlePaddle/PaddleOCR",
+      "sourceUrl": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
-      "id": "content-item_2026-06-17_13_datawhalechina-hello-agents-teaches-agent-building-from-first-principles_5535012b",
+      "id": "content-item_2026-06-18_13_earendil-works-pi_b3718af9",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "datawhalechina/hello-agents teaches agent building from first principles",
-      "sourceUrl": "https://github.com/datawhalechina/hello-agents"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "earendil-works/pi",
+      "sourceUrl": "https://github.com/earendil-works/pi"
     }
   ]
 }
