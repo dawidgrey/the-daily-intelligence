@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_03_google-brings-a-gemini-powered-agent-into-ad-manager_ac9a6c7a",
+  "sourceKind": "product",
+  "sourceName": "Search Engine Land",
+  "sourceUrl": "https://searchengineland.com/google-launches-ai-agent-for-ad-manager-480613",
+  "canonicalUrl": "https://searchengineland.com/google-launches-ai-agent-for-ad-manager-480613",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Google brings a Gemini-powered agent into Ad Manager",
+  "friendlyTitle": "Google adds an AI helper for ad managers",
+  "summary": "Google is rolling out Ask Ad Manager, a Gemini-powered assistant for publishers using Google Ad Manager. The beta lets users ask natural-language questions about performance, troubleshoot delivery problems, generate reports, and navigate the platform.",
+  "friendlySummary": "Google is adding an AI assistant to Ad Manager. Publishers can ask it questions, find problems, and create reports in plain language.",
+  "whyItMatters": "Ad operations are a useful test case for enterprise agents because the work is data-heavy, repetitive, and high-stakes. If tools like this work well, more business software will shift from menus and dashboards toward conversational diagnosis and action.",
+  "friendlyWhyItMatters": "This could make complex business software easier to use. Instead of clicking through many menus, people may just ask for what they need.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

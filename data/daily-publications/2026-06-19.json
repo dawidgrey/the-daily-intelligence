@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-19",
+  "slug": "2026-06-19",
+  "status": "published",
+  "publicationDateUtc": "2026-06-18T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from demos into workflows, infrastructure, and the physical world",
+  "friendlyHeader": "AI agents are starting to do real jobs",
+  "summary": "Today’s issue tracks a practical turn in AI: agents are showing up in ad operations, biomedical research, email infrastructure, software tuning, robotics, and model orchestration. The signal is less about chatbots getting flashier and more about AI systems being wired into work that people already do.",
+  "friendlySummary": "Today’s issue is about AI moving into useful everyday work: helping with ads, research, email, coding, robots, and business tools. The big idea is simple: AI is becoming less like a toy demo and more like a helper inside real workflows.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-19_01_anthropic-says-claude-opus-4-7-completed-robot-dog-tasks-far-faster-than_12cd9ddb",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_02_pytorch-shows-how-llms-can-cut-helion-kernel-autotuning-from-minutes-to_fa151691",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_03_google-brings-a-gemini-powered-agent-into-ad-manager_ac9a6c7a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_04_manifold-launches-agent-os-for-governed-life-sciences-ai-workflows_3504c403",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_05_atomic-mail-offers-email-inboxes-built-specifically-for-ai-agents_72a83656",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_06_nvidia-releases-nemotron-3-ultra-for-long-running-agent-workflows_041bd028",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_07_consumer-reports-finds-large-ride-price-differences-in-uber-and-lyft-tes_8065d8b8",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_08_openai-publishes-frontend-design-guidance-for-gpt-5-4_0207c4cb",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_09_reuters-gemini-co-lead-noam-shazeer-is-leaving-google-for-openai_78bedb5f",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_10_genesis-ai-unveils-eno-a-non-humanoid-general-purpose-robot-powered-by-g_6898704b",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_11_kilo-org-kilocode_ff12d91d",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_12_calesthio-openmontage_e53f91b8",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-19_13_anthropics-financial-services_6e9a00bd",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-19.json",
+    "itemCount": 13
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-17T20:12:04Z",
+  "generatedAtUtc": "2026-06-18T20:09:20Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-19",
+      "slug": "2026-06-19",
+      "status": "published",
+      "publicationDateUtc": "2026-06-18T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into workflows, infrastructure, and the physical world",
+      "friendlyHeader": "AI agents are starting to do real jobs",
+      "summary": "Today’s issue tracks a practical turn in AI: agents are showing up in ad operations, biomedical research, email infrastructure, software tuning, robotics, and model orchestration. The signal is less about chatbots getting flashier and more about AI systems being wired into work that people already do.",
+      "friendlySummary": "Today’s issue is about AI moving into useful everyday work: helping with ads, research, email, coding, robots, and business tools. The big idea is simple: AI is becoming less like a toy demo and more like a helper inside real workflows.",
+      "itemCount": 13,
+      "href": "issues/2026-06-19.html",
+      "dataUrl": "data/daily-publications/2026-06-19.json"
+    },
     {
       "id": "daily-publication_2026-06-18",
       "slug": "2026-06-18",

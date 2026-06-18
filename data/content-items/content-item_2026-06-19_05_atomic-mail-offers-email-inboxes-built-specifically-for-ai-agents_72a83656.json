@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_05_atomic-mail-offers-email-inboxes-built-specifically-for-ai-agents_72a83656",
+  "sourceKind": "product",
+  "sourceName": "Atomic Mail",
+  "sourceUrl": "https://atomicmail.io/agents",
+  "canonicalUrl": "https://atomicmail.io/agents",
+  "credit": "@atomic_mail",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Atomic Mail offers email inboxes built specifically for AI agents",
+  "friendlyTitle": "Atomic Mail gives AI agents their own email inboxes",
+  "summary": "Atomic Mail is offering an open-alpha email service for AI agents, with inbox creation, send/receive workflows, JMAP and REST APIs, MCP support, and an AgentSkill package. The product also uses proof-of-work and reputation mechanisms intended to reduce agent-driven spam abuse.",
+  "friendlySummary": "Atomic Mail lets AI agents create and use real email inboxes. It supports tools like MCP and includes anti-spam ideas such as proof-of-work and reputation.",
+  "whyItMatters": "Email remains one of the main pipes of work, but agents usually borrow human inboxes awkwardly. Agent-native inboxes could make automations cleaner, easier to audit, and safer to separate from personal or team mail.",
+  "friendlyWhyItMatters": "This can make email automation cleaner. Instead of giving an AI access to your personal inbox, it can use its own controlled inbox.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

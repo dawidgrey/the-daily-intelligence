@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_09_reuters-gemini-co-lead-noam-shazeer-is-leaving-google-for-openai_78bedb5f",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
+  "canonicalUrl": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Reuters: Gemini co-lead Noam Shazeer is leaving Google for OpenAI",
+  "friendlyTitle": "A top Google Gemini leader is moving to OpenAI",
+  "summary": "Reuters reports that Noam Shazeer, a Google vice president of engineering and co-lead of Gemini, said he is leaving Google to join OpenAI. The move comes less than two years after Google reportedly paid heavily to bring Shazeer and a team back from Character.AI.",
+  "friendlySummary": "Reuters says Noam Shazeer, a senior Google AI leader who helped lead Gemini, is joining OpenAI.",
+  "whyItMatters": "AI model progress is still tightly linked to small groups of top researchers and engineers. Talent moves like this can affect which labs accelerate, which products improve fastest, and where enterprise attention flows next.",
+  "friendlyWhyItMatters": "Big AI companies compete hard for top talent. These moves can influence which products and models improve fastest.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

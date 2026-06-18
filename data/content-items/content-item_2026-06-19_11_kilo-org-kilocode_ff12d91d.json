@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_11_kilo-org-kilocode_ff12d91d",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/Kilo-Org/kilocode",
+  "canonicalUrl": "https://github.com/Kilo-Org/kilocode",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Kilo-Org/kilocode",
+  "friendlyTitle": "Kilo Code is a popular open-source coding agent",
+  "summary": "Kilo Code is an open-source agentic engineering platform and coding agent that works across VS Code, JetBrains IDEs, the CLI, and cloud workflows. It supports hundreds of models and includes modes for coding, planning, debugging, review, and codebase assistance.",
+  "friendlySummary": "Kilo Code helps developers write, debug, plan, and review code inside editors, the terminal, and cloud workflows.",
+  "whyItMatters": "Developers can use it as a cross-environment coding agent for implementation, review, debugging, and larger project workflows. Its model flexibility also makes it useful for teams comparing providers or routing tasks to different models.",
+  "friendlyWhyItMatters": "You can use it as an AI coding teammate across different tools and switch between many models depending on the task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

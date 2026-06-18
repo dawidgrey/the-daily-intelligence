@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_10_genesis-ai-unveils-eno-a-non-humanoid-general-purpose-robot-powered-by-g_6898704b",
+  "sourceKind": "product",
+  "sourceName": "Genesis AI / PRNewswire",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/introducing-eno-genesis-ais-first-general-purpose-robot-is-challenging-traditional-humanoid-design-302801103.html",
+  "canonicalUrl": "https://www.prnewswire.com/news-releases/introducing-eno-genesis-ais-first-general-purpose-robot-is-challenging-traditional-humanoid-design-302801103.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Genesis AI unveils Eno, a non-humanoid general-purpose robot powered by GENE",
+  "friendlyTitle": "Genesis AI introduced a practical-looking work robot",
+  "summary": "Genesis AI introduced Eno, a compact wheeled general-purpose robot powered by its GENE robotics foundation model. The company says the robot is designed for factories, labs, hospitals, logistics, and service settings, with targeted customer deployments planned by the end of 2026.",
+  "friendlySummary": "Genesis AI showed Eno, a wheeled robot powered by its GENE model. It is built for places like factories, labs, hospitals, and logistics sites.",
+  "whyItMatters": "The robotics market is not only about humanoids. Eno reflects a pragmatic design trend: match human capability where needed, but choose forms that are easier to deploy in real workplaces.",
+  "friendlyWhyItMatters": "This shows that useful robots do not always need to look human. Practical designs may reach workplaces sooner.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_06_nvidia-releases-nemotron-3-ultra-for-long-running-agent-workflows_041bd028",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA Technical Blog",
+  "sourceUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+  "canonicalUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "NVIDIA releases Nemotron 3 Ultra for long-running agent workflows",
+  "friendlyTitle": "NVIDIA made a big open model for long AI-agent jobs",
+  "summary": "NVIDIA detailed Nemotron 3 Ultra, an open 550B-parameter mixture-of-experts model with 55B active parameters. The model is designed for frontier reasoning and orchestration in long-running agent systems, with NVIDIA claiming higher throughput and lower task-completion cost than comparable open models.",
+  "friendlySummary": "NVIDIA’s Nemotron 3 Ultra is built for AI agents that work across many steps. It aims to be faster and cheaper for long tasks that need planning and tool use.",
+  "whyItMatters": "Long agent tasks can become expensive because context, tools, and subagents keep adding tokens. Models optimized for orchestration could make multi-step work more affordable and reliable for businesses and advanced personal workflows.",
+  "friendlyWhyItMatters": "Better agent models could make complex AI helpers less expensive to run and more useful for real work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_01_anthropic-says-claude-opus-4-7-completed-robot-dog-tasks-far-faster-than_12cd9ddb",
+  "sourceKind": "research",
+  "sourceName": "Anthropic Research",
+  "sourceUrl": "https://www.anthropic.com/research/project-fetch-phase-two",
+  "canonicalUrl": "https://www.anthropic.com/research/project-fetch-phase-two",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "Anthropic says Claude Opus 4.7 completed robot-dog tasks far faster than human teams",
+  "friendlyTitle": "Claude got much better at helping control a robot dog",
+  "summary": "Anthropic reran its Project Fetch robotics experiment with Claude Opus 4.7 operating through Claude Code. The model completed several robodog setup and control tasks much faster than the original human teams, though it still struggled with precise physical fetching.",
+  "friendlySummary": "Anthropic tested a newer Claude model on robot-dog tasks. Claude handled many setup and control steps much faster than people did in the earlier test, but it still was not perfect at moving objects precisely.",
+  "whyItMatters": "The work is a grounded signal that general-purpose coding agents can increasingly bridge software, sensors, and physical systems. For daily life and work, it points toward robots becoming easier to program and adapt without specialist robotics teams.",
+  "friendlyWhyItMatters": "This matters because robots may become easier for normal teams to use. You may not need a robotics expert for every small automation task in the future.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

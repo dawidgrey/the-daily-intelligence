@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-17T20:12:04Z",
+  "generatedAtUtc": "2026-06-18T20:09:20Z",
   "items": [
     {
-      "id": "content-item_2026-06-18_01_block-rolls-out-builderbot-a-slack-native-system-for-coordinating-coding_65d45115",
+      "id": "content-item_2026-06-19_01_anthropic-says-claude-opus-4-7-completed-robot-dog-tasks-far-faster-than_12cd9ddb",
+      "sourceKind": "research",
+      "sourceName": "Anthropic Research",
+      "title": "Anthropic says Claude Opus 4.7 completed robot-dog tasks far faster than human teams",
+      "sourceUrl": "https://www.anthropic.com/research/project-fetch-phase-two"
+    },
+    {
+      "id": "content-item_2026-06-19_02_pytorch-shows-how-llms-can-cut-helion-kernel-autotuning-from-minutes-to_fa151691",
+      "sourceKind": "research",
+      "sourceName": "PyTorch Blog",
+      "title": "PyTorch shows how LLMs can cut Helion kernel autotuning from minutes to seconds",
+      "sourceUrl": "https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/"
+    },
+    {
+      "id": "content-item_2026-06-19_03_google-brings-a-gemini-powered-agent-into-ad-manager_ac9a6c7a",
       "sourceKind": "product",
-      "sourceName": "Block",
-      "title": "Block rolls out Builderbot, a Slack-native system for coordinating coding agents",
-      "sourceUrl": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship"
+      "sourceName": "Search Engine Land",
+      "title": "Google brings a Gemini-powered agent into Ad Manager",
+      "sourceUrl": "https://searchengineland.com/google-launches-ai-agent-for-ad-manager-480613"
     },
     {
-      "id": "content-item_2026-06-18_02_apodex-1-0-emphasizes-verified-deep-research-with-multi-agent-evidence-c_6c35e988",
-      "sourceKind": "research",
-      "sourceName": "Apodex",
-      "title": "Apodex-1.0 emphasizes verified deep research with multi-agent evidence checking",
-      "sourceUrl": "https://www.apodex.com/blog/apodex-1.0"
-    },
-    {
-      "id": "content-item_2026-06-18_03_openai-reports-a-near-autonomous-ai-chemistry-workflow-improved-a-drug-m_1a8cd099",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI reports a near-autonomous AI chemistry workflow improved a drug-making reaction",
-      "sourceUrl": "https://openai.com/index/ai-chemist-improves-reaction"
-    },
-    {
-      "id": "content-item_2026-06-18_04_openai-details-deployment-simulation-for-testing-model-behavior-before-l_b387731f",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI details Deployment Simulation for testing model behavior before launch",
-      "sourceUrl": "https://openai.com/index/deployment-simulation"
-    },
-    {
-      "id": "content-item_2026-06-18_05_retool-launches-a-react-ai-app-builder-aimed-at-production-governance_665eb092",
+      "id": "content-item_2026-06-19_04_manifold-launches-agent-os-for-governed-life-sciences-ai-workflows_3504c403",
       "sourceKind": "product",
-      "sourceName": "Retool",
-      "title": "Retool launches a React AI app builder aimed at production governance",
-      "sourceUrl": "https://retool.com/blog/retool-launches-react-ai-app-builder"
+      "sourceName": "Manifold",
+      "title": "Manifold launches Agent OS for governed life-sciences AI workflows",
+      "sourceUrl": "https://www.manifold.ai/resources/agent-os-launch"
     },
     {
-      "id": "content-item_2026-06-18_06_hugging-face-proposes-agentic-resource-discovery-for-finding-tools-skill_da3c8166",
+      "id": "content-item_2026-06-19_05_atomic-mail-offers-email-inboxes-built-specifically-for-ai-agents_72a83656",
+      "sourceKind": "product",
+      "sourceName": "Atomic Mail",
+      "title": "Atomic Mail offers email inboxes built specifically for AI agents",
+      "sourceUrl": "https://atomicmail.io/agents"
+    },
+    {
+      "id": "content-item_2026-06-19_06_nvidia-releases-nemotron-3-ultra-for-long-running-agent-workflows_041bd028",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA Technical Blog",
+      "title": "NVIDIA releases Nemotron 3 Ultra for long-running agent workflows",
+      "sourceUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/"
+    },
+    {
+      "id": "content-item_2026-06-19_07_consumer-reports-finds-large-ride-price-differences-in-uber-and-lyft-tes_8065d8b8",
       "sourceKind": "article",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face proposes Agentic Resource Discovery for finding tools, skills, and agents",
-      "sourceUrl": "https://huggingface.co/blog/agentic-resource-discovery-launch"
+      "sourceName": "Consumer Reports",
+      "title": "Consumer Reports finds large ride-price differences in Uber and Lyft testing",
+      "sourceUrl": "https://www.consumerreports.org/money/questionable-business-practices/uber-lyft-different-prices-for-same-ride-and-fake-discounts-a1093538909/"
     },
     {
-      "id": "content-item_2026-06-18_07_strands-robots-connects-hugging-face-lerobot-workflows-to-agent-controll_c7b6e0d1",
+      "id": "content-item_2026-06-19_08_openai-publishes-frontend-design-guidance-for-gpt-5-4_0207c4cb",
       "sourceKind": "article",
-      "sourceName": "Hugging Face Blog / Amazon",
-      "title": "Strands Robots connects Hugging Face LeRobot workflows to agent-controlled hardware",
-      "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+      "sourceName": "OpenAI Developers",
+      "title": "OpenAI publishes frontend design guidance for GPT-5.4",
+      "sourceUrl": "https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4"
     },
     {
-      "id": "content-item_2026-06-18_08_google-deepmind-and-the-uk-government-test-gemini-for-faster-planning-ap_12ceb5f0",
+      "id": "content-item_2026-06-19_09_reuters-gemini-co-lead-noam-shazeer-is-leaving-google-for-openai_78bedb5f",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Reuters: Gemini co-lead Noam Shazeer is leaving Google for OpenAI",
+      "sourceUrl": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/"
+    },
+    {
+      "id": "content-item_2026-06-19_10_genesis-ai-unveils-eno-a-non-humanoid-general-purpose-robot-powered-by-g_6898704b",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind Blog",
-      "title": "Google DeepMind and the UK government test Gemini for faster planning applications",
-      "sourceUrl": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+      "sourceName": "Genesis AI / PRNewswire",
+      "title": "Genesis AI unveils Eno, a non-humanoid general-purpose robot powered by GENE",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/introducing-eno-genesis-ais-first-general-purpose-robot-is-challenging-traditional-humanoid-design-302801103.html"
     },
     {
-      "id": "content-item_2026-06-18_09_anthropic-study-finds-domain-expertise-still-matters-in-agentic-coding_6bbeb682",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic study finds domain expertise still matters in agentic coding",
-      "sourceUrl": "https://www.anthropic.com/research/claude-code-expertise"
-    },
-    {
-      "id": "content-item_2026-06-18_10_google-introduces-a-gemini-first-google-home-speaker_fb7274f4",
-      "sourceKind": "product",
-      "sourceName": "Google Blog",
-      "title": "Google introduces a Gemini-first Google Home Speaker",
-      "sourceUrl": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/"
-    },
-    {
-      "id": "content-item_2026-06-18_11_google-research-timesfm_28dd3b77",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "google-research/timesfm",
-      "sourceUrl": "https://github.com/google-research/timesfm"
-    },
-    {
-      "id": "content-item_2026-06-18_12_paddlepaddle-paddleocr_e16b03a4",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "PaddlePaddle/PaddleOCR",
-      "sourceUrl": "https://github.com/PaddlePaddle/PaddleOCR"
-    },
-    {
-      "id": "content-item_2026-06-18_13_earendil-works-pi_b3718af9",
+      "id": "content-item_2026-06-19_11_kilo-org-kilocode_ff12d91d",
       "sourceKind": "github",
       "sourceName": "GitHub trending TypeScript",
-      "title": "earendil-works/pi",
-      "sourceUrl": "https://github.com/earendil-works/pi"
+      "title": "Kilo-Org/kilocode",
+      "sourceUrl": "https://github.com/Kilo-Org/kilocode"
+    },
+    {
+      "id": "content-item_2026-06-19_12_calesthio-openmontage_e53f91b8",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending Python",
+      "title": "calesthio/OpenMontage",
+      "sourceUrl": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "id": "content-item_2026-06-19_13_anthropics-financial-services_6e9a00bd",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending Python",
+      "title": "anthropics/financial-services",
+      "sourceUrl": "https://github.com/anthropics/financial-services"
     }
   ]
 }

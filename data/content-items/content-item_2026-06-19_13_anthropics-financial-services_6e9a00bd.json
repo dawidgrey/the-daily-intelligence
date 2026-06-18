@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_13_anthropics-financial-services_6e9a00bd",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/anthropics/financial-services",
+  "canonicalUrl": "https://github.com/anthropics/financial-services",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "anthropics/financial-services",
+  "friendlyTitle": "Anthropic shared finance-focused Claude agent examples",
+  "summary": "Anthropic’s financial-services repository packages Claude agents, skills, slash commands, MCP data connectors, and deployment tooling for workflows across investment banking, equity research, private equity, wealth management, fund administration, and finance operations.",
+  "friendlySummary": "This repo contains Claude agent templates and tools for finance workflows like research, memos, reconciliations, and analysis.",
+  "whyItMatters": "Financial-services teams can study the repo as a reference design for domain-specific agents that draft analyst work product while preserving human review. It is also useful for developers building regulated agent workflows with plugins, skills, and managed-agent templates.",
+  "friendlyWhyItMatters": "Finance and enterprise teams can use it as a model for building AI helpers that draft work but still require human review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}

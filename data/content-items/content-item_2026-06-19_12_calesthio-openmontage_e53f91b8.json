@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-19_12_calesthio-openmontage_e53f91b8",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/calesthio/OpenMontage",
+  "canonicalUrl": "https://github.com/calesthio/OpenMontage",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-18T20:09:20Z",
+  "createdAtUtc": "2026-06-18T20:09:20Z",
+  "updatedAtUtc": "2026-06-18T20:09:20Z",
+  "title": "calesthio/OpenMontage",
+  "friendlyTitle": "OpenMontage turns AI agents into video production helpers",
+  "summary": "OpenMontage is an open-source agentic video production system that coordinates research, scripting, asset generation, editing, composition, QA, and rendering. It is designed to let coding assistants such as Claude Code, Cursor, Copilot, Windsurf, and Codex operate a full video workflow.",
+  "friendlySummary": "OpenMontage helps an AI assistant plan, create, edit, check, and render videos using an open-source workflow.",
+  "whyItMatters": "Creators and developers can use it to prototype repeatable video pipelines rather than manually stitching together many separate AI media tools. It is especially relevant for teams exploring low-cost, automated production workflows.",
+  "friendlyWhyItMatters": "It can help creators test automated video production without relying on one closed tool for every step.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-19"
+  }
+}
