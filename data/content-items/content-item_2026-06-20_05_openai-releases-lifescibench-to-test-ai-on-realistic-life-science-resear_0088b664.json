@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_05_openai-releases-lifescibench-to-test-ai-on-realistic-life-science-resear_0088b664",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-life-sci-bench",
+  "canonicalUrl": "https://openai.com/index/introducing-life-sci-bench",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "OpenAI releases LifeSciBench to test AI on realistic life-science research work",
+  "friendlyTitle": "OpenAI made a harder test for life-science AI",
+  "summary": "OpenAI introduced LifeSciBench, an expert-authored benchmark with 750 tasks across applied life-science workflows such as experiment design, evidence handling, analysis, validation, translation, and scientific communication. The benchmark uses detailed rubrics from scientists rather than simple right-or-wrong trivia questions.",
+  "friendlySummary": "LifeSciBench tests AI on real research-style tasks, not just simple biology questions. Experts wrote and reviewed the tasks and grading rules.",
+  "whyItMatters": "Scientific AI tools need to be evaluated on messy, expert work where caveats and decisions matter. Better benchmarks can help labs and biotech teams judge whether a model is a useful collaborator or merely fluent on biology facts.",
+  "friendlyWhyItMatters": "This can help scientists choose AI tools that are actually useful for research decisions, not just good at sounding smart.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

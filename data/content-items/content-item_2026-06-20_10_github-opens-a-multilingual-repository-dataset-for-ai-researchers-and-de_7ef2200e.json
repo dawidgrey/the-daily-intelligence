@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_10_github-opens-a-multilingual-repository-dataset-for-ai-researchers-and-de_7ef2200e",
+  "sourceKind": "product",
+  "sourceName": "GitHub Blog",
+  "sourceUrl": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+  "canonicalUrl": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "GitHub opens a multilingual repository dataset for AI researchers and developers",
+  "friendlyTitle": "GitHub released data to improve multilingual developer AI",
+  "summary": "GitHub released the GitHub Multilingual Repositories Dataset, a CC0 repository-level metadata dataset covering more than 80 million language-classification rows across over 40 million public repositories. It helps researchers discover projects with non-English natural-language content in READMEs, issues, and pull requests without dumping repository text.",
+  "friendlySummary": "GitHub published a dataset that helps researchers find public software projects with non-English text in READMEs, issues, and pull requests.",
+  "whyItMatters": "Developer AI tools are often strongest in English, even though software collaboration is global. This dataset can help researchers build and evaluate multilingual coding assistants that better support real developer communities.",
+  "friendlyWhyItMatters": "This can help AI coding tools work better for developers who do not mainly use English.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

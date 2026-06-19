@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_01_anthropic-pauses-token-based-billing-plan-for-claude-agent-sdk_e9c3ba9a",
+  "sourceKind": "article",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+  "canonicalUrl": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "Anthropic pauses token-based billing plan for Claude Agent SDK",
+  "friendlyTitle": "Anthropic pauses a Claude agent price change",
+  "summary": "Anthropic has paused a planned change that would have billed Claude Agent SDK usage separately at API/token rates rather than under existing subscription usage caps. The reversal came after developers warned that agent-heavy workflows could face major cost increases.",
+  "friendlySummary": "Anthropic was going to change how Claude Agent SDK usage is billed, which could have made heavy agent use much more expensive. After developer pushback, the company paused the change for now.",
+  "whyItMatters": "Agent pricing is becoming a practical constraint for builders, not just a billing footnote. Teams relying on coding agents and third-party Claude tools should expect subscription models to keep changing as automated usage grows.",
+  "friendlyWhyItMatters": "If you use AI agents for coding or automation, pricing can change how useful they are. This is a reminder to watch costs, not just features.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

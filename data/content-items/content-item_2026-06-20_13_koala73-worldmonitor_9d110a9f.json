@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_13_koala73-worldmonitor_9d110a9f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/koala73/worldmonitor",
+  "canonicalUrl": "https://github.com/koala73/worldmonitor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "koala73/worldmonitor",
+  "friendlyTitle": "World Monitor is an AI-assisted global dashboard",
+  "summary": "World Monitor is a real-time global intelligence dashboard that combines AI-assisted news aggregation, geopolitical monitoring, infrastructure tracking, maps, finance signals, and local AI support.",
+  "friendlySummary": "World Monitor collects news, maps, finance signals, and infrastructure information into one dashboard, with AI features for summaries and monitoring.",
+  "whyItMatters": "Users can self-host or study it as a blueprint for situational-awareness dashboards that combine feeds, maps, AI summaries, and cross-domain monitoring.",
+  "friendlyWhyItMatters": "It can help teams or hobbyists build their own real-time information dashboard.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_03_nature-paper-tests-an-autonomous-medical-ai-agent-inside-a-sandboxed-ehr_d16f0cb0",
+  "sourceKind": "research",
+  "sourceName": "Nature",
+  "sourceUrl": "https://www.nature.com/articles/s41586-026-10675-5",
+  "canonicalUrl": "https://www.nature.com/articles/s41586-026-10675-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "Nature paper tests an autonomous medical AI agent inside a sandboxed EHR",
+  "friendlyTitle": "Researchers tested an AI medical agent in a fake hospital record system",
+  "summary": "A Nature paper introduced MIRA, an autonomous medical AI agent that operates in a sandboxed, FHIR-compatible electronic health record environment. In retrospective simulations on MIMIC-IV cases, the system could gather history, order tests, interpret results, propose diagnoses, and recommend structured clinical actions under constraints.",
+  "friendlySummary": "The MIRA system acted inside a safe test version of an electronic health record. It could ask questions, order tests, read results, and suggest next steps for patient cases.",
+  "whyItMatters": "The study points beyond medical chatbots toward governed clinical copilots that work inside real workflows. It is still simulation-based, but it clarifies what hospitals will need to evaluate: safety, permissions, auditability, and physician oversight around AI actions.",
+  "friendlyWhyItMatters": "This shows what future doctor-assistant AI might look like. It also shows why careful testing and human supervision are essential.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

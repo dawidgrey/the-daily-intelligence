@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-18T20:09:20Z",
+  "generatedAtUtc": "2026-06-19T20:12:34Z",
   "items": [
     {
-      "id": "content-item_2026-06-19_01_anthropic-says-claude-opus-4-7-completed-robot-dog-tasks-far-faster-than_12cd9ddb",
+      "id": "content-item_2026-06-20_01_anthropic-pauses-token-based-billing-plan-for-claude-agent-sdk_e9c3ba9a",
+      "sourceKind": "article",
+      "sourceName": "Ars Technica",
+      "title": "Anthropic pauses token-based billing plan for Claude Agent SDK",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+    },
+    {
+      "id": "content-item_2026-06-20_02_google-deepmind-outlines-a-security-roadmap-for-increasingly-capable-ai_ae74216d",
       "sourceKind": "research",
-      "sourceName": "Anthropic Research",
-      "title": "Anthropic says Claude Opus 4.7 completed robot-dog tasks far faster than human teams",
-      "sourceUrl": "https://www.anthropic.com/research/project-fetch-phase-two"
+      "sourceName": "Google DeepMind Blog",
+      "title": "Google DeepMind outlines a security roadmap for increasingly capable AI agents",
+      "sourceUrl": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
     },
     {
-      "id": "content-item_2026-06-19_02_pytorch-shows-how-llms-can-cut-helion-kernel-autotuning-from-minutes-to_fa151691",
+      "id": "content-item_2026-06-20_03_nature-paper-tests-an-autonomous-medical-ai-agent-inside-a-sandboxed-ehr_d16f0cb0",
       "sourceKind": "research",
-      "sourceName": "PyTorch Blog",
-      "title": "PyTorch shows how LLMs can cut Helion kernel autotuning from minutes to seconds",
-      "sourceUrl": "https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/"
+      "sourceName": "Nature",
+      "title": "Nature paper tests an autonomous medical AI agent inside a sandboxed EHR",
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10675-5"
     },
     {
-      "id": "content-item_2026-06-19_03_google-brings-a-gemini-powered-agent-into-ad-manager_ac9a6c7a",
+      "id": "content-item_2026-06-20_04_mosaicleaks-shows-how-research-agents-can-leak-secrets-through-web-query_e9b8182d",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog / ServiceNow",
+      "title": "MosaicLeaks shows how research agents can leak secrets through web-query trails",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+    },
+    {
+      "id": "content-item_2026-06-20_05_openai-releases-lifescibench-to-test-ai-on-realistic-life-science-resear_0088b664",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI releases LifeSciBench to test AI on realistic life-science research work",
+      "sourceUrl": "https://openai.com/index/introducing-life-sci-bench"
+    },
+    {
+      "id": "content-item_2026-06-20_06_openai-adds-enterprise-usage-analytics-and-spend-controls-for-chatgpt-an_217d8a1a",
       "sourceKind": "product",
-      "sourceName": "Search Engine Land",
-      "title": "Google brings a Gemini-powered agent into Ad Manager",
-      "sourceUrl": "https://searchengineland.com/google-launches-ai-agent-for-ad-manager-480613"
+      "sourceName": "OpenAI",
+      "title": "OpenAI adds enterprise usage analytics and spend controls for ChatGPT and Codex",
+      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     },
     {
-      "id": "content-item_2026-06-19_04_manifold-launches-agent-os-for-governed-life-sciences-ai-workflows_3504c403",
-      "sourceKind": "product",
-      "sourceName": "Manifold",
-      "title": "Manifold launches Agent OS for governed life-sciences AI workflows",
-      "sourceUrl": "https://www.manifold.ai/resources/agent-os-launch"
+      "id": "content-item_2026-06-20_07_openai-reports-ai-assisted-review-helped-rare-disease-specialists-find-1_2155d7cb",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI reports AI-assisted review helped rare-disease specialists find 18 diagnoses",
+      "sourceUrl": "https://openai.com/index/diagnose-rare-childhood-diseases"
     },
     {
-      "id": "content-item_2026-06-19_05_atomic-mail-offers-email-inboxes-built-specifically-for-ai-agents_72a83656",
-      "sourceKind": "product",
-      "sourceName": "Atomic Mail",
-      "title": "Atomic Mail offers email inboxes built specifically for AI agents",
-      "sourceUrl": "https://atomicmail.io/agents"
-    },
-    {
-      "id": "content-item_2026-06-19_06_nvidia-releases-nemotron-3-ultra-for-long-running-agent-workflows_041bd028",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA Technical Blog",
-      "title": "NVIDIA releases Nemotron 3 Ultra for long-running agent workflows",
-      "sourceUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/"
-    },
-    {
-      "id": "content-item_2026-06-19_07_consumer-reports-finds-large-ride-price-differences-in-uber-and-lyft-tes_8065d8b8",
+      "id": "content-item_2026-06-20_08_reliance-wants-ai-inside-jio-calls-apps-homes-and-local-language-service_c585f7de",
       "sourceKind": "article",
-      "sourceName": "Consumer Reports",
-      "title": "Consumer Reports finds large ride-price differences in Uber and Lyft testing",
-      "sourceUrl": "https://www.consumerreports.org/money/questionable-business-practices/uber-lyft-different-prices-for-same-ride-and-fake-discounts-a1093538909/"
+      "sourceName": "TechCrunch",
+      "title": "Reliance wants AI inside Jio calls, apps, homes, and local-language services",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
     },
     {
-      "id": "content-item_2026-06-19_08_openai-publishes-frontend-design-guidance-for-gpt-5-4_0207c4cb",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Developers",
-      "title": "OpenAI publishes frontend design guidance for GPT-5.4",
-      "sourceUrl": "https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4"
+      "id": "content-item_2026-06-20_09_hugging-face-proposes-benchmarks-for-making-software-more-usable-by-ai-a_d44bbcfd",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face proposes benchmarks for making software more usable by AI agents",
+      "sourceUrl": "https://huggingface.co/blog/is-it-agentic-enough"
     },
     {
-      "id": "content-item_2026-06-19_09_reuters-gemini-co-lead-noam-shazeer-is-leaving-google-for-openai_78bedb5f",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: Gemini co-lead Noam Shazeer is leaving Google for OpenAI",
-      "sourceUrl": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/"
-    },
-    {
-      "id": "content-item_2026-06-19_10_genesis-ai-unveils-eno-a-non-humanoid-general-purpose-robot-powered-by-g_6898704b",
+      "id": "content-item_2026-06-20_10_github-opens-a-multilingual-repository-dataset-for-ai-researchers-and-de_7ef2200e",
       "sourceKind": "product",
-      "sourceName": "Genesis AI / PRNewswire",
-      "title": "Genesis AI unveils Eno, a non-humanoid general-purpose robot powered by GENE",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/introducing-eno-genesis-ais-first-general-purpose-robot-is-challenging-traditional-humanoid-design-302801103.html"
+      "sourceName": "GitHub Blog",
+      "title": "GitHub opens a multilingual repository dataset for AI researchers and developers",
+      "sourceUrl": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
     },
     {
-      "id": "content-item_2026-06-19_11_kilo-org-kilocode_ff12d91d",
+      "id": "content-item_2026-06-20_11_chopratejas-headroom_25995cd8",
       "sourceKind": "github",
-      "sourceName": "GitHub trending TypeScript",
-      "title": "Kilo-Org/kilocode",
-      "sourceUrl": "https://github.com/Kilo-Org/kilocode"
+      "sourceName": "GitHub Trending Python",
+      "title": "chopratejas/headroom",
+      "sourceUrl": "https://github.com/chopratejas/headroom"
     },
     {
-      "id": "content-item_2026-06-19_12_calesthio-openmontage_e53f91b8",
+      "id": "content-item_2026-06-20_12_withastro-flue_8c5e64f7",
       "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "calesthio/OpenMontage",
-      "sourceUrl": "https://github.com/calesthio/OpenMontage"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "withastro/flue",
+      "sourceUrl": "https://github.com/withastro/flue"
     },
     {
-      "id": "content-item_2026-06-19_13_anthropics-financial-services_6e9a00bd",
+      "id": "content-item_2026-06-20_13_koala73-worldmonitor_9d110a9f",
       "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "anthropics/financial-services",
-      "sourceUrl": "https://github.com/anthropics/financial-services"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "koala73/worldmonitor",
+      "sourceUrl": "https://github.com/koala73/worldmonitor"
     }
   ]
 }

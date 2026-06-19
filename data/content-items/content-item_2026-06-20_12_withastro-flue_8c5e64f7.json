@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_12_withastro-flue_8c5e64f7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/withastro/flue",
+  "canonicalUrl": "https://github.com/withastro/flue",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "withastro/flue",
+  "friendlyTitle": "Flue helps developers build sandboxed AI agents",
+  "summary": "Flue is a TypeScript framework for building autonomous agents and workflows with sessions, tools, skills, instructions, filesystem access, and sandboxed execution.",
+  "friendlySummary": "Flue is a framework for building AI agents that can use tools, skills, files, and safe execution environments.",
+  "whyItMatters": "Developers can use it to create agent harnesses that run locally or in hosted environments while keeping execution boundaries and reusable skills explicit.",
+  "friendlyWhyItMatters": "It gives developers a structured way to build agents that can do real work without giving them unlimited access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

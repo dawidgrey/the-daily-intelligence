@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_07_openai-reports-ai-assisted-review-helped-rare-disease-specialists-find-1_2155d7cb",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/diagnose-rare-childhood-diseases",
+  "canonicalUrl": "https://openai.com/index/diagnose-rare-childhood-diseases",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "OpenAI reports AI-assisted review helped rare-disease specialists find 18 diagnoses",
+  "friendlyTitle": "AI helped doctors revisit hard rare-disease cases",
+  "summary": "OpenAI and Boston Children’s Hospital described an NEJM AI study where an OpenAI reasoning model reanalyzed 376 previously unsolved rare-disease cases. The AI produced evidence-linked hypotheses for specialists, contributing to 18 confirmed diagnoses after expert review and laboratory confirmation.",
+  "friendlySummary": "Researchers used an OpenAI model to review old unsolved rare-disease cases. Doctors then checked the ideas, and 18 diagnoses were confirmed through proper medical testing.",
+  "whyItMatters": "This is a careful example of AI improving a high-friction human workflow without replacing clinicians. For families with unresolved rare diseases, periodic AI-assisted reanalysis could help surface leads that were missed when evidence was scattered or still emerging.",
+  "friendlyWhyItMatters": "This shows AI can help specialists find clues faster, while doctors still make and confirm the medical decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

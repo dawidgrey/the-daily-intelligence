@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_06_openai-adds-enterprise-usage-analytics-and-spend-controls-for-chatgpt-an_217d8a1a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "canonicalUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "OpenAI adds enterprise usage analytics and spend controls for ChatGPT and Codex",
+  "friendlyTitle": "OpenAI gives companies better AI spending controls",
+  "summary": "OpenAI announced new credit usage analytics and spend controls for ChatGPT Enterprise admins, including visibility across ChatGPT and Codex usage, workspace default limits, group limits, individual overrides, and a unified Cost API. Employees can also see their usage and request more credits with context.",
+  "friendlySummary": "ChatGPT Enterprise admins can now see more detail about credit use across ChatGPT and Codex. They can set limits for teams or individual users and track costs more clearly.",
+  "whyItMatters": "As AI becomes embedded in everyday office and engineering work, cost governance is becoming part of deployment. These controls make it easier for organizations to support power users without giving every workflow an unlimited budget.",
+  "friendlyWhyItMatters": "This helps companies use AI more widely without losing control of the bill.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

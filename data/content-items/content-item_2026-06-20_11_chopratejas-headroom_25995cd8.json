@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_11_chopratejas-headroom_25995cd8",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/chopratejas/headroom",
+  "canonicalUrl": "https://github.com/chopratejas/headroom",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "chopratejas/headroom",
+  "friendlyTitle": "Headroom compresses context for AI agents",
+  "summary": "Headroom is a context-compression layer for AI agents that compresses tool outputs, logs, RAG chunks, files, and conversation history before they reach the model.",
+  "friendlySummary": "Headroom helps shrink the information an AI agent sends to a model, such as logs, files, and search results.",
+  "whyItMatters": "Builders can use it as a library, proxy, wrapper, or MCP server to reduce token usage and keep long agent workflows cheaper and more manageable.",
+  "friendlyWhyItMatters": "It can make agent workflows cheaper and easier to run by using fewer tokens.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}

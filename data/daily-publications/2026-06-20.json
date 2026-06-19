@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-20",
+  "slug": "2026-06-20",
+  "status": "published",
+  "publicationDateUtc": "2026-06-19T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI’s useful edge shifts to health, agents, costs, and infrastructure",
+  "friendlyHeader": "AI is becoming more useful in real work",
+  "summary": "Today’s issue follows AI moving from impressive demos into the systems people actually depend on: medical review, enterprise budgets, agent security, cloud deployment, multilingual developer data, and tools that make agents cheaper or safer to run.",
+  "friendlySummary": "Today’s issue is about AI helping with health, business spending, safer agents, faster software, and better developer tools. The main idea: AI is becoming more practical, but people also need clearer controls and safeguards.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-20_01_anthropic-pauses-token-based-billing-plan-for-claude-agent-sdk_e9c3ba9a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_02_google-deepmind-outlines-a-security-roadmap-for-increasingly-capable-ai_ae74216d",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_03_nature-paper-tests-an-autonomous-medical-ai-agent-inside-a-sandboxed-ehr_d16f0cb0",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_04_mosaicleaks-shows-how-research-agents-can-leak-secrets-through-web-query_e9b8182d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_05_openai-releases-lifescibench-to-test-ai-on-realistic-life-science-resear_0088b664",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_06_openai-adds-enterprise-usage-analytics-and-spend-controls-for-chatgpt-an_217d8a1a",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_07_openai-reports-ai-assisted-review-helped-rare-disease-specialists-find-1_2155d7cb",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_08_reliance-wants-ai-inside-jio-calls-apps-homes-and-local-language-service_c585f7de",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_09_hugging-face-proposes-benchmarks-for-making-software-more-usable-by-ai-a_d44bbcfd",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_10_github-opens-a-multilingual-repository-dataset-for-ai-researchers-and-de_7ef2200e",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_11_chopratejas-headroom_25995cd8",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_12_withastro-flue_8c5e64f7",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-20_13_koala73-worldmonitor_9d110a9f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-20.json",
+    "itemCount": 13
+  }
+}

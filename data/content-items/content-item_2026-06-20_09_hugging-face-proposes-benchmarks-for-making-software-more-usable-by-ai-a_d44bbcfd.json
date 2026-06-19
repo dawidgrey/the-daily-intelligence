@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-20_09_hugging-face-proposes-benchmarks-for-making-software-more-usable-by-ai-a_d44bbcfd",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/is-it-agentic-enough",
+  "canonicalUrl": "https://huggingface.co/blog/is-it-agentic-enough",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-19T20:12:34Z",
+  "createdAtUtc": "2026-06-19T20:12:34Z",
+  "updatedAtUtc": "2026-06-19T20:12:34Z",
+  "title": "Hugging Face proposes benchmarks for making software more usable by AI agents",
+  "friendlyTitle": "Hugging Face asks: is your software easy for AI agents to use?",
+  "summary": "Hugging Face published a framework for benchmarking whether coding agents can use software tools efficiently, using Transformers as the case study. The approach measures not only final answers but also tool choice, documentation use, tokens, time, errors, and whether agent-focused docs or skills improve outcomes.",
+  "friendlySummary": "Hugging Face shared a way to test whether AI coding agents can use tools well. It checks not only whether the answer is right, but how much time, effort, and confusion the agent needed.",
+  "whyItMatters": "As agents become users of APIs, CLIs, and libraries, maintainers need to test for agent usability the way they test documentation and unit behavior. Better agent-facing software can reduce wasted tokens, failed automation, and brittle workflows.",
+  "friendlyWhyItMatters": "This can help developers build software that works better with AI helpers, saving time and reducing mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-20"
+  }
+}
