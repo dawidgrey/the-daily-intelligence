@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-19T20:12:34Z",
+  "generatedAtUtc": "2026-06-20T20:17:47Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-21",
+      "slug": "2026-06-21",
+      "status": "published",
+      "publicationDateUtc": "2026-06-20T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos to daily work",
+      "friendlyHeader": "AI tools are starting to do repeat jobs for us",
+      "summary": "Today’s issue tracks a practical turn in AI: coding agents are getting scheduled, repeatable, and cheaper to run, while open models and agent-native tooling keep narrowing the gap with closed platforms. The through-line is simple: the useful AI story is shifting from chat to dependable workflows.",
+      "friendlySummary": "Today’s issue is about AI becoming more useful in everyday work. New tools can repeat tasks, watch for changes, help with code, protect private data, and make AI apps easier to build.",
+      "itemCount": 13,
+      "href": "issues/2026-06-21.html",
+      "dataUrl": "data/daily-publications/2026-06-21.json"
+    },
     {
       "id": "daily-publication_2026-06-20",
       "slug": "2026-06-20",

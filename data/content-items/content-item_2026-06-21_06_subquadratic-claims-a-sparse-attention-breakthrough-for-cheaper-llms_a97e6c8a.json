@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_06_subquadratic-claims-a-sparse-attention-breakthrough-for-cheaper-llms_a97e6c8a",
+  "sourceKind": "article",
+  "sourceName": "MIT Technology Review",
+  "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+  "canonicalUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "Subquadratic claims a sparse-attention breakthrough for cheaper LLMs",
+  "friendlyTitle": "A startup says it found a cheaper way to run large AI models",
+  "summary": "MIT Technology Review examined Subquadratic’s claim that its SubQ model uses dynamic sparse attention to avoid the compute bottleneck of dense transformer attention. The company says the approach could make models faster, cheaper, more energy-efficient, and better at long context, though broad access and full independent validation remain limited.",
+  "friendlySummary": "Subquadratic says its model can avoid some expensive AI calculations by focusing only on important token relationships. MIT Technology Review notes the claim is promising but still needs more proof.",
+  "whyItMatters": "If the approach holds up, long-context AI could become less expensive and less energy-intensive. For now, the practical takeaway is to watch evidence quality carefully: efficiency breakthroughs need third-party validation, not just launch claims.",
+  "friendlyWhyItMatters": "Cheaper and faster AI could make powerful tools easier to use. But big technical claims should be checked carefully before people rely on them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

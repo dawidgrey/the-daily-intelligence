@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_03_chatgpt-scheduled-tasks-get-a-dedicated-management-flow_faf4321f",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Help Center",
+  "sourceUrl": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+  "canonicalUrl": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "ChatGPT scheduled tasks get a dedicated management flow",
+  "friendlyTitle": "ChatGPT tasks are easier to manage now",
+  "summary": "OpenAI’s Scheduled Tasks documentation describes a dedicated Scheduled page for creating, editing, pausing, and deleting one-off or recurring ChatGPT tasks. Monitoring tasks can check for changes and notify users only when there is a meaningful update.",
+  "friendlySummary": "ChatGPT has a clearer place to manage scheduled tasks, such as reminders or recurring checks. Some tasks can watch for changes and alert you only when something important happens.",
+  "whyItMatters": "For everyday users, scheduled assistants turn AI from a reactive tool into a lightweight personal operations layer. The practical value is in recurring reminders, research checks, and change monitoring that do not require opening a new chat each time.",
+  "friendlyWhyItMatters": "This makes ChatGPT more useful for daily routines. It can help you remember things or monitor updates without you checking manually.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_02_openai-codex-adds-record-replay-and-stronger-automation-controls_a4eaa5b0",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Developers",
+  "sourceUrl": "https://developers.openai.com/codex/changelog#codex-2026-06-18-app",
+  "canonicalUrl": "https://developers.openai.com/codex/changelog#codex-2026-06-18-app",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "OpenAI Codex adds Record & Replay and stronger automation controls",
+  "friendlyTitle": "Codex can learn a workflow by watching it once",
+  "summary": "OpenAI’s June 18 Codex app update adds Record & Replay on macOS, turning a demonstrated workflow into a reusable skill. The same release adds bulk actions for automation history and handoff between local and remote hosts.",
+  "friendlySummary": "OpenAI added a Codex feature that can watch a user do a task and turn it into a reusable skill. It also improved how automations are managed.",
+  "whyItMatters": "Demonstration-to-skill workflows reduce the friction of teaching an AI assistant how a business process works. For teams, the important question becomes governance: which repeated actions should run unattended, and under what sandbox rules?",
+  "friendlyWhyItMatters": "This could make repeated computer tasks easier to automate. It also means teams need clear safety rules before letting AI repeat actions on its own.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_07_magnitude-pitches-coding-agents-on-open-models-at-lower-cost_c5422a8b",
+  "sourceKind": "product",
+  "sourceName": "Magnitude",
+  "sourceUrl": "https://magnitude.dev",
+  "canonicalUrl": "https://magnitude.dev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "Magnitude pitches coding agents on open models at lower cost",
+  "friendlyTitle": "Magnitude wants to make coding agents cheaper",
+  "summary": "Magnitude launched as a coding agent that runs on open models, using smart model routing to split work between a leader model and lower-cost specialist models. The company claims pass-through API pricing, free starter credits, and large cost savings versus closed-model coding agents.",
+  "friendlySummary": "Magnitude is a coding agent that uses open models and routes different parts of a task to different models. It says this can lower costs without losing performance.",
+  "whyItMatters": "The economics of AI coding are becoming a product feature in their own right. If routing across open models works reliably, teams may get more predictable spend without giving up agentic coding workflows.",
+  "friendlyWhyItMatters": "AI coding tools can get expensive fast. A cheaper approach could help more developers and small teams use them every day.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

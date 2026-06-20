@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_12_code-yeongyu-oh-my-openagent_a7ae5c3d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/code-yeongyu/oh-my-openagent",
+  "canonicalUrl": "https://github.com/code-yeongyu/oh-my-openagent",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "code-yeongyu/oh-my-openagent",
+  "friendlyTitle": "Oh My OpenAgent helps power users run coding agents",
+  "summary": "Oh My OpenAgent is a TypeScript coding-agent harness for complex codebases, with editions for OpenCode and Codex and a broader refactor toward multi-harness agent workflows.",
+  "friendlySummary": "This project adds workflows, hooks, and tools around coding agents like OpenCode and Codex.",
+  "whyItMatters": "Developers experimenting with coding-agent orchestration can study its hooks, skills, MCP integrations, and Codex/OpenCode adapters. It is a useful signal of where power-user agent workflows are heading.",
+  "friendlyWhyItMatters": "It can help developers test more advanced ways of using AI agents on large codebases.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

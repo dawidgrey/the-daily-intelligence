@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_05_southbridge-argues-the-open-model-frontier-has-arrived_c6cc7ab1",
+  "sourceKind": "article",
+  "sourceName": "Southbridge.AI",
+  "sourceUrl": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
+  "canonicalUrl": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "Southbridge argues the open-model frontier has arrived",
+  "friendlyTitle": "A real project showed an open model beating a closed one",
+  "summary": "Southbridge published a hands-on comparison in which GLM-5.2 produced a stronger single-shot implementation than Claude Opus 4.8 on the team’s transcription and diarization project. The experiment also produced offmute-v2, a public tool for timestamp-correct, speaker-aware transcripts.",
+  "friendlySummary": "Southbridge tested GLM-5.2 and Claude Opus 4.8 on a transcription project. They say the open model produced the better result for their task.",
+  "whyItMatters": "The piece is not a formal benchmark, but it is a useful field report: open models are now good enough to win on real, familiar production tasks in some contexts. That changes buying and workflow decisions for teams trying to control AI costs.",
+  "friendlyWhyItMatters": "This suggests open AI models may be ready for more serious everyday work. Teams may be able to save money while still getting strong results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

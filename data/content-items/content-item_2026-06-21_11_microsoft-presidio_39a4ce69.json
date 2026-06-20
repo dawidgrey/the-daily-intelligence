@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_11_microsoft-presidio_39a4ce69",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/microsoft/presidio",
+  "canonicalUrl": "https://github.com/microsoft/presidio",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "microsoft/presidio",
+  "friendlyTitle": "Presidio helps remove private data before AI sees it",
+  "summary": "Presidio is Microsoft’s open-source framework for detecting, redacting, masking, and anonymizing sensitive data across text, images, DICOM medical images, and structured data.",
+  "friendlySummary": "Presidio is an open-source tool for finding and hiding sensitive information like names, phone numbers, and medical image text.",
+  "whyItMatters": "Teams can use it as a privacy layer around AI workflows, logs, datasets, and customer-support pipelines. It is especially relevant when feeding real business data into LLM or analytics systems.",
+  "friendlyWhyItMatters": "It can help teams protect private data before using it with AI tools, reports, or support systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

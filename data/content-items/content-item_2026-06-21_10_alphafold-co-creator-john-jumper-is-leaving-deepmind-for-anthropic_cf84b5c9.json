@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_10_alphafold-co-creator-john-jumper-is-leaving-deepmind-for-anthropic_cf84b5c9",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+  "canonicalUrl": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "AlphaFold co-creator John Jumper is leaving DeepMind for Anthropic",
+  "friendlyTitle": "A major DeepMind scientist is joining Anthropic",
+  "summary": "Reuters reports that John Jumper, a Google DeepMind scientist known for co-creating AlphaFold and sharing the 2024 Nobel Prize in Chemistry, is leaving DeepMind to join Anthropic. The move follows other high-profile AI researcher departures amid intense competition for frontier talent.",
+  "friendlySummary": "John Jumper, one of the people behind AlphaFold, is leaving Google DeepMind for Anthropic. AlphaFold is one of the best-known examples of AI helping science.",
+  "whyItMatters": "Talent movement is a leading signal for where the next AI-for-science and frontier-model bets may concentrate. For businesses, it reinforces that top AI labs are competing not only on products, but on research depth and speed of execution.",
+  "friendlyWhyItMatters": "Where top researchers go can shape future AI products and discoveries. It shows how intense the competition between AI labs has become.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_04_glm-5-2-targets-long-horizon-coding-with-1m-token-context_64d6b4cb",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face / Z.AI",
+  "sourceUrl": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "canonicalUrl": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "GLM-5.2 targets long-horizon coding with 1M-token context",
+  "friendlyTitle": "A new open AI model is built for long coding tasks",
+  "summary": "Z.AI introduced GLM-5.2, an MIT-licensed open model focused on long-horizon coding, agentic tasks, and reliable 1M-token context. The release highlights architecture changes such as IndexShare to reduce long-context compute and improve sustained coding-agent performance.",
+  "friendlySummary": "GLM-5.2 is an open model designed to handle very long coding and agent tasks. It claims a large context window and better efficiency for long work sessions.",
+  "whyItMatters": "Open models are increasingly competing on the kinds of messy, multi-step engineering tasks that used to favor closed frontier systems. That gives developers and companies more leverage on cost, deployment control, and data-governance choices.",
+  "friendlyWhyItMatters": "Open models can give builders more control and lower costs. This matters when companies want powerful AI without sending every task to a closed platform.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}

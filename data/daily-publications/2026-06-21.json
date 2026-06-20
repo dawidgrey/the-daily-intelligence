@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-21",
+  "slug": "2026-06-21",
+  "status": "published",
+  "publicationDateUtc": "2026-06-20T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from demos to daily work",
+  "friendlyHeader": "AI tools are starting to do repeat jobs for us",
+  "summary": "Today’s issue tracks a practical turn in AI: coding agents are getting scheduled, repeatable, and cheaper to run, while open models and agent-native tooling keep narrowing the gap with closed platforms. The through-line is simple: the useful AI story is shifting from chat to dependable workflows.",
+  "friendlySummary": "Today’s issue is about AI becoming more useful in everyday work. New tools can repeat tasks, watch for changes, help with code, protect private data, and make AI apps easier to build.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-21_01_cursor-adds-automate-for-plain-english-coding-automations_a8da9719",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_02_openai-codex-adds-record-replay-and-stronger-automation-controls_a4eaa5b0",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_03_chatgpt-scheduled-tasks-get-a-dedicated-management-flow_faf4321f",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_04_glm-5-2-targets-long-horizon-coding-with-1m-token-context_64d6b4cb",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_05_southbridge-argues-the-open-model-frontier-has-arrived_c6cc7ab1",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_06_subquadratic-claims-a-sparse-attention-breakthrough-for-cheaper-llms_a97e6c8a",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_07_magnitude-pitches-coding-agents-on-open-models-at-lower-cost_c5422a8b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_08_argusred-releases-an-ai-security-scan-and-pen-test-cli_bbeeb241",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_09_persona-js-brings-webmcp-native-agent-ui-to-vanilla-javascript_39879e19",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_10_alphafold-co-creator-john-jumper-is-leaving-deepmind-for-anthropic_cf84b5c9",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_11_microsoft-presidio_39a4ce69",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_12_code-yeongyu-oh-my-openagent_a7ae5c3d",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-21_13_ruvnet-ruflo_c289dc3d",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-21.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-21_08_argusred-releases-an-ai-security-scan-and-pen-test-cli_bbeeb241",
+  "sourceKind": "product",
+  "sourceName": "ArgusRed",
+  "sourceUrl": "https://www.argusred.com/cli",
+  "canonicalUrl": "https://www.argusred.com/cli",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-20T20:17:47Z",
+  "createdAtUtc": "2026-06-20T20:17:47Z",
+  "updatedAtUtc": "2026-06-20T20:17:47Z",
+  "title": "ArgusRed releases an AI security-scan and pen-test CLI",
+  "friendlyTitle": "ArgusRed uses AI to help find security problems in code",
+  "summary": "ArgusRed’s CLI offers read-only security scans and gated active pen-testing modes for authorized systems. The tool lets users choose security modules, configure agent permissions, and generate markdown reports with severity, cause, evidence, and fix direction.",
+  "friendlySummary": "ArgusRed is a command-line tool that can scan code for security issues and write a report. It has read-only mode and stricter settings for active testing.",
+  "whyItMatters": "Security is becoming one of the clearest practical uses for agentic code analysis, but permission boundaries matter. ArgusRed’s split between read-only scanning and explicitly gated exploit verification is the right design pattern to watch.",
+  "friendlyWhyItMatters": "AI can help teams spot risks earlier. The useful part is not just finding bugs, but doing it with clear limits so the tool does not act unsafely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-21"
+  }
+}
