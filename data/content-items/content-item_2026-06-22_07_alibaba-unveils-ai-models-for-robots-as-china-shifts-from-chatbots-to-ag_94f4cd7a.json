@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_07_alibaba-unveils-ai-models-for-robots-as-china-shifts-from-chatbots-to-ag_94f4cd7a",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/",
+  "canonicalUrl": "https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "Alibaba unveils AI models for robots as China shifts from chatbots to agents",
+  "friendlyTitle": "Alibaba is building AI models for robots",
+  "summary": "Reuters reported that Alibaba introduced its first suite of AI models for robots, reflecting a broader Chinese tech-industry shift from chatbots toward agents that can execute complex tasks. The models are aimed at making machines more intelligent and commercially useful.",
+  "friendlySummary": "Alibaba announced AI models made for robots. Reuters says this shows a move from simple chatbots toward AI that can take action.",
+  "whyItMatters": "The agent trend is moving beyond software screens into robotics and physical operations. For businesses, this points to AI systems that may eventually support warehouses, service robots, manufacturing and other machine-assisted workflows.",
+  "friendlyWhyItMatters": "This matters because AI may increasingly help machines do real-world tasks, not just answer questions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

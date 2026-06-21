@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-22",
+  "slug": "2026-06-22",
+  "status": "published",
+  "publicationDateUtc": "2026-06-21T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from demos into operating systems, workplaces and public services",
+  "friendlyHeader": "AI agents are becoming everyday work tools",
+  "summary": "Today’s issue tracks a practical turn in AI: stronger agentic models, discovery standards for tools, workplace control planes, public-sector deployments, and the infrastructure pressures that come with putting AI into daily operations.",
+  "friendlySummary": "Today we look at new AI tools that can help people work, search, build software, manage businesses, and understand where AI infrastructure is heading.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-22_01_anthropic-upgrades-claude-opus-4-8-for-coding-agents-and-long-running-wo_918121c4",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_02_github-copilot-adds-agent-finder-so-agents-can-discover-the-right-tools_68277841",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_03_microsoft-frames-enterprise-ai-around-model-diversity-trust-and-cost-con_1a2eed32",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_04_microsoft-ai-announces-seven-mai-models-across-reasoning-coding-image-an_f23e7a26",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_05_google-search-adds-gemini-3-5-flash-search-agents-and-an-ai-powered-sear_1f203743",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_06_github-previews-an-agent-native-copilot-desktop-app-for-managing-ai-deve_85f2e70c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_07_alibaba-unveils-ai-models-for-robots-as-china-shifts-from-chatbots-to-ag_94f4cd7a",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_08_meta-launches-a-business-ai-agent-for-whatsapp-messenger-and-instagram-w_b851ce3e",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_09_smpte-opens-its-standards-library-as-ai-authenticity-and-provenance-beco_7b7a7540",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_10_the-uk-home-office-launches-75m-policeai-center-for-digital-evidence-and_375c1518",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_11_jamiepine-voicebox_c04b1b26",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_12_zhulinsen-daily-stock-analysis_ca7dd68b",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-22_13_lyogavin-airllm_26149269",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-22.json",
+    "itemCount": 13
+  }
+}

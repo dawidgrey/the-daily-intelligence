@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-20T20:17:47Z",
+  "generatedAtUtc": "2026-06-21T20:13:29Z",
   "items": [
     {
-      "id": "content-item_2026-06-21_01_cursor-adds-automate-for-plain-english-coding-automations_a8da9719",
+      "id": "content-item_2026-06-22_01_anthropic-upgrades-claude-opus-4-8-for-coding-agents-and-long-running-wo_918121c4",
       "sourceKind": "product",
-      "sourceName": "Cursor",
-      "title": "Cursor adds /automate for plain-English coding automations",
-      "sourceUrl": "https://cursor.com/changelog/06-18-26"
+      "sourceName": "Anthropic",
+      "title": "Anthropic upgrades Claude Opus 4.8 for coding, agents and long-running work",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8"
     },
     {
-      "id": "content-item_2026-06-21_02_openai-codex-adds-record-replay-and-stronger-automation-controls_a4eaa5b0",
+      "id": "content-item_2026-06-22_02_github-copilot-adds-agent-finder-so-agents-can-discover-the-right-tools_68277841",
       "sourceKind": "product",
-      "sourceName": "OpenAI Developers",
-      "title": "OpenAI Codex adds Record & Replay and stronger automation controls",
-      "sourceUrl": "https://developers.openai.com/codex/changelog#codex-2026-06-18-app"
+      "sourceName": "GitHub Changelog",
+      "title": "GitHub Copilot adds agent finder so agents can discover the right tools on demand",
+      "sourceUrl": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/"
     },
     {
-      "id": "content-item_2026-06-21_03_chatgpt-scheduled-tasks-get-a-dedicated-management-flow_faf4321f",
-      "sourceKind": "product",
-      "sourceName": "OpenAI Help Center",
-      "title": "ChatGPT scheduled tasks get a dedicated management flow",
-      "sourceUrl": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
-    },
-    {
-      "id": "content-item_2026-06-21_04_glm-5-2-targets-long-horizon-coding-with-1m-token-context_64d6b4cb",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face / Z.AI",
-      "title": "GLM-5.2 targets long-horizon coding with 1M-token context",
-      "sourceUrl": "https://huggingface.co/blog/zai-org/glm-52-blog"
-    },
-    {
-      "id": "content-item_2026-06-21_05_southbridge-argues-the-open-model-frontier-has-arrived_c6cc7ab1",
+      "id": "content-item_2026-06-22_03_microsoft-frames-enterprise-ai-around-model-diversity-trust-and-cost-con_1a2eed32",
       "sourceKind": "article",
-      "sourceName": "Southbridge.AI",
-      "title": "Southbridge argues the open-model frontier has arrived",
-      "sourceUrl": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus"
+      "sourceName": "Microsoft Official Blog",
+      "title": "Microsoft frames enterprise AI around model diversity, trust and cost control",
+      "sourceUrl": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/"
     },
     {
-      "id": "content-item_2026-06-21_06_subquadratic-claims-a-sparse-attention-breakthrough-for-cheaper-llms_a97e6c8a",
-      "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "Subquadratic claims a sparse-attention breakthrough for cheaper LLMs",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
-    },
-    {
-      "id": "content-item_2026-06-21_07_magnitude-pitches-coding-agents-on-open-models-at-lower-cost_c5422a8b",
+      "id": "content-item_2026-06-22_04_microsoft-ai-announces-seven-mai-models-across-reasoning-coding-image-an_f23e7a26",
       "sourceKind": "product",
-      "sourceName": "Magnitude",
-      "title": "Magnitude pitches coding agents on open models at lower cost",
-      "sourceUrl": "https://magnitude.dev"
+      "sourceName": "Microsoft AI",
+      "title": "Microsoft AI announces seven MAI models across reasoning, coding, image and voice",
+      "sourceUrl": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
     },
     {
-      "id": "content-item_2026-06-21_08_argusred-releases-an-ai-security-scan-and-pen-test-cli_bbeeb241",
+      "id": "content-item_2026-06-22_05_google-search-adds-gemini-3-5-flash-search-agents-and-an-ai-powered-sear_1f203743",
       "sourceKind": "product",
-      "sourceName": "ArgusRed",
-      "title": "ArgusRed releases an AI security-scan and pen-test CLI",
-      "sourceUrl": "https://www.argusred.com/cli"
+      "sourceName": "Google Blog",
+      "title": "Google Search adds Gemini 3.5 Flash, Search agents and an AI-powered search box",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
     },
     {
-      "id": "content-item_2026-06-21_09_persona-js-brings-webmcp-native-agent-ui-to-vanilla-javascript_39879e19",
+      "id": "content-item_2026-06-22_06_github-previews-an-agent-native-copilot-desktop-app-for-managing-ai-deve_85f2e70c",
       "sourceKind": "product",
-      "sourceName": "Persona / Runtype Labs",
-      "title": "Persona.js brings WebMCP-native agent UI to vanilla JavaScript",
-      "sourceUrl": "https://www.persona-chat.dev/"
+      "sourceName": "GitHub Blog",
+      "title": "GitHub previews an agent-native Copilot desktop app for managing AI development work",
+      "sourceUrl": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"
     },
     {
-      "id": "content-item_2026-06-21_10_alphafold-co-creator-john-jumper-is-leaving-deepmind-for-anthropic_cf84b5c9",
+      "id": "content-item_2026-06-22_07_alibaba-unveils-ai-models-for-robots-as-china-shifts-from-chatbots-to-ag_94f4cd7a",
       "sourceKind": "article",
       "sourceName": "Reuters",
-      "title": "AlphaFold co-creator John Jumper is leaving DeepMind for Anthropic",
-      "sourceUrl": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/"
+      "title": "Alibaba unveils AI models for robots as China shifts from chatbots to agents",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/"
     },
     {
-      "id": "content-item_2026-06-21_11_microsoft-presidio_39a4ce69",
+      "id": "content-item_2026-06-22_08_meta-launches-a-business-ai-agent-for-whatsapp-messenger-and-instagram-w_b851ce3e",
+      "sourceKind": "product",
+      "sourceName": "Reuters",
+      "title": "Meta launches a business AI agent for WhatsApp, Messenger and Instagram workflows",
+      "sourceUrl": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/"
+    },
+    {
+      "id": "content-item_2026-06-22_09_smpte-opens-its-standards-library-as-ai-authenticity-and-provenance-beco_7b7a7540",
+      "sourceKind": "article",
+      "sourceName": "SMPTE",
+      "title": "SMPTE opens its standards library as AI authenticity and provenance become media priorities",
+      "sourceUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
+    },
+    {
+      "id": "content-item_2026-06-22_10_the-uk-home-office-launches-75m-policeai-center-for-digital-evidence-and_375c1518",
+      "sourceKind": "regulation",
+      "sourceName": "PublicTechnology",
+      "title": "The UK Home Office launches £75M PoliceAI center for digital evidence and policing tools",
+      "sourceUrl": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/"
+    },
+    {
+      "id": "content-item_2026-06-22_11_jamiepine-voicebox_c04b1b26",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "jamiepine/voicebox",
+      "sourceUrl": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "id": "content-item_2026-06-22_12_zhulinsen-daily-stock-analysis_ca7dd68b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "microsoft/presidio",
-      "sourceUrl": "https://github.com/microsoft/presidio"
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "sourceUrl": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
-      "id": "content-item_2026-06-21_12_code-yeongyu-oh-my-openagent_a7ae5c3d",
+      "id": "content-item_2026-06-22_13_lyogavin-airllm_26149269",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "code-yeongyu/oh-my-openagent",
-      "sourceUrl": "https://github.com/code-yeongyu/oh-my-openagent"
-    },
-    {
-      "id": "content-item_2026-06-21_13_ruvnet-ruflo_c289dc3d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "ruvnet/ruflo",
-      "sourceUrl": "https://github.com/ruvnet/ruflo"
+      "sourceName": "GitHub Trending Jupyter Notebook",
+      "title": "lyogavin/airllm",
+      "sourceUrl": "https://github.com/lyogavin/airllm"
     }
   ]
 }

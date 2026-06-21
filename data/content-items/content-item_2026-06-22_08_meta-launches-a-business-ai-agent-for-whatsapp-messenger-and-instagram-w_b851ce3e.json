@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_08_meta-launches-a-business-ai-agent-for-whatsapp-messenger-and-instagram-w_b851ce3e",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
+  "canonicalUrl": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "Meta launches a business AI agent for WhatsApp, Messenger and Instagram workflows",
+  "friendlyTitle": "Meta wants businesses to use AI agents in messages",
+  "summary": "Meta unveiled an AI Business Agent aimed at helping companies handle customer questions, bookings, orders, payments and sales across its messaging platforms. Reuters reports the product will expand to Instagram and connect with systems such as Shopify, Zendesk and Shopee.",
+  "friendlySummary": "Meta launched an AI agent that can help businesses answer customers, take bookings, place orders and handle payments in apps like WhatsApp and Instagram.",
+  "whyItMatters": "For small businesses, customer-facing agents may become a mainstream feature of messaging rather than a separate enterprise software purchase. The practical test will be whether these agents can act safely and escalate cleanly when a human is needed.",
+  "friendlyWhyItMatters": "This could make it easier for small businesses to offer faster customer service, but they will still need good human backup.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

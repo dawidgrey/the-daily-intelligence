@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_04_microsoft-ai-announces-seven-mai-models-across-reasoning-coding-image-an_f23e7a26",
+  "sourceKind": "product",
+  "sourceName": "Microsoft AI",
+  "sourceUrl": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+  "canonicalUrl": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "Microsoft AI announces seven MAI models across reasoning, coding, image and voice",
+  "friendlyTitle": "Microsoft launches its own family of AI models",
+  "summary": "Microsoft AI announced seven in-house MAI models spanning reasoning, agentic coding, image generation, transcription and speech generation. The company also introduced Frontier Tuning, a model-adaptation approach intended for enterprise-controlled deployments.",
+  "friendlySummary": "Microsoft announced new AI models for thinking, coding, images, speech and transcription. Some are aimed at developers and business users.",
+  "whyItMatters": "Microsoft is signaling that it wants more control over the model layer rather than only packaging other labs’ models. If the models perform as claimed, developers may see more Microsoft-native options inside Copilot, Foundry, VS Code and third-party inference platforms.",
+  "friendlyWhyItMatters": "More model choices can help people pick cheaper or faster AI tools for different jobs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

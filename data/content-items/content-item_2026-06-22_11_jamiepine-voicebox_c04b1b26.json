@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_11_jamiepine-voicebox_c04b1b26",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/jamiepine/voicebox",
+  "canonicalUrl": "https://github.com/jamiepine/voicebox",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "jamiepine/voicebox",
+  "friendlyTitle": "Voicebox: an open-source AI voice studio",
+  "summary": "Voicebox is an open-source AI voice studio for voice cloning, speech generation, dictation, transcription and agent voice integrations. It supports local-first workflows, multiple TTS engines, Whisper-based speech-to-text, a desktop app and MCP integration.",
+  "friendlySummary": "Voicebox helps you clone voices, create speech, dictate text and connect voice features to AI agents.",
+  "whyItMatters": "Use it to experiment with private voice workflows, prototype voice interfaces, build agent speech features or replace cloud-only voice tools with a local-first stack.",
+  "friendlyWhyItMatters": "It is useful if you want to test AI voice tools while keeping more of the work on your own machine.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_12_zhulinsen-daily-stock-analysis_ca7dd68b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "canonicalUrl": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "friendlyTitle": "daily_stock_analysis: AI stock reports on a schedule",
+  "summary": "daily_stock_analysis is an LLM-powered multi-market stock analysis system covering market data, news, fundamentals, technical indicators and automated decision reports. It supports scheduled runs and notifications across workplace messaging tools.",
+  "friendlySummary": "This repo uses AI to collect market data and news, then create stock analysis reports automatically.",
+  "whyItMatters": "Use it as a reference for building AI-assisted market dashboards, scheduled financial briefings or workflow automations that combine data retrieval, LLM analysis and notifications.",
+  "friendlyWhyItMatters": "It can help builders learn how to combine data, AI summaries and scheduled alerts in one workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

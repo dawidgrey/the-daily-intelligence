@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_01_anthropic-upgrades-claude-opus-4-8-for-coding-agents-and-long-running-wo_918121c4",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-opus-4-8",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "Anthropic upgrades Claude Opus 4.8 for coding, agents and long-running work",
+  "friendlyTitle": "Claude gets better at coding and longer tasks",
+  "summary": "Anthropic released Claude Opus 4.8, an Opus-class upgrade focused on coding, agentic reliability, reasoning, professional workflows and more efficient fast mode. The launch also adds Claude Code dynamic workflows and effort controls in Claude.ai and Cowork.",
+  "friendlySummary": "Anthropic updated Claude Opus with stronger coding, reasoning and agent skills. It is meant to work more reliably on bigger jobs.",
+  "whyItMatters": "For people using AI as a daily collaborator, the important shift is not just benchmark lift but fewer tool-calling mistakes, better self-checking and more dependable long-running work. Teams building with Claude get a stronger default model without changing the basic workflow.",
+  "friendlyWhyItMatters": "This can make Claude more useful for everyday work where you need an AI helper to keep track of a task and avoid simple mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

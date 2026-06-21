@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_06_github-previews-an-agent-native-copilot-desktop-app-for-managing-ai-deve_85f2e70c",
+  "sourceKind": "product",
+  "sourceName": "GitHub Blog",
+  "sourceUrl": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+  "canonicalUrl": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "GitHub previews an agent-native Copilot desktop app for managing AI development work",
+  "friendlyTitle": "GitHub is building a desktop app for managing coding agents",
+  "summary": "GitHub introduced the Copilot app, a technical preview desktop experience for managing agent sessions, issues, pull requests, automations and isolated worktrees. The app is positioned as a control center for agentic software development.",
+  "friendlySummary": "GitHub’s Copilot app helps developers see agent sessions, code changes and pull requests in one place. It is designed for teams using several AI coding agents at once.",
+  "whyItMatters": "As coding agents do more work in parallel, developers need ways to track what is running, what changed and where human review is required. A dedicated agent workspace can reduce the chaos of switching between chats, terminals, branches and pull requests.",
+  "friendlyWhyItMatters": "This can make AI-assisted coding easier to manage and review instead of feeling scattered across many windows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

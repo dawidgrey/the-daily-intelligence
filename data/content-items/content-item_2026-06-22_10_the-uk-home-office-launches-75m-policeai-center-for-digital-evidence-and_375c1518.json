@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_10_the-uk-home-office-launches-75m-policeai-center-for-digital-evidence-and_375c1518",
+  "sourceKind": "regulation",
+  "sourceName": "PublicTechnology",
+  "sourceUrl": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+  "canonicalUrl": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "The UK Home Office launches £75M PoliceAI center for digital evidence and policing tools",
+  "friendlyTitle": "The UK is creating a police AI center",
+  "summary": "The UK Home Office launched PoliceAI, a £75 million national center intended to test and scale AI tools across policing in England and Wales. Early pilots will focus on triaging, disclosing and summarizing digital evidence, with a public registry and independent testing planned.",
+  "friendlySummary": "The UK Home Office is funding PoliceAI to test AI tools for police work, especially handling large amounts of digital evidence.",
+  "whyItMatters": "This is a concrete example of AI moving into high-stakes public services, where speed gains must be balanced with transparency, bias testing and public consent. The public registry requirement is a notable governance signal for other government AI deployments.",
+  "friendlyWhyItMatters": "This could save time in investigations, but it also needs strong checks for fairness, accuracy and public trust.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

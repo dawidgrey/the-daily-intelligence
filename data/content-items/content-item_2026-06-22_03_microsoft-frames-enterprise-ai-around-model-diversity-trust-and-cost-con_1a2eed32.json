@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_03_microsoft-frames-enterprise-ai-around-model-diversity-trust-and-cost-con_1a2eed32",
+  "sourceKind": "article",
+  "sourceName": "Microsoft Official Blog",
+  "sourceUrl": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
+  "canonicalUrl": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "Microsoft frames enterprise AI around model diversity, trust and cost control",
+  "friendlyTitle": "Microsoft says companies need AI systems, not just AI models",
+  "summary": "Microsoft argued that successful enterprise AI depends on combining organizational intelligence with trust, governance and financial controls. The company highlighted model diversity, Microsoft IQ, Agent 365, Foundry and Agent Factory as pieces of a managed AI operating model.",
+  "friendlySummary": "Microsoft says businesses should use AI with clear controls for cost, security and data. It also says companies should avoid relying on only one model.",
+  "whyItMatters": "The message is a useful counterweight to model hype: businesses need observability, data context, governance and spend management as much as raw model capability. For workers, that means enterprise AI is likely to appear as managed systems embedded in workflows, not just standalone chatbots.",
+  "friendlyWhyItMatters": "This matters because workplace AI will need to be safe, affordable and connected to real company knowledge to be useful.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

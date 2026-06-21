@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_09_smpte-opens-its-standards-library-as-ai-authenticity-and-provenance-beco_7b7a7540",
+  "sourceKind": "article",
+  "sourceName": "SMPTE",
+  "sourceUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+  "canonicalUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "SMPTE opens its standards library as AI authenticity and provenance become media priorities",
+  "friendlyTitle": "Important media standards are now free to read",
+  "summary": "SMPTE made its full standards catalog freely accessible, including standards, recommended practices, engineering guidelines and future releases. The organization cited industry shifts including IP workflows, AI authenticity and content provenance.",
+  "friendlySummary": "SMPTE opened its standards library to everyone. These standards help video, film and media tools work together, including areas affected by AI.",
+  "whyItMatters": "As generated and edited media become harder to distinguish from captured media, open standards matter for provenance, interoperability and trustworthy production pipelines. Developers, creators and media companies now have easier access to the specifications behind professional workflows.",
+  "friendlyWhyItMatters": "This can help creators and developers build more reliable tools for media authenticity and provenance.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}

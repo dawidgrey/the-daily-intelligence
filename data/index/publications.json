@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-20T20:17:47Z",
+  "generatedAtUtc": "2026-06-21T20:13:30Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-22",
+      "slug": "2026-06-22",
+      "status": "published",
+      "publicationDateUtc": "2026-06-21T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into operating systems, workplaces and public services",
+      "friendlyHeader": "AI agents are becoming everyday work tools",
+      "summary": "Today’s issue tracks a practical turn in AI: stronger agentic models, discovery standards for tools, workplace control planes, public-sector deployments, and the infrastructure pressures that come with putting AI into daily operations.",
+      "friendlySummary": "Today we look at new AI tools that can help people work, search, build software, manage businesses, and understand where AI infrastructure is heading.",
+      "itemCount": 13,
+      "href": "issues/2026-06-22.html",
+      "dataUrl": "data/daily-publications/2026-06-22.json"
+    },
     {
       "id": "daily-publication_2026-06-21",
       "slug": "2026-06-21",

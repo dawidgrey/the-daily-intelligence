@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-22_02_github-copilot-adds-agent-finder-so-agents-can-discover-the-right-tools_68277841",
+  "sourceKind": "product",
+  "sourceName": "GitHub Changelog",
+  "sourceUrl": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/",
+  "canonicalUrl": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-21T20:13:29Z",
+  "createdAtUtc": "2026-06-21T20:13:29Z",
+  "updatedAtUtc": "2026-06-21T20:13:29Z",
+  "title": "GitHub Copilot adds agent finder so agents can discover the right tools on demand",
+  "friendlyTitle": "Copilot can now help find the right agent tools",
+  "summary": "GitHub made agent finder available for Copilot, letting users describe a task and receive ranked matches for MCP servers, skills, canvases, agents and tools. The feature implements the open Agentic Resource Discovery specification and is available across Copilot plans.",
+  "friendlySummary": "GitHub Copilot can search for useful tools and agents based on what you are trying to do. It recommends matches instead of forcing you to set everything up by hand.",
+  "whyItMatters": "Tool discovery is becoming a core bottleneck for practical agents: loading every possible tool wastes context, while manual setup does not scale. Agent finder points toward AI systems that can assemble the right capabilities for a job while preserving admin control.",
+  "friendlyWhyItMatters": "This makes AI coding agents easier to use, especially for teams with many tools and rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-22"
+  }
+}
