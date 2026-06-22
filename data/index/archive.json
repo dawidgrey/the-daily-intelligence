@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-06-21T20:13:30Z",
+  "generatedAtUtc": "2026-06-22T20:10:24Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-06-23",
+      "slug": "2026-06-23",
+      "status": "published",
+      "publicationDateUtc": "2026-06-22T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agent orchestration, cyber patching, and AI’s next workplace wave",
+      "friendlyHeader": "AI is becoming more useful at work and in daily tools",
+      "summary": "Today’s issue tracks a practical shift: AI systems are moving from single chatbots toward orchestrated agents, security workflows, enterprise rollouts, and everyday assistant features. The common thread is less spectacle and more integration into work, software, media, and local-language access.",
+      "friendlySummary": "Today we look at AI tools that help with security, coding, research, voice assistants, images, documents, and robots. The big idea: AI is becoming less like a demo and more like part of real workflows.",
+      "itemCount": 13,
+      "href": "issues/2026-06-23.html",
+      "dataUrl": "data/daily-publications/2026-06-23.json"
+    },
     {
       "id": "daily-publication_2026-06-22",
       "slug": "2026-06-22",

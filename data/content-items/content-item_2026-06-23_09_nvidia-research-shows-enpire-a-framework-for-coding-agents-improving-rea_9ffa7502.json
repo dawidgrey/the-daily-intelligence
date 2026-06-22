@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_09_nvidia-research-shows-enpire-a-framework-for-coding-agents-improving-rea_9ffa7502",
+  "sourceKind": "research",
+  "sourceName": "NVIDIA Research",
+  "sourceUrl": "https://research.nvidia.com/labs/gear/enpire/",
+  "canonicalUrl": "https://research.nvidia.com/labs/gear/enpire/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "NVIDIA Research shows ENPIRE, a framework for coding agents improving real robot policies",
+  "friendlyTitle": "NVIDIA showed AI agents improving real robot tasks",
+  "summary": "NVIDIA Research introduced ENPIRE, a framework where coding agents iteratively improve real-world robot manipulation policies using automated reset, rollout, verification, and evolution loops. The project reports high success rates on dexterous manipulation tasks such as GPU insertion, pin insertion, and zip-tie handling.",
+  "friendlySummary": "NVIDIA’s ENPIRE project lets coding agents test and improve robot behavior through repeated real-world experiments.",
+  "whyItMatters": "The work points toward AI agents that can improve physical-world systems through controlled experimentation, not just write code or text. For robotics, manufacturing, and labs, better autonomous policy iteration could reduce the amount of human trial-and-error needed to make robots useful.",
+  "friendlyWhyItMatters": "This could help robots learn useful tasks faster, with less manual tuning by humans.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

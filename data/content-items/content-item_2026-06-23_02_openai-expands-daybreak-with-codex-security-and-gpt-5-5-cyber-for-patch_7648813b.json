@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_02_openai-expands-daybreak-with-codex-security-and-gpt-5-5-cyber-for-patch_7648813b",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/daybreak-securing-the-world/",
+  "canonicalUrl": "https://openai.com/index/daybreak-securing-the-world/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "OpenAI expands Daybreak with Codex Security and GPT-5.5-Cyber for patch automation",
+  "friendlyTitle": "OpenAI wants AI to help fix security bugs, not just find them",
+  "summary": "OpenAI expanded its Daybreak cybersecurity initiative with an updated Codex Security plugin, the full GPT-5.5-Cyber model for trusted defenders, a partner program, and a Patch the Planet open-source remediation effort. The announcement frames patching—not vulnerability discovery—as the next major bottleneck for AI-assisted security.",
+  "friendlySummary": "OpenAI’s Daybreak update adds tools that scan code, explain security problems, and suggest fixes for human review.",
+  "whyItMatters": "Security teams are being flooded with findings from scanners and AI tools; the practical value comes from validated fixes that actually land. If Codex Security can move more issues from report to reviewed patch, it could change how developers handle application security inside daily workflows.",
+  "friendlyWhyItMatters": "This matters because companies need help fixing real software problems faster, not just getting longer lists of warnings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

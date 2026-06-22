@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_07_amazon-is-testing-alexa-in-india-with-hindi-support_8703ff57",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "Amazon is testing Alexa+ in India with Hindi support",
+  "friendlyTitle": "Amazon is testing a Hindi version of Alexa+ in India",
+  "summary": "TechCrunch reports that Amazon has invited selected Indian users to beta test Alexa+ with Hindi-language support. The test appears to target Hindi and Hindi-English code-mixed voice use, though Amazon has not announced a full India launch date.",
+  "friendlySummary": "Amazon is inviting some users in India to test Alexa+ with Hindi support.",
+  "whyItMatters": "Voice assistants become much more useful when they understand local languages and everyday speech patterns. For India’s large Hindi-speaking market, better conversational AI could make AI assistance accessible to users who do not want to type prompts in English.",
+  "friendlyWhyItMatters": "This could help more people use AI by speaking naturally in their own language or mixing Hindi and English.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

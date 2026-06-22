@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-23",
+  "slug": "2026-06-23",
+  "status": "published",
+  "publicationDateUtc": "2026-06-22T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agent orchestration, cyber patching, and AI’s next workplace wave",
+  "friendlyHeader": "AI is becoming more useful at work and in daily tools",
+  "summary": "Today’s issue tracks a practical shift: AI systems are moving from single chatbots toward orchestrated agents, security workflows, enterprise rollouts, and everyday assistant features. The common thread is less spectacle and more integration into work, software, media, and local-language access.",
+  "friendlySummary": "Today we look at AI tools that help with security, coding, research, voice assistants, images, documents, and robots. The big idea: AI is becoming less like a demo and more like part of real workflows.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-23_01_sakana-ai-launches-fugu-a-multi-agent-system-exposed-as-one-model-api_1a96bbe6",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_02_openai-expands-daybreak-with-codex-security-and-gpt-5-5-cyber-for-patch_7648813b",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_03_samsung-electronics-rolls-out-chatgpt-enterprise-and-codex-to-employees_44b47518",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_04_google-deepmind-and-a24-form-an-ai-filmmaking-research-partnership_42bdd8da",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_05_getty-images-signs-a-display-partnership-to-bring-licensed-visuals-into_3c44ea3b",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_06_micron-and-anthropic-announce-a-memory-and-storage-infrastructure-agreem_b67b6772",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_07_amazon-is-testing-alexa-in-india-with-hindi-support_8703ff57",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_08_paddlepaddle-releases-pp-ocrv6-models-on-hugging-face-for-lightweight-mu_493a508e",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_09_nvidia-research-shows-enpire-a-framework-for-coding-agents-improving-rea_9ffa7502",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_10_eight-weeks-of-llm-pricing-data-show-stability-at-major-labs-but-a-huge_4a55c5a5",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_11_mukul975-anthropic-cybersecurity-skills_ed99da94",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_12_bytedance-deer-flow_ab15f474",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-23_13_firecrawl-firecrawl_2c7b3111",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-23.json",
+    "itemCount": 13
+  }
+}

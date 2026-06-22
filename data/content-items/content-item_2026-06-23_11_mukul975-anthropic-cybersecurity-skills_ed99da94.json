@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_11_mukul975-anthropic-cybersecurity-skills_ed99da94",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "canonicalUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "friendlyTitle": "A big library of cybersecurity skills for AI agents",
+  "summary": "A large open-source library of structured cybersecurity skills for AI agents, with 817 skills mapped to frameworks including MITRE ATT&CK, NIST CSF, MITRE ATLAS, D3FEND, NIST AI RMF, and MITRE F3. The repo is designed for agent platforms such as Claude Code, Copilot, Codex CLI, Cursor, Gemini CLI, and other agentskills.io-compatible tools.",
+  "friendlySummary": "This GitHub project gives AI agents hundreds of structured cybersecurity playbooks.",
+  "whyItMatters": "Security teams can use the repository as a reusable playbook layer for AI agents handling SOC, DFIR, red-team, cloud-security, compliance, and threat-hunting work. It is especially useful when an agent needs repeatable procedures rather than generic security advice.",
+  "friendlyWhyItMatters": "It can help security teams give agents clearer step-by-step methods for investigating and fixing security problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

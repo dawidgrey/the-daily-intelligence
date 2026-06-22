@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_05_getty-images-signs-a-display-partnership-to-bring-licensed-visuals-into_3c44ea3b",
+  "sourceKind": "product",
+  "sourceName": "Getty Images Newsroom",
+  "sourceUrl": "https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai",
+  "canonicalUrl": "https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "Getty Images signs a display partnership to bring licensed visuals into ChatGPT",
+  "friendlyTitle": "ChatGPT will be able to show licensed Getty Images content",
+  "summary": "Getty Images announced a multi-year agreement with OpenAI to display Getty’s licensed content libraries inside ChatGPT search and discovery experiences. Getty says the goal is richer and more trustworthy visual responses using licensed imagery.",
+  "friendlySummary": "Getty Images made a deal with OpenAI so some Getty photos and visuals can appear in ChatGPT search and discovery features.",
+  "whyItMatters": "AI search is becoming more visual, and licensing deals will shape what users see inside assistants. For publishers, creators, and marketers, this is another sign that provenance and rights-cleared media are becoming core infrastructure for AI products.",
+  "friendlyWhyItMatters": "This may make AI answers with images more useful and safer for copyright, because the pictures come from a licensed source.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

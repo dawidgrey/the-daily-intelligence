@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_12_bytedance-deer-flow_ab15f474",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/bytedance/deer-flow",
+  "canonicalUrl": "https://github.com/bytedance/deer-flow",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "bytedance/deer-flow",
+  "friendlyTitle": "A long-running AI agent framework from ByteDance",
+  "summary": "ByteDance’s DeerFlow is an open-source long-horizon agent harness for research, coding, creation, and multi-step workflows. Version 2.0 combines sub-agents, memory, sandboxes, tools, skills, workspaces, and message-gateway concepts for tasks that may run minutes to hours.",
+  "friendlySummary": "DeerFlow is an open-source project for agents that can research, code, use tools, and work on longer tasks.",
+  "whyItMatters": "Developers can study or run DeerFlow to understand how modern agent systems coordinate tools, memories, sub-agents, and execution environments. It is a useful reference for teams building deep-research agents, workflow automations, or supervised long-running AI workers.",
+  "friendlyWhyItMatters": "It is useful for developers who want to learn how bigger agent systems are put together.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

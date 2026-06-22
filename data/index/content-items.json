@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-21T20:13:29Z",
+  "generatedAtUtc": "2026-06-22T20:10:23Z",
   "items": [
     {
-      "id": "content-item_2026-06-22_01_anthropic-upgrades-claude-opus-4-8-for-coding-agents-and-long-running-wo_918121c4",
+      "id": "content-item_2026-06-23_01_sakana-ai-launches-fugu-a-multi-agent-system-exposed-as-one-model-api_1a96bbe6",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic upgrades Claude Opus 4.8 for coding, agents and long-running work",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8"
+      "sourceName": "Sakana AI",
+      "title": "Sakana AI launches Fugu, a multi-agent system exposed as one model API",
+      "sourceUrl": "https://sakana.ai/fugu-release/"
     },
     {
-      "id": "content-item_2026-06-22_02_github-copilot-adds-agent-finder-so-agents-can-discover-the-right-tools_68277841",
+      "id": "content-item_2026-06-23_02_openai-expands-daybreak-with-codex-security-and-gpt-5-5-cyber-for-patch_7648813b",
       "sourceKind": "product",
-      "sourceName": "GitHub Changelog",
-      "title": "GitHub Copilot adds agent finder so agents can discover the right tools on demand",
-      "sourceUrl": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI expands Daybreak with Codex Security and GPT-5.5-Cyber for patch automation",
+      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world/"
     },
     {
-      "id": "content-item_2026-06-22_03_microsoft-frames-enterprise-ai-around-model-diversity-trust-and-cost-con_1a2eed32",
+      "id": "content-item_2026-06-23_03_samsung-electronics-rolls-out-chatgpt-enterprise-and-codex-to-employees_44b47518",
       "sourceKind": "article",
-      "sourceName": "Microsoft Official Blog",
-      "title": "Microsoft frames enterprise AI around model diversity, trust and cost control",
-      "sourceUrl": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/"
+      "sourceName": "OpenAI",
+      "title": "Samsung Electronics rolls out ChatGPT Enterprise and Codex to employees",
+      "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/"
     },
     {
-      "id": "content-item_2026-06-22_04_microsoft-ai-announces-seven-mai-models-across-reasoning-coding-image-an_f23e7a26",
-      "sourceKind": "product",
-      "sourceName": "Microsoft AI",
-      "title": "Microsoft AI announces seven MAI models across reasoning, coding, image and voice",
-      "sourceUrl": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
-    },
-    {
-      "id": "content-item_2026-06-22_05_google-search-adds-gemini-3-5-flash-search-agents-and-an-ai-powered-sear_1f203743",
-      "sourceKind": "product",
+      "id": "content-item_2026-06-23_04_google-deepmind-and-a24-form-an-ai-filmmaking-research-partnership_42bdd8da",
+      "sourceKind": "article",
       "sourceName": "Google Blog",
-      "title": "Google Search adds Gemini 3.5 Flash, Search agents and an AI-powered search box",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+      "title": "Google DeepMind and A24 form an AI filmmaking research partnership",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/"
     },
     {
-      "id": "content-item_2026-06-22_06_github-previews-an-agent-native-copilot-desktop-app-for-managing-ai-deve_85f2e70c",
+      "id": "content-item_2026-06-23_05_getty-images-signs-a-display-partnership-to-bring-licensed-visuals-into_3c44ea3b",
       "sourceKind": "product",
-      "sourceName": "GitHub Blog",
-      "title": "GitHub previews an agent-native Copilot desktop app for managing AI development work",
-      "sourceUrl": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"
+      "sourceName": "Getty Images Newsroom",
+      "title": "Getty Images signs a display partnership to bring licensed visuals into ChatGPT",
+      "sourceUrl": "https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai"
     },
     {
-      "id": "content-item_2026-06-22_07_alibaba-unveils-ai-models-for-robots-as-china-shifts-from-chatbots-to-ag_94f4cd7a",
+      "id": "content-item_2026-06-23_06_micron-and-anthropic-announce-a-memory-and-storage-infrastructure-agreem_b67b6772",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Alibaba unveils AI models for robots as China shifts from chatbots to agents",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/"
+      "sourceName": "Micron Investor Relations",
+      "title": "Micron and Anthropic announce a memory and storage infrastructure agreement",
+      "sourceUrl": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next"
     },
     {
-      "id": "content-item_2026-06-22_08_meta-launches-a-business-ai-agent-for-whatsapp-messenger-and-instagram-w_b851ce3e",
-      "sourceKind": "product",
-      "sourceName": "Reuters",
-      "title": "Meta launches a business AI agent for WhatsApp, Messenger and Instagram workflows",
-      "sourceUrl": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/"
-    },
-    {
-      "id": "content-item_2026-06-22_09_smpte-opens-its-standards-library-as-ai-authenticity-and-provenance-beco_7b7a7540",
+      "id": "content-item_2026-06-23_07_amazon-is-testing-alexa-in-india-with-hindi-support_8703ff57",
       "sourceKind": "article",
-      "sourceName": "SMPTE",
-      "title": "SMPTE opens its standards library as AI authenticity and provenance become media priorities",
-      "sourceUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
+      "sourceName": "TechCrunch",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
     },
     {
-      "id": "content-item_2026-06-22_10_the-uk-home-office-launches-75m-policeai-center-for-digital-evidence-and_375c1518",
-      "sourceKind": "regulation",
-      "sourceName": "PublicTechnology",
-      "title": "The UK Home Office launches £75M PoliceAI center for digital evidence and policing tools",
-      "sourceUrl": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/"
+      "id": "content-item_2026-06-23_08_paddlepaddle-releases-pp-ocrv6-models-on-hugging-face-for-lightweight-mu_493a508e",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog",
+      "title": "PaddlePaddle releases PP-OCRv6 models on Hugging Face for lightweight multilingual OCR",
+      "sourceUrl": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
     },
     {
-      "id": "content-item_2026-06-22_11_jamiepine-voicebox_c04b1b26",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "jamiepine/voicebox",
-      "sourceUrl": "https://github.com/jamiepine/voicebox"
+      "id": "content-item_2026-06-23_09_nvidia-research-shows-enpire-a-framework-for-coding-agents-improving-rea_9ffa7502",
+      "sourceKind": "research",
+      "sourceName": "NVIDIA Research",
+      "title": "NVIDIA Research shows ENPIRE, a framework for coding agents improving real robot policies",
+      "sourceUrl": "https://research.nvidia.com/labs/gear/enpire/"
     },
     {
-      "id": "content-item_2026-06-22_12_zhulinsen-daily-stock-analysis_ca7dd68b",
+      "id": "content-item_2026-06-23_10_eight-weeks-of-llm-pricing-data-show-stability-at-major-labs-but-a-huge_4a55c5a5",
+      "sourceKind": "article",
+      "sourceName": "Token Prices",
+      "title": "Eight weeks of LLM pricing data show stability at major labs but a huge cost spread",
+      "sourceUrl": "https://tokenprices.io/blog/llm-pricing-8-weeks"
+    },
+    {
+      "id": "content-item_2026-06-23_11_mukul975-anthropic-cybersecurity-skills_ed99da94",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "sourceUrl": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "sourceUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
-      "id": "content-item_2026-06-22_13_lyogavin-airllm_26149269",
+      "id": "content-item_2026-06-23_12_bytedance-deer-flow_ab15f474",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Jupyter Notebook",
-      "title": "lyogavin/airllm",
-      "sourceUrl": "https://github.com/lyogavin/airllm"
+      "sourceName": "GitHub Trending Python",
+      "title": "bytedance/deer-flow",
+      "sourceUrl": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "id": "content-item_2026-06-23_13_firecrawl-firecrawl_2c7b3111",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "firecrawl/firecrawl",
+      "sourceUrl": "https://github.com/firecrawl/firecrawl"
     }
   ]
 }

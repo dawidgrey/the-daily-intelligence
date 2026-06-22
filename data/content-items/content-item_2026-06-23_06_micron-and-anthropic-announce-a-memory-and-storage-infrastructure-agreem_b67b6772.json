@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_06_micron-and-anthropic-announce-a-memory-and-storage-infrastructure-agreem_b67b6772",
+  "sourceKind": "article",
+  "sourceName": "Micron Investor Relations",
+  "sourceUrl": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
+  "canonicalUrl": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "Micron and Anthropic announce a memory and storage infrastructure agreement",
+  "friendlyTitle": "Micron and Anthropic will work together on AI hardware infrastructure",
+  "summary": "Micron announced a strategic agreement with Anthropic covering AI memory and storage architecture design, supply, Claude adoption inside Micron, and a strategic investment in Anthropic’s Series H round. The companies say the work will focus on improving performance, energy efficiency, and token economics for Anthropic’s infrastructure.",
+  "friendlySummary": "Micron will work with Anthropic on memory and storage systems that help run Claude models more efficiently.",
+  "whyItMatters": "Frontier AI competition is increasingly about the full hardware stack, not just model algorithms. Better memory and storage design can affect model cost, latency, availability, and ultimately the price and reliability of AI tools people use every day.",
+  "friendlyWhyItMatters": "Better infrastructure can make AI services faster, cheaper, and more reliable over time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

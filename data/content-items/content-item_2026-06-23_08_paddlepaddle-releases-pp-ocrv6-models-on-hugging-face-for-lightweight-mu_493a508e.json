@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_08_paddlepaddle-releases-pp-ocrv6-models-on-hugging-face-for-lightweight-mu_493a508e",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "canonicalUrl": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "PaddlePaddle releases PP-OCRv6 models on Hugging Face for lightweight multilingual OCR",
+  "friendlyTitle": "A new small OCR model can read text in 50 languages",
+  "summary": "PaddlePaddle published PP-OCRv6 on Hugging Face, with tiny, small, and medium OCR models ranging from 1.5M to 34.5M parameters. The small and medium variants support 50 languages and ship with Paddle, Transformers, and ONNX Runtime deployment options.",
+  "friendlySummary": "PaddlePaddle released PP-OCRv6, a family of small AI models that can read text from images, documents, and screenshots.",
+  "whyItMatters": "OCR remains one of the most practical AI building blocks for documents, screenshots, receipts, labels, and automation. Compact multilingual models make it easier to run text extraction in cheaper, faster, or local workflows instead of sending every image to a large vision model.",
+  "friendlyWhyItMatters": "This helps apps turn pictures of text into usable data without needing a huge AI model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}

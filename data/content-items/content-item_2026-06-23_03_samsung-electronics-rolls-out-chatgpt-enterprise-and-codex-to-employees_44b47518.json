@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-23_03_samsung-electronics-rolls-out-chatgpt-enterprise-and-codex-to-employees_44b47518",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
+  "canonicalUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-22T20:10:23Z",
+  "createdAtUtc": "2026-06-22T20:10:23Z",
+  "updatedAtUtc": "2026-06-22T20:10:23Z",
+  "title": "Samsung Electronics rolls out ChatGPT Enterprise and Codex to employees",
+  "friendlyTitle": "Samsung is giving many employees ChatGPT and Codex",
+  "summary": "OpenAI said Samsung Electronics is deploying ChatGPT Enterprise and Codex to all employees in Korea and to Device eXperience division employees worldwide. The rollout spans R&D, manufacturing, software development, marketing, product development, and corporate functions.",
+  "friendlySummary": "Samsung is rolling out OpenAI tools to workers across engineering, manufacturing, product, marketing, and office teams.",
+  "whyItMatters": "Large enterprise deployments are where AI tooling moves from pilot projects into everyday operating systems for work. Samsung’s adoption also signals that coding agents like Codex are being positioned for both technical and non-technical workflows.",
+  "friendlyWhyItMatters": "This shows AI tools are becoming normal workplace software, not just tools for developers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-23"
+  }
+}
