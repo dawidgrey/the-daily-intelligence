@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_09_paper-argues-coding-agents-could-replace-mandatory-human-code-review_06e9ae37",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2606.13175",
+  "canonicalUrl": "https://arxiv.org/abs/2606.13175",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "Paper argues coding agents could replace mandatory human code review",
+  "friendlyTitle": "A research paper questions the future of human code review",
+  "summary": "A new arXiv paper, The End of Code Review: Coding Agents Supersede Human Inspection, argues that LLM-based coding agents can serve the goals of traditional code review at lower cost and higher throughput. The author contends that requiring humans to review all AI-generated code may become an assurance bottleneck rather than a safeguard.",
+  "friendlySummary": "A paper argues that coding agents may soon handle many jobs that human code reviewers do today, especially as AI writes more code.",
+  "whyItMatters": "Whether or not the thesis is too strong, it captures a real workflow pressure: AI can generate changes faster than humans can inspect them. Engineering teams will need new quality gates built around tests, agents, provenance, and targeted human review rather than blanket approvals.",
+  "friendlyWhyItMatters": "Software teams may need new ways to check code because AI can create changes very quickly. Humans may review the riskiest parts instead of every line.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

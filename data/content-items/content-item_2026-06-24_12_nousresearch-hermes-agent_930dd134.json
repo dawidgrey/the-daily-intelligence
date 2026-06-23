@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_12_nousresearch-hermes-agent_930dd134",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent",
+  "canonicalUrl": "https://github.com/NousResearch/hermes-agent",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "NousResearch/hermes-agent",
+  "friendlyTitle": "Hermes Agent is an open-source AI sidekick framework",
+  "summary": "Hermes Agent is an open-source, provider-agnostic AI agent framework with terminal use, messaging gateways, scheduled automations, persistent memory, profiles, skills, and multi-platform deployment. The project emphasizes agents that can learn reusable skills and operate across CLI, chat platforms, and remote infrastructure.",
+  "friendlySummary": "Hermes Agent lets people run an AI assistant in the terminal, messaging apps, scheduled jobs, and custom workflows.",
+  "whyItMatters": "It is useful for people who want one AI agent system that can run in a terminal, Discord, Slack, Telegram, cron jobs, and custom workflows while keeping local skills and memory. Developers can also study it as a full-stack reference for tool-calling agents.",
+  "friendlyWhyItMatters": "Use it if you want an AI helper that can remember workflows, use tools, run automations, and work from more than one place.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

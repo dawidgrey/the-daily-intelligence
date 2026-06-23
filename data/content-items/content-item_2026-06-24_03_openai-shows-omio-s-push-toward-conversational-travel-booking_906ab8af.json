@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_03_openai-shows-omio-s-push-toward-conversational-travel-booking_906ab8af",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/omio/",
+  "canonicalUrl": "https://openai.com/index/omio/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "OpenAI shows Omio’s push toward conversational travel booking",
+  "friendlyTitle": "Omio is using AI to make travel planning more conversational",
+  "summary": "OpenAI published a case study on Omio using ChatGPT, Codex, and the API to build conversational travel experiences connected to live transport inventory across 3,000 providers in 47 countries. Omio also reports using Codex across engineering workflows, from planning and coding to review and maintenance.",
+  "friendlySummary": "OpenAI explained how Omio uses AI so people can ask travel questions in normal language and get real bookable options.",
+  "whyItMatters": "Travel is a practical test of AI commerce because answers must connect to real schedules, prices, and booking systems. If this pattern works, more consumer services may shift from search boxes and filters toward grounded, bookable conversations.",
+  "friendlyWhyItMatters": "This points to a future where booking a trip feels more like asking a helpful assistant than searching through many tabs. Less tab-juggling, more suitcase-packing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

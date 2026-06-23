@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_04_openai-launches-patch-the-planet-for-open-source-security-fixes_21db3534",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/patch-the-planet/",
+  "canonicalUrl": "https://openai.com/index/patch-the-planet/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "OpenAI launches Patch the Planet for open-source security fixes",
+  "friendlyTitle": "OpenAI wants to help important open-source projects fix security bugs",
+  "summary": "OpenAI announced Patch the Planet, a Daybreak initiative with Trail of Bits, HackerOne, and Calif to help open-source maintainers validate, patch, test, and disclose security vulnerabilities. Initial participants include cURL, NATS Server, pyca/cryptography, Sigstore, aiohttp, Go, freenginx, Python, and python.org.",
+  "friendlySummary": "OpenAI started Patch the Planet with security partners. The program helps maintainers find, check, fix, and disclose real software security problems.",
+  "whyItMatters": "AI can find more vulnerabilities, but maintainers need help turning findings into reviewed fixes. The useful part here is the full loop: expert validation, patch development, tests, and disclosure support instead of just more noisy reports.",
+  "friendlyWhyItMatters": "This matters because many apps rely on open-source code. Finding bugs is not enough; someone has to help fix them properly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

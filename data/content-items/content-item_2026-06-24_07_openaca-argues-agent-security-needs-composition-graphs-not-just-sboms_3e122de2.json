@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_07_openaca-argues-agent-security-needs-composition-graphs-not-just-sboms_3e122de2",
+  "sourceKind": "article",
+  "sourceName": "OpenACA",
+  "sourceUrl": "https://openaca.dev/blog/your-agent-risk-is-in-the-composition/",
+  "canonicalUrl": "https://openaca.dev/blog/your-agent-risk-is-in-the-composition/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "OpenACA argues agent security needs composition graphs, not just SBOMs",
+  "friendlyTitle": "Agent security is about how the pieces connect",
+  "summary": "OpenACA argues that agent risk comes from how plugins, skills, MCP servers, hooks, permissions, packages, install paths, and runtime context combine. Its marketplace scan of Claude plugins found composition exposures concentrated in message-channel plugins that ingest untrusted input and can send data back out.",
+  "friendlySummary": "OpenACA says checking one plugin or package at a time is not enough. The risk often comes from the way many agent parts work together.",
+  "whyItMatters": "Agent security cannot be evaluated by dependency lists alone because the dangerous behavior often emerges from the connections between components. Teams adopting agent plugins need review tools that understand capabilities, permissions, and data flow together.",
+  "friendlyWhyItMatters": "If an AI agent can read messages, use tools, and send data out, teams need to understand the whole setup. The wiring matters, not just the parts list.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

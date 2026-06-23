@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_05_hugging-face-describes-weekly-ai-assisted-releases-for-huggingface-hub_49c16039",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "canonicalUrl": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "Hugging Face describes weekly AI-assisted releases for huggingface_hub",
+  "friendlyTitle": "Hugging Face shows how AI helps it ship software every week",
+  "summary": "Hugging Face explained how it moved huggingface_hub releases from a 4–6 week manual cadence to weekly releases using GitHub Actions, OpenCode, an open-weights model, deterministic validation, and human review. The team’s framing is simple: the model drafts, deterministic code verifies, and a human decides.",
+  "friendlySummary": "Hugging Face shared a workflow where AI drafts release notes and automation handles repeatable steps, while humans still approve the final release.",
+  "whyItMatters": "This is a concrete workflow pattern for maintainers who want AI help without handing over release authority. It shows where agents can remove drudge work while preserving human judgment at the final gate.",
+  "friendlyWhyItMatters": "This is a practical example of using AI safely at work: let AI do the boring first draft, then let people make the final call.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

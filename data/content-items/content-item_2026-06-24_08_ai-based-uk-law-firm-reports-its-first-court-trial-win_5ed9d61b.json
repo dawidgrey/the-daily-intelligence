@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_08_ai-based-uk-law-firm-reports-its-first-court-trial-win_5ed9d61b",
+  "sourceKind": "article",
+  "sourceName": "Computer Weekly",
+  "sourceUrl": "https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court",
+  "canonicalUrl": "https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "AI-based UK law firm reports its first court trial win",
+  "friendlyTitle": "An AI-powered UK law firm helped win a real court case",
+  "summary": "Computer Weekly reports that Garfield AI, a regulated AI-based UK law firm, supported a freelancer through a Wandsworth County Court case that recovered £7,000 in unpaid fees. Garfield AI helped with correspondence, proceedings, document production, witness statements, trial bundles, and counterclaim response, while both sides used barristers at trial.",
+  "friendlySummary": "A freelancer used Garfield AI to help recover £7,000 in unpaid fees. The AI service helped prepare legal documents and court materials.",
+  "whyItMatters": "The practical signal is access to justice for smaller claims where traditional legal costs can exceed the value of the dispute. Regulated AI legal services may first reshape routine, document-heavy cases before they affect complex litigation.",
+  "friendlyWhyItMatters": "This shows how AI may make smaller legal claims more affordable. It is not magic-lawyer-in-a-box, but it can help with expensive paperwork.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

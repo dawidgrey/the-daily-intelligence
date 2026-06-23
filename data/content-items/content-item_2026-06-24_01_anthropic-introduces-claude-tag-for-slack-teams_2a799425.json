@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_01_anthropic-introduces-claude-tag-for-slack-teams_2a799425",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag",
+  "canonicalUrl": "https://www.anthropic.com/news/introducing-claude-tag",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "Anthropic introduces Claude Tag for Slack teams",
+  "friendlyTitle": "Claude can now work inside Slack channels",
+  "summary": "Anthropic launched Claude Tag, a beta feature for Claude Enterprise and Team customers that lets teams tag @Claude inside Slack channels. Claude can use approved tools and data, retain channel context, break tasks into stages, and work asynchronously in public threads.",
+  "friendlySummary": "Anthropic made a new beta feature called Claude Tag. Teams can mention Claude in Slack and ask it to help with work using approved tools and information.",
+  "whyItMatters": "The interface matters as much as the model: a shared Slack agent turns AI from a private assistant into a visible team workflow participant. For businesses, the practical questions now shift to permissions, auditability, and how much organizational context an agent should be allowed to remember.",
+  "friendlyWhyItMatters": "This could make AI feel more like a teammate than a chatbot. It also means companies need clear rules about what the AI can see and do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

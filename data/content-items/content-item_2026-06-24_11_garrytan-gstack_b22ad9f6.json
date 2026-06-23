@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_11_garrytan-gstack_b22ad9f6",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/garrytan/gstack",
+  "canonicalUrl": "https://github.com/garrytan/gstack",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "garrytan/gstack",
+  "friendlyTitle": "GStack is a ready-made AI product-building workflow",
+  "summary": "GStack packages Garry Tan’s opinionated Claude Code setup into a workflow of skills for planning, design review, engineering review, QA, security review, release, documentation, and team memory. The repo frames the process as Think → Plan → Build → Review → Test → Ship → Reflect.",
+  "friendlySummary": "GStack gives Claude Code a set of skills for planning, reviewing, testing, shipping, and learning from software work.",
+  "whyItMatters": "Builders can use it as a ready-made operating system for AI-assisted product development, especially when they want structured reviews and guardrails around coding agents. It is also useful as a reference for designing multi-skill agent workflows.",
+  "friendlyWhyItMatters": "Use it if you want a more organized way to work with coding agents instead of just asking one big prompt and hoping for the best.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

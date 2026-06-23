@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-22T20:10:24Z",
+  "generatedAtUtc": "2026-06-23T20:16:50Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-24",
+      "slug": "2026-06-24",
+      "status": "published",
+      "publicationDateUtc": "2026-06-23T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves deeper into the tools people already use",
+      "friendlyHeader": "AI is showing up inside everyday tools",
+      "summary": "Today’s issue tracks AI moving from demos into daily work: Slack-native agents, safer sandboxes for generated code, AI-assisted open-source security, weekly release automation, hiring interviews, smart glasses, and the agent-building projects developers are actually starring.",
+      "friendlySummary": "Today we look at AI that helps inside work chats, travel apps, code tools, hiring, smart glasses, and open-source projects. The big theme: AI is becoming more useful when it fits into normal daily routines.",
+      "itemCount": 13,
+      "href": "issues/2026-06-24.html",
+      "dataUrl": "data/daily-publications/2026-06-24.json"
+    },
     {
       "id": "daily-publication_2026-06-23",
       "slug": "2026-06-23",

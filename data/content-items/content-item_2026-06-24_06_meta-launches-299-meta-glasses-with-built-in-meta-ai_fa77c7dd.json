@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_06_meta-launches-299-meta-glasses-with-built-in-meta-ai_fa77c7dd",
+  "sourceKind": "product",
+  "sourceName": "Meta Newsroom",
+  "sourceUrl": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+  "canonicalUrl": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "Meta launches $299 Meta Glasses with built-in Meta AI",
+  "friendlyTitle": "Meta’s new AI glasses start at $299",
+  "summary": "Meta and EssilorLuxottica introduced Meta Glasses, a new line of AI glasses starting at $299 with 26 launch styles, prescription-lens compatibility, camera, open-ear speakers, and Meta AI powered by Muse Spark from day one. Meta says the glasses offer over eight hours of battery life plus up to 40 additional hours from the charging case.",
+  "friendlySummary": "Meta announced a new line of smart glasses with a camera, speakers, and Meta AI built in. They come in many styles and can use prescription lenses.",
+  "whyItMatters": "AI wearables are becoming cheaper and more mainstream even without full AR displays. For daily life, the near-term battleground is hands-free capture, audio, translation, navigation, and contextual assistance rather than floating holograms.",
+  "friendlyWhyItMatters": "This makes AI glasses more affordable and normal-looking. The useful features are everyday ones: asking questions, taking photos, hearing audio, and getting help hands-free.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_10_fika-jobs-raises-4m-for-ai-agent-video-interviews_6117a020",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "Fika Jobs raises $4M for AI-agent video interviews",
+  "friendlyTitle": "Fika Jobs uses AI agents to interview job candidates",
+  "summary": "TechCrunch reports that Stockholm-based Fika Jobs raised a $4 million pre-seed round to build a video-first hiring platform where AI agents interview candidates and turn responses into short profile clips. The system is currently powered by Gemini models and opens early access to candidates this week.",
+  "friendlySummary": "Fika Jobs raised $4 million for a hiring platform where candidates do short video interviews with an AI agent. The platform turns those answers into profiles for employers.",
+  "whyItMatters": "Hiring is one of the clearest places where AI agents can reduce friction and introduce new risks at the same time. Candidates may get richer profiles than resumes allow, but employers will need to handle bias, consent, transparency, and evaluation standards carefully.",
+  "friendlyWhyItMatters": "This could help people show more than a résumé can show. It also needs strong fairness rules so AI interviews do not become another black box.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}

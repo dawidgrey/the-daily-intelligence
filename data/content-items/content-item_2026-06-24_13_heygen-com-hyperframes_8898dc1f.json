@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-24_13_heygen-com-hyperframes_8898dc1f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/heygen-com/hyperframes",
+  "canonicalUrl": "https://github.com/heygen-com/hyperframes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-23T20:16:50Z",
+  "createdAtUtc": "2026-06-23T20:16:50Z",
+  "updatedAtUtc": "2026-06-23T20:16:50Z",
+  "title": "heygen-com/hyperframes",
+  "friendlyTitle": "HyperFrames lets agents make videos from HTML",
+  "summary": "HyperFrames is an open-source framework for writing video compositions in HTML, CSS, and seekable animations, then rendering deterministic MP4 output with headless Chrome and FFmpeg. It is explicitly designed for agents, with skills that help plan, build, lint, preview, and render videos.",
+  "friendlySummary": "HyperFrames turns HTML, CSS, media, and animations into MP4 videos. It includes workflows for AI coding agents.",
+  "whyItMatters": "Teams can use it to automate product videos, launch clips, docs-to-video workflows, charts, captions, and reusable branded motion templates. It gives coding agents a concrete, testable video-production target instead of vague creative instructions.",
+  "friendlyWhyItMatters": "Use it to make repeatable product videos, explainers, or social clips with code instead of editing everything by hand.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-24"
+  }
+}
