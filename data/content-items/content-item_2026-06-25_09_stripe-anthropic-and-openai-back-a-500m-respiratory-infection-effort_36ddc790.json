@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_09_stripe-anthropic-and-openai-back-a-500m-respiratory-infection-effort_36ddc790",
+  "sourceKind": "article",
+  "sourceName": "MIT Technology Review",
+  "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+  "canonicalUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "Stripe, Anthropic, and OpenAI back a $500M respiratory-infection effort",
+  "friendlyTitle": "AI and tech funders are backing a big push to stop colds and flu",
+  "summary": "MIT Technology Review reports that Stripe, Anthropic, the OpenAI Foundation, Bill Gates, Flu Lab, and others are backing Intercept, a $500 million nonprofit aimed at preventing common respiratory infections. The effort plans to fund broad vaccines, RNA drugs, antibodies, engineered nasal-spray proteins, and air-cleaning systems for shared spaces.",
+  "friendlySummary": "A new nonprofit called Intercept is raising $500 million to support better ways to prevent respiratory infections, from broad vaccines to cleaner indoor air.",
+  "whyItMatters": "This is a reminder that AI-era fortunes are increasingly funding public-health infrastructure and computational biology, not only software products. If successful, the daily-life impact would be very direct: fewer colds and flu infections in schools, offices, and public spaces.",
+  "friendlyWhyItMatters": "This could matter to almost everyone because colds and flu interrupt daily life. Less sick time would be a very practical kind of innovation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

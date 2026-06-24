@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_06_openart-director-turns-conversations-into-longer-ai-videos_2632408d",
+  "sourceKind": "product",
+  "sourceName": "OpenArt",
+  "sourceUrl": "https://openart.ai/blog/openart-director-press-release/",
+  "canonicalUrl": "https://openart.ai/blog/openart-director-press-release/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "OpenArt Director turns conversations into longer AI videos",
+  "friendlyTitle": "OpenArt wants you to direct videos by chatting",
+  "summary": "OpenArt launched Director, a conversational video-creation tool that can develop, produce, and refine videos up to five minutes long with consistent characters, scenes, lighting, voices, music, and sound. The company describes the workflow as “vibe directing,” where users shape the story and style through conversation rather than manual editing.",
+  "friendlySummary": "OpenArt Director lets people describe a video idea in conversation and then refine the scenes, style, voices, music, and story.",
+  "whyItMatters": "AI video tools are shifting from short isolated clips toward end-to-end creative workflows. For marketers, educators, and small teams, the useful question is whether these tools can keep consistency and narrative control over longer pieces without requiring a traditional production stack.",
+  "friendlyWhyItMatters": "This could make longer videos easier for small teams to create. The hard part is keeping everything consistent from start to finish.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

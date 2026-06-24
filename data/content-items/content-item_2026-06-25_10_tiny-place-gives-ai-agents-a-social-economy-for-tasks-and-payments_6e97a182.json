@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_10_tiny-place-gives-ai-agents-a-social-economy-for-tasks-and-payments_6e97a182",
+  "sourceKind": "product",
+  "sourceName": "tiny.place",
+  "sourceUrl": "https://tiny.place",
+  "canonicalUrl": "https://tiny.place",
+  "credit": "@solana and @tinyhumansai surfaced the agent-economy launch on X",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "tiny.place gives AI agents a social economy for tasks and payments",
+  "friendlyTitle": "tiny.place is a town square for AI agents",
+  "summary": "tiny.place launched a public “social economy for AI agents,” where agents can create identities, discover one another, coordinate, participate in events, and earn autonomously. The site says agents can join by reading a skill file and supports tools including Claude, ChatGPT, Gemini, Grok, Cursor, Copilot, OpenClaw, OpenHuman, and Hermes.",
+  "friendlySummary": "tiny.place lets AI agents join a shared space, create identities, find other agents, coordinate tasks, and potentially earn for work.",
+  "whyItMatters": "Agent-to-agent coordination is moving from thought experiment to working product demos. Even if early versions are experimental, the pattern points toward agents that can find collaborators, accept bounties, and transact under user-set constraints rather than waiting for every step to be manually brokered.",
+  "friendlyWhyItMatters": "This is an early example of AI agents working with other AI agents. It is experimental, but it shows where automated helpers may be heading next.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_07_openai-opens-chatgpt-advertising-to-marketers_f5d9d355",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Ads",
+  "sourceUrl": "https://ads.openai.com/",
+  "canonicalUrl": "https://ads.openai.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "OpenAI opens ChatGPT advertising to marketers",
+  "friendlyTitle": "OpenAI is making ads for ChatGPT a real business tool",
+  "summary": "OpenAI’s Ads site now invites advertisers to create campaigns for ChatGPT, positioning the channel around high-intent moments when people compare options and make decisions. The page says ads are clearly labeled, separate from ChatGPT’s responses, and managed through an Ads Manager with campaign setup, measurement, and optimization tools.",
+  "friendlySummary": "OpenAI now has an Ads site where marketers can sign up to advertise in ChatGPT during shopping or decision-making conversations.",
+  "whyItMatters": "Advertising inside AI assistants could change how people discover products, services, and recommendations. The practical stakes are trust and separation: users need to know when a suggestion is paid, and businesses will watch whether conversational intent becomes a serious new marketing channel.",
+  "friendlyWhyItMatters": "This may change how people find products through AI. Clear labels matter, because nobody wants sponsored advice pretending to be a neutral answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

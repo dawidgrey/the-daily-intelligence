@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_13_stablyai-orca_4747a804",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/stablyai/orca",
+  "canonicalUrl": "https://github.com/stablyai/orca",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "stablyai/orca",
+  "friendlyTitle": "Orca helps you manage many coding agents at once",
+  "summary": "Orca is an AI development environment for running multiple CLI coding agents side by side, each in its own worktree, while tracking tasks, terminals, GitHub issues, pull requests, and reviews in one app. It supports agents such as Codex, Claude Code, OpenCode, and other terminal-based tools, with desktop and mobile companion workflows.",
+  "friendlySummary": "Orca lets developers run several AI coding agents side by side, each in a separate work area, and compare their results.",
+  "whyItMatters": "Developers can use Orca to fan one task across several agents, compare outputs, steer progress remotely, and merge the best result. It is a practical orchestration layer for teams experimenting with parallel agent development rather than one-agent-at-a-time workflows.",
+  "friendlyWhyItMatters": "Use it if you want to try multiple agents on the same coding task without turning your repo into spaghetti with a keyboard.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

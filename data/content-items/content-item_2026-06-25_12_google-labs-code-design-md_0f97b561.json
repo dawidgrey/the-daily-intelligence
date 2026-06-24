@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_12_google-labs-code-design-md_0f97b561",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/google-labs-code/design.md",
+  "canonicalUrl": "https://github.com/google-labs-code/design.md",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "google-labs-code/design.md",
+  "friendlyTitle": "DESIGN.md gives coding agents design rules they can follow",
+  "summary": "design.md defines a format for giving coding agents a persistent, structured understanding of a visual identity. A DESIGN.md file combines machine-readable design tokens in YAML front matter with human-readable Markdown guidance about typography, colors, layout, components, and design rationale.",
+  "friendlySummary": "This repo proposes a simple file format for describing colors, fonts, spacing, components, and design rules for AI coding agents.",
+  "whyItMatters": "Teams can use it to make AI-generated interfaces more consistent with an existing brand or design system. It is especially useful when agents need both exact token values and plain-English guidance about how those choices should be applied.",
+  "friendlyWhyItMatters": "Use it when you want AI-built screens to match your brand instead of looking like generic prompt soup.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

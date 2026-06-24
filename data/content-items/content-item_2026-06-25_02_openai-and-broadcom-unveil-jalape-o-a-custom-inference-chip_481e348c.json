@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_02_openai-and-broadcom-unveil-jalape-o-a-custom-inference-chip_481e348c",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+  "canonicalUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "OpenAI and Broadcom unveil Jalapeño, a custom inference chip",
+  "friendlyTitle": "OpenAI is building its own AI chip with Broadcom",
+  "summary": "OpenAI and Broadcom announced Jalapeño, OpenAI’s first custom Intelligence Processor for large-language-model inference. The companies say the chip is designed for OpenAI workloads such as ChatGPT, Codex, the API, and future agentic products, with initial deployment targeted by the end of 2026.",
+  "friendlySummary": "OpenAI announced a custom chip called Jalapeño for running AI models after they are trained. It is meant to power products like ChatGPT, Codex, and future agents.",
+  "whyItMatters": "Inference cost, speed, and power use now shape what AI products can offer to everyday users. If OpenAI can run models more efficiently on its own hardware, it may support lower latency, broader access, and more always-on agent features—but final benchmarks are still pending.",
+  "friendlyWhyItMatters": "Better chips can make AI faster, cheaper, and more available. The useful details will depend on real performance tests, not just spicy chip names.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

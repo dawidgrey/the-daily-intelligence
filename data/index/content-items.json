@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-23T20:16:50Z",
+  "generatedAtUtc": "2026-06-24T20:08:00Z",
   "items": [
     {
-      "id": "content-item_2026-06-24_01_anthropic-introduces-claude-tag-for-slack-teams_2a799425",
+      "id": "content-item_2026-06-25_01_google-adds-computer-use-to-gemini-3-5-flash_0ce8c6ad",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic introduces Claude Tag for Slack teams",
-      "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag"
+      "sourceName": "Google DeepMind",
+      "title": "Google adds computer use to Gemini 3.5 Flash",
+      "sourceUrl": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
     },
     {
-      "id": "content-item_2026-06-24_02_aws-lambda-microvms-target-safer-execution-for-ai-generated-code_e03f083d",
-      "sourceKind": "product",
-      "sourceName": "AWS News Blog",
-      "title": "AWS Lambda MicroVMs target safer execution for AI-generated code",
-      "sourceUrl": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
-    },
-    {
-      "id": "content-item_2026-06-24_03_openai-shows-omio-s-push-toward-conversational-travel-booking_906ab8af",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI shows Omio’s push toward conversational travel booking",
-      "sourceUrl": "https://openai.com/index/omio/"
-    },
-    {
-      "id": "content-item_2026-06-24_04_openai-launches-patch-the-planet-for-open-source-security-fixes_21db3534",
+      "id": "content-item_2026-06-25_02_openai-and-broadcom-unveil-jalape-o-a-custom-inference-chip_481e348c",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI launches Patch the Planet for open-source security fixes",
-      "sourceUrl": "https://openai.com/index/patch-the-planet/"
+      "title": "OpenAI and Broadcom unveil Jalapeño, a custom inference chip",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
     },
     {
-      "id": "content-item_2026-06-24_05_hugging-face-describes-weekly-ai-assisted-releases-for-huggingface-hub_49c16039",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face describes weekly AI-assisted releases for huggingface_hub",
-      "sourceUrl": "https://huggingface.co/blog/huggingface-hub-release-ci"
-    },
-    {
-      "id": "content-item_2026-06-24_06_meta-launches-299-meta-glasses-with-built-in-meta-ai_fa77c7dd",
-      "sourceKind": "product",
-      "sourceName": "Meta Newsroom",
-      "title": "Meta launches $299 Meta Glasses with built-in Meta AI",
-      "sourceUrl": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/"
-    },
-    {
-      "id": "content-item_2026-06-24_07_openaca-argues-agent-security-needs-composition-graphs-not-just-sboms_3e122de2",
-      "sourceKind": "article",
-      "sourceName": "OpenACA",
-      "title": "OpenACA argues agent security needs composition graphs, not just SBOMs",
-      "sourceUrl": "https://openaca.dev/blog/your-agent-risk-is-in-the-composition/"
-    },
-    {
-      "id": "content-item_2026-06-24_08_ai-based-uk-law-firm-reports-its-first-court-trial-win_5ed9d61b",
-      "sourceKind": "article",
-      "sourceName": "Computer Weekly",
-      "title": "AI-based UK law firm reports its first court trial win",
-      "sourceUrl": "https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court"
-    },
-    {
-      "id": "content-item_2026-06-24_09_paper-argues-coding-agents-could-replace-mandatory-human-code-review_06e9ae37",
+      "id": "content-item_2026-06-25_03_qwen-releases-agentworld-for-language-based-agent-simulation_e75a5d92",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Paper argues coding agents could replace mandatory human code review",
-      "sourceUrl": "https://arxiv.org/abs/2606.13175"
+      "sourceName": "Qwen",
+      "title": "Qwen releases AgentWorld for language-based agent simulation",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-agentworld"
     },
     {
-      "id": "content-item_2026-06-24_10_fika-jobs-raises-4m-for-ai-agent-video-interviews_6117a020",
+      "id": "content-item_2026-06-25_04_figma-turns-code-motion-shaders-and-ai-tools-into-canvas-materials_9a43ccf2",
+      "sourceKind": "product",
+      "sourceName": "Figma Blog",
+      "title": "Figma turns code, motion, shaders, and AI tools into canvas materials",
+      "sourceUrl": "https://www.figma.com/blog/config-2026-recap/"
+    },
+    {
+      "id": "content-item_2026-06-25_05_facebook-brings-back-creator-studio-as-an-ai-powered-companion-app_790c3e4a",
+      "sourceKind": "product",
+      "sourceName": "Meta / Facebook Creators",
+      "title": "Facebook brings back Creator Studio as an AI-powered companion app",
+      "sourceUrl": "https://creators.facebook.com/blog/introducing-new-facebook-creator-studio"
+    },
+    {
+      "id": "content-item_2026-06-25_06_openart-director-turns-conversations-into-longer-ai-videos_2632408d",
+      "sourceKind": "product",
+      "sourceName": "OpenArt",
+      "title": "OpenArt Director turns conversations into longer AI videos",
+      "sourceUrl": "https://openart.ai/blog/openart-director-press-release/"
+    },
+    {
+      "id": "content-item_2026-06-25_07_openai-opens-chatgpt-advertising-to-marketers_f5d9d355",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Ads",
+      "title": "OpenAI opens ChatGPT advertising to marketers",
+      "sourceUrl": "https://ads.openai.com/"
+    },
+    {
+      "id": "content-item_2026-06-25_08_meta-pauses-employee-computer-use-tracking-for-ai-training_997455b5",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Fika Jobs raises $4M for AI-agent video interviews",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
+      "sourceName": "The Guardian",
+      "title": "Meta pauses employee computer-use tracking for AI training",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns"
     },
     {
-      "id": "content-item_2026-06-24_11_garrytan-gstack_b22ad9f6",
+      "id": "content-item_2026-06-25_09_stripe-anthropic-and-openai-back-a-500m-respiratory-infection-effort_36ddc790",
+      "sourceKind": "article",
+      "sourceName": "MIT Technology Review",
+      "title": "Stripe, Anthropic, and OpenAI back a $500M respiratory-infection effort",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+    },
+    {
+      "id": "content-item_2026-06-25_10_tiny-place-gives-ai-agents-a-social-economy-for-tasks-and-payments_6e97a182",
+      "sourceKind": "product",
+      "sourceName": "tiny.place",
+      "title": "tiny.place gives AI agents a social economy for tasks and payments",
+      "sourceUrl": "https://tiny.place"
+    },
+    {
+      "id": "content-item_2026-06-25_11_jcodesmore-ai-website-cloner-template_2a59fbf9",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
-      "title": "garrytan/gstack",
-      "sourceUrl": "https://github.com/garrytan/gstack"
+      "title": "JCodesMore/ai-website-cloner-template",
+      "sourceUrl": "https://github.com/JCodesMore/ai-website-cloner-template"
     },
     {
-      "id": "content-item_2026-06-24_12_nousresearch-hermes-agent_930dd134",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "NousResearch/hermes-agent",
-      "sourceUrl": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "id": "content-item_2026-06-24_13_heygen-com-hyperframes_8898dc1f",
+      "id": "content-item_2026-06-25_12_google-labs-code-design-md_0f97b561",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
-      "title": "heygen-com/hyperframes",
-      "sourceUrl": "https://github.com/heygen-com/hyperframes"
+      "title": "google-labs-code/design.md",
+      "sourceUrl": "https://github.com/google-labs-code/design.md"
+    },
+    {
+      "id": "content-item_2026-06-25_13_stablyai-orca_4747a804",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "stablyai/orca",
+      "sourceUrl": "https://github.com/stablyai/orca"
     }
   ]
 }

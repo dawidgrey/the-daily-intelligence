@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_04_figma-turns-code-motion-shaders-and-ai-tools-into-canvas-materials_9a43ccf2",
+  "sourceKind": "product",
+  "sourceName": "Figma Blog",
+  "sourceUrl": "https://www.figma.com/blog/config-2026-recap/",
+  "canonicalUrl": "https://www.figma.com/blog/config-2026-recap/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "Figma turns code, motion, shaders, and AI tools into canvas materials",
+  "friendlyTitle": "Figma is making design, code, and motion work together",
+  "summary": "At Config 2026, Figma announced code layers, Figma Motion, shader fills and effects, generative plugins, and expanded AI agent tooling. Code layers will let teams place interactive code directly on the collaborative canvas, while motion timelines and MCP-compatible handoff bring animation closer to design systems and coding agents.",
+  "friendlySummary": "Figma announced new tools for putting code, animations, visual effects, and AI-generated plugins directly on the design canvas.",
+  "whyItMatters": "Design tools are becoming shared product-building environments rather than static mockup spaces. For teams using AI coding agents, structured code, motion, and design context inside Figma can make handoffs more precise and reduce the gap between prototype and implementation.",
+  "friendlyWhyItMatters": "This can help designers, developers, and product people try ideas together faster. It gives AI coding tools clearer design instructions instead of vague guesses.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

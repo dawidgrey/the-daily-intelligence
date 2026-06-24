@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_03_qwen-releases-agentworld-for-language-based-agent-simulation_e75a5d92",
+  "sourceKind": "research",
+  "sourceName": "Qwen",
+  "sourceUrl": "https://qwen.ai/blog?id=qwen-agentworld",
+  "canonicalUrl": "https://qwen.ai/blog?id=qwen-agentworld",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "Qwen releases AgentWorld for language-based agent simulation",
+  "friendlyTitle": "Qwen made a practice world for AI agents",
+  "summary": "Alibaba’s Qwen team released Qwen-AgentWorld, a language world model trained to simulate agent environments across terminal, software engineering, web, OS, Android, search, and MCP domains. The release includes AgentWorldBench and open model weights for a 35B-A3B variant, with a larger 397B-A17B model evaluated in the paper.",
+  "friendlySummary": "Qwen-AgentWorld helps simulate what happens when an AI agent uses tools like a terminal, browser, phone interface, or search system.",
+  "whyItMatters": "Agents need ways to practice, plan, and evaluate actions before touching live systems. Language world models could become a cheaper, safer layer for training and testing agents that use tools, browsers, phones, APIs, and code environments.",
+  "friendlyWhyItMatters": "This can help agents learn and test actions before they operate real software. Think flight simulator, but for AI agents instead of pilots.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}

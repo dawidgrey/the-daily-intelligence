@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-25_05_facebook-brings-back-creator-studio-as-an-ai-powered-companion-app_790c3e4a",
+  "sourceKind": "product",
+  "sourceName": "Meta / Facebook Creators",
+  "sourceUrl": "https://creators.facebook.com/blog/introducing-new-facebook-creator-studio",
+  "canonicalUrl": "https://creators.facebook.com/blog/introducing-new-facebook-creator-studio",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-24T20:08:00Z",
+  "createdAtUtc": "2026-06-24T20:08:00Z",
+  "updatedAtUtc": "2026-06-24T20:08:00Z",
+  "title": "Facebook brings back Creator Studio as an AI-powered companion app",
+  "friendlyTitle": "Facebook’s Creator Studio is coming back with AI help",
+  "summary": "Meta is relaunching Facebook Creator Studio as a dedicated AI-powered app for creators, with personalized recommendations, daily priorities, performance insights, and an AI comment tool that drafts replies in the creator’s voice for approval. Meta says the app is designed to help creators focus on growth and community management outside the main Facebook feed.",
+  "friendlySummary": "Meta is turning Creator Studio into an AI app for creators. It can suggest what to focus on, explain performance, and draft comment replies for review.",
+  "whyItMatters": "Creator tools are moving from dashboards toward coaching agents that interpret analytics and suggest next actions. The practical value will come from saving time on content planning and comments while keeping humans in control of what gets posted.",
+  "friendlyWhyItMatters": "This could save creators time and make analytics easier to understand. The creator still needs to approve replies, which is the right kind of seatbelt.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-25"
+  }
+}
