@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_05_notion-mail-is-shutting-down-as-notion-leans-into-email-agents_a0e0d17a",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "Notion Mail is shutting down as Notion leans into email agents",
+  "friendlyTitle": "Notion Mail is closing because Notion wants agents to handle email",
+  "summary": "TechCrunch reports that Notion will shut down Notion Mail on September 22, 2026, saying more users are handing email workflows to agents rather than opening a traditional inbox. Gmail messages remain intact, but users may need to export drafts, scheduled emails, snippets, and auto-label instructions.",
+  "friendlySummary": "Notion is closing its email app and focusing on AI agents that manage email tasks. Gmail messages stay safe, but some Notion Mail data may need exporting.",
+  "whyItMatters": "Email is a useful early test for everyday agents because it combines routine actions, personal context, and high error cost. Users should treat the shutdown as a reminder to check export paths, fallback workflows, and which automations will keep running when a product changes direction.",
+  "friendlyWhyItMatters": "If you rely on AI email tools, make sure you can save your drafts, rules, and settings. AI features are useful, but products can change quickly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

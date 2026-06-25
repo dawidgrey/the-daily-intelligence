@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_07_giskard-finds-a-unicode-corruption-edge-case-in-openai-json-mode_c174c0ba",
+  "sourceKind": "research",
+  "sourceName": "Giskard Research",
+  "sourceUrl": "https://research.giskard.ai/blog/structured-output/",
+  "canonicalUrl": "https://research.giskard.ai/blog/structured-output/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "Giskard finds a Unicode corruption edge case in OpenAI JSON mode",
+  "friendlyTitle": "Valid JSON can still contain bad text",
+  "summary": "Giskard Research reports that OpenAI and Azure OpenAI JSON mode can return syntactically valid JSON with semantically corrupted Unicode escape sequences, such as turning intended accented characters into strings containing NUL bytes. The post says the issue can break downstream systems like PostgreSQL and can be avoided by using raw UTF-8 rather than escaped Unicode examples.",
+  "friendlySummary": "Giskard found that JSON mode can sometimes create valid JSON that has the wrong characters inside it, especially with escaped accents.",
+  "whyItMatters": "Structured output is often treated as a reliability switch, but this is a reminder that valid JSON is not the same as correct data. Production teams should add semantic validation, database-safe string checks, and regression tests around multilingual or escaped-character fields.",
+  "friendlyWhyItMatters": "Do not trust structured AI output just because it parses. Apps should still check the actual data before saving it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

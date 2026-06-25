@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_09_researchers-assess-where-ai-can-help-fight-misinformation_9e1d2fee",
+  "sourceKind": "article",
+  "sourceName": "Knowable Magazine",
+  "sourceUrl": "https://knowablemagazine.org/content/article/technology/2026/fighting-false-facts-with-artificial-intelligence-tools",
+  "canonicalUrl": "https://knowablemagazine.org/content/article/technology/2026/fighting-false-facts-with-artificial-intelligence-tools",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "Researchers assess where AI can help fight misinformation",
+  "friendlyTitle": "AI may help spot misinformation, but humans still matter",
+  "summary": "Knowable Magazine surveys research into using AI to detect, summarize, contextualize, and counter online misinformation while emphasizing that these tools are not replacements for human fact-checkers. The piece covers both older machine-learning classifiers and newer LLM-based systems that can triage claims and map narratives at scale.",
+  "friendlySummary": "Researchers are testing AI tools that can find suspicious claims, summarize patterns, and help fact-checkers work faster.",
+  "whyItMatters": "For everyday users and organizations, the useful framing is cautious augmentation: AI can help sort and explain suspicious claims, but it still needs evidence, transparency, and human review. That matters as synthetic media and automated content farms make information hygiene a daily-life skill.",
+  "friendlyWhyItMatters": "AI can help us deal with false information, but it should not be the only judge. People still need to check evidence and context.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

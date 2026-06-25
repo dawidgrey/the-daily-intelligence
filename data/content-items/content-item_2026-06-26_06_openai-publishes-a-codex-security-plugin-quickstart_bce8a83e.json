@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_06_openai-publishes-a-codex-security-plugin-quickstart_bce8a83e",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Developers",
+  "sourceUrl": "https://developers.openai.com/codex/security/plugin",
+  "canonicalUrl": "https://developers.openai.com/codex/security/plugin",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "OpenAI publishes a Codex Security plugin quickstart",
+  "friendlyTitle": "OpenAI explains how to run a Codex security scan",
+  "summary": "OpenAI’s developer documentation now walks users through installing the Codex Security plugin and running a first read-only scan of a local repository inside a Codex thread. Completed scans produce a findings workspace plus portable artifacts such as reports, manifests, findings, and coverage data.",
+  "friendlySummary": "OpenAI published instructions for using a Codex plugin that scans code for possible security problems and shows evidence and fixes.",
+  "whyItMatters": "AI code generation is only useful if review and remediation keep pace. A local, reviewable security workflow gives developers a practical pattern: scan authorized code, inspect evidence, export findings, and keep a human in the approval loop before changes ship.",
+  "friendlyWhyItMatters": "If AI helps write code, it should also help check code. This gives developers a clearer way to review security before releasing software.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

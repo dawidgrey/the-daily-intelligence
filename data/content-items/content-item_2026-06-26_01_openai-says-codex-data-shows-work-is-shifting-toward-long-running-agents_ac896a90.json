@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_01_openai-says-codex-data-shows-work-is-shifting-toward-long-running-agents_ac896a90",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work/",
+  "canonicalUrl": "https://openai.com/index/how-agents-are-transforming-work/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "OpenAI says Codex data shows work is shifting toward long-running agents",
+  "friendlyTitle": "OpenAI says people are giving Codex bigger jobs",
+  "summary": "OpenAI published an economic research note using Codex adoption data to argue that AI work is moving from short chat interactions to delegated, long-horizon tasks. The company says Codex became the primary AI tool across OpenAI departments and that non-developer use has grown especially quickly.",
+  "friendlySummary": "OpenAI shared data showing that Codex is being used for longer tasks, not just quick answers. It says people outside engineering are also using it more.",
+  "whyItMatters": "The useful signal is not the vendor framing, but the workflow pattern: more people are asking agents to run multi-step work in parallel instead of asking one question at a time. Teams planning AI adoption should design around reviewable delegation, task queues, and human checkpoints rather than only chatbot prompts.",
+  "friendlyWhyItMatters": "This shows how AI may fit into daily work: you give it a task, check progress, and review the result. It is less like a search box and more like a junior teammate that needs supervision.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

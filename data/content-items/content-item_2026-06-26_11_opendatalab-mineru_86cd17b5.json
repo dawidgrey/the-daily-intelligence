@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_11_opendatalab-mineru_86cd17b5",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/opendatalab/MinerU",
+  "canonicalUrl": "https://github.com/opendatalab/MinerU",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "opendatalab/MinerU",
+  "friendlyTitle": "MinerU turns complex documents into AI-ready text",
+  "summary": "MinerU is a high-accuracy document parsing engine that converts PDFs, Office documents, images, and web pages into structured Markdown or JSON for LLM, RAG, and agent workflows. It supports OCR, layout reconstruction, formulas, tables, multiple deployment modes, and integrations with common RAG and agent frameworks.",
+  "friendlySummary": "MinerU helps convert PDFs, Office files, images, and web pages into Markdown or JSON that AI systems can use.",
+  "whyItMatters": "Use it when you need to turn messy documents into cleaner inputs for retrieval, extraction, summarization, or agent workflows. Its CLI, API, Docker, WebUI, and MCP-style integrations make it practical for both local experiments and larger document pipelines.",
+  "friendlyWhyItMatters": "Try it if your AI project needs to read messy documents, tables, formulas, or scans before using them in search or automation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

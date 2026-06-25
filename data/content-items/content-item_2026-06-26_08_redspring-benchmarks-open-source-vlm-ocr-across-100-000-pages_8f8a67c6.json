@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_08_redspring-benchmarks-open-source-vlm-ocr-across-100-000-pages_8f8a67c6",
+  "sourceKind": "article",
+  "sourceName": "Redspring",
+  "sourceUrl": "https://www.redspring.xyz/blog/vlm-ocr-bench/",
+  "canonicalUrl": "https://www.redspring.xyz/blog/vlm-ocr-bench/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "Redspring benchmarks open-source VLM OCR across 100,000 pages",
+  "friendlyTitle": "A 100,000-page OCR test shows why your own documents matter",
+  "summary": "Redspring tested open-source vision-language models for OCR on a 100,000-page workload using Modal, comparing cost, throughput, and output quality. The team found that self-hosted OCR could be cheaper and easier than expected, but that public benchmarks did not reliably predict the best model for its own documents.",
+  "friendlySummary": "Redspring tested open-source AI OCR models on a huge document job and found that cost, speed, and quality depend heavily on the exact documents.",
+  "whyItMatters": "Document pipelines are central to RAG, compliance, and agent workflows. The practical lesson is to benchmark on your own messy documents, measure silent hallucinations, and choose GPUs based on wall-clock requirements as well as price per second.",
+  "friendlyWhyItMatters": "If you use AI to read PDFs or scans, do not pick a model only from public rankings. Test it on your own files first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

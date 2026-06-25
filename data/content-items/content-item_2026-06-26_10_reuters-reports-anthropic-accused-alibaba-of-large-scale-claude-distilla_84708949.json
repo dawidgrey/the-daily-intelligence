@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_10_reuters-reports-anthropic-accused-alibaba-of-large-scale-claude-distilla_84708949",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "canonicalUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "Reuters reports Anthropic accused Alibaba of large-scale Claude distillation",
+  "friendlyTitle": "Anthropic says Alibaba tried to copy Claude’s abilities at scale",
+  "summary": "Reuters reports that Anthropic accused Alibaba-linked operators of conducting what it called the largest known distillation attack against Claude, involving more than 28.8 million exchanges through nearly 25,000 fraudulent accounts between April and June. Alibaba did not immediately respond to Reuters’ request for comment.",
+  "friendlySummary": "Reuters says Anthropic accused Alibaba-linked operators of using many accounts and millions of Claude interactions to train or improve another model. Alibaba had not commented in the Reuters report.",
+  "whyItMatters": "The allegation shows why model access, abuse detection, and terms-of-use enforcement are becoming business-critical infrastructure. For companies building on AI APIs, it also signals that access rules, model provenance, and competitive-risk controls may increasingly shape what tools are available and where.",
+  "friendlyWhyItMatters": "This matters because AI companies are fighting over how models can be used and copied. Those rules can affect prices, access, and which AI tools businesses can rely on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

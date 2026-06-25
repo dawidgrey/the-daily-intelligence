@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_12_xbtlin-ai-berkshire_dd925688",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/xbtlin/ai-berkshire",
+  "canonicalUrl": "https://github.com/xbtlin/ai-berkshire",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "xbtlin/ai-berkshire",
+  "friendlyTitle": "AI Berkshire is a structured AI research workflow for investing",
+  "summary": "AI Berkshire is a Claude Code-based value-investing research framework that turns investor methodologies into structured skills, multi-agent research flows, checklists, and financial-rigor tooling. It emphasizes adversarial analysis, explicit decision outputs, and cross-checking calculations rather than simple prompt-and-answer research.",
+  "friendlySummary": "This project uses Claude Code and multiple AI agents to produce more disciplined value-investing research.",
+  "whyItMatters": "The repo is useful as a template for domain-specific agent workflows: encode expert methods, force structured conclusions, run parallel perspectives, and add calculation checks. Even outside investing, it shows how to turn a fuzzy research process into repeatable AI-assisted work.",
+  "friendlyWhyItMatters": "Use it as inspiration for building repeatable research systems where AI must compare evidence, challenge assumptions, and show its work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

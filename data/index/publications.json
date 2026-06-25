@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-24T20:08:00Z",
+  "generatedAtUtc": "2026-06-25T20:12:25Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-26",
+      "slug": "2026-06-26",
+      "status": "published",
+      "publicationDateUtc": "2026-06-25T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into everyday work",
+      "friendlyHeader": "AI agents are becoming useful at work",
+      "summary": "Today’s issue tracks a practical turn in AI: agents are being measured inside real workplaces, embedded into scientific and security workflows, and reshaping familiar products like email. We also look at reliability lessons for structured output and large-scale OCR, then close with three repositories builders can use this week.",
+      "friendlySummary": "Today we look at AI tools that are moving from interesting demos into real jobs. You’ll see agents for work, science, security, documents, email, and three useful GitHub projects to try.",
+      "itemCount": 13,
+      "href": "issues/2026-06-26.html",
+      "dataUrl": "data/daily-publications/2026-06-26.json"
+    },
     {
       "id": "daily-publication_2026-06-25",
       "slug": "2026-06-25",

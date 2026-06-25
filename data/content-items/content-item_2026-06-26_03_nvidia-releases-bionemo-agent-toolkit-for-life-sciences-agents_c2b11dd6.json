@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-26_03_nvidia-releases-bionemo-agent-toolkit-for-life-sciences-agents_c2b11dd6",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA Newsroom",
+  "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
+  "canonicalUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
+  "credit": "X trend surfaced broader discussion of the launch",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-25T20:12:25Z",
+  "createdAtUtc": "2026-06-25T20:12:25Z",
+  "updatedAtUtc": "2026-06-25T20:12:25Z",
+  "title": "NVIDIA releases BioNeMo Agent Toolkit for life-sciences agents",
+  "friendlyTitle": "NVIDIA gives science agents a specialist toolbox",
+  "summary": "NVIDIA announced the BioNeMo Agent Toolkit, a set of domain-specific tools, models, microservices, runtimes, and skills for AI agents working on biology, chemistry, genomics, drug discovery, protein design, and medical imaging workflows. NVIDIA says more than 50 organizations are already using or integrating the toolkit.",
+  "friendlySummary": "NVIDIA launched tools that help AI agents work with biology, chemistry, genomics, and drug discovery tasks.",
+  "whyItMatters": "This is a concrete example of the agent stack becoming specialized: frontier models act as the reasoning layer, while domain toolkits provide trusted actions and scientific context. For research teams, the practical question becomes how to wrap expert tools safely so agents can run useful experiments without turning into black boxes.",
+  "friendlyWhyItMatters": "General AI is not enough for serious science. These toolkits can help agents use the right scientific tools and make their work easier to check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-26"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-24T20:08:00Z",
+  "generatedAtUtc": "2026-06-25T20:12:25Z",
   "items": [
     {
-      "id": "content-item_2026-06-25_01_google-adds-computer-use-to-gemini-3-5-flash_0ce8c6ad",
+      "id": "content-item_2026-06-26_01_openai-says-codex-data-shows-work-is-shifting-toward-long-running-agents_ac896a90",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says Codex data shows work is shifting toward long-running agents",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work/"
+    },
+    {
+      "id": "content-item_2026-06-26_02_google-frames-gemini-3-5-flash-around-faster-cheaper-agentic-work_ec1bcc4f",
       "sourceKind": "product",
       "sourceName": "Google DeepMind",
-      "title": "Google adds computer use to Gemini 3.5 Flash",
-      "sourceUrl": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+      "title": "Google frames Gemini 3.5 Flash around faster, cheaper agentic work",
+      "sourceUrl": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/"
     },
     {
-      "id": "content-item_2026-06-25_02_openai-and-broadcom-unveil-jalape-o-a-custom-inference-chip_481e348c",
+      "id": "content-item_2026-06-26_03_nvidia-releases-bionemo-agent-toolkit-for-life-sciences-agents_c2b11dd6",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI and Broadcom unveil Jalapeño, a custom inference chip",
-      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
+      "sourceName": "NVIDIA Newsroom",
+      "title": "NVIDIA releases BioNeMo Agent Toolkit for life-sciences agents",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery"
     },
     {
-      "id": "content-item_2026-06-25_03_qwen-releases-agentworld-for-language-based-agent-simulation_e75a5d92",
+      "id": "content-item_2026-06-26_04_austria-backed-eustella-launches-a-european-ai-agent-platform_0ebe0c80",
+      "sourceKind": "product",
+      "sourceName": "AI Factory Austria AI:AT",
+      "title": "Austria-backed eustella launches a European AI agent platform",
+      "sourceUrl": "https://www.ai-at.eu/en/news/ai-factory-austria-aiat-as-a-springboard-eustella-launches-a-state-of-the-art-ai-agent-platform/"
+    },
+    {
+      "id": "content-item_2026-06-26_05_notion-mail-is-shutting-down-as-notion-leans-into-email-agents_a0e0d17a",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Notion Mail is shutting down as Notion leans into email agents",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/"
+    },
+    {
+      "id": "content-item_2026-06-26_06_openai-publishes-a-codex-security-plugin-quickstart_bce8a83e",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Developers",
+      "title": "OpenAI publishes a Codex Security plugin quickstart",
+      "sourceUrl": "https://developers.openai.com/codex/security/plugin"
+    },
+    {
+      "id": "content-item_2026-06-26_07_giskard-finds-a-unicode-corruption-edge-case-in-openai-json-mode_c174c0ba",
       "sourceKind": "research",
-      "sourceName": "Qwen",
-      "title": "Qwen releases AgentWorld for language-based agent simulation",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-agentworld"
+      "sourceName": "Giskard Research",
+      "title": "Giskard finds a Unicode corruption edge case in OpenAI JSON mode",
+      "sourceUrl": "https://research.giskard.ai/blog/structured-output/"
     },
     {
-      "id": "content-item_2026-06-25_04_figma-turns-code-motion-shaders-and-ai-tools-into-canvas-materials_9a43ccf2",
-      "sourceKind": "product",
-      "sourceName": "Figma Blog",
-      "title": "Figma turns code, motion, shaders, and AI tools into canvas materials",
-      "sourceUrl": "https://www.figma.com/blog/config-2026-recap/"
-    },
-    {
-      "id": "content-item_2026-06-25_05_facebook-brings-back-creator-studio-as-an-ai-powered-companion-app_790c3e4a",
-      "sourceKind": "product",
-      "sourceName": "Meta / Facebook Creators",
-      "title": "Facebook brings back Creator Studio as an AI-powered companion app",
-      "sourceUrl": "https://creators.facebook.com/blog/introducing-new-facebook-creator-studio"
-    },
-    {
-      "id": "content-item_2026-06-25_06_openart-director-turns-conversations-into-longer-ai-videos_2632408d",
-      "sourceKind": "product",
-      "sourceName": "OpenArt",
-      "title": "OpenArt Director turns conversations into longer AI videos",
-      "sourceUrl": "https://openart.ai/blog/openart-director-press-release/"
-    },
-    {
-      "id": "content-item_2026-06-25_07_openai-opens-chatgpt-advertising-to-marketers_f5d9d355",
-      "sourceKind": "product",
-      "sourceName": "OpenAI Ads",
-      "title": "OpenAI opens ChatGPT advertising to marketers",
-      "sourceUrl": "https://ads.openai.com/"
-    },
-    {
-      "id": "content-item_2026-06-25_08_meta-pauses-employee-computer-use-tracking-for-ai-training_997455b5",
+      "id": "content-item_2026-06-26_08_redspring-benchmarks-open-source-vlm-ocr-across-100-000-pages_8f8a67c6",
       "sourceKind": "article",
-      "sourceName": "The Guardian",
-      "title": "Meta pauses employee computer-use tracking for AI training",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns"
+      "sourceName": "Redspring",
+      "title": "Redspring benchmarks open-source VLM OCR across 100,000 pages",
+      "sourceUrl": "https://www.redspring.xyz/blog/vlm-ocr-bench/"
     },
     {
-      "id": "content-item_2026-06-25_09_stripe-anthropic-and-openai-back-a-500m-respiratory-infection-effort_36ddc790",
+      "id": "content-item_2026-06-26_09_researchers-assess-where-ai-can-help-fight-misinformation_9e1d2fee",
       "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "Stripe, Anthropic, and OpenAI back a $500M respiratory-infection effort",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+      "sourceName": "Knowable Magazine",
+      "title": "Researchers assess where AI can help fight misinformation",
+      "sourceUrl": "https://knowablemagazine.org/content/article/technology/2026/fighting-false-facts-with-artificial-intelligence-tools"
     },
     {
-      "id": "content-item_2026-06-25_10_tiny-place-gives-ai-agents-a-social-economy-for-tasks-and-payments_6e97a182",
-      "sourceKind": "product",
-      "sourceName": "tiny.place",
-      "title": "tiny.place gives AI agents a social economy for tasks and payments",
-      "sourceUrl": "https://tiny.place"
+      "id": "content-item_2026-06-26_10_reuters-reports-anthropic-accused-alibaba-of-large-scale-claude-distilla_84708949",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Reuters reports Anthropic accused Alibaba of large-scale Claude distillation",
+      "sourceUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
     },
     {
-      "id": "content-item_2026-06-25_11_jcodesmore-ai-website-cloner-template_2a59fbf9",
+      "id": "content-item_2026-06-26_11_opendatalab-mineru_86cd17b5",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "JCodesMore/ai-website-cloner-template",
-      "sourceUrl": "https://github.com/JCodesMore/ai-website-cloner-template"
+      "sourceName": "GitHub trending Python",
+      "title": "opendatalab/MinerU",
+      "sourceUrl": "https://github.com/opendatalab/MinerU"
     },
     {
-      "id": "content-item_2026-06-25_12_google-labs-code-design-md_0f97b561",
+      "id": "content-item_2026-06-26_12_xbtlin-ai-berkshire_dd925688",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "google-labs-code/design.md",
-      "sourceUrl": "https://github.com/google-labs-code/design.md"
+      "sourceName": "GitHub trending Python",
+      "title": "xbtlin/ai-berkshire",
+      "sourceUrl": "https://github.com/xbtlin/ai-berkshire"
     },
     {
-      "id": "content-item_2026-06-25_13_stablyai-orca_4747a804",
+      "id": "content-item_2026-06-26_13_alibaba-page-agent_14e5ad11",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "stablyai/orca",
-      "sourceUrl": "https://github.com/stablyai/orca"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "alibaba/page-agent",
+      "sourceUrl": "https://github.com/alibaba/page-agent"
     }
   ]
 }
