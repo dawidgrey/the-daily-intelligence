@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_01_openai-previews-gpt-5-6-sol-with-phased-access-and-new-agent-modes_0077efc5",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "canonicalUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "OpenAI previews GPT-5.6 Sol with phased access and new agent modes",
+  "friendlyTitle": "OpenAI previews a new GPT-5.6 model family",
+  "summary": "OpenAI began a limited preview of the GPT-5.6 model family: Sol as the flagship model, Terra as a lower-cost everyday model, and Luna as a faster entry model. The announcement highlights new reasoning settings, an ultra mode that uses subagents, stronger safety testing, prompt-caching changes, and a government-influenced phased release process.",
+  "friendlySummary": "OpenAI introduced GPT-5.6 Sol, Terra, and Luna in a limited preview. The company says the models add stronger reasoning, subagent workflows, safety checks, and new pricing options.",
+  "whyItMatters": "For everyday users and businesses, the important shift is not only model quality but controlled access, pricing, caching, and agent orchestration. Teams planning around frontier models should expect capability gains to arrive with more governance, staged rollout rules, and workflow-specific cost controls.",
+  "friendlyWhyItMatters": "This matters because the best AI models are becoming more powerful, but also more controlled. People and companies may get better tools, but access, price, and safety rules will matter more.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

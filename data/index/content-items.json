@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-25T20:12:25Z",
+  "generatedAtUtc": "2026-06-26T20:16:58Z",
   "items": [
     {
-      "id": "content-item_2026-06-26_01_openai-says-codex-data-shows-work-is-shifting-toward-long-running-agents_ac896a90",
-      "sourceKind": "research",
+      "id": "content-item_2026-06-27_01_openai-previews-gpt-5-6-sol-with-phased-access-and-new-agent-modes_0077efc5",
+      "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI says Codex data shows work is shifting toward long-running agents",
-      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work/"
+      "title": "OpenAI previews GPT-5.6 Sol with phased access and new agent modes",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/"
     },
     {
-      "id": "content-item_2026-06-26_02_google-frames-gemini-3-5-flash-around-faster-cheaper-agentic-work_ec1bcc4f",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google frames Gemini 3.5 Flash around faster, cheaper agentic work",
-      "sourceUrl": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/"
-    },
-    {
-      "id": "content-item_2026-06-26_03_nvidia-releases-bionemo-agent-toolkit-for-life-sciences-agents_c2b11dd6",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA Newsroom",
-      "title": "NVIDIA releases BioNeMo Agent Toolkit for life-sciences agents",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery"
-    },
-    {
-      "id": "content-item_2026-06-26_04_austria-backed-eustella-launches-a-european-ai-agent-platform_0ebe0c80",
-      "sourceKind": "product",
-      "sourceName": "AI Factory Austria AI:AT",
-      "title": "Austria-backed eustella launches a European AI agent platform",
-      "sourceUrl": "https://www.ai-at.eu/en/news/ai-factory-austria-aiat-as-a-springboard-eustella-launches-a-state-of-the-art-ai-agent-platform/"
-    },
-    {
-      "id": "content-item_2026-06-26_05_notion-mail-is-shutting-down-as-notion-leans-into-email-agents_a0e0d17a",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Notion Mail is shutting down as Notion leans into email agents",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/"
-    },
-    {
-      "id": "content-item_2026-06-26_06_openai-publishes-a-codex-security-plugin-quickstart_bce8a83e",
-      "sourceKind": "product",
-      "sourceName": "OpenAI Developers",
-      "title": "OpenAI publishes a Codex Security plugin quickstart",
-      "sourceUrl": "https://developers.openai.com/codex/security/plugin"
-    },
-    {
-      "id": "content-item_2026-06-26_07_giskard-finds-a-unicode-corruption-edge-case-in-openai-json-mode_c174c0ba",
+      "id": "content-item_2026-06-27_02_anthropic-s-economic-index-shows-ai-use-following-real-work-and-life-rhy_50380117",
       "sourceKind": "research",
-      "sourceName": "Giskard Research",
-      "title": "Giskard finds a Unicode corruption edge case in OpenAI JSON mode",
-      "sourceUrl": "https://research.giskard.ai/blog/structured-output/"
+      "sourceName": "Anthropic",
+      "title": "Anthropic’s Economic Index shows AI use following real work and life rhythms",
+      "sourceUrl": "https://www.anthropic.com/research/economic-index-june-2026-report"
     },
     {
-      "id": "content-item_2026-06-26_08_redspring-benchmarks-open-source-vlm-ocr-across-100-000-pages_8f8a67c6",
-      "sourceKind": "article",
-      "sourceName": "Redspring",
-      "title": "Redspring benchmarks open-source VLM OCR across 100,000 pages",
-      "sourceUrl": "https://www.redspring.xyz/blog/vlm-ocr-bench/"
+      "id": "content-item_2026-06-27_03_github-copilot-app-adds-bring-your-own-key-model-providers_18e39435",
+      "sourceKind": "product",
+      "sourceName": "GitHub Changelog",
+      "title": "GitHub Copilot app adds bring-your-own-key model providers",
+      "sourceUrl": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok/"
     },
     {
-      "id": "content-item_2026-06-26_09_researchers-assess-where-ai-can-help-fight-misinformation_9e1d2fee",
-      "sourceKind": "article",
-      "sourceName": "Knowable Magazine",
-      "title": "Researchers assess where AI can help fight misinformation",
-      "sourceUrl": "https://knowablemagazine.org/content/article/technology/2026/fighting-false-facts-with-artificial-intelligence-tools"
+      "id": "content-item_2026-06-27_04_github-makes-the-redesigned-copilot-cli-terminal-interface-generally-ava_8a5fab0d",
+      "sourceKind": "product",
+      "sourceName": "GitHub Changelog",
+      "title": "GitHub makes the redesigned Copilot CLI terminal interface generally available",
+      "sourceUrl": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/"
     },
     {
-      "id": "content-item_2026-06-26_10_reuters-reports-anthropic-accused-alibaba-of-large-scale-claude-distilla_84708949",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters reports Anthropic accused Alibaba of large-scale Claude distillation",
-      "sourceUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+      "id": "content-item_2026-06-27_05_aws-adds-managed-web-search-to-bedrock-agentcore_02bc5318",
+      "sourceKind": "product",
+      "sourceName": "AWS News Blog",
+      "title": "AWS adds managed web search to Bedrock AgentCore",
+      "sourceUrl": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/"
     },
     {
-      "id": "content-item_2026-06-26_11_opendatalab-mineru_86cd17b5",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "opendatalab/MinerU",
-      "sourceUrl": "https://github.com/opendatalab/MinerU"
+      "id": "content-item_2026-06-27_06_cognee-1-0-turns-agent-memory-into-a-portable-open-source-layer_033efdef",
+      "sourceKind": "product",
+      "sourceName": "Cognee",
+      "title": "Cognee 1.0 turns agent memory into a portable open-source layer",
+      "sourceUrl": "https://www.cognee.ai/blog/cognee-news/cognee-1-0-announcement"
     },
     {
-      "id": "content-item_2026-06-26_12_xbtlin-ai-berkshire_dd925688",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "xbtlin/ai-berkshire",
-      "sourceUrl": "https://github.com/xbtlin/ai-berkshire"
+      "id": "content-item_2026-06-27_07_deepreinforce-introduces-ornith-1-0-for-open-agentic-coding_f3e45b71",
+      "sourceKind": "research",
+      "sourceName": "DeepReinforce",
+      "title": "DeepReinforce introduces Ornith-1.0 for open agentic coding",
+      "sourceUrl": "https://deep-reinforce.com/ornith_1_0.html"
     },
     {
-      "id": "content-item_2026-06-26_13_alibaba-page-agent_14e5ad11",
+      "id": "content-item_2026-06-27_08_talkdesk-agent-builder-targets-production-customer-service-agents-withou_0f289de3",
+      "sourceKind": "product",
+      "sourceName": "Talkdesk",
+      "title": "Talkdesk Agent Builder targets production customer-service agents without prompt engineering",
+      "sourceUrl": "https://www.talkdesk.com/news-and-press/press-releases/agent-builder/"
+    },
+    {
+      "id": "content-item_2026-06-27_09_zoom-adds-agent-architect-and-performance-tracking-to-zoom-virtual-agent_0fb64cc0",
+      "sourceKind": "product",
+      "sourceName": "Zoom Newsroom",
+      "title": "Zoom adds Agent Architect and performance tracking to Zoom Virtual Agent",
+      "sourceUrl": "https://news.zoom.com/introducing-agent-architect-and-agent-performance-suite-for-zoom-virtual-agent/"
+    },
+    {
+      "id": "content-item_2026-06-27_10_google-research-speeds-up-gemini-nano-on-pixel-with-frozen-multi-token-p_2cd2c898",
+      "sourceKind": "research",
+      "sourceName": "Google Research",
+      "title": "Google Research speeds up Gemini Nano on Pixel with frozen multi-token prediction",
+      "sourceUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/"
+    },
+    {
+      "id": "content-item_2026-06-27_11_every-app-open-seo_6d2d4e80",
       "sourceKind": "github",
       "sourceName": "GitHub trending TypeScript",
-      "title": "alibaba/page-agent",
-      "sourceUrl": "https://github.com/alibaba/page-agent"
+      "title": "every-app/open-seo",
+      "sourceUrl": "https://github.com/every-app/open-seo"
+    },
+    {
+      "id": "content-item_2026-06-27_12_aws-agent-toolkit-for-aws_96bb6a37",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending Python",
+      "title": "aws/agent-toolkit-for-aws",
+      "sourceUrl": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "id": "content-item_2026-06-27_13_workweave-router_14667f46",
+      "sourceKind": "github",
+      "sourceName": "Hacker News / GitHub",
+      "title": "workweave/router",
+      "sourceUrl": "https://github.com/workweave/router"
     }
   ]
 }

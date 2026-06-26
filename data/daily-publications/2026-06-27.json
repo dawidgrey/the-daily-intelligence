@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-27",
+  "slug": "2026-06-27",
+  "status": "published",
+  "publicationDateUtc": "2026-06-26T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agent infrastructure becomes the main event",
+  "friendlyHeader": "AI agents are getting better support systems",
+  "summary": "Today’s issue follows the pieces around frontier models that make AI useful in daily work: safer phased releases, memory layers, model routing, agent builders, support tooling, and faster on-device inference. The practical pattern is clear: the next gains are coming from how agents remember, retrieve, route, review, and fit into existing workflows.",
+  "friendlySummary": "Today we look at new AI models and the tools around them: memory, search, coding assistants, customer-service agents, phone AI speedups, and three useful GitHub projects for builders.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-27_01_openai-previews-gpt-5-6-sol-with-phased-access-and-new-agent-modes_0077efc5",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_02_anthropic-s-economic-index-shows-ai-use-following-real-work-and-life-rhy_50380117",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_03_github-copilot-app-adds-bring-your-own-key-model-providers_18e39435",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_04_github-makes-the-redesigned-copilot-cli-terminal-interface-generally-ava_8a5fab0d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_05_aws-adds-managed-web-search-to-bedrock-agentcore_02bc5318",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_06_cognee-1-0-turns-agent-memory-into-a-portable-open-source-layer_033efdef",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_07_deepreinforce-introduces-ornith-1-0-for-open-agentic-coding_f3e45b71",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_08_talkdesk-agent-builder-targets-production-customer-service-agents-withou_0f289de3",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_09_zoom-adds-agent-architect-and-performance-tracking-to-zoom-virtual-agent_0fb64cc0",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_10_google-research-speeds-up-gemini-nano-on-pixel-with-frozen-multi-token-p_2cd2c898",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_11_every-app-open-seo_6d2d4e80",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_12_aws-agent-toolkit-for-aws_96bb6a37",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-27_13_workweave-router_14667f46",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-27.json",
+    "itemCount": 13
+  }
+}

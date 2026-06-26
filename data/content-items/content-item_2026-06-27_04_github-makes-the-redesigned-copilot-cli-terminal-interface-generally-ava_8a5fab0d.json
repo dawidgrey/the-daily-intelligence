@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_04_github-makes-the-redesigned-copilot-cli-terminal-interface-generally-ava_8a5fab0d",
+  "sourceKind": "product",
+  "sourceName": "GitHub Changelog",
+  "sourceUrl": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/",
+  "canonicalUrl": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "GitHub makes the redesigned Copilot CLI terminal interface generally available",
+  "friendlyTitle": "GitHub Copilot CLI gets a full terminal workspace",
+  "summary": "GitHub made its redesigned Copilot CLI terminal interface generally available, adding tabs for sessions, issues, pull requests, and gists, plus in-terminal setup for MCP servers, skills, plugins, themes, and settings. The new interface also adds accessibility improvements and lets users browse GitHub work without leaving the terminal.",
+  "friendlySummary": "GitHub’s Copilot CLI now has tabs, issue and pull request browsing, easier setup for tools, and better accessibility.",
+  "whyItMatters": "Coding agents are moving closer to the developer’s normal workspace instead of living in separate chat windows. A terminal UI that can browse issues, install MCP tools, and configure skills lowers the friction of using agents on real repositories.",
+  "friendlyWhyItMatters": "Developers can use AI help without switching between many apps. That can make agent workflows feel more like normal terminal work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

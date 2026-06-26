@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_11_every-app-open-seo_6d2d4e80",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/every-app/open-seo",
+  "canonicalUrl": "https://github.com/every-app/open-seo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "every-app/open-seo",
+  "friendlyTitle": "OpenSEO is an open SEO toolkit for people and AI agents",
+  "summary": "OpenSEO is an open-source alternative to Semrush and Ahrefs with SEO workflows for keyword research, rank tracking, domain insights, backlinks, site audits, AI brand visibility, and AI search prompt exploration. It also exposes an MCP server and agent skills so coding agents and assistants can use SEO data directly.",
+  "friendlySummary": "OpenSEO helps with keyword research, rank tracking, backlinks, site audits, and AI search visibility. It can also connect to AI agents through MCP.",
+  "whyItMatters": "Use it to build an AI-assisted SEO workflow you can self-host or connect to a hosted service, especially if you want agents to research keywords, inspect SERPs, review backlinks, or plan content with live SEO context. It is also a good example of turning a specialist business tool into an agent-accessible MCP service.",
+  "friendlyWhyItMatters": "Try it if you want a more controllable SEO tool, or if you want an AI agent to help with search research and content planning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

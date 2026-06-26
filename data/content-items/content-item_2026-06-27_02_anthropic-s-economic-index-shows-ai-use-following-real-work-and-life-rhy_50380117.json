@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_02_anthropic-s-economic-index-shows-ai-use-following-real-work-and-life-rhy_50380117",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/economic-index-june-2026-report",
+  "canonicalUrl": "https://www.anthropic.com/research/economic-index-june-2026-report",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "Anthropic’s Economic Index shows AI use following real work and life rhythms",
+  "friendlyTitle": "Anthropic studies when people actually use Claude",
+  "summary": "Anthropic’s June Economic Index report updates its measurement methods for Claude usage in a more agentic world, adding higher-frequency sampling, artifact classification, and survey-linked analysis. The report finds that Claude use follows daily and weekly patterns, with work tasks dropping on weekends, personal tasks rising, and agentic coding or side-business activity showing different rhythms.",
+  "friendlySummary": "Anthropic found that Claude usage changes by time of day and day of week. Work tasks rise during work hours, while personal questions and side projects become more common at other times.",
+  "whyItMatters": "The report gives a practical view of AI as a habit layer, not just a productivity tool. If AI use follows calendars, deadlines, work hours, and personal routines, products and teams should design agents around cadence: reminders, recurring tasks, handoffs, and review windows.",
+  "friendlyWhyItMatters": "AI tools work best when they fit real life. This research suggests agents should be designed around routines, deadlines, and regular check-ins.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_13_workweave-router_14667f46",
+  "sourceKind": "github",
+  "sourceName": "Hacker News / GitHub",
+  "sourceUrl": "https://github.com/workweave/router",
+  "canonicalUrl": "https://github.com/workweave/router",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "workweave/router",
+  "friendlyTitle": "WorkWeave Router helps agents choose the right AI model",
+  "summary": "WorkWeave Router is a model router and AI gateway for agentic systems, designed as a drop-in proxy for Anthropic, OpenAI, Gemini, OpenRouter, and OpenAI-compatible endpoints. The project emphasizes per-request routing, BYOK operation, local or hosted deployment, and observability for tools such as Claude Code, Codex, opencode, and Cursor.",
+  "friendlySummary": "WorkWeave Router is a gateway that can send each AI request to a suitable model across providers like OpenAI, Anthropic, Gemini, and OpenRouter.",
+  "whyItMatters": "Use it to experiment with routing different coding-agent prompts to different models without rewriting every client integration. It can help teams test cost-control strategies, local-versus-frontier model splits, and observability around agent workloads.",
+  "friendlyWhyItMatters": "Try it if you use several AI models and want one endpoint that can help control cost, routing, and visibility for agent workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_10_google-research-speeds-up-gemini-nano-on-pixel-with-frozen-multi-token-p_2cd2c898",
+  "sourceKind": "research",
+  "sourceName": "Google Research",
+  "sourceUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+  "canonicalUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "Google Research speeds up Gemini Nano on Pixel with frozen multi-token prediction",
+  "friendlyTitle": "Google makes Gemini Nano faster on Pixel phones",
+  "summary": "Google Research described a method for retrofitting multi-token prediction onto frozen Gemini Nano v3 models, accelerating on-device inference without separate drafting models. The technique has rolled out to Pixel 9 and Pixel 10 series devices for features such as AI Notification Summaries and Proofread.",
+  "friendlySummary": "Google shared a way to make Gemini Nano generate text faster on Pixel devices, helping features like notification summaries and proofreading.",
+  "whyItMatters": "On-device AI needs to be fast, private, and battery-aware to become a daily habit. Speeding up existing phone models without adding large extra components can make local summarization, writing help, and small agent features feel less sluggish while keeping more data on device.",
+  "friendlyWhyItMatters": "Faster on-phone AI can feel more useful in daily life. It can also help keep personal data on your device instead of sending everything to the cloud.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

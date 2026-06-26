@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_07_deepreinforce-introduces-ornith-1-0-for-open-agentic-coding_f3e45b71",
+  "sourceKind": "research",
+  "sourceName": "DeepReinforce",
+  "sourceUrl": "https://deep-reinforce.com/ornith_1_0.html",
+  "canonicalUrl": "https://deep-reinforce.com/ornith_1_0.html",
+  "credit": "X trend surfaced broader discussion of the model family",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "DeepReinforce introduces Ornith-1.0 for open agentic coding",
+  "friendlyTitle": "Ornith-1.0 is a new open coding model family",
+  "summary": "DeepReinforce introduced Ornith-1.0, an open-source family of agentic coding models ranging from 9B dense to 397B mixture-of-experts models. The project claims strong Terminal-Bench and SWE-Bench results and describes a self-scaffolding reinforcement-learning approach where the model learns both the solution and the orchestration strategy used to solve coding tasks.",
+  "friendlySummary": "DeepReinforce released open models made for agentic coding tasks, where AI plans, edits, tests, and solves software problems over multiple steps.",
+  "whyItMatters": "Open coding models are increasingly competing on agent execution rather than autocomplete alone. If independent evaluations support the claims, smaller and open models may become more practical for local coding agents, private workflows, and lower-cost software automation.",
+  "friendlyWhyItMatters": "More capable open coding models could make AI programming help cheaper, more private, and easier to run outside big hosted platforms.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}

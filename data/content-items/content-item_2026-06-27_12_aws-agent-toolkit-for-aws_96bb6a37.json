@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-27_12_aws-agent-toolkit-for-aws_96bb6a37",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/aws/agent-toolkit-for-aws",
+  "canonicalUrl": "https://github.com/aws/agent-toolkit-for-aws",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-26T20:16:58Z",
+  "createdAtUtc": "2026-06-26T20:16:58Z",
+  "updatedAtUtc": "2026-06-26T20:16:58Z",
+  "title": "aws/agent-toolkit-for-aws",
+  "friendlyTitle": "AWS Agent Toolkit helps coding agents work with AWS",
+  "summary": "Agent Toolkit for AWS is an official AWS-supported repository of MCP servers, skills, plugins, rules, and documentation access for AI coding agents working with AWS. It targets tools such as Claude Code, Codex, Cursor, Kiro, and other MCP-compatible agents.",
+  "friendlySummary": "AWS released a toolkit with MCP servers, skills, and plugins for AI coding agents that build and manage AWS projects.",
+  "whyItMatters": "Use it when you want coding agents to work with AWS services using documented patterns, guardrails, and installable skills instead of raw ad hoc prompts. It is especially useful for service selection, CDK and CloudFormation work, Bedrock and AgentCore projects, data workflows, DevSecOps, and documentation-aware AWS development.",
+  "friendlyWhyItMatters": "Use it if your AI coding assistant needs safer, more structured help with AWS services, cloud apps, data, or DevSecOps tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-27"
+  }
+}
