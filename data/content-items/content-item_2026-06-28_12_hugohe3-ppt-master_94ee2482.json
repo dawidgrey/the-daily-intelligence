@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_12_hugohe3-ppt-master_94ee2482",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/hugohe3/ppt-master",
+  "canonicalUrl": "https://github.com/hugohe3/ppt-master",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "hugohe3/ppt-master",
+  "friendlyTitle": "PPT Master: AI-made PowerPoint you can edit",
+  "summary": "PPT Master is an open-source AI workflow for generating real, editable PowerPoint files from documents or pasted content. Unlike many slide generators, it focuses on native shapes, text boxes, charts, templates, animations, and speaker notes rather than flat images.",
+  "friendlySummary": "PPT Master helps create real PowerPoint files from your material, with editable slides instead of flat images.",
+  "whyItMatters": "Knowledge workers can use it with coding agents such as Claude Code, Cursor, Copilot, or Codex-style tools to draft editable decks locally and then polish them in PowerPoint.",
+  "friendlyWhyItMatters": "It can save time when making a first draft of a presentation, while still letting you edit the final deck yourself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

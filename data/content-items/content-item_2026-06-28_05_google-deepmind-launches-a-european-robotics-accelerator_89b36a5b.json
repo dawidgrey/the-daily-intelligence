@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_05_google-deepmind-launches-a-european-robotics-accelerator_89b36a5b",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+  "canonicalUrl": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "Google DeepMind launches a European robotics accelerator",
+  "friendlyTitle": "Google DeepMind is helping European robotics startups",
+  "summary": "Google DeepMind announced a three-month accelerator for 15 early-stage European robotics startups. The cohort will receive mentorship, product guidance, access to Google’s AI stack, and support using Gemini robotics models across areas such as manufacturing, healthcare, climate, construction, and recycling.",
+  "friendlySummary": "Google DeepMind is running a program for 15 robotics startups in Europe. The startups will get help using AI models in real-world robots.",
+  "whyItMatters": "The next practical AI wave is moving from screens into physical work. Better robotics tooling can turn advances in language, vision, and action models into improvements in warehouses, clinics, construction sites, and everyday services.",
+  "friendlyWhyItMatters": "This could speed up useful robots for jobs like manufacturing, healthcare, recycling, and construction.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

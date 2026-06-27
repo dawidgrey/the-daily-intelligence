@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-28",
+  "slug": "2026-06-28",
+  "status": "published",
+  "publicationDateUtc": "2026-06-27T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Frontier access, agent safety, and the practical AI stack",
+  "friendlyHeader": "Today’s AI news: access, safety, and useful tools",
+  "summary": "Today’s brief tracks a week where frontier model access became more managed, regional competitors moved into the gap, and builders kept improving the plumbing around agents, fine-tuning, memory, and safer coding workflows.",
+  "friendlySummary": "Today we look at who can use powerful AI models, how new agent tools are getting safer and more useful, and three GitHub projects people are watching.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-28_01_u-s-allows-anthropic-to-release-mythos-ai-to-selected-trusted-organizati_6ad99a5d",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_02_openai-limits-gpt-5-6-rollout-after-a-u-s-government-request_7d08c86e",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_03_asian-ai-startups-pitch-alternatives-as-anthropic-export-restrictions-bi_84e0d65e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_04_openai-backs-shared-standards-for-advanced-ai-assessment_6507bbb3",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_05_google-deepmind-launches-a-european-robotics-accelerator_89b36a5b",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_06_ibm-research-shows-two-dozen-cuga-agent-apps-on-hugging-face_f0c4ab46",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_07_nvidia-shows-faster-moe-fine-tuning-with-nemo-automodel_9662972e",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_08_position-paper-argues-coding-benchmarks-are-misaligned-with-agentic-soft_b6816046",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_09_clean-github-repo-attack-shows-a-new-risk-for-ai-coding-agents_64110d01",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_10_ai2-examines-where-hybrid-language-models-beat-transformers_04bd4874",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_11_topoteretes-cognee_e6109c84",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_12_hugohe3-ppt-master_94ee2482",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-28_13_fission-ai-openspec_aab5296b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-28.json",
+    "itemCount": 13
+  }
+}

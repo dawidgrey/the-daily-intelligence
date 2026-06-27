@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_04_openai-backs-shared-standards-for-advanced-ai-assessment_6507bbb3",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+  "canonicalUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "OpenAI backs shared standards for advanced AI assessment",
+  "friendlyTitle": "OpenAI wants clearer shared rules for testing advanced AI",
+  "summary": "OpenAI says it is helping found the Appia Foundation, hosted by the Linux Foundation, to develop open, modular specifications for AI assessment and standards conformity. The effort aims to make evaluations, evidence, and governance practices more interoperable across organizations and jurisdictions.",
+  "friendlySummary": "OpenAI is supporting a new standards group that will work on common ways to test and assess advanced AI systems.",
+  "whyItMatters": "As AI systems enter regulated and high-stakes workflows, buyers will need more than vendor claims. Shared assessment methods could make it easier to compare systems, satisfy auditors, and build trust across complex AI supply chains.",
+  "friendlyWhyItMatters": "Clearer testing rules can help companies know whether an AI tool is safe and reliable enough to use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

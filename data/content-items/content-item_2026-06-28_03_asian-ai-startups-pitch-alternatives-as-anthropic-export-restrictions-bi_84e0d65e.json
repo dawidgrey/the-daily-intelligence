@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_03_asian-ai-startups-pitch-alternatives-as-anthropic-export-restrictions-bi_84e0d65e",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+  "canonicalUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "Asian AI startups pitch alternatives as Anthropic export restrictions bite",
+  "friendlyTitle": "Asian AI companies are offering backup options for restricted models",
+  "summary": "TechCrunch reports that companies including Japan’s Sakana AI and China’s 360 are positioning new cybersecurity and orchestration-focused systems as alternatives while U.S. restrictions limit access to Anthropic models. Sakana’s Fugu is framed as an orchestration model for agentic workflows and regional resilience.",
+  "friendlySummary": "Some Asian AI companies are promoting new models while access to some U.S. frontier models is limited. These tools focus on security work and coordinating AI agents.",
+  "whyItMatters": "Model availability is becoming a competitive feature. Enterprises outside the U.S. may increasingly evaluate regional AI providers not just on benchmarks, but on continuity, language fit, and lower exposure to export-control surprises.",
+  "friendlyWhyItMatters": "If one top AI service becomes unavailable, local or regional alternatives may help companies keep working.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

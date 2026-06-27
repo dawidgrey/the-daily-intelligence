@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-26T20:16:58Z",
+  "generatedAtUtc": "2026-06-27T20:10:08Z",
   "items": [
     {
-      "id": "content-item_2026-06-27_01_openai-previews-gpt-5-6-sol-with-phased-access-and-new-agent-modes_0077efc5",
-      "sourceKind": "product",
+      "id": "content-item_2026-06-28_01_u-s-allows-anthropic-to-release-mythos-ai-to-selected-trusted-organizati_6ad99a5d",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "U.S. allows Anthropic to release Mythos AI to selected trusted organizations",
+      "sourceUrl": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"
+    },
+    {
+      "id": "content-item_2026-06-28_02_openai-limits-gpt-5-6-rollout-after-a-u-s-government-request_7d08c86e",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "OpenAI limits GPT-5.6 rollout after a U.S. government request",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+    },
+    {
+      "id": "content-item_2026-06-28_03_asian-ai-startups-pitch-alternatives-as-anthropic-export-restrictions-bi_84e0d65e",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Asian AI startups pitch alternatives as Anthropic export restrictions bite",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on"
+    },
+    {
+      "id": "content-item_2026-06-28_04_openai-backs-shared-standards-for-advanced-ai-assessment_6507bbb3",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI previews GPT-5.6 Sol with phased access and new agent modes",
-      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/"
+      "title": "OpenAI backs shared standards for advanced AI assessment",
+      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
     },
     {
-      "id": "content-item_2026-06-27_02_anthropic-s-economic-index-shows-ai-use-following-real-work-and-life-rhy_50380117",
+      "id": "content-item_2026-06-28_05_google-deepmind-launches-a-european-robotics-accelerator_89b36a5b",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind launches a European robotics accelerator",
+      "sourceUrl": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
+    },
+    {
+      "id": "content-item_2026-06-28_06_ibm-research-shows-two-dozen-cuga-agent-apps-on-hugging-face_f0c4ab46",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face Blog / IBM Research",
+      "title": "IBM Research shows two dozen CUGA agent apps on Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/cuga-apps"
+    },
+    {
+      "id": "content-item_2026-06-28_07_nvidia-shows-faster-moe-fine-tuning-with-nemo-automodel_9662972e",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face Blog / NVIDIA",
+      "title": "NVIDIA shows faster MoE fine-tuning with NeMo AutoModel",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+    },
+    {
+      "id": "content-item_2026-06-28_08_position-paper-argues-coding-benchmarks-are-misaligned-with-agentic-soft_b6816046",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic’s Economic Index shows AI use following real work and life rhythms",
-      "sourceUrl": "https://www.anthropic.com/research/economic-index-june-2026-report"
+      "sourceName": "arXiv",
+      "title": "Position paper argues coding benchmarks are misaligned with agentic software engineering",
+      "sourceUrl": "https://arxiv.org/abs/2606.17799"
     },
     {
-      "id": "content-item_2026-06-27_03_github-copilot-app-adds-bring-your-own-key-model-providers_18e39435",
-      "sourceKind": "product",
-      "sourceName": "GitHub Changelog",
-      "title": "GitHub Copilot app adds bring-your-own-key model providers",
-      "sourceUrl": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok/"
+      "id": "content-item_2026-06-28_09_clean-github-repo-attack-shows-a-new-risk-for-ai-coding-agents_64110d01",
+      "sourceKind": "article",
+      "sourceName": "BleepingComputer",
+      "title": "Clean GitHub repo attack shows a new risk for AI coding agents",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/"
     },
     {
-      "id": "content-item_2026-06-27_04_github-makes-the-redesigned-copilot-cli-terminal-interface-generally-ava_8a5fab0d",
-      "sourceKind": "product",
-      "sourceName": "GitHub Changelog",
-      "title": "GitHub makes the redesigned Copilot CLI terminal interface generally available",
-      "sourceUrl": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/"
-    },
-    {
-      "id": "content-item_2026-06-27_05_aws-adds-managed-web-search-to-bedrock-agentcore_02bc5318",
-      "sourceKind": "product",
-      "sourceName": "AWS News Blog",
-      "title": "AWS adds managed web search to Bedrock AgentCore",
-      "sourceUrl": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/"
-    },
-    {
-      "id": "content-item_2026-06-27_06_cognee-1-0-turns-agent-memory-into-a-portable-open-source-layer_033efdef",
-      "sourceKind": "product",
-      "sourceName": "Cognee",
-      "title": "Cognee 1.0 turns agent memory into a portable open-source layer",
-      "sourceUrl": "https://www.cognee.ai/blog/cognee-news/cognee-1-0-announcement"
-    },
-    {
-      "id": "content-item_2026-06-27_07_deepreinforce-introduces-ornith-1-0-for-open-agentic-coding_f3e45b71",
+      "id": "content-item_2026-06-28_10_ai2-examines-where-hybrid-language-models-beat-transformers_04bd4874",
       "sourceKind": "research",
-      "sourceName": "DeepReinforce",
-      "title": "DeepReinforce introduces Ornith-1.0 for open agentic coding",
-      "sourceUrl": "https://deep-reinforce.com/ornith_1_0.html"
+      "sourceName": "Hugging Face Blog / Ai2",
+      "title": "Ai2 examines where hybrid language models beat transformers",
+      "sourceUrl": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
     },
     {
-      "id": "content-item_2026-06-27_08_talkdesk-agent-builder-targets-production-customer-service-agents-withou_0f289de3",
-      "sourceKind": "product",
-      "sourceName": "Talkdesk",
-      "title": "Talkdesk Agent Builder targets production customer-service agents without prompt engineering",
-      "sourceUrl": "https://www.talkdesk.com/news-and-press/press-releases/agent-builder/"
-    },
-    {
-      "id": "content-item_2026-06-27_09_zoom-adds-agent-architect-and-performance-tracking-to-zoom-virtual-agent_0fb64cc0",
-      "sourceKind": "product",
-      "sourceName": "Zoom Newsroom",
-      "title": "Zoom adds Agent Architect and performance tracking to Zoom Virtual Agent",
-      "sourceUrl": "https://news.zoom.com/introducing-agent-architect-and-agent-performance-suite-for-zoom-virtual-agent/"
-    },
-    {
-      "id": "content-item_2026-06-27_10_google-research-speeds-up-gemini-nano-on-pixel-with-frozen-multi-token-p_2cd2c898",
-      "sourceKind": "research",
-      "sourceName": "Google Research",
-      "title": "Google Research speeds up Gemini Nano on Pixel with frozen multi-token prediction",
-      "sourceUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/"
-    },
-    {
-      "id": "content-item_2026-06-27_11_every-app-open-seo_6d2d4e80",
+      "id": "content-item_2026-06-28_11_topoteretes-cognee_e6109c84",
       "sourceKind": "github",
-      "sourceName": "GitHub trending TypeScript",
-      "title": "every-app/open-seo",
-      "sourceUrl": "https://github.com/every-app/open-seo"
+      "sourceName": "GitHub Trending Python",
+      "title": "topoteretes/cognee",
+      "sourceUrl": "https://github.com/topoteretes/cognee"
     },
     {
-      "id": "content-item_2026-06-27_12_aws-agent-toolkit-for-aws_96bb6a37",
+      "id": "content-item_2026-06-28_12_hugohe3-ppt-master_94ee2482",
       "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "aws/agent-toolkit-for-aws",
-      "sourceUrl": "https://github.com/aws/agent-toolkit-for-aws"
+      "sourceName": "GitHub Trending Python",
+      "title": "hugohe3/ppt-master",
+      "sourceUrl": "https://github.com/hugohe3/ppt-master"
     },
     {
-      "id": "content-item_2026-06-27_13_workweave-router_14667f46",
+      "id": "content-item_2026-06-28_13_fission-ai-openspec_aab5296b",
       "sourceKind": "github",
-      "sourceName": "Hacker News / GitHub",
-      "title": "workweave/router",
-      "sourceUrl": "https://github.com/workweave/router"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "Fission-AI/OpenSpec",
+      "sourceUrl": "https://github.com/Fission-AI/OpenSpec"
     }
   ]
 }

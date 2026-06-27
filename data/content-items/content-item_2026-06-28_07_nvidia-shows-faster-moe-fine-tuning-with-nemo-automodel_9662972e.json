@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_07_nvidia-shows-faster-moe-fine-tuning-with-nemo-automodel_9662972e",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face Blog / NVIDIA",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "NVIDIA shows faster MoE fine-tuning with NeMo AutoModel",
+  "friendlyTitle": "NVIDIA made fine-tuning some large AI models faster",
+  "summary": "NVIDIA says NeMo AutoModel extends Hugging Face Transformers v5 with expert parallelism, DeepEP dispatch, TransformerEngine kernels, and FSDP2 support. The post reports 3.4x to 3.7x higher throughput and 29% to 32% lower GPU memory on 30B MoE fine-tuning benchmarks versus native Transformers v5.",
+  "friendlySummary": "NVIDIA shared a tool called NeMo AutoModel that can speed up training for some large mixture-of-experts models while using less GPU memory.",
+  "whyItMatters": "Fine-tuning large mixture-of-experts models is still expensive and operationally difficult. Compatibility with familiar Hugging Face APIs could help teams improve specialized models without fully rebuilding their training stack.",
+  "friendlyWhyItMatters": "This may help AI teams customize big models with less cost and less infrastructure pain.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

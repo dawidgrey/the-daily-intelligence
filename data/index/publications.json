@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-26T20:16:58Z",
+  "generatedAtUtc": "2026-06-27T20:10:08Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-28",
+      "slug": "2026-06-28",
+      "status": "published",
+      "publicationDateUtc": "2026-06-27T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Frontier access, agent safety, and the practical AI stack",
+      "friendlyHeader": "Today’s AI news: access, safety, and useful tools",
+      "summary": "Today’s brief tracks a week where frontier model access became more managed, regional competitors moved into the gap, and builders kept improving the plumbing around agents, fine-tuning, memory, and safer coding workflows.",
+      "friendlySummary": "Today we look at who can use powerful AI models, how new agent tools are getting safer and more useful, and three GitHub projects people are watching.",
+      "itemCount": 13,
+      "href": "issues/2026-06-28.html",
+      "dataUrl": "data/daily-publications/2026-06-28.json"
+    },
     {
       "id": "daily-publication_2026-06-27",
       "slug": "2026-06-27",

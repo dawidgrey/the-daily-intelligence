@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_09_clean-github-repo-attack-shows-a-new-risk-for-ai-coding-agents_64110d01",
+  "sourceKind": "article",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "Clean GitHub repo attack shows a new risk for AI coding agents",
+  "friendlyTitle": "A clean-looking GitHub repo can still trick a coding agent",
+  "summary": "BleepingComputer reports on a Mozilla 0DIN concept attack where an AI coding agent can be tricked into running malware while setting up an apparently clean GitHub repository. The malicious behavior is triggered indirectly through setup recovery and a DNS TXT record rather than obvious code in the repo.",
+  "friendlySummary": "Researchers showed that an AI coding agent could run dangerous commands while setting up a repo that looks safe. The attack hides the bad command outside the repo itself.",
+  "whyItMatters": "Agentic coding tools are increasingly trusted to clone, install, and fix projects automatically. Teams should require full command-chain visibility, sandboxing, and tighter approval rules before letting agents run setup steps on developer machines.",
+  "friendlyWhyItMatters": "If you use coding agents, you should be careful before letting them install and run project setup commands automatically.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

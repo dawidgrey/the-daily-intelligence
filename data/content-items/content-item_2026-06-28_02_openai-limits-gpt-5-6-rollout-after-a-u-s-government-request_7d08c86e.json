@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_02_openai-limits-gpt-5-6-rollout-after-a-u-s-government-request_7d08c86e",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "OpenAI limits GPT-5.6 rollout after a U.S. government request",
+  "friendlyTitle": "OpenAI’s new GPT-5.6 models are starting with limited access",
+  "summary": "OpenAI is initially limiting GPT-5.6 access to a small set of trusted partners after a U.S. government request, according to TechCrunch. The lineup includes Sol, Terra, and Luna, with OpenAI saying the process should not become the long-term default.",
+  "friendlySummary": "OpenAI is giving its new GPT-5.6 models to only a small group at first because of a government request. OpenAI says this should be temporary, not the normal way launches work.",
+  "whyItMatters": "If frontier launches become gated, developers and companies may need backup model strategies, clearer procurement plans, and more attention to policy risk. The practical question is no longer only which model is best, but which one your team can reliably access.",
+  "friendlyWhyItMatters": "People and businesses may need backup AI tools in case a new model is delayed or only available to certain users.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

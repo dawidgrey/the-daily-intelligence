@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_08_position-paper-argues-coding-benchmarks-are-misaligned-with-agentic-soft_b6816046",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2606.17799",
+  "canonicalUrl": "https://arxiv.org/abs/2606.17799",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "Position paper argues coding benchmarks are misaligned with agentic software engineering",
+  "friendlyTitle": "A paper says coding-agent tests need to get better",
+  "summary": "A new arXiv position paper argues that coding benchmarks often conflate the model, agent harness, context, tools, environment, and feedback loop into one score. The authors say modern coding agents need component-level evaluation rather than single end-to-end scores against one reference solution.",
+  "friendlySummary": "Researchers argue that today’s coding benchmarks often mix many things together, like the model, tools, setup, and feedback loop. That makes it hard to know what actually improved.",
+  "whyItMatters": "Coding-agent claims are only useful if teams know what is being measured. Better benchmarks could help buyers and developers distinguish model improvements from harness tricks, environment tuning, or grading artifacts.",
+  "friendlyWhyItMatters": "Better tests can help people choose coding agents more wisely and avoid being fooled by unclear scores.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}

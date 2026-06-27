@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-28_11_topoteretes-cognee_e6109c84",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/topoteretes/cognee",
+  "canonicalUrl": "https://github.com/topoteretes/cognee",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-27T20:10:08Z",
+  "createdAtUtc": "2026-06-27T20:10:08Z",
+  "updatedAtUtc": "2026-06-27T20:10:08Z",
+  "title": "topoteretes/cognee",
+  "friendlyTitle": "Cognee: memory for AI agents",
+  "summary": "Cognee is an open-source AI memory platform for agents, combining knowledge graphs, vector search, multimodal ingestion, tenant isolation, and persistent recall across sessions. The repository was one of the strongest AI-related projects in the day’s GitHub trending candidates.",
+  "friendlySummary": "Cognee helps AI agents remember information over time using a knowledge graph and search system.",
+  "whyItMatters": "Teams can use Cognee as a self-hosted long-term memory and knowledge layer for agents that need to remember documents, user preferences, and domain context across sessions.",
+  "friendlyWhyItMatters": "You can use it to give an AI assistant a longer-term memory for documents, company knowledge, or user preferences.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-28"
+  }
+}
