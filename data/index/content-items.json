@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-27T20:10:08Z",
+  "generatedAtUtc": "2026-06-28T20:05:41Z",
   "items": [
     {
-      "id": "content-item_2026-06-28_01_u-s-allows-anthropic-to-release-mythos-ai-to-selected-trusted-organizati_6ad99a5d",
+      "id": "content-item_2026-06-29_01_codex-users-push-for-deterministic-sensitive-file-exclusion_6154952d",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "U.S. allows Anthropic to release Mythos AI to selected trusted organizations",
-      "sourceUrl": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"
+      "sourceName": "GitHub / openai-codex",
+      "title": "Codex users push for deterministic sensitive-file exclusion",
+      "sourceUrl": "https://github.com/openai/codex/issues/2847"
     },
     {
-      "id": "content-item_2026-06-28_02_openai-limits-gpt-5-6-rollout-after-a-u-s-government-request_7d08c86e",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "OpenAI limits GPT-5.6 rollout after a U.S. government request",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+      "id": "content-item_2026-06-29_02_semgrep-says-glm-5-2-beat-claude-on-one-cyber-benchmark-with-caveats_1d175ff2",
+      "sourceKind": "research",
+      "sourceName": "Semgrep",
+      "title": "Semgrep says GLM 5.2 beat Claude on one cyber benchmark — with caveats",
+      "sourceUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
     },
     {
-      "id": "content-item_2026-06-28_03_asian-ai-startups-pitch-alternatives-as-anthropic-export-restrictions-bi_84e0d65e",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Asian AI startups pitch alternatives as Anthropic export restrictions bite",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on"
-    },
-    {
-      "id": "content-item_2026-06-28_04_openai-backs-shared-standards-for-advanced-ai-assessment_6507bbb3",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI backs shared standards for advanced AI assessment",
-      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
-      "id": "content-item_2026-06-28_05_google-deepmind-launches-a-european-robotics-accelerator_89b36a5b",
+      "id": "content-item_2026-06-29_03_agentwatch-launches-runtime-budgets-for-runaway-ai-agents_1a90363f",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind launches a European robotics accelerator",
-      "sourceUrl": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
+      "sourceName": "AgentWatch",
+      "title": "AgentWatch launches runtime budgets for runaway AI agents",
+      "sourceUrl": "https://agent-watch.dev/"
     },
     {
-      "id": "content-item_2026-06-28_06_ibm-research-shows-two-dozen-cuga-agent-apps-on-hugging-face_f0c4ab46",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face Blog / IBM Research",
-      "title": "IBM Research shows two dozen CUGA agent apps on Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/cuga-apps"
-    },
-    {
-      "id": "content-item_2026-06-28_07_nvidia-shows-faster-moe-fine-tuning-with-nemo-automodel_9662972e",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face Blog / NVIDIA",
-      "title": "NVIDIA shows faster MoE fine-tuning with NeMo AutoModel",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
-    },
-    {
-      "id": "content-item_2026-06-28_08_position-paper-argues-coding-benchmarks-are-misaligned-with-agentic-soft_b6816046",
+      "id": "content-item_2026-06-29_04_survey-argues-ai-coworkers-need-task-closure-not-better-answers_47521374",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Position paper argues coding benchmarks are misaligned with agentic software engineering",
-      "sourceUrl": "https://arxiv.org/abs/2606.17799"
+      "sourceName": "The Decoder",
+      "title": "Survey argues AI coworkers need task closure, not better answers",
+      "sourceUrl": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
     },
     {
-      "id": "content-item_2026-06-28_09_clean-github-repo-attack-shows-a-new-risk-for-ai-coding-agents_64110d01",
+      "id": "content-item_2026-06-29_05_coinbase-s-model-routing-strategy-shows-ai-pricing-pressure-in-practice_8a4bbd52",
       "sourceKind": "article",
-      "sourceName": "BleepingComputer",
-      "title": "Clean GitHub repo attack shows a new risk for AI coding agents",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/"
+      "sourceName": "The Decoder",
+      "title": "Coinbase’s model-routing strategy shows AI pricing pressure in practice",
+      "sourceUrl": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
     },
     {
-      "id": "content-item_2026-06-28_10_ai2-examines-where-hybrid-language-models-beat-transformers_04bd4874",
+      "id": "content-item_2026-06-29_06_ceo-bench-tests-whether-ai-agents-can-run-a-startup-for-500-simulated-da_68c0ad05",
       "sourceKind": "research",
-      "sourceName": "Hugging Face Blog / Ai2",
-      "title": "Ai2 examines where hybrid language models beat transformers",
-      "sourceUrl": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
+      "sourceName": "The Decoder",
+      "title": "CEO-Bench tests whether AI agents can run a startup for 500 simulated days",
+      "sourceUrl": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
     },
     {
-      "id": "content-item_2026-06-28_11_topoteretes-cognee_e6109c84",
+      "id": "content-item_2026-06-29_07_ford-brings-back-veteran-engineers-after-ai-quality-systems-fall-short_4122cdee",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Ford brings back veteran engineers after AI quality systems fall short",
+      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+    },
+    {
+      "id": "content-item_2026-06-29_08_apple-vision-pro-executive-reportedly-heads-to-openai-s-hardware-team_307bfc45",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Apple Vision Pro executive reportedly heads to OpenAI’s hardware team",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+    },
+    {
+      "id": "content-item_2026-06-29_09_hugging-face-shows-one-command-private-vllm-servers-on-hf-jobs_7f1a19cb",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face shows one-command private vLLM servers on HF Jobs",
+      "sourceUrl": "https://huggingface.co/blog/vllm-jobs"
+    },
+    {
+      "id": "content-item_2026-06-29_10_retail-ai-shifts-from-flashy-demos-to-operational-decisions_e1257961",
+      "sourceKind": "article",
+      "sourceName": "MIT Technology Review",
+      "title": "Retail AI shifts from flashy demos to operational decisions",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+    },
+    {
+      "id": "content-item_2026-06-29_11_hkuds-vibe-trading_4541bab6",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "topoteretes/cognee",
-      "sourceUrl": "https://github.com/topoteretes/cognee"
+      "title": "HKUDS/Vibe-Trading",
+      "sourceUrl": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
-      "id": "content-item_2026-06-28_12_hugohe3-ppt-master_94ee2482",
+      "id": "content-item_2026-06-29_12_robbyant-lingbot-map_fe4700f2",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "hugohe3/ppt-master",
-      "sourceUrl": "https://github.com/hugohe3/ppt-master"
+      "title": "Robbyant/lingbot-map",
+      "sourceUrl": "https://github.com/Robbyant/lingbot-map"
     },
     {
-      "id": "content-item_2026-06-28_13_fission-ai-openspec_aab5296b",
+      "id": "content-item_2026-06-29_13_browser-use-video-use_ac945c3c",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "Fission-AI/OpenSpec",
-      "sourceUrl": "https://github.com/Fission-AI/OpenSpec"
+      "sourceName": "GitHub Trending Python",
+      "title": "browser-use/video-use",
+      "sourceUrl": "https://github.com/browser-use/video-use"
     }
   ]
 }

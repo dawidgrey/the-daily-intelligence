@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_04_survey-argues-ai-coworkers-need-task-closure-not-better-answers_47521374",
+  "sourceKind": "research",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+  "canonicalUrl": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "Survey argues AI coworkers need task closure, not better answers",
+  "friendlyTitle": "Better AI coworkers need to finish the job",
+  "summary": "The Decoder summarizes a survey paper arguing that AI systems will become useful digital colleagues only when they can operate in persistent work environments, reuse skills, recover from errors, and bring tasks to verifiable end states.",
+  "friendlySummary": "A new survey says AI must move beyond giving good answers. It needs to complete real tasks inside real workspaces.",
+  "whyItMatters": "For everyday users and businesses, the next productivity jump is less about prettier chat and more about finished workflows. The practical question for any agent product is whether it can prove the job is done.",
+  "friendlyWhyItMatters": "This is the difference between an assistant that suggests a plan and one that actually books the meeting, updates the file, and checks the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

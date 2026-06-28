@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_02_semgrep-says-glm-5-2-beat-claude-on-one-cyber-benchmark-with-caveats_1d175ff2",
+  "sourceKind": "research",
+  "sourceName": "Semgrep",
+  "sourceUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "canonicalUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "Semgrep says GLM 5.2 beat Claude on one cyber benchmark — with caveats",
+  "friendlyTitle": "A Chinese open model did well on a security test",
+  "summary": "Semgrep tested models on an IDOR vulnerability-detection benchmark and found GLM 5.2 scoring ahead of Claude Code in its prompt-only setup, while Semgrep’s own purpose-built harness still led overall.",
+  "friendlySummary": "Semgrep found that GLM 5.2 performed well at finding one kind of web app security bug, although Semgrep’s own specialised system still did better.",
+  "whyItMatters": "The useful signal is not that one model has permanently won security work; it is that model choice and task harness both matter. Security teams should evaluate the full workflow around an AI model, including context selection, endpoint discovery, and output review.",
+  "friendlyWhyItMatters": "The lesson is that the model is only one part of the tool. The setup around the model can be just as important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

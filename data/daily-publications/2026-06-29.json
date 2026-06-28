@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-29",
+  "slug": "2026-06-29",
+  "status": "published",
+  "publicationDateUtc": "2026-06-28T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents get practical guardrails, price pressure, and a reality check",
+  "friendlyHeader": "AI tools are getting more useful, but they still need limits",
+  "summary": "Today’s issue focuses on the parts of AI that are becoming operational: cost controls for agents, safer coding workflows, cheaper model routing, and benchmarks that test whether systems can finish work rather than just answer questions.",
+  "friendlySummary": "Today we look at AI tools that help with work, coding, shopping, video, trading, and research. The big theme is simple: AI can do more now, but people still need clear rules, budgets, and checks.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-29_01_codex-users-push-for-deterministic-sensitive-file-exclusion_6154952d",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_02_semgrep-says-glm-5-2-beat-claude-on-one-cyber-benchmark-with-caveats_1d175ff2",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_03_agentwatch-launches-runtime-budgets-for-runaway-ai-agents_1a90363f",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_04_survey-argues-ai-coworkers-need-task-closure-not-better-answers_47521374",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_05_coinbase-s-model-routing-strategy-shows-ai-pricing-pressure-in-practice_8a4bbd52",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_06_ceo-bench-tests-whether-ai-agents-can-run-a-startup-for-500-simulated-da_68c0ad05",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_07_ford-brings-back-veteran-engineers-after-ai-quality-systems-fall-short_4122cdee",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_08_apple-vision-pro-executive-reportedly-heads-to-openai-s-hardware-team_307bfc45",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_09_hugging-face-shows-one-command-private-vllm-servers-on-hf-jobs_7f1a19cb",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_10_retail-ai-shifts-from-flashy-demos-to-operational-decisions_e1257961",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_11_hkuds-vibe-trading_4541bab6",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_12_robbyant-lingbot-map_fe4700f2",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-29_13_browser-use-video-use_ac945c3c",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-29.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_13_browser-use-video-use_ac945c3c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/browser-use/video-use",
+  "canonicalUrl": "https://github.com/browser-use/video-use",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "browser-use/video-use",
+  "friendlyTitle": "video-use lets coding agents edit videos",
+  "summary": "video-use is an open-source video-editing workflow designed for shell-enabled coding agents, combining transcripts, ffmpeg, subtitles, cuts, overlays, and self-evaluation into an agent-driven editing loop.",
+  "friendlySummary": "This repo helps an AI coding agent cut footage, add subtitles, create overlays, and render a final video.",
+  "whyItMatters": "Creators can give raw footage to an agent and ask for edited outputs such as launch videos, tutorials, interviews, or travel clips, while still reviewing the proposed edit plan and final render.",
+  "friendlyWhyItMatters": "It can save creators editing time, especially for rough cuts and repeatable video workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

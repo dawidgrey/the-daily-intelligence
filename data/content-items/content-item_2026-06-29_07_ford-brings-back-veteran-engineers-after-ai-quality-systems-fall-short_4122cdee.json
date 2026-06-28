@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_07_ford-brings-back-veteran-engineers-after-ai-quality-systems-fall-short_4122cdee",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "Ford brings back veteran engineers after AI quality systems fall short",
+  "friendlyTitle": "Ford learned AI still needs experienced engineers",
+  "summary": "Ford has rehired about 350 veteran engineers after automated quality systems and AI did not deliver the quality gains executives expected, according to TechCrunch’s summary of Bloomberg reporting.",
+  "friendlySummary": "Ford brought back hundreds of veteran engineers after AI-based quality systems did not work well enough on their own.",
+  "whyItMatters": "The story is a grounded reminder that domain expertise remains essential in high-stakes physical products. AI adoption works best when experienced people shape, test, and correct the systems rather than assuming automation alone will carry quality.",
+  "friendlyWhyItMatters": "AI can help, but it should not replace deep human know-how in safety-critical work. Machines still need the grey-beard squad.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

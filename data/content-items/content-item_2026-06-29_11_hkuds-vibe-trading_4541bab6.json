@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_11_hkuds-vibe-trading_4541bab6",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/HKUDS/Vibe-Trading",
+  "canonicalUrl": "https://github.com/HKUDS/Vibe-Trading",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "HKUDS/Vibe-Trading",
+  "friendlyTitle": "Vibe-Trading is an AI trading research workspace",
+  "summary": "Vibe-Trading is an open-source AI trading research workspace for market-data analysis, strategy generation, backtesting, reports, reusable memory, and multi-agent trading research workflows.",
+  "friendlySummary": "This repo lets users ask trading questions, test strategies, and generate market research reports with AI agents.",
+  "whyItMatters": "Use it to prototype and backtest trading ideas from natural-language prompts, produce reports, and compare strategies before any real trading decisions. It is best treated as a research and simulation tool, not a substitute for financial judgment.",
+  "friendlyWhyItMatters": "It can help explore ideas before real trading, but users should still verify results carefully and manage risk themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

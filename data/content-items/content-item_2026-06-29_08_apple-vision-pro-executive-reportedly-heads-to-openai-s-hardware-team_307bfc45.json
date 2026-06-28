@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_08_apple-vision-pro-executive-reportedly-heads-to-openai-s-hardware-team_307bfc45",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "Apple Vision Pro executive reportedly heads to OpenAI’s hardware team",
+  "friendlyTitle": "OpenAI is hiring more serious hardware talent",
+  "summary": "TechCrunch reports that Apple executive Paul Meade, who worked on Vision Pro and reportedly led AI smart-glasses development, is leaving for OpenAI’s hardware team.",
+  "friendlySummary": "An Apple executive linked to Vision Pro and smart glasses is reportedly joining OpenAI’s hardware team.",
+  "whyItMatters": "AI hardware is becoming a serious competitive arena, especially around wearables and post-smartphone interfaces. Talent movement from Apple to OpenAI suggests the race is shifting from chat apps toward new everyday devices.",
+  "friendlyWhyItMatters": "This points to a future where AI may live in new devices, not only in browser tabs and phone apps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

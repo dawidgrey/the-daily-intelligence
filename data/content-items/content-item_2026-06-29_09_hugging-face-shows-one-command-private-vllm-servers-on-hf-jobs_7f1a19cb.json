@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-29_09_hugging-face-shows-one-command-private-vllm-servers-on-hf-jobs_7f1a19cb",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/vllm-jobs",
+  "canonicalUrl": "https://huggingface.co/blog/vllm-jobs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-28T20:05:41Z",
+  "createdAtUtc": "2026-06-28T20:05:41Z",
+  "updatedAtUtc": "2026-06-28T20:05:41Z",
+  "title": "Hugging Face shows one-command private vLLM servers on HF Jobs",
+  "friendlyTitle": "Hugging Face makes temporary model servers easier",
+  "summary": "Hugging Face published a workflow for launching a private, OpenAI-compatible vLLM endpoint on HF Jobs with one command, using exposed ports and token-gated access.",
+  "friendlySummary": "Hugging Face shows how to start a private vLLM server with one command and pay only for the hardware time used.",
+  "whyItMatters": "Temporary model serving is getting easier for evaluations, batch jobs, and experiments. Teams can test open models without standing up Kubernetes or committing to permanent inference infrastructure.",
+  "friendlyWhyItMatters": "This is useful when you want to test an open AI model quickly without building a full server setup first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-29"
+  }
+}

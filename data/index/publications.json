@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-27T20:10:08Z",
+  "generatedAtUtc": "2026-06-28T20:05:41Z",
   "items": [
+    {
+      "id": "daily-publication_2026-06-29",
+      "slug": "2026-06-29",
+      "status": "published",
+      "publicationDateUtc": "2026-06-28T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents get practical guardrails, price pressure, and a reality check",
+      "friendlyHeader": "AI tools are getting more useful, but they still need limits",
+      "summary": "Today’s issue focuses on the parts of AI that are becoming operational: cost controls for agents, safer coding workflows, cheaper model routing, and benchmarks that test whether systems can finish work rather than just answer questions.",
+      "friendlySummary": "Today we look at AI tools that help with work, coding, shopping, video, trading, and research. The big theme is simple: AI can do more now, but people still need clear rules, budgets, and checks.",
+      "itemCount": 13,
+      "href": "issues/2026-06-29.html",
+      "dataUrl": "data/daily-publications/2026-06-29.json"
+    },
     {
       "id": "daily-publication_2026-06-28",
       "slug": "2026-06-28",
