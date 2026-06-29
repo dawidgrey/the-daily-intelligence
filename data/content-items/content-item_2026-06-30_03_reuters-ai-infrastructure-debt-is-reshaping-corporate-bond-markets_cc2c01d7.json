@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_03_reuters-ai-infrastructure-debt-is-reshaping-corporate-bond-markets_cc2c01d7",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
+  "canonicalUrl": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "Reuters: AI infrastructure debt is reshaping corporate bond markets",
+  "friendlyTitle": "AI data centers are being funded with huge debt deals",
+  "summary": "Reuters reports that AI-related debt is approaching 15% of U.S. investment-grade bond issuance this year, with Amazon and Alphabet issuing bonds across multiple currencies to fund AI infrastructure. Banks are also developing data-center lease-backed debt structures for AI and compute projects.",
+  "friendlySummary": "Big technology companies are borrowing large amounts of money to build the chips, clouds, and data centers needed for AI. Banks are creating new financing methods for these projects.",
+  "whyItMatters": "AI’s buildout is no longer just a venture-capital story; it is moving into mainstream credit markets and global infrastructure finance. That affects cloud pricing, data-center availability, energy demand, and the cost base behind everyday AI tools.",
+  "friendlyWhyItMatters": "The cost of building AI affects the tools people use every day. More expensive infrastructure can shape prices, availability, and which companies can compete.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

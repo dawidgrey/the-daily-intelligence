@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_10_openai-announces-devday-2026-for-september-29_9c4da53d",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/devday-2026/",
+  "canonicalUrl": "https://openai.com/index/devday-2026/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "OpenAI announces DevDay 2026 for September 29",
+  "friendlyTitle": "OpenAI set the date for DevDay 2026",
+  "summary": "OpenAI announced that DevDay 2026 will take place on September 29 in San Francisco and opened sign-ups for notifications. The announcement is brief, but positions the event as OpenAI’s biggest developer gathering of the year and points builders toward Codex.",
+  "friendlySummary": "OpenAI’s developer event will happen on September 29 in San Francisco. Developers can sign up to be notified when applications open.",
+  "whyItMatters": "Developer events are where platform roadmaps, pricing hints, API features, and agent workflows often crystallize. Teams building on OpenAI should treat the date as a planning marker for possible platform changes.",
+  "friendlyWhyItMatters": "If you build with OpenAI tools, this event may bring new features, product plans, and developer updates.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

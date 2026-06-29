@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_06_bnn-bloomberg-ap-openai-limits-gpt-5-6-sol-access-during-u-s-review_5ae5c97e",
+  "sourceKind": "regulation",
+  "sourceName": "BNN Bloomberg / Associated Press",
+  "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
+  "canonicalUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "BNN Bloomberg/AP: OpenAI limits GPT-5.6 Sol access during U.S. review",
+  "friendlyTitle": "OpenAI is rolling out its newest model more slowly",
+  "summary": "The Associated Press reports that OpenAI is limiting access to GPT-5.6 Sol to a small group of government-approved trusted partners while the U.S. reviews cybersecurity and national-security risks. OpenAI described the phased release as temporary and said the model is intended to help find and fix vulnerabilities.",
+  "friendlySummary": "OpenAI is giving GPT-5.6 Sol to only a small approved group while U.S. officials review possible security risks. OpenAI says broader access should come later.",
+  "whyItMatters": "Frontier AI access is becoming a policy and security negotiation, not just a product launch. Developers and businesses may increasingly see advanced models released in stages, with eligibility, geography, and risk reviews affecting availability.",
+  "friendlyWhyItMatters": "New AI models may not always arrive for everyone at once. Rules and safety reviews could affect who gets access first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

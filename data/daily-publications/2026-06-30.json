@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-06-30",
+  "slug": "2026-06-30",
+  "status": "published",
+  "publicationDateUtc": "2026-06-29T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI’s next phase is cheaper, governed, and more operational",
+  "friendlyHeader": "AI is becoming more practical and more controlled",
+  "summary": "Today’s issue tracks the practical turn in AI: companies are routing work to cheaper models, governments are negotiating access to frontier systems, and agent infrastructure is moving from demos into real budgets, review processes, and public services.",
+  "friendlySummary": "Today we look at how AI is changing work in real life: companies want cheaper tools, governments want clearer rules, and developers are building better ways to use AI agents safely.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-06-30_01_reuters-soaring-ai-bills-are-pushing-companies-toward-cheaper-models_0a2fdeca",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_02_reuters-tracks-companies-cutting-jobs-as-investment-shifts-toward-ai_483f17c1",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_03_reuters-ai-infrastructure-debt-is-reshaping-corporate-bond-markets_cc2c01d7",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_04_vllm-proposes-micro-agents-inside-the-model-serving-layer_22bd7e8d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_05_california-makes-claude-available-to-state-agencies-at-a-discount_707c5b38",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_06_bnn-bloomberg-ap-openai-limits-gpt-5-6-sol-access-during-u-s-review_5ae5c97e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_07_cnbc-baidu-chip-arm-reportedly-targets-a-50b-hong-kong-ipo_8ec181b9",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_08_the-verge-prosecutors-used-chatgpt-logs-in-a-wildfire-arson-trial_73d77834",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_09_coderabbit-argues-ai-written-code-needs-independent-review_cacccbde",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_10_openai-announces-devday-2026-for-september-29_9c4da53d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_11_diegosouzapw-omniroute_586d93ec",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_12_facebook-astryx_f8d32be8",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-06-30_13_vercel-labs-skills_ebf3dd6a",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-06-30.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_09_coderabbit-argues-ai-written-code-needs-independent-review_cacccbde",
+  "sourceKind": "article",
+  "sourceName": "CodeRabbit Blog",
+  "sourceUrl": "https://www.coderabbit.ai/blog/code-review-needs-independence",
+  "canonicalUrl": "https://www.coderabbit.ai/blog/code-review-needs-independence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "CodeRabbit argues AI-written code needs independent review",
+  "friendlyTitle": "AI-written code needs a separate checker",
+  "summary": "CodeRabbit argues that as AI coding tools generate more software, code review should be independent from the same AI stack that wrote the code. The post frames same-stack generation and review as a “grading your own homework” problem, especially for enterprise governance and compliance.",
+  "friendlySummary": "CodeRabbit says teams should not rely on the same AI system to both write code and approve it. That can miss mistakes because the writer and reviewer may share the same blind spots.",
+  "whyItMatters": "The practical takeaway for engineering teams is to separate generation from verification. AI can speed coding, but release processes need independent tests, review, and explainable checks to avoid shared blind spots.",
+  "friendlyWhyItMatters": "If AI helps you build software, you still need independent review, tests, and clear approval steps before shipping.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

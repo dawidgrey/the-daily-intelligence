@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_05_california-makes-claude-available-to-state-agencies-at-a-discount_707c5b38",
+  "sourceKind": "product",
+  "sourceName": "Governor of California",
+  "sourceUrl": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/",
+  "canonicalUrl": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "California makes Claude available to state agencies at a discount",
+  "friendlyTitle": "California government workers will get access to Claude",
+  "summary": "California announced a partnership with Anthropic to provide Claude to state agencies, with 50% discounted pricing, workforce training, technical assistance, and access pathways for local governments. The state says use cases include drafting, summarizing, cyber defense, DMV service improvements, and internal health-care workflows.",
+  "friendlySummary": "California is making Anthropic’s Claude AI tool available to state agencies at a discount. The goal is to help workers draft, summarize, improve services, and support cybersecurity work.",
+  "whyItMatters": "This is a concrete example of generative AI procurement moving into public-sector operations. For residents, the meaningful question will be whether AI improves speed and clarity of services while preserving accountability and human oversight.",
+  "friendlyWhyItMatters": "This could make public services faster and easier to use, as long as the state keeps people responsible for important decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

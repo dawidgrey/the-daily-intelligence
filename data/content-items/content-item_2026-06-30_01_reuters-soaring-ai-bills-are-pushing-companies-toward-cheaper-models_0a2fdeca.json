@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_01_reuters-soaring-ai-bills-are-pushing-companies-toward-cheaper-models_0a2fdeca",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+  "canonicalUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "Reuters: Soaring AI bills are pushing companies toward cheaper models",
+  "friendlyTitle": "Companies are choosing cheaper AI models",
+  "summary": "Reuters reports that businesses are moving more workloads from premium frontier models to cheaper, smaller, open-source, and Chinese models as usage-based AI costs become harder to predict. The article cites OpenRouter data showing open-source token share rising sharply and companies adopting routing strategies to reserve expensive models for harder tasks.",
+  "friendlySummary": "Many businesses are finding that AI bills can rise very quickly. They are starting to use cheaper models for simple tasks and save the expensive models for harder work.",
+  "whyItMatters": "This is the clearest sign yet that the everyday AI stack is becoming a cost-optimization problem, not just a capability race. For teams using AI heavily, model routing, budgets, and task-level model choice are becoming basic operational skills.",
+  "friendlyWhyItMatters": "If you use AI at work, the best tool may not always be the most powerful one. Picking the right model for the job can save a lot of money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

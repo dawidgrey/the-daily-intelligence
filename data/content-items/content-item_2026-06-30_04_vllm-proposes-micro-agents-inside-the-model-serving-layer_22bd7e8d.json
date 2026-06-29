@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_04_vllm-proposes-micro-agents-inside-the-model-serving-layer_22bd7e8d",
+  "sourceKind": "research",
+  "sourceName": "vLLM Blog",
+  "sourceUrl": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+  "canonicalUrl": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "vLLM proposes “micro-agents” inside the model-serving layer",
+  "friendlyTitle": "vLLM shows a new way to make AI answers better",
+  "summary": "The vLLM team argues that routers can become capability-building layers, turning a single OpenAI-compatible API call into bounded collaboration among multiple models, roles, verifiers, and synthesis steps. Their Semantic Router patterns include escalation, parallel ratings, repeated mixture-of-model reasoning, and disagreement-based fusion.",
+  "friendlySummary": "vLLM describes a system where one AI request can quietly use several models or checks behind the scenes, then return one clean answer.",
+  "whyItMatters": "If this pattern matures, teams may get stronger results without rewriting every app as a custom agent graph. It points toward a future where orchestration, verification, and fallback live in the serving layer behind a normal model endpoint.",
+  "friendlyWhyItMatters": "This could make AI tools more reliable without forcing every developer to build a complicated agent system from scratch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

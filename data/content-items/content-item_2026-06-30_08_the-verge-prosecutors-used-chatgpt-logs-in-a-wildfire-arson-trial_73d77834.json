@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_08_the-verge-prosecutors-used-chatgpt-logs-in-a-wildfire-arson-trial_73d77834",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "The Verge: Prosecutors used ChatGPT logs in a wildfire arson trial",
+  "friendlyTitle": "ChatGPT logs were used in court, but did not convince the jury",
+  "summary": "The Verge reports that prosecutors introduced ChatGPT logs as evidence in a Palisades wildfire arson trial, but the jury deadlocked 10-2 for the defense and the judge declared a mistrial. One juror said ordinary chatbot use did not persuade her as evidence of guilt or intent.",
+  "friendlySummary": "In a wildfire arson trial, prosecutors used a person’s ChatGPT conversations as evidence. The jury did not agree on a conviction, and the case ended in a mistrial.",
+  "whyItMatters": "AI conversations are becoming part of legal evidence, but their meaning is still contested. People should assume chatbot logs may be discoverable while courts, lawyers, and juries work out how much weight they deserve.",
+  "friendlyWhyItMatters": "What you say to an AI tool may matter later. But courts are still figuring out how to understand chatbot conversations fairly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

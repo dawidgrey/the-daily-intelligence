@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_11_diegosouzapw-omniroute_586d93ec",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/diegosouzapw/OmniRoute",
+  "canonicalUrl": "https://github.com/diegosouzapw/OmniRoute",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "diegosouzapw/OmniRoute",
+  "friendlyTitle": "OmniRoute: one local gateway for many AI providers",
+  "summary": "OmniRoute is a local-first AI gateway and OpenAI-compatible proxy for routing coding tools and agents across many providers, with fallback, provider pooling, compression, MCP/A2A support, and desktop/PWA options.",
+  "friendlySummary": "OmniRoute lets developers connect coding tools to many AI providers through one local endpoint. It also includes fallback and cost-saving features.",
+  "whyItMatters": "Developers can use it as a single local endpoint for tools such as Claude Code, Codex, Cursor, Cline, and other OpenAI-compatible clients, especially when they want provider fallback and cost controls.",
+  "friendlyWhyItMatters": "Use it when you want one place to manage many model providers instead of changing settings in every AI coding tool.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

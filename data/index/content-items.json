@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-28T20:05:41Z",
+  "generatedAtUtc": "2026-06-29T20:14:21Z",
   "items": [
     {
-      "id": "content-item_2026-06-29_01_codex-users-push-for-deterministic-sensitive-file-exclusion_6154952d",
+      "id": "content-item_2026-06-30_01_reuters-soaring-ai-bills-are-pushing-companies-toward-cheaper-models_0a2fdeca",
       "sourceKind": "article",
-      "sourceName": "GitHub / openai-codex",
-      "title": "Codex users push for deterministic sensitive-file exclusion",
-      "sourceUrl": "https://github.com/openai/codex/issues/2847"
+      "sourceName": "Reuters",
+      "title": "Reuters: Soaring AI bills are pushing companies toward cheaper models",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/"
     },
     {
-      "id": "content-item_2026-06-29_02_semgrep-says-glm-5-2-beat-claude-on-one-cyber-benchmark-with-caveats_1d175ff2",
+      "id": "content-item_2026-06-30_02_reuters-tracks-companies-cutting-jobs-as-investment-shifts-toward-ai_483f17c1",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Reuters tracks companies cutting jobs as investment shifts toward AI",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-06-29/"
+    },
+    {
+      "id": "content-item_2026-06-30_03_reuters-ai-infrastructure-debt-is-reshaping-corporate-bond-markets_cc2c01d7",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Reuters: AI infrastructure debt is reshaping corporate bond markets",
+      "sourceUrl": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/"
+    },
+    {
+      "id": "content-item_2026-06-30_04_vllm-proposes-micro-agents-inside-the-model-serving-layer_22bd7e8d",
       "sourceKind": "research",
-      "sourceName": "Semgrep",
-      "title": "Semgrep says GLM 5.2 beat Claude on one cyber benchmark — with caveats",
-      "sourceUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
+      "sourceName": "vLLM Blog",
+      "title": "vLLM proposes “micro-agents” inside the model-serving layer",
+      "sourceUrl": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models"
     },
     {
-      "id": "content-item_2026-06-29_03_agentwatch-launches-runtime-budgets-for-runaway-ai-agents_1a90363f",
+      "id": "content-item_2026-06-30_05_california-makes-claude-available-to-state-agencies-at-a-discount_707c5b38",
       "sourceKind": "product",
-      "sourceName": "AgentWatch",
-      "title": "AgentWatch launches runtime budgets for runaway AI agents",
-      "sourceUrl": "https://agent-watch.dev/"
+      "sourceName": "Governor of California",
+      "title": "California makes Claude available to state agencies at a discount",
+      "sourceUrl": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/"
     },
     {
-      "id": "content-item_2026-06-29_04_survey-argues-ai-coworkers-need-task-closure-not-better-answers_47521374",
-      "sourceKind": "research",
-      "sourceName": "The Decoder",
-      "title": "Survey argues AI coworkers need task closure, not better answers",
-      "sourceUrl": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
+      "id": "content-item_2026-06-30_06_bnn-bloomberg-ap-openai-limits-gpt-5-6-sol-access-during-u-s-review_5ae5c97e",
+      "sourceKind": "regulation",
+      "sourceName": "BNN Bloomberg / Associated Press",
+      "title": "BNN Bloomberg/AP: OpenAI limits GPT-5.6 Sol access during U.S. review",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/"
     },
     {
-      "id": "content-item_2026-06-29_05_coinbase-s-model-routing-strategy-shows-ai-pricing-pressure-in-practice_8a4bbd52",
+      "id": "content-item_2026-06-30_07_cnbc-baidu-chip-arm-reportedly-targets-a-50b-hong-kong-ipo_8ec181b9",
       "sourceKind": "article",
-      "sourceName": "The Decoder",
-      "title": "Coinbase’s model-routing strategy shows AI pricing pressure in practice",
-      "sourceUrl": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
+      "sourceName": "CNBC",
+      "title": "CNBC: Baidu chip arm reportedly targets a $50B Hong Kong IPO",
+      "sourceUrl": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html"
     },
     {
-      "id": "content-item_2026-06-29_06_ceo-bench-tests-whether-ai-agents-can-run-a-startup-for-500-simulated-da_68c0ad05",
-      "sourceKind": "research",
-      "sourceName": "The Decoder",
-      "title": "CEO-Bench tests whether AI agents can run a startup for 500 simulated days",
-      "sourceUrl": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
-    },
-    {
-      "id": "content-item_2026-06-29_07_ford-brings-back-veteran-engineers-after-ai-quality-systems-fall-short_4122cdee",
+      "id": "content-item_2026-06-30_08_the-verge-prosecutors-used-chatgpt-logs-in-a-wildfire-arson-trial_73d77834",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Ford brings back veteran engineers after AI quality systems fall short",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+      "sourceName": "The Verge",
+      "title": "The Verge: Prosecutors used ChatGPT logs in a wildfire arson trial",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
     },
     {
-      "id": "content-item_2026-06-29_08_apple-vision-pro-executive-reportedly-heads-to-openai-s-hardware-team_307bfc45",
+      "id": "content-item_2026-06-30_09_coderabbit-argues-ai-written-code-needs-independent-review_cacccbde",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Apple Vision Pro executive reportedly heads to OpenAI’s hardware team",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+      "sourceName": "CodeRabbit Blog",
+      "title": "CodeRabbit argues AI-written code needs independent review",
+      "sourceUrl": "https://www.coderabbit.ai/blog/code-review-needs-independence"
     },
     {
-      "id": "content-item_2026-06-29_09_hugging-face-shows-one-command-private-vllm-servers-on-hf-jobs_7f1a19cb",
+      "id": "content-item_2026-06-30_10_openai-announces-devday-2026-for-september-29_9c4da53d",
       "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face shows one-command private vLLM servers on HF Jobs",
-      "sourceUrl": "https://huggingface.co/blog/vllm-jobs"
+      "sourceName": "OpenAI",
+      "title": "OpenAI announces DevDay 2026 for September 29",
+      "sourceUrl": "https://openai.com/index/devday-2026/"
     },
     {
-      "id": "content-item_2026-06-29_10_retail-ai-shifts-from-flashy-demos-to-operational-decisions_e1257961",
-      "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "Retail AI shifts from flashy demos to operational decisions",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-    },
-    {
-      "id": "content-item_2026-06-29_11_hkuds-vibe-trading_4541bab6",
+      "id": "content-item_2026-06-30_11_diegosouzapw-omniroute_586d93ec",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "HKUDS/Vibe-Trading",
-      "sourceUrl": "https://github.com/HKUDS/Vibe-Trading"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "diegosouzapw/OmniRoute",
+      "sourceUrl": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
-      "id": "content-item_2026-06-29_12_robbyant-lingbot-map_fe4700f2",
+      "id": "content-item_2026-06-30_12_facebook-astryx_f8d32be8",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "Robbyant/lingbot-map",
-      "sourceUrl": "https://github.com/Robbyant/lingbot-map"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "facebook/astryx",
+      "sourceUrl": "https://github.com/facebook/astryx"
     },
     {
-      "id": "content-item_2026-06-29_13_browser-use-video-use_ac945c3c",
+      "id": "content-item_2026-06-30_13_vercel-labs-skills_ebf3dd6a",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "browser-use/video-use",
-      "sourceUrl": "https://github.com/browser-use/video-use"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "vercel-labs/skills",
+      "sourceUrl": "https://github.com/vercel-labs/skills"
     }
   ]
 }

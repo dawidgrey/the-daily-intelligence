@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_07_cnbc-baidu-chip-arm-reportedly-targets-a-50b-hong-kong-ipo_8ec181b9",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "CNBC: Baidu chip arm reportedly targets a $50B Hong Kong IPO",
+  "friendlyTitle": "Baidu’s AI chip business may seek a huge IPO",
+  "summary": "CNBC reports that Baidu shares rose after reports that its AI chip unit Kunlunxin is targeting a Hong Kong IPO that could value the business at $50 billion. The unit has broadened beyond supplying Baidu and has drawn interest from external buyers including ByteDance, according to prior reporting.",
+  "friendlySummary": "Baidu’s chip unit Kunlunxin may list in Hong Kong at a very large valuation. The company makes chips used for AI systems and is trying to sell beyond Baidu itself.",
+  "whyItMatters": "China’s AI hardware ecosystem is trying to scale under geopolitical pressure and heavy local demand. More domestic chip options could affect model training, inference costs, and the competitive balance between U.S. and Chinese AI platforms.",
+  "friendlyWhyItMatters": "AI needs chips. If more companies can make useful AI chips, it can change prices, supply, and competition around the world.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}

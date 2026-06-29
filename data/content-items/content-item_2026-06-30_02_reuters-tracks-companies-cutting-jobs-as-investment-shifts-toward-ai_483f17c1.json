@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-06-30_02_reuters-tracks-companies-cutting-jobs-as-investment-shifts-toward-ai_483f17c1",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-06-29/",
+  "canonicalUrl": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-06-29/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-29T20:14:21Z",
+  "createdAtUtc": "2026-06-29T20:14:21Z",
+  "updatedAtUtc": "2026-06-29T20:14:21Z",
+  "title": "Reuters tracks companies cutting jobs as investment shifts toward AI",
+  "friendlyTitle": "AI investment is changing jobs",
+  "summary": "Reuters compiled AI-linked layoffs across sectors including banking, technology, insurance, telecoms, manufacturing, media, and consumer goods. The report frames the cuts as part of a broader shift in corporate investment toward automation, AI tooling, and efficiency programs.",
+  "friendlySummary": "Reuters listed companies that are cutting jobs while spending more on AI and automation. The changes are happening across many industries, not only tech.",
+  "whyItMatters": "The practical message is uncomfortable but important: AI adoption is now showing up in workforce planning, not only product roadmaps. Workers and managers need to treat AI fluency, process redesign, and retraining as near-term business issues.",
+  "friendlyWhyItMatters": "This matters because AI is already affecting how companies hire, train, and organize teams. Learning how to work with AI is becoming more important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-06-30"
+  }
+}
