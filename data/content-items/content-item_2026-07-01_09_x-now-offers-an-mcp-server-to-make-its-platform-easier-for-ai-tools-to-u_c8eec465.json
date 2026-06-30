@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_09_x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-u_c8eec465",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+  "canonicalUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+  "credit": "X discussion highlighted the launch, including posts from xAI and developer accounts",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+  "friendlyTitle": "X made it easier for AI tools to read X data",
+  "summary": "X launched a hosted Model Context Protocol server so MCP-compatible tools such as Claude, Cursor, Grok Build, and other assistants can connect to X's API through user account permissions. TechCrunch reports that the hosted MCP does not include Write API access, so it cannot post on X.",
+  "friendlySummary": "X added an official MCP connection for AI apps, but it does not let those apps post for you.",
+  "whyItMatters": "Real-time social data is valuable for agents, but integrations need guardrails. X's read-focused MCP endpoint shows how major platforms may expose data to AI tools while trying to avoid automated posting and spam.",
+  "friendlyWhyItMatters": "This may help research and trend-tracking tools use live X data more safely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_03_start-building-with-nano-banana-2-lite-and-gemini-omni-flash_adbaffb5",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+  "canonicalUrl": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "friendlyTitle": "Google adds faster image and video AI tools",
+  "summary": "Google DeepMind released Nano Banana 2 Lite for faster, lower-cost image generation and opened Gemini Omni Flash for video generation and conversational video editing through developer tools. Google frames the pair as a way to chain fast image ideation into video creation workflows.",
+  "friendlySummary": "Google released a cheaper image model and a video model that developers can use in apps.",
+  "whyItMatters": "Generative media is becoming a pipeline, not a one-off prompt box. Lower latency and clearer API pricing matter for marketers, creators, app developers, and product teams that need many iterations rather than a single polished demo.",
+  "friendlyWhyItMatters": "This could make it easier and cheaper to create pictures and videos for work, learning, and creative projects.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

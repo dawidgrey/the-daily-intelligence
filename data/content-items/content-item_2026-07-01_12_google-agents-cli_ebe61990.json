@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_12_google-agents-cli_ebe61990",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/google/agents-cli",
+  "canonicalUrl": "https://github.com/google/agents-cli",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "google/agents-cli",
+  "friendlyTitle": "Google's agents-cli helps build cloud AI agents",
+  "summary": "Google's agents-cli provides a command-line toolkit and skills intended to help coding assistants create, evaluate, and deploy AI agents on Google Cloud.",
+  "friendlySummary": "This repo gives developers command-line tools for making and testing AI agents on Google Cloud.",
+  "whyItMatters": "Developers experimenting with agent deployment can use it as a practical scaffold for cloud agent workflows, evaluation loops, and repeatable assistant skills.",
+  "friendlyWhyItMatters": "It can help builders move from agent demos toward deployable systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

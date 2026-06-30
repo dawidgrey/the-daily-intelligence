@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_04_featuring-every-eval-ever-results-on-hugging-face-model-pages_3f0a56fa",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/eee-community-evals",
+  "canonicalUrl": "https://huggingface.co/blog/eee-community-evals",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "Featuring Every Eval Ever results on Hugging Face model pages",
+  "friendlyTitle": "Model benchmark results get easier to compare",
+  "summary": "Hugging Face and Every Eval Ever are making evaluation results interoperable, so benchmark scores can be cross-posted, displayed on model pages, and linked back to structured records. The integration aims to reduce fragmented and poorly documented model-evaluation reporting.",
+  "friendlySummary": "Hugging Face is making it easier to see and track AI model test results in one place.",
+  "whyItMatters": "Model choice increasingly depends on trusted evaluation data, not headline benchmarks. Better provenance for scores helps developers, researchers, and buyers compare models with fewer hidden settings and fewer spreadsheet archaeology expeditions.",
+  "friendlyWhyItMatters": "This helps people choose AI models with better evidence instead of relying only on marketing claims.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-06-29T20:14:21Z",
+  "generatedAtUtc": "2026-06-30T20:14:20Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-01",
+      "slug": "2026-07-01",
+      "status": "published",
+      "publicationDateUtc": "2026-06-30T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Cheaper agents, sharper benchmarks, and AI moving into everyday interfaces",
+      "friendlyHeader": "AI is getting cheaper, more useful, and easier to reach",
+      "summary": "Today's issue tracks the practical shift in AI: more capable agent models are getting cheaper, benchmarks are becoming more realistic, and AI tools are moving into keyboards, research workbenches, cloud teams, and real-time data pipes.",
+      "friendlySummary": "Today we look at new AI models, tools, and research that could change how people work, create, learn, and build software.",
+      "itemCount": 13,
+      "href": "issues/2026-07-01.html",
+      "dataUrl": "data/daily-publications/2026-07-01.json"
+    },
     {
       "id": "daily-publication_2026-06-30",
       "slug": "2026-06-30",

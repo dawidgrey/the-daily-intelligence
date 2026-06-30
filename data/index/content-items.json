@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-29T20:14:21Z",
+  "generatedAtUtc": "2026-06-30T20:14:20Z",
   "items": [
     {
-      "id": "content-item_2026-06-30_01_reuters-soaring-ai-bills-are-pushing-companies-toward-cheaper-models_0a2fdeca",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: Soaring AI bills are pushing companies toward cheaper models",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/"
+      "id": "content-item_2026-07-01_01_introducing-claude-sonnet-5_0f764e9b",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Introducing Claude Sonnet 5",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5"
     },
     {
-      "id": "content-item_2026-06-30_02_reuters-tracks-companies-cutting-jobs-as-investment-shifts-toward-ai_483f17c1",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters tracks companies cutting jobs as investment shifts toward AI",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-06-29/"
+      "id": "content-item_2026-07-01_02_claude-science-an-ai-workbench-for-scientists-is-now-available_d5f7bd1f",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench"
     },
     {
-      "id": "content-item_2026-06-30_03_reuters-ai-infrastructure-debt-is-reshaping-corporate-bond-markets_cc2c01d7",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: AI infrastructure debt is reshaping corporate bond markets",
-      "sourceUrl": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/"
+      "id": "content-item_2026-07-01_03_start-building-with-nano-banana-2-lite-and-gemini-omni-flash_adbaffb5",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "sourceUrl": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
     },
     {
-      "id": "content-item_2026-06-30_04_vllm-proposes-micro-agents-inside-the-model-serving-layer_22bd7e8d",
+      "id": "content-item_2026-07-01_04_featuring-every-eval-ever-results-on-hugging-face-model-pages_3f0a56fa",
       "sourceKind": "research",
-      "sourceName": "vLLM Blog",
-      "title": "vLLM proposes “micro-agents” inside the model-serving layer",
-      "sourceUrl": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models"
+      "sourceName": "Hugging Face Blog",
+      "title": "Featuring Every Eval Ever results on Hugging Face model pages",
+      "sourceUrl": "https://huggingface.co/blog/eee-community-evals"
     },
     {
-      "id": "content-item_2026-06-30_05_california-makes-claude-available-to-state-agencies-at-a-discount_707c5b38",
-      "sourceKind": "product",
-      "sourceName": "Governor of California",
-      "title": "California makes Claude available to state agencies at a discount",
-      "sourceUrl": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/"
+      "id": "content-item_2026-07-01_05_scarfbench-benchmarking-ai-agents-for-enterprise-java-framework-migratio_86548262",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog / IBM Research",
+      "title": "ScarfBench: Benchmarking AI agents for enterprise Java framework migration",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/scarfbench"
     },
     {
-      "id": "content-item_2026-06-30_06_bnn-bloomberg-ap-openai-limits-gpt-5-6-sol-access-during-u-s-review_5ae5c97e",
-      "sourceKind": "regulation",
-      "sourceName": "BNN Bloomberg / Associated Press",
-      "title": "BNN Bloomberg/AP: OpenAI limits GPT-5.6 Sol access during U.S. review",
-      "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/"
-    },
-    {
-      "id": "content-item_2026-06-30_07_cnbc-baidu-chip-arm-reportedly-targets-a-50b-hong-kong-ipo_8ec181b9",
+      "id": "content-item_2026-07-01_06_how-chatgpt-adoption-has-expanded_fb435a03",
       "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "CNBC: Baidu chip arm reportedly targets a $50B Hong Kong IPO",
-      "sourceUrl": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html"
-    },
-    {
-      "id": "content-item_2026-06-30_08_the-verge-prosecutors-used-chatgpt-logs-in-a-wildfire-arson-trial_73d77834",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "The Verge: Prosecutors used ChatGPT logs in a wildfire arson trial",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
-    },
-    {
-      "id": "content-item_2026-06-30_09_coderabbit-argues-ai-written-code-needs-independent-review_cacccbde",
-      "sourceKind": "article",
-      "sourceName": "CodeRabbit Blog",
-      "title": "CodeRabbit argues AI-written code needs independent review",
-      "sourceUrl": "https://www.coderabbit.ai/blog/code-review-needs-independence"
-    },
-    {
-      "id": "content-item_2026-06-30_10_openai-announces-devday-2026-for-september-29_9c4da53d",
-      "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI announces DevDay 2026 for September 29",
-      "sourceUrl": "https://openai.com/index/devday-2026/"
+      "title": "How ChatGPT adoption has expanded",
+      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "id": "content-item_2026-06-30_11_diegosouzapw-omniroute_586d93ec",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "diegosouzapw/OmniRoute",
-      "sourceUrl": "https://github.com/diegosouzapw/OmniRoute"
+      "id": "content-item_2026-07-01_07_introducing-genebench-pro_3c923494",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "sourceUrl": "https://openai.com/index/introducing-genebench-pro"
     },
     {
-      "id": "content-item_2026-06-30_12_facebook-astryx_f8d32be8",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "facebook/astryx",
-      "sourceUrl": "https://github.com/facebook/astryx"
+      "id": "content-item_2026-07-01_08_acti-puts-ai-agents-directly-into-your-smartphone-keyboard_5bca6dbf",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
     },
     {
-      "id": "content-item_2026-06-30_13_vercel-labs-skills_ebf3dd6a",
+      "id": "content-item_2026-07-01_09_x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-u_c8eec465",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
+    },
+    {
+      "id": "content-item_2026-07-01_10_amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic_a822e14a",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+    },
+    {
+      "id": "content-item_2026-07-01_11_logto-io-logto_0925690d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
-      "title": "vercel-labs/skills",
-      "sourceUrl": "https://github.com/vercel-labs/skills"
+      "title": "logto-io/logto",
+      "sourceUrl": "https://github.com/logto-io/logto"
+    },
+    {
+      "id": "content-item_2026-07-01_12_google-agents-cli_ebe61990",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "google/agents-cli",
+      "sourceUrl": "https://github.com/google/agents-cli"
+    },
+    {
+      "id": "content-item_2026-07-01_13_usestrix-strix_9d0f79db",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "usestrix/strix",
+      "sourceUrl": "https://github.com/usestrix/strix"
     }
   ]
 }

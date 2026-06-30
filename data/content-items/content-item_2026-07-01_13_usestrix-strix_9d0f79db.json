@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_13_usestrix-strix_9d0f79db",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/usestrix/strix",
+  "canonicalUrl": "https://github.com/usestrix/strix",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "usestrix/strix",
+  "friendlyTitle": "Strix uses AI to help find security problems",
+  "summary": "Strix is an open-source AI penetration-testing tool designed to help find and fix application vulnerabilities.",
+  "friendlySummary": "Strix is an open-source tool for testing apps for vulnerabilities with AI help.",
+  "whyItMatters": "Security teams and developers can use it to explore AI-assisted vulnerability discovery in controlled environments, then turn findings into fixes before issues reach production.",
+  "friendlyWhyItMatters": "It can help teams find weaknesses earlier, as long as it is used responsibly on systems they own or are allowed to test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

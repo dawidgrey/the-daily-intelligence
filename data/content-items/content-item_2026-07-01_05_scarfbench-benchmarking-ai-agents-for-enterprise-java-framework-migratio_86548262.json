@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_05_scarfbench-benchmarking-ai-agents-for-enterprise-java-framework-migratio_86548262",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog / IBM Research",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/scarfbench",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/scarfbench",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "ScarfBench: Benchmarking AI agents for enterprise Java framework migration",
+  "friendlyTitle": "A new test shows coding agents still struggle with big software migrations",
+  "summary": "IBM Research introduced ScarfBench, a benchmark for testing whether AI coding agents can migrate real enterprise Java applications across Spring, Jakarta EE, and Quarkus. The results show that even strong agents often compile code but fail deployment or behavioral validation, with less than 10% behavioral success in the reported tests.",
+  "friendlySummary": "IBM Research shared a benchmark where AI agents try to move Java apps between major frameworks.",
+  "whyItMatters": "This is a useful reality check for enterprise AI coding claims. Modernization work is not just generating code; it requires builds, dependencies, deployment, and behavior to survive the trip.",
+  "friendlyWhyItMatters": "It shows businesses should test AI coding tools on real workflows before trusting them with important systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

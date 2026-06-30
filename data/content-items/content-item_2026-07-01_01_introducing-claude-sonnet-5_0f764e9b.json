@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_01_introducing-claude-sonnet-5_0f764e9b",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "Introducing Claude Sonnet 5",
+  "friendlyTitle": "Claude Sonnet 5 is here",
+  "summary": "Anthropic launched Claude Sonnet 5, positioning it as its most agentic Sonnet model yet, with stronger coding, tool use, reasoning, and autonomous task performance. The model is available across Claude plans and developer products, with introductory API pricing through August 31, 2026.",
+  "friendlySummary": "Anthropic released a new Claude model that is better at coding, planning, and using tools.",
+  "whyItMatters": "The important signal is cost-performance: more workflows that previously required premium frontier models may now run on a cheaper default model. For teams building agents, coding assistants, and internal automation, that can lower experimentation and production costs.",
+  "friendlyWhyItMatters": "This could make useful AI agents cheaper for everyday work and business tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}

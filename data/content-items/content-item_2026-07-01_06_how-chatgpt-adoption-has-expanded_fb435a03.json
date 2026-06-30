@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-01_06_how-chatgpt-adoption-has-expanded_fb435a03",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+  "canonicalUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-06-30T20:14:20Z",
+  "createdAtUtc": "2026-06-30T20:14:20Z",
+  "updatedAtUtc": "2026-06-30T20:14:20Z",
+  "title": "How ChatGPT adoption has expanded",
+  "friendlyTitle": "OpenAI says ChatGPT use is growing around the world",
+  "summary": "OpenAI published Signals data suggesting ChatGPT usage is widening globally and deepening over time. The company says users send more messages and try more distinct capabilities after several months, while relative growth has been fastest in Africa, Asia, and lower-HDI countries.",
+  "friendlySummary": "OpenAI shared data showing people use ChatGPT more over time and adoption is growing quickly in many regions.",
+  "whyItMatters": "The data suggests AI use is becoming habitual rather than experimental for many people. For product teams and educators, the global spread also means AI design, pricing, language support, and access questions are no longer niche issues.",
+  "friendlyWhyItMatters": "This shows AI is becoming a normal tool for more people, not just early tech users.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-01"
+  }
+}
