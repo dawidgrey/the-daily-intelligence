@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_06_meta-reportedly-explores-selling-spare-ai-compute-through-a-cloud-busine_dce1a976",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "Meta reportedly explores selling spare AI compute through a cloud business",
+  "friendlyTitle": "Meta may sell extra AI computing power",
+  "summary": "Meta is reportedly developing plans to sell access to surplus AI compute and hosted models, potentially turning its massive AI infrastructure commitments into a cloud business that competes with AWS, Google Cloud and Azure.",
+  "friendlySummary": "Meta has spent heavily on AI data centers and may turn some of that capacity into a cloud service for other companies.",
+  "whyItMatters": "AI's economics increasingly depend on who controls data centers and can monetize expensive chips. If Meta enters the compute market, developers may gain another infrastructure option, but the industry also faces sharper questions about overbuilt capacity.",
+  "friendlyWhyItMatters": "AI needs huge amounts of computing power. More sellers could give builders more options, but it also shows how costly the AI race has become.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

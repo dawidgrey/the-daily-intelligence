@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_12_allenai-olmocr_8af5991f",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/allenai/olmocr",
+  "canonicalUrl": "https://github.com/allenai/olmocr",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "allenai/olmocr",
+  "friendlyTitle": "A tool for turning PDFs into better AI-ready text",
+  "summary": "Allen AI's olmocr is a toolkit for turning PDFs into cleaner linearized text suitable for LLM datasets, retrieval systems and training pipelines.",
+  "friendlySummary": "olmocr helps extract cleaner text from PDF files so AI systems can use the information more reliably.",
+  "whyItMatters": "It is useful for teams converting messy document collections into model-ready text, especially when PDF structure, ordering and OCR quality matter for downstream retrieval or fine-tuning.",
+  "friendlyWhyItMatters": "Use it when you have lots of PDFs and want to build search, RAG or training data from them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

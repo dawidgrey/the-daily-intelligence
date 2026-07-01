@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_01_z-ai-launches-zcode-a-glm-5-2-coding-agent-for-planning-coding-review-an_ea1941e7",
+  "sourceKind": "product",
+  "sourceName": "Z.ai",
+  "sourceUrl": "https://zcode.z.ai/cn",
+  "canonicalUrl": "https://zcode.z.ai/cn",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "Z.ai launches ZCode, a GLM-5.2 coding agent for planning, coding, review and release",
+  "friendlyTitle": "Z.ai has a new AI coding app called ZCode",
+  "summary": "Z.ai's ZCode site presents a desktop coding-agent workflow built around GLM-5.2, with task planning, multi-agent collaboration, release automation, remote bot control and downloads for macOS, Windows and Linux beta.",
+  "friendlySummary": "ZCode is an AI tool for developers. It can help plan, write, review and ship software using Z.ai's GLM-5.2 model.",
+  "whyItMatters": "The launch shows Chinese model labs moving beyond chat endpoints into full developer workbenches. For software teams, the competitive field for coding agents is widening quickly, with pricing and integrated workflows becoming as important as benchmark scores.",
+  "friendlyWhyItMatters": "People who code may soon have more choices beyond the biggest Western AI coding tools. More competition could mean better features and better prices.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

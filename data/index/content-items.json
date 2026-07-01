@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-06-30T20:14:20Z",
+  "generatedAtUtc": "2026-07-01T20:09:29Z",
   "items": [
     {
-      "id": "content-item_2026-07-01_01_introducing-claude-sonnet-5_0f764e9b",
+      "id": "content-item_2026-07-02_01_z-ai-launches-zcode-a-glm-5-2-coding-agent-for-planning-coding-review-an_ea1941e7",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5"
+      "sourceName": "Z.ai",
+      "title": "Z.ai launches ZCode, a GLM-5.2 coding agent for planning, coding, review and release",
+      "sourceUrl": "https://zcode.z.ai/cn"
     },
     {
-      "id": "content-item_2026-07-01_02_claude-science-an-ai-workbench-for-scientists-is-now-available_d5f7bd1f",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench"
+      "id": "content-item_2026-07-02_02_anthropic-says-claude-fable-5-is-returning-with-new-jailbreak-routing-sa_c5e612bf",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Anthropic says Claude Fable 5 is returning with new jailbreak routing safeguards",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
     },
     {
-      "id": "content-item_2026-07-01_03_start-building-with-nano-banana-2-lite-and-gemini-omni-flash_adbaffb5",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "sourceUrl": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
-    },
-    {
-      "id": "content-item_2026-07-01_04_featuring-every-eval-ever-results-on-hugging-face-model-pages_3f0a56fa",
-      "sourceKind": "research",
+      "id": "content-item_2026-07-02_03_hugging-face-and-cerebras-show-a-low-latency-open-voice-ai-stack-with-ge_b7f49b2b",
+      "sourceKind": "article",
       "sourceName": "Hugging Face Blog",
-      "title": "Featuring Every Eval Ever results on Hugging Face model pages",
-      "sourceUrl": "https://huggingface.co/blog/eee-community-evals"
+      "title": "Hugging Face and Cerebras show a low-latency open voice AI stack with Gemma 4",
+      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
     },
     {
-      "id": "content-item_2026-07-01_05_scarfbench-benchmarking-ai-agents-for-enterprise-java-framework-migratio_86548262",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face Blog / IBM Research",
-      "title": "ScarfBench: Benchmarking AI agents for enterprise Java framework migration",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/scarfbench"
-    },
-    {
-      "id": "content-item_2026-07-01_06_how-chatgpt-adoption-has-expanded_fb435a03",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "How ChatGPT adoption has expanded",
-      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-    },
-    {
-      "id": "content-item_2026-07-01_07_introducing-genebench-pro_3c923494",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "sourceUrl": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
-      "id": "content-item_2026-07-01_08_acti-puts-ai-agents-directly-into-your-smartphone-keyboard_5bca6dbf",
+      "id": "content-item_2026-07-02_04_cloudflare-sets-a-september-deadline-for-mixed-use-ai-crawlers_920ebcba",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
+      "title": "Cloudflare sets a September deadline for mixed-use AI crawlers",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
     },
     {
-      "id": "content-item_2026-07-01_09_x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-u_c8eec465",
+      "id": "content-item_2026-07-02_05_gemini-spark-arrives-on-mac-as-google-pushes-desktop-agents-into-local-w_d994e827",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
+      "title": "Gemini Spark arrives on Mac as Google pushes desktop agents into local workflows",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
     },
     {
-      "id": "content-item_2026-07-01_10_amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic_a822e14a",
+      "id": "content-item_2026-07-02_06_meta-reportedly-explores-selling-spare-ai-compute-through-a-cloud-busine_dce1a976",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+      "title": "Meta reportedly explores selling spare AI compute through a cloud business",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
     },
     {
-      "id": "content-item_2026-07-01_11_logto-io-logto_0925690d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "logto-io/logto",
-      "sourceUrl": "https://github.com/logto-io/logto"
+      "id": "content-item_2026-07-02_07_mit-technology-review-examines-why-llm-answers-often-sound-alike_6d610399",
+      "sourceKind": "article",
+      "sourceName": "MIT Technology Review",
+      "title": "MIT Technology Review examines why LLM answers often sound alike",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
     },
     {
-      "id": "content-item_2026-07-01_12_google-agents-cli_ebe61990",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "google/agents-cli",
-      "sourceUrl": "https://github.com/google/agents-cli"
+      "id": "content-item_2026-07-02_08_palantir-s-alex-karp-criticizes-token-based-enterprise-ai-pricing_ab1a170b",
+      "sourceKind": "article",
+      "sourceName": "CNBC",
+      "title": "Palantir's Alex Karp criticizes token-based enterprise AI pricing",
+      "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html"
     },
     {
-      "id": "content-item_2026-07-01_13_usestrix-strix_9d0f79db",
+      "id": "content-item_2026-07-02_09_openai-details-how-population-level-crash-analysis-found-an-18-year-old_4c4d91d3",
+      "sourceKind": "article",
+      "sourceName": "OpenAI Engineering",
+      "title": "OpenAI details how population-level crash analysis found an 18-year-old infrastructure bug",
+      "sourceUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
+      "id": "content-item_2026-07-02_10_clusy-pitches-an-agent-native-notebook-for-ml-and-data-science-workflows_e99afb27",
+      "sourceKind": "product",
+      "sourceName": "Clusy",
+      "title": "Clusy pitches an agent-native notebook for ML and data science workflows",
+      "sourceUrl": "https://www.clusy.io/"
+    },
+    {
+      "id": "content-item_2026-07-02_11_microsoft-ai-for-beginners_3eadfa87",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "usestrix/strix",
-      "sourceUrl": "https://github.com/usestrix/strix"
+      "sourceName": "GitHub trending Jupyter Notebook",
+      "title": "microsoft/AI-For-Beginners",
+      "sourceUrl": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "id": "content-item_2026-07-02_12_allenai-olmocr_8af5991f",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending Python",
+      "title": "allenai/olmocr",
+      "sourceUrl": "https://github.com/allenai/olmocr"
+    },
+    {
+      "id": "content-item_2026-07-02_13_open-webui-open-webui_18cd9a16",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending Python",
+      "title": "open-webui/open-webui",
+      "sourceUrl": "https://github.com/open-webui/open-webui"
     }
   ]
 }

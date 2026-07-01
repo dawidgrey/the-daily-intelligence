@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_07_mit-technology-review-examines-why-llm-answers-often-sound-alike_6d610399",
+  "sourceKind": "article",
+  "sourceName": "MIT Technology Review",
+  "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+  "canonicalUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "MIT Technology Review examines why LLM answers often sound alike",
+  "friendlyTitle": "Many AI chatbots give very similar answers",
+  "summary": "MIT Technology Review profiles Springboards' Flint, an LLM designed to produce more varied outputs, and connects it to research showing many models converge on similar answers for open-ended prompts.",
+  "friendlySummary": "A new article looks at why popular AI models can sound alike, especially when people ask creative questions.",
+  "whyItMatters": "For creative work, strategy and brainstorming, the most likely answer is often not the most useful one. Teams using AI should deliberately ask for alternatives, edge cases and dissenting options instead of accepting the first polished response.",
+  "friendlyWhyItMatters": "If you use AI for ideas, ask it for unusual options too. Otherwise you may get the same safe answer everyone else gets.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

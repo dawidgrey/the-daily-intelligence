@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_13_open-webui-open-webui_18cd9a16",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/open-webui/open-webui",
+  "canonicalUrl": "https://github.com/open-webui/open-webui",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "open-webui/open-webui",
+  "friendlyTitle": "A self-hosted chat interface for AI models",
+  "summary": "Open WebUI is a popular self-hosted AI interface that supports local and hosted model backends including Ollama and OpenAI-compatible APIs.",
+  "friendlySummary": "Open WebUI lets you run your own AI chat interface with local or hosted models.",
+  "whyItMatters": "It gives individuals and teams a controllable chat interface for experimenting with models, sharing prompts and running local-first AI workflows without depending entirely on a vendor UI.",
+  "friendlyWhyItMatters": "It is helpful if you want more control over your AI tools, models and data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

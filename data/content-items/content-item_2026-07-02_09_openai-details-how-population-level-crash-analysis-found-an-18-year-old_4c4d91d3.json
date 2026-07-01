@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_09_openai-details-how-population-level-crash-analysis-found-an-18-year-old_4c4d91d3",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Engineering",
+  "sourceUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "canonicalUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "OpenAI details how population-level crash analysis found an 18-year-old infrastructure bug",
+  "friendlyTitle": "OpenAI explains how it fixed rare infrastructure crashes",
+  "summary": "OpenAI engineering described how fleet-wide core-dump analysis separated two rare Rockset crash causes: a faulty Azure host and an old GNU libunwind race condition affecting C++ exception unwinding.",
+  "friendlySummary": "OpenAI found two hidden causes behind strange crashes in systems used for ChatGPT-related data services.",
+  "whyItMatters": "Reliable AI products depend on unglamorous infrastructure work. For engineering teams, the lesson is concrete: broad crash classification and high-quality telemetry can solve problems that single-incident debugging cannot.",
+  "friendlyWhyItMatters": "Good AI tools need reliable plumbing. Better monitoring and debugging make AI products more dependable for everyone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}

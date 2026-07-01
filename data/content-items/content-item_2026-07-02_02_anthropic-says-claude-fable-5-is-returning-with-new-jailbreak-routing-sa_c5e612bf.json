@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-02_02_anthropic-says-claude-fable-5-is-returning-with-new-jailbreak-routing-sa_c5e612bf",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "credit": "@AnthropicAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-01T20:09:29Z",
+  "createdAtUtc": "2026-07-01T20:09:29Z",
+  "updatedAtUtc": "2026-07-01T20:09:29Z",
+  "title": "Anthropic says Claude Fable 5 is returning with new jailbreak routing safeguards",
+  "friendlyTitle": "Claude Fable 5 is coming back, but with new safety checks",
+  "summary": "Anthropic has been cleared to bring Claude Fable 5 back online globally after export-control restrictions, while routing blocked requests to Opus 4.8 through a new classifier aimed at a reported jailbreak technique.",
+  "friendlySummary": "Anthropic's powerful Claude Fable 5 model is being restored after restrictions. Some risky requests may be blocked and sent to another Claude model instead.",
+  "whyItMatters": "Frontier-model access is becoming a policy, safety and product-availability issue, not just a model-quality question. Users and businesses that rely on top models need fallback plans when access rules or safety filters change overnight.",
+  "friendlyWhyItMatters": "If you use top AI models for work, access can change quickly. It is smart to have backup tools and not depend on one model only.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-02"
+  }
+}
