@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_01_openai-says-agent-use-is-shifting-knowledge-work-toward-longer-delegated-tasks_2b6976f9",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work/",
+  "canonicalUrl": "https://openai.com/index/how-agents-are-transforming-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "OpenAI says agent use is shifting knowledge work toward longer delegated tasks",
+  "friendlyTitle": "OpenAI says people are giving AI longer jobs",
+  "summary": "OpenAI published analysis of Codex usage arguing that agentic AI is changing work from single prompts into longer delegated tasks. The company says non-developer use has grown quickly and that many requests now represent work estimated to take humans 30 minutes, one hour, or more.",
+  "friendlySummary": "OpenAI says more people are using Codex to do bigger tasks, not just answer quick questions.",
+  "whyItMatters": "For teams, the practical signal is workflow design: the value increasingly comes from assigning, monitoring, and reviewing agent work rather than asking for isolated answers. That changes how people should think about job roles, internal tooling, QA, and productivity measurement.",
+  "friendlyWhyItMatters": "This matters because workers may need to learn how to manage AI tasks, check results, and use agents as helpers for real projects.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

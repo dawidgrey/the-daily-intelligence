@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_09_open-agent-loops-offers-a-small-provider-agnostic-core-for-building-agents_beeda53d",
+  "sourceKind": "product",
+  "sourceName": "Open Agent Loops",
+  "sourceUrl": "https://openagentloops.featherless.ai/",
+  "canonicalUrl": "https://openagentloops.featherless.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Open Agent Loops offers a small provider-agnostic core for building agents",
+  "friendlyTitle": "Open Agent Loops gives developers a simple agent loop",
+  "summary": "Open Agent Loops is a minimal TypeScript agent-loop library built around swappable interfaces for models, memory, tools, and stop conditions. It is headless by default and emits typed events so developers can render agent runs in a CLI, web UI, or logs.",
+  "friendlySummary": "This project gives developers basic building blocks for making AI agents with different models and tools.",
+  "whyItMatters": "As agent stacks get more complex, small composable libraries help builders understand and control the loop instead of depending on opaque frameworks. That is useful for teams that care about portability, observability, and provider choice.",
+  "friendlyWhyItMatters": "Simple tools can help builders make AI agents that are easier to understand, test, and change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

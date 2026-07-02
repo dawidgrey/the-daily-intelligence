@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_02_reuters-openai-has-discussed-giving-the-u-s-government-a-5-stake_b6830acc",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02/",
+  "canonicalUrl": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Reuters: OpenAI has discussed giving the U.S. government a 5% stake",
+  "friendlyTitle": "OpenAI may be discussing a government stake",
+  "summary": "Reuters reported, citing the Financial Times, that OpenAI has discussed giving the U.S. government a 5% stake and has floated similar arrangements for other major AI firms. Reuters noted it could not independently verify the report and that major companies and the White House did not immediately comment.",
+  "friendlySummary": "Reuters says OpenAI has discussed giving the U.S. government a small ownership stake, though the report has not been independently confirmed.",
+  "whyItMatters": "Even as an unverified proposal, it shows how AI policy is moving beyond safety rules into questions of ownership, public benefit, IPO risk, and national economic strategy. Enterprise buyers may increasingly weigh governance and sovereignty alongside model quality.",
+  "friendlyWhyItMatters": "This could affect how AI companies are regulated, funded, and trusted by businesses around the world.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

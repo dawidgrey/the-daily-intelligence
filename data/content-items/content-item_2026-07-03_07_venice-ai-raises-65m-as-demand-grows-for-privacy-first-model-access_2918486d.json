@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_07_venice-ai-raises-65m-as-demand-grows-for-privacy-first-model-access_2918486d",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Venice AI raises $65M as demand grows for privacy-first model access",
+  "friendlyTitle": "Venice AI raises money for private AI access",
+  "summary": "TechCrunch reported that Venice AI raised a $65 million Series A at a $1 billion valuation. The platform offers access to hundreds of models with a privacy-focused architecture and says it is already profitable with more than $70 million in annualized run-rate revenue.",
+  "friendlySummary": "Venice AI raised $65 million and says it offers private access to many AI models.",
+  "whyItMatters": "Privacy is becoming a mainstream buying criterion for AI tools, not just a niche concern. Venice’s growth suggests some users will pay for model choice, fewer data-retention worries, and more control over how their prompts are handled.",
+  "friendlyWhyItMatters": "People and businesses are paying more attention to what happens to their data when they use AI tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

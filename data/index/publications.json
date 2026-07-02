@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-01T20:09:29Z",
+  "generatedAtUtc": "2026-07-02T20:14:24Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-03",
+      "slug": "2026-07-03",
+      "status": "published",
+      "publicationDateUtc": "2026-07-02T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agent work moves from novelty to operating model",
+      "friendlyHeader": "AI agents are becoming real work tools",
+      "summary": "Today’s issue follows AI becoming harder to ignore in everyday systems: agents are taking on longer work, developer tools are facing trust and safety tests, publisher economics are changing, and open-source builders keep turning agent infrastructure into practical parts.",
+      "friendlySummary": "Today we look at AI tools that can help with work, coding, research, money decisions, and content. The big idea: AI is moving from simple chat into tools that can do longer jobs, but people still need clear rules and trust.",
+      "itemCount": 13,
+      "href": "issues/2026-07-03.html",
+      "dataUrl": "data/daily-publications/2026-07-03.json"
+    },
     {
       "id": "daily-publication_2026-07-02",
       "slug": "2026-07-02",

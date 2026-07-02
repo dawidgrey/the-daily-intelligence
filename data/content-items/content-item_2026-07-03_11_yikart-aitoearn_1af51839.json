@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_11_yikart-aitoearn_1af51839",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/yikart/AiToEarn",
+  "canonicalUrl": "https://github.com/yikart/AiToEarn",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "yikart/AiToEarn",
+  "friendlyTitle": "AiToEarn helps creators publish and manage content with AI",
+  "summary": "AiToEarn is an open-source AI content-marketing agent platform for creating, publishing, engaging, and monetizing content across channels including TikTok, YouTube, X, Instagram, LinkedIn, Douyin, Xiaohongshu, and Bilibili.",
+  "friendlySummary": "AiToEarn is an AI agent platform for making, posting, and managing content across many social platforms.",
+  "whyItMatters": "Creators and small teams can study or self-host a practical multi-platform content workflow with scheduling, engagement automation, and AI-assisted creation. It is especially relevant for anyone building creator or social-commerce agents.",
+  "friendlyWhyItMatters": "Creators can use it to learn how AI can help with content planning, posting, replies, and monetization.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-03"
+  },
+  "howItsUseful": "Creators and small teams can study or self-host a practical multi-platform content workflow with scheduling, engagement automation, and AI-assisted creation. It is especially relevant for anyone building creator or social-commerce agents.",
+  "friendlyHowItsUseful": "Creators can use it to learn how AI can help with content planning, posting, replies, and monetization."
+}

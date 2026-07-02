@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_05_manufact-pitches-cloud-infrastructure-for-mcp-apps-and-servers_a6b8b108",
+  "sourceKind": "product",
+  "sourceName": "Manufact",
+  "sourceUrl": "https://manufact.com/",
+  "canonicalUrl": "https://manufact.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Manufact pitches cloud infrastructure for MCP apps and servers",
+  "friendlyTitle": "Manufact wants to make MCP apps easier to ship",
+  "summary": "Manufact, a YC-backed company behind the mcp-use SDK, is positioning itself as cloud infrastructure for building, deploying, testing, publishing, and monitoring MCP apps and servers. Its pitch is a Vercel-like path from code to production MCP surfaces across ChatGPT, Claude, coding agents, and internal tools.",
+  "friendlySummary": "Manufact helps developers build and deploy tools that AI agents can use through MCP.",
+  "whyItMatters": "MCP is becoming a distribution layer for agent capabilities, but production deployment still needs testing, hosting, observability, and marketplace readiness. Tools like this could make agent integrations easier for small teams to ship safely.",
+  "friendlyWhyItMatters": "This could make it easier for companies to connect AI assistants to real apps and workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

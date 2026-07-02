@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_13_chromedevtools-chrome-devtools-mcp_a67bb8d2",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "canonicalUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "friendlyTitle": "Chrome DevTools MCP lets AI agents inspect Chrome",
+  "summary": "Chrome DevTools MCP lets coding agents control and inspect a live Chrome browser through the Model Context Protocol. It exposes browser automation, console logs, network inspection, screenshots, performance tracing, and debugging tools to compatible agents.",
+  "friendlySummary": "This repo connects AI coding tools to Chrome DevTools so they can look at pages, logs, network requests, and performance data.",
+  "whyItMatters": "It gives coding assistants a practical way to debug real web pages instead of guessing from source files alone. Teams can use it for browser-based testing, performance checks, and agent-assisted frontend debugging, while being careful with sensitive browser data.",
+  "friendlyWhyItMatters": "Developers can use it to help AI assistants debug websites more accurately.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-03"
+  },
+  "howItsUseful": "It gives coding assistants a practical way to debug real web pages instead of guessing from source files alone. Teams can use it for browser-based testing, performance checks, and agent-assisted frontend debugging, while being careful with sensitive browser data.",
+  "friendlyHowItsUseful": "Developers can use it to help AI assistants debug websites more accurately."
+}

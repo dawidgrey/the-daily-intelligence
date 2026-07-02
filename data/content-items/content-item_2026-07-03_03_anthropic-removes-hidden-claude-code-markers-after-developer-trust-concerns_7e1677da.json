@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_03_anthropic-removes-hidden-claude-code-markers-after-developer-trust-concerns_7e1677da",
+  "sourceKind": "article",
+  "sourceName": "The Register",
+  "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+  "canonicalUrl": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Anthropic removes hidden Claude Code markers after developer trust concerns",
+  "friendlyTitle": "Anthropic is removing hidden Claude Code tracking markers",
+  "summary": "The Register reported that Anthropic is removing hidden Claude Code mechanisms that used prompt markers to detect proxy or gateway patterns linked to abuse and model distillation. Anthropic described the system as an experiment and said stronger mitigations had since landed.",
+  "friendlySummary": "Anthropic is taking out hidden code that helped detect possible misuse of Claude Code.",
+  "whyItMatters": "Developer tools depend on trust: if an agent changes prompts or sends hidden context without clear disclosure, users will question what else is happening inside the workflow. Anti-abuse systems need transparency as much as technical cleverness.",
+  "friendlyWhyItMatters": "People need to trust developer AI tools, especially when those tools can read code, run commands, and send information to servers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

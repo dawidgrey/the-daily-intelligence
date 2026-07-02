@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_10_research-warns-hidden-headline-changes-can-mislead-llm-driven-trading-systems_9a08aa26",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2601.13082",
+  "canonicalUrl": "https://arxiv.org/abs/2601.13082",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Research warns hidden headline changes can mislead LLM-driven trading systems",
+  "friendlyTitle": "A paper warns that hidden text tricks can hurt AI trading systems",
+  "summary": "A paper on arXiv studies how adversarial financial headlines can manipulate LLM-based sentiment analysis used in algorithmic trading systems. The authors found that human-imperceptible headline changes could reduce annual returns by up to 17.7 percentage points in their evaluated setup.",
+  "friendlySummary": "Researchers found that tiny changes in financial headlines can confuse AI systems used for trading.",
+  "whyItMatters": "More businesses are putting LLMs into automated decision pipelines, and this shows how small text-layer attacks can have real-world economic effects. Any workflow that turns scraped text into action needs input sanitization and adversarial testing.",
+  "friendlyWhyItMatters": "When AI reads web text and makes decisions, companies need to protect it from hidden or misleading input.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

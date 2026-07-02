@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_06_meituan-open-sources-longcat-2-0-a-large-agentic-coding-model-trained-on-chinese_509a55cc",
+  "sourceKind": "article",
+  "sourceName": "VentureBeat",
+  "sourceUrl": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+  "canonicalUrl": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Meituan open-sources LongCat-2.0, a large agentic coding model trained on Chinese chips",
+  "friendlyTitle": "Meituan releases a big coding AI model",
+  "summary": "VentureBeat reported that Meituan unveiled LongCat-2.0, a 1.6T-parameter mixture-of-experts model focused on agentic coding and trained on domestic Chinese ASICs. The model had reportedly appeared anonymously as Owl Alpha on OpenRouter before disclosure.",
+  "friendlySummary": "Meituan has announced LongCat-2.0, a large model for coding agents, reportedly trained on Chinese-made chips.",
+  "whyItMatters": "The release points to two practical shifts: open coding models are becoming stronger, and frontier-scale training may be less tied to Nvidia hardware than many buyers assumed. That could increase model choice and price pressure for developer tooling.",
+  "friendlyWhyItMatters": "More strong coding models can give developers and companies more choices and may lower costs over time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

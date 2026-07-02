@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_12_openclaw-openclaw_c6fd25b4",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/openclaw/openclaw",
+  "canonicalUrl": "https://github.com/openclaw/openclaw",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "openclaw/openclaw",
+  "friendlyTitle": "OpenClaw is a personal AI assistant you can run yourself",
+  "summary": "OpenClaw is an open-source personal AI assistant that runs across operating systems and messaging platforms, with gateway-style integrations for chat channels, local surfaces, skills, and automation.",
+  "friendlySummary": "OpenClaw is an open-source assistant that can work across devices and messaging apps.",
+  "whyItMatters": "Developers can use it as a reference architecture for always-on personal agents that connect to messaging apps and local workflows. It is also useful for comparing gateway, skill, and daemon patterns in modern assistant stacks.",
+  "friendlyWhyItMatters": "Builders can study it to understand how personal AI assistants connect to chat apps, tools, and local systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-03"
+  },
+  "howItsUseful": "Developers can use it as a reference architecture for always-on personal agents that connect to messaging apps and local workflows. It is also useful for comparing gateway, skill, and daemon patterns in modern assistant stacks.",
+  "friendlyHowItsUseful": "Builders can study it to understand how personal AI assistants connect to chat apps, tools, and local systems."
+}

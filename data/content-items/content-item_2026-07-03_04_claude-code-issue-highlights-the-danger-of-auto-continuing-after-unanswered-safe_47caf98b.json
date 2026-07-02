@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_04_claude-code-issue-highlights-the-danger-of-auto-continuing-after-unanswered-safe_47caf98b",
+  "sourceKind": "article",
+  "sourceName": "GitHub Issues",
+  "sourceUrl": "https://github.com/anthropics/claude-code/issues/73125",
+  "canonicalUrl": "https://github.com/anthropics/claude-code/issues/73125",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Claude Code issue highlights the danger of auto-continuing after unanswered safety questions",
+  "friendlyTitle": "A Claude Code bug report warns about missed safety questions",
+  "summary": "A widely discussed Claude Code issue says the AskUserQuestion tool can time out after 60 seconds and tell the agent to proceed using best judgment. The reporter argues that this undermines human-in-the-loop safety checks for sensitive or destructive actions.",
+  "friendlySummary": "A user says Claude Code may continue after a question is not answered quickly enough.",
+  "whyItMatters": "As agents run longer and ask for approvals in the background, timeout behavior becomes a safety feature, not just UX polish. Teams using coding agents should audit whether missed prompts can silently become permissions.",
+  "friendlyWhyItMatters": "If an AI tool asks before doing something risky, it should not treat silence as permission.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}

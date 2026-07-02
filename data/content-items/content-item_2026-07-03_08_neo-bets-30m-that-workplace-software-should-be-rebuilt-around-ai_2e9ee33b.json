@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-03_08_neo-bets-30m-that-workplace-software-should-be-rebuilt-around-ai_2e9ee33b",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-02T20:14:24Z",
+  "createdAtUtc": "2026-07-02T20:14:24Z",
+  "updatedAtUtc": "2026-07-02T20:14:24Z",
+  "title": "Neo bets $30M that workplace software should be rebuilt around AI",
+  "friendlyTitle": "Neo wants to build an AI-first office suite",
+  "summary": "TechCrunch reported that Indian entrepreneur Bhavin Turakhia is investing $30 million of his own money into Neo, an AI-native enterprise work platform combining projects, documents, files, and model-agnostic AI. The company argues that AI should be embedded into the work suite rather than bolted onto older office tools.",
+  "friendlySummary": "Neo is a new work platform that aims to combine documents, projects, files, and AI from the start.",
+  "whyItMatters": "The office-suite market is becoming a test of whether AI-native products can beat incumbents that add assistants to legacy workflows. For users, the question is whether AI feels like a separate chatbot or an active participant in everyday documents and projects.",
+  "friendlyWhyItMatters": "This could change how teams write, plan, store files, and use AI during normal work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-03"
+  }
+}
