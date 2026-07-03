@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_01_aisi-says-agent-evaluations-need-to-measure-capability-across-compute-bu_cb5d811b",
+  "sourceKind": "research",
+  "sourceName": "UK AI Security Institute",
+  "sourceUrl": "https://www.aisi.gov.uk/blog/more-compute-more-capability-why-ai-agent-evals-need-to-account-for-test-time-compute",
+  "canonicalUrl": "https://www.aisi.gov.uk/blog/more-compute-more-capability-why-ai-agent-evals-need-to-account-for-test-time-compute",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "AISI says agent evaluations need to measure capability across compute budgets",
+  "friendlyTitle": "AI agents may do better when they get more time",
+  "summary": "The UK AI Security Institute argues that AI agent capability is not a single benchmark score but a curve over test-time compute. Its testing found that larger token budgets can expose substantially stronger results, especially in software engineering, cybersecurity, mathematics, and academic tasks.",
+  "friendlySummary": "A UK safety lab says AI agent tests should show how performance changes when the agent gets more time and tokens to work.",
+  "whyItMatters": "For businesses and users, an agent that fails quickly may not be incapable; it may simply have been given too little time or budget. Procurement, safety reviews, and product design will need to account for how much autonomy and compute an agent can spend.",
+  "friendlyWhyItMatters": "This helps people judge AI tools more fairly. A tool that fails in a short test might still succeed if it is allowed to think, test, and try again.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

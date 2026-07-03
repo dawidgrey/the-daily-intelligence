@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_03_openui-proposes-an-open-standard-for-ai-generated-interfaces_e5eb6ccf",
+  "sourceKind": "product",
+  "sourceName": "OpenUI",
+  "sourceUrl": "https://www.openui.com",
+  "canonicalUrl": "https://www.openui.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "OpenUI proposes an open standard for AI-generated interfaces",
+  "friendlyTitle": "AI replies could become real app screens",
+  "summary": "OpenUI is positioning itself as an open-source toolkit and standard for generative UI, letting agents respond with structured interfaces rather than only text or bulky JSON. Developers define approved components, then models compose those components using OpenUI Lang for streaming, cross-platform UI.",
+  "friendlySummary": "OpenUI gives developers a way for AI agents to create useful buttons, forms, charts, and layouts from approved building blocks.",
+  "whyItMatters": "If AI assistants are going to live inside dashboards, CRM tools, support apps, and project systems, they need reliable interface primitives. A constrained UI language can make generated interfaces more useful while reducing the risk of arbitrary code or broken layouts.",
+  "friendlyWhyItMatters": "This could make AI tools easier to use because they can show an interactive screen, not just a wall of text.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

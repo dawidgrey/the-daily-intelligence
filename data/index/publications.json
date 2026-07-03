@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-02T20:14:24Z",
+  "generatedAtUtc": "2026-07-03T20:09:23Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-04",
+      "slug": "2026-07-04",
+      "status": "published",
+      "publicationDateUtc": "2026-07-03T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents get real budgets, safer sandboxes, and more useful interfaces",
+      "friendlyHeader": "AI helpers are getting more practical",
+      "summary": "Today’s issue follows a practical thread: AI agents are becoming more capable when given time and compute, while builders are racing to make those agents safer, cheaper, and more useful inside everyday software.",
+      "friendlySummary": "Today we look at AI tools that can work longer, run more safely, and fit better into apps, documents, codebases, and creative work.",
+      "itemCount": 13,
+      "href": "issues/2026-07-04.html",
+      "dataUrl": "data/daily-publications/2026-07-04.json"
+    },
     {
       "id": "daily-publication_2026-07-03",
       "slug": "2026-07-03",

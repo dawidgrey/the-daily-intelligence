@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-01T20:09:29Z",
+  "generatedAtUtc": "2026-07-03T20:09:23Z",
   "items": [
     {
-      "id": "content-item_2026-07-02_01_z-ai-launches-zcode-a-glm-5-2-coding-agent-for-planning-coding-review-an_ea1941e7",
+      "id": "content-item_2026-07-04_01_aisi-says-agent-evaluations-need-to-measure-capability-across-compute-bu_cb5d811b",
+      "sourceKind": "research",
+      "sourceName": "UK AI Security Institute",
+      "title": "AISI says agent evaluations need to measure capability across compute budgets",
+      "sourceUrl": "https://www.aisi.gov.uk/blog/more-compute-more-capability-why-ai-agent-evals-need-to-account-for-test-time-compute"
+    },
+    {
+      "id": "content-item_2026-07-04_02_adapt-explains-how-it-runs-isolated-computers-for-ai-agents-at-scale_4355e5bf",
+      "sourceKind": "article",
+      "sourceName": "Adapt Blog",
+      "title": "Adapt explains how it runs isolated computers for AI agents at scale",
+      "sourceUrl": "https://adapt.com/blog/orchestrating-agent-sandboxes"
+    },
+    {
+      "id": "content-item_2026-07-04_03_openui-proposes-an-open-standard-for-ai-generated-interfaces_e5eb6ccf",
       "sourceKind": "product",
-      "sourceName": "Z.ai",
-      "title": "Z.ai launches ZCode, a GLM-5.2 coding agent for planning, coding, review and release",
-      "sourceUrl": "https://zcode.z.ai/cn"
+      "sourceName": "OpenUI",
+      "title": "OpenUI proposes an open standard for AI-generated interfaces",
+      "sourceUrl": "https://www.openui.com"
     },
     {
-      "id": "content-item_2026-07-02_02_anthropic-says-claude-fable-5-is-returning-with-new-jailbreak-routing-sa_c5e612bf",
+      "id": "content-item_2026-07-04_04_deepswe-benchmark-targets-harder-long-horizon-coding-agent-work_04185947",
+      "sourceKind": "research",
+      "sourceName": "DataCurve DeepSWE",
+      "title": "DeepSWE benchmark targets harder long-horizon coding-agent work",
+      "sourceUrl": "https://deepswe.datacurve.ai/"
+    },
+    {
+      "id": "content-item_2026-07-04_05_bbc-profiles-yann-lecun-s-push-beyond-llms-toward-world-models_b65aa2c7",
       "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Anthropic says Claude Fable 5 is returning with new jailbreak routing safeguards",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
+      "sourceName": "BBC News",
+      "title": "BBC profiles Yann LeCun’s push beyond LLMs toward world models",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj6gr0xkyr3o"
     },
     {
-      "id": "content-item_2026-07-02_03_hugging-face-and-cerebras-show-a-low-latency-open-voice-ai-stack-with-ge_b7f49b2b",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face and Cerebras show a low-latency open voice AI stack with Gemma 4",
-      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
-    },
-    {
-      "id": "content-item_2026-07-02_04_cloudflare-sets-a-september-deadline-for-mixed-use-ai-crawlers_920ebcba",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Cloudflare sets a September deadline for mixed-use AI crawlers",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "id": "content-item_2026-07-02_05_gemini-spark-arrives-on-mac-as-google-pushes-desktop-agents-into-local-w_d994e827",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Gemini Spark arrives on Mac as Google pushes desktop agents into local workflows",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
-    },
-    {
-      "id": "content-item_2026-07-02_06_meta-reportedly-explores-selling-spare-ai-compute-through-a-cloud-busine_dce1a976",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Meta reportedly explores selling spare AI compute through a cloud business",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
-    },
-    {
-      "id": "content-item_2026-07-02_07_mit-technology-review-examines-why-llm-answers-often-sound-alike_6d610399",
-      "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "MIT Technology Review examines why LLM answers often sound alike",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
-    },
-    {
-      "id": "content-item_2026-07-02_08_palantir-s-alex-karp-criticizes-token-based-enterprise-ai-pricing_ab1a170b",
-      "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "Palantir's Alex Karp criticizes token-based enterprise AI pricing",
-      "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html"
-    },
-    {
-      "id": "content-item_2026-07-02_09_openai-details-how-population-level-crash-analysis-found-an-18-year-old_4c4d91d3",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Engineering",
-      "title": "OpenAI details how population-level crash analysis found an 18-year-old infrastructure bug",
-      "sourceUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
-      "id": "content-item_2026-07-02_10_clusy-pitches-an-agent-native-notebook-for-ml-and-data-science-workflows_e99afb27",
+      "id": "content-item_2026-07-04_06_collabora-office-26-04-adds-optional-user-controlled-ai-to-desktop-docum_a5381b0b",
       "sourceKind": "product",
-      "sourceName": "Clusy",
-      "title": "Clusy pitches an agent-native notebook for ML and data science workflows",
-      "sourceUrl": "https://www.clusy.io/"
+      "sourceName": "Collabora Online Blog",
+      "title": "Collabora Office 26.04 adds optional, user-controlled AI to desktop documents",
+      "sourceUrl": "https://www.collaboraonline.com/blog/collabora-office-26-04-release/"
     },
     {
-      "id": "content-item_2026-07-02_11_microsoft-ai-for-beginners_3eadfa87",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Jupyter Notebook",
-      "title": "microsoft/AI-For-Beginners",
-      "sourceUrl": "https://github.com/microsoft/AI-For-Beginners"
+      "id": "content-item_2026-07-04_07_epoch-ai-s-cve-explorer-highlights-the-surge-in-high-severity-vulnerabil_6ac5ae08",
+      "sourceKind": "research",
+      "sourceName": "Epoch AI",
+      "title": "Epoch AI’s CVE explorer highlights the surge in high-severity vulnerability reports",
+      "sourceUrl": "https://epoch.ai/data/cve?view=graph"
     },
     {
-      "id": "content-item_2026-07-02_12_allenai-olmocr_8af5991f",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "allenai/olmocr",
-      "sourceUrl": "https://github.com/allenai/olmocr"
+      "id": "content-item_2026-07-04_08_meta-quietly-launches-pocket-for-prompt-made-mini-apps-and-games_0e1005d6",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Meta quietly launches Pocket for prompt-made mini apps and games",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
     },
     {
-      "id": "content-item_2026-07-02_13_open-webui-open-webui_18cd9a16",
+      "id": "content-item_2026-07-04_09_kling-raises-about-2-billion-as-ai-video-competition-heats-up_17af3c77",
+      "sourceKind": "article",
+      "sourceName": "The Decoder",
+      "title": "Kling raises about $2 billion as AI video competition heats up",
+      "sourceUrl": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
+    },
+    {
+      "id": "content-item_2026-07-04_10_the-agentic-garden-of-forking-paths-tests-how-ai-agents-can-shape-data-a_fc76e551",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "The Agentic Garden of Forking Paths tests how AI agents can shape data analysis conclusions",
+      "sourceUrl": "https://arxiv.org/abs/2607.01507"
+    },
+    {
+      "id": "content-item_2026-07-04_11_safishamsi-graphify_0a047a29",
       "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "open-webui/open-webui",
-      "sourceUrl": "https://github.com/open-webui/open-webui"
+      "sourceName": "GitHub Trending Python",
+      "title": "safishamsi/graphify",
+      "sourceUrl": "https://github.com/safishamsi/graphify"
+    },
+    {
+      "id": "content-item_2026-07-04_12_harvard-edge-cs249r-book_edffb6e6",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "harvard-edge/cs249r_book",
+      "sourceUrl": "https://github.com/harvard-edge/cs249r_book"
+    },
+    {
+      "id": "content-item_2026-07-04_13_agentskills-agentskills_22741e13",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "agentskills/agentskills",
+      "sourceUrl": "https://github.com/agentskills/agentskills"
     }
   ]
 }

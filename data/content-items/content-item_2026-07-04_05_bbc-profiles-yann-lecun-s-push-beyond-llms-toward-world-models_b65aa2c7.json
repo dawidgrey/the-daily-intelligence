@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_05_bbc-profiles-yann-lecun-s-push-beyond-llms-toward-world-models_b65aa2c7",
+  "sourceKind": "article",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+  "canonicalUrl": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "BBC profiles Yann LeCun’s push beyond LLMs toward world models",
+  "friendlyTitle": "Some AI researchers want tools that understand the real world better",
+  "summary": "BBC News profiled Yann LeCun’s argument that current large language models remain limited for real-world intelligence and robotics. His new AMI Labs is pursuing JEPA-style world models that aim to reason about physical reality, causality, and action outcomes more flexibly.",
+  "friendlySummary": "Yann LeCun says today’s chatbots are useful but not enough for robots and real-world reasoning. His new lab is working on a different kind of AI system.",
+  "whyItMatters": "The debate matters because many daily-life AI breakthroughs, from home robots to autonomous assistants, require more than fluent text. If world-model approaches mature, the next major leap may come from grounded planning rather than simply bigger chatbots.",
+  "friendlyWhyItMatters": "This could shape future AI that helps with physical tasks, not only writing, coding, and answering questions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

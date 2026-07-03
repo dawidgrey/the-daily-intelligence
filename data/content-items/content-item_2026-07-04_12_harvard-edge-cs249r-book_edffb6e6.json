@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_12_harvard-edge-cs249r-book_edffb6e6",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/harvard-edge/cs249r_book",
+  "canonicalUrl": "https://github.com/harvard-edge/cs249r_book",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "harvard-edge/cs249r_book",
+  "friendlyTitle": "A full course for building real AI systems",
+  "summary": "This repository hosts Harvard’s Machine Learning Systems curriculum, including textbook material, labs, TinyTorch, simulators, hardware kits, and teaching resources. It focuses on engineering reliable AI systems rather than treating models in isolation.",
+  "friendlySummary": "This Harvard repo teaches machine learning systems with a textbook, labs, small frameworks, and deployment exercises.",
+  "whyItMatters": "Students, engineers, and teams can use it as a structured path into AI engineering, from model internals to deployment trade-offs. It is especially useful for people who need to understand latency, memory, hardware, and reliability constraints.",
+  "friendlyWhyItMatters": "Use it to learn how AI systems are built and run in the real world, not just how models work in demos.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

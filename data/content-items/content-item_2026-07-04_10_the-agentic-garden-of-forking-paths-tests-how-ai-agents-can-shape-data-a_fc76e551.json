@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_10_the-agentic-garden-of-forking-paths-tests-how-ai-agents-can-shape-data-a_fc76e551",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2607.01507",
+  "canonicalUrl": "https://arxiv.org/abs/2607.01507",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "The Agentic Garden of Forking Paths tests how AI agents can shape data analysis conclusions",
+  "friendlyTitle": "AI data analysis can depend on the path it takes",
+  "summary": "A new arXiv paper argues that AI agents can reveal—and potentially amplify—the many defensible analysis paths in empirical research. The authors show that different agent personas can produce divergent conclusions from the same data, then propose an Agentic Bootstrap method for estimating how extreme a reported analysis is within a wider multiverse of plausible analyses.",
+  "friendlySummary": "A new paper shows that AI agents can reach different conclusions from the same data when they make different reasonable analysis choices.",
+  "whyItMatters": "AI makes it cheap to explore many analytical choices, which is powerful but risky if teams only report the version that supports a preferred claim. Researchers, analysts, and business teams may need multiverse-style checks before trusting AI-assisted conclusions.",
+  "friendlyWhyItMatters": "This is a reminder to check AI analysis carefully. One polished answer may not show all the other reasonable answers the data could support.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

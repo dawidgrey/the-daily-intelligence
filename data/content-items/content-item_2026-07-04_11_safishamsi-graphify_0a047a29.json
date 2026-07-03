@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_11_safishamsi-graphify_0a047a29",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/safishamsi/graphify",
+  "canonicalUrl": "https://github.com/safishamsi/graphify",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "safishamsi/graphify",
+  "friendlyTitle": "Graphify maps a project for AI helpers",
+  "summary": "Graphify turns codebases, schemas, documents, papers, images, audio, and video into a queryable knowledge graph for AI coding assistants. It supports many agent environments, including Claude Code, Codex, Cursor, Gemini CLI, and Hermes.",
+  "friendlySummary": "Graphify turns a folder of code and documents into a knowledge graph that AI coding tools can search.",
+  "whyItMatters": "Teams can use it to map a project once, then let agents query architecture, dependencies, and concepts without repeatedly scanning the whole repository. That can improve onboarding, code navigation, and multi-agent development workflows.",
+  "friendlyWhyItMatters": "Use it when an AI assistant needs to understand a large project faster and with less repeated digging.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

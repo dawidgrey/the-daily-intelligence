@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_02_adapt-explains-how-it-runs-isolated-computers-for-ai-agents-at-scale_4355e5bf",
+  "sourceKind": "article",
+  "sourceName": "Adapt Blog",
+  "sourceUrl": "https://adapt.com/blog/orchestrating-agent-sandboxes",
+  "canonicalUrl": "https://adapt.com/blog/orchestrating-agent-sandboxes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "Adapt explains how it runs isolated computers for AI agents at scale",
+  "friendlyTitle": "One AI agent, one safe computer",
+  "summary": "Adapt described its infrastructure for giving each AI-agent conversation an isolated VM where the model can install tools, write code, browse, and call APIs. The post walks through its move from gVisor on GKE toward Firecracker-style microVM orchestration for faster, safer sandboxing.",
+  "friendlySummary": "Adapt showed how it gives each AI agent its own protected computer to work in, instead of letting it run code directly on shared systems.",
+  "whyItMatters": "As agents move from chat to action, sandbox design becomes the safety layer between useful automation and risky arbitrary code execution. Teams building agent products can learn from the trade-offs around isolation, startup speed, compatibility, and cost.",
+  "friendlyWhyItMatters": "This matters because helpful agents often need to run code. Safe sandboxes help them do useful work without risking the rest of the system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}

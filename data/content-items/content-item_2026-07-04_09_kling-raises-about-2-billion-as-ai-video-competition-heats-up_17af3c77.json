@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-04_09_kling-raises-about-2-billion-as-ai-video-competition-heats-up_17af3c77",
+  "sourceKind": "article",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+  "canonicalUrl": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-03T20:09:23Z",
+  "createdAtUtc": "2026-07-03T20:09:23Z",
+  "updatedAtUtc": "2026-07-03T20:09:23Z",
+  "title": "Kling raises about $2 billion as AI video competition heats up",
+  "friendlyTitle": "Kling gets major funding for AI video",
+  "summary": "The Decoder reports that Kuaishou’s AI video unit Kling has raised about $2 billion at a reported $18 billion valuation, with a possible Hong Kong listing ahead. Kling competes in a fast-moving AI video market that includes Google, Runway, ByteDance, and other model makers.",
+  "friendlySummary": "Kling, a Chinese AI video tool, reportedly raised about $2 billion as it prepares for a possible public listing.",
+  "whyItMatters": "AI video is becoming a capital-intensive platform race, not a novelty feature. More funding could accelerate better tools for creators and marketers, while also increasing pressure around licensing, authenticity, and distribution.",
+  "friendlyWhyItMatters": "This shows AI video is becoming a serious business area, with more tools likely coming for creators and companies.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-04"
+  }
+}
