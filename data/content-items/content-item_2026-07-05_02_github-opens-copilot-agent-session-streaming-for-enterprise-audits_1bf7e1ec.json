@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_02_github-opens-copilot-agent-session-streaming-for-enterprise-audits_1bf7e1ec",
+  "sourceKind": "product",
+  "sourceName": "GitHub Changelog",
+  "sourceUrl": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
+  "canonicalUrl": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "GitHub opens Copilot agent session streaming for enterprise audits",
+  "friendlyTitle": "Companies can inspect more of what Copilot agents do",
+  "summary": "GitHub said Copilot agent session streaming is now in public preview for GitHub Enterprise Cloud customers using enterprise managed users. Enterprise owners can stream or query prompts, responses, and tool calls across Copilot clients, including github.com cloud agents, Copilot CLI, VS Code, Visual Studio, and partner IDEs.",
+  "friendlySummary": "GitHub is giving enterprise admins a way to see Copilot agent prompts, replies, and tool use across different coding tools.",
+  "whyItMatters": "Agent adoption inside companies depends on auditability as much as model quality. Session-level visibility gives security and compliance teams a practical way to inspect what agents are doing before a small coding assistant becomes critical infrastructure.",
+  "friendlyWhyItMatters": "This helps companies use AI coding agents with more confidence because they can review the work and spot problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

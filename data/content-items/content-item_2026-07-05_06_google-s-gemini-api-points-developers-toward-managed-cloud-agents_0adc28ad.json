@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_06_google-s-gemini-api-points-developers-toward-managed-cloud-agents_0adc28ad",
+  "sourceKind": "product",
+  "sourceName": "Google Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Google’s Gemini API points developers toward managed cloud agents",
+  "friendlyTitle": "Google is making cloud-hosted AI agents easier to build",
+  "summary": "Google described Managed Agents in the Gemini API, letting developers spin up agents that reason, use tools, browse the web, execute code, and manage files inside isolated remote Linux environments. The system also supports custom agent definitions through versionable markdown files such as AGENTS.md and SKILL.md.",
+  "friendlySummary": "Google’s Gemini API can run managed agents in remote environments where they can browse, use tools, run code, and work with files.",
+  "whyItMatters": "Agent infrastructure is moving into managed platforms, where sandboxes, state, tools, and orchestration are bundled behind APIs. That can reduce engineering overhead, but it also makes platform choice and data-boundary review more important.",
+  "friendlyWhyItMatters": "This could help developers build useful agents faster, without building all the infrastructure themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

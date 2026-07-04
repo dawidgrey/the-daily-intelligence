@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_01_claude-fable-5-relaunch-shows-the-cost-of-heavy-safety-routing_f1b7a1e5",
+  "sourceKind": "article",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Claude Fable 5 relaunch shows the cost of heavy safety routing",
+  "friendlyTitle": "Claude Fable 5 is back, but some users say it feels restricted",
+  "summary": "BleepingComputer reported that users are disappointed with the relaunched Claude Fable 5 because strict safeguards and fallback routing to Claude Opus 4.8 appear to interrupt ordinary work, including coding tasks. The article says the model itself may not be downgraded, but safety systems are affecting day-to-day use.",
+  "friendlySummary": "BleepingComputer says some users are unhappy because Claude Fable 5 often falls back to another model or blocks normal coding tasks.",
+  "whyItMatters": "This is a practical reminder that model access is not just about raw benchmark capability. Routing, policy filters, usage limits, and safety margins can determine whether a model feels useful in real workflows, especially for developers working near security-sensitive code.",
+  "friendlyWhyItMatters": "A powerful AI model is only helpful if people can use it reliably for everyday work. Safety rules matter, but they can also get in the way if they are too broad.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

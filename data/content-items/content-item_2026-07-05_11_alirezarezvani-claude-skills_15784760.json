@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_11_alirezarezvani-claude-skills_15784760",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/alirezarezvani/claude-skills",
+  "canonicalUrl": "https://github.com/alirezarezvani/claude-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "alirezarezvani/claude-skills",
+  "friendlyTitle": "A big library of reusable AI agent skills",
+  "summary": "claude-skills is a large library of skills, agents, plugins, commands, references, and Python tools for Claude Code and other coding agents, including Codex, Gemini CLI, Cursor, OpenCode, OpenClaw, and Hermes Agent. The repository presents reusable expertise across engineering, security, marketing, product, compliance, research, operations, finance, and productivity domains.",
+  "friendlySummary": "This repo collects many ready-made skills, agents, commands, and references for coding assistants and other AI tools.",
+  "whyItMatters": "Builders can use it as a reference library for packaging repeatable agent workflows and domain expertise into portable skills. Teams adopting coding agents can study its structure to create internal skill catalogs instead of repeatedly prompting from scratch.",
+  "friendlyWhyItMatters": "Developers can learn how to give AI agents repeatable instructions for common work instead of writing the same prompts again and again.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-05"
+  },
+  "howItsUseful": "Builders can use it as a reference library for packaging repeatable agent workflows and domain expertise into portable skills. Teams adopting coding agents can study its structure to create internal skill catalogs instead of repeatedly prompting from scratch.",
+  "friendlyHowItsUseful": "Developers can learn how to give AI agents repeatable instructions for common work instead of writing the same prompts again and again."
+}

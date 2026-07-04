@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-03T20:09:23Z",
+  "generatedAtUtc": "2026-07-04T20:11:23Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-05",
+      "slug": "2026-07-05",
+      "status": "published",
+      "publicationDateUtc": "2026-07-04T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into governance, work, and research",
+      "friendlyHeader": "AI agents are becoming everyday work tools",
+      "summary": "Today’s issue tracks AI becoming more operational: team agents are entering Slack and enterprise dashboards, agent logs are becoming auditable, model supply is concentrating around the U.S. and China, and builders are turning reusable skills and courses into practical infrastructure.",
+      "friendlySummary": "Today we look at AI tools that can help teams work, code, research, and manage risk. The big idea: AI agents are getting more useful, but people need better controls, logs, and clear rules around them.",
+      "itemCount": 13,
+      "href": "issues/2026-07-05.html",
+      "dataUrl": "data/daily-publications/2026-07-05.json"
+    },
     {
       "id": "daily-publication_2026-07-04",
       "slug": "2026-07-04",

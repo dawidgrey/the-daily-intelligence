@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_04_reuters-zuckerberg-says-meta-s-ai-agents-are-progressing-slower-than-expected_8e25decb",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+  "canonicalUrl": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Reuters: Zuckerberg says Meta’s AI agents are progressing slower than expected",
+  "friendlyTitle": "Meta says AI agents are taking longer than expected",
+  "summary": "Reuters reported that Mark Zuckerberg told Meta employees AI agent development had not accelerated as quickly as the company expected. The comments came after layoffs, reassignment of thousands of workers to AI teams, and continued heavy investment in AI infrastructure.",
+  "friendlySummary": "Reuters says Mark Zuckerberg told employees that Meta’s AI agent progress has been slower than planned.",
+  "whyItMatters": "The report adds a sober counterweight to agent hype: even very large companies are finding that turning agents into reliable productivity systems takes time. Businesses should plan pilots, workflow redesign, and measurement rather than assuming instant automation returns.",
+  "friendlyWhyItMatters": "This is a useful reminder that AI agents can help, but companies should not expect them to transform work overnight.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

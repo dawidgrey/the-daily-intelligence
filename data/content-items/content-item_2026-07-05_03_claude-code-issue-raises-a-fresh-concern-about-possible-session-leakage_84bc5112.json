@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_03_claude-code-issue-raises-a-fresh-concern-about-possible-session-leakage_84bc5112",
+  "sourceKind": "article",
+  "sourceName": "GitHub Issues",
+  "sourceUrl": "https://github.com/anthropics/claude-code/issues/74066",
+  "canonicalUrl": "https://github.com/anthropics/claude-code/issues/74066",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Claude Code issue raises a fresh concern about possible session leakage",
+  "friendlyTitle": "A Claude Code bug report worries about mixed-up session context",
+  "summary": "A public Claude Code issue reports apparent session or cache leakage after an Enterprise ZDR-authenticated session unexpectedly referred to an unrelated Minecraft temple task. The report remains an unverified bug report, but it drew attention because it touches data isolation, local transcript bleed, and enterprise security expectations.",
+  "friendlySummary": "A user reported that Claude Code suddenly mentioned an unrelated Minecraft task during an enterprise session.",
+  "whyItMatters": "Coding agents often handle proprietary code, credentials-adjacent context, and internal planning. Even suspected cross-session contamination is a reminder that teams should preserve logs, test isolation assumptions, and define escalation paths for agent security incidents.",
+  "friendlyWhyItMatters": "If AI tools are used for private company work, people need to know that one session cannot accidentally mix with another.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

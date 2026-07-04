@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_05_our-world-in-data-charts-u-s-china-concentration-in-widely-used-ai-models_40887705",
+  "sourceKind": "research",
+  "sourceName": "Our World in Data",
+  "sourceUrl": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+  "canonicalUrl": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Our World in Data charts U.S.–China concentration in widely used AI models",
+  "friendlyTitle": "Most popular AI models come from the U.S. and China",
+  "summary": "Our World in Data analyzed OpenRouter’s daily top 50 models from January 2025 to May 2026 and found that the most-used models are overwhelmingly trained by U.S. and Chinese companies. Chinese models rose from 5 of the daily top 50 in early 2025 to 20 by May 2026, while few models came from elsewhere.",
+  "friendlySummary": "A data analysis found that the AI models most used on OpenRouter mostly come from companies in the United States and China.",
+  "whyItMatters": "Model choice is becoming a geopolitical and procurement issue, not just a benchmark table. Developers and companies should track where their default models come from, what legal regimes apply, and whether their stack depends on too few suppliers.",
+  "friendlyWhyItMatters": "This matters because the tools people use every day may depend on a small number of countries and companies.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

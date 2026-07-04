@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_10_cnbc-anthropic-is-starting-its-own-ai-drug-discovery-program_ee2ed601",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "CNBC: Anthropic is starting its own AI drug discovery program",
+  "friendlyTitle": "Anthropic wants to use AI for drug discovery",
+  "summary": "CNBC reported that Anthropic is launching an internal drug discovery program focused on neglected diseases alongside its Claude Science product for life sciences companies. Anthropic says doing its own drug-discovery work should help it build better AI tools for the industry, though many details remain open.",
+  "friendlySummary": "CNBC says Anthropic is starting a program to look for treatments for neglected diseases while building Claude Science for researchers.",
+  "whyItMatters": "The move shows frontier AI labs pushing beyond software into domain-specific scientific workflows and possibly real R&D pipelines. For users, it is a sign that the next phase of AI products may be shaped by firsthand use in regulated, high-stakes fields rather than generic chat alone.",
+  "friendlyWhyItMatters": "This shows AI companies trying to help with real scientific problems, though medicine still requires careful testing and many years of work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

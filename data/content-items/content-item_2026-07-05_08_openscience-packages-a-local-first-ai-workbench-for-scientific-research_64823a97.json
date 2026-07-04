@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_08_openscience-packages-a-local-first-ai-workbench-for-scientific-research_64823a97",
+  "sourceKind": "product",
+  "sourceName": "Synthetic Sciences",
+  "sourceUrl": "https://openscience.sh/",
+  "canonicalUrl": "https://openscience.sh/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "OpenScience packages a local-first AI workbench for scientific research",
+  "friendlyTitle": "OpenScience is an AI workspace for researchers",
+  "summary": "OpenScience is positioning itself as an open-source, local-first AI workbench for scientists, with a browser workspace for literature review, code, experiments, figures, citations, and write-ups. It supports multiple model providers, local models, direct scientific database tools, and hundreds of research-oriented skills.",
+  "friendlySummary": "OpenScience helps scientists use AI for reading papers, writing code, running experiments, making figures, and drafting reports.",
+  "whyItMatters": "Scientific AI tools are becoming workflow environments rather than simple chat windows. Researchers who need traceability, citations, experiment artifacts, and model choice may benefit from local-first setups, while still needing sandboxing and careful review of generated claims.",
+  "friendlyWhyItMatters": "This could save researchers time, but they still need to check the results carefully because science needs evidence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

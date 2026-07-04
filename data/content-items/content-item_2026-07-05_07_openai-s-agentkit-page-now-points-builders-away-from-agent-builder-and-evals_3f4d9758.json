@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_07_openai-s-agentkit-page-now-points-builders-away-from-agent-builder-and-evals_3f4d9758",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-agentkit/",
+  "canonicalUrl": "https://openai.com/index/introducing-agentkit",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "OpenAI’s AgentKit page now points builders away from Agent Builder and Evals",
+  "friendlyTitle": "OpenAI is winding down some AgentKit tools",
+  "summary": "OpenAI’s AgentKit announcement page now carries a June 2026 update saying Agent Builder and Evals are being wound down, with availability ending after November 30, 2026. OpenAI recommends the Agents SDK for code-based workflows and Workspace Agents in ChatGPT for natural-language workflows.",
+  "friendlySummary": "OpenAI says Agent Builder and Evals will stop being available after November 30, 2026, and points users to newer agent options.",
+  "whyItMatters": "Agent platforms are still consolidating quickly, and early product surfaces may disappear or merge into newer runtimes. Teams building on hosted agent tools should keep workflows portable, track deprecation dates, and prefer code paths when continuity matters.",
+  "friendlyWhyItMatters": "If a business builds important work on an AI platform, it needs to watch for product changes and have a backup plan.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}

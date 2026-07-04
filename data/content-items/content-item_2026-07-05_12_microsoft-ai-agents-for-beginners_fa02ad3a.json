@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_12_microsoft-ai-agents-for-beginners_fa02ad3a",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Jupyter Notebook",
+  "sourceUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+  "canonicalUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "microsoft/ai-agents-for-beginners",
+  "friendlyTitle": "Microsoft’s beginner course for building AI agents",
+  "summary": "AI Agents for Beginners is Microsoft’s 12-lesson course for learning agent fundamentals, design patterns, tool use, agentic RAG, memory, multi-agent systems, trustworthy agents, security, protocols, and deployment concepts. It includes notebooks, short videos, and examples using Microsoft Agent Framework and Azure AI Foundry.",
+  "friendlySummary": "This repo teaches the basics of AI agents through lessons, notebooks, videos, and code examples.",
+  "whyItMatters": "It gives students, developers, and business technologists a structured path into agent building without starting from scattered blog posts. The lessons are especially useful for teams trying to align on vocabulary, patterns, and safety basics before building production agents.",
+  "friendlyWhyItMatters": "It is a good starting point for people who want to understand how agents work before building their own.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-05"
+  },
+  "howItsUseful": "It gives students, developers, and business technologists a structured path into agent building without starting from scattered blog posts. The lessons are especially useful for teams trying to align on vocabulary, patterns, and safety basics before building production agents.",
+  "friendlyHowItsUseful": "It is a good starting point for people who want to understand how agents work before building their own."
+}

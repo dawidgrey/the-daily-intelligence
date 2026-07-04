@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_13_langchain-ai-agents-from-scratch_77db393f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Jupyter Notebook",
+  "sourceUrl": "https://github.com/langchain-ai/agents-from-scratch",
+  "canonicalUrl": "https://github.com/langchain-ai/agents-from-scratch",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "langchain-ai/agents-from-scratch",
+  "friendlyTitle": "LangChain teaches agents by building an email assistant",
+  "summary": "agents-from-scratch is a LangChain and LangGraph educational repository that builds toward an ambient email assistant with Gmail integration, human-in-the-loop review, evaluation, and memory. The project uses notebooks and source code to explain how real agent workflows can be assembled step by step.",
+  "friendlySummary": "This repo shows how to build an AI email assistant with memory and human review steps.",
+  "whyItMatters": "Developers can use it to learn practical agent architecture around a familiar workflow: email triage and response. It is also a useful template for adding review checkpoints and memory to assistants that operate quietly in the background.",
+  "friendlyWhyItMatters": "Builders can follow it to learn how agents can handle real tasks while still asking people to approve important actions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-05"
+  },
+  "howItsUseful": "Developers can use it to learn practical agent architecture around a familiar workflow: email triage and response. It is also a useful template for adding review checkpoints and memory to assistants that operate quietly in the background.",
+  "friendlyHowItsUseful": "Builders can follow it to learn how agents can handle real tasks while still asking people to approve important actions."
+}

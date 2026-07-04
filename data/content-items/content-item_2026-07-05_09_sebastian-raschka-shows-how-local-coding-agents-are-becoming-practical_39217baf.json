@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-05_09_sebastian-raschka-shows-how-local-coding-agents-are-becoming-practical_39217baf",
+  "sourceKind": "article",
+  "sourceName": "Ahead of AI",
+  "sourceUrl": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+  "canonicalUrl": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-04T20:11:23Z",
+  "createdAtUtc": "2026-07-04T20:11:23Z",
+  "updatedAtUtc": "2026-07-04T20:11:23Z",
+  "title": "Sebastian Raschka shows how local coding agents are becoming practical",
+  "friendlyTitle": "Local AI coding agents are getting more usable",
+  "summary": "Sebastian Raschka published a practical guide to using open-weight models with local coding-agent harnesses such as Qwen-Code, Codex CLI, and Claude Code via local model serving. The tutorial emphasizes cost control, privacy, reproducibility, offline use, and the need to audit telemetry and command permissions.",
+  "friendlySummary": "A new guide explains how to run coding agents with local or open models instead of relying only on cloud subscriptions.",
+  "whyItMatters": "Local coding agents are no longer just a hobbyist curiosity, especially for developers with capable hardware. They can reduce API dependency and protect sensitive code, but users still need to secure the harness because local agents can read files and run commands.",
+  "friendlyWhyItMatters": "This can help developers save money and keep private code closer to home, but they still need to control what the agent can do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-05"
+  }
+}
