@@ -1,8 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-07-04T20:11:23Z",
+  "generatedAtUtc": "2026-07-05T20:08:11Z",
+  "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-07-06",
+      "slug": "2026-07-06",
+      "status": "published",
+      "publicationDateUtc": "2026-07-05T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents meet their limits, and enterprise AI gets more practical",
+      "friendlyHeader": "AI tools are getting useful, but they still need guardrails",
+      "summary": "Today’s issue tracks a useful split in AI: companies are pushing agents deeper into daily work, while fresh research and product moves show where reliability, governance, data ownership, and infrastructure still matter. The thread is practical adoption, not magic: better workflows, clearer limits, and more careful choices about where AI belongs.",
+      "friendlySummary": "Today we look at AI tools that can help with work, business, research, documents, and coding. We also look at the limits: AI agents still need clear questions, safe data rules, and good infrastructure.",
+      "itemCount": 13,
+      "href": "issues/2026-07-06.html",
+      "dataUrl": "data/daily-publications/2026-07-06.json"
+    },
     {
       "id": "daily-publication_2026-07-05",
       "slug": "2026-07-05",
@@ -282,7 +297,104 @@
       "itemCount": 13,
       "href": "issues/2026-06-16.html",
       "dataUrl": "data/daily-publications/2026-06-16.json"
+    },
+    {
+      "id": "daily-publication_2026-06-15",
+      "slug": "2026-06-15",
+      "status": "published",
+      "publicationDateUtc": "2026-06-14T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos to daily workflows",
+      "friendlyHeader": "AI agents are moving into everyday work",
+      "summary": "Today’s brief tracks the practical edge of AI: frontier-model access rules, agent platforms moving into Microsoft 365, WhatsApp, GitHub and Codex, and the trust checks needed when AI-generated work enters professional life.",
+      "friendlySummary": "Today’s issue looks at useful AI changes for work and daily life: smarter assistants, coding tools, business agents, privacy infrastructure, and a reminder to check AI-generated claims before trusting them.",
+      "itemCount": 13,
+      "href": "issues/2026-06-15.html",
+      "dataUrl": "data/daily-publications/2026-06-15.json"
+    },
+    {
+      "id": "daily-publication_2026-06-14",
+      "slug": "2026-06-14",
+      "status": "published",
+      "publicationDateUtc": "2026-06-13T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents need safer tools, steadier infrastructure, and better habits",
+      "friendlyHeader": "AI is becoming more practical, but also needs better guardrails",
+      "summary": "Today’s issue tracks the practical side of AI adoption: model access, persistent coding agents, workplace training, live translation, open models, agent security, and infrastructure that makes AI systems more useful in real work. The common thread is less glamour and more operating discipline: if AI is going to shape daily life for the better, it needs usable workflows, safer defaults, and tools people can actually trust.",
+      "friendlySummary": "Today’s brief looks at AI tools people can actually use: coding agents, workplace training, live translation, local models, security tests, and open-source projects. The main theme is simple: useful AI needs good workflows, strong safety checks, and infrastructure that keeps working after the demo ends.",
+      "itemCount": 13,
+      "href": "issues/2026-06-14.html",
+      "dataUrl": "data/daily-publications/2026-06-14.json"
+    },
+    {
+      "id": "daily-publication_2026-06-13",
+      "slug": "2026-06-13",
+      "status": "published",
+      "publicationDateUtc": "2026-06-12T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves deeper into work, security, and personal tools",
+      "friendlyHeader": "AI is becoming part of everyday work",
+      "summary": "Today’s issue focuses on practical AI adoption: enterprise rollouts, agent workspaces, model evaluation, cyber risk, local agents, and the open-source tools shaping how people build with AI. The useful signal is clear: AI is becoming less of a standalone chatbot and more of an operating layer for work, learning, software, and trust.",
+      "friendlySummary": "Today’s brief looks at how AI is showing up in normal work and daily decisions: banking, education, coding, security, live tools, and open-source projects. The main theme is practical AI moving from experiments into systems people actually rely on.",
+      "itemCount": 13,
+      "href": "issues/2026-06-13.html",
+      "dataUrl": "data/daily-publications/2026-06-13.json"
+    },
+    {
+      "id": "daily-publication_2026-06-12",
+      "slug": "2026-06-12",
+      "status": "published",
+      "publicationDateUtc": "2026-06-11T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos to daily infrastructure",
+      "friendlyHeader": "AI agents are becoming everyday tools",
+      "summary": "Today’s issue tracks AI moving into the operating layer of work: persistent coding agents, faster open models, live translation, safer autonomy controls, and practical consumer tools. The through-line is less about spectacle and more about where AI starts reducing friction in everyday decisions, workflows, and creative systems.",
+      "friendlySummary": "Today’s brief looks at AI becoming more useful in normal work and life: coding agents that can keep working, faster models, live voice translation, safer controls, and tools for shopping and music. The big story is practical AI moving from demos into daily routines.",
+      "itemCount": 13,
+      "href": "issues/2026-06-12.html",
+      "dataUrl": "data/daily-publications/2026-06-12.json"
+    },
+    {
+      "id": "daily-publication_2026-06-11",
+      "slug": "2026-06-11",
+      "status": "published",
+      "publicationDateUtc": "2026-06-10T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into payments, research, coding, and local models",
+      "friendlyHeader": "AI agents are getting closer to real-world jobs.",
+      "summary": "Today’s Daily Intelligence tracks practical AI shifts: agentic commerce gets payment rails, research notebooks gain code execution, voice translation becomes more conversational, and open models/tools keep moving useful workflows closer to everyday hardware and teams.",
+      "friendlySummary": "Today’s issue looks at agents paying for things, research tools doing more work, live translation improving, open models helping coders, and practical tools moving AI closer to normal teams and laptops.",
+      "itemCount": 13,
+      "href": "issues/2026-06-11.html",
+      "dataUrl": "data/daily-publications/2026-06-11.json"
+    },
+    {
+      "id": "daily-publication_2026-06-10",
+      "slug": "2026-06-10",
+      "status": "published",
+      "publicationDateUtc": "2026-06-09T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Frontier models, working agents, and practical AI plumbing",
+      "friendlyHeader": "Big AI tools are moving closer to everyday work.",
+      "summary": "Today's brief tracks a busy AI cycle: a new top-tier Claude release, more live translation from Google, Codex moving deeper into business workflows, and several agent tools that make AI systems easier to build, govern, and use.",
+      "friendlySummary": "Today’s issue covers stronger AI models, live voice translation, coding helpers for more kinds of workers, and practical tools that help people build and control AI agents.",
+      "itemCount": 13,
+      "href": "issues/2026-06-10.html",
+      "dataUrl": "data/daily-publications/2026-06-10.json"
+    },
+    {
+      "id": "daily-publication_2026-06-09",
+      "slug": "2026-06-09",
+      "status": "published",
+      "publicationDateUtc": "2026-06-08T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into workflows, costs, and risk.",
+      "friendlyHeader": "Agents move from demos into workflows, costs, and risk.",
+      "summary": "Today’s issue tracks the parts of AI that are becoming operational: companies preparing for public markets, agents working directly with files and devices, open models pushing coding forward, security teams racing to keep up with model-assisted abuse, and GitHub projects turning the trend into working tools.",
+      "friendlySummary": "Today’s issue tracks the parts of AI that are becoming operational: companies preparing for public markets, agents working directly with files and devices, open models pushing coding forward, security teams racing to keep up with model-assisted abuse, and GitHub projects turning the trend into working tools.",
+      "itemCount": 13,
+      "href": "issues/2026-06-09.html",
+      "dataUrl": "data/daily-publications/2026-06-09.json"
     }
-  ],
-  "limit": 20
+  ]
 }

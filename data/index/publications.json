@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-04T20:11:23Z",
+  "generatedAtUtc": "2026-07-05T20:08:11Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-06",
+      "slug": "2026-07-06",
+      "status": "published",
+      "publicationDateUtc": "2026-07-05T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents meet their limits, and enterprise AI gets more practical",
+      "friendlyHeader": "AI tools are getting useful, but they still need guardrails",
+      "summary": "Today’s issue tracks a useful split in AI: companies are pushing agents deeper into daily work, while fresh research and product moves show where reliability, governance, data ownership, and infrastructure still matter. The thread is practical adoption, not magic: better workflows, clearer limits, and more careful choices about where AI belongs.",
+      "friendlySummary": "Today we look at AI tools that can help with work, business, research, documents, and coding. We also look at the limits: AI agents still need clear questions, safe data rules, and good infrastructure.",
+      "itemCount": 13,
+      "href": "issues/2026-07-06.html",
+      "dataUrl": "data/daily-publications/2026-07-06.json"
+    },
     {
       "id": "daily-publication_2026-07-05",
       "slug": "2026-07-05",

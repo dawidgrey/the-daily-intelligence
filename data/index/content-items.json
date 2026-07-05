@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-03T20:09:23Z",
+  "generatedAtUtc": "2026-07-05T20:08:11Z",
   "items": [
     {
-      "id": "content-item_2026-07-04_01_aisi-says-agent-evaluations-need-to-measure-capability-across-compute-bu_cb5d811b",
+      "id": "content-item_2026-07-06_01_ai-search-agents-stumble-when-questions-are-ambiguous_50f81519",
       "sourceKind": "research",
-      "sourceName": "UK AI Security Institute",
-      "title": "AISI says agent evaluations need to measure capability across compute budgets",
-      "sourceUrl": "https://www.aisi.gov.uk/blog/more-compute-more-capability-why-ai-agent-evals-need-to-account-for-test-time-compute"
+      "sourceName": "The Decoder",
+      "title": "AI search agents stumble when questions are ambiguous",
+      "sourceUrl": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
     },
     {
-      "id": "content-item_2026-07-04_02_adapt-explains-how-it-runs-isolated-computers-for-ai-agents-at-scale_4355e5bf",
+      "id": "content-item_2026-07-06_02_baidu-s-unlimited-ocr-processes-long-documents-in-one-pass_50e8c95d",
+      "sourceKind": "research",
+      "sourceName": "The Decoder",
+      "title": "Baidu’s Unlimited OCR processes long documents in one pass",
+      "sourceUrl": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
+    },
+    {
+      "id": "content-item_2026-07-06_03_reuters-one-small-business-used-ai-as-a-startup-accelerator_430f4e9c",
       "sourceKind": "article",
-      "sourceName": "Adapt Blog",
-      "title": "Adapt explains how it runs isolated computers for AI agents at scale",
-      "sourceUrl": "https://adapt.com/blog/orchestrating-agent-sandboxes"
+      "sourceName": "Reuters",
+      "title": "Reuters: one small business used AI as a startup accelerator",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/"
     },
     {
-      "id": "content-item_2026-07-04_03_openui-proposes-an-open-standard-for-ai-generated-interfaces_e5eb6ccf",
+      "id": "content-item_2026-07-06_04_amazon-stops-accepting-new-mechanical-turk-customers_a36af440",
       "sourceKind": "product",
-      "sourceName": "OpenUI",
-      "title": "OpenUI proposes an open standard for AI-generated interfaces",
-      "sourceUrl": "https://www.openui.com"
+      "sourceName": "TechCrunch",
+      "title": "Amazon stops accepting new Mechanical Turk customers",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk"
     },
     {
-      "id": "content-item_2026-07-04_04_deepswe-benchmark-targets-harder-long-horizon-coding-agent-work_04185947",
-      "sourceKind": "research",
-      "sourceName": "DataCurve DeepSWE",
-      "title": "DeepSWE benchmark targets harder long-horizon coding-agent work",
-      "sourceUrl": "https://deepswe.datacurve.ai/"
-    },
-    {
-      "id": "content-item_2026-07-04_05_bbc-profiles-yann-lecun-s-push-beyond-llms-toward-world-models_b65aa2c7",
-      "sourceKind": "article",
-      "sourceName": "BBC News",
-      "title": "BBC profiles Yann LeCun’s push beyond LLMs toward world models",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj6gr0xkyr3o"
-    },
-    {
-      "id": "content-item_2026-07-04_06_collabora-office-26-04-adds-optional-user-controlled-ai-to-desktop-docum_a5381b0b",
-      "sourceKind": "product",
-      "sourceName": "Collabora Online Blog",
-      "title": "Collabora Office 26.04 adds optional, user-controlled AI to desktop documents",
-      "sourceUrl": "https://www.collaboraonline.com/blog/collabora-office-26-04-release/"
-    },
-    {
-      "id": "content-item_2026-07-04_07_epoch-ai-s-cve-explorer-highlights-the-surge-in-high-severity-vulnerabil_6ac5ae08",
-      "sourceKind": "research",
-      "sourceName": "Epoch AI",
-      "title": "Epoch AI’s CVE explorer highlights the surge in high-severity vulnerability reports",
-      "sourceUrl": "https://epoch.ai/data/cve?view=graph"
-    },
-    {
-      "id": "content-item_2026-07-04_08_meta-quietly-launches-pocket-for-prompt-made-mini-apps-and-games_0e1005d6",
+      "id": "content-item_2026-07-06_05_alibaba-reportedly-bans-staff-from-using-claude-code_7a350947",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Meta quietly launches Pocket for prompt-made mini apps and games",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+      "title": "Alibaba reportedly bans staff from using Claude Code",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
     },
     {
-      "id": "content-item_2026-07-04_09_kling-raises-about-2-billion-as-ai-video-competition-heats-up_17af3c77",
+      "id": "content-item_2026-07-06_06_openai-and-hp-expand-frontier-partnership-across-enterprise-workflows_1ae317c0",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI and HP expand Frontier partnership across enterprise workflows",
+      "sourceUrl": "https://openai.com/index/hp-frontier-partnership"
+    },
+    {
+      "id": "content-item_2026-07-06_07_openai-maps-europe-s-ai-workforce-transition_5b79476b",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI maps Europe’s AI workforce transition",
+      "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+    },
+    {
+      "id": "content-item_2026-07-06_08_mistral-s-ceo-warns-closed-ai-can-expose-business-processes_61348bf9",
       "sourceKind": "article",
       "sourceName": "The Decoder",
-      "title": "Kling raises about $2 billion as AI video competition heats up",
-      "sourceUrl": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
+      "title": "Mistral’s CEO warns closed AI can expose business processes",
+      "sourceUrl": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
     },
     {
-      "id": "content-item_2026-07-04_10_the-agentic-garden-of-forking-paths-tests-how-ai-agents-can-shape-data-a_fc76e551",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "The Agentic Garden of Forking Paths tests how AI agents can shape data analysis conclusions",
-      "sourceUrl": "https://arxiv.org/abs/2607.01507"
+      "id": "content-item_2026-07-06_09_google-deepmind-and-a24-start-a-research-partnership-for-creative-workfl_e29a8bbb",
+      "sourceKind": "article",
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind and A24 start a research partnership for creative workflows",
+      "sourceUrl": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
     },
     {
-      "id": "content-item_2026-07-04_11_safishamsi-graphify_0a047a29",
+      "id": "content-item_2026-07-06_10_anthropic-s-claude-science-points-toward-ai-drug-discovery-ambitions_b4fd6ded",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Anthropic’s Claude Science points toward AI drug discovery ambitions",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
+    },
+    {
+      "id": "content-item_2026-07-06_11_anthropics-claude-code_9c241fb4",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "safishamsi/graphify",
-      "sourceUrl": "https://github.com/safishamsi/graphify"
+      "sourceName": "GitHub Trending",
+      "title": "anthropics/claude-code",
+      "sourceUrl": "https://github.com/anthropics/claude-code"
     },
     {
-      "id": "content-item_2026-07-04_12_harvard-edge-cs249r-book_edffb6e6",
+      "id": "content-item_2026-07-06_12_hesreallyhim-awesome-claude-code_c7f7e9fb",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "harvard-edge/cs249r_book",
-      "sourceUrl": "https://github.com/harvard-edge/cs249r_book"
+      "sourceName": "GitHub Trending",
+      "title": "hesreallyhim/awesome-claude-code",
+      "sourceUrl": "https://github.com/hesreallyhim/awesome-claude-code"
     },
     {
-      "id": "content-item_2026-07-04_13_agentskills-agentskills_22741e13",
+      "id": "content-item_2026-07-06_13_cheahjs-free-llm-api-resources_d24d5b1b",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "agentskills/agentskills",
-      "sourceUrl": "https://github.com/agentskills/agentskills"
+      "sourceName": "GitHub Trending",
+      "title": "cheahjs/free-llm-api-resources",
+      "sourceUrl": "https://github.com/cheahjs/free-llm-api-resources"
     }
   ]
 }

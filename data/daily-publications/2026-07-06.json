@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-06",
+  "slug": "2026-07-06",
+  "status": "published",
+  "publicationDateUtc": "2026-07-05T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents meet their limits, and enterprise AI gets more practical",
+  "friendlyHeader": "AI tools are getting useful, but they still need guardrails",
+  "summary": "Today’s issue tracks a useful split in AI: companies are pushing agents deeper into daily work, while fresh research and product moves show where reliability, governance, data ownership, and infrastructure still matter. The thread is practical adoption, not magic: better workflows, clearer limits, and more careful choices about where AI belongs.",
+  "friendlySummary": "Today we look at AI tools that can help with work, business, research, documents, and coding. We also look at the limits: AI agents still need clear questions, safe data rules, and good infrastructure.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-06_01_ai-search-agents-stumble-when-questions-are-ambiguous_50f81519",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_02_baidu-s-unlimited-ocr-processes-long-documents-in-one-pass_50e8c95d",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_03_reuters-one-small-business-used-ai-as-a-startup-accelerator_430f4e9c",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_04_amazon-stops-accepting-new-mechanical-turk-customers_a36af440",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_05_alibaba-reportedly-bans-staff-from-using-claude-code_7a350947",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_06_openai-and-hp-expand-frontier-partnership-across-enterprise-workflows_1ae317c0",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_07_openai-maps-europe-s-ai-workforce-transition_5b79476b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_08_mistral-s-ceo-warns-closed-ai-can-expose-business-processes_61348bf9",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_09_google-deepmind-and-a24-start-a-research-partnership-for-creative-workfl_e29a8bbb",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_10_anthropic-s-claude-science-points-toward-ai-drug-discovery-ambitions_b4fd6ded",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_11_anthropics-claude-code_9c241fb4",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_12_hesreallyhim-awesome-claude-code_c7f7e9fb",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-06_13_cheahjs-free-llm-api-resources_d24d5b1b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-05T20:08:11Z",
+  "updatedAtUtc": "2026-07-05T20:08:11Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-06.json",
+    "itemCount": 13
+  }
+}
