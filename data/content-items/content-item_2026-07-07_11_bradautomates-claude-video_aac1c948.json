@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_11_bradautomates-claude-video_aac1c948",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/bradautomates/claude-video",
+  "canonicalUrl": "https://github.com/bradautomates/claude-video",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "bradautomates/claude-video",
+  "friendlyTitle": "A tool that lets Claude watch videos",
+  "summary": "claude-video gives Claude and compatible agent hosts a /watch workflow for analyzing videos by downloading media, extracting representative frames, pulling captions, transcribing audio when needed, and handing the visual and audio evidence to the assistant.",
+  "friendlySummary": "This repo lets an AI assistant download a video, read captions or transcripts, look at frames, and answer questions about what happened.",
+  "whyItMatters": "Creators, researchers, marketers, and developers can use it to summarize videos, inspect launch demos, diagnose screen-recorded bugs, or turn courses and interviews into searchable notes. It is a practical pattern for giving agents grounded video understanding without relying only on titles or descriptions.",
+  "friendlyWhyItMatters": "It can help summarize videos, study demos, review courses, or understand screen recordings of bugs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-07"
+  },
+  "howItsUseful": "Creators, researchers, marketers, and developers can use it to summarize videos, inspect launch demos, diagnose screen-recorded bugs, or turn courses and interviews into searchable notes. It is a practical pattern for giving agents grounded video understanding without relying only on titles or descriptions.",
+  "friendlyHowItsUseful": "It can help summarize videos, study demos, review courses, or understand screen recordings of bugs."
+}

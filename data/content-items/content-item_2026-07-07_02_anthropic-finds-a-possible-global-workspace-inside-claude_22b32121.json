@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_02_anthropic-finds-a-possible-global-workspace-inside-claude_22b32121",
+  "sourceKind": "research",
+  "sourceName": "Anthropic Research",
+  "sourceUrl": "https://www.anthropic.com/research/global-workspace",
+  "canonicalUrl": "https://www.anthropic.com/research/global-workspace",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Anthropic finds a possible ‘global workspace’ inside Claude",
+  "friendlyTitle": "Anthropic studies how Claude may organize its thoughts",
+  "summary": "Anthropic published interpretability research arguing that Claude contains a small internal representational space, called J-space, that appears to support reportable, controllable, and reusable internal reasoning. The company explicitly says this does not prove consciousness, but frames the work as a way to study functional analogues of accessible internal thought in language models.",
+  "friendlySummary": "Anthropic found signs of a special internal area in Claude that may help it keep track of ideas while reasoning. The company says this does not mean Claude is conscious.",
+  "whyItMatters": "If model builders can better inspect what a model is internally tracking, they may improve debugging, safety, and reliability for high-stakes tools. For everyday users, it is a reminder that useful AI behavior depends on hidden internal processes that researchers are only beginning to map.",
+  "friendlyWhyItMatters": "Understanding what AI models are doing inside could make them safer and easier to debug when people use them for important work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

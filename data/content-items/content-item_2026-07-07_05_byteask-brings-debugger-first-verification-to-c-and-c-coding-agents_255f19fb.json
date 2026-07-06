@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_05_byteask-brings-debugger-first-verification-to-c-and-c-coding-agents_255f19fb",
+  "sourceKind": "product",
+  "sourceName": "ByteAsk",
+  "sourceUrl": "https://byteask.ai/",
+  "canonicalUrl": "https://byteask.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "ByteAsk brings debugger-first verification to C and C++ coding agents",
+  "friendlyTitle": "ByteAsk checks C and C++ code with real developer tools",
+  "summary": "ByteAsk launched a C/C++-focused coding agent that edits repositories from the terminal and verifies changes with compilers, test suites, sanitizers, perf tooling, and live debugger sessions such as gdb. Its pitch is that C and C++ need proof through the real toolchain rather than plausible patches.",
+  "friendlySummary": "ByteAsk is an AI coding tool that writes changes, then runs compilers, tests, sanitizers, and debuggers before showing the diff.",
+  "whyItMatters": "Coding agents are most valuable when they can reduce review burden without increasing risk. For systems languages, grounding fixes in builds, sanitizers, and debugger state is a practical pattern other coding tools may need to copy.",
+  "friendlyWhyItMatters": "This is useful because C and C++ bugs can be serious. AI code should be tested by real tools, not just sound convincing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

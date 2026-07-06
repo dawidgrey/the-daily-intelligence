@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_06_plannotator-puts-humans-back-in-control-of-ai-assisted-code-review_012c642b",
+  "sourceKind": "product",
+  "sourceName": "Plannotator",
+  "sourceUrl": "https://plannotator.ai/code-review/",
+  "canonicalUrl": "https://plannotator.ai/code-review",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Plannotator puts humans back in control of AI-assisted code review",
+  "friendlyTitle": "Plannotator helps people guide AI code reviews",
+  "summary": "Plannotator introduced a diff-first code review workflow where humans can annotate lines, tokens, files, commits, PRs, and local changes, then optionally pass those precise notes to coding agents. The product emphasizes that no model is involved unless the reviewer explicitly chooses to use one.",
+  "friendlySummary": "Plannotator lets reviewers mark exact code lines and send those notes to an AI agent only when they choose.",
+  "whyItMatters": "As AI writes more code, review needs to become more structured, not less. Tools that turn repeated human feedback into reusable agent instructions could help teams preserve engineering standards while still gaining speed from coding assistants.",
+  "friendlyWhyItMatters": "This helps teams keep humans in charge while still using AI to fix or improve code faster.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

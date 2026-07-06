@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-05T20:08:11Z",
+  "generatedAtUtc": "2026-07-06T20:10:53Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-07",
+      "slug": "2026-07-07",
+      "status": "published",
+      "publicationDateUtc": "2026-07-06T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI agents meet the messy middle: infrastructure, evidence, and operations",
+      "friendlyHeader": "AI is becoming more useful, but it still needs better proof",
+      "summary": "Today’s issue follows AI moving from impressive demos into the harder work of deployment: business benchmarks are still unforgiving, interpretability is getting more concrete, agent models are becoming more specialized, and practical tools are wrapping AI around video, code review, C++ debugging, sales work, and personal knowledge management.",
+      "friendlySummary": "Today we look at AI tools and research that can help with work, coding, videos, web research, sales, and personal knowledge. The main idea: AI agents are getting better, but people still need clear tests, careful setup, and human judgment.",
+      "itemCount": 13,
+      "href": "issues/2026-07-07.html",
+      "dataUrl": "data/daily-publications/2026-07-07.json"
+    },
     {
       "id": "daily-publication_2026-07-06",
       "slug": "2026-07-06",

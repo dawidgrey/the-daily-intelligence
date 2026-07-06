@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_08_the-new-stack-enterprise-ai-spending-shifts-toward-forward-deployed-engineering_fde5e7ea",
+  "sourceKind": "article",
+  "sourceName": "The New Stack",
+  "sourceUrl": "https://thenewstack.io/microsoft-frontier-forward-deployed/",
+  "canonicalUrl": "https://thenewstack.io/microsoft-frontier-forward-deployed",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "The New Stack: enterprise AI spending shifts toward forward-deployed engineering",
+  "friendlyTitle": "Big AI companies are spending more on helping customers deploy AI",
+  "summary": "The New Stack analyzed Microsoft, AWS, OpenAI, and Anthropic investments in forward-deployed engineering teams that embed with customers to integrate AI into data, workflows, and governance. The article argues that enterprise AI competition is moving from model quality alone toward deployment capability.",
+  "friendlySummary": "Microsoft, AWS, OpenAI, and Anthropic are investing in teams that work directly with companies to put AI into real workflows.",
+  "whyItMatters": "Many companies have bought AI tools but struggle to turn pilots into measurable production results. The rise of embedded AI engineering teams suggests the bottleneck is often change management, workflow integration, and operational ownership rather than another benchmark point.",
+  "friendlyWhyItMatters": "Buying an AI tool is not enough. Businesses often need help connecting it to their data, rules, and daily processes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

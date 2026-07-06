@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_12_tauricresearch-tradingagents_1606cfe2",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/TauricResearch/TradingAgents",
+  "canonicalUrl": "https://github.com/TauricResearch/TradingAgents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "TauricResearch/TradingAgents",
+  "friendlyTitle": "A research framework for AI trading agents",
+  "summary": "TradingAgents is a multi-agent LLM framework for financial trading research that simulates analyst, researcher, trader, risk-management, and portfolio-manager roles. Recent releases added provider support, stability fixes, data-access controls, and newer model compatibility.",
+  "friendlySummary": "TradingAgents uses several AI agents to imitate parts of a trading firm, such as analysts, researchers, traders, and risk managers.",
+  "whyItMatters": "Researchers can use it to study how multi-agent debate, sentiment analysis, technical analysis, and risk review interact in financial decision workflows. It should be treated as a research framework rather than investment advice, but it is useful for exploring agent architecture in a high-stakes domain.",
+  "friendlyWhyItMatters": "It can help researchers and builders learn how multi-agent systems work in finance, but it should not be treated as financial advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-07"
+  },
+  "howItsUseful": "Researchers can use it to study how multi-agent debate, sentiment analysis, technical analysis, and risk review interact in financial decision workflows. It should be treated as a research framework rather than investment advice, but it is useful for exploring agent architecture in a high-stakes domain.",
+  "friendlyHowItsUseful": "It can help researchers and builders learn how multi-agent systems work in finance, but it should not be treated as financial advice."
+}

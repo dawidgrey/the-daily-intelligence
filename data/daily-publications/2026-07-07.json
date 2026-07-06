@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-07",
+  "slug": "2026-07-07",
+  "status": "published",
+  "publicationDateUtc": "2026-07-06T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI agents meet the messy middle: infrastructure, evidence, and operations",
+  "friendlyHeader": "AI is becoming more useful, but it still needs better proof",
+  "summary": "Today’s issue follows AI moving from impressive demos into the harder work of deployment: business benchmarks are still unforgiving, interpretability is getting more concrete, agent models are becoming more specialized, and practical tools are wrapping AI around video, code review, C++ debugging, sales work, and personal knowledge management.",
+  "friendlySummary": "Today we look at AI tools and research that can help with work, coding, videos, web research, sales, and personal knowledge. The main idea: AI agents are getting better, but people still need clear tests, careful setup, and human judgment.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-07_01_zapier-s-automationbench-shows-business-agents-still-fail-most-real-workflow-tes_bfe7150a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_02_anthropic-finds-a-possible-global-workspace-inside-claude_22b32121",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_03_agents-a1-targets-long-horizon-agent-work-with-a-35b-open-model_e3ccf6ec",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_04_pulpie-offers-cheaper-model-based-extraction-for-cleaner-web-context_1295ac58",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_05_byteask-brings-debugger-first-verification-to-c-and-c-coding-agents_255f19fb",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_06_plannotator-puts-humans-back-in-control-of-ai-assisted-code-review_012c642b",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_07_thirsty-machines-maps-estimated-water-use-across-major-ai-data-centers_9ef889a9",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_08_the-new-stack-enterprise-ai-spending-shifts-toward-forward-deployed-engineering_fde5e7ea",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_09_uniboost-research-targets-tail-latency-in-llm-inference-without-length-predictio_ed112ccc",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_10_paper-surveys-whether-and-how-ai-should-be-taxed_81e8981f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_11_bradautomates-claude-video_aac1c948",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_12_tauricresearch-tradingagents_1606cfe2",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-07_13_karakeep-app-karakeep_cdc9b9f0",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-07.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_04_pulpie-offers-cheaper-model-based-extraction-for-cleaner-web-context_1295ac58",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face / Feyn",
+  "sourceUrl": "https://huggingface.co/blog/feyninc/pulpie",
+  "canonicalUrl": "https://huggingface.co/blog/feyninc/pulpie",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Pulpie offers cheaper model-based extraction for cleaner web context",
+  "friendlyTitle": "Pulpie helps AI read web pages with less junk",
+  "summary": "Feyn introduced Pulpie, a family of encoder-based models for extracting main content from raw HTML while removing boilerplate such as navigation, ads, sidebars, and footers. The article says Pulpie Orange Small approaches Dripper-quality extraction while running far faster and at substantially lower estimated cost.",
+  "friendlySummary": "Pulpie is a set of models that remove ads, menus, and other clutter from web pages so AI systems can focus on the main content.",
+  "whyItMatters": "Cleaner web extraction matters for both retrieval-augmented generation and model training because noisy context can derail answers and waste tokens. For builders, better cheap extraction can improve search agents, research tools, crawlers, and private knowledge pipelines without making every page-cleaning step expensive.",
+  "friendlyWhyItMatters": "This can make AI search and research tools faster, cheaper, and more accurate because they receive cleaner information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

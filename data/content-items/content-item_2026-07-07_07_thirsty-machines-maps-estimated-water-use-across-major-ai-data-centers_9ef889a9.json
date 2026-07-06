@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_07_thirsty-machines-maps-estimated-water-use-across-major-ai-data-centers_9ef889a9",
+  "sourceKind": "article",
+  "sourceName": "Thirsty Machines",
+  "sourceUrl": "https://www.thirstymachines.com/",
+  "canonicalUrl": "https://www.thirstymachines.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Thirsty Machines maps estimated water use across major AI data centers",
+  "friendlyTitle": "A new map estimates how much water AI data centers use",
+  "summary": "Thirsty Machines published an interactive estimate of direct water use by major AI and data-center campuses, highlighting how cooling methods, local climate, and evaporative systems affect consumption. The site stresses that the estimates are modeled rather than audited because operators rarely disclose site-level water usage.",
+  "friendlySummary": "Thirsty Machines shows estimated water use from large data centers and explains how different cooling methods change the numbers.",
+  "whyItMatters": "AI infrastructure decisions increasingly affect local utilities, permitting, energy planning, and public trust. For businesses and communities, the useful question is not only how powerful a model is, but where and how its compute is cooled, powered, and governed.",
+  "friendlyWhyItMatters": "AI needs physical infrastructure. Communities and companies need clearer information about water and energy use before building more of it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

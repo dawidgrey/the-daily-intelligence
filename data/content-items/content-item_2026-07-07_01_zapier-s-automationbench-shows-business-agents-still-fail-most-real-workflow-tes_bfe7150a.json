@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_01_zapier-s-automationbench-shows-business-agents-still-fail-most-real-workflow-tes_bfe7150a",
+  "sourceKind": "research",
+  "sourceName": "Zapier",
+  "sourceUrl": "https://zapier.com/benchmarks",
+  "canonicalUrl": "https://zapier.com/benchmarks",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Zapier’s AutomationBench shows business agents still fail most real workflow tests",
+  "friendlyTitle": "Zapier tests whether AI agents can do real office work",
+  "summary": "Zapier published AutomationBench, a benchmark that evaluates AI agents on realistic business workflows across 47 tools, roughly 500 API endpoints, and more than 600 held-out tasks. Its leaderboard uses deterministic end-state checks rather than LLM judges, and the top model completes fewer than one in five tasks under the strict scoring setup.",
+  "friendlySummary": "Zapier made a benchmark for AI agents using realistic business tasks across many tools. Even the best model passed fewer than one in five tasks in the strict test.",
+  "whyItMatters": "This is a sober signal for teams trying to automate sales, support, finance, HR, and operations work. Agents may be useful assistants, but production deployment still needs narrow scope, error handling, human review, and measurement against real business state rather than polished final messages.",
+  "friendlyWhyItMatters": "This means businesses should use AI agents carefully. They can help, but they still need checks, limits, and people reviewing important work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

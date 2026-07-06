@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_09_uniboost-research-targets-tail-latency-in-llm-inference-without-length-predictio_ed112ccc",
+  "sourceKind": "research",
+  "sourceName": "UniBoost / ICML 2026",
+  "sourceUrl": "https://yl3469.github.io/uniboost-icml26/",
+  "canonicalUrl": "https://yl3469.github.io/uniboost-icml26",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "UniBoost research targets tail latency in LLM inference without length prediction",
+  "friendlyTitle": "UniBoost tries to make AI responses more reliable under load",
+  "summary": "UniBoost is a tail-aware scheduling approach for LLM inference that uses soft priority boosting and KV-cache-aware preemption instead of predicting output length. The project reports large reductions in P99 and P95 latency across reasoning-heavy and chat-heavy workloads.",
+  "friendlySummary": "UniBoost is research on scheduling AI requests so long answers do not make other users wait too long.",
+  "whyItMatters": "As reasoning models produce longer and more variable outputs, user experience depends heavily on queueing and serving policy, not just model speed. Better schedulers could make AI apps feel more responsive and reduce infrastructure waste without changing the model itself.",
+  "friendlyWhyItMatters": "This could help AI apps feel faster and steadier, especially when many people are using them at once.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

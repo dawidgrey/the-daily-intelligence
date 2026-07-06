@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_13_karakeep-app-karakeep_cdc9b9f0",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/karakeep-app/karakeep",
+  "canonicalUrl": "https://github.com/karakeep-app/karakeep",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "karakeep-app/karakeep",
+  "friendlyTitle": "A self-hosted app for saving and organizing web content",
+  "summary": "Karakeep is a self-hostable bookmark-everything app for links, notes, images, PDFs, and more, with full-text search, archival, LLM-based tagging and summarization, OCR, browser extensions, mobile apps, and agentic integrations.",
+  "friendlySummary": "Karakeep saves links, notes, images, and PDFs, then can use AI to tag and summarize them.",
+  "whyItMatters": "People who save lots of web material can use it as a private knowledge base with AI-assisted organization instead of relying on a cloud read-it-later service. Builders can study it as an example of AI features embedded in a practical personal information workflow.",
+  "friendlyWhyItMatters": "It can help people keep track of useful information and find it later without depending only on someone else’s cloud service.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-07"
+  },
+  "howItsUseful": "People who save lots of web material can use it as a private knowledge base with AI-assisted organization instead of relying on a cloud read-it-later service. Builders can study it as an example of AI features embedded in a practical personal information workflow.",
+  "friendlyHowItsUseful": "It can help people keep track of useful information and find it later without depending only on someone else’s cloud service."
+}

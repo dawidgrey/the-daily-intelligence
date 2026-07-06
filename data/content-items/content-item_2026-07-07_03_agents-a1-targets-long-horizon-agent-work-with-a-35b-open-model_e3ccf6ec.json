@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_03_agents-a1-targets-long-horizon-agent-work-with-a-35b-open-model_e3ccf6ec",
+  "sourceKind": "research",
+  "sourceName": "InternScience",
+  "sourceUrl": "https://internscience.github.io/Agents-A1/",
+  "canonicalUrl": "https://internscience.github.io/Agents-A1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Agents-A1 targets long-horizon agent work with a 35B open model",
+  "friendlyTitle": "Agents-A1 is an open model built for AI agents",
+  "summary": "InternScience introduced Agents-A1, a 35B mixture-of-experts model designed for agentic reasoning, tool use, long-context work, scientific research, engineering tasks, and instruction following. The project page says it supports a 256K-token served context and reports strong results across long-horizon and agent-oriented benchmarks.",
+  "friendlySummary": "Agents-A1 is a 35B model made for tasks where AI needs to plan, use tools, follow instructions, and work over long context.",
+  "whyItMatters": "Specialized open models for agent workflows could reduce reliance on a few closed frontier systems and make local or self-hosted agents more practical. Teams should still treat benchmark claims cautiously, but the direction is clear: agent ability is becoming a model-design target, not just a prompt-engineering trick.",
+  "friendlyWhyItMatters": "This could give developers more options for building agents, including systems they can run or control more directly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}

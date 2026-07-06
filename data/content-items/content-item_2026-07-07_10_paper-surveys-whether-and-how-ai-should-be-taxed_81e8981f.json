@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-07_10_paper-surveys-whether-and-how-ai-should-be-taxed_81e8981f",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2607.02144",
+  "canonicalUrl": "https://arxiv.org/abs/2607.02144",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-06T20:10:53Z",
+  "createdAtUtc": "2026-07-06T20:10:53Z",
+  "updatedAtUtc": "2026-07-06T20:10:53Z",
+  "title": "Paper surveys whether and how AI should be taxed",
+  "friendlyTitle": "A new paper asks if AI should be taxed",
+  "summary": "A new arXiv paper, “Taxing Artificial Intelligence,” surveys whether tax policy could address AI-related externalities such as environmental pressure, labor and creative displacement, and systemic risks from frontier development. The authors compare possible instruments including corporate or rent-based taxes, consumption taxes, and activity-specific excise taxes.",
+  "friendlySummary": "Researchers studied different ways governments might tax AI to help cover costs like environmental pressure, job disruption, and regulation.",
+  "whyItMatters": "AI regulation is likely to include economic tools, not only safety rules and disclosure requirements. Companies building or buying AI should expect policy debates around who pays for infrastructure strain, displaced work, regulatory capacity, and local impacts.",
+  "friendlyWhyItMatters": "This matters because future AI rules may affect prices, business planning, and who pays for AI’s wider effects.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-07"
+  }
+}
