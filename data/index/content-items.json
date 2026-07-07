@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-05T20:08:11Z",
+  "generatedAtUtc": "2026-07-07T20:04:33Z",
   "items": [
     {
-      "id": "content-item_2026-07-06_01_ai-search-agents-stumble-when-questions-are-ambiguous_50f81519",
-      "sourceKind": "research",
-      "sourceName": "The Decoder",
-      "title": "AI search agents stumble when questions are ambiguous",
-      "sourceUrl": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
+      "id": "content-item_2026-07-08_01_claude-cowork-comes-to-web-and-mobile-with-cloud-running-tasks_00045688",
+      "sourceKind": "product",
+      "sourceName": "Claude by Anthropic",
+      "title": "Claude Cowork comes to web and mobile with cloud-running tasks",
+      "sourceUrl": "https://claude.com/blog/cowork-web-mobile"
     },
     {
-      "id": "content-item_2026-07-06_02_baidu-s-unlimited-ocr-processes-long-documents-in-one-pass_50e8c95d",
-      "sourceKind": "research",
-      "sourceName": "The Decoder",
-      "title": "Baidu’s Unlimited OCR processes long documents in one pass",
-      "sourceUrl": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
-    },
-    {
-      "id": "content-item_2026-07-06_03_reuters-one-small-business-used-ai-as-a-startup-accelerator_430f4e9c",
+      "id": "content-item_2026-07-08_02_cisa-is-reportedly-using-anthropic-mythos-to-audit-u-s-government-code_691eba67",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: one small business used AI as a startup accelerator",
-      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/"
+      "sourceName": "Reuters via WHBL",
+      "title": "CISA is reportedly using Anthropic Mythos to audit U.S. government code",
+      "sourceUrl": "https://whbl.com/2026/07/06/exclusive-us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code-sources-say/"
     },
     {
-      "id": "content-item_2026-07-06_04_amazon-stops-accepting-new-mechanical-turk-customers_a36af440",
+      "id": "content-item_2026-07-08_03_the-ftc-warns-against-ai-systems-that-suppress-accurate-information_2f695520",
+      "sourceKind": "regulation",
+      "sourceName": "Federal Register",
+      "title": "The FTC warns against AI systems that suppress accurate information",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems"
+    },
+    {
+      "id": "content-item_2026-07-08_04_microsoft-puts-hugging-face-models-on-foundry-managed-compute_024a3808",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Microsoft puts Hugging Face models on Foundry Managed Compute",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+    },
+    {
+      "id": "content-item_2026-07-08_05_hugging-face-and-skypilot-add-zero-egress-storage-for-portable-ai-worklo_b29a2139",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face and SkyPilot add zero-egress storage for portable AI workloads",
+      "sourceUrl": "https://huggingface.co/blog/skypilot-hf-storage"
+    },
+    {
+      "id": "content-item_2026-07-08_06_openai-says-australian-payments-plus-cut-technical-investigations-from-h_60d1b567",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says Australian Payments Plus cut technical investigations from hours to minutes",
+      "sourceUrl": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "id": "content-item_2026-07-08_07_nhs-england-accelerates-ai-triage-and-ambient-notetaking-rollout_fa2d41c6",
+      "sourceKind": "product",
+      "sourceName": "NHS England",
+      "title": "NHS England accelerates AI triage and ambient notetaking rollout",
+      "sourceUrl": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
+    },
+    {
+      "id": "content-item_2026-07-08_08_discord-says-an-ai-moderation-bug-wrongly-banned-users-over-harmless-ima_d4bb1346",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Discord says an AI moderation bug wrongly banned users over harmless images",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+    },
+    {
+      "id": "content-item_2026-07-08_09_savi-launches-a-consumer-app-aimed-at-realistic-ai-scams_16589613",
       "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Amazon stops accepting new Mechanical Turk customers",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk"
+      "title": "Savi launches a consumer app aimed at realistic AI scams",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
     },
     {
-      "id": "content-item_2026-07-06_05_alibaba-reportedly-bans-staff-from-using-claude-code_7a350947",
+      "id": "content-item_2026-07-08_10_microsoft-reportedly-leans-more-on-in-house-models-to-cut-ai-costs_f9e4ca71",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Alibaba reportedly bans staff from using Claude Code",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+      "title": "Microsoft reportedly leans more on in-house models to cut AI costs",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models"
     },
     {
-      "id": "content-item_2026-07-06_06_openai-and-hp-expand-frontier-partnership-across-enterprise-workflows_1ae317c0",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI and HP expand Frontier partnership across enterprise workflows",
-      "sourceUrl": "https://openai.com/index/hp-frontier-partnership"
-    },
-    {
-      "id": "content-item_2026-07-06_07_openai-maps-europe-s-ai-workforce-transition_5b79476b",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI maps Europe’s AI workforce transition",
-      "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-    },
-    {
-      "id": "content-item_2026-07-06_08_mistral-s-ceo-warns-closed-ai-can-expose-business-processes_61348bf9",
-      "sourceKind": "article",
-      "sourceName": "The Decoder",
-      "title": "Mistral’s CEO warns closed AI can expose business processes",
-      "sourceUrl": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
-    },
-    {
-      "id": "content-item_2026-07-06_09_google-deepmind-and-a24-start-a-research-partnership-for-creative-workfl_e29a8bbb",
-      "sourceKind": "article",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind and A24 start a research partnership for creative workflows",
-      "sourceUrl": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
-    },
-    {
-      "id": "content-item_2026-07-06_10_anthropic-s-claude-science-points-toward-ai-drug-discovery-ambitions_b4fd6ded",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Anthropic’s Claude Science points toward AI drug discovery ambitions",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
-    },
-    {
-      "id": "content-item_2026-07-06_11_anthropics-claude-code_9c241fb4",
+      "id": "content-item_2026-07-08_11_tencentcloud-tencentdb-agent-memory_d046e10f",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "anthropics/claude-code",
-      "sourceUrl": "https://github.com/anthropics/claude-code"
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "sourceUrl": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
-      "id": "content-item_2026-07-06_12_hesreallyhim-awesome-claude-code_c7f7e9fb",
+      "id": "content-item_2026-07-08_12_kyutai-labs-pocket-tts_7bf176cb",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "hesreallyhim/awesome-claude-code",
-      "sourceUrl": "https://github.com/hesreallyhim/awesome-claude-code"
+      "title": "kyutai-labs/pocket-tts",
+      "sourceUrl": "https://github.com/kyutai-labs/pocket-tts"
     },
     {
-      "id": "content-item_2026-07-06_13_cheahjs-free-llm-api-resources_d24d5b1b",
+      "id": "content-item_2026-07-08_13_lessweb-deepcode-cli_26f383cb",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "cheahjs/free-llm-api-resources",
-      "sourceUrl": "https://github.com/cheahjs/free-llm-api-resources"
+      "title": "lessweb/deepcode-cli",
+      "sourceUrl": "https://github.com/lessweb/deepcode-cli"
     }
   ]
 }

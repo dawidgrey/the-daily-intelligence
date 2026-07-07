@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-08_12_kyutai-labs-pocket-tts_7bf176cb",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/kyutai-labs/pocket-tts",
+  "canonicalUrl": "https://github.com/kyutai-labs/pocket-tts",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-07T20:04:33Z",
+  "createdAtUtc": "2026-07-07T20:04:33Z",
+  "updatedAtUtc": "2026-07-07T20:04:33Z",
+  "title": "kyutai-labs/pocket-tts",
+  "friendlyTitle": "A small text-to-speech tool that can run on a CPU",
+  "summary": "Kyutai Labs’ pocket-tts is a Python project for text-to-speech designed to fit on a CPU. The repository describes it as a TTS that fits in your pocket, and GitHub currently shows about 6k stars and 633 forks.",
+  "friendlySummary": "pocket-tts is an open-source project for turning text into speech without needing a large cloud setup.",
+  "whyItMatters": "Developers can use it to explore lightweight speech generation for local assistants, accessibility tools, offline voice interfaces, and privacy-sensitive applications that should not depend on cloud TTS calls.",
+  "friendlyWhyItMatters": "Use it to experiment with local voice features, such as reading text aloud or adding speech to an offline assistant.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-08"
+  }
+}

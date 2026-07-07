@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-08",
+  "slug": "2026-07-08",
+  "status": "published",
+  "publicationDateUtc": "2026-07-07T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move into everyday work while AI costs and safeguards get real",
+  "friendlyHeader": "AI is becoming part of normal work, with more rules and safety checks",
+  "summary": "Today’s issue tracks AI leaving the demo stage and entering operating systems for work, health, cloud infrastructure, moderation, security, and personal protection. The useful pattern is not bigger claims, but better control: agents that keep working across devices, cheaper model deployment paths, clearer rules for accuracy, and tools that help people handle practical risks.",
+  "friendlySummary": "Today’s stories show AI becoming more useful in everyday jobs, healthcare, coding, cloud work, and online safety. The main idea is simple: AI can help more when it is cheaper, easier to control, and safer to trust.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-08_01_claude-cowork-comes-to-web-and-mobile-with-cloud-running-tasks_00045688",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_02_cisa-is-reportedly-using-anthropic-mythos-to-audit-u-s-government-code_691eba67",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_03_the-ftc-warns-against-ai-systems-that-suppress-accurate-information_2f695520",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_04_microsoft-puts-hugging-face-models-on-foundry-managed-compute_024a3808",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_05_hugging-face-and-skypilot-add-zero-egress-storage-for-portable-ai-worklo_b29a2139",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_06_openai-says-australian-payments-plus-cut-technical-investigations-from-h_60d1b567",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_07_nhs-england-accelerates-ai-triage-and-ambient-notetaking-rollout_fa2d41c6",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_08_discord-says-an-ai-moderation-bug-wrongly-banned-users-over-harmless-ima_d4bb1346",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_09_savi-launches-a-consumer-app-aimed-at-realistic-ai-scams_16589613",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_10_microsoft-reportedly-leans-more-on-in-house-models-to-cut-ai-costs_f9e4ca71",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_11_tencentcloud-tencentdb-agent-memory_d046e10f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_12_kyutai-labs-pocket-tts_7bf176cb",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-08_13_lessweb-deepcode-cli_26f383cb",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-07T20:04:33Z",
+  "updatedAtUtc": "2026-07-07T20:04:33Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-08.json",
+    "itemCount": 13
+  }
+}

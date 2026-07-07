@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-08_08_discord-says-an-ai-moderation-bug-wrongly-banned-users-over-harmless-ima_d4bb1346",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-07T20:04:33Z",
+  "createdAtUtc": "2026-07-07T20:04:33Z",
+  "updatedAtUtc": "2026-07-07T20:04:33Z",
+  "title": "Discord says an AI moderation bug wrongly banned users over harmless images",
+  "friendlyTitle": "Discord’s AI moderation wrongly banned some users",
+  "summary": "TechCrunch reports that Discord acknowledged an AI moderation bug that wrongly banned more than 8,000 users after harmless images were flagged as harmful content. The affected images reportedly included spreadsheets, chessboards, game textures, and transparent backgrounds.",
+  "friendlySummary": "Discord admitted that an AI moderation bug banned thousands of users after harmless images were mistaken for harmful content.",
+  "whyItMatters": "AI moderation errors can lock people out of communities, workspaces, creator businesses, and support channels. Platforms need appeal paths, monitoring, and human review because false positives are not just technical glitches; they are access and trust failures.",
+  "friendlyWhyItMatters": "When AI moderation makes mistakes, people can lose access to important communities. Platforms need quick appeals and human checks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-08"
+  }
+}

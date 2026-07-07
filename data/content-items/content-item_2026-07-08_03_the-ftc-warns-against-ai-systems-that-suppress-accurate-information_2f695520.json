@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-08_03_the-ftc-warns-against-ai-systems-that-suppress-accurate-information_2f695520",
+  "sourceKind": "regulation",
+  "sourceName": "Federal Register",
+  "sourceUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+  "canonicalUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-07T20:04:33Z",
+  "createdAtUtc": "2026-07-07T20:04:33Z",
+  "updatedAtUtc": "2026-07-07T20:04:33Z",
+  "title": "The FTC warns against AI systems that suppress accurate information",
+  "friendlyTitle": "The FTC says AI tools should not hide accurate information",
+  "summary": "The Federal Trade Commission published a policy statement on the suppression of accuracy in AI systems, with public comments open until July 31. The notice frames misleading design, omitted information, and claims that undercut accurate user understanding as potential consumer-protection concerns.",
+  "friendlySummary": "The U.S. Federal Trade Commission published a policy statement about AI systems that may mislead people or make accurate information harder to see.",
+  "whyItMatters": "AI products increasingly shape what people see, buy, believe, and decide at work. Clearer expectations around accuracy and disclosures will matter for chatbot interfaces, search summaries, recommendation tools, ad systems, and enterprise assistants.",
+  "friendlyWhyItMatters": "When people use AI to make decisions, they need clear and honest answers. This could affect how companies design AI search, chat, ads, and recommendation tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-08"
+  }
+}

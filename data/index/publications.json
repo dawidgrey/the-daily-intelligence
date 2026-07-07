@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-06T20:10:53Z",
+  "generatedAtUtc": "2026-07-07T20:04:33Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-08",
+      "slug": "2026-07-08",
+      "status": "published",
+      "publicationDateUtc": "2026-07-07T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move into everyday work while AI costs and safeguards get real",
+      "friendlyHeader": "AI is becoming part of normal work, with more rules and safety checks",
+      "summary": "Today’s issue tracks AI leaving the demo stage and entering operating systems for work, health, cloud infrastructure, moderation, security, and personal protection. The useful pattern is not bigger claims, but better control: agents that keep working across devices, cheaper model deployment paths, clearer rules for accuracy, and tools that help people handle practical risks.",
+      "friendlySummary": "Today’s stories show AI becoming more useful in everyday jobs, healthcare, coding, cloud work, and online safety. The main idea is simple: AI can help more when it is cheaper, easier to control, and safer to trust.",
+      "itemCount": 13,
+      "href": "issues/2026-07-08.html",
+      "dataUrl": "data/daily-publications/2026-07-08.json"
+    },
     {
       "id": "daily-publication_2026-07-07",
       "slug": "2026-07-07",

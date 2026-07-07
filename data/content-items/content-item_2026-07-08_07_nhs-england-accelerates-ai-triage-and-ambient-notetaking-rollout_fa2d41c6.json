@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-08_07_nhs-england-accelerates-ai-triage-and-ambient-notetaking-rollout_fa2d41c6",
+  "sourceKind": "product",
+  "sourceName": "NHS England",
+  "sourceUrl": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
+  "canonicalUrl": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-07T20:04:33Z",
+  "createdAtUtc": "2026-07-07T20:04:33Z",
+  "updatedAtUtc": "2026-07-07T20:04:33Z",
+  "title": "NHS England accelerates AI triage and ambient notetaking rollout",
+  "friendlyTitle": "NHS England is rolling out AI triage and AI note-taking",
+  "summary": "NHS England says it is accelerating AI tools across the health service, including an AI triage tool in the NHS App and wider ambient voice tools that generate clinical notes. The triage feature is expected to reach more than 200,000 patients within 12 months and all NHS App users by April 2028.",
+  "friendlySummary": "NHS England plans to use AI in the NHS App to guide patients to the right care and to help doctors and nurses create notes after appointments.",
+  "whyItMatters": "Healthcare AI is moving into patient entry points and clinician admin, two places where small efficiency gains can affect waiting times and staff workload. The rollout also underscores the need for responsible deployment, patient choice, and clinician oversight.",
+  "friendlyWhyItMatters": "This could reduce waiting and admin time. It also needs careful safeguards because healthcare decisions affect real people.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-08"
+  }
+}
