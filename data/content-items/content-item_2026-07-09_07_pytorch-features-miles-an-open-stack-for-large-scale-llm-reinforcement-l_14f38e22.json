@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_07_pytorch-features-miles-an-open-stack-for-large-scale-llm-reinforcement-l_14f38e22",
+  "sourceKind": "research",
+  "sourceName": "PyTorch Blog",
+  "sourceUrl": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/",
+  "canonicalUrl": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "PyTorch features Miles, an open stack for large-scale LLM reinforcement learning",
+  "friendlyTitle": "Miles helps teams train large AI models with reinforcement learning",
+  "summary": "The PyTorch blog detailed Miles, RadixArk’s open-source framework for large-scale LLM reinforcement-learning post-training. Miles combines SGLang rollouts, Megatron-LM training, Ray orchestration, PyTorch extensibility, low-precision recipes, MoE alignment, observability, and fault tolerance.",
+  "friendlySummary": "Miles is an open framework that connects several major AI infrastructure tools to make large-scale LLM post-training easier to run and customize.",
+  "whyItMatters": "RL post-training is now a distributed-systems problem as much as a model-training problem. Open, composable stacks like Miles can help research and infrastructure teams reproduce advanced post-training workflows instead of relying only on closed lab methods.",
+  "friendlyWhyItMatters": "This helps more teams experiment with the methods behind modern reasoning and agent models, instead of needing a giant private lab setup.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

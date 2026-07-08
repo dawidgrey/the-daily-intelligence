@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_05_nvidia-argues-open-synthetic-data-is-becoming-core-infrastructure-for-ag_5535aeb9",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "NVIDIA argues open synthetic data is becoming core infrastructure for agents",
+  "friendlyTitle": "NVIDIA says better agents need better open data",
+  "summary": "NVIDIA published a Hugging Face post on why agentic AI needs open data, including software-engineering traces, tool-use failures, retrieval patterns, safety data, workflow execution, and user simulation. The post highlights Nemotron data releases, synthetic data, and an interactive Prompt Atlas for exploring post-training samples.",
+  "friendlySummary": "NVIDIA explained why AI agents need data about tool use, mistakes, workflows, and safety — not just bigger models.",
+  "whyItMatters": "Better agents need more than model weights: they need inspectable examples of tool use, failure recovery, and workflow behavior. Open synthetic data can help teams build and audit agents without exposing proprietary workflows or private customer data.",
+  "friendlyWhyItMatters": "This matters because companies want useful AI without leaking private information. Synthetic open data can help models improve while keeping secrets safer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

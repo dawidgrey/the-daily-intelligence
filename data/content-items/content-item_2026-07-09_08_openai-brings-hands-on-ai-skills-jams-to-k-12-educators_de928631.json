@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_08_openai-brings-hands-on-ai-skills-jams-to-k-12-educators_de928631",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
+  "canonicalUrl": "https://openai.com/index/k-12-educators-practical-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "OpenAI brings hands-on AI Skills Jams to K–12 educators",
+  "friendlyTitle": "OpenAI is running AI workshops for teachers",
+  "summary": "OpenAI Academy and the Walton Family Foundation are hosting hands-on AI Skills Jams for more than 1,600 K–12 educators and school leaders across U.S. cities. The workshops focus on practical uses such as lesson planning, parent communication, administrative tasks, and responsible classroom adoption.",
+  "friendlySummary": "OpenAI and the Walton Family Foundation are hosting training sessions to help K–12 teachers and school leaders use AI for planning, communication, and admin work.",
+  "whyItMatters": "Education AI adoption depends less on abstract policy and more on practical confidence. Teachers need trusted spaces to test workflows, understand limits, and decide where AI saves time without weakening judgment or student support.",
+  "friendlyWhyItMatters": "Teachers are busy. Practical training can help them save time while still using AI carefully and responsibly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

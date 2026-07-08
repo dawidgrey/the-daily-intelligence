@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_04_xai-launches-grok-4-5-for-coding-agents-and-knowledge-work_6258cf13",
+  "sourceKind": "product",
+  "sourceName": "xAI",
+  "sourceUrl": "https://x.ai/news/grok-4-5",
+  "canonicalUrl": "https://x.ai/news/grok-4-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "xAI launches Grok 4.5 for coding, agents, and knowledge work",
+  "friendlyTitle": "xAI released a new Grok model for coding and agent tasks",
+  "summary": "xAI announced Grok 4.5, describing it as a frontier model aimed at coding, agentic tasks, and knowledge work. Search results and xAI documentation point to availability through xAI’s developer stack, with strong attention from builders testing model price-performance for coding agents.",
+  "friendlySummary": "xAI launched Grok 4.5, a model aimed at coding, agent work, and knowledge tasks.",
+  "whyItMatters": "The model race is increasingly about practical economics, not only benchmark trophies. If Grok 4.5 proves competitive on coding and agent workflows at lower operating cost, teams may get more viable choices for everyday automation and software work.",
+  "friendlyWhyItMatters": "More strong models can mean more choice and possibly lower costs for people building AI tools and coding assistants.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

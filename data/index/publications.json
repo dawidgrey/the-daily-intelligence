@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-07T20:04:33Z",
+  "generatedAtUtc": "2026-07-08T20:03:49Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-09",
+      "slug": "2026-07-09",
+      "status": "published",
+      "publicationDateUtc": "2026-07-08T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Voice, agents, robotics, and open AI infrastructure move closer to daily work",
+      "friendlyHeader": "AI tools are getting more useful for real everyday tasks",
+      "summary": "Today’s issue follows AI systems becoming more useful in the places people actually work: live voice, managed agents, robotics, classroom planning, consumer media tools, enterprise-owned agent stacks, and the data pipelines behind them. The practical theme is control — better interfaces, more inspectable data, cheaper adaptation, and tools that keep humans in the loop.",
+      "friendlySummary": "Today’s stories show AI becoming easier to talk to, easier to build into work, and more useful in robots, schools, photos, and business systems. The big idea: AI helps most when people can understand it, guide it, and use it safely.",
+      "itemCount": 13,
+      "href": "issues/2026-07-09.html",
+      "dataUrl": "data/daily-publications/2026-07-09.json"
+    },
     {
       "id": "daily-publication_2026-07-08",
       "slug": "2026-07-08",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_02_google-adds-background-execution-and-remote-mcp-support-to-gemini-manage_73fd78c4",
+  "sourceKind": "product",
+  "sourceName": "Google Blog",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "Google adds background execution and remote MCP support to Gemini managed agents",
+  "friendlyTitle": "Gemini agents can now keep working in the background",
+  "summary": "Google expanded Managed Agents in the Gemini API with background execution, remote MCP server integration, custom function calling, and credential refresh across interactions. Developers can now run longer agent tasks asynchronously and connect cloud-sandboxed Gemini agents to remote tools and private systems through MCP.",
+  "friendlySummary": "Google updated Gemini’s managed agents so they can run longer tasks, reconnect later, and use remote tools through MCP.",
+  "whyItMatters": "Agent infrastructure is shifting from demos to production plumbing. Background jobs, tool connections, and credential refresh make it more realistic to build agents that investigate issues, work across internal systems, and finish tasks without fragile always-open client sessions.",
+  "friendlyWhyItMatters": "This helps developers build agents that do real work, like checking logs or researching a problem, without breaking when a browser tab or connection closes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-09",
+  "slug": "2026-07-09",
+  "status": "published",
+  "publicationDateUtc": "2026-07-08T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Voice, agents, robotics, and open AI infrastructure move closer to daily work",
+  "friendlyHeader": "AI tools are getting more useful for real everyday tasks",
+  "summary": "Today’s issue follows AI systems becoming more useful in the places people actually work: live voice, managed agents, robotics, classroom planning, consumer media tools, enterprise-owned agent stacks, and the data pipelines behind them. The practical theme is control — better interfaces, more inspectable data, cheaper adaptation, and tools that keep humans in the loop.",
+  "friendlySummary": "Today’s stories show AI becoming easier to talk to, easier to build into work, and more useful in robots, schools, photos, and business systems. The big idea: AI helps most when people can understand it, guide it, and use it safely.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-09_01_openai-launches-gpt-live-for-more-natural-chatgpt-voice-conversations_354c8d3f",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_02_google-adds-background-execution-and-remote-mcp-support-to-gemini-manage_73fd78c4",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_03_mistral-introduces-robostral-navigate-an-8b-robotics-navigation-model_818d44ef",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_04_xai-launches-grok-4-5-for-coding-agents-and-knowledge-work_6258cf13",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_05_nvidia-argues-open-synthetic-data-is-becoming-core-infrastructure-for-ag_5535aeb9",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_06_hugging-face-ships-lerobot-v0-6-0-with-world-models-reward-apis-and-roll_0a1d2bd6",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_07_pytorch-features-miles-an-open-stack-for-large-scale-llm-reinforcement-l_14f38e22",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_08_openai-brings-hands-on-ai-skills-jams-to-k-12-educators_de928631",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_09_google-photos-adds-ai-video-remix-for-quick-consumer-video-edits_01f53036",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_10_prime-intellect-raises-130m-to-help-enterprises-build-their-own-ai-agent_9e797c1f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_11_microsoft-skillopt_046c7d18",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_12_jingyaogong-minimind_1555ed6b",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-09_13_anthropics-claude-cookbooks_d98aa6f2",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-09.json",
+    "itemCount": 13
+  }
+}

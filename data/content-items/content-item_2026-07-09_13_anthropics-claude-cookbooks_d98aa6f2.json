@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_13_anthropics-claude-cookbooks_d98aa6f2",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/anthropics/claude-cookbooks",
+  "canonicalUrl": "https://github.com/anthropics/claude-cookbooks",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "anthropics/claude-cookbooks",
+  "friendlyTitle": "Claude Cookbooks gives ready-made Claude examples",
+  "summary": "Claude Cookbooks is Anthropic’s public collection of notebooks and recipes for using Claude across capabilities, agent SDK patterns, evaluation, RAG, classification, and workflow design. The repository has tens of thousands of stars and recent activity around multi-agent coordinator cost patterns.",
+  "friendlySummary": "Anthropic’s Claude Cookbooks repo collects notebooks and recipes for building with Claude.",
+  "whyItMatters": "Developers can adapt the notebooks as starting points for Claude-powered apps, evaluations, agent workflows, and production patterns. It is especially handy when you want working examples instead of only API reference pages.",
+  "friendlyWhyItMatters": "Use it when you want examples you can copy, study, and adapt for your own Claude projects.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

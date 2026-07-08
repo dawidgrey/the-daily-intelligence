@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-07T20:04:33Z",
+  "generatedAtUtc": "2026-07-08T20:03:49Z",
   "items": [
     {
-      "id": "content-item_2026-07-08_01_claude-cowork-comes-to-web-and-mobile-with-cloud-running-tasks_00045688",
+      "id": "content-item_2026-07-09_01_openai-launches-gpt-live-for-more-natural-chatgpt-voice-conversations_354c8d3f",
       "sourceKind": "product",
-      "sourceName": "Claude by Anthropic",
-      "title": "Claude Cowork comes to web and mobile with cloud-running tasks",
-      "sourceUrl": "https://claude.com/blog/cowork-web-mobile"
+      "sourceName": "OpenAI",
+      "title": "OpenAI launches GPT-Live for more natural ChatGPT Voice conversations",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live/"
     },
     {
-      "id": "content-item_2026-07-08_02_cisa-is-reportedly-using-anthropic-mythos-to-audit-u-s-government-code_691eba67",
+      "id": "content-item_2026-07-09_02_google-adds-background-execution-and-remote-mcp-support-to-gemini-manage_73fd78c4",
+      "sourceKind": "product",
+      "sourceName": "Google Blog",
+      "title": "Google adds background execution and remote MCP support to Gemini managed agents",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+    },
+    {
+      "id": "content-item_2026-07-09_03_mistral-introduces-robostral-navigate-an-8b-robotics-navigation-model_818d44ef",
+      "sourceKind": "research",
+      "sourceName": "Mistral AI",
+      "title": "Mistral introduces Robostral Navigate, an 8B robotics navigation model",
+      "sourceUrl": "https://mistral.ai/news/robostral-navigate/"
+    },
+    {
+      "id": "content-item_2026-07-09_04_xai-launches-grok-4-5-for-coding-agents-and-knowledge-work_6258cf13",
+      "sourceKind": "product",
+      "sourceName": "xAI",
+      "title": "xAI launches Grok 4.5 for coding, agents, and knowledge work",
+      "sourceUrl": "https://x.ai/news/grok-4-5"
+    },
+    {
+      "id": "content-item_2026-07-09_05_nvidia-argues-open-synthetic-data-is-becoming-core-infrastructure-for-ag_5535aeb9",
       "sourceKind": "article",
-      "sourceName": "Reuters via WHBL",
-      "title": "CISA is reportedly using Anthropic Mythos to audit U.S. government code",
-      "sourceUrl": "https://whbl.com/2026/07/06/exclusive-us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code-sources-say/"
+      "sourceName": "Hugging Face Blog",
+      "title": "NVIDIA argues open synthetic data is becoming core infrastructure for agents",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents"
     },
     {
-      "id": "content-item_2026-07-08_03_the-ftc-warns-against-ai-systems-that-suppress-accurate-information_2f695520",
-      "sourceKind": "regulation",
-      "sourceName": "Federal Register",
-      "title": "The FTC warns against AI systems that suppress accurate information",
-      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems"
-    },
-    {
-      "id": "content-item_2026-07-08_04_microsoft-puts-hugging-face-models-on-foundry-managed-compute_024a3808",
+      "id": "content-item_2026-07-09_06_hugging-face-ships-lerobot-v0-6-0-with-world-models-reward-apis-and-roll_0a1d2bd6",
       "sourceKind": "product",
       "sourceName": "Hugging Face Blog",
-      "title": "Microsoft puts Hugging Face models on Foundry Managed Compute",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+      "title": "Hugging Face ships LeRobot v0.6.0 with world models, reward APIs, and rollout tooling",
+      "sourceUrl": "https://huggingface.co/blog/lerobot-release-v060"
     },
     {
-      "id": "content-item_2026-07-08_05_hugging-face-and-skypilot-add-zero-egress-storage-for-portable-ai-worklo_b29a2139",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face and SkyPilot add zero-egress storage for portable AI workloads",
-      "sourceUrl": "https://huggingface.co/blog/skypilot-hf-storage"
+      "id": "content-item_2026-07-09_07_pytorch-features-miles-an-open-stack-for-large-scale-llm-reinforcement-l_14f38e22",
+      "sourceKind": "research",
+      "sourceName": "PyTorch Blog",
+      "title": "PyTorch features Miles, an open stack for large-scale LLM reinforcement learning",
+      "sourceUrl": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/"
     },
     {
-      "id": "content-item_2026-07-08_06_openai-says-australian-payments-plus-cut-technical-investigations-from-h_60d1b567",
+      "id": "content-item_2026-07-09_08_openai-brings-hands-on-ai-skills-jams-to-k-12-educators_de928631",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI says Australian Payments Plus cut technical investigations from hours to minutes",
-      "sourceUrl": "https://openai.com/index/australian-payments-plus"
+      "title": "OpenAI brings hands-on AI Skills Jams to K–12 educators",
+      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills"
     },
     {
-      "id": "content-item_2026-07-08_07_nhs-england-accelerates-ai-triage-and-ambient-notetaking-rollout_fa2d41c6",
-      "sourceKind": "product",
-      "sourceName": "NHS England",
-      "title": "NHS England accelerates AI triage and ambient notetaking rollout",
-      "sourceUrl": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
-    },
-    {
-      "id": "content-item_2026-07-08_08_discord-says-an-ai-moderation-bug-wrongly-banned-users-over-harmless-ima_d4bb1346",
+      "id": "content-item_2026-07-09_09_google-photos-adds-ai-video-remix-for-quick-consumer-video-edits_01f53036",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Discord says an AI moderation bug wrongly banned users over harmless images",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+      "title": "Google Photos adds AI Video Remix for quick consumer video edits",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
     },
     {
-      "id": "content-item_2026-07-08_09_savi-launches-a-consumer-app-aimed-at-realistic-ai-scams_16589613",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Savi launches a consumer app aimed at realistic AI scams",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
-    },
-    {
-      "id": "content-item_2026-07-08_10_microsoft-reportedly-leans-more-on-in-house-models-to-cut-ai-costs_f9e4ca71",
+      "id": "content-item_2026-07-09_10_prime-intellect-raises-130m-to-help-enterprises-build-their-own-ai-agent_9e797c1f",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Microsoft reportedly leans more on in-house models to cut AI costs",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models"
+      "title": "Prime Intellect raises $130M to help enterprises build their own AI agents",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
     },
     {
-      "id": "content-item_2026-07-08_11_tencentcloud-tencentdb-agent-memory_d046e10f",
+      "id": "content-item_2026-07-09_11_microsoft-skillopt_046c7d18",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "TencentCloud/TencentDB-Agent-Memory",
-      "sourceUrl": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      "title": "microsoft/SkillOpt",
+      "sourceUrl": "https://github.com/microsoft/SkillOpt"
     },
     {
-      "id": "content-item_2026-07-08_12_kyutai-labs-pocket-tts_7bf176cb",
+      "id": "content-item_2026-07-09_12_jingyaogong-minimind_1555ed6b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "kyutai-labs/pocket-tts",
-      "sourceUrl": "https://github.com/kyutai-labs/pocket-tts"
+      "title": "jingyaogong/minimind",
+      "sourceUrl": "https://github.com/jingyaogong/minimind"
     },
     {
-      "id": "content-item_2026-07-08_13_lessweb-deepcode-cli_26f383cb",
+      "id": "content-item_2026-07-09_13_anthropics-claude-cookbooks_d98aa6f2",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "lessweb/deepcode-cli",
-      "sourceUrl": "https://github.com/lessweb/deepcode-cli"
+      "title": "anthropics/claude-cookbooks",
+      "sourceUrl": "https://github.com/anthropics/claude-cookbooks"
     }
   ]
 }

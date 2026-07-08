@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_09_google-photos-adds-ai-video-remix-for-quick-consumer-video-edits_01f53036",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "Google Photos adds AI Video Remix for quick consumer video edits",
+  "friendlyTitle": "Google Photos can now remix videos with AI",
+  "summary": "TechCrunch reports that Google Photos is rolling out an AI Video Remix feature powered by Gemini Omni. Eligible subscribers can relight videos, change backgrounds, or apply artistic styles from the Create tab in supported countries.",
+  "friendlySummary": "Google Photos is adding a Video Remix tool that can brighten clips, change backgrounds, or apply art styles with a few taps.",
+  "whyItMatters": "Generative media is moving into default consumer apps, not just specialist editing suites. That lowers the skill barrier for personal and small-business video work while making provenance, taste, and disclosure habits more important.",
+  "friendlyWhyItMatters": "Everyday video editing may become much easier. People should still think carefully about when edited media needs to be labelled or explained.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

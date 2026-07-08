@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_03_mistral-introduces-robostral-navigate-an-8b-robotics-navigation-model_818d44ef",
+  "sourceKind": "research",
+  "sourceName": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/robostral-navigate/",
+  "canonicalUrl": "https://mistral.ai/news/robostral-navigate/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "Mistral introduces Robostral Navigate, an 8B robotics navigation model",
+  "friendlyTitle": "Mistral made a robot navigation model that uses one normal camera",
+  "summary": "Mistral AI released Robostral Navigate, an 8B model for robot navigation that uses a single RGB camera and plain-language instructions. Mistral says it reaches 76.6% success on the unseen R2R-CE benchmark and generalizes across robot types without LiDAR or depth sensors.",
+  "friendlySummary": "Mistral’s Robostral Navigate lets robots follow language instructions and move through places using only one regular camera.",
+  "whyItMatters": "Robotics progress matters when it reduces hardware complexity. If single-camera navigation becomes reliable, useful robots for offices, logistics, hospitality, delivery, and homes could become cheaper to deploy and easier to adapt to messy real spaces.",
+  "friendlyWhyItMatters": "Robots may become cheaper and simpler if they do not need many special sensors. That could make practical service robots more realistic.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}

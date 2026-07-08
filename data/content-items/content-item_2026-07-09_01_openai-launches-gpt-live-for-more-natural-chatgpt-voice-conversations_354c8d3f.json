@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-09_01_openai-launches-gpt-live-for-more-natural-chatgpt-voice-conversations_354c8d3f",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-live/",
+  "canonicalUrl": "https://openai.com/index/introducing-gpt-live/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-08T20:03:49Z",
+  "createdAtUtc": "2026-07-08T20:03:49Z",
+  "updatedAtUtc": "2026-07-08T20:03:49Z",
+  "title": "OpenAI launches GPT-Live for more natural ChatGPT Voice conversations",
+  "friendlyTitle": "ChatGPT Voice should now feel more like a real conversation",
+  "summary": "OpenAI introduced GPT-Live, a new generation of voice models that can listen and speak at the same time, respond more naturally to interruptions, and delegate harder questions to frontier models in the background. GPT-Live-1 is rolling out to paid ChatGPT users, while GPT-Live-1 mini will power voice for free users, with API access planned later.",
+  "friendlySummary": "OpenAI launched GPT-Live, a voice AI that can listen while speaking, handle interruptions better, and pass hard questions to a stronger model in the background.",
+  "whyItMatters": "Voice is becoming a serious everyday interface for AI rather than a novelty. More natural turn-taking makes AI more useful for commuting, language practice, accessibility, live translation, tutoring, and hands-free work — provided safeguards around emotional reliance and impersonation keep improving.",
+  "friendlyWhyItMatters": "This could make voice AI easier to use while walking, driving, learning a language, or doing hands-free work. It also needs care because voice can feel very personal.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-09"
+  }
+}
