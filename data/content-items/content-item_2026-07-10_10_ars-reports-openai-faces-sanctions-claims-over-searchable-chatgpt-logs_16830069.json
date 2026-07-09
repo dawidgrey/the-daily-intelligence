@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_10_ars-reports-openai-faces-sanctions-claims-over-searchable-chatgpt-logs_16830069",
+  "sourceKind": "article",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+  "canonicalUrl": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Ars reports OpenAI faces sanctions claims over searchable ChatGPT logs",
+  "friendlyTitle": "OpenAI faces a new fight over ChatGPT logs",
+  "summary": "Ars Technica reports that news organizations led by The New York Times are seeking sanctions in their copyright case against OpenAI, alleging the company misled the court about its ability to search large samples of ChatGPT logs. OpenAI disputes the accusations and frames the fight as partly about protecting user privacy.",
+  "friendlySummary": "News publishers say OpenAI hid how searchable some ChatGPT logs were; OpenAI denies the claims and points to user privacy.",
+  "whyItMatters": "The case highlights a central tension in AI services: logs can be evidence, product-improvement data, privacy risk, and copyright battleground all at once. Users and businesses should assume AI conversations may become legally sensitive records depending on retention and litigation rules.",
+  "friendlyWhyItMatters": "This is a reminder to treat AI chats like records that may matter for privacy, legal, or business reasons.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

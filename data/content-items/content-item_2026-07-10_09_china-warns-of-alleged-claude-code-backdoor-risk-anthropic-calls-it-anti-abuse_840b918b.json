@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_09_china-warns-of-alleged-claude-code-backdoor-risk-anthropic-calls-it-anti-abuse_840b918b",
+  "sourceKind": "article",
+  "sourceName": "Channel News Asia",
+  "sourceUrl": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
+  "canonicalUrl": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "China warns of alleged Claude Code backdoor risk; Anthropic calls it anti-abuse",
+  "friendlyTitle": "Claude Code faces a security warning in China",
+  "summary": "Channel News Asia reports that China’s National Vulnerability Database warned of a “security backdoor” risk in versions of Anthropic’s Claude Code, alleging it could transmit sensitive information to Anthropic servers without consent. Anthropic described the mechanism as an anti-abuse measure tied to prohibited access from restricted regions.",
+  "friendlySummary": "Chinese authorities warned about a possible Claude Code security risk, while Anthropic says the feature is meant to prevent misuse.",
+  "whyItMatters": "AI coding agents are powerful because they sit close to source code, terminals, and developer machines. The dispute is a reminder that enterprises should inspect telemetry, policy controls, and regional compliance before approving coding agents broadly.",
+  "friendlyWhyItMatters": "Companies using AI coding tools should understand what data the tools send and what controls are available.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

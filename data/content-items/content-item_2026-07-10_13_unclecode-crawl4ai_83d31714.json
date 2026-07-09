@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_13_unclecode-crawl4ai_83d31714",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/unclecode/crawl4ai",
+  "canonicalUrl": "https://github.com/unclecode/crawl4ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "unclecode/crawl4ai",
+  "friendlyTitle": "A web crawler made for AI workflows",
+  "summary": "Crawl4AI is an open-source crawler and scraper designed to produce LLM-friendly web data, with support for crawling, content processing, extraction strategies, screenshots, browser sessions, and deep crawl modes.",
+  "friendlySummary": "Crawl4AI helps developers collect and clean web pages so language models can use them more easily.",
+  "whyItMatters": "Developers building RAG systems, research agents, or monitoring tools can use it to collect and transform web pages into cleaner inputs for language models. Its breadth makes it useful for moving from one-off scraping to repeatable data collection.",
+  "friendlyWhyItMatters": "It is useful for building research agents, RAG apps, and tools that need reliable web data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-10"
+  },
+  "howItsUseful": "Developers building RAG systems, research agents, or monitoring tools can use it to collect and transform web pages into cleaner inputs for language models. Its breadth makes it useful for moving from one-off scraping to repeatable data collection.",
+  "friendlyHowItsUseful": "It is useful for building research agents, RAG apps, and tools that need reliable web data."
+}

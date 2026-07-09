@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-08T20:03:49Z",
+  "generatedAtUtc": "2026-07-09T20:04:11Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-10",
+      "slug": "2026-07-10",
+      "status": "published",
+      "publicationDateUtc": "2026-07-09T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from demos into workplaces, web publishing, and governance",
+      "friendlyHeader": "AI is becoming easier to use at work and on the web",
+      "summary": "Today’s issue focuses on practical AI shifts: ChatGPT can now publish lightweight sites, Cloudflare and OpenAI are testing fresher AI search indexing, Meta is pricing a coding-focused model, and new benchmarks and governance moves show how quickly agent workflows are becoming normal infrastructure.",
+      "friendlySummary": "Today’s issue is about useful AI changes: tools that build small websites, better AI search, new coding models, and clearer rules for safer AI use.",
+      "itemCount": 13,
+      "href": "issues/2026-07-10.html",
+      "dataUrl": "data/daily-publications/2026-07-10.json"
+    },
     {
       "id": "daily-publication_2026-07-09",
       "slug": "2026-07-09",

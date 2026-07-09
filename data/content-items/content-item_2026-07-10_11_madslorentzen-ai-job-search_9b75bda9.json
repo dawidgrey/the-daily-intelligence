@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_11_madslorentzen-ai-job-search_9b75bda9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/MadsLorentzen/ai-job-search",
+  "canonicalUrl": "https://github.com/MadsLorentzen/ai-job-search",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "MadsLorentzen/ai-job-search",
+  "friendlyTitle": "A job-search helper built around Claude Code",
+  "summary": "A popular Claude Code-based job application framework that helps evaluate job listings, tailor CVs, draft cover letters, and prepare interview material from a personal profile.",
+  "friendlySummary": "This repo helps with job applications by reviewing roles, tailoring resumes, writing cover letters, and preparing for interviews.",
+  "whyItMatters": "Job seekers can fork it and adapt the workflow for a more systematic application process. It is also a concrete example of turning a repetitive personal workflow into an agent-guided pipeline.",
+  "friendlyWhyItMatters": "It can help people organize job hunting and shows how AI can automate repeated personal admin work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-10"
+  },
+  "howItsUseful": "Job seekers can fork it and adapt the workflow for a more systematic application process. It is also a concrete example of turning a repetitive personal workflow into an agent-guided pipeline.",
+  "friendlyHowItsUseful": "It can help people organize job hunting and shows how AI can automate repeated personal admin work."
+}

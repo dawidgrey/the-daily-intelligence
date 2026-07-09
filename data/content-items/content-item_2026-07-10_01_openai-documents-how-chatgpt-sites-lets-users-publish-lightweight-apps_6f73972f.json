@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_01_openai-documents-how-chatgpt-sites-lets-users-publish-lightweight-apps_6f73972f",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Help Center",
+  "sourceUrl": "https://help.openai.com/en/articles/20001339-creating-and-managing-chatgpt-sites",
+  "canonicalUrl": "https://help.openai.com/en/articles/20001339-creating-and-managing-chatgpt-sites",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "OpenAI documents how ChatGPT Sites lets users publish lightweight apps",
+  "friendlyTitle": "ChatGPT can now help publish small websites and apps",
+  "summary": "OpenAI’s help documentation describes ChatGPT Sites, a public beta for creating, previewing, publishing, and managing interactive websites and lightweight apps from ChatGPT Work or Codex. The rollout starts with paid plans, includes workspace controls, and supports use cases such as dashboards, project trackers, prototypes, internal portals, and reports.",
+  "friendlySummary": "OpenAI explains a new ChatGPT Sites feature for making and sharing simple websites, dashboards, trackers, and prototypes.",
+  "whyItMatters": "This turns everyday prompting into a small-app publishing workflow, reducing the distance between an idea, a working prototype, and something a team can share. The admin controls and availability limits are worth checking before teams rely on it for public or internal tools.",
+  "friendlyWhyItMatters": "This could help people turn ideas into working web pages faster, but teams should still check access, limits, and privacy settings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

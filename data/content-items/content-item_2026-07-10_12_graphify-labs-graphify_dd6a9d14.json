@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_12_graphify-labs-graphify_dd6a9d14",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/Graphify-Labs/graphify",
+  "canonicalUrl": "https://github.com/Graphify-Labs/graphify",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Graphify-Labs/graphify",
+  "friendlyTitle": "A knowledge graph for AI coding assistants",
+  "summary": "Graphify turns codebases, SQL schemas, scripts, documents, papers, images, and videos into a queryable knowledge graph for AI coding assistants and developer tools.",
+  "friendlySummary": "Graphify maps code, databases, scripts, and documents into a graph that AI tools can query.",
+  "whyItMatters": "Teams can use it to give coding agents structured context across application code, infrastructure, and database schemas. That can reduce blind file reading and help agents answer architecture questions more directly.",
+  "friendlyWhyItMatters": "It can help AI coding tools understand a project faster and avoid opening lots of unnecessary files.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-10"
+  },
+  "howItsUseful": "Teams can use it to give coding agents structured context across application code, infrastructure, and database schemas. That can reduce blind file reading and help agents answer architecture questions more directly.",
+  "friendlyHowItsUseful": "It can help AI coding tools understand a project faster and avoid opening lots of unnecessary files."
+}

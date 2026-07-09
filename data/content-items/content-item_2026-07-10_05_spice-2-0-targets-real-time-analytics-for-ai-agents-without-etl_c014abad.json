@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_05_spice-2-0-targets-real-time-analytics-for-ai-agents-without-etl_c014abad",
+  "sourceKind": "product",
+  "sourceName": "Spice AI",
+  "sourceUrl": "https://spice.ai/blog/spice-2-0-is-now-available",
+  "canonicalUrl": "https://spice.ai/blog/spice-2-0-is-now-available",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Spice 2.0 targets real-time analytics for AI agents without ETL",
+  "friendlyTitle": "Spice 2.0 helps AI agents use fresh business data",
+  "summary": "Spice AI released Spice 2.0, positioning it as a way to query operational data in near real time through sandboxed analytics replicas rather than traditional ETL pipelines. The release adds high-throughput CDC replication, distributed query via Apache Ballista, the Cayenne acceleration engine, Kubernetes operations, and enterprise policy controls.",
+  "friendlySummary": "Spice 2.0 lets teams query live operational data through safer analytics copies instead of slow data pipelines.",
+  "whyItMatters": "AI agents are only as useful as the data they can safely access. Tools like Spice can help teams give agents fresh operational context without hammering production databases or copying sensitive data into brittle pipelines.",
+  "friendlyWhyItMatters": "This can make workplace AI agents more useful because they can work with newer data while reducing risk to production systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

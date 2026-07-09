@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_08_illinois-signs-an-ai-safety-law-with-audits-and-incident-reporting_59a2edde",
+  "sourceKind": "regulation",
+  "sourceName": "State of Illinois",
+  "sourceUrl": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+  "canonicalUrl": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Illinois signs an AI safety law with audits and incident reporting",
+  "friendlyTitle": "Illinois creates new safety rules for powerful AI systems",
+  "summary": "Illinois Governor JB Pritzker signed SB 315, the Artificial Intelligence Safety Measures Act, creating state-level requirements for covered advanced AI developers to disclose safety practices, report significant incidents, maintain compliance processes, and undergo independent third-party safety audits. The law also includes confidential reporting channels and whistleblower protections.",
+  "friendlySummary": "Illinois passed a law requiring some large AI developers to share safety practices, report serious incidents, and get outside audits.",
+  "whyItMatters": "AI governance is becoming a patchwork of state and national rules that businesses will need to track. Audit and incident-reporting requirements may push frontier model developers toward more formal safety and compliance operations.",
+  "friendlyWhyItMatters": "This could affect how AI companies build, test, and explain their most powerful systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_03_meta-opens-a-public-preview-for-muse-spark-1-1-its-coding-focused-model_f2ee6f70",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Meta opens a public preview for Muse Spark 1.1, its coding-focused model",
+  "friendlyTitle": "Meta is entering the AI coding model race",
+  "summary": "CNBC reports that Meta is rolling out Muse Spark 1.1, described by AI chief Alexandr Wang as the company’s strongest model yet for agentic and coding work. The model is entering public preview through Meta’s developer portal, with paid access and a waitlist rather than broad third-party marketplace availability.",
+  "friendlySummary": "Meta is previewing Muse Spark 1.1, a model aimed at coding and agent work, through its own developer portal.",
+  "whyItMatters": "The AI coding market is moving from a few dominant tools toward a pricing and platform contest among major labs. More competition could lower costs and give developers more model options, but access restrictions will shape who can test it in real workflows.",
+  "friendlyWhyItMatters": "More coding models may mean better prices and more choice for developers, though access is still limited.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

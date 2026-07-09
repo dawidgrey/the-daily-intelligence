@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_06_anthropic-adds-ben-bernanke-to-its-long-term-benefit-trust_d015b138",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/ben-bernanke",
+  "canonicalUrl": "https://www.anthropic.com/news/ben-bernanke",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Anthropic adds Ben Bernanke to its Long-Term Benefit Trust",
+  "friendlyTitle": "Anthropic brings in an economic expert for AI governance",
+  "summary": "Anthropic’s Long-Term Benefit Trust appointed former Federal Reserve chair Ben Bernanke as a trustee. Anthropic says Bernanke will advise on how advanced AI affects economies and workforces, while the independent trust helps appoint board members and guide long-term governance.",
+  "friendlySummary": "Former Fed chair Ben Bernanke is joining Anthropic’s independent trust to advise on AI’s economic effects.",
+  "whyItMatters": "Major AI labs are becoming economic institutions as much as software companies. Adding a crisis-tested economist to governance signals that workforce and macroeconomic effects are now core strategic issues, not side notes.",
+  "friendlyWhyItMatters": "This shows big AI companies are paying more attention to how AI may change jobs, markets, and the wider economy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

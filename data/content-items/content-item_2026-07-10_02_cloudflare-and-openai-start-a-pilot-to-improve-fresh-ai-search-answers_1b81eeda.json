@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_02_cloudflare-and-openai-start-a-pilot-to-improve-fresh-ai-search-answers_1b81eeda",
+  "sourceKind": "product",
+  "sourceName": "Cloudflare",
+  "sourceUrl": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-research-pilot-with-openai/",
+  "canonicalUrl": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-research-pilot-with-openai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Cloudflare and OpenAI start a pilot to improve fresh AI search answers",
+  "friendlyTitle": "Cloudflare and OpenAI are testing fresher AI search",
+  "summary": "Cloudflare announced a research pilot with OpenAI that will test whether network-level signals from participating websites can help AI search systems discover, crawl, and index content more accurately and quickly. The pilot focuses on content freshness, traffic quality, and page-change signals across Cloudflare’s web network.",
+  "friendlySummary": "Cloudflare and OpenAI will test ways to help AI search find updated web pages faster and more accurately.",
+  "whyItMatters": "AI search is becoming a daily interface to the web, but stale or poorly indexed information can make answers unreliable. If the pilot works, publishers may get a more structured path into AI search while users get fresher responses.",
+  "friendlyWhyItMatters": "This may make AI answers about current web content more reliable and easier for website owners to manage.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

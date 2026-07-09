@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_07_monaco-explains-why-agent-developer-workspaces-are-hard-to-build-or-buy_aa60dcab",
+  "sourceKind": "article",
+  "sourceName": "Monaco",
+  "sourceUrl": "https://www.monaco.com/blog/agent-developer-workspaces",
+  "canonicalUrl": "https://www.monaco.com/blog/agent-developer-workspaces",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Monaco explains why agent developer workspaces are hard to build or buy",
+  "friendlyTitle": "Running many coding agents is harder than it looks",
+  "summary": "Monaco published a detailed account of its attempt to support many parallel coding agents with isolated environments, realistic test data, and human-in-the-loop workflows. The post compares local tmux and worktree setups with a Coder-based internal workspace approach and notes the tradeoffs against newer vendor platforms.",
+  "friendlySummary": "Monaco describes what went wrong when it tried to run many AI coding agents at once and how it built better workspaces.",
+  "whyItMatters": "Many teams want coding agents to run in parallel, but the hard part is safe, repeatable infrastructure: ports, data, disks, dependencies, notifications, and governance. Monaco’s write-up gives engineering leaders a practical map of what breaks before they scale agentic development.",
+  "friendlyWhyItMatters": "Teams can use these lessons before spending money or time on their own agent coding setup.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}

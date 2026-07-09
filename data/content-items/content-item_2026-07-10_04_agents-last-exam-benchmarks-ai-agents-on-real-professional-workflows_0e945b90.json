@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-10_04_agents-last-exam-benchmarks-ai-agents-on-real-professional-workflows_0e945b90",
+  "sourceKind": "research",
+  "sourceName": "Agents’ Last Exam",
+  "sourceUrl": "https://agents-last-exam.org",
+  "canonicalUrl": "https://agents-last-exam.org",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-09T20:04:11Z",
+  "createdAtUtc": "2026-07-09T20:04:11Z",
+  "updatedAtUtc": "2026-07-09T20:04:11Z",
+  "title": "Agents’ Last Exam benchmarks AI agents on real professional workflows",
+  "friendlyTitle": "A new benchmark tests AI agents on real work",
+  "summary": "Agents’ Last Exam is a Berkeley RDI-led benchmark effort that measures AI agents on long-horizon, economically valuable computer work with verifiable outcomes. The project spans 55 targeted sub-industries and has collected more than 1,500 tasks toward a 5,000-task target.",
+  "friendlySummary": "Agents’ Last Exam measures whether AI agents can complete realistic professional tasks, not just answer test questions.",
+  "whyItMatters": "As agents move into professional tools, benchmarks need to measure actual workflows rather than isolated prompts. This could help buyers and builders compare which agents can handle real work in fields such as engineering, design, manufacturing, neuroscience, and game development.",
+  "friendlyWhyItMatters": "This can help people understand which AI agents are actually useful for jobs and where they still fail.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-10"
+  }
+}
