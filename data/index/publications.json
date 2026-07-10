@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-09T20:04:11Z",
+  "generatedAtUtc": "2026-07-10T20:04:14Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-11",
+      "slug": "2026-07-11",
+      "status": "published",
+      "publicationDateUtc": "2026-07-10T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from model launches to working systems",
+      "friendlyHeader": "AI is getting better at doing real work",
+      "summary": "Today’s issue tracks a busy shift from raw model capability toward practical deployment: new frontier models, workplace agents, benchmark scrutiny, open-source economics, safety programs, and the developer tooling now reshaping everyday work.",
+      "friendlySummary": "Today’s issue explains the biggest AI updates in plain language: new models, work agents, safer testing, open-source AI, and useful developer tools.",
+      "itemCount": 13,
+      "href": "issues/2026-07-11.html",
+      "dataUrl": "data/daily-publications/2026-07-11.json"
+    },
     {
       "id": "daily-publication_2026-07-10",
       "slug": "2026-07-10",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-11_02_chatgpt-is-now-a-partner-for-your-most-ambitious-work_5941cef1",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "canonicalUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-10T20:04:14Z",
+  "createdAtUtc": "2026-07-10T20:04:14Z",
+  "updatedAtUtc": "2026-07-10T20:04:14Z",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "friendlyTitle": "ChatGPT Work can help finish bigger tasks",
+  "summary": "OpenAI introduced ChatGPT Work, an agent in ChatGPT that can act across apps and files, stay with projects for hours, and produce finished materials such as sheets, slides, documents, and web apps. The product is powered by GPT-5.6 and builds on Codex technology beyond software development.",
+  "friendlySummary": "OpenAI announced a ChatGPT agent that can work across files and apps for longer projects. It can help create documents, slides, spreadsheets, and other finished work.",
+  "whyItMatters": "The next workplace AI battleground is execution, not chat. If these agents work reliably, office workflows such as sales preparation, finance reporting, campaign planning, and project tracking may shift from manual assembly to supervised completion.",
+  "friendlyWhyItMatters": "This matters because AI may start helping with whole work projects, not just answering one question at a time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-11"
+  }
+}

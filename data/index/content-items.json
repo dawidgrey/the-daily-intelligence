@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-08T20:03:49Z",
+  "generatedAtUtc": "2026-07-10T20:04:14Z",
   "items": [
     {
-      "id": "content-item_2026-07-09_01_openai-launches-gpt-live-for-more-natural-chatgpt-voice-conversations_354c8d3f",
+      "id": "content-item_2026-07-11_01_gpt-5-6-frontier-intelligence-that-scales-with-your-ambition_54ee76ae",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI launches GPT-Live for more natural ChatGPT Voice conversations",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live/"
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "sourceUrl": "https://openai.com/index/gpt-5-6"
     },
     {
-      "id": "content-item_2026-07-09_02_google-adds-background-execution-and-remote-mcp-support-to-gemini-manage_73fd78c4",
+      "id": "content-item_2026-07-11_02_chatgpt-is-now-a-partner-for-your-most-ambitious-work_5941cef1",
       "sourceKind": "product",
-      "sourceName": "Google Blog",
-      "title": "Google adds background execution and remote MCP support to Gemini managed agents",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+      "sourceName": "OpenAI",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
     },
     {
-      "id": "content-item_2026-07-09_03_mistral-introduces-robostral-navigate-an-8b-robotics-navigation-model_818d44ef",
-      "sourceKind": "research",
-      "sourceName": "Mistral AI",
-      "title": "Mistral introduces Robostral Navigate, an 8B robotics navigation model",
-      "sourceUrl": "https://mistral.ai/news/robostral-navigate/"
-    },
-    {
-      "id": "content-item_2026-07-09_04_xai-launches-grok-4-5-for-coding-agents-and-knowledge-work_6258cf13",
+      "id": "content-item_2026-07-11_03_gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot_e799563c",
       "sourceKind": "product",
-      "sourceName": "xAI",
-      "title": "xAI launches Grok 4.5 for coding, agents, and knowledge work",
-      "sourceUrl": "https://x.ai/news/grok-4-5"
+      "sourceName": "OpenAI",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
     },
     {
-      "id": "content-item_2026-07-09_05_nvidia-argues-open-synthetic-data-is-becoming-core-infrastructure-for-ag_5535aeb9",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face Blog",
-      "title": "NVIDIA argues open synthetic data is becoming core infrastructure for agents",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents"
-    },
-    {
-      "id": "content-item_2026-07-09_06_hugging-face-ships-lerobot-v0-6-0-with-world-models-reward-apis-and-roll_0a1d2bd6",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face ships LeRobot v0.6.0 with world models, reward APIs, and rollout tooling",
-      "sourceUrl": "https://huggingface.co/blog/lerobot-release-v060"
-    },
-    {
-      "id": "content-item_2026-07-09_07_pytorch-features-miles-an-open-stack-for-large-scale-llm-reinforcement-l_14f38e22",
-      "sourceKind": "research",
-      "sourceName": "PyTorch Blog",
-      "title": "PyTorch features Miles, an open stack for large-scale LLM reinforcement learning",
-      "sourceUrl": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/"
-    },
-    {
-      "id": "content-item_2026-07-09_08_openai-brings-hands-on-ai-skills-jams-to-k-12-educators_de928631",
+      "id": "content-item_2026-07-11_04_how-deutsche-telekom-is-rewiring-telecommunications-with-ai_027b05f9",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI brings hands-on AI Skills Jams to K–12 educators",
-      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills"
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "sourceUrl": "https://openai.com/index/deutsche-telekom"
     },
     {
-      "id": "content-item_2026-07-09_09_google-photos-adds-ai-video-remix-for-quick-consumer-video-edits_01f53036",
+      "id": "content-item_2026-07-11_05_china-weighs-silicon-curtain-around-sought-after-ai-models_5c348604",
+      "sourceKind": "regulation",
+      "sourceName": "Reuters",
+      "title": "China weighs silicon curtain around sought-after AI models",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/"
+    },
+    {
+      "id": "content-item_2026-07-11_06_hugging-face-s-ceo-on-why-companies-are-done-renting-their-ai_33cb29d0",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Google Photos adds AI Video Remix for quick consumer video edits",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
     },
     {
-      "id": "content-item_2026-07-09_10_prime-intellect-raises-130m-to-help-enterprises-build-their-own-ai-agent_9e797c1f",
+      "id": "content-item_2026-07-11_07_anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts_ffdf99ae",
+      "sourceKind": "research",
+      "sourceName": "MIT Technology Review",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+    },
+    {
+      "id": "content-item_2026-07-11_08_rewriting-bun-in-rust_90fe2c12",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Prime Intellect raises $130M to help enterprises build their own AI agents",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+      "sourceName": "Bun",
+      "title": "Rewriting Bun in Rust",
+      "sourceUrl": "https://bun.com/blog/bun-in-rust"
     },
     {
-      "id": "content-item_2026-07-09_11_microsoft-skillopt_046c7d18",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "microsoft/SkillOpt",
-      "sourceUrl": "https://github.com/microsoft/SkillOpt"
+      "id": "content-item_2026-07-11_09_openai-bio-bug-bounty_8fd74bd3",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI Bio Bug Bounty",
+      "sourceUrl": "https://openai.com/index/bio-bug-bounty"
     },
     {
-      "id": "content-item_2026-07-09_12_jingyaogong-minimind_1555ed6b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "jingyaogong/minimind",
-      "sourceUrl": "https://github.com/jingyaogong/minimind"
+      "id": "content-item_2026-07-11_10_separating-signal-from-noise-in-coding-evaluations_eaad4cbc",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "Separating signal from noise in coding evaluations",
+      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
     },
     {
-      "id": "content-item_2026-07-09_13_anthropics-claude-cookbooks_d98aa6f2",
+      "id": "content-item_2026-07-11_11_wonderwhy-er-desktopcommandermcp_89bc9f49",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "anthropics/claude-cookbooks",
-      "sourceUrl": "https://github.com/anthropics/claude-cookbooks"
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "sourceUrl": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "id": "content-item_2026-07-11_12_huggingface-speech-to-speech_3e5eebb5",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "huggingface/speech-to-speech",
+      "sourceUrl": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "id": "content-item_2026-07-11_13_everyinc-compound-engineering-plugin_95ef99bc",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "EveryInc/compound-engineering-plugin",
+      "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin"
     }
   ]
 }

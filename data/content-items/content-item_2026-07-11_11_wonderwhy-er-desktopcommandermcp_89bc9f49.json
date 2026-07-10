@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-11_11_wonderwhy-er-desktopcommandermcp_89bc9f49",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "canonicalUrl": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-10T20:04:14Z",
+  "createdAtUtc": "2026-07-10T20:04:14Z",
+  "updatedAtUtc": "2026-07-10T20:04:14Z",
+  "title": "wonderwhy-er/DesktopCommanderMCP",
+  "friendlyTitle": "DesktopCommanderMCP helps AI work with your computer files and terminal",
+  "summary": "DesktopCommanderMCP is an MCP server that gives compatible AI assistants terminal control, file-system search, and diff-based file editing. It was one of the strongest AI-related GitHub Trending candidates in today’s collection, with recent activity and thousands of stars.",
+  "friendlySummary": "This GitHub project lets AI assistants use terminal commands, search files, and edit code through MCP.",
+  "whyItMatters": "Developers can use it to connect an AI assistant to local development tasks through the Model Context Protocol. It is most useful for controlled coding and automation workflows where terminal and file access are needed.",
+  "friendlyWhyItMatters": "It can help developers build more capable local AI coding workflows, as long as permissions are managed carefully.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-11"
+  }
+}

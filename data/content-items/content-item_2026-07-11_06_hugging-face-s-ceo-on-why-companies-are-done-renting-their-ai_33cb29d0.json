@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-11_06_hugging-face-s-ceo-on-why-companies-are-done-renting-their-ai_33cb29d0",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-10T20:04:14Z",
+  "createdAtUtc": "2026-07-10T20:04:14Z",
+  "updatedAtUtc": "2026-07-10T20:04:14Z",
+  "title": "Hugging Face’s CEO on why companies are done renting their AI",
+  "friendlyTitle": "Hugging Face says companies want more control over AI",
+  "summary": "TechCrunch interviewed Hugging Face CEO Clem Delangue about the rise of open-source AI and why companies often start with frontier APIs before shifting workloads toward open models as usage costs grow. The discussion also connects open access to concerns about concentration among a few large AI companies.",
+  "friendlySummary": "Hugging Face’s CEO says many companies begin with paid AI APIs, then move some work to open-source models when costs get too high.",
+  "whyItMatters": "AI cost pressure is now shaping architecture decisions. For builders, the durable strategy may be hybrid: use frontier APIs where they clearly pay off, while keeping enough open-model capability to control costs, data flows, and vendor risk.",
+  "friendlyWhyItMatters": "This matters because open-source AI can help companies lower costs and avoid depending on only one provider.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-11"
+  }
+}
