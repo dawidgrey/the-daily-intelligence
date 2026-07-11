@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_01_mistral-adds-version-control-for-prompts-and-skills-in-studio_4521215e",
+  "sourceKind": "product",
+  "sourceName": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+  "canonicalUrl": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Mistral adds version control for prompts and skills in Studio",
+  "friendlyTitle": "Mistral makes prompts easier to manage at work",
+  "summary": "Mistral says Studio now gives enterprise prompts and skills a governed system of record, with versions, ownership, traceability, approval paths, and workspace sharing.",
+  "friendlySummary": "Mistral Studio now helps teams track and approve changes to prompts and AI skills.",
+  "whyItMatters": "As prompts become production business logic, teams need the same change-control discipline they use for code. This makes AI behavior easier to audit, improve, and deploy without leaving every change stuck in engineering queues.",
+  "friendlyWhyItMatters": "This helps companies know which AI instructions are being used, who changed them, and whether they are safe to put in front of customers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

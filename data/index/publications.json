@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-10T20:04:14Z",
+  "generatedAtUtc": "2026-07-11T20:05:42Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-12",
+      "slug": "2026-07-12",
+      "status": "published",
+      "publicationDateUtc": "2026-07-11T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI work is becoming something teams have to manage, not just try",
+      "friendlyHeader": "AI tools are getting more useful, but they need better rules",
+      "summary": "Today’s issue tracks the practical side of the agent shift: governed prompts, personal-use reflection, physical-AI workflows, web business models, workplace surveillance, and a fresh set of AI repos builders are watching.",
+      "friendlySummary": "Today we look at AI tools that help with real work, plus the new habits and safeguards people need as these tools become part of daily life.",
+      "itemCount": 13,
+      "href": "issues/2026-07-12.html",
+      "dataUrl": "data/daily-publications/2026-07-12.json"
+    },
     {
       "id": "daily-publication_2026-07-11",
       "slug": "2026-07-11",

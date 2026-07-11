@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_10_anthropic-invites-the-public-to-ask-harder-questions-about-ai_5e689a64",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/hard-questions",
+  "canonicalUrl": "https://www.anthropic.com/news/hard-questions",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Anthropic invites the public to ask harder questions about AI",
+  "friendlyTitle": "Anthropic asks people what worries them about AI",
+  "summary": "Anthropic launched a public-facing “hard questions” initiative, asking people to submit concerns and hopes about AI and saying it will chart progress toward its public-benefit goals.",
+  "friendlySummary": "Anthropic is inviting the public to share tough questions about AI, including jobs, safety, children, science, and human agency.",
+  "whyItMatters": "The initiative is not a technical release, but it reflects a larger shift: AI companies are being pushed to explain their social, economic, and safety choices in plain language. Users and businesses should expect more transparency demands as AI becomes infrastructure.",
+  "friendlyWhyItMatters": "AI affects everyday life, so people need clearer answers from the companies building it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

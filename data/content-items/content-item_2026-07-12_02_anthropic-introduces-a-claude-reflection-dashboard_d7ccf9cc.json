@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_02_anthropic-introduces-a-claude-reflection-dashboard_d7ccf9cc",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude",
+  "canonicalUrl": "https://www.anthropic.com/news/reflect-with-claude",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Anthropic introduces a Claude reflection dashboard",
+  "friendlyTitle": "Claude can now help you review how you use AI",
+  "summary": "Anthropic launched a beta dashboard that summarizes how people use Claude across time periods, highlights usage patterns, and prompts users to decide where AI should or should not fit into their work and life.",
+  "friendlySummary": "Anthropic added a dashboard that shows what you use Claude for and asks reflection questions about your habits.",
+  "whyItMatters": "The feature points to a healthier pattern for consumer AI: not only more capability, but feedback loops that help users delegate deliberately, keep original thinking, and set boundaries such as quiet hours or break nudges.",
+  "friendlyWhyItMatters": "It can help people use AI on purpose instead of letting it quietly take over tasks they still want to do themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

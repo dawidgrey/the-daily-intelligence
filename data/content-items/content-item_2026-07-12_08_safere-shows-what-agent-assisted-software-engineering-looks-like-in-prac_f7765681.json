@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_08_safere-shows-what-agent-assisted-software-engineering-looks-like-in-prac_f7765681",
+  "sourceKind": "article",
+  "sourceName": "Eddie Aftandilian",
+  "sourceUrl": "https://eaftan.github.io/safere-intro/",
+  "canonicalUrl": "https://eaftan.github.io/safere-intro/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "SafeRE shows what agent-assisted software engineering looks like in practice",
+  "friendlyTitle": "A developer built a serious Java library with AI agents",
+  "summary": "Former Google engineer Eddie Aftandilian described building SafeRE, a production-quality linear-time Java regular expression library, with agents writing the code while he directed architecture, review, testing, and corrections.",
+  "friendlySummary": "Eddie Aftandilian wrote about using AI agents to help build SafeRE, a Java regex library designed to avoid slow and risky regex behavior.",
+  "whyItMatters": "The post is useful because it avoids magic-demo framing: agents helped tackle a substantial project, but only with human decomposition, review, and a serious correctness strategy. That is close to how durable agentic engineering is likely to work.",
+  "friendlyWhyItMatters": "It shows that AI coding agents can be powerful, but they still need a human to plan, test, review, and fix mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

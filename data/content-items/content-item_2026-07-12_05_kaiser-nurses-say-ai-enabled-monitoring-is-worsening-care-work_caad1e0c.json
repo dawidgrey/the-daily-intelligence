@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_05_kaiser-nurses-say-ai-enabled-monitoring-is-worsening-care-work_caad1e0c",
+  "sourceKind": "article",
+  "sourceName": "The Markup",
+  "sourceUrl": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse",
+  "canonicalUrl": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Kaiser nurses say AI-enabled monitoring is worsening care work",
+  "friendlyTitle": "Nurses warn that AI monitoring can make care worse",
+  "summary": "The Markup reported that Kaiser Permanente advice and triage nurses say call metrics, productivity software, and AI systems that rate empathy or tone are pressuring them to shorten patient interactions.",
+  "friendlySummary": "Some Kaiser nurses say software and AI ratings put pressure on them to finish patient calls faster.",
+  "whyItMatters": "Workplace AI often arrives as measurement before it arrives as help. The story is a reminder that productivity tools can change incentives in high-stakes jobs, especially healthcare, where speed and care quality can pull in different directions.",
+  "friendlyWhyItMatters": "AI at work should help people do better work, not push them to rush important human conversations.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

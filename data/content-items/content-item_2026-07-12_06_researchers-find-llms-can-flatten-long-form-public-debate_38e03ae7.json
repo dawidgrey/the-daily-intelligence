@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_06_researchers-find-llms-can-flatten-long-form-public-debate_38e03ae7",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2606.01736",
+  "canonicalUrl": "https://arxiv.org/abs/2606.01736",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Researchers find LLMs can flatten long-form public debate",
+  "friendlyTitle": "AI writing can make arguments sound too similar",
+  "summary": "A new paper studied more than 23,000 LLM-written essays against human debate responses and found that model outputs converged on a much smaller set of arguments and structures.",
+  "friendlySummary": "Researchers found that essays written by different AI models often repeat the same kinds of arguments and structures.",
+  "whyItMatters": "If people use AI to draft public comments, essays, policy responses, or workplace arguments, outputs may become polished but less diverse. Useful AI writing workflows should deliberately ask for concrete, varied, and source-grounded reasoning.",
+  "friendlyWhyItMatters": "If you use AI to write, it is worth asking for more specific examples and different viewpoints so your work does not sound like everyone else’s.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

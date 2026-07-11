@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_07_openpilot-0-11-1-uses-a-vlm-assisted-pipeline-for-better-phone-use-detec_fb620a6a",
+  "sourceKind": "product",
+  "sourceName": "comma.ai blog",
+  "sourceUrl": "https://blog.comma.ai/0111release/",
+  "canonicalUrl": "https://blog.comma.ai/0111release/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "openpilot 0.11.1 uses a VLM-assisted pipeline for better phone-use detection",
+  "friendlyTitle": "openpilot uses AI labeling to spot unsafe phone use better",
+  "summary": "comma.ai’s openpilot 0.11.1 release includes a new driver-monitoring model whose phone-use labels were generated with a locally hosted vision-language model, improving detection of active handheld phone use while reducing false positives on mounted phones.",
+  "friendlySummary": "comma.ai says its new driver-monitoring model uses vision-language-model labels to better detect when drivers are using a phone.",
+  "whyItMatters": "It is a concrete example of AI improving safety tooling through better labeling, not just end-user chat. The pattern matters for robotics, vehicles, and industrial systems where model quality depends on scalable, carefully checked training data.",
+  "friendlyWhyItMatters": "This shows AI helping make safety systems more accurate, especially when good training labels are hard to collect by hand.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

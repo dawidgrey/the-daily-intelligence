@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_12_davila7-claude-code-templates_eb69d2f1",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/davila7/claude-code-templates",
+  "canonicalUrl": "https://github.com/davila7/claude-code-templates",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "davila7/claude-code-templates",
+  "friendlyTitle": "Templates and tools for setting up Claude Code",
+  "summary": "claude-code-templates is a popular CLI and catalog for configuring, monitoring, and extending Claude Code setups, with agents, commands, hooks, MCP entries, and project templates.",
+  "friendlySummary": "This repo helps people configure and monitor Claude Code with reusable templates and components.",
+  "whyItMatters": "Teams using Claude Code can use it as a starting point for repeatable setups instead of hand-building every agent workflow, command library, and monitoring pattern from scratch.",
+  "friendlyWhyItMatters": "It can save setup time if you want a more organized AI coding environment.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

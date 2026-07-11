@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_03_ust-is-putting-claude-into-physical-ai-engineering-workflows_8fd51b42",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/ust-claude",
+  "canonicalUrl": "https://www.anthropic.com/news/ust-claude",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "UST is putting Claude into physical-AI engineering workflows",
+  "friendlyTitle": "Claude is being used to help test chips and machines",
+  "summary": "Anthropic says UST is integrating Claude into engineering environments for semiconductors, automotive, manufacturing, telecom, embedded systems, and IoT, while training 20,000 staff on Claude worldwide.",
+  "friendlySummary": "UST plans to use Claude in engineering work for hardware, factories, cars, telecom, and connected devices.",
+  "whyItMatters": "The case study shows agents moving beyond office documents into validation, regression testing, digital twins, and defect detection for physical products. For businesses, the practical prize is catching mistakes earlier, when they are cheaper to fix.",
+  "friendlyWhyItMatters": "If AI can find design problems earlier, companies can avoid expensive mistakes before products reach customers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_04_cloudflare-says-ai-search-needs-a-new-bargain-for-the-web_cde96cc2",
+  "sourceKind": "article",
+  "sourceName": "Cloudflare Blog",
+  "sourceUrl": "https://blog.cloudflare.com/making-ai-search-smarter/",
+  "canonicalUrl": "https://blog.cloudflare.com/making-ai-search-smarter/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "Cloudflare says AI search needs a new bargain for the web",
+  "friendlyTitle": "Cloudflare wants websites to have better rules for AI search",
+  "summary": "Cloudflare argued that AI answer engines are changing the old search bargain by summarizing pages without necessarily sending traffic back, and outlined work on smarter AI search, bot controls, and compensation models.",
+  "friendlySummary": "Cloudflare says AI search can use website content without sending enough visitors back, so site owners need better controls and payment options.",
+  "whyItMatters": "For publishers, merchants, and creators, discoverability is becoming tangled with AI access and payment. The next phase of SEO may be less about keywords and more about deciding which agents can read, summarize, buy, or pay.",
+  "friendlyWhyItMatters": "This matters for anyone who runs a website, because AI search may change how people find you and how your work earns money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}

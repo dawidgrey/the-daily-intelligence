@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-10T20:04:14Z",
+  "generatedAtUtc": "2026-07-11T20:05:42Z",
   "items": [
     {
-      "id": "content-item_2026-07-11_01_gpt-5-6-frontier-intelligence-that-scales-with-your-ambition_54ee76ae",
+      "id": "content-item_2026-07-12_01_mistral-adds-version-control-for-prompts-and-skills-in-studio_4521215e",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "sourceUrl": "https://openai.com/index/gpt-5-6"
+      "sourceName": "Mistral AI",
+      "title": "Mistral adds version control for prompts and skills in Studio",
+      "sourceUrl": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
     },
     {
-      "id": "content-item_2026-07-11_02_chatgpt-is-now-a-partner-for-your-most-ambitious-work_5941cef1",
+      "id": "content-item_2026-07-12_02_anthropic-introduces-a-claude-reflection-dashboard_d7ccf9cc",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+      "sourceName": "Anthropic",
+      "title": "Anthropic introduces a Claude reflection dashboard",
+      "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude"
     },
     {
-      "id": "content-item_2026-07-11_03_gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot_e799563c",
+      "id": "content-item_2026-07-12_03_ust-is-putting-claude-into-physical-ai-engineering-workflows_8fd51b42",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+      "sourceName": "Anthropic",
+      "title": "UST is putting Claude into physical-AI engineering workflows",
+      "sourceUrl": "https://www.anthropic.com/news/ust-claude"
     },
     {
-      "id": "content-item_2026-07-11_04_how-deutsche-telekom-is-rewiring-telecommunications-with-ai_027b05f9",
+      "id": "content-item_2026-07-12_04_cloudflare-says-ai-search-needs-a-new-bargain-for-the-web_cde96cc2",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "sourceUrl": "https://openai.com/index/deutsche-telekom"
+      "sourceName": "Cloudflare Blog",
+      "title": "Cloudflare says AI search needs a new bargain for the web",
+      "sourceUrl": "https://blog.cloudflare.com/making-ai-search-smarter/"
     },
     {
-      "id": "content-item_2026-07-11_05_china-weighs-silicon-curtain-around-sought-after-ai-models_5c348604",
-      "sourceKind": "regulation",
-      "sourceName": "Reuters",
-      "title": "China weighs silicon curtain around sought-after AI models",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/"
-    },
-    {
-      "id": "content-item_2026-07-11_06_hugging-face-s-ceo-on-why-companies-are-done-renting-their-ai_33cb29d0",
+      "id": "content-item_2026-07-12_05_kaiser-nurses-say-ai-enabled-monitoring-is-worsening-care-work_caad1e0c",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
+      "sourceName": "The Markup",
+      "title": "Kaiser nurses say AI-enabled monitoring is worsening care work",
+      "sourceUrl": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse"
     },
     {
-      "id": "content-item_2026-07-11_07_anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts_ffdf99ae",
+      "id": "content-item_2026-07-12_06_researchers-find-llms-can-flatten-long-form-public-debate_38e03ae7",
       "sourceKind": "research",
-      "sourceName": "MIT Technology Review",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      "sourceName": "arXiv",
+      "title": "Researchers find LLMs can flatten long-form public debate",
+      "sourceUrl": "https://arxiv.org/abs/2606.01736"
     },
     {
-      "id": "content-item_2026-07-11_08_rewriting-bun-in-rust_90fe2c12",
+      "id": "content-item_2026-07-12_07_openpilot-0-11-1-uses-a-vlm-assisted-pipeline-for-better-phone-use-detec_fb620a6a",
+      "sourceKind": "product",
+      "sourceName": "comma.ai blog",
+      "title": "openpilot 0.11.1 uses a VLM-assisted pipeline for better phone-use detection",
+      "sourceUrl": "https://blog.comma.ai/0111release/"
+    },
+    {
+      "id": "content-item_2026-07-12_08_safere-shows-what-agent-assisted-software-engineering-looks-like-in-prac_f7765681",
       "sourceKind": "article",
-      "sourceName": "Bun",
-      "title": "Rewriting Bun in Rust",
-      "sourceUrl": "https://bun.com/blog/bun-in-rust"
+      "sourceName": "Eddie Aftandilian",
+      "title": "SafeRE shows what agent-assisted software engineering looks like in practice",
+      "sourceUrl": "https://eaftan.github.io/safere-intro/"
     },
     {
-      "id": "content-item_2026-07-11_09_openai-bio-bug-bounty_8fd74bd3",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI Bio Bug Bounty",
-      "sourceUrl": "https://openai.com/index/bio-bug-bounty"
+      "id": "content-item_2026-07-12_09_apple-sues-openai-alleging-trade-secret-theft-through-former-employees_04e19398",
+      "sourceKind": "article",
+      "sourceName": "BBC News",
+      "title": "Apple sues OpenAI, alleging trade-secret theft through former employees",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy8w379e091o"
     },
     {
-      "id": "content-item_2026-07-11_10_separating-signal-from-noise-in-coding-evaluations_eaad4cbc",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "Separating signal from noise in coding evaluations",
-      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      "id": "content-item_2026-07-12_10_anthropic-invites-the-public-to-ask-harder-questions-about-ai_5e689a64",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic invites the public to ask harder questions about AI",
+      "sourceUrl": "https://www.anthropic.com/news/hard-questions"
     },
     {
-      "id": "content-item_2026-07-11_11_wonderwhy-er-desktopcommandermcp_89bc9f49",
+      "id": "content-item_2026-07-12_11_google-labs-code-stitch-skills_52adf762",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
-      "title": "wonderwhy-er/DesktopCommanderMCP",
-      "sourceUrl": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+      "title": "google-labs-code/stitch-skills",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills"
     },
     {
-      "id": "content-item_2026-07-11_12_huggingface-speech-to-speech_3e5eebb5",
+      "id": "content-item_2026-07-12_12_davila7-claude-code-templates_eb69d2f1",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "huggingface/speech-to-speech",
-      "sourceUrl": "https://github.com/huggingface/speech-to-speech"
+      "title": "davila7/claude-code-templates",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates"
     },
     {
-      "id": "content-item_2026-07-11_13_everyinc-compound-engineering-plugin_95ef99bc",
+      "id": "content-item_2026-07-12_13_foundationagents-openmanus_0617eb76",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "EveryInc/compound-engineering-plugin",
-      "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin"
+      "sourceName": "GitHub Trending Python",
+      "title": "FoundationAgents/OpenManus",
+      "sourceUrl": "https://github.com/FoundationAgents/OpenManus"
     }
   ]
 }

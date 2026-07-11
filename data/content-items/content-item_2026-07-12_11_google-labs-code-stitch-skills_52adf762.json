@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-12_11_google-labs-code-stitch-skills_52adf762",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/google-labs-code/stitch-skills",
+  "canonicalUrl": "https://github.com/google-labs-code/stitch-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-11T20:05:42Z",
+  "createdAtUtc": "2026-07-11T20:05:42Z",
+  "updatedAtUtc": "2026-07-11T20:05:42Z",
+  "title": "google-labs-code/stitch-skills",
+  "friendlyTitle": "A library of reusable skills for AI coding agents",
+  "summary": "Google Labs’ Stitch Skills repository collects Agent Skills designed for the Stitch MCP server and compatible with coding agents such as Antigravity, Gemini CLI, Claude Code, and Cursor.",
+  "friendlySummary": "This Google Labs repo collects skills that can work with several coding agents and the Stitch MCP server.",
+  "whyItMatters": "Builders can study or adapt the skills as reusable agent capabilities, especially for MCP-connected coding and design workflows where standardized skill packaging matters.",
+  "friendlyWhyItMatters": "It can help developers see how to package repeatable tasks so AI agents can use them more reliably.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-12"
+  }
+}
