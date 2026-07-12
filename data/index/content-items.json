@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-11T20:05:42Z",
+  "generatedAtUtc": "2026-07-12T20:04:33Z",
   "items": [
     {
-      "id": "content-item_2026-07-12_01_mistral-adds-version-control-for-prompts-and-skills-in-studio_4521215e",
+      "id": "content-item_2026-07-13_01_claude-code-s-browser-mode-lets-the-agent-read-click-and-type-on-externa_995b9d56",
       "sourceKind": "product",
-      "sourceName": "Mistral AI",
-      "title": "Mistral adds version control for prompts and skills in Studio",
-      "sourceUrl": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
+      "sourceName": "Anthropic Claude Code Docs",
+      "title": "Claude Code's browser mode lets the agent read, click, and type on external websites",
+      "sourceUrl": "https://code.claude.com/docs/en/desktop#browse-external-sites"
     },
     {
-      "id": "content-item_2026-07-12_02_anthropic-introduces-a-claude-reflection-dashboard_d7ccf9cc",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic introduces a Claude reflection dashboard",
-      "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude"
-    },
-    {
-      "id": "content-item_2026-07-12_03_ust-is-putting-claude-into-physical-ai-engineering-workflows_8fd51b42",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "UST is putting Claude into physical-AI engineering workflows",
-      "sourceUrl": "https://www.anthropic.com/news/ust-claude"
-    },
-    {
-      "id": "content-item_2026-07-12_04_cloudflare-says-ai-search-needs-a-new-bargain-for-the-web_cde96cc2",
+      "id": "content-item_2026-07-13_02_a-token-audit-finds-claude-code-starts-far-heavier-than-opencode_065047e2",
       "sourceKind": "article",
-      "sourceName": "Cloudflare Blog",
-      "title": "Cloudflare says AI search needs a new bargain for the web",
-      "sourceUrl": "https://blog.cloudflare.com/making-ai-search-smarter/"
+      "sourceName": "Systima",
+      "title": "A token audit finds Claude Code starts far heavier than OpenCode",
+      "sourceUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
     },
     {
-      "id": "content-item_2026-07-12_05_kaiser-nurses-say-ai-enabled-monitoring-is-worsening-care-work_caad1e0c",
-      "sourceKind": "article",
-      "sourceName": "The Markup",
-      "title": "Kaiser nurses say AI-enabled monitoring is worsening care work",
-      "sourceUrl": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse"
-    },
-    {
-      "id": "content-item_2026-07-12_06_researchers-find-llms-can-flatten-long-form-public-debate_38e03ae7",
+      "id": "content-item_2026-07-13_03_agenticsts-shows-structured-memory-can-beat-ever-growing-chat-logs_4bd534f5",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Researchers find LLMs can flatten long-form public debate",
-      "sourceUrl": "https://arxiv.org/abs/2606.01736"
+      "sourceName": "The Decoder",
+      "title": "AgenticSTS shows structured memory can beat ever-growing chat logs",
+      "sourceUrl": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
     },
     {
-      "id": "content-item_2026-07-12_07_openpilot-0-11-1-uses-a-vlm-assisted-pipeline-for-better-phone-use-detec_fb620a6a",
-      "sourceKind": "product",
-      "sourceName": "comma.ai blog",
-      "title": "openpilot 0.11.1 uses a VLM-assisted pipeline for better phone-use detection",
-      "sourceUrl": "https://blog.comma.ai/0111release/"
-    },
-    {
-      "id": "content-item_2026-07-12_08_safere-shows-what-agent-assisted-software-engineering-looks-like-in-prac_f7765681",
-      "sourceKind": "article",
-      "sourceName": "Eddie Aftandilian",
-      "title": "SafeRE shows what agent-assisted software engineering looks like in practice",
-      "sourceUrl": "https://eaftan.github.io/safere-intro/"
-    },
-    {
-      "id": "content-item_2026-07-12_09_apple-sues-openai-alleging-trade-secret-theft-through-former-employees_04e19398",
-      "sourceKind": "article",
-      "sourceName": "BBC News",
-      "title": "Apple sues OpenAI, alleging trade-secret theft through former employees",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy8w379e091o"
-    },
-    {
-      "id": "content-item_2026-07-12_10_anthropic-invites-the-public-to-ask-harder-questions-about-ai_5e689a64",
+      "id": "content-item_2026-07-13_04_anthropic-says-claude-cowork-is-mostly-doing-the-office-work-around-the_2f1bfe8f",
       "sourceKind": "article",
       "sourceName": "Anthropic",
-      "title": "Anthropic invites the public to ask harder questions about AI",
-      "sourceUrl": "https://www.anthropic.com/news/hard-questions"
+      "title": "Anthropic says Claude Cowork is mostly doing the office work around the work",
+      "sourceUrl": "https://claude.com/blog/how-people-are-using-claude-cowork"
     },
     {
-      "id": "content-item_2026-07-12_11_google-labs-code-stitch-skills_52adf762",
+      "id": "content-item_2026-07-13_05_neatcontext-pitches-local-team-knowledge-as-the-missing-layer-for-better_89bf0dab",
+      "sourceKind": "product",
+      "sourceName": "NeatContext",
+      "title": "NeatContext pitches local team knowledge as the missing layer for better LLM answers",
+      "sourceUrl": "https://www.neatcontext.com/"
+    },
+    {
+      "id": "content-item_2026-07-13_06_meta-removes-an-instagram-ai-image-feature-after-backlash-over-using-pub_d325e170",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Meta removes an Instagram AI image feature after backlash over using public photos",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+    },
+    {
+      "id": "content-item_2026-07-13_07_nvidia-explains-how-llm-architecture-choices-affect-inference-cost-and-s_9e4abf2f",
+      "sourceKind": "research",
+      "sourceName": "NVIDIA Technical Blog",
+      "title": "NVIDIA explains how LLM architecture choices affect inference cost and speed",
+      "sourceUrl": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/"
+    },
+    {
+      "id": "content-item_2026-07-13_08_hugging-face-says-transformers-models-can-now-reach-native-speed-vllm-se_f2a3364a",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face says Transformers models can now reach native-speed vLLM serving",
+      "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+    },
+    {
+      "id": "content-item_2026-07-13_09_the-register-argues-smaller-specialized-models-are-becoming-the-enterpri_a665cfa8",
+      "sourceKind": "article",
+      "sourceName": "The Register",
+      "title": "The Register argues smaller, specialized models are becoming the enterprise AI default",
+      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070"
+    },
+    {
+      "id": "content-item_2026-07-13_10_openai-s-model-beats-every-human-finalist-at-atcoder-s-world-tour-finals_622fa15c",
+      "sourceKind": "article",
+      "sourceName": "MLQ News",
+      "title": "OpenAI's model beats every human finalist at AtCoder's World Tour Finals",
+      "sourceUrl": "https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/"
+    },
+    {
+      "id": "content-item_2026-07-13_11_shubhamsaboo-awesome-llm-apps_b409dc7b",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "id": "content-item_2026-07-13_12_virattt-ai-hedge-fund_3b23309d",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending Python",
+      "title": "virattt/ai-hedge-fund",
+      "sourceUrl": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "id": "content-item_2026-07-13_13_crosstalk-solutions-project-nomad_9ba9156b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending TypeScript",
-      "title": "google-labs-code/stitch-skills",
-      "sourceUrl": "https://github.com/google-labs-code/stitch-skills"
-    },
-    {
-      "id": "content-item_2026-07-12_12_davila7-claude-code-templates_eb69d2f1",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "davila7/claude-code-templates",
-      "sourceUrl": "https://github.com/davila7/claude-code-templates"
-    },
-    {
-      "id": "content-item_2026-07-12_13_foundationagents-openmanus_0617eb76",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "FoundationAgents/OpenManus",
-      "sourceUrl": "https://github.com/FoundationAgents/OpenManus"
+      "title": "Crosstalk-Solutions/project-nomad",
+      "sourceUrl": "https://github.com/Crosstalk-Solutions/project-nomad"
     }
   ]
 }

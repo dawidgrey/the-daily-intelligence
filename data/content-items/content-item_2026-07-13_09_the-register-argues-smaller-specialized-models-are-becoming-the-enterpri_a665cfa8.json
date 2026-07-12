@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_09_the-register-argues-smaller-specialized-models-are-becoming-the-enterpri_a665cfa8",
+  "sourceKind": "article",
+  "sourceName": "The Register",
+  "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+  "canonicalUrl": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "The Register argues smaller, specialized models are becoming the enterprise AI default",
+  "friendlyTitle": "Smaller AI models may be better for many everyday jobs",
+  "summary": "The Register reports that Microsoft, Amazon, and Google are leaning harder into smaller domain-specific models for common tasks, rather than using frontier models for everything. The piece frames this as a cost, latency, and control shift as companies learn which AI tasks users actually need.",
+  "friendlySummary": "Big AI models are powerful, but they are expensive. Companies are increasingly using smaller models for focused tasks like notes, replies, speech, or simple coding help.",
+  "whyItMatters": "For businesses, the next AI budget win may come from routing routine work to smaller models and reserving frontier systems for the hardest tasks. For users, that could mean faster features that are cheaper to operate and less exposed to model churn.",
+  "friendlyWhyItMatters": "Using the right-sized model can make AI faster and cheaper. Not every task needs the biggest model available.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

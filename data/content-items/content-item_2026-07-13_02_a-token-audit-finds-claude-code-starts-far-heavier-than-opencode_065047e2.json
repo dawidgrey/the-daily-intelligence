@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_02_a-token-audit-finds-claude-code-starts-far-heavier-than-opencode_065047e2",
+  "sourceKind": "article",
+  "sourceName": "Systima",
+  "sourceUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "canonicalUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "A token audit finds Claude Code starts far heavier than OpenCode",
+  "friendlyTitle": "AI coding tools can spend lots of tokens before doing any work",
+  "summary": "Systima measured Claude Code and OpenCode at the API boundary and found Claude Code sent about 33,000 tokens before a simple user prompt, versus about 7,000 for OpenCode. The study also found real projects, MCP servers, and subagents can multiply baseline token costs, though Claude Code's tool batching can reduce total turns on some tasks.",
+  "friendlySummary": "A test found Claude Code sends much more setup text to the AI model than OpenCode before it even reads the user's request. Extra project instructions and tools can add even more.",
+  "whyItMatters": "Agent costs are increasingly shaped by harness design, tool schemas, instruction files, and cache behavior — not just the model price list. Teams deploying agents should log what is actually sent to the model before assuming a tool is cheap or expensive.",
+  "friendlyWhyItMatters": "Tokens cost money and slow things down. If your company uses AI agents, it helps to measure what they send to the model instead of guessing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

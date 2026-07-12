@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_13_crosstalk-solutions-project-nomad_9ba9156b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "canonicalUrl": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Crosstalk-Solutions/project-nomad",
+  "friendlyTitle": "An offline AI and knowledge computer project",
+  "summary": "Project N.O.M.A.D is a self-contained offline computer stack that bundles local knowledge, utilities, and AI components for use when connectivity is limited. The repository has strong GitHub momentum and a large existing star base.",
+  "friendlySummary": "Project N.O.M.A.D packages tools, information, and AI so they can work without relying on the internet.",
+  "whyItMatters": "It is useful for exploring offline-first AI, local knowledge packs, Ollama/Open WebUI-style deployments, and resilience-focused computing setups. The pattern is relevant beyond emergencies: any workflow that needs private or disconnected AI can learn from it.",
+  "friendlyWhyItMatters": "It is useful if you care about local AI, privacy, or tools that still work when you are offline.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

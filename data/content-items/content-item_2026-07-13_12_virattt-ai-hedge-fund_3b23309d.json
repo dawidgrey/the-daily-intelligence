@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_12_virattt-ai-hedge-fund_3b23309d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/virattt/ai-hedge-fund",
+  "canonicalUrl": "https://github.com/virattt/ai-hedge-fund",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "virattt/ai-hedge-fund",
+  "friendlyTitle": "An AI finance research sandbox",
+  "summary": "An open-source project that models a multi-agent investment research team, with agents for analysis, portfolio decisions, and market reasoning. The repo remains active, with recent updates adding model providers and interface improvements.",
+  "friendlySummary": "This repo simulates a team of AI agents that look at markets and investment data.",
+  "whyItMatters": "It is a practical sandbox for studying multi-agent decision workflows, financial-analysis prompts, and how different model providers affect a structured research pipeline. It should be treated as an educational tool, not financial advice.",
+  "friendlyWhyItMatters": "It can help developers learn how multi-agent systems work in a finance-style workflow. It is for learning and experiments, not real investment advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

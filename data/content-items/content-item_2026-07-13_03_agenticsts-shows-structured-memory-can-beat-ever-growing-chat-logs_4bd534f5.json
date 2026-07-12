@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_03_agenticsts-shows-structured-memory-can-beat-ever-growing-chat-logs_4bd534f5",
+  "sourceKind": "research",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+  "canonicalUrl": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "AgenticSTS shows structured memory can beat ever-growing chat logs",
+  "friendlyTitle": "Better memory helped an AI agent play a long game",
+  "summary": "Researchers behind AgenticSTS replaced a growing agent transcript with five organized memory layers for the game Slay the Spire 2. The approach kept prompts around 5,000 tokens, won 6 of 10 low-difficulty runs, and used far fewer tokens than public agents that kept resending the whole game history.",
+  "friendlySummary": "A research agent did not keep its whole chat history. Instead, it stored information in organized memory sections, which made it faster and cheaper to use.",
+  "whyItMatters": "Long-running agents need memory systems that decide what to keep, retrieve, and discard. The result is a practical reminder that better agent architecture can cut cost and latency even when the underlying model stays the same.",
+  "friendlyWhyItMatters": "This matters for work agents too. If an AI assistant is helping for hours, it needs smart memory instead of carrying every old message forever.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

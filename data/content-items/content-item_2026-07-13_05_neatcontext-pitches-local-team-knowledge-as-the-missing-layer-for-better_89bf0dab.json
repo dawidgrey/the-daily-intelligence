@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_05_neatcontext-pitches-local-team-knowledge-as-the-missing-layer-for-better_89bf0dab",
+  "sourceKind": "product",
+  "sourceName": "NeatContext",
+  "sourceUrl": "https://www.neatcontext.com/",
+  "canonicalUrl": "https://www.neatcontext.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "NeatContext pitches local team knowledge as the missing layer for better LLM answers",
+  "friendlyTitle": "NeatContext helps AI use your team's own knowledge",
+  "summary": "NeatContext is a local-first desktop workspace that connects team profiles, local folders, runbooks, and read-only MCP tools to the LLMs a user already has. Its examples focus on operational troubleshooting where internal context changes the answer from a generic checklist to a specific safe action.",
+  "friendlySummary": "NeatContext lets an AI assistant look at local team notes, runbooks, and safe read-only tools. The goal is to give answers based on your real work context, not generic advice.",
+  "whyItMatters": "Many AI failures at work are context failures rather than model failures. Local-first context tools could help teams get more useful answers without copying all institutional knowledge into another hosted system.",
+  "friendlyWhyItMatters": "AI is more useful when it understands your team's rules and history. A local-first tool may also feel safer for private company knowledge.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

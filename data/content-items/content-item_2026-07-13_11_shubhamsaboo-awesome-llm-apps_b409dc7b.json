@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_11_shubhamsaboo-awesome-llm-apps_b409dc7b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "canonicalUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "friendlyTitle": "A big library of AI app examples",
+  "summary": "A large, actively updated collection of runnable LLM, AI agent, and RAG applications, with examples spanning starter agents, advanced apps, MCP workflows, and production-style patterns.",
+  "friendlySummary": "This GitHub repo collects many working examples of LLM apps, agents, and RAG tools.",
+  "whyItMatters": "Builders can clone working examples instead of starting from a blank repo. It is especially useful for comparing agent and RAG patterns, adapting app scaffolds, and learning how different toolchains fit together.",
+  "friendlyWhyItMatters": "If you want to build an AI app, you can start from an example and change it instead of building everything from scratch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

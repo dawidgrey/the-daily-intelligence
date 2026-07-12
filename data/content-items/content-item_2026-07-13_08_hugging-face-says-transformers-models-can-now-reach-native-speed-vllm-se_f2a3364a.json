@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_08_hugging-face-says-transformers-models-can-now-reach-native-speed-vllm-se_f2a3364a",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "canonicalUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Hugging Face says Transformers models can now reach native-speed vLLM serving",
+  "friendlyTitle": "Hugging Face makes model serving easier with vLLM",
+  "summary": "Hugging Face says the Transformers modeling backend in vLLM now meets or beats native vLLM implementations on several Qwen3 benchmarks. The update uses runtime analysis and layer fusions so model authors can serve many Transformers models through vLLM without writing custom inference ports.",
+  "friendlySummary": "Hugging Face says many Transformers models can now run through vLLM as fast as custom vLLM versions. Developers may need less extra code to serve models quickly.",
+  "whyItMatters": "This reduces friction between research code and production serving. If model builders can train, evaluate, and serve from the same model implementation, new models can reach fast deployment paths with less duplicate engineering.",
+  "friendlyWhyItMatters": "This can help new models move from experiments to real apps faster. It also saves engineering time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

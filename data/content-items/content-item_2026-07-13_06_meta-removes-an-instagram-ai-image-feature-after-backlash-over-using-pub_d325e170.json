@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_06_meta-removes-an-instagram-ai-image-feature-after-backlash-over-using-pub_d325e170",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+  "credit": "Dylan Byers first shared Meta's reversal on X, according to TechCrunch.",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Meta removes an Instagram AI image feature after backlash over using public photos",
+  "friendlyTitle": "Meta pulled an Instagram AI image feature",
+  "summary": "Meta removed a Muse Image feature that let users generate images referencing public Instagram accounts by @-mentioning them. The company said the feature 'missed the mark' after criticism that people were not alerted when their public photos could be used this way.",
+  "friendlySummary": "Meta removed a feature that could make AI images based on public Instagram accounts. People criticized it because users were not clearly alerted when their photos could be referenced.",
+  "whyItMatters": "Consumer AI features now live inside social platforms with real identity, consent, and misuse risks. For everyday users, the lesson is to check AI privacy controls; for product teams, consent has to be designed before launch, not patched after backlash.",
+  "friendlyWhyItMatters": "AI photo tools can affect real people quickly. Platforms need clear consent rules, and users should know where their privacy settings are.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

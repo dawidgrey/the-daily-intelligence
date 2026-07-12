@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_04_anthropic-says-claude-cowork-is-mostly-doing-the-office-work-around-the_2f1bfe8f",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/how-people-are-using-claude-cowork",
+  "canonicalUrl": "https://claude.com/blog/how-people-are-using-claude-cowork",
+  "credit": "The Decoder reported the analysis from Anthropic's usage data.",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Anthropic says Claude Cowork is mostly doing the office work around the work",
+  "friendlyTitle": "Claude Cowork is mainly helping with everyday office tasks",
+  "summary": "Anthropic's analysis of 1.2 million anonymized Claude Cowork sessions found that business operations and text creation account for roughly half of usage. Common tasks include compiling status updates, creating onboarding checklists, reconciling spreadsheets, drafting documents, and preparing presentations.",
+  "friendlySummary": "Anthropic says many people use Claude Cowork for reports, checklists, spreadsheets, drafts, and presentations. These are the small tasks that often surround bigger work.",
+  "whyItMatters": "The clearest early enterprise agent use case may be mundane coordination, not dramatic job replacement. For many workers, practical value comes from turning scattered information into reports, checklists, and first drafts faster.",
+  "friendlyWhyItMatters": "This is a useful sign of where workplace AI is actually helping now: saving time on routine organization and writing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-13_01_claude-code-s-browser-mode-lets-the-agent-read-click-and-type-on-externa_995b9d56",
+  "sourceKind": "product",
+  "sourceName": "Anthropic Claude Code Docs",
+  "sourceUrl": "https://code.claude.com/docs/en/desktop#browse-external-sites",
+  "canonicalUrl": "https://code.claude.com/docs/en/desktop#browse-external-sites",
+  "credit": "ClaudeDevs on X surfaced the update; The Decoder reported the details.",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-12T20:04:33Z",
+  "createdAtUtc": "2026-07-12T20:04:33Z",
+  "updatedAtUtc": "2026-07-12T20:04:33Z",
+  "title": "Claude Code's browser mode lets the agent read, click, and type on external websites",
+  "friendlyTitle": "Claude Code can now use a browser",
+  "summary": "Anthropic added an integrated browser to Claude Code so the coding agent can open external sites, read documentation, click, and type inside a clean browser profile. The feature includes classifiers for write actions, blocks purchases, account creation, and CAPTCHA bypasses without consent, and can be restricted by organization allowlists.",
+  "friendlySummary": "Claude Code can open websites, read pages, click buttons, and type. Anthropic says there are safety checks, and companies can limit which websites it can use.",
+  "whyItMatters": "Coding agents are moving from local code editing into live web workflows such as documentation lookup, issue triage, and app testing. The practical question for teams is no longer only whether an agent can code, but exactly where it is allowed to act online.",
+  "friendlyWhyItMatters": "This could make coding assistants much more helpful, because they can look up docs and test things on the web. It also means teams need clear rules about what the agent is allowed to do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-13"
+  }
+}
