@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-12T20:04:33Z",
+  "generatedAtUtc": "2026-07-13T20:05:05Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-14",
+      "slug": "2026-07-14",
+      "status": "published",
+      "publicationDateUtc": "2026-07-13T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The practical AI stack gets more tangible",
+      "friendlyHeader": "AI tools become more useful for everyday work",
+      "summary": "Today’s issue looks at AI moving from impressive demos into everyday workflows: agent frameworks for Go, model deployment shortcuts, local spreadsheet tools, finance research, and more deliberate automation. There is also a useful reality check on what world models may—and may not—deliver next.",
+      "friendlySummary": "Today we look at AI tools that can help people get real work done. You will find new ways to build agents, use models, work with spreadsheets, and make software without so much manual setup.",
+      "itemCount": 13,
+      "href": "issues/2026-07-14.html",
+      "dataUrl": "data/daily-publications/2026-07-14.json"
+    },
     {
       "id": "daily-publication_2026-07-13",
       "slug": "2026-07-13",

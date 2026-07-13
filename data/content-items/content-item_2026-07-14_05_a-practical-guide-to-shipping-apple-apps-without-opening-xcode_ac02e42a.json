@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_05_a-practical-guide-to-shipping-apple-apps-without-opening-xcode_ac02e42a",
+  "sourceKind": "article",
+  "sourceName": "Scott Willsey",
+  "sourceUrl": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+  "canonicalUrl": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "A practical guide to shipping Apple apps without opening Xcode",
+  "friendlyTitle": "How to ship Apple apps without working in the Xcode app",
+  "summary": "This hands-on guide shows how to script the Mac and iOS release pipeline around Xcode command-line tools: project generation, building, signing, notarisation, stapling, and deployment. Xcode still has to be installed and initial credentials must be configured once.",
+  "friendlySummary": "This guide explains how to use scripts for building, signing, and sending out Mac and iPhone apps. You still install Xcode, but you do not need to keep opening its big visual app.",
+  "whyItMatters": "Coding agents are most useful when a workflow is explicit and repeatable. Turning the release path into scripts gives an agent—and its human operator—a safer, reviewable route from code to a shipped app.",
+  "friendlyWhyItMatters": "A clear script can make app releases easier to repeat. It also gives an AI coding helper a step-by-step process to follow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

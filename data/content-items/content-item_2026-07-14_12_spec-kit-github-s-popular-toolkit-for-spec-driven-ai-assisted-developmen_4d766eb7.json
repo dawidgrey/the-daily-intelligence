@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_12_spec-kit-github-s-popular-toolkit-for-spec-driven-ai-assisted-developmen_4d766eb7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/github/spec-kit",
+  "canonicalUrl": "https://github.com/github/spec-kit",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Spec Kit: GitHub’s popular toolkit for spec-driven AI-assisted development",
+  "friendlyTitle": "Spec Kit: write the plan before asking an AI to code",
+  "summary": "Spec Kit is GitHub’s toolkit for starting spec-driven development projects and currently has about 121,000 stars. It supports multiple coding-agent integrations and received a new release on July 13.",
+  "friendlySummary": "Spec Kit is a very popular GitHub toolkit that helps you describe what you want to build before an AI coding tool starts changing files.",
+  "whyItMatters": "Use it to turn a feature idea into an explicit specification and implementation plan before asking a coding agent to make broad changes. That structure can make agent work easier to review, test, and revise.",
+  "friendlyWhyItMatters": "It can help you give an AI coding agent a clearer job, which makes the result easier to check and less likely to wander off on a keyboard adventure.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_01_microsoft-previews-its-agent-framework-for-go_a28863e5",
+  "sourceKind": "product",
+  "sourceName": "Microsoft for Go Developers",
+  "sourceUrl": "https://devblogs.microsoft.com/go/microsoft-agent-framework-for-go-public-preview/",
+  "canonicalUrl": "https://devblogs.microsoft.com/go/microsoft-agent-framework-for-go-public-preview/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Microsoft previews its Agent Framework for Go",
+  "friendlyTitle": "Microsoft brings AI agent tools to Go programmers",
+  "summary": "Microsoft has released a public preview of its Agent Framework SDK for Go. It brings tool use, MCP, multi-agent workflows, checkpoints, approvals, and OpenTelemetry tracing to Go services and workers.",
+  "friendlySummary": "Microsoft has a preview toolkit for people who write software in Go. It helps them build AI agents that can use tools, work together, and keep a record of what happened.",
+  "whyItMatters": "Go is common in infrastructure and backend systems, so a native agent framework could make production-grade AI workflows easier to add where teams already run their services.",
+  "friendlyWhyItMatters": "This can help teams add AI features to the Go services they already use, without rebuilding everything in another language.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

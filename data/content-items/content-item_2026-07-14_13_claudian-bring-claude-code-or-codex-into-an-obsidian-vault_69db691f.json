@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_13_claudian-bring-claude-code-or-codex-into-an-obsidian-vault_69db691f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/YishenTu/claudian",
+  "canonicalUrl": "https://github.com/YishenTu/claudian",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Claudian: bring Claude Code or Codex into an Obsidian vault",
+  "friendlyTitle": "Claudian: use coding AI inside your Obsidian notes",
+  "summary": "Claudian is an Obsidian plugin that embeds Claude Code and Codex as collaborators in a knowledge vault. The TypeScript project has about 14,000 stars and shipped version 2.0.34 on July 13.",
+  "friendlySummary": "Claudian is an Obsidian plugin that lets people use Claude Code or Codex with their notes and project files. It has a fresh update and is popular on GitHub.",
+  "whyItMatters": "It can help Obsidian users bring AI-assisted writing, editing, and coding tasks closer to their notes and project context. Review the plugin’s permissions and provider setup before giving any agent access to a personal vault.",
+  "friendlyWhyItMatters": "It may make it easier to work with AI while staying in your note app. Check what the plugin can access before connecting it to private notes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

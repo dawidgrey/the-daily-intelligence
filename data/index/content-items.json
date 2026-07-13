@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-12T20:04:33Z",
+  "generatedAtUtc": "2026-07-13T20:05:04Z",
   "items": [
     {
-      "id": "content-item_2026-07-13_01_claude-code-s-browser-mode-lets-the-agent-read-click-and-type-on-externa_995b9d56",
+      "id": "content-item_2026-07-14_01_microsoft-previews-its-agent-framework-for-go_a28863e5",
       "sourceKind": "product",
-      "sourceName": "Anthropic Claude Code Docs",
-      "title": "Claude Code's browser mode lets the agent read, click, and type on external websites",
-      "sourceUrl": "https://code.claude.com/docs/en/desktop#browse-external-sites"
+      "sourceName": "Microsoft for Go Developers",
+      "title": "Microsoft previews its Agent Framework for Go",
+      "sourceUrl": "https://devblogs.microsoft.com/go/microsoft-agent-framework-for-go-public-preview/"
     },
     {
-      "id": "content-item_2026-07-13_02_a-token-audit-finds-claude-code-starts-far-heavier-than-opencode_065047e2",
-      "sourceKind": "article",
-      "sourceName": "Systima",
-      "title": "A token audit finds Claude Code starts far heavier than OpenCode",
-      "sourceUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
-    },
-    {
-      "id": "content-item_2026-07-13_03_agenticsts-shows-structured-memory-can-beat-ever-growing-chat-logs_4bd534f5",
-      "sourceKind": "research",
-      "sourceName": "The Decoder",
-      "title": "AgenticSTS shows structured memory can beat ever-growing chat logs",
-      "sourceUrl": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
-    },
-    {
-      "id": "content-item_2026-07-13_04_anthropic-says-claude-cowork-is-mostly-doing-the-office-work-around-the_2f1bfe8f",
-      "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic says Claude Cowork is mostly doing the office work around the work",
-      "sourceUrl": "https://claude.com/blog/how-people-are-using-claude-cowork"
-    },
-    {
-      "id": "content-item_2026-07-13_05_neatcontext-pitches-local-team-knowledge-as-the-missing-layer-for-better_89bf0dab",
-      "sourceKind": "product",
-      "sourceName": "NeatContext",
-      "title": "NeatContext pitches local team knowledge as the missing layer for better LLM answers",
-      "sourceUrl": "https://www.neatcontext.com/"
-    },
-    {
-      "id": "content-item_2026-07-13_06_meta-removes-an-instagram-ai-image-feature-after-backlash-over-using-pub_d325e170",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Meta removes an Instagram AI image feature after backlash over using public photos",
-      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-    },
-    {
-      "id": "content-item_2026-07-13_07_nvidia-explains-how-llm-architecture-choices-affect-inference-cost-and-s_9e4abf2f",
-      "sourceKind": "research",
-      "sourceName": "NVIDIA Technical Blog",
-      "title": "NVIDIA explains how LLM architecture choices affect inference cost and speed",
-      "sourceUrl": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/"
-    },
-    {
-      "id": "content-item_2026-07-13_08_hugging-face-says-transformers-models-can-now-reach-native-speed-vllm-se_f2a3364a",
+      "id": "content-item_2026-07-14_02_hugging-face-adds-a-one-click-path-into-sagemaker-studio_ca9a2a21",
       "sourceKind": "product",
       "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face says Transformers models can now reach native-speed vLLM serving",
-      "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+      "title": "Hugging Face adds a one-click path into SageMaker Studio",
+      "sourceUrl": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
     },
     {
-      "id": "content-item_2026-07-13_09_the-register-argues-smaller-specialized-models-are-becoming-the-enterpri_a665cfa8",
+      "id": "content-item_2026-07-14_03_nobie-offers-a-local-ai-ready-spreadsheet-app-for-mac_94013da3",
+      "sourceKind": "product",
+      "sourceName": "Nobie",
+      "title": "Nobie offers a local, AI-ready spreadsheet app for Mac",
+      "sourceUrl": "https://nobie.com"
+    },
+    {
+      "id": "content-item_2026-07-14_04_finterm-packages-financial-research-for-coding-agents_0a06f666",
+      "sourceKind": "product",
+      "sourceName": "Finterm",
+      "title": "Finterm packages financial research for coding agents",
+      "sourceUrl": "https://finterm.ai/"
+    },
+    {
+      "id": "content-item_2026-07-14_05_a-practical-guide-to-shipping-apple-apps-without-opening-xcode_ac02e42a",
       "sourceKind": "article",
-      "sourceName": "The Register",
-      "title": "The Register argues smaller, specialized models are becoming the enterprise AI default",
-      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070"
+      "sourceName": "Scott Willsey",
+      "title": "A practical guide to shipping Apple apps without opening Xcode",
+      "sourceUrl": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
     },
     {
-      "id": "content-item_2026-07-13_10_openai-s-model-beats-every-human-finalist-at-atcoder-s-world-tour-finals_622fa15c",
+      "id": "content-item_2026-07-14_06_a-local-llm-prototype-filters-web-pages-by-meaning_88d9e2c8",
       "sourceKind": "article",
-      "sourceName": "MLQ News",
-      "title": "OpenAI's model beats every human finalist at AtCoder's World Tour Finals",
-      "sourceUrl": "https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/"
+      "sourceName": "Source Diver",
+      "title": "A local LLM prototype filters web pages by meaning",
+      "sourceUrl": "https://sourcediver.org/posts/260713_attention_is_all_they_want/"
     },
     {
-      "id": "content-item_2026-07-13_11_shubhamsaboo-awesome-llm-apps_b409dc7b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      "id": "content-item_2026-07-14_07_a-jacobian-lens-probes-how-a-vision-language-model-represents-images_81c971c5",
+      "sourceKind": "research",
+      "sourceName": "Yogesh Kumar",
+      "title": "A Jacobian lens probes how a vision-language model represents images",
+      "sourceUrl": "https://ykumar.me/blog/j-space-oddity/"
     },
     {
-      "id": "content-item_2026-07-13_12_virattt-ai-hedge-fund_3b23309d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "virattt/ai-hedge-fund",
-      "sourceUrl": "https://github.com/virattt/ai-hedge-fund"
+      "id": "content-item_2026-07-14_08_world-models-promise-physical-intuition-but-the-path-is-unsettled_b08d670f",
+      "sourceKind": "article",
+      "sourceName": "Ars Technica",
+      "title": "World models promise physical intuition, but the path is unsettled",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
     },
     {
-      "id": "content-item_2026-07-13_13_crosstalk-solutions-project-nomad_9ba9156b",
+      "id": "content-item_2026-07-14_09_cheaper-chinese-models-are-gaining-u-s-enterprise-usage_99554ae1",
+      "sourceKind": "article",
+      "sourceName": "CNBC",
+      "title": "Cheaper Chinese models are gaining U.S. enterprise usage",
+      "sourceUrl": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
+    },
+    {
+      "id": "content-item_2026-07-14_10_waze-adds-gemini-powered-features-and-new-customisation_f35fdbbf",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Waze adds Gemini-powered features and new customisation",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
+    {
+      "id": "content-item_2026-07-14_11_opencut-a-fast-growing-open-source-video-editor-with-an-agent-ready-road_e8363556",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "Crosstalk-Solutions/project-nomad",
-      "sourceUrl": "https://github.com/Crosstalk-Solutions/project-nomad"
+      "sourceName": "GitHub Trending",
+      "title": "OpenCut: a fast-growing open-source video editor with an agent-ready roadmap",
+      "sourceUrl": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "id": "content-item_2026-07-14_12_spec-kit-github-s-popular-toolkit-for-spec-driven-ai-assisted-developmen_4d766eb7",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Spec Kit: GitHub’s popular toolkit for spec-driven AI-assisted development",
+      "sourceUrl": "https://github.com/github/spec-kit"
+    },
+    {
+      "id": "content-item_2026-07-14_13_claudian-bring-claude-code-or-codex-into-an-obsidian-vault_69db691f",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Claudian: bring Claude Code or Codex into an Obsidian vault",
+      "sourceUrl": "https://github.com/YishenTu/claudian"
     }
   ]
 }

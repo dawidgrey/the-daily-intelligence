@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_02_hugging-face-adds-a-one-click-path-into-sagemaker-studio_ca9a2a21",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "canonicalUrl": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Hugging Face adds a one-click path into SageMaker Studio",
+  "friendlyTitle": "Try a Hugging Face model in Amazon’s AI studio with one click",
+  "summary": "A new Hugging Face–Amazon deep link sends a selected model directly into the relevant Amazon SageMaker Studio workflow. The environment arrives configured with the model ready for fine-tuning or deployment.",
+  "friendlySummary": "You can now choose a model on Hugging Face and open it straight in Amazon SageMaker Studio. The model and workspace are set up for you.",
+  "whyItMatters": "The integration removes setup friction between model discovery and cloud experimentation, which is useful for teams testing open models before committing engineering time.",
+  "friendlyWhyItMatters": "This saves time for people who want to test or use an AI model without doing lots of setup first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_04_finterm-packages-financial-research-for-coding-agents_0a06f666",
+  "sourceKind": "product",
+  "sourceName": "Finterm",
+  "sourceUrl": "https://finterm.ai/",
+  "canonicalUrl": "https://finterm.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Finterm packages financial research for coding agents",
+  "friendlyTitle": "A finance research tool made for AI agents",
+  "summary": "Finterm is a preview product that gives agents structured market data, filing diffs, ticker research, options summaries, and source-labelled outputs through a CLI. It says its research workflow crawls, deduplicates, and tiers sources before returning results.",
+  "friendlySummary": "Finterm gives AI agents organised company and market information, such as earnings, filings, and price data. It also tries to remove duplicate and low-quality sources.",
+  "whyItMatters": "As more people use agents for financial research, focused data tools can make the work more repeatable and auditable. The product is explicitly not investment advice, and its outputs still need human scrutiny.",
+  "friendlyWhyItMatters": "It could help people do financial research faster, but they should still check the facts and never treat an AI answer as personal investment advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}

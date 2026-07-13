@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-14_03_nobie-offers-a-local-ai-ready-spreadsheet-app-for-mac_94013da3",
+  "sourceKind": "product",
+  "sourceName": "Nobie",
+  "sourceUrl": "https://nobie.com",
+  "canonicalUrl": "https://nobie.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-13T20:05:04Z",
+  "createdAtUtc": "2026-07-13T20:05:04Z",
+  "updatedAtUtc": "2026-07-13T20:05:04Z",
+  "title": "Nobie offers a local, AI-ready spreadsheet app for Mac",
+  "friendlyTitle": "A Mac spreadsheet app that can work with your chosen AI",
+  "summary": "Nobie is a Mac beta positioned as an Excel-compatible runtime for people and agents. It keeps XLSX files and data local, preserves Windows Excel shortcuts, and lets users choose direct connections to Claude, Codex, or Gemini.",
+  "friendlySummary": "Nobie is a new Mac app for Excel files. It says your spreadsheet stays on your computer and can connect directly to Claude, Codex, or Gemini.",
+  "whyItMatters": "For spreadsheet-heavy work, local-first AI integration offers a more private alternative to uploading workbooks into a separate service—though users should still assess the model connection they enable.",
+  "friendlyWhyItMatters": "It may give people a simpler way to use AI with spreadsheets while keeping the file format familiar and their local data under their control.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-14"
+  }
+}
