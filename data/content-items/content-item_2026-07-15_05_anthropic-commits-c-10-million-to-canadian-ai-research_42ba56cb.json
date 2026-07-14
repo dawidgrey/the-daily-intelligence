@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_05_anthropic-commits-c-10-million-to-canadian-ai-research_42ba56cb",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/canadian-ai-research",
+  "canonicalUrl": "https://www.anthropic.com/news/canadian-ai-research",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "Anthropic commits C$10 million to Canadian AI research",
+  "friendlyTitle": "Anthropic puts C$10 million into Canadian AI research",
+  "summary": "Anthropic has committed C$10 million to Canadian research institutions, including Mila, Vector and Amii, alongside hospitals and universities. The programme combines Claude credits, research partnerships and startup support, and is accompanied by a country-level Claude usage brief.",
+  "friendlySummary": "Anthropic will support Canadian AI institutes, hospitals and universities with C$10 million and Claude credits.",
+  "whyItMatters": "The announcement shows model providers competing not only on products but also on research ecosystems, specialised adoption and access to compute-backed tools in health, science and education.",
+  "friendlyWhyItMatters": "This may help researchers and startups test AI for useful work in areas like health, science and education.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

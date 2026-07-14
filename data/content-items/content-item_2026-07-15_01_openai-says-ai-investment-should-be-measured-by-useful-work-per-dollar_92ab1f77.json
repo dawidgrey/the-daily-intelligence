@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_01_openai-says-ai-investment-should-be-measured-by-useful-work-per-dollar_92ab1f77",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "canonicalUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "OpenAI says AI investment should be measured by useful work per dollar",
+  "friendlyTitle": "OpenAI says: measure useful AI work, not just token cost",
+  "summary": "OpenAI has published a five-step framework for managing AI spend as organisations move from chat to longer-running workflows. It argues that leaders should measure accepted outcomes, including human review and retries, rather than token prices alone.",
+  "friendlySummary": "OpenAI shares five steps for managing AI spending. Its main idea is to measure useful finished work, not only the price of AI tokens.",
+  "whyItMatters": "The practical shift is from buying model access to managing repeatable work: visibility, task-specific evaluations, approval paths and capacity planning become central as agents touch more business systems.",
+  "friendlyWhyItMatters": "This can help teams spend money on AI that really saves time or improves work, instead of paying for tools that do not deliver enough value.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

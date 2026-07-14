@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_04_anthropic-launches-claude-for-teachers-in-the-us_d37ce11f",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-for-teachers",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-for-teachers",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "Anthropic launches Claude for Teachers in the US",
+  "friendlyTitle": "Anthropic launches free Claude tools for US teachers",
+  "summary": "Anthropic is offering verified US K-12 educators free premium Claude access, teaching skills and a Learning Commons connector tied to standards in all 50 states. The product includes curriculum-linked lesson support and says teacher and student data will not be used for model training.",
+  "friendlySummary": "Verified K-12 teachers in the US can get free Claude tools for lesson planning, class materials and other teaching tasks.",
+  "whyItMatters": "This is a substantial attempt to move classroom AI from generic prompting to bounded, curriculum-aware teacher workflows, with data handling and educator control made explicit.",
+  "friendlyWhyItMatters": "The tools are designed to save teachers time while keeping them in charge. Anthropic says the data is not used to train its models.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

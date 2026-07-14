@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_10_mozilla-ai-argues-the-missing-layer-for-open-model-agents-is-the-api-pla_57577bed",
+  "sourceKind": "article",
+  "sourceName": "Mozilla.ai",
+  "sourceUrl": "https://blog.mozilla.ai/open-models-are-ready-for-agents-their-apis-are-not/",
+  "canonicalUrl": "https://blog.mozilla.ai/open-models-are-ready-for-agents-their-apis-are-not/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "Mozilla.ai argues the missing layer for open-model agents is the API platform",
+  "friendlyTitle": "Open AI models need better tools around them, Mozilla.ai says",
+  "summary": "Mozilla.ai argues that open models can often handle reasoning and tool use, but their surrounding APIs still lack dependable equivalents for streaming, files, search, code execution, caching and cost reporting. It points to its Otari gateway as an attempt to supply that operational layer.",
+  "friendlySummary": "Mozilla.ai says open AI models can be capable, but often lack the full set of tools needed for reliable agents, such as file handling, web search and cost tracking.",
+  "whyItMatters": "For teams considering open-model deployments, model quality is only part of the decision. The surrounding platform capabilities determine whether an agent can be reliable, observable and economical in production.",
+  "friendlyWhyItMatters": "This matters for builders because a good model alone is not enough. A useful AI agent also needs safe and reliable supporting systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

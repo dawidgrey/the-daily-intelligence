@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-13T20:05:04Z",
+  "generatedAtUtc": "2026-07-14T20:04:23Z",
   "items": [
     {
-      "id": "content-item_2026-07-14_01_microsoft-previews-its-agent-framework-for-go_a28863e5",
-      "sourceKind": "product",
-      "sourceName": "Microsoft for Go Developers",
-      "title": "Microsoft previews its Agent Framework for Go",
-      "sourceUrl": "https://devblogs.microsoft.com/go/microsoft-agent-framework-for-go-public-preview/"
-    },
-    {
-      "id": "content-item_2026-07-14_02_hugging-face-adds-a-one-click-path-into-sagemaker-studio_ca9a2a21",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face adds a one-click path into SageMaker Studio",
-      "sourceUrl": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-    },
-    {
-      "id": "content-item_2026-07-14_03_nobie-offers-a-local-ai-ready-spreadsheet-app-for-mac_94013da3",
-      "sourceKind": "product",
-      "sourceName": "Nobie",
-      "title": "Nobie offers a local, AI-ready spreadsheet app for Mac",
-      "sourceUrl": "https://nobie.com"
-    },
-    {
-      "id": "content-item_2026-07-14_04_finterm-packages-financial-research-for-coding-agents_0a06f666",
-      "sourceKind": "product",
-      "sourceName": "Finterm",
-      "title": "Finterm packages financial research for coding agents",
-      "sourceUrl": "https://finterm.ai/"
-    },
-    {
-      "id": "content-item_2026-07-14_05_a-practical-guide-to-shipping-apple-apps-without-opening-xcode_ac02e42a",
+      "id": "content-item_2026-07-15_01_openai-says-ai-investment-should-be-measured-by-useful-work-per-dollar_92ab1f77",
       "sourceKind": "article",
-      "sourceName": "Scott Willsey",
-      "title": "A practical guide to shipping Apple apps without opening Xcode",
-      "sourceUrl": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI says AI investment should be measured by useful work per dollar",
+      "sourceUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
     {
-      "id": "content-item_2026-07-14_06_a-local-llm-prototype-filters-web-pages-by-meaning_88d9e2c8",
+      "id": "content-item_2026-07-15_02_chatgpt-work-targets-data-science-workflows_cca00ce6",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Academy",
+      "title": "ChatGPT Work targets data-science workflows",
+      "sourceUrl": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "id": "content-item_2026-07-15_03_openai-outlines-sales-workflows-for-chatgpt-work_248b5ff0",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Academy",
+      "title": "OpenAI outlines sales workflows for ChatGPT Work",
+      "sourceUrl": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "id": "content-item_2026-07-15_04_anthropic-launches-claude-for-teachers-in-the-us_d37ce11f",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic launches Claude for Teachers in the US",
+      "sourceUrl": "https://www.anthropic.com/news/claude-for-teachers"
+    },
+    {
+      "id": "content-item_2026-07-15_05_anthropic-commits-c-10-million-to-canadian-ai-research_42ba56cb",
       "sourceKind": "article",
-      "sourceName": "Source Diver",
-      "title": "A local LLM prototype filters web pages by meaning",
-      "sourceUrl": "https://sourcediver.org/posts/260713_attention_is_all_they_want/"
+      "sourceName": "Anthropic",
+      "title": "Anthropic commits C$10 million to Canadian AI research",
+      "sourceUrl": "https://www.anthropic.com/news/canadian-ai-research"
     },
     {
-      "id": "content-item_2026-07-14_07_a-jacobian-lens-probes-how-a-vision-language-model-represents-images_81c971c5",
-      "sourceKind": "research",
-      "sourceName": "Yogesh Kumar",
-      "title": "A Jacobian lens probes how a vision-language model represents images",
-      "sourceUrl": "https://ykumar.me/blog/j-space-oddity/"
+      "id": "content-item_2026-07-15_06_google-deepmind-pilots-gemini-powered-support-for-indian-robotics-educat_66188580",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind pilots Gemini-powered support for Indian robotics educators",
+      "sourceUrl": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
     },
     {
-      "id": "content-item_2026-07-14_08_world-models-promise-physical-intuition-but-the-path-is-unsettled_b08d670f",
-      "sourceKind": "article",
-      "sourceName": "Ars Technica",
-      "title": "World models promise physical intuition, but the path is unsettled",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
-    },
-    {
-      "id": "content-item_2026-07-14_09_cheaper-chinese-models-are-gaining-u-s-enterprise-usage_99554ae1",
-      "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "Cheaper Chinese models are gaining U.S. enterprise usage",
-      "sourceUrl": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
-    },
-    {
-      "id": "content-item_2026-07-14_10_waze-adds-gemini-powered-features-and-new-customisation_f35fdbbf",
+      "id": "content-item_2026-07-15_07_apple-s-new-siri-reaches-the-ios-27-public-beta_dfb756fb",
       "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Waze adds Gemini-powered features and new customisation",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+      "title": "Apple’s new Siri reaches the iOS 27 public beta",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
     },
     {
-      "id": "content-item_2026-07-14_11_opencut-a-fast-growing-open-source-video-editor-with-an-agent-ready-road_e8363556",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "OpenCut: a fast-growing open-source video editor with an agent-ready roadmap",
-      "sourceUrl": "https://github.com/OpenCut-app/OpenCut"
+      "id": "content-item_2026-07-15_08_meta-executive-predicts-ai-token-budgets-will-become-a-management-issue_cfcf2428",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Meta executive predicts AI token budgets will become a management issue",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
     },
     {
-      "id": "content-item_2026-07-14_12_spec-kit-github-s-popular-toolkit-for-spec-driven-ai-assisted-developmen_4d766eb7",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Spec Kit: GitHub’s popular toolkit for spec-driven AI-assisted development",
-      "sourceUrl": "https://github.com/github/spec-kit"
+      "id": "content-item_2026-07-15_09_new-york-pauses-permits-for-large-new-data-centers_ef09d5ba",
+      "sourceKind": "regulation",
+      "sourceName": "TechCrunch",
+      "title": "New York pauses permits for large new data centers",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
     },
     {
-      "id": "content-item_2026-07-14_13_claudian-bring-claude-code-or-codex-into-an-obsidian-vault_69db691f",
+      "id": "content-item_2026-07-15_10_mozilla-ai-argues-the-missing-layer-for-open-model-agents-is-the-api-pla_57577bed",
+      "sourceKind": "article",
+      "sourceName": "Mozilla.ai",
+      "title": "Mozilla.ai argues the missing layer for open-model agents is the API platform",
+      "sourceUrl": "https://blog.mozilla.ai/open-models-are-ready-for-agents-their-apis-are-not/"
+    },
+    {
+      "id": "content-item_2026-07-15_11_millionco-react-doctor_6086f857",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Claudian: bring Claude Code or Codex into an Obsidian vault",
-      "sourceUrl": "https://github.com/YishenTu/claudian"
+      "title": "millionco/react-doctor",
+      "sourceUrl": "https://github.com/millionco/react-doctor"
+    },
+    {
+      "id": "content-item_2026-07-15_12_lordog-dive-into-llms_03532aca",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Lordog/dive-into-llms",
+      "sourceUrl": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+      "id": "content-item_2026-07-15_13_cactus-compute-needle_ab6bacc2",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "cactus-compute/needle",
+      "sourceUrl": "https://github.com/cactus-compute/needle"
     }
   ]
 }

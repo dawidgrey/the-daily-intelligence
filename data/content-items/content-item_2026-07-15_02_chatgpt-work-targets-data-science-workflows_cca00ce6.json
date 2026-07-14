@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_02_chatgpt-work-targets-data-science-workflows_cca00ce6",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Academy",
+  "sourceUrl": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+  "canonicalUrl": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "ChatGPT Work targets data-science workflows",
+  "friendlyTitle": "ChatGPT Work for data teams",
+  "summary": "OpenAI describes how data-science teams can use ChatGPT Work to turn dashboards, exports, experiment notes and business context into first-draft analysis materials, with charts, caveats, links and review questions.",
+  "friendlySummary": "OpenAI shows how data teams can use ChatGPT Work to make a first draft from dashboards, data files and notes.",
+  "whyItMatters": "It is a useful example of where AI may fit best in analytical work: assembling a reviewable starting point while people remain responsible for validation, interpretation and decisions.",
+  "friendlyWhyItMatters": "It may reduce the time spent putting reports together, while people still check the numbers and make the final decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

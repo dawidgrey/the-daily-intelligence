@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_06_google-deepmind-pilots-gemini-powered-support-for-indian-robotics-educat_66188580",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+  "canonicalUrl": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "Google DeepMind pilots Gemini-powered support for Indian robotics educators",
+  "friendlyTitle": "Google pilots an AI helper for Indian robotics teachers",
+  "summary": "Google DeepMind and India’s Atal Innovation Mission have launched an initial 100-school pilot of ATL Saathi. The Gemini-powered tool helps robotics-lab educators navigate training material, generate curriculum-aligned projects and create step-by-step experiments in multiple languages.",
+  "friendlySummary": "A new Gemini tool helps teachers in Indian robotics labs find learning materials, plan projects and explain experiments in several languages.",
+  "whyItMatters": "The pilot is a concrete test of AI as a teacher-side assistant: it aims to lower preparation and translation overhead while preserving hands-on, locally grounded learning.",
+  "friendlyWhyItMatters": "It could give teachers more support and help students spend more time building and learning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

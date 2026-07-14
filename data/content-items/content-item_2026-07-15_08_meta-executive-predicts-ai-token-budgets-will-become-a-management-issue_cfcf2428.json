@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_08_meta-executive-predicts-ai-token-budgets-will-become-a-management-issue_cfcf2428",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "Meta executive predicts AI token budgets will become a management issue",
+  "friendlyTitle": "Meta says AI spending may need limits",
+  "summary": "Instagram head Adam Mosseri told Lenny’s Podcast that companies may eventually need to cap AI token spend per engineer, treating it like other limited operating resources. He said Meta does not currently impose such caps.",
+  "friendlySummary": "A Meta executive says companies may one day set limits on how much AI token use each engineer gets. Meta does not do this now.",
+  "whyItMatters": "The comment captures an emerging operational reality: as AI agents consume more compute, organisations will need allocation rules tied to measurable return rather than treating usage as a free perk.",
+  "friendlyWhyItMatters": "AI use costs money. Teams may need simple budgets so they can keep using helpful tools without wasting resources.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

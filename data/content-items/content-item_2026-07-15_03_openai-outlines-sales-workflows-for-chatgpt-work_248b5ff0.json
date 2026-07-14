@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_03_openai-outlines-sales-workflows-for-chatgpt-work_248b5ff0",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Academy",
+  "sourceUrl": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+  "canonicalUrl": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "OpenAI outlines sales workflows for ChatGPT Work",
+  "friendlyTitle": "ChatGPT Work for sales teams",
+  "summary": "OpenAI has published a sales-focused guide for ChatGPT Work, positioning it for account briefs, meeting preparation, forecast reviews, close plans and stalled-deal analysis across connected customer-work systems.",
+  "friendlySummary": "OpenAI explains how sales teams can use ChatGPT Work to prepare for meetings, review deals and plan next steps.",
+  "whyItMatters": "For revenue teams, the near-term value is likely in reducing preparation and follow-up overhead while keeping relationship strategy and customer judgement with the seller.",
+  "friendlyWhyItMatters": "It could save time on admin work, so salespeople can spend more time with customers and use their own judgement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}

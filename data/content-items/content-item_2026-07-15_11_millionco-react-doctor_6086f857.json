@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-15_11_millionco-react-doctor_6086f857",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/millionco/react-doctor",
+  "canonicalUrl": "https://github.com/millionco/react-doctor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-14T20:04:23Z",
+  "createdAtUtc": "2026-07-14T20:04:23Z",
+  "updatedAtUtc": "2026-07-14T20:04:23Z",
+  "title": "millionco/react-doctor",
+  "friendlyTitle": "React Doctor checks React code made by AI agents",
+  "summary": "React Doctor is a TypeScript project for finding quality and correctness problems in React code, with a focus on catching patterns commonly produced by coding agents. It was the strongest AI-adjacent repository in the day’s GitHub Trending collection, with about 13.8k stars at review time.",
+  "friendlySummary": "React Doctor looks for problems in React code, including mistakes that AI coding tools can make.",
+  "whyItMatters": "Use it as an automated quality gate for agent-written or human-written React changes, especially before review or deployment. It can help teams turn common frontend mistakes into repeatable checks.",
+  "friendlyWhyItMatters": "You can use it to check a React project before you ship changes, whether the code was written by a person or an AI tool.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-15"
+  }
+}
