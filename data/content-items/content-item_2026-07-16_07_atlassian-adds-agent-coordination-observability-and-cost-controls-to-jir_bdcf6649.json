@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_07_atlassian-adds-agent-coordination-observability-and-cost-controls-to-jir_bdcf6649",
+  "sourceKind": "product",
+  "sourceName": "Atlassian",
+  "sourceUrl": "https://www.atlassian.com/blog/company-news/ai-sdlc",
+  "canonicalUrl": "https://www.atlassian.com/blog/company-news/ai-sdlc",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Atlassian adds agent coordination, observability and cost controls to Jira",
+  "friendlyTitle": "Jira adds tools to manage AI coding agents",
+  "summary": "Atlassian has announced Jira features for planning agent-ready work, assigning tasks to Claude Code, Cursor and GitHub Copilot, tracking agent sessions, and automating routine engineering loops. The release also adds cost-management features intended to map AI spend and token use to teams, projects and pull requests.",
+  "friendlySummary": "Atlassian is adding Jira tools to give coding tasks to AI agents, see their progress and track AI costs. People can still review the work before it is shipped.",
+  "whyItMatters": "The bottleneck in AI-assisted development is increasingly coordination, context and review rather than code generation alone. Integrating agents into the system of record can make their work easier to inspect, govern and improve.",
+  "friendlyWhyItMatters": "This may help software teams use AI agents without losing track of what they did or how much they cost.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_12_microsoft-markitdown_8d319652",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/microsoft/markitdown",
+  "canonicalUrl": "https://github.com/microsoft/markitdown",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "microsoft/markitdown",
+  "friendlyTitle": "MarkItDown turns documents into AI-friendly text",
+  "summary": "Microsoft’s MarkItDown converts office documents and other files into Markdown, a format that is easier to feed into LLM and retrieval workflows. The Python project had about 166k stars at review time and was among the most popular AI-adjacent repositories in GitHub Trending.",
+  "friendlySummary": "MarkItDown is a Microsoft tool that changes files like PDFs, Word documents and slides into simple Markdown text.",
+  "whyItMatters": "Use it to normalize PDFs, Word files, slides and other documents before indexing them for search, analysis or an AI assistant. Clean conversion can reduce the amount of custom parsing needed in document-heavy workflows.",
+  "friendlyWhyItMatters": "It can help developers prepare their documents for AI search, summaries and question-answer tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

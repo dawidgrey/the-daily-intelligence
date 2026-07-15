@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_01_openai-and-work-louder-launch-codex-micro-control-pad_40ea179f",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/supply/co-lab/work-louder/",
+  "canonicalUrl": "https://openai.com/supply/co-lab/work-louder/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "OpenAI and Work Louder launch Codex Micro control pad",
+  "friendlyTitle": "OpenAI launches a small keyboard for Codex AI work",
+  "summary": "OpenAI and Work Louder have released the $230 Codex Micro, a compact programmable keyboard for ChatGPT Codex. Its dedicated controls and RGB status lights are designed to surface agent state and launch common coding workflows such as review, debugging and refactoring.",
+  "friendlySummary": "OpenAI and Work Louder made a $230 mini keyboard for ChatGPT Codex. It has buttons for common coding tasks and lights that show what AI agents are doing.",
+  "whyItMatters": "It is an early example of AI-agent work moving beyond the browser into dedicated physical controls. The value will depend on whether visible status and shortcuts reduce context switching rather than merely adding desk hardware.",
+  "friendlyWhyItMatters": "It may help people keep track of AI coding tasks without always switching between windows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

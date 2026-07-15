@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_08_real-world-voiceeq-tests-whether-voice-ai-feels-human-in-real-conversati_5d7569c2",
+  "sourceKind": "research",
+  "sourceName": "Hume AI / Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/real-world-voiceeq",
+  "canonicalUrl": "https://huggingface.co/blog/real-world-voiceeq",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Real World VoiceEQ tests whether voice AI feels human in real conversations",
+  "friendlyTitle": "A new test checks whether voice AI works well with real people",
+  "summary": "Hume AI has published Real World VoiceEQ, a benchmark covering more than 40 voice models across 15-plus evaluation dimensions and 60-plus metrics. Built from more than one million human ratings, it measures qualities that transcripts miss, including emotion, speaker identity, noise robustness and conversational response.",
+  "friendlySummary": "Real World VoiceEQ compares more than 40 voice AI systems. It tests tone, emotion, accents, noise and how naturally a system responds—not only whether it hears the words.",
+  "whyItMatters": "Voice is becoming a common route into assistants, support and learning tools, but word accuracy alone does not ensure a good interaction. A broader public benchmark can help teams choose systems that listen, respond and remain reliable in real conditions.",
+  "friendlyWhyItMatters": "Better tests can help people choose voice AI that is more helpful and less confusing in daily conversations.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

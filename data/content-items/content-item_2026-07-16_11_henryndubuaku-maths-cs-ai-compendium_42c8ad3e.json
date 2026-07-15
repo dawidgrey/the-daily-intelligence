@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_11_henryndubuaku-maths-cs-ai-compendium_42c8ad3e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+  "canonicalUrl": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "HenryNdubuaku/maths-cs-ai-compendium",
+  "friendlyTitle": "A big learning guide for AI and machine learning",
+  "summary": "This fast-rising TypeScript repository is a structured compendium for aspiring AI and machine-learning research engineers, covering mathematics, computer science, machine learning, vision, speech, autonomous systems and production software engineering. It had about 5.7k stars at review time and was the leading AI-related project in the day’s GitHub Trending collection.",
+  "friendlySummary": "This popular GitHub project collects lessons on maths, coding and AI topics for people who want to become AI or machine-learning engineers.",
+  "whyItMatters": "Use it as a curriculum map when you need to strengthen the foundations behind AI work rather than only learn individual tools. Its chapter structure can help turn a sprawling study plan into a sequence of topics and exercises.",
+  "friendlyWhyItMatters": "You can use it to make a clear study plan and learn the basics behind AI tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

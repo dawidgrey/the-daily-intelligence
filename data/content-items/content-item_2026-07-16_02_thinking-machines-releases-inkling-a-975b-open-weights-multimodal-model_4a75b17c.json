@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_02_thinking-machines-releases-inkling-a-975b-open-weights-multimodal-model_4a75b17c",
+  "sourceKind": "product",
+  "sourceName": "Thinking Machines Lab",
+  "sourceUrl": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "canonicalUrl": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Thinking Machines releases Inkling, a 975B open-weights multimodal model",
+  "friendlyTitle": "Thinking Machines releases a large open AI model called Inkling",
+  "summary": "Thinking Machines Lab has released Inkling’s weights: a mixture-of-experts model with 975B total parameters and 41B active parameters, supporting text, image and audio input with up to a one-million-token context window. The company positions it as a customizable foundation model and offers fine-tuning through Tinker.",
+  "friendlySummary": "Thinking Machines released Inkling, an AI model that can work with text, pictures and audio. People can download its model weights and tune it for their own jobs.",
+  "whyItMatters": "A large open-weights multimodal model broadens the options for teams that need domain adaptation, deployment flexibility or control over their model stack. The company explicitly frames it as a balanced base model rather than claiming it is the strongest model overall.",
+  "friendlyWhyItMatters": "This gives builders more choice when they want to adapt AI to a special task instead of using one general cloud model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

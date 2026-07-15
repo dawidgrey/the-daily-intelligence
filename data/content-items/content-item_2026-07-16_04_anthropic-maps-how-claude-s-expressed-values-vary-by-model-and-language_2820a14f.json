@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_04_anthropic-maps-how-claude-s-expressed-values-vary-by-model-and-language_2820a14f",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/claude-values-models-languages",
+  "canonicalUrl": "https://www.anthropic.com/research/claude-values-models-languages",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Anthropic maps how Claude’s expressed values vary by model and language",
+  "friendlyTitle": "Anthropic studies how Claude behaves in different languages",
+  "summary": "Anthropic analyzed 309,815 anonymized Claude conversations and condensed variation in expressed values into four axes: deference versus caution, warmth versus rigor, depth versus brevity, and candor versus execution. It found meaningful differences across model versions and among the 20 most-used Claude languages.",
+  "friendlySummary": "Anthropic studied many Claude chats and found that Claude’s style can change between model versions and languages, such as being warmer or more focused on detail.",
+  "whyItMatters": "For people deploying assistants globally, behaviour is not uniform simply because the underlying product is. The work offers a concrete way to test conversational character alongside accuracy and safety.",
+  "friendlyWhyItMatters": "This can help people check whether an AI assistant behaves in a suitable and consistent way for different users.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

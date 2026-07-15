@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_05_cohere-argues-ai-costs-must-be-measured-as-total-system-cost_f41a35d8",
+  "sourceKind": "article",
+  "sourceName": "Cohere",
+  "sourceUrl": "https://cohere.com/blog/the-total-cost-of-ai-ownership",
+  "canonicalUrl": "https://cohere.com/blog/the-total-cost-of-ai-ownership",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Cohere argues AI costs must be measured as total system cost",
+  "friendlyTitle": "Cohere says AI cost is more than the price of tokens",
+  "summary": "Cohere’s new guide argues that token prices obscure the real cost of AI systems, which also includes context size, retries, tool calls, latency requirements, utilization, security and infrastructure. It frames the ownership-versus-rental decision as a workload and control question rather than a simple API-price comparison.",
+  "friendlySummary": "Cohere says companies should count all the costs of AI, including retries, tool calls, speed, security and the computers that run it—not only token prices.",
+  "whyItMatters": "This is increasingly relevant as agent workflows make many hidden model calls behind a single user action. Teams that attribute cost to completed work can make better choices about routing, hosting and when human review is worth the expense.",
+  "friendlyWhyItMatters": "This can help teams avoid surprise bills and choose AI tools that give real value for the money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

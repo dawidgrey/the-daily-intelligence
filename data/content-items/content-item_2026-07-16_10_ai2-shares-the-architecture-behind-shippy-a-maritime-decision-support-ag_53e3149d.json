@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_10_ai2-shares-the-architecture-behind-shippy-a-maritime-decision-support-ag_53e3149d",
+  "sourceKind": "article",
+  "sourceName": "Ai2 / Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Ai2 shares the architecture behind Shippy, a maritime decision-support agent",
+  "friendlyTitle": "Ai2 shows how it built a careful AI helper for maritime data",
+  "summary": "Ai2 explains how its Shippy maritime-awareness agent combines versioned skills, a typed API, a purpose-built command-line interface, isolated sessions and task-specific evaluations against live data. The agent is designed to show sources and limits, while avoiding legal determinations or unsupported speculation.",
+  "friendlySummary": "Ai2 explains how its Shippy agent uses clear tools, private sessions and regular tests to help people study live maritime information without guessing beyond the data.",
+  "whyItMatters": "The design is a useful case study in putting agents into consequential workflows: constrain the tools, isolate user data, test the complete system and make answers reviewable. Those lessons travel well beyond maritime analysis.",
+  "friendlyWhyItMatters": "It offers useful ideas for building AI helpers that people can check and trust in important jobs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

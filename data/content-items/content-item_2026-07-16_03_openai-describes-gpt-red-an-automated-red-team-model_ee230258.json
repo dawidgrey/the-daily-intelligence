@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_03_openai-describes-gpt-red-an-automated-red-team-model_ee230258",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "canonicalUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "OpenAI describes GPT-Red, an automated red-team model",
+  "friendlyTitle": "OpenAI uses one AI to test another AI for safety problems",
+  "summary": "OpenAI says it trained GPT-Red to find vulnerabilities, especially prompt-injection failures, and then used the resulting attacks to train GPT-5.6. The company reports six times fewer failures on its hardest direct prompt-injection benchmark than its best production model four months earlier.",
+  "friendlySummary": "OpenAI built GPT-Red to look for ways AI systems can be tricked, then used those tests to train a stronger model to resist them.",
+  "whyItMatters": "As agents browse, read files and call tools, prompt injection becomes a practical reliability and security problem. Automated adversarial testing could help safety work scale, though OpenAI’s reported results remain vendor claims that need continued independent scrutiny.",
+  "friendlyWhyItMatters": "This could make AI agents safer when they read web pages, emails and files that may contain harmful instructions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

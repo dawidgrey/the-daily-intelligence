@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_06_microsoft-and-3m-pair-data-center-optics-with-agent-driven-back-office-w_5cf329cd",
+  "sourceKind": "article",
+  "sourceName": "Microsoft",
+  "sourceUrl": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation/",
+  "canonicalUrl": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "Microsoft and 3M pair data-center optics with agent-driven back-office work",
+  "friendlyTitle": "Microsoft and 3M combine AI data centers with office automation",
+  "summary": "Microsoft and 3M announced a partnership that will deploy 3M’s Expanded Beam Optical technology in Azure data centers while using Microsoft AI in 3M operations. One planned workflow applies AI agents to customer-order processes including credit checks, delinquency assessment and system updates, with approvals and monitoring.",
+  "friendlySummary": "Microsoft will use 3M’s optical technology in Azure data centers. 3M also plans to use Microsoft AI agents to help with customer-order work, with people checking important actions.",
+  "whyItMatters": "The announcement links two sides of AI adoption: less visible physical infrastructure and tightly scoped workflow automation. It also illustrates the growing expectation that business agents have human approval paths and auditability.",
+  "friendlyWhyItMatters": "It shows that useful AI needs both strong computer infrastructure and clear human checks in everyday business work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}

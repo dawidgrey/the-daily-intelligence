@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-16_09_ibm-research-model-routing-is-a-systems-problem-not-a-price-sheet-lookup_5c8332d4",
+  "sourceKind": "research",
+  "sourceName": "IBM Research / Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-15T20:05:53Z",
+  "createdAtUtc": "2026-07-15T20:05:53Z",
+  "updatedAtUtc": "2026-07-15T20:05:53Z",
+  "title": "IBM Research: model routing is a systems problem, not a price-sheet lookup",
+  "friendlyTitle": "IBM says choosing an AI model is not as simple as picking the cheapest one",
+  "summary": "IBM Research reports that routing agent tasks by headline model price or apparent difficulty can miss the actual cost and latency effects of caching, workload patterns, infrastructure and governance requirements. In its AppWorld experiment, its optimization-based router traded cost, accuracy and latency across configurations rather than picking a single model per task class.",
+  "friendlySummary": "IBM Research says AI systems need to consider speed, cached data, reliability and rules as well as model prices when choosing which model does a task.",
+  "whyItMatters": "Multi-model AI stacks are becoming normal, but a cheap model on paper is not necessarily cheap in an agent loop. Measuring full workflow behaviour can improve both spend control and user experience.",
+  "friendlyWhyItMatters": "This can help teams build AI tools that are faster and less expensive without making them less reliable.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-16"
+  }
+}
