@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_08_roblox-launches-build-a-mobile-ai-starting-point-for-games_829f3773",
+  "sourceKind": "product",
+  "sourceName": "Roblox",
+  "sourceUrl": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+  "canonicalUrl": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Roblox launches Build, a mobile AI starting point for games",
+  "friendlyTitle": "Roblox lets people start making games from a text prompt",
+  "summary": "Roblox has announced Build, a mobile-first creation tab that turns a text prompt into a basic game users can iterate on, playtest and share. The company says agentic Studio tools will begin testing on July 28 and that its discovery systems will continue to weight sustained player engagement.",
+  "friendlySummary": "Roblox announced Build, a tool in its mobile app that can turn a written game idea into a basic game. People can then test it, change it and share it.",
+  "whyItMatters": "Game creation is becoming accessible from a phone, which can help more people prototype ideas and learn by making. Roblox’s emphasis on retention rather than raw output is also a sensible signal that generative volume alone should not determine what gets promoted.",
+  "friendlyWhyItMatters": "This can help more people try game design without knowing how to code first. A good game still needs testing and players who want to keep playing it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

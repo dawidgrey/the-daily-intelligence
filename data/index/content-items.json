@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-15T20:05:53Z",
+  "generatedAtUtc": "2026-07-16T20:06:35Z",
   "items": [
     {
-      "id": "content-item_2026-07-16_01_openai-and-work-louder-launch-codex-micro-control-pad_40ea179f",
+      "id": "content-item_2026-07-17_01_google-renames-notebooklm-to-gemini-notebook-and-adds-a-cloud-computer_f8da2c94",
       "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google renames NotebookLM to Gemini Notebook and adds a cloud computer",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+    },
+    {
+      "id": "content-item_2026-07-17_02_kimi-introduces-k3-a-2-8t-parameter-open-model-for-long-context-work_cfc1d3c1",
+      "sourceKind": "product",
+      "sourceName": "Kimi / Moonshot AI",
+      "title": "Kimi introduces K3, a 2.8T-parameter open model for long-context work",
+      "sourceUrl": "https://www.kimi.com/it-it/blog/kimi-k3"
+    },
+    {
+      "id": "content-item_2026-07-17_03_google-vids-adds-gemini-omni-generation-and-personal-avatars_0199c958",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google Vids adds Gemini Omni generation and personal avatars",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+    },
+    {
+      "id": "content-item_2026-07-17_04_google-search-ai-mode-starts-connecting-to-third-party-apps_a564401b",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google Search AI Mode starts connecting to third-party apps",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+    },
+    {
+      "id": "content-item_2026-07-17_05_cars24-describes-using-ai-agents-across-customer-conversations-and-inter_76bab6ae",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI and Work Louder launch Codex Micro control pad",
-      "sourceUrl": "https://openai.com/supply/co-lab/work-louder/"
+      "title": "Cars24 describes using AI agents across customer conversations and internal work",
+      "sourceUrl": "https://openai.com/index/cars24/"
     },
     {
-      "id": "content-item_2026-07-16_02_thinking-machines-releases-inkling-a-975b-open-weights-multimodal-model_4a75b17c",
-      "sourceKind": "product",
-      "sourceName": "Thinking Machines Lab",
-      "title": "Thinking Machines releases Inkling, a 975B open-weights multimodal model",
-      "sourceUrl": "https://thinkingmachines.ai/news/introducing-inkling/"
-    },
-    {
-      "id": "content-item_2026-07-16_03_openai-describes-gpt-red-an-automated-red-team-model_ee230258",
-      "sourceKind": "research",
+      "id": "content-item_2026-07-17_06_openai-outlines-teen-protections-and-learning-controls-in-chatgpt_0d5c72e1",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI describes GPT-Red, an automated red-team model",
-      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+      "title": "OpenAI outlines teen protections and learning controls in ChatGPT",
+      "sourceUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai/"
     },
     {
-      "id": "content-item_2026-07-16_04_anthropic-maps-how-claude-s-expressed-values-vary-by-model-and-language_2820a14f",
+      "id": "content-item_2026-07-17_07_google-deepmind-and-isomorphic-labs-set-out-a-bioresilience-programme_28780037",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic maps how Claude’s expressed values vary by model and language",
-      "sourceUrl": "https://www.anthropic.com/research/claude-values-models-languages"
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind and Isomorphic Labs set out a bioresilience programme",
+      "sourceUrl": "https://deepmind.google/blog/our-approach-to-bioresilience/"
     },
     {
-      "id": "content-item_2026-07-16_05_cohere-argues-ai-costs-must-be-measured-as-total-system-cost_f41a35d8",
-      "sourceKind": "article",
-      "sourceName": "Cohere",
-      "title": "Cohere argues AI costs must be measured as total system cost",
-      "sourceUrl": "https://cohere.com/blog/the-total-cost-of-ai-ownership"
-    },
-    {
-      "id": "content-item_2026-07-16_06_microsoft-and-3m-pair-data-center-optics-with-agent-driven-back-office-w_5cf329cd",
-      "sourceKind": "article",
-      "sourceName": "Microsoft",
-      "title": "Microsoft and 3M pair data-center optics with agent-driven back-office work",
-      "sourceUrl": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation/"
-    },
-    {
-      "id": "content-item_2026-07-16_07_atlassian-adds-agent-coordination-observability-and-cost-controls-to-jir_bdcf6649",
+      "id": "content-item_2026-07-17_08_roblox-launches-build-a-mobile-ai-starting-point-for-games_829f3773",
       "sourceKind": "product",
-      "sourceName": "Atlassian",
-      "title": "Atlassian adds agent coordination, observability and cost controls to Jira",
-      "sourceUrl": "https://www.atlassian.com/blog/company-news/ai-sdlc"
+      "sourceName": "Roblox",
+      "title": "Roblox launches Build, a mobile AI starting point for games",
+      "sourceUrl": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox"
     },
     {
-      "id": "content-item_2026-07-16_08_real-world-voiceeq-tests-whether-voice-ai-feels-human-in-real-conversati_5d7569c2",
-      "sourceKind": "research",
-      "sourceName": "Hume AI / Hugging Face",
-      "title": "Real World VoiceEQ tests whether voice AI feels human in real conversations",
-      "sourceUrl": "https://huggingface.co/blog/real-world-voiceeq"
+      "id": "content-item_2026-07-17_09_doordash-opens-a-limited-beta-of-dd-cli-for-agent-driven-ordering_8d2ba877",
+      "sourceKind": "x",
+      "sourceName": "X",
+      "title": "DoorDash opens a limited beta of dd-cli for agent-driven ordering",
+      "sourceUrl": "https://x.com/andyfang/status/2077516962515599799"
     },
     {
-      "id": "content-item_2026-07-16_09_ibm-research-model-routing-is-a-systems-problem-not-a-price-sheet-lookup_5c8332d4",
-      "sourceKind": "research",
-      "sourceName": "IBM Research / Hugging Face",
-      "title": "IBM Research: model routing is a systems problem, not a price-sheet lookup",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+      "id": "content-item_2026-07-17_10_japan-and-nvidia-announce-a-national-physical-ai-infrastructure-project_a9329d1b",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA",
+      "title": "Japan and NVIDIA announce a national physical-AI infrastructure project",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure"
     },
     {
-      "id": "content-item_2026-07-16_10_ai2-shares-the-architecture-behind-shippy-a-maritime-decision-support-ag_53e3149d",
-      "sourceKind": "article",
-      "sourceName": "Ai2 / Hugging Face",
-      "title": "Ai2 shares the architecture behind Shippy, a maritime decision-support agent",
-      "sourceUrl": "https://huggingface.co/blog/allenai/shippy-tech-blog"
-    },
-    {
-      "id": "content-item_2026-07-16_11_henryndubuaku-maths-cs-ai-compendium_42c8ad3e",
+      "id": "content-item_2026-07-17_11_hkuds-deeptutor_f9173bb7",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "HenryNdubuaku/maths-cs-ai-compendium",
-      "sourceUrl": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+      "title": "HKUDS/DeepTutor",
+      "sourceUrl": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "id": "content-item_2026-07-16_12_microsoft-markitdown_8d319652",
+      "id": "content-item_2026-07-17_12_moeru-ai-airi_b887f733",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "microsoft/markitdown",
-      "sourceUrl": "https://github.com/microsoft/markitdown"
+      "title": "moeru-ai/airi",
+      "sourceUrl": "https://github.com/moeru-ai/airi"
     },
     {
-      "id": "content-item_2026-07-16_13_browseros-ai-browseros_be856616",
+      "id": "content-item_2026-07-17_13_posthog-posthog_f71cd1ab",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "browseros-ai/BrowserOS",
-      "sourceUrl": "https://github.com/browseros-ai/BrowserOS"
+      "title": "PostHog/posthog",
+      "sourceUrl": "https://github.com/PostHog/posthog"
     }
   ]
 }

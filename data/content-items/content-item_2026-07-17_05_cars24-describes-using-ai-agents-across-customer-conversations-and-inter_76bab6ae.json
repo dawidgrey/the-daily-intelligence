@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_05_cars24-describes-using-ai-agents-across-customer-conversations-and-inter_76bab6ae",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/cars24/",
+  "canonicalUrl": "https://openai.com/index/cars24/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Cars24 describes using AI agents across customer conversations and internal work",
+  "friendlyTitle": "Cars24 uses AI agents for customer help and team work",
+  "summary": "Cars24 says its OpenAI-powered voice and chat agents now handle more than one million conversation minutes each month across buying, selling, financing and support. The company also reports using ChatGPT Enterprise and Codex across its central organisation, including engineering, finance, legal, marketing and operations.",
+  "friendlySummary": "Cars24 says its AI phone and chat helpers now manage more than one million minutes of customer conversations each month. It also uses AI tools in teams such as engineering, finance and marketing.",
+  "whyItMatters": "The case study shows the more credible agent pattern: target an existing, high-volume workflow, keep the process connected to real systems, and extend only after it works. The reported figures are vendor and customer claims, not an independent audit, but the operational detail is useful for teams planning similar deployments.",
+  "friendlyWhyItMatters": "This is an example of AI helping with real, repeated work. The results are reported by the companies, so other businesses should test their own results before making big promises.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

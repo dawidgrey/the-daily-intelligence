@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_11_hkuds-deeptutor_f9173bb7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/HKUDS/DeepTutor",
+  "canonicalUrl": "https://github.com/HKUDS/DeepTutor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "HKUDS/DeepTutor",
+  "friendlyTitle": "DeepTutor is an AI study helper you can run yourself",
+  "summary": "DeepTutor is an open-source, lifelong personalised tutoring system with a knowledge centre for ingesting and managing learning materials. The repository is trending strongly and its recent release adds more granular document removal and retry handling for knowledge bases.",
+  "friendlySummary": "DeepTutor is an open-source tutoring tool. It can organise learning materials and give more personal help over time.",
+  "whyItMatters": "Use it to build a private study assistant around your own notes, documents and curriculum material, rather than a generic chatbot. It is especially relevant for learners or educators who want persistent context and controllable source material.",
+  "friendlyWhyItMatters": "You can use it to make a study helper with your own notes and documents. This can be useful for students and teachers who want more control over the material.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

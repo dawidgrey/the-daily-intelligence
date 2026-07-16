@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_10_japan-and-nvidia-announce-a-national-physical-ai-infrastructure-project_a9329d1b",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA",
+  "sourceUrl": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+  "canonicalUrl": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Japan and NVIDIA announce a national physical-AI infrastructure project",
+  "friendlyTitle": "Japan and NVIDIA plan a large AI system for industry and robots",
+  "summary": "NVIDIA says it is working with Noetra and Japanese industry and government partners on an AI factory for the FRONTia Project. The proposed 140-megawatt system is intended to support open multimodal foundation models for agents, digital twins, robotics and physical-AI applications across sectors including manufacturing, logistics and healthcare.",
+  "friendlySummary": "Japan, NVIDIA and partners announced plans for a large AI computing project. It is meant to support AI for factories, transport, healthcare, robots and digital twins.",
+  "whyItMatters": "National-scale compute is becoming part of industrial strategy, especially where AI meets factories, transport and health systems. The useful outcome will depend on whether this infrastructure translates into reliable, accessible applications rather than only impressive capacity figures.",
+  "friendlyWhyItMatters": "Big computing projects can help build useful tools for real-world work. The key question is whether they lead to safe and reliable services people can actually use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

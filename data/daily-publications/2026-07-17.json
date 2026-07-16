@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-17",
+  "slug": "2026-07-17",
+  "status": "published",
+  "publicationDateUtc": "2026-07-16T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Open models grow up, while AI moves into everyday interfaces",
+  "friendlyHeader": "Better AI tools are coming to daily work and life",
+  "summary": "Today’s brief follows a fast-moving split screen: large open models and national AI infrastructure on one side, and useful AI features in search, video, games, commerce and work on the other. The practical thread is clear: AI is becoming easier to shape, connect and put to work — but it still needs thoughtful boundaries.",
+  "friendlySummary": "Today we look at new AI models, helpful tools, and projects you can try. AI is showing up in search, videos, games, shopping and work. It can save time, but it still needs careful use.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-17_01_google-renames-notebooklm-to-gemini-notebook-and-adds-a-cloud-computer_f8da2c94",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_02_kimi-introduces-k3-a-2-8t-parameter-open-model-for-long-context-work_cfc1d3c1",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_03_google-vids-adds-gemini-omni-generation-and-personal-avatars_0199c958",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_04_google-search-ai-mode-starts-connecting-to-third-party-apps_a564401b",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_05_cars24-describes-using-ai-agents-across-customer-conversations-and-inter_76bab6ae",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_06_openai-outlines-teen-protections-and-learning-controls-in-chatgpt_0d5c72e1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_07_google-deepmind-and-isomorphic-labs-set-out-a-bioresilience-programme_28780037",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_08_roblox-launches-build-a-mobile-ai-starting-point-for-games_829f3773",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_09_doordash-opens-a-limited-beta-of-dd-cli-for-agent-driven-ordering_8d2ba877",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_10_japan-and-nvidia-announce-a-national-physical-ai-infrastructure-project_a9329d1b",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_11_hkuds-deeptutor_f9173bb7",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_12_moeru-ai-airi_b887f733",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-17_13_posthog-posthog_f71cd1ab",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-17.json",
+    "itemCount": 13
+  }
+}

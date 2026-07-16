@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_04_google-search-ai-mode-starts-connecting-to-third-party-apps_a564401b",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Google Search AI Mode starts connecting to third-party apps",
+  "friendlyTitle": "Google AI Search can now work with some apps",
+  "summary": "Google is beginning a U.S. rollout that lets people securely link services including Instacart, Canva and YouTube in Search’s AI Mode. The integrations can move a grocery list to a cart, surface design templates or save a playlist without leaving the conversational search flow.",
+  "friendlySummary": "Google is adding app connections to AI Mode in Search in the U.S. It can help send a grocery list to Instacart, find Canva templates, or save music to YouTube.",
+  "whyItMatters": "This is a concrete shift from AI answers toward AI-assisted completion of everyday tasks. It also makes account-linking, permission review and knowing where an action will be completed part of ordinary search literacy.",
+  "friendlyWhyItMatters": "AI search is starting to help finish small tasks, not only answer questions. Check which accounts you connect and what the AI is allowed to do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

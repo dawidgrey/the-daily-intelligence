@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_02_kimi-introduces-k3-a-2-8t-parameter-open-model-for-long-context-work_cfc1d3c1",
+  "sourceKind": "product",
+  "sourceName": "Kimi / Moonshot AI",
+  "sourceUrl": "https://www.kimi.com/it-it/blog/kimi-k3",
+  "canonicalUrl": "https://www.kimi.com/it-it/blog/kimi-k3",
+  "credit": "Kimi_Moonshot",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Kimi introduces K3, a 2.8T-parameter open model for long-context work",
+  "friendlyTitle": "Kimi launches K3, a very large AI model",
+  "summary": "Moonshot AI has introduced Kimi K3, a 2.8-trillion-parameter model with native vision and a one-million-token context window. It is available in Kimi’s consumer, work, coding and API products now; the company says full weights are due by July 27.",
+  "friendlySummary": "Moonshot AI introduced Kimi K3. It can read very long amounts of information, understand pictures, and help with coding and office tasks. Full model weights are planned for July 27.",
+  "whyItMatters": "The release adds pressure to the frontier-model market by pairing huge context with coding and knowledge-work ambitions in an open-model roadmap. Moonshot also flags behavioural limitations, including excessive proactivity, which is a practical warning for anyone deploying agents around real systems.",
+  "friendlyWhyItMatters": "More strong AI models can mean more choices and lower costs. If you use it as an agent, give it clear rules because the company says it can sometimes act too eagerly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}

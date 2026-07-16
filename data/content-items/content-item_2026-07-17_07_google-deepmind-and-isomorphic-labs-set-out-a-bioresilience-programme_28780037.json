@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-17_07_google-deepmind-and-isomorphic-labs-set-out-a-bioresilience-programme_28780037",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+  "canonicalUrl": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-16T20:06:35Z",
+  "createdAtUtc": "2026-07-16T20:06:35Z",
+  "updatedAtUtc": "2026-07-16T20:06:35Z",
+  "title": "Google DeepMind and Isomorphic Labs set out a bioresilience programme",
+  "friendlyTitle": "Google DeepMind shares a plan to use AI for disease safety",
+  "summary": "Google DeepMind and Isomorphic Labs have published a joint approach to bioresilience, covering prevention of model misuse and the use of AI for outbreak detection and countermeasure design. They describe more than 15 partnerships with government, biosecurity and research groups over the past year.",
+  "friendlySummary": "Google DeepMind and Isomorphic Labs shared a plan for using AI to spot outbreaks faster and help design treatments. They also describe safety steps to reduce misuse of powerful biology tools.",
+  "whyItMatters": "AI’s most valuable health impact may come from speeding up surveillance, analysis and drug discovery, but these capabilities need tightly governed access. The announcement makes the dual-use trade-off explicit: useful scientific models need safeguards, monitoring and trusted-partner deployment.",
+  "friendlyWhyItMatters": "AI may help researchers respond to diseases more quickly. Because biology tools can be misused, careful access and safety checks are very important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-17"
+  }
+}
