@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_12_lobehub-lobehub_78619289",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/lobehub/lobehub",
+  "canonicalUrl": "https://github.com/lobehub/lobehub",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "lobehub/lobehub",
+  "friendlyTitle": "LobeHub helps organise a team of AI agents",
+  "summary": "LobeHub is an actively developed platform for organising, scheduling and monitoring teams of AI agents, with a broad self-hostable interface and model ecosystem. The repository has roughly 80,000 stars and ranked among the day’s most active AI-related GitHub Trending projects.",
+  "friendlySummary": "LobeHub is an open-source platform for setting up, scheduling and watching several AI agents. It can be self-hosted and works with many models.",
+  "whyItMatters": "Use it to experiment with recurring agent workflows, multiple specialist agents and central reporting without building an operator dashboard from scratch. Before connecting business accounts, inspect its deployment, identity, permission and data-retention settings.",
+  "friendlyWhyItMatters": "Try it when one agent is not enough for a workflow. Check permissions and privacy carefully before giving agents access to work accounts or data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

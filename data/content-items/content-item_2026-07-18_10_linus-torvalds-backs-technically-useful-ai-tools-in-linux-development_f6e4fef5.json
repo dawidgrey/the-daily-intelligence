@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_10_linus-torvalds-backs-technically-useful-ai-tools-in-linux-development_f6e4fef5",
+  "sourceKind": "article",
+  "sourceName": "Linux kernel mailing list",
+  "sourceUrl": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+  "canonicalUrl": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "Linus Torvalds backs technically useful AI tools in Linux development",
+  "friendlyTitle": "Linus Torvalds says Linux should judge AI tools by their results",
+  "summary": "In a Linux kernel mailing-list discussion about the Sashiko AI code-review system, Linus Torvalds said the project is not anti-AI and should judge tools on technical merit. He also acknowledged that AI can increase maintainer workload, arguing that tools must be shaped to help reviewers rather than create more noise.",
+  "friendlySummary": "Linus Torvalds says the Linux project is not against AI tools. He believes they can be useful, but they should make maintainers’ work easier instead of adding noise.",
+  "whyItMatters": "The position sets a pragmatic standard for AI-assisted open-source work: acceptance should depend on demonstrated review value, not ideology or novelty. Teams can apply the same test by measuring defects found, false positives and the extra time imposed on human maintainers.",
+  "friendlyWhyItMatters": "Teams should test whether an AI review tool finds real problems and saves time. A tool is not helpful if people must spend more time checking weak suggestions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-18",
+  "slug": "2026-07-18",
+  "status": "published",
+  "publicationDateUtc": "2026-07-17T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets more useful — and its safety boundaries get more real",
+  "friendlyHeader": "Useful AI also needs strong safety limits",
+  "summary": "Today’s issue moves from measurement and production engineering to the harder edges of deployment: an AI-led intrusion, destructive coding-agent mistakes and workplace resistance to robots. The practical lesson is consistent: useful AI needs measurable outcomes, scoped access and systems that assume models can fail.",
+  "friendlySummary": "Today we look at ways to measure AI, build better tools and use agents safely. AI can save time and help with real work, but people still need clear permissions, backups and control.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-18_01_hugging-face-discloses-an-autonomous-ai-led-intrusion_d8ed3199",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_02_openai-proposes-measuring-ai-by-useful-work-per-dollar_3ebda52f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_03_patreon-moves-from-requesting-to-enforcing-limits-on-ai-training-crawler_f968625d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_04_netflix-explains-how-it-serves-large-language-models-in-house_b9e69a20",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_05_nvidia-and-hugging-face-bring-distributed-fine-tuning-to-diffusers-model_a0bbc2c6",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_06_design-arena-finds-gpt-5-6-sol-leads-its-single-turn-web-design-benchmar_ff31ee0d",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_07_hyundai-workers-strike-as-humanoid-robot-plans-enter-labour-negotiations_2a21e49a",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_08_researchers-argue-that-secure-agents-must-treat-the-model-as-untrusted_652f18a6",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_09_openai-confirms-rare-gpt-5-6-file-deletions-in-unrestricted-codex-sessio_db2dfe49",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_10_linus-torvalds-backs-technically-useful-ai-tools-in-linux-development_f6e4fef5",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_11_ibelick-ui-skills_28c0f331",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_12_lobehub-lobehub_78619289",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-18_13_n8n-io-n8n_f791d596",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-18.json",
+    "itemCount": 13
+  }
+}

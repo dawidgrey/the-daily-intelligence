@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_04_netflix-explains-how-it-serves-large-language-models-in-house_b9e69a20",
+  "sourceKind": "article",
+  "sourceName": "Netflix Technology Blog",
+  "sourceUrl": "https://netflixtechblog.medium.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+  "canonicalUrl": "https://netflixtechblog.medium.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "Netflix explains how it serves large language models in-house",
+  "friendlyTitle": "Netflix shares how it runs AI models on its own systems",
+  "summary": "Netflix’s AI platform teams describe an internal LLM serving stack built around vLLM, NVIDIA Triton and a shared production control plane. They expose an OpenAI-compatible HTTP interface alongside existing gRPC services, while documenting version mismatches, custom-model escape hatches and rollout trade-offs discovered under load.",
+  "friendlySummary": "Netflix built an internal service for running large language models. It uses common open-source tools and a standard API so teams can move between hosted and self-run models more easily.",
+  "whyItMatters": "The account offers a grounded blueprint for organisations considering self-hosted models for privacy, cost or customisation. Standard APIs can make model swaps easier, but production reliability still depends on strict version pinning, observability and controlled deployment paths.",
+  "friendlyWhyItMatters": "This can help engineering teams plan private AI systems. The important work is not only choosing a model, but also testing versions, watching failures and updating safely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

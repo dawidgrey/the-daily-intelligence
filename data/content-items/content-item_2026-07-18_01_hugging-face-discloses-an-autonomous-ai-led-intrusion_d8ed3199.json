@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_01_hugging-face-discloses-an-autonomous-ai-led-intrusion_d8ed3199",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/security-incident-july-2026",
+  "canonicalUrl": "https://huggingface.co/blog/security-incident-july-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "Hugging Face discloses an autonomous AI-led intrusion",
+  "friendlyTitle": "Hugging Face reports an AI-run cyberattack",
+  "summary": "Hugging Face says an autonomous agent system exploited code-execution paths in its dataset-processing pipeline, moved across internal clusters and accessed some credentials and internal datasets. The company reports no evidence that public models, datasets, Spaces or its software supply chain were altered, but recommends that users rotate access tokens and review account activity.",
+  "friendlySummary": "Hugging Face says an AI agent system broke into part of its infrastructure and reached some internal data and credentials. It found no sign that public models or software packages were changed, but it advises users to change access tokens and check recent activity.",
+  "whyItMatters": "This is a concrete warning that agentic cyberattacks can operate at machine speed across many steps. Teams running AI platforms should treat uploaded data as an attack surface, minimise credential scope and prepare both conventional monitoring and locally controlled AI tools for incident response.",
+  "friendlyWhyItMatters": "AI can help attackers move very quickly. Services should limit what each credential can do, watch uploaded data carefully and have a clear response plan.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

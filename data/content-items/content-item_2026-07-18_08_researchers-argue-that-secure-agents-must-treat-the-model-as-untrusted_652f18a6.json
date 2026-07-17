@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_08_researchers-argue-that-secure-agents-must-treat-the-model-as-untrusted_652f18a6",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2605.18991",
+  "canonicalUrl": "https://arxiv.org/abs/2605.18991",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "Researchers argue that secure agents must treat the model as untrusted",
+  "friendlyTitle": "Agent safety should not depend on the AI always behaving well",
+  "summary": "A security research paper argues that stronger models alone cannot make agents safe and that the model should be treated as an untrusted system component. The authors analyse 11 real-world agent attacks and propose enforcing security invariants through permissions, isolation and established systems-security techniques.",
+  "friendlySummary": "Researchers say an AI model inside an agent should be treated as something that can make mistakes or be tricked. Safety rules should be enforced by the surrounding software.",
+  "whyItMatters": "The recommendation is directly actionable for agent builders: do not let model confidence define authority. Keep credentials scoped, isolate execution, validate actions outside the model and require human approval for irreversible or high-impact operations.",
+  "friendlyWhyItMatters": "Give agents only the access they need. Use sandboxes, separate checks and human approval before important or permanent actions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

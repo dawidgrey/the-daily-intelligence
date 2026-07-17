@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-16T20:06:35Z",
+  "generatedAtUtc": "2026-07-17T20:05:41Z",
   "items": [
     {
-      "id": "content-item_2026-07-17_01_google-renames-notebooklm-to-gemini-notebook-and-adds-a-cloud-computer_f8da2c94",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google renames NotebookLM to Gemini Notebook and adds a cloud computer",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+      "id": "content-item_2026-07-18_01_hugging-face-discloses-an-autonomous-ai-led-intrusion_d8ed3199",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face discloses an autonomous AI-led intrusion",
+      "sourceUrl": "https://huggingface.co/blog/security-incident-july-2026"
     },
     {
-      "id": "content-item_2026-07-17_02_kimi-introduces-k3-a-2-8t-parameter-open-model-for-long-context-work_cfc1d3c1",
-      "sourceKind": "product",
-      "sourceName": "Kimi / Moonshot AI",
-      "title": "Kimi introduces K3, a 2.8T-parameter open model for long-context work",
-      "sourceUrl": "https://www.kimi.com/it-it/blog/kimi-k3"
-    },
-    {
-      "id": "content-item_2026-07-17_03_google-vids-adds-gemini-omni-generation-and-personal-avatars_0199c958",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google Vids adds Gemini Omni generation and personal avatars",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
-    },
-    {
-      "id": "content-item_2026-07-17_04_google-search-ai-mode-starts-connecting-to-third-party-apps_a564401b",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google Search AI Mode starts connecting to third-party apps",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/connected-apps/"
-    },
-    {
-      "id": "content-item_2026-07-17_05_cars24-describes-using-ai-agents-across-customer-conversations-and-inter_76bab6ae",
+      "id": "content-item_2026-07-18_02_openai-proposes-measuring-ai-by-useful-work-per-dollar_3ebda52f",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "Cars24 describes using AI agents across customer conversations and internal work",
-      "sourceUrl": "https://openai.com/index/cars24/"
+      "title": "OpenAI proposes measuring AI by useful work per dollar",
+      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
-      "id": "content-item_2026-07-17_06_openai-outlines-teen-protections-and-learning-controls-in-chatgpt_0d5c72e1",
+      "id": "content-item_2026-07-18_03_patreon-moves-from-requesting-to-enforcing-limits-on-ai-training-crawler_f968625d",
+      "sourceKind": "product",
+      "sourceName": "Patreon",
+      "title": "Patreon moves from requesting to enforcing limits on AI training crawlers",
+      "sourceUrl": "https://www.patreon.com/patreon/posts/patreon-to-ai-164027757"
+    },
+    {
+      "id": "content-item_2026-07-18_04_netflix-explains-how-it-serves-large-language-models-in-house_b9e69a20",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI outlines teen protections and learning controls in ChatGPT",
-      "sourceUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai/"
+      "sourceName": "Netflix Technology Blog",
+      "title": "Netflix explains how it serves large language models in-house",
+      "sourceUrl": "https://netflixtechblog.medium.com/in-house-llm-serving-at-netflix-a5a8e799ea2c"
     },
     {
-      "id": "content-item_2026-07-17_07_google-deepmind-and-isomorphic-labs-set-out-a-bioresilience-programme_28780037",
+      "id": "content-item_2026-07-18_05_nvidia-and-hugging-face-bring-distributed-fine-tuning-to-diffusers-model_a0bbc2c6",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA and Hugging Face",
+      "title": "NVIDIA and Hugging Face bring distributed fine-tuning to Diffusers models",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "id": "content-item_2026-07-18_06_design-arena-finds-gpt-5-6-sol-leads-its-single-turn-web-design-benchmar_ff31ee0d",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind and Isomorphic Labs set out a bioresilience programme",
-      "sourceUrl": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+      "sourceName": "Design Arena",
+      "title": "Design Arena finds GPT-5.6 Sol leads its single-turn web design benchmark",
+      "sourceUrl": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/"
     },
     {
-      "id": "content-item_2026-07-17_08_roblox-launches-build-a-mobile-ai-starting-point-for-games_829f3773",
-      "sourceKind": "product",
-      "sourceName": "Roblox",
-      "title": "Roblox launches Build, a mobile AI starting point for games",
-      "sourceUrl": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox"
+      "id": "content-item_2026-07-18_07_hyundai-workers-strike-as-humanoid-robot-plans-enter-labour-negotiations_2a21e49a",
+      "sourceKind": "article",
+      "sourceName": "Ars Technica",
+      "title": "Hyundai workers strike as humanoid robot plans enter labour negotiations",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/"
     },
     {
-      "id": "content-item_2026-07-17_09_doordash-opens-a-limited-beta-of-dd-cli-for-agent-driven-ordering_8d2ba877",
+      "id": "content-item_2026-07-18_08_researchers-argue-that-secure-agents-must-treat-the-model-as-untrusted_652f18a6",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Researchers argue that secure agents must treat the model as untrusted",
+      "sourceUrl": "https://arxiv.org/abs/2605.18991"
+    },
+    {
+      "id": "content-item_2026-07-18_09_openai-confirms-rare-gpt-5-6-file-deletions-in-unrestricted-codex-sessio_db2dfe49",
       "sourceKind": "x",
-      "sourceName": "X",
-      "title": "DoorDash opens a limited beta of dd-cli for agent-driven ordering",
-      "sourceUrl": "https://x.com/andyfang/status/2077516962515599799"
+      "sourceName": "Tibo / OpenAI on X",
+      "title": "OpenAI confirms rare GPT-5.6 file deletions in unrestricted Codex sessions",
+      "sourceUrl": "https://x.com/thsottiaux/status/2077630111499882637"
     },
     {
-      "id": "content-item_2026-07-17_10_japan-and-nvidia-announce-a-national-physical-ai-infrastructure-project_a9329d1b",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA",
-      "title": "Japan and NVIDIA announce a national physical-AI infrastructure project",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure"
+      "id": "content-item_2026-07-18_10_linus-torvalds-backs-technically-useful-ai-tools-in-linux-development_f6e4fef5",
+      "sourceKind": "article",
+      "sourceName": "Linux kernel mailing list",
+      "title": "Linus Torvalds backs technically useful AI tools in Linux development",
+      "sourceUrl": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
     },
     {
-      "id": "content-item_2026-07-17_11_hkuds-deeptutor_f9173bb7",
+      "id": "content-item_2026-07-18_11_ibelick-ui-skills_28c0f331",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "HKUDS/DeepTutor",
-      "sourceUrl": "https://github.com/HKUDS/DeepTutor"
+      "title": "ibelick/ui-skills",
+      "sourceUrl": "https://github.com/ibelick/ui-skills"
     },
     {
-      "id": "content-item_2026-07-17_12_moeru-ai-airi_b887f733",
+      "id": "content-item_2026-07-18_12_lobehub-lobehub_78619289",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "moeru-ai/airi",
-      "sourceUrl": "https://github.com/moeru-ai/airi"
+      "title": "lobehub/lobehub",
+      "sourceUrl": "https://github.com/lobehub/lobehub"
     },
     {
-      "id": "content-item_2026-07-17_13_posthog-posthog_f71cd1ab",
+      "id": "content-item_2026-07-18_13_n8n-io-n8n_f791d596",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "PostHog/posthog",
-      "sourceUrl": "https://github.com/PostHog/posthog"
+      "title": "n8n-io/n8n",
+      "sourceUrl": "https://github.com/n8n-io/n8n"
     }
   ]
 }

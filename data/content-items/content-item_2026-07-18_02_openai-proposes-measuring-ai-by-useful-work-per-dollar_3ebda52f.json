@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_02_openai-proposes-measuring-ai-by-useful-work-per-dollar_3ebda52f",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "canonicalUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "OpenAI proposes measuring AI by useful work per dollar",
+  "friendlyTitle": "OpenAI suggests a clearer way to measure AI value",
+  "summary": "OpenAI CFO Sarah Friar proposes an enterprise scorecard built around useful work completed, full cost per successful task, dependability and value at scale. The framework argues that token price alone misses retries, review time, rework and the actual quality of completed outcomes.",
+  "friendlySummary": "OpenAI says businesses should measure the useful work AI finishes, not only users or token prices. The full cost should include retries, human checking and fixing mistakes.",
+  "whyItMatters": "It is a practical starting point for cutting through vague AI ROI claims: define what “done” means for one workflow, count results that meet the quality bar and include human correction costs. Because the framework comes from a model vendor, teams should apply it to competing systems with their own data.",
+  "friendlyWhyItMatters": "Start with one real task and decide what a good result looks like. Then compare tools using your own costs and results, not only a vendor’s claims.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-18_11_ibelick-ui-skills_28c0f331",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ibelick/ui-skills",
+  "canonicalUrl": "https://github.com/ibelick/ui-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-17T20:05:41Z",
+  "createdAtUtc": "2026-07-17T20:05:41Z",
+  "updatedAtUtc": "2026-07-17T20:05:41Z",
+  "title": "ibelick/ui-skills",
+  "friendlyTitle": "ui-skills gives AI coding tools better design instructions",
+  "summary": "ui-skills is a fast-rising collection of reusable design-engineering skills for AI coding tools, with guidance covering interface baselines, motion and UI improvement. The TypeScript project has about 4,600 stars and was the strongest AI-related repository in today’s collected GitHub Trending results.",
+  "friendlySummary": "ui-skills is a popular open-source set of design guides for AI coding tools. It covers areas such as basic interface quality, motion and improving an existing UI.",
+  "whyItMatters": "Add its focused skills to a compatible coding-agent workflow when you want more consistent interface decisions than a broad “make it look good” prompt. Review the generated result for accessibility and project-specific design rules rather than treating the skill as a substitute for testing.",
+  "friendlyWhyItMatters": "Use it to give a coding agent clearer design rules. You should still check accessibility and test the final interface with people.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-18"
+  }
+}

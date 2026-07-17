@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-16T20:06:35Z",
+  "generatedAtUtc": "2026-07-17T20:05:41Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-18",
+      "slug": "2026-07-18",
+      "status": "published",
+      "publicationDateUtc": "2026-07-17T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI gets more useful — and its safety boundaries get more real",
+      "friendlyHeader": "Useful AI also needs strong safety limits",
+      "summary": "Today’s issue moves from measurement and production engineering to the harder edges of deployment: an AI-led intrusion, destructive coding-agent mistakes and workplace resistance to robots. The practical lesson is consistent: useful AI needs measurable outcomes, scoped access and systems that assume models can fail.",
+      "friendlySummary": "Today we look at ways to measure AI, build better tools and use agents safely. AI can save time and help with real work, but people still need clear permissions, backups and control.",
+      "itemCount": 13,
+      "href": "issues/2026-07-18.html",
+      "dataUrl": "data/daily-publications/2026-07-18.json"
+    },
     {
       "id": "daily-publication_2026-07-17",
       "slug": "2026-07-17",
