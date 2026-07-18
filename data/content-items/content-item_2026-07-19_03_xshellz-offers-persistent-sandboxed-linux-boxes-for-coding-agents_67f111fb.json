@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_03_xshellz-offers-persistent-sandboxed-linux-boxes-for-coding-agents_67f111fb",
+  "sourceKind": "product",
+  "sourceName": "xShellz",
+  "sourceUrl": "https://www.xshellz.com/",
+  "canonicalUrl": "https://www.xshellz.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "xShellz offers persistent sandboxed Linux boxes for coding agents",
+  "friendlyTitle": "Agent Shell gives coding agents their own protected Linux computer",
+  "summary": "xShellz has introduced Agent Shell, a persistent Ubuntu environment that coding agents can reach over SSH or a browser and control as root. The service uses gVisor isolation, resource caps and live monitoring, with Claude Code, Codex, Gemini and its own agent preinstalled.",
+  "friendlySummary": "Agent Shell is a hosted Ubuntu box where AI coding tools can install software and run services. It is separated from the host system and includes live resource monitoring.",
+  "whyItMatters": "A disposable or isolated machine can reduce the damage caused by a coding agent with broad permissions. Users should still review egress, secrets, persistence, pricing and provider security before moving sensitive repositories into any hosted sandbox.",
+  "friendlyWhyItMatters": "Giving an agent a separate computer is safer than giving it full control of your main machine. Do not place secrets or private code there until you have checked the service’s security rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

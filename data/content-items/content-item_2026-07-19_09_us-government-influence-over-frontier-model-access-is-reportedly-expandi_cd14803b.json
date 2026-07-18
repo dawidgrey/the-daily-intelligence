@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_09_us-government-influence-over-frontier-model-access-is-reportedly-expandi_cd14803b",
+  "sourceKind": "regulation",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "US government influence over frontier-model access is reportedly expanding",
+  "friendlyTitle": "The US government may have more influence over who gets powerful AI models",
+  "summary": "CNBC reports that the White House is taking a larger role in deciding which partners receive access to powerful unreleased AI models, particularly for cybersecurity work. A White House official says participation in government testing is voluntary and release decisions remain with the companies.",
+  "friendlySummary": "CNBC says the White House is becoming more involved in choosing which organisations can test or use the strongest new AI models. The government says companies still make the final release decisions.",
+  "whyItMatters": "Government involvement may change when advanced capabilities reach enterprises, researchers and security teams. Organisations building around frontier access should expect eligibility, testing and release schedules to become less predictable and should maintain alternatives.",
+  "friendlyWhyItMatters": "Access to advanced models may depend on more rules and approvals. Businesses should avoid depending on one model that could arrive late or become restricted.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

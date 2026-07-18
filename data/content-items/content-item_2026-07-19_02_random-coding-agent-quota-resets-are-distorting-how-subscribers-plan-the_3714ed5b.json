@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_02_random-coding-agent-quota-resets-are-distorting-how-subscribers-plan-the_3714ed5b",
+  "sourceKind": "article",
+  "sourceName": "Max Woolf",
+  "sourceUrl": "https://minimaxir.com/2026/07/agent-quota-reset/",
+  "canonicalUrl": "https://minimaxir.com/2026/07/agent-quota-reset/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "Random coding-agent quota resets are distorting how subscribers plan their work",
+  "friendlyTitle": "Surprise coding-agent resets make paid limits hard to plan around",
+  "summary": "Max Woolf documents frequent, unannounced weekly quota resets for subscription coding agents, including six Codex resets in two weeks. He argues that nominal weekly allowances have become difficult to value or plan around when providers repeatedly reset them during intense model competition.",
+  "friendlySummary": "Some coding-agent companies have been giving users extra weekly usage without warning. The extra access is welcome, but frequent resets make it difficult to know what a subscription really includes.",
+  "whyItMatters": "For heavy users, a subscription limit is part of the product, not a footnote. Track completed work and fallback costs rather than treating a changing usage meter as guaranteed capacity, especially when agent workflows need predictable schedules.",
+  "friendlyWhyItMatters": "Plan important work around results and deadlines, not surprise bonuses. Keep another model or payment option ready if a usage limit changes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

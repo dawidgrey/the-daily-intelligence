@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_11_tirth8205-code-review-graph_ad18a56b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/tirth8205/code-review-graph",
+  "canonicalUrl": "https://github.com/tirth8205/code-review-graph",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "tirth8205/code-review-graph",
+  "friendlyTitle": "code-review-graph helps AI focus on the right parts of a codebase",
+  "summary": "code-review-graph is a local-first code intelligence graph for CLI and MCP workflows, designed to help coding agents retrieve the parts of a repository that matter for a change. The project has about 20,000 stars and led today’s collected AI-related GitHub Trending results by momentum.",
+  "friendlySummary": "This popular open-source tool builds a local map of a software project. AI coding tools can use the map to read the files and relationships that matter for a task.",
+  "whyItMatters": "Use it to build a persistent structural map of a large codebase before asking an agent to review or modify it. Its focused retrieval can reduce repeated whole-repository reads, but benchmark the context savings and review quality on your own languages and project shape.",
+  "friendlyWhyItMatters": "Try it on a large project when an agent reads too much code or misses important links. Compare its results with your current review process before relying on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_01_solarbench-tests-whether-ai-agents-can-run-an-industrial-operations-desk_1ea1fb44",
+  "sourceKind": "research",
+  "sourceName": "MainGen",
+  "sourceUrl": "https://solarbench.maingen.ai/",
+  "canonicalUrl": "https://solarbench.maingen.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "SolarBench tests whether AI agents can run an industrial operations desk",
+  "friendlyTitle": "A new test asks AI to manage solar farms for a full week",
+  "summary": "SolarBench evaluates agents in week-long simulations of a remote solar-operations desk, including telemetry, alarms, work orders, parts and stakeholder email. Across 880 launch runs, even the strongest model passed only 53.8% of complete weeks, and repeated reliability fell sharply.",
+  "friendlySummary": "SolarBench gives AI agents realistic solar-farm problems involving alarms, repairs, parts and emails. In its first tests, even the best model completed only about half of the weeks correctly.",
+  "whyItMatters": "The benchmark measures long-horizon operational judgment rather than isolated answers. Businesses considering autonomous agents should test follow-through, cost, consistency and recovery across full workflows before trusting a strong one-off demo.",
+  "friendlyWhyItMatters": "A good single answer does not prove that an AI can manage real work for days. Test whether it remembers tasks, controls costs and gives reliable results over time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

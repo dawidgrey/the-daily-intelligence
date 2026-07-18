@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_07_agility-robotics-opens-a-training-centre-for-commercially-deployed-human_2f86c8b7",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "Agility Robotics opens a training centre for commercially deployed humanoids",
+  "friendlyTitle": "Agility opens a centre to train humanoid robots for real jobs",
+  "summary": "Agility Robotics is opening a 60,000-square-foot Fremont facility where its Digit humanoids will learn tasks in environments resembling customer sites. The company says Digit is already doing paid warehouse and manufacturing work and that more than 30 prospective customers are discussing deployments.",
+  "friendlySummary": "Agility Robotics will use a new facility in California to teach its Digit robots tasks for factories and warehouses. The company says some Digits are already doing paid work.",
+  "whyItMatters": "Humanoid robotics is moving from staged demonstrations toward training, integration and safety at real workplaces. Agility’s separation of generative behaviour from the safety stack is a useful design principle: creative AI should not control critical protective functions.",
+  "friendlyWhyItMatters": "Workplace robots need much more than an impressive demo. They must learn the real environment, connect safely to business systems and keep critical safety controls outside creative AI.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

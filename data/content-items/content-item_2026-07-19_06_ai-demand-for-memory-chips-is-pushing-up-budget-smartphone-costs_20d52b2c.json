@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_06_ai-demand-for-memory-chips-is-pushing-up-budget-smartphone-costs_20d52b2c",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "AI demand for memory chips is pushing up budget smartphone costs",
+  "friendlyTitle": "The AI boom is making some affordable phones more expensive",
+  "summary": "TechCrunch reports that memory manufacturers are prioritising profitable high-bandwidth memory for AI accelerators, tightening supplies of RAM and storage for consumer devices. In India, smartphone shipments fell 10% year over year in the June quarter as higher component costs hit the budget market hardest.",
+  "friendlySummary": "Chip makers are using more factory capacity for valuable AI memory chips. This leaves less standard memory for phones and has helped raise prices, especially for cheaper smartphones in India.",
+  "whyItMatters": "AI infrastructure spending is now affecting the price and replacement cycle of ordinary electronics. Buyers may need to keep devices longer, while hardware businesses should plan for continued competition between data-centre and consumer demand for memory capacity.",
+  "friendlyWhyItMatters": "People may keep phones longer or pay more for the same level of storage. The cost of AI data centres can affect everyday products far beyond AI apps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

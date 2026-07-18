@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_10_a-practical-guide-explains-how-models-learn-low-medium-and-high-effort-r_28c7ee44",
+  "sourceKind": "research",
+  "sourceName": "Ahead of AI",
+  "sourceUrl": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+  "canonicalUrl": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "A practical guide explains how models learn low-, medium- and high-effort reasoning",
+  "friendlyTitle": "How AI models learn to think for shorter or longer",
+  "summary": "Sebastian Raschka explains how reasoning models can be trained to produce different effort levels, from short low-cost traces to longer high-effort work. The article connects supervised fine-tuning, reinforcement learning with verifiable rewards and token-budget controls to the reasoning settings now common in model APIs.",
+  "friendlySummary": "This guide explains how developers train reasoning models to use different amounts of effort. A model can give a quick answer for an easy task or spend more tokens on a harder one.",
+  "whyItMatters": "Reasoning effort is a cost-and-latency control, not simply a quality switch. Developers can reserve higher settings for difficult or verifiable tasks, then evaluate whether extra tokens actually improve outcomes instead of applying maximum effort everywhere.",
+  "friendlyWhyItMatters": "More thinking costs more time and money, and it does not always help. Use higher effort for difficult tasks and measure whether the result really improves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

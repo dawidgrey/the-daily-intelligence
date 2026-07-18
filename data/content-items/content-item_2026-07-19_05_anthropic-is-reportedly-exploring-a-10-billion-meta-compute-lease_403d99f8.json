@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_05_anthropic-is-reportedly-exploring-a-10-billion-meta-compute-lease_403d99f8",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "Anthropic is reportedly exploring a $10 billion Meta compute lease",
+  "friendlyTitle": "Anthropic may rent a large amount of AI computing power from Meta",
+  "summary": "CNBC reports that Anthropic is in preliminary talks to lease AI computing capacity from Meta, with a potential agreement discussed at roughly $10 billion. The talks follow Anthropic’s separate SpaceX capacity arrangement and Meta’s interest in selling excess data-centre compute.",
+  "friendlySummary": "Anthropic and Meta are in early talks about a possible computing deal worth around $10 billion, according to CNBC. Anthropic needs more capacity, while Meta may sell spare data-centre power.",
+  "whyItMatters": "Frontier AI supply is increasingly shaped by infrastructure deals between companies that also compete elsewhere. More capacity could ease subscriber limits, while Meta’s move toward external cloud sales could add another large supplier to the AI compute market.",
+  "friendlyWhyItMatters": "More computing power may improve access to popular AI tools. It also shows that a small number of huge infrastructure owners can strongly influence the AI market.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-17T20:05:41Z",
+  "generatedAtUtc": "2026-07-18T20:05:24Z",
   "items": [
     {
-      "id": "content-item_2026-07-18_01_hugging-face-discloses-an-autonomous-ai-led-intrusion_d8ed3199",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face discloses an autonomous AI-led intrusion",
-      "sourceUrl": "https://huggingface.co/blog/security-incident-july-2026"
-    },
-    {
-      "id": "content-item_2026-07-18_02_openai-proposes-measuring-ai-by-useful-work-per-dollar_3ebda52f",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI proposes measuring AI by useful work per dollar",
-      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "id": "content-item_2026-07-18_03_patreon-moves-from-requesting-to-enforcing-limits-on-ai-training-crawler_f968625d",
-      "sourceKind": "product",
-      "sourceName": "Patreon",
-      "title": "Patreon moves from requesting to enforcing limits on AI training crawlers",
-      "sourceUrl": "https://www.patreon.com/patreon/posts/patreon-to-ai-164027757"
-    },
-    {
-      "id": "content-item_2026-07-18_04_netflix-explains-how-it-serves-large-language-models-in-house_b9e69a20",
-      "sourceKind": "article",
-      "sourceName": "Netflix Technology Blog",
-      "title": "Netflix explains how it serves large language models in-house",
-      "sourceUrl": "https://netflixtechblog.medium.com/in-house-llm-serving-at-netflix-a5a8e799ea2c"
-    },
-    {
-      "id": "content-item_2026-07-18_05_nvidia-and-hugging-face-bring-distributed-fine-tuning-to-diffusers-model_a0bbc2c6",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA and Hugging Face",
-      "title": "NVIDIA and Hugging Face bring distributed fine-tuning to Diffusers models",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
-    },
-    {
-      "id": "content-item_2026-07-18_06_design-arena-finds-gpt-5-6-sol-leads-its-single-turn-web-design-benchmar_ff31ee0d",
+      "id": "content-item_2026-07-19_01_solarbench-tests-whether-ai-agents-can-run-an-industrial-operations-desk_1ea1fb44",
       "sourceKind": "research",
-      "sourceName": "Design Arena",
-      "title": "Design Arena finds GPT-5.6 Sol leads its single-turn web design benchmark",
-      "sourceUrl": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/"
+      "sourceName": "MainGen",
+      "title": "SolarBench tests whether AI agents can run an industrial operations desk",
+      "sourceUrl": "https://solarbench.maingen.ai/"
     },
     {
-      "id": "content-item_2026-07-18_07_hyundai-workers-strike-as-humanoid-robot-plans-enter-labour-negotiations_2a21e49a",
+      "id": "content-item_2026-07-19_02_random-coding-agent-quota-resets-are-distorting-how-subscribers-plan-the_3714ed5b",
       "sourceKind": "article",
-      "sourceName": "Ars Technica",
-      "title": "Hyundai workers strike as humanoid robot plans enter labour negotiations",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/"
+      "sourceName": "Max Woolf",
+      "title": "Random coding-agent quota resets are distorting how subscribers plan their work",
+      "sourceUrl": "https://minimaxir.com/2026/07/agent-quota-reset/"
     },
     {
-      "id": "content-item_2026-07-18_08_researchers-argue-that-secure-agents-must-treat-the-model-as-untrusted_652f18a6",
+      "id": "content-item_2026-07-19_03_xshellz-offers-persistent-sandboxed-linux-boxes-for-coding-agents_67f111fb",
+      "sourceKind": "product",
+      "sourceName": "xShellz",
+      "title": "xShellz offers persistent sandboxed Linux boxes for coding agents",
+      "sourceUrl": "https://www.xshellz.com/"
+    },
+    {
+      "id": "content-item_2026-07-19_04_medows-demonstrates-an-ai-assisted-clinical-workspace-for-ward-rounds_5d5e42fc",
+      "sourceKind": "product",
+      "sourceName": "Medows",
+      "title": "Medows demonstrates an AI-assisted clinical workspace for ward rounds",
+      "sourceUrl": "https://www.medows.ai/demo"
+    },
+    {
+      "id": "content-item_2026-07-19_05_anthropic-is-reportedly-exploring-a-10-billion-meta-compute-lease_403d99f8",
+      "sourceKind": "article",
+      "sourceName": "CNBC",
+      "title": "Anthropic is reportedly exploring a $10 billion Meta compute lease",
+      "sourceUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"
+    },
+    {
+      "id": "content-item_2026-07-19_06_ai-demand-for-memory-chips-is-pushing-up-budget-smartphone-costs_20d52b2c",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "AI demand for memory chips is pushing up budget smartphone costs",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
+    },
+    {
+      "id": "content-item_2026-07-19_07_agility-robotics-opens-a-training-centre-for-commercially-deployed-human_2f86c8b7",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Agility Robotics opens a training centre for commercially deployed humanoids",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+    },
+    {
+      "id": "content-item_2026-07-19_08_mlb-blocks-dugout-apps-that-recommend-ai-assisted-game-decisions_50d765bf",
+      "sourceKind": "regulation",
+      "sourceName": "Associated Press via ESPN",
+      "title": "MLB blocks dugout apps that recommend AI-assisted game decisions",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making"
+    },
+    {
+      "id": "content-item_2026-07-19_09_us-government-influence-over-frontier-model-access-is-reportedly-expandi_cd14803b",
+      "sourceKind": "regulation",
+      "sourceName": "CNBC",
+      "title": "US government influence over frontier-model access is reportedly expanding",
+      "sourceUrl": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
+    },
+    {
+      "id": "content-item_2026-07-19_10_a-practical-guide-explains-how-models-learn-low-medium-and-high-effort-r_28c7ee44",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Researchers argue that secure agents must treat the model as untrusted",
-      "sourceUrl": "https://arxiv.org/abs/2605.18991"
+      "sourceName": "Ahead of AI",
+      "title": "A practical guide explains how models learn low-, medium- and high-effort reasoning",
+      "sourceUrl": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
     },
     {
-      "id": "content-item_2026-07-18_09_openai-confirms-rare-gpt-5-6-file-deletions-in-unrestricted-codex-sessio_db2dfe49",
-      "sourceKind": "x",
-      "sourceName": "Tibo / OpenAI on X",
-      "title": "OpenAI confirms rare GPT-5.6 file deletions in unrestricted Codex sessions",
-      "sourceUrl": "https://x.com/thsottiaux/status/2077630111499882637"
-    },
-    {
-      "id": "content-item_2026-07-18_10_linus-torvalds-backs-technically-useful-ai-tools-in-linux-development_f6e4fef5",
-      "sourceKind": "article",
-      "sourceName": "Linux kernel mailing list",
-      "title": "Linus Torvalds backs technically useful AI tools in Linux development",
-      "sourceUrl": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
-    },
-    {
-      "id": "content-item_2026-07-18_11_ibelick-ui-skills_28c0f331",
+      "id": "content-item_2026-07-19_11_tirth8205-code-review-graph_ad18a56b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "ibelick/ui-skills",
-      "sourceUrl": "https://github.com/ibelick/ui-skills"
+      "title": "tirth8205/code-review-graph",
+      "sourceUrl": "https://github.com/tirth8205/code-review-graph"
     },
     {
-      "id": "content-item_2026-07-18_12_lobehub-lobehub_78619289",
+      "id": "content-item_2026-07-19_12_signoz-signoz_fc8ed5aa",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "lobehub/lobehub",
-      "sourceUrl": "https://github.com/lobehub/lobehub"
+      "title": "SigNoz/signoz",
+      "sourceUrl": "https://github.com/SigNoz/signoz"
     },
     {
-      "id": "content-item_2026-07-18_13_n8n-io-n8n_f791d596",
+      "id": "content-item_2026-07-19_13_knockoutez-wigolo_9fedc9b4",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "n8n-io/n8n",
-      "sourceUrl": "https://github.com/n8n-io/n8n"
+      "title": "KnockOutEZ/wigolo",
+      "sourceUrl": "https://github.com/KnockOutEZ/wigolo"
     }
   ]
 }

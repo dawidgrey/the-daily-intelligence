@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-17T20:05:41Z",
+  "generatedAtUtc": "2026-07-18T20:05:24Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-19",
+      "slug": "2026-07-19",
+      "status": "published",
+      "publicationDateUtc": "2026-07-18T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from demos into operating decisions",
+      "friendlyHeader": "AI is taking on more real-world work",
+      "summary": "Today’s issue follows AI into places where outcomes matter: industrial maintenance, factory robots, clinical rounds, sports strategy, consumer hardware and frontier-model access. The common thread is practical control — measure reliability over time, limit access thoughtfully and keep people responsible for consequential decisions.",
+      "friendlySummary": "Today we look at AI in factories, hospitals, sports, coding and everyday devices. These tools can help, but people still need clear rules, safe access and good ways to check the results.",
+      "itemCount": 13,
+      "href": "issues/2026-07-19.html",
+      "dataUrl": "data/daily-publications/2026-07-19.json"
+    },
     {
       "id": "daily-publication_2026-07-18",
       "slug": "2026-07-18",

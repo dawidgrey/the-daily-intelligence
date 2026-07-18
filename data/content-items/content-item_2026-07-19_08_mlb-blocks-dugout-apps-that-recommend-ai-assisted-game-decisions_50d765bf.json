@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-19_08_mlb-blocks-dugout-apps-that-recommend-ai-assisted-game-decisions_50d765bf",
+  "sourceKind": "regulation",
+  "sourceName": "Associated Press via ESPN",
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making",
+  "canonicalUrl": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-18T20:05:24Z",
+  "createdAtUtc": "2026-07-18T20:05:24Z",
+  "updatedAtUtc": "2026-07-18T20:05:24Z",
+  "title": "MLB blocks dugout apps that recommend AI-assisted game decisions",
+  "friendlyTitle": "Baseball limits AI advice during live games",
+  "summary": "Major League Baseball has disabled custom dugout iPad tabs that teams used for recommendations on substitutions, pitch calling and other in-game choices. League-provided video and data remain available, but real-time strategic recommendations now sit outside the tablets’ permitted purpose.",
+  "friendlySummary": "Major League Baseball has stopped teams from using custom dugout iPad apps that recommend substitutions, pitches and other game decisions. Teams can still view approved video and data.",
+  "whyItMatters": "The rule draws a practical line between information access and automated decision support in a competitive setting. Workplaces, schools and professional bodies will increasingly need similarly specific policies that define which decisions AI may inform and which must remain human.",
+  "friendlyWhyItMatters": "Rules work better when they clearly say what AI may and may not do. Other organisations can use the same approach for important decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-19"
+  }
+}
