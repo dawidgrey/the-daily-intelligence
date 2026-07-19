@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_08_researchers-propose-a-standard-for-agent-ready-websites_e479edf0",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2607.12056",
+  "canonicalUrl": "https://arxiv.org/abs/2607.12056",
+  "credit": "Paper authors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Researchers propose a standard for agent-ready websites",
+  "friendlyTitle": "A new proposal would make websites easier for AI agents",
+  "summary": "A new paper argues that websites should expose structured, machine-readable capabilities for AI agents instead of forcing them to infer every action from visual pages. The proposal focuses on explicit operations, safer permissions, and clearer semantics so agents can discover and use services more reliably.",
+  "friendlySummary": "Researchers want websites to clearly tell AI agents what actions are available and how to use them safely.",
+  "whyItMatters": "If agent traffic grows, businesses may need an interface layer designed for machines alongside their human-facing site. Clear action schemas could reduce brittle browser automation, accidental clicks, and the security risks created when an agent has to guess what a button will do.",
+  "friendlyWhyItMatters": "Agents would make fewer guesses and fewer mistakes. Businesses could offer safer automation without redesigning the website for people.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

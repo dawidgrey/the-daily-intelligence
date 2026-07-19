@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_09_basert-targets-faster-private-llm-inference-on-apple-silicon_cca6f12f",
+  "sourceKind": "product",
+  "sourceName": "Base Compute",
+  "sourceUrl": "https://www.basecompute.co/getbasert",
+  "canonicalUrl": "https://www.basecompute.co/getbasert",
+  "credit": "Base Compute",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "BaseRT targets faster private LLM inference on Apple silicon",
+  "friendlyTitle": "BaseRT runs private AI models faster on Macs",
+  "summary": "Base Compute launched BaseRT, a local model runtime for Apple silicon with support for Qwen, Llama, Gemma, Mistral, Phi, and Nomic models. On an M5 Pro, the company reports up to 33% faster decoding and substantially faster prompt processing than selected MLX and llama.cpp configurations; it also provides a local server workflow for coding agents.",
+  "friendlySummary": "BaseRT lets people run several popular AI models on Apple computers without sending data to a cloud service. Its maker reports faster results than common local tools in selected tests.",
+  "whyItMatters": "Faster local inference can cut per-token costs and keep sensitive code or documents on the user’s machine. The benchmark claims are vendor-supplied and hardware-dependent, so teams should reproduce them with their own models and Macs before changing stacks.",
+  "friendlyWhyItMatters": "Local AI can save API money and protect private data. Test it on your own Mac first because speed can change by model and chip.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

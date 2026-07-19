@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_01_alibaba-previews-the-2-4-trillion-parameter-qwen3-8_78ff000a",
+  "sourceKind": "x",
+  "sourceName": "Qwen",
+  "sourceUrl": "https://x.com/Alibaba_Qwen/status/2078759124914098291",
+  "canonicalUrl": "https://x.com/Alibaba_Qwen/status/2078759124914098291",
+  "credit": "Qwen (@Alibaba_Qwen)",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Alibaba previews the 2.4-trillion-parameter Qwen3.8",
+  "friendlyTitle": "Alibaba shows a huge new Qwen AI model",
+  "summary": "Alibaba’s Qwen team has launched Qwen3.8-Max-Preview through its Token Plan, Qoder, and QoderWork services. The team says the model has 2.4 trillion parameters and that open weights are coming soon, although the announcement does not yet provide a technical report or independently verified benchmark table.",
+  "friendlySummary": "Qwen3.8 has 2.4 trillion settings inside it. People can try a preview now, and Alibaba says downloadable model weights will come later.",
+  "whyItMatters": "A frontier-scale model with promised open weights could give developers another powerful alternative to closed US systems. For now, the most important practical step is to test the preview on real workloads rather than treating vendor rankings as settled fact.",
+  "friendlyWhyItMatters": "This may give builders another strong AI choice. The company’s performance claims still need careful real-world testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

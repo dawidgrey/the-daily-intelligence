@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-20",
+  "slug": "2026-07-20",
+  "status": "published",
+  "publicationDateUtc": "2026-07-19T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The pressure moves from bigger models to usable systems",
+  "friendlyHeader": "AI is getting more useful, not just bigger",
+  "summary": "Today’s signal is unusually practical: a huge new Qwen preview, visual models that plan across many steps, cheaper local inference, and clearer patterns for running coding agents at serious scale. At the same time, China’s AI-companion rules and new research on agent-ready websites show that deployment details — limits, interfaces, safeguards, and verification — increasingly decide whether powerful AI is actually useful.",
+  "friendlySummary": "Today brings a very large new Qwen model, better AI image tools, faster private AI on Macs, and useful lessons for AI coding. There are also new rules and research showing that good AI needs clear limits, safe design, and websites it can understand.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-20_01_alibaba-previews-the-2-4-trillion-parameter-qwen3-8_78ff000a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_02_sensetime-s-u1-pro-combines-visual-reasoning-with-8k-generation_705d65ab",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_03_anthropic-extends-50-higher-claude-code-weekly-limits_8f83cb31",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_04_anthropic-publishes-its-playbook-for-agent-led-code-migrations_562cceb9",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_05_openai-trims-codex-s-advertised-context-window-in-release-metadata_87cd30f5",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_06_china-restricts-ai-companions-and-emotional-dependence-features_97a6754c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_07_google-researchers-test-whether-diffusion-models-create-or-recall_dd743dda",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_08_researchers-propose-a-standard-for-agent-ready-websites_e479edf0",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_09_basert-targets-faster-private-llm-inference-on-apple-silicon_cca6f12f",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_10_openseo-connects-real-search-data-to-ai-agents-through-mcp_88e60015",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_11_kimi-cli-brings-moonshot-s-coding-agent-into-the-terminal_252d5419",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_12_ktransformers-optimises-large-model-inference-across-cpus-and-gpus_0e1a94ec",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-20_13_wrenai-turns-governed-business-data-into-agent-ready-answers_7cc42753",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-20.json",
+    "itemCount": 13
+  }
+}

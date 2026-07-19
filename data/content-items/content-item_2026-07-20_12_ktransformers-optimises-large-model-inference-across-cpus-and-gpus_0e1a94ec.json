@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_12_ktransformers-optimises-large-model-inference-across-cpus-and-gpus_0e1a94ec",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/kvcache-ai/ktransformers",
+  "canonicalUrl": "https://github.com/kvcache-ai/ktransformers",
+  "credit": "KVCache.AI and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "KTransformers optimises large-model inference across CPUs and GPUs",
+  "friendlyTitle": "KTransformers helps big AI models use mixed computer hardware",
+  "summary": "KTransformers is an 18,000-star framework for running and tuning large language models across mixed hardware. Recent work adds Intel integrated-GPU support, security fixes, and new K2 INT4 performance paths, extending a project focused on placing model components where available CPU, GPU, and memory resources can handle them efficiently.",
+  "friendlySummary": "This open-source tool can share a large AI model’s work between CPUs, graphics chips, and memory. More than 18,000 people have starred it on GitHub.",
+  "whyItMatters": "It can help technical teams experiment with models that do not fit neatly into one accelerator by splitting work across heterogeneous hardware. That makes it valuable for local inference labs and cost-sensitive deployments, although setup and model-specific tuning are more involved than with a simple desktop runner.",
+  "friendlyWhyItMatters": "It may let advanced users run models on hardware they already own, but it needs more technical setup than a normal AI app.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-20"
+  },
+  "howItsUseful": "It can help technical teams experiment with models that do not fit neatly into one accelerator by splitting work across heterogeneous hardware. That makes it valuable for local inference labs and cost-sensitive deployments, although setup and model-specific tuning are more involved than with a simple desktop runner.",
+  "friendlyHowItsUseful": "It may let advanced users run models on hardware they already own, but it needs more technical setup than a normal AI app."
+}

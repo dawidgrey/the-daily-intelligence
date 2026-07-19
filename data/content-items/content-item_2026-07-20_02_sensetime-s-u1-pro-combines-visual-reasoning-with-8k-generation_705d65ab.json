@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_02_sensetime-s-u1-pro-combines-visual-reasoning-with-8k-generation_705d65ab",
+  "sourceKind": "product",
+  "sourceName": "SenseTime",
+  "sourceUrl": "https://x.com/SenseTime_AI/status/2078681943680704993",
+  "canonicalUrl": "https://x.com/SenseTime_AI/status/2078681943680704993",
+  "credit": "SenseTime (@SenseTime_AI)",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "SenseTime’s U1 Pro combines visual reasoning with 8K generation",
+  "friendlyTitle": "SenseTime’s new AI can think through big image jobs",
+  "summary": "SenseTime unveiled SenseNova U1 Pro, a multimodal model designed to combine visual understanding, generation, and action in one system. It supports multi-round agentic generation, improved text rendering, unusual aspect ratios, and native output up to 8K; an invite-only preview is open now, with API access and pricing planned for August.",
+  "friendlySummary": "U1 Pro can study pictures, make new ones, and improve them over many steps. It can create very large 8K images and should get a public API in August.",
+  "whyItMatters": "The useful shift is from one-shot image generation toward iterative visual work in which a model can inspect, reason, revise, and produce a finished asset. That could shorten workflows for presentations, marketing, publishing, and design, but quality and cost still need independent testing.",
+  "friendlyWhyItMatters": "Designers may be able to finish complex visual work with fewer separate tools. We still need outside tests to see how well it works.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

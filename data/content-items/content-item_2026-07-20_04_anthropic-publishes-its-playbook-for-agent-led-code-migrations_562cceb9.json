@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_04_anthropic-publishes-its-playbook-for-agent-led-code-migrations_562cceb9",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/ai-code-migration",
+  "canonicalUrl": "https://claude.com/blog/ai-code-migration",
+  "credit": "Anthropic",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Anthropic publishes its playbook for agent-led code migrations",
+  "friendlyTitle": "Anthropic explains how AI agents move huge codebases",
+  "summary": "Anthropic described a six-step process for large migrations built around explicit rules, parallel agent queues, phase gates, adversarial review, and test-based parity checks. Its examples include Bun’s million-line Zig-to-Rust port and an internal 165,000-line Python-to-TypeScript migration, while noting that the larger effort consumed roughly $165,000 in tokens at API pricing and still produced post-merge regressions.",
+  "friendlySummary": "Anthropic used teams of AI agents, strict rules, and lots of tests to move very large programs into new coding languages. The work became faster, but it still cost real money and had some bugs.",
+  "whyItMatters": "The article offers a more credible pattern than simply asking an agent to rewrite a repository: define a repeatable process, make every failure a queue item, and use objective checks as the referee. It also gives leaders a useful reminder that AI can compress timelines without making complex migrations free or riskless.",
+  "friendlyWhyItMatters": "Teams get a practical method: plan the steps, run work in parallel, and let tests catch mistakes instead of trusting the AI blindly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

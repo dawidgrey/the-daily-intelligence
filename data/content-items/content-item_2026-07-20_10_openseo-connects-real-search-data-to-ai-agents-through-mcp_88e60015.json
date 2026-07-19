@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_10_openseo-connects-real-search-data-to-ai-agents-through-mcp_88e60015",
+  "sourceKind": "product",
+  "sourceName": "OpenSEO",
+  "sourceUrl": "https://openseo.so/",
+  "canonicalUrl": "https://openseo.so/",
+  "credit": "OpenSEO",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "OpenSEO connects real search data to AI agents through MCP",
+  "friendlyTitle": "OpenSEO gives AI agents real search and competitor data",
+  "summary": "OpenSEO launched an open-source SEO platform that combines keyword, competitor, backlink, rank-tracking, audit, and AI-visibility data. Its MCP integration lets agents such as Claude or Codex query those datasets and save results into a shared workspace, with hosted plans starting below the usual enterprise SEO-tool tier and a self-hosting option.",
+  "friendlySummary": "OpenSEO is a lower-cost, open-source SEO tool. AI agents can use it to check keywords, rankings, links, competitors, and site problems instead of guessing.",
+  "whyItMatters": "Marketing agents are much more useful when they can ground recommendations in current search data rather than inventing plausible keywords. The MCP approach also keeps the human-facing dashboard and the agent’s tools connected, making results easier to inspect before acting on them.",
+  "friendlyWhyItMatters": "This can make AI marketing advice more accurate, while people can still review the real numbers before publishing anything.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

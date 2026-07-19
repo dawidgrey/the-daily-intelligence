@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_06_china-restricts-ai-companions-and-emotional-dependence-features_97a6754c",
+  "sourceKind": "regulation",
+  "sourceName": "ABC News",
+  "sourceUrl": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+  "canonicalUrl": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+  "credit": "Allyson Horn and Kat Tse",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "China restricts AI companions and emotional-dependence features",
+  "friendlyTitle": "China puts strict limits on AI boyfriends and girlfriends",
+  "summary": "New Chinese rules ban AI or virtual-partner services for minors and require platforms to limit excessive use, avoid encouraging emotional dependence, and intervene when users appear distressed. ABC reports that ByteDance, Alibaba, and Tencent have shut down personalised companion features, disrupting users who had built long-running relationships with those systems.",
+  "friendlySummary": "Children cannot use AI partner services under new Chinese rules. Chatbots must also avoid making people too dependent on them and should help when a user seems deeply upset.",
+  "whyItMatters": "Companion AI is moving from a product-design question into a regulated mental-health and social-policy category. Any company building emotionally responsive bots should expect age controls, dependency safeguards, crisis handling, and careful shutdown or data-portability plans to become core requirements.",
+  "friendlyWhyItMatters": "AI companion companies now need strong safety rules, age checks, and a humane plan for users if a service closes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

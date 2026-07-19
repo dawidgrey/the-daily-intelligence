@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_03_anthropic-extends-50-higher-claude-code-weekly-limits_8f83cb31",
+  "sourceKind": "x",
+  "sourceName": "Claude Developers",
+  "sourceUrl": "https://x.com/ClaudeDevs/status/2078511173759324328",
+  "canonicalUrl": "https://x.com/ClaudeDevs/status/2078511173759324328",
+  "credit": "Claude Developers (@ClaudeDevs)",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Anthropic extends 50% higher Claude Code weekly limits",
+  "friendlyTitle": "Claude Code users keep the larger weekly allowance",
+  "summary": "Anthropic says Claude Code’s weekly usage limits will remain 50% higher through August 19 for Pro, Max, Team, and seat-based Enterprise users. The extension keeps additional coding capacity available during a period of rapid model and tool competition.",
+  "friendlySummary": "Paid Claude Code users can keep using 50% more each week until August 19.",
+  "whyItMatters": "Usage ceilings can matter as much as model quality when teams rely on coding agents every day. More predictable capacity makes it easier to run longer tasks, estimate subscription value, and decide whether Claude Code can support a production workflow.",
+  "friendlyWhyItMatters": "More room means fewer stopped coding sessions and makes the subscription easier to plan around.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

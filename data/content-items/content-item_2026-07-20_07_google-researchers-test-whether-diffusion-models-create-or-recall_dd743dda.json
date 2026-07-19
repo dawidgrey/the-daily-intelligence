@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_07_google-researchers-test-whether-diffusion-models-create-or-recall_dd743dda",
+  "sourceKind": "research",
+  "sourceName": "Google Research",
+  "sourceUrl": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+  "canonicalUrl": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
+  "credit": "Google Research",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Google researchers test whether diffusion models create or recall",
+  "friendlyTitle": "Google studies whether image AI invents or remembers",
+  "summary": "Google researchers studied when diffusion models generate genuinely new combinations and when they reproduce patterns from training. Their experiments examine how data diversity, model scale, and guidance affect novelty, providing a more structured way to reason about creativity than judging a handful of attractive outputs.",
+  "friendlySummary": "Researchers tested when image-making AI combines ideas in a new way and when it mostly copies patterns it learned before.",
+  "whyItMatters": "Teams using generated media need to understand the boundary between synthesis and memorisation for originality, copyright, and brand risk. The work points toward evaluating models against their training distribution rather than treating visual novelty as proof of independent creativity.",
+  "friendlyWhyItMatters": "This can help people judge originality and copyright risk instead of assuming every new-looking picture is truly new.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}

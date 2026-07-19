@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_11_kimi-cli-brings-moonshot-s-coding-agent-into-the-terminal_252d5419",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/MoonshotAI/kimi-cli",
+  "canonicalUrl": "https://github.com/MoonshotAI/kimi-cli",
+  "credit": "Moonshot AI and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "Kimi CLI brings Moonshot’s coding agent into the terminal",
+  "friendlyTitle": "Kimi CLI is an open coding helper for the terminal",
+  "summary": "Kimi CLI is Moonshot AI’s open-source terminal coding agent, with roughly 9,800 GitHub stars and a recent 1.49.0 release. It supports shell and file workflows, reusable agent skills, multiple deployment paths, and ongoing work across Python and TypeScript packages.",
+  "friendlySummary": "Kimi CLI lets an AI read files, use terminal tools, and help with code. The project is open source and has almost 10,000 GitHub stars.",
+  "whyItMatters": "Developers can use it as a scriptable coding assistant inside an existing terminal workflow and inspect or extend the agent rather than relying on a closed desktop client. It is also a useful reference implementation for teams comparing coding-agent architecture, tool permissions, and skill systems.",
+  "friendlyWhyItMatters": "You can use it for coding jobs or study the code to learn how terminal AI agents are built.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-20"
+  },
+  "howItsUseful": "Developers can use it as a scriptable coding assistant inside an existing terminal workflow and inspect or extend the agent rather than relying on a closed desktop client. It is also a useful reference implementation for teams comparing coding-agent architecture, tool permissions, and skill systems.",
+  "friendlyHowItsUseful": "You can use it for coding jobs or study the code to learn how terminal AI agents are built."
+}

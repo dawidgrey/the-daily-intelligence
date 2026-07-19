@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_13_wrenai-turns-governed-business-data-into-agent-ready-answers_7cc42753",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/Canner/WrenAI",
+  "canonicalUrl": "https://github.com/Canner/WrenAI",
+  "credit": "Canner and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "WrenAI turns governed business data into agent-ready answers",
+  "friendlyTitle": "WrenAI lets people ask business databases normal questions",
+  "summary": "WrenAI is a 16,000-star open-source generative business-intelligence system that translates natural-language questions into governed SQL, charts, and dashboards across more than 20 data sources. Its semantic layer supplies definitions and context so agents can answer against business data without treating raw table names as the whole truth.",
+  "friendlySummary": "WrenAI turns plain-language questions into database searches, charts, and dashboards. It works with many data systems and uses shared business definitions.",
+  "whyItMatters": "Teams can build internal analytics assistants while keeping a governed layer between the language model and production databases. This is especially useful where the same metric has to mean the same thing across human dashboards, SQL queries, and automated agents.",
+  "friendlyWhyItMatters": "A team can build a data helper that gives more consistent answers instead of letting an AI guess what every table means.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-20"
+  },
+  "howItsUseful": "Teams can build internal analytics assistants while keeping a governed layer between the language model and production databases. This is especially useful where the same metric has to mean the same thing across human dashboards, SQL queries, and automated agents.",
+  "friendlyHowItsUseful": "A team can build a data helper that gives more consistent answers instead of letting an AI guess what every table means."
+}

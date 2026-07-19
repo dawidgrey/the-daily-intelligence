@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-18T20:05:24Z",
+  "generatedAtUtc": "2026-07-19T20:09:57Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-20",
+      "slug": "2026-07-20",
+      "status": "published",
+      "publicationDateUtc": "2026-07-19T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The pressure moves from bigger models to usable systems",
+      "friendlyHeader": "AI is getting more useful, not just bigger",
+      "summary": "Today’s signal is unusually practical: a huge new Qwen preview, visual models that plan across many steps, cheaper local inference, and clearer patterns for running coding agents at serious scale. At the same time, China’s AI-companion rules and new research on agent-ready websites show that deployment details — limits, interfaces, safeguards, and verification — increasingly decide whether powerful AI is actually useful.",
+      "friendlySummary": "Today brings a very large new Qwen model, better AI image tools, faster private AI on Macs, and useful lessons for AI coding. There are also new rules and research showing that good AI needs clear limits, safe design, and websites it can understand.",
+      "itemCount": 13,
+      "href": "issues/2026-07-20.html",
+      "dataUrl": "data/daily-publications/2026-07-20.json"
+    },
     {
       "id": "daily-publication_2026-07-19",
       "slug": "2026-07-19",

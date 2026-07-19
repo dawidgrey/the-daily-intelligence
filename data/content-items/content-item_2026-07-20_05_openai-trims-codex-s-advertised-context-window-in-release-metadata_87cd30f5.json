@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-20_05_openai-trims-codex-s-advertised-context-window-in-release-metadata_87cd30f5",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Codex",
+  "sourceUrl": "https://github.com/openai/codex/pull/33972/files",
+  "canonicalUrl": "https://github.com/openai/codex/pull/33972/files",
+  "credit": "OpenAI Codex maintainers",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-19T20:09:57Z",
+  "createdAtUtc": "2026-07-19T20:09:57Z",
+  "updatedAtUtc": "2026-07-19T20:09:57Z",
+  "title": "OpenAI trims Codex’s advertised context window in release metadata",
+  "friendlyTitle": "Codex now plans around a smaller working memory",
+  "summary": "A merged Codex pull request refreshed the model metadata bundled with version 0.144, including lower advertised context-window values for current models. The change is metadata rather than a new model release, but it directly affects how much context the client assumes it can safely send before compacting or truncating a session.",
+  "friendlySummary": "OpenAI changed Codex’s built-in model information so the app expects less text to fit in one session.",
+  "whyItMatters": "Long coding sessions depend on the usable context exposed by the client, not only the headline capacity of the underlying model. Developers should watch for earlier compaction, keep durable plans in files, and avoid assuming that every token in a nominal context window is available to their task.",
+  "friendlyWhyItMatters": "Long jobs may need earlier summaries or saved notes. Important instructions should live in files, not only in an old chat message.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-20"
+  }
+}
