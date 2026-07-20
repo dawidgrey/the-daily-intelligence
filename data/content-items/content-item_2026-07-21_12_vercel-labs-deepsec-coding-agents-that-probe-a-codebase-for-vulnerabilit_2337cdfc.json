@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_12_vercel-labs-deepsec-coding-agents-that-probe-a-codebase-for-vulnerabilit_2337cdfc",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/vercel-labs/deepsec",
+  "canonicalUrl": "https://github.com/vercel-labs/deepsec",
+  "credit": "Vercel Labs and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "vercel-labs/deepsec: coding agents that probe a codebase for vulnerabilities",
+  "friendlyTitle": "Deepsec uses coding agents to look for security problems",
+  "summary": "Deepsec is a roughly 6,000-star security harness that uses coding agents to investigate vulnerabilities in a codebase. Recent work includes configurable reasoning levels and a fix for unbounded memory growth during sandbox downloads.",
+  "friendlySummary": "Deepsec sends AI coding agents through a codebase to search for possible weaknesses. The open-source project has about 6,000 GitHub stars.",
+  "whyItMatters": "Development teams can use it as an additional adversarial pass to explore attack paths before release, while keeping findings inside a repeatable harness. Agent-discovered issues still require reproduction and human security review; this is a testing layer, not a replacement for secure design or professional auditing.",
+  "friendlyWhyItMatters": "It can add another security check before release. A security expert should still confirm every finding.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

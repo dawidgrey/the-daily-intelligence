@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_09_amp-introduces-puck-to-launch-and-coordinate-coding-agents_8b326a7a",
+  "sourceKind": "product",
+  "sourceName": "Amp",
+  "sourceUrl": "https://ampcode.com/news/meet-puck",
+  "canonicalUrl": "https://ampcode.com/news/meet-puck",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "Amp introduces Puck to launch and coordinate coding agents",
+  "friendlyTitle": "Puck helps people start and manage several coding agents",
+  "summary": "Amp has introduced Puck, an experimental assistant available across ampcode.com that can find past threads, create projects, launch agents into isolated workspaces, and coordinate parallel investigations. Users can ask it to turn a bug report or failing build into one or more agent tasks.",
+  "friendlySummary": "Amp’s new helper can find old work, create projects, and send coding jobs to separate AI agents.",
+  "whyItMatters": "Coding-agent products are moving from one chat window toward a control plane for many workers. The useful test is whether orchestration improves completed, reviewed work — teams should keep task scopes, sandbox boundaries, cost limits, and final merge approval explicit.",
+  "friendlyWhyItMatters": "This may make parallel coding easier. Teams still need clear limits and a person to check the code before it is merged.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

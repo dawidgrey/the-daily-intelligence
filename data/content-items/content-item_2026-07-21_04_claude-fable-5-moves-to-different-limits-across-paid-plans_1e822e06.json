@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_04_claude-fable-5-moves-to-different-limits-across-paid-plans_1e822e06",
+  "sourceKind": "product",
+  "sourceName": "Claude Help Center",
+  "sourceUrl": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
+  "canonicalUrl": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "Claude Fable 5 moves to different limits across paid plans",
+  "friendlyTitle": "Claude Fable 5 now has different costs on different plans",
+  "summary": "From July 20, Fable 5 is included within regular weekly limits for Max and premium Team or legacy Enterprise seats, with up to half of that weekly allowance usable on the model. Pro and standard Team seats now use pay-as-you-go credits for Fable 5 after the earlier promotion ended.",
+  "friendlySummary": "Some higher-priced Claude plans include Fable 5 inside the weekly limit. Pro and standard Team users now pay with extra usage credits.",
+  "whyItMatters": "The same model can now have a very different effective cost depending on the seat type. Regular users and teams should check usage settings and compare expected Fable workloads before upgrading, enabling credits, or standardising a coding workflow around it.",
+  "friendlyWhyItMatters": "Check your plan before a long job. The model may be included for one user but cost extra for another.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

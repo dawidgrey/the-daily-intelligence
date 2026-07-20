@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_13_microsoft-ontology-playground-visual-tools-for-designing-shared-knowledg_c41672e2",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/microsoft/Ontology-Playground",
+  "canonicalUrl": "https://github.com/microsoft/Ontology-Playground",
+  "credit": "Microsoft and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "microsoft/Ontology-Playground: visual tools for designing shared knowledge models",
+  "friendlyTitle": "Ontology Playground helps teams draw how business knowledge connects",
+  "summary": "Ontology Playground is a static, open-source web application for learning about ontologies, exploring templates, visually designing knowledge models, and exporting them as RDF/XML. The project has about 1,600 GitHub stars and is designed to work without a backend.",
+  "friendlySummary": "Microsoft’s open-source web app lets people make visual maps of things, meanings, and relationships. It works without a server.",
+  "whyItMatters": "Teams building retrieval systems or business agents can use it to define entities and relationships before connecting an AI to messy organisational data. Because it is static, it is also easy to run locally for workshops, architecture discussions, and shareable prototypes.",
+  "friendlyWhyItMatters": "A team can agree on what its data means before giving that data to an AI assistant.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

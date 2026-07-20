@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-21",
+  "slug": "2026-07-21",
+  "status": "published",
+  "publicationDateUtc": "2026-07-20T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Long-running agents meet real-world limits",
+  "friendlyHeader": "AI is doing more, so good controls matter more",
+  "summary": "Today’s issue follows AI beyond the demo: OpenAI reports failures in long-running autonomous work, Anthropic tests language models on robots, and NVIDIA brings a compact world model to edge hardware. The practical theme is control — over agent actions, subscription costs, hiring decisions, information bias, and the energy required to make AI useful at scale.",
+  "friendlySummary": "Today we look at AI agents that work for a long time, AI that helps robots, and a smaller model for machines. We also explain costs, fairness, reliable information, and energy use in simple terms.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-21_01_openai-says-long-running-agents-exposed-failures-its-tests-had-missed_d4ff9ec8",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_02_anthropic-finds-robot-performance-depends-heavily-on-the-control-layer_e303ca69",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_03_nvidia-releases-a-4b-world-model-for-robots-and-edge-devices_8030c8e0",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_04_claude-fable-5-moves-to-different-limits-across-paid-plans_1e822e06",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_05_anthropic-offers-rare-disease-researchers-up-to-50-000-in-claude-credits_f23573f8",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_06_a-hiring-study-finds-llms-can-form-stereotypes-from-limited-feedback_64de9441",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_07_studies-trace-chatbot-blind-spots-to-restricted-information-environments_190b56dc",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_08_our-world-in-data-separates-ai-energy-facts-from-headline-estimates_8578cdf2",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_09_amp-introduces-puck-to-launch-and-coordinate-coding-agents_8b326a7a",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_10_cue-cuts-voice-agent-delay-by-polishing-speech-locally-with-gemma-4_6c58bf15",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_11_astrbotdevs-astrbot-a-cross-platform-agent-assistant-framework_1739a234",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_12_vercel-labs-deepsec-coding-agents-that-probe-a-codebase-for-vulnerabilit_2337cdfc",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-21_13_microsoft-ontology-playground-visual-tools-for-designing-shared-knowledg_c41672e2",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-21.json",
+    "itemCount": 13
+  }
+}

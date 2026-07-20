@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_11_astrbotdevs-astrbot-a-cross-platform-agent-assistant-framework_1739a234",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/AstrBotDevs/AstrBot",
+  "canonicalUrl": "https://github.com/AstrBotDevs/AstrBot",
+  "credit": "AstrBotDevs and contributors",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "AstrBotDevs/AstrBot: a cross-platform agent assistant framework",
+  "friendlyTitle": "AstrBot connects one AI assistant to many chat apps",
+  "summary": "AstrBot is a Python-based agent assistant and development framework with about 37,000 GitHub stars. It connects multiple language models, plugins, and messaging platforms, with an active contributor base and frequent releases.",
+  "friendlySummary": "AstrBot is a popular open-source system for AI assistants. It supports many models, messaging apps, and plugins.",
+  "whyItMatters": "Builders can use it to run one extensible assistant across chat services instead of maintaining a separate integration for each platform. Its plugin and model abstractions also make it useful for studying how a mature open-source agent gateway handles providers, tools, and messaging.",
+  "friendlyWhyItMatters": "You can build one assistant for several chat services or learn how a large agent framework is organised.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

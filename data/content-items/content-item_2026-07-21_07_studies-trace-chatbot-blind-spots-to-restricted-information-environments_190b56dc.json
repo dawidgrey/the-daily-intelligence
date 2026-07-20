@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_07_studies-trace-chatbot-blind-spots-to-restricted-information-environments_190b56dc",
+  "sourceKind": "research",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+  "canonicalUrl": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "Studies trace chatbot blind spots to restricted information environments",
+  "friendlyTitle": "Chatbots can repeat the blind spots in controlled information",
+  "summary": "AP reports on research showing that major chatbots can avoid criticism of restrictive leaders or governments when their training information has been shaped by censorship and repeated state narratives. Researchers warn that models may treat many copies of one controlled account as independent evidence.",
+  "friendlySummary": "Research shows that AI may avoid some political criticism when the information it learned from was censored or repeated by powerful groups.",
+  "whyItMatters": "Fluent answers are not neutral merely because they cite many documents. People using AI for research, travel, policy, or international business should compare languages and sources, seek primary records, and treat confident silence around sensitive topics as a possible data-quality warning.",
+  "friendlyWhyItMatters": "For important questions, check several sources and languages. A confident AI answer can still miss facts that were hidden from its training data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

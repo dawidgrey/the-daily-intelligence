@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_05_anthropic-offers-rare-disease-researchers-up-to-50-000-in-claude-credits_f23573f8",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/rare-disease-research-grants",
+  "canonicalUrl": "https://www.anthropic.com/news/rare-disease-research-grants",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "Anthropic offers rare-disease researchers up to $50,000 in Claude credits",
+  "friendlyTitle": "Anthropic offers AI credits for rare-disease research",
+  "summary": "Anthropic has opened a focused AI for Science grant call for rare genetic diseases. Accepted basic-research teams and early-stage biotechnology companies can receive up to $50,000 in Claude credits over six months and join a community working on related scientific problems.",
+  "friendlySummary": "Researchers and small biotech companies can apply for up to $50,000 in Claude use over six months. The work must focus on rare genetic diseases.",
+  "whyItMatters": "The programme could lower compute costs for work such as evidence synthesis, target discovery, registry analysis, and trial planning in fields with small patient populations. Applicants still need rigorous scientific validation: model access can accelerate analysis, but it does not turn generated hypotheses into clinical evidence.",
+  "friendlyWhyItMatters": "The credits may help small teams study difficult diseases faster. Human experts and real experiments must still check every important result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

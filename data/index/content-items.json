@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-18T20:05:24Z",
+  "generatedAtUtc": "2026-07-20T20:06:20Z",
   "items": [
     {
-      "id": "content-item_2026-07-19_01_solarbench-tests-whether-ai-agents-can-run-an-industrial-operations-desk_1ea1fb44",
+      "id": "content-item_2026-07-21_01_openai-says-long-running-agents-exposed-failures-its-tests-had-missed_d4ff9ec8",
       "sourceKind": "research",
-      "sourceName": "MainGen",
-      "title": "SolarBench tests whether AI agents can run an industrial operations desk",
-      "sourceUrl": "https://solarbench.maingen.ai/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI says long-running agents exposed failures its tests had missed",
+      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
-      "id": "content-item_2026-07-19_02_random-coding-agent-quota-resets-are-distorting-how-subscribers-plan-the_3714ed5b",
-      "sourceKind": "article",
-      "sourceName": "Max Woolf",
-      "title": "Random coding-agent quota resets are distorting how subscribers plan their work",
-      "sourceUrl": "https://minimaxir.com/2026/07/agent-quota-reset/"
-    },
-    {
-      "id": "content-item_2026-07-19_03_xshellz-offers-persistent-sandboxed-linux-boxes-for-coding-agents_67f111fb",
-      "sourceKind": "product",
-      "sourceName": "xShellz",
-      "title": "xShellz offers persistent sandboxed Linux boxes for coding agents",
-      "sourceUrl": "https://www.xshellz.com/"
-    },
-    {
-      "id": "content-item_2026-07-19_04_medows-demonstrates-an-ai-assisted-clinical-workspace-for-ward-rounds_5d5e42fc",
-      "sourceKind": "product",
-      "sourceName": "Medows",
-      "title": "Medows demonstrates an AI-assisted clinical workspace for ward rounds",
-      "sourceUrl": "https://www.medows.ai/demo"
-    },
-    {
-      "id": "content-item_2026-07-19_05_anthropic-is-reportedly-exploring-a-10-billion-meta-compute-lease_403d99f8",
-      "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "Anthropic is reportedly exploring a $10 billion Meta compute lease",
-      "sourceUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html"
-    },
-    {
-      "id": "content-item_2026-07-19_06_ai-demand-for-memory-chips-is-pushing-up-budget-smartphone-costs_20d52b2c",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "AI demand for memory chips is pushing up budget smartphone costs",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
-    },
-    {
-      "id": "content-item_2026-07-19_07_agility-robotics-opens-a-training-centre-for-commercially-deployed-human_2f86c8b7",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Agility Robotics opens a training centre for commercially deployed humanoids",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
-    },
-    {
-      "id": "content-item_2026-07-19_08_mlb-blocks-dugout-apps-that-recommend-ai-assisted-game-decisions_50d765bf",
-      "sourceKind": "regulation",
-      "sourceName": "Associated Press via ESPN",
-      "title": "MLB blocks dugout apps that recommend AI-assisted game decisions",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making"
-    },
-    {
-      "id": "content-item_2026-07-19_09_us-government-influence-over-frontier-model-access-is-reportedly-expandi_cd14803b",
-      "sourceKind": "regulation",
-      "sourceName": "CNBC",
-      "title": "US government influence over frontier-model access is reportedly expanding",
-      "sourceUrl": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
-    },
-    {
-      "id": "content-item_2026-07-19_10_a-practical-guide-explains-how-models-learn-low-medium-and-high-effort-r_28c7ee44",
+      "id": "content-item_2026-07-21_02_anthropic-finds-robot-performance-depends-heavily-on-the-control-layer_e303ca69",
       "sourceKind": "research",
-      "sourceName": "Ahead of AI",
-      "title": "A practical guide explains how models learn low-, medium- and high-effort reasoning",
-      "sourceUrl": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
+      "sourceName": "Anthropic",
+      "title": "Anthropic finds robot performance depends heavily on the control layer",
+      "sourceUrl": "https://www.anthropic.com/research/claude-plays-robotics"
     },
     {
-      "id": "content-item_2026-07-19_11_tirth8205-code-review-graph_ad18a56b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "tirth8205/code-review-graph",
-      "sourceUrl": "https://github.com/tirth8205/code-review-graph"
+      "id": "content-item_2026-07-21_03_nvidia-releases-a-4b-world-model-for-robots-and-edge-devices_8030c8e0",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA releases a 4B world model for robots and edge devices",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge"
     },
     {
-      "id": "content-item_2026-07-19_12_signoz-signoz_fc8ed5aa",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "SigNoz/signoz",
-      "sourceUrl": "https://github.com/SigNoz/signoz"
+      "id": "content-item_2026-07-21_04_claude-fable-5-moves-to-different-limits-across-paid-plans_1e822e06",
+      "sourceKind": "product",
+      "sourceName": "Claude Help Center",
+      "title": "Claude Fable 5 moves to different limits across paid plans",
+      "sourceUrl": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan"
     },
     {
-      "id": "content-item_2026-07-19_13_knockoutez-wigolo_9fedc9b4",
+      "id": "content-item_2026-07-21_05_anthropic-offers-rare-disease-researchers-up-to-50-000-in-claude-credits_f23573f8",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic offers rare-disease researchers up to $50,000 in Claude credits",
+      "sourceUrl": "https://www.anthropic.com/news/rare-disease-research-grants"
+    },
+    {
+      "id": "content-item_2026-07-21_06_a-hiring-study-finds-llms-can-form-stereotypes-from-limited-feedback_64de9441",
+      "sourceKind": "research",
+      "sourceName": "MIT Technology Review",
+      "title": "A hiring study finds LLMs can form stereotypes from limited feedback",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+    },
+    {
+      "id": "content-item_2026-07-21_07_studies-trace-chatbot-blind-spots-to-restricted-information-environments_190b56dc",
+      "sourceKind": "research",
+      "sourceName": "Associated Press",
+      "title": "Studies trace chatbot blind spots to restricted information environments",
+      "sourceUrl": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba"
+    },
+    {
+      "id": "content-item_2026-07-21_08_our-world-in-data-separates-ai-energy-facts-from-headline-estimates_8578cdf2",
+      "sourceKind": "research",
+      "sourceName": "Our World in Data",
+      "title": "Our World in Data separates AI energy facts from headline estimates",
+      "sourceUrl": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
+    },
+    {
+      "id": "content-item_2026-07-21_09_amp-introduces-puck-to-launch-and-coordinate-coding-agents_8b326a7a",
+      "sourceKind": "product",
+      "sourceName": "Amp",
+      "title": "Amp introduces Puck to launch and coordinate coding agents",
+      "sourceUrl": "https://ampcode.com/news/meet-puck"
+    },
+    {
+      "id": "content-item_2026-07-21_10_cue-cuts-voice-agent-delay-by-polishing-speech-locally-with-gemma-4_6c58bf15",
+      "sourceKind": "article",
+      "sourceName": "Google DeepMind",
+      "title": "Cue cuts voice-agent delay by polishing speech locally with Gemma 4",
+      "sourceUrl": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/"
+    },
+    {
+      "id": "content-item_2026-07-21_11_astrbotdevs-astrbot-a-cross-platform-agent-assistant-framework_1739a234",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "KnockOutEZ/wigolo",
-      "sourceUrl": "https://github.com/KnockOutEZ/wigolo"
+      "sourceName": "GitHub Trending Python",
+      "title": "AstrBotDevs/AstrBot: a cross-platform agent assistant framework",
+      "sourceUrl": "https://github.com/AstrBotDevs/AstrBot"
+    },
+    {
+      "id": "content-item_2026-07-21_12_vercel-labs-deepsec-coding-agents-that-probe-a-codebase-for-vulnerabilit_2337cdfc",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "vercel-labs/deepsec: coding agents that probe a codebase for vulnerabilities",
+      "sourceUrl": "https://github.com/vercel-labs/deepsec"
+    },
+    {
+      "id": "content-item_2026-07-21_13_microsoft-ontology-playground-visual-tools-for-designing-shared-knowledg_c41672e2",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "microsoft/Ontology-Playground: visual tools for designing shared knowledge models",
+      "sourceUrl": "https://github.com/microsoft/Ontology-Playground"
     }
   ]
 }

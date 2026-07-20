@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_08_our-world-in-data-separates-ai-energy-facts-from-headline-estimates_8578cdf2",
+  "sourceKind": "research",
+  "sourceName": "Our World in Data",
+  "sourceUrl": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+  "canonicalUrl": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "Our World in Data separates AI energy facts from headline estimates",
+  "friendlyTitle": "AI energy use cannot be explained by one simple number",
+  "summary": "A new evidence review examines both total electricity demand from data centres and the energy used by individual AI queries. It stresses that company disclosure remains limited, inference probably dominates training over time, and per-query figures vary greatly by model, hardware, workload, and data-centre overhead.",
+  "friendlySummary": "Our World in Data reviews how much electricity AI and data centres use. The answer changes with the model, computer, task, and place where it runs.",
+  "whyItMatters": "There is no honest single number for the footprint of every AI request. Businesses can make better choices by measuring their own workload, selecting the smallest adequate model, batching or caching repeated work, and asking providers for location- and hardware-specific energy data.",
+  "friendlyWhyItMatters": "Use a model that is only as large as your job needs. Companies should measure real work instead of trusting one number from a headline.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

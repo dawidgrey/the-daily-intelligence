@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-21_03_nvidia-releases-a-4b-world-model-for-robots-and-edge-devices_8030c8e0",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-20T20:06:20Z",
+  "createdAtUtc": "2026-07-20T20:06:20Z",
+  "updatedAtUtc": "2026-07-20T20:06:20Z",
+  "title": "NVIDIA releases a 4B world model for robots and edge devices",
+  "friendlyTitle": "NVIDIA releases a smaller AI model for robots",
+  "summary": "NVIDIA has released Cosmos 3 Edge, a four-billion-parameter open world model intended to help robots and vision agents interpret scenes, anticipate change, and reason on memory-constrained edge hardware. The release is available through the Cosmos 3 repository on Hugging Face.",
+  "friendlySummary": "Cosmos 3 Edge helps machines understand what they see and what may happen next. It is designed for smaller computers close to the robot or camera.",
+  "whyItMatters": "Running perception and prediction near a camera or robot can reduce cloud latency, connectivity dependence, and data movement. Developers can now evaluate whether a smaller local world model is sufficient for factory, warehouse, healthcare, or mobile-machine prototypes.",
+  "friendlyWhyItMatters": "A robot may react faster and send less private video to the cloud. Builders can download the model and test it on real machines.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-21"
+  }
+}

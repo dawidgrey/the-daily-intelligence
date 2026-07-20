@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-19T20:09:57Z",
+  "generatedAtUtc": "2026-07-20T20:06:21Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-21",
+      "slug": "2026-07-21",
+      "status": "published",
+      "publicationDateUtc": "2026-07-20T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Long-running agents meet real-world limits",
+      "friendlyHeader": "AI is doing more, so good controls matter more",
+      "summary": "Today’s issue follows AI beyond the demo: OpenAI reports failures in long-running autonomous work, Anthropic tests language models on robots, and NVIDIA brings a compact world model to edge hardware. The practical theme is control — over agent actions, subscription costs, hiring decisions, information bias, and the energy required to make AI useful at scale.",
+      "friendlySummary": "Today we look at AI agents that work for a long time, AI that helps robots, and a smaller model for machines. We also explain costs, fairness, reliable information, and energy use in simple terms.",
+      "itemCount": 13,
+      "href": "issues/2026-07-21.html",
+      "dataUrl": "data/daily-publications/2026-07-21.json"
+    },
     {
       "id": "daily-publication_2026-07-20",
       "slug": "2026-07-20",
