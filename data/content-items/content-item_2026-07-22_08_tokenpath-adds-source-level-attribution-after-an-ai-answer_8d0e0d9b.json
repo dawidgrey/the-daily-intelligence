@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_08_tokenpath-adds-source-level-attribution-after-an-ai-answer_8d0e0d9b",
+  "sourceKind": "product",
+  "sourceName": "TokenPath",
+  "sourceUrl": "https://tokenpath.ai",
+  "canonicalUrl": "https://tokenpath.ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "TokenPath adds source-level attribution after an AI answer",
+  "friendlyTitle": "TokenPath shows which source text supports an AI claim",
+  "summary": "TokenPath offers an API that maps claims in an existing model answer back to exact spans in a source document using an attention-based attribution pass. The company says it works after generation with output from different models and returns a source span plus a confidence score for each claim.",
+  "friendlySummary": "The service links parts of an AI answer to the exact words in a source document.",
+  "whyItMatters": "More precise citations could make document assistants easier to audit in research, finance and other evidence-heavy work. Attribution confidence is not proof that a claim is correct, so important outputs still need source review and independent evaluation.",
+  "friendlyWhyItMatters": "This can make answers easier to check, but people should still read the source before trusting an important claim.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

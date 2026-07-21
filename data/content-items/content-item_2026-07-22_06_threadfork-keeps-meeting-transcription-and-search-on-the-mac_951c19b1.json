@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_06_threadfork-keeps-meeting-transcription-and-search-on-the-mac_951c19b1",
+  "sourceKind": "product",
+  "sourceName": "threadfork",
+  "sourceUrl": "https://www.threadfork.com/",
+  "canonicalUrl": "https://www.threadfork.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "threadfork keeps meeting transcription and search on the Mac",
+  "friendlyTitle": "A private AI meeting notebook that runs on your Mac",
+  "summary": "threadfork is a macOS meeting workspace that records system and microphone audio, transcribes conversations, extracts decisions and commitments, and supports semantic search using local models. Its processing is designed to remain on Apple Silicon rather than send meeting audio to the cloud.",
+  "friendlySummary": "threadfork records and summarizes meetings on your Mac without uploading the audio to the cloud.",
+  "whyItMatters": "Local processing offers a useful privacy option for sensitive calls and avoids a visible meeting bot. Prospective users should weigh the $39 monthly price, Apple Silicon requirement and their organisation’s recording-consent rules.",
+  "friendlyWhyItMatters": "It may help people remember decisions while keeping sensitive conversations more private. Always follow local rules about recording meetings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

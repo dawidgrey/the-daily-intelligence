@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_02_openai-launches-a-practical-ai-program-for-small-businesses_d4236261",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
+  "canonicalUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "OpenAI launches a practical AI program for small businesses",
+  "friendlyTitle": "OpenAI offers AI training for small businesses",
+  "summary": "OpenAI’s new small-business program combines virtual training, in-person AI academies and practical material for using ChatGPT Work across accounting, marketing, ecommerce and other daily operations.",
+  "friendlySummary": "The new program teaches small-business owners how to use ChatGPT for everyday work such as marketing, accounting and online sales.",
+  "whyItMatters": "The program addresses a common adoption gap: small firms often have useful AI tools but little time to turn them into repeatable workflows. Owners should still review privacy, accuracy and subscription costs before placing sensitive or consequential work into an assistant.",
+  "friendlyWhyItMatters": "It may help small teams save time, but they should still check the answers and protect private business information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

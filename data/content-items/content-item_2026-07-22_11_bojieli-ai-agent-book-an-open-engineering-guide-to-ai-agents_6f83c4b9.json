@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_11_bojieli-ai-agent-book-an-open-engineering-guide-to-ai-agents_6f83c4b9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/bojieli/ai-agent-book",
+  "canonicalUrl": "https://github.com/bojieli/ai-agent-book",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "bojieli/ai-agent-book: an open engineering guide to AI agents",
+  "friendlyTitle": "A free book and practical lessons about building AI agents",
+  "summary": "This fast-rising repository contains an open book on AI-agent design and engineering, compiled PDFs and dozens of chapter-linked experiments. It includes English and several translated editions under an Apache 2.0 licence.",
+  "friendlySummary": "This popular repository explains how AI agents work and includes code experiments for the chapters.",
+  "whyItMatters": "Developers can use it as a structured course on context, retrieval, tools, memory, planning and agent evaluation, then run the companion experiments to test the ideas. Much of the original material is Chinese, so readers should check the coverage and maturity of their preferred translation.",
+  "friendlyWhyItMatters": "You can study one agent topic at a time and try the matching code instead of learning only from theory.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

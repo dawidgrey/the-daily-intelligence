@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_09_grabette-opens-a-lower-cost-route-to-robot-training-data_f07ea098",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face and Pollen Robotics",
+  "sourceUrl": "https://huggingface.co/blog/grabette",
+  "canonicalUrl": "https://huggingface.co/blog/grabette",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "Grabette opens a lower-cost route to robot training data",
+  "friendlyTitle": "An open handheld tool collects training examples for robots",
+  "summary": "Grabette is an open handheld gripper that records human manipulation demonstrations and converts them into robot-ready datasets. The project publishes its hardware, capture software and processing pipeline, with an estimated bill of materials of about €490 for the recorder and €120 for its robotic gripper counterpart.",
+  "friendlySummary": "Grabette records how a person moves objects and turns those actions into data a robot can learn from.",
+  "whyItMatters": "Researchers and smaller labs can collect diverse manipulation examples without owning a robot for every recording session. Open hardware lowers the entry barrier, although reproducing the system still requires assembly, calibration and careful dataset quality checks.",
+  "friendlyWhyItMatters": "More people may be able to help train robots without buying a full robot system, though the hardware still needs careful setup.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

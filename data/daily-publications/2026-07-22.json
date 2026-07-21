@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-22",
+  "slug": "2026-07-22",
+  "status": "published",
+  "publicationDateUtc": "2026-07-21T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Faster models meet more accountable AI workflows",
+  "friendlyHeader": "AI is getting faster, safer and easier to use",
+  "summary": "Today’s issue tracks a practical shift: AI is becoming faster and easier to deploy, while the surrounding tools for privacy, observability, citations, safety testing and open robotics data are catching up. For builders and businesses, the useful question is no longer only what a model can do, but how reliably and responsibly it fits into everyday work.",
+  "friendlySummary": "Today we look at faster Gemini models, helpful tools for small businesses, private meeting notes, clearer AI citations and open robotics projects. The main idea is simple: good AI needs useful models and good ways to check, control and understand them.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-22_01_google-introduces-gemini-3-6-flash-3-5-flash-lite-and-flash-cyber_8985407e",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_02_openai-launches-a-practical-ai-program-for-small-businesses_d4236261",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_03_a-new-test-probes-whether-ai-models-follow-graders-over-users_e9fd8e64",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_04_agent-client-protocol-v2-reaches-its-first-public-draft_15c03836",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_05_nvidia-maps-the-simulation-stack-behind-physical-ai_eed16821",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_06_threadfork-keeps-meeting-transcription-and-search-on-the-mac_951c19b1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_07_telemetry-brings-opentelemetry-traces-to-ai-applications_124191a2",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_08_tokenpath-adds-source-level-attribution-after-an-ai-answer_8d0e0d9b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_09_grabette-opens-a-lower-cost-route-to-robot-training-data_f07ea098",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_10_a-judge-approves-anthropic-s-1-5-billion-book-settlement_70acebfb",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_11_bojieli-ai-agent-book-an-open-engineering-guide-to-ai-agents_6f83c4b9",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_12_agegr-pi-web-a-browser-interface-for-the-pi-coding-agent_5169a99a",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-22_13_owainlewis-awesome-artificial-intelligence-a-curated-ai-learning-index_c9fdf064",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-22.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_13_owainlewis-awesome-artificial-intelligence-a-curated-ai-learning-index_c9fdf064",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/owainlewis/awesome-artificial-intelligence",
+  "canonicalUrl": "https://github.com/owainlewis/awesome-artificial-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "owainlewis/awesome-artificial-intelligence: a curated AI learning index",
+  "friendlyTitle": "A large list of useful ways to learn about AI",
+  "summary": "This long-running curated repository organises AI courses, books, lectures, papers and engineering resources. Recent work adds automated weekly curation while preserving a public archive of the selected material.",
+  "friendlySummary": "This repository collects AI courses, books, videos, papers and engineering guides in one place.",
+  "whyItMatters": "Learners and teams can use it to build a reading plan or find references without starting from a blank search page. As with any large resource list, check publication dates, prerequisites and original sources before investing substantial time.",
+  "friendlyWhyItMatters": "You can use it to choose what to learn next, but check that each resource is current and suitable for your level.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

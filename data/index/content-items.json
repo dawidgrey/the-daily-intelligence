@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-20T20:06:20Z",
+  "generatedAtUtc": "2026-07-21T20:04:54Z",
   "items": [
     {
-      "id": "content-item_2026-07-21_01_openai-says-long-running-agents-exposed-failures-its-tests-had-missed_d4ff9ec8",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI says long-running agents exposed failures its tests had missed",
-      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models"
-    },
-    {
-      "id": "content-item_2026-07-21_02_anthropic-finds-robot-performance-depends-heavily-on-the-control-layer_e303ca69",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic finds robot performance depends heavily on the control layer",
-      "sourceUrl": "https://www.anthropic.com/research/claude-plays-robotics"
-    },
-    {
-      "id": "content-item_2026-07-21_03_nvidia-releases-a-4b-world-model-for-robots-and-edge-devices_8030c8e0",
+      "id": "content-item_2026-07-22_01_google-introduces-gemini-3-6-flash-3-5-flash-lite-and-flash-cyber_8985407e",
       "sourceKind": "product",
-      "sourceName": "NVIDIA on Hugging Face",
-      "title": "NVIDIA releases a 4B world model for robots and edge devices",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge"
-    },
-    {
-      "id": "content-item_2026-07-21_04_claude-fable-5-moves-to-different-limits-across-paid-plans_1e822e06",
-      "sourceKind": "product",
-      "sourceName": "Claude Help Center",
-      "title": "Claude Fable 5 moves to different limits across paid plans",
-      "sourceUrl": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan"
-    },
-    {
-      "id": "content-item_2026-07-21_05_anthropic-offers-rare-disease-researchers-up-to-50-000-in-claude-credits_f23573f8",
-      "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic offers rare-disease researchers up to $50,000 in Claude credits",
-      "sourceUrl": "https://www.anthropic.com/news/rare-disease-research-grants"
-    },
-    {
-      "id": "content-item_2026-07-21_06_a-hiring-study-finds-llms-can-form-stereotypes-from-limited-feedback_64de9441",
-      "sourceKind": "research",
-      "sourceName": "MIT Technology Review",
-      "title": "A hiring study finds LLMs can form stereotypes from limited feedback",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
-    },
-    {
-      "id": "content-item_2026-07-21_07_studies-trace-chatbot-blind-spots-to-restricted-information-environments_190b56dc",
-      "sourceKind": "research",
-      "sourceName": "Associated Press",
-      "title": "Studies trace chatbot blind spots to restricted information environments",
-      "sourceUrl": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba"
-    },
-    {
-      "id": "content-item_2026-07-21_08_our-world-in-data-separates-ai-energy-facts-from-headline-estimates_8578cdf2",
-      "sourceKind": "research",
-      "sourceName": "Our World in Data",
-      "title": "Our World in Data separates AI energy facts from headline estimates",
-      "sourceUrl": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
-    },
-    {
-      "id": "content-item_2026-07-21_09_amp-introduces-puck-to-launch-and-coordinate-coding-agents_8b326a7a",
-      "sourceKind": "product",
-      "sourceName": "Amp",
-      "title": "Amp introduces Puck to launch and coordinate coding agents",
-      "sourceUrl": "https://ampcode.com/news/meet-puck"
-    },
-    {
-      "id": "content-item_2026-07-21_10_cue-cuts-voice-agent-delay-by-polishing-speech-locally-with-gemma-4_6c58bf15",
-      "sourceKind": "article",
       "sourceName": "Google DeepMind",
-      "title": "Cue cuts voice-agent delay by polishing speech locally with Gemma 4",
-      "sourceUrl": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/"
+      "title": "Google introduces Gemini 3.6 Flash, 3.5 Flash-Lite and Flash Cyber",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
     },
     {
-      "id": "content-item_2026-07-21_11_astrbotdevs-astrbot-a-cross-platform-agent-assistant-framework_1739a234",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "AstrBotDevs/AstrBot: a cross-platform agent assistant framework",
-      "sourceUrl": "https://github.com/AstrBotDevs/AstrBot"
+      "id": "content-item_2026-07-22_02_openai-launches-a-practical-ai-program-for-small-businesses_d4236261",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI launches a practical AI program for small businesses",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program"
     },
     {
-      "id": "content-item_2026-07-21_12_vercel-labs-deepsec-coding-agents-that-probe-a-codebase-for-vulnerabilit_2337cdfc",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "vercel-labs/deepsec: coding agents that probe a codebase for vulnerabilities",
-      "sourceUrl": "https://github.com/vercel-labs/deepsec"
+      "id": "content-item_2026-07-22_03_a-new-test-probes-whether-ai-models-follow-graders-over-users_e9fd8e64",
+      "sourceKind": "research",
+      "sourceName": "OpenAI Alignment Blog and Apollo Research",
+      "title": "A new test probes whether AI models follow graders over users",
+      "sourceUrl": "https://alignment.openai.com/measuring-reward-seeking/"
     },
     {
-      "id": "content-item_2026-07-21_13_microsoft-ontology-playground-visual-tools-for-designing-shared-knowledg_c41672e2",
+      "id": "content-item_2026-07-22_04_agent-client-protocol-v2-reaches-its-first-public-draft_15c03836",
+      "sourceKind": "product",
+      "sourceName": "Agent Client Protocol",
+      "title": "Agent Client Protocol v2 reaches its first public draft",
+      "sourceUrl": "https://agentclientprotocol.com/announcements/acp-v2-draft"
+    },
+    {
+      "id": "content-item_2026-07-22_05_nvidia-maps-the-simulation-stack-behind-physical-ai_eed16821",
+      "sourceKind": "article",
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA maps the simulation stack behind physical AI",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    },
+    {
+      "id": "content-item_2026-07-22_06_threadfork-keeps-meeting-transcription-and-search-on-the-mac_951c19b1",
+      "sourceKind": "product",
+      "sourceName": "threadfork",
+      "title": "threadfork keeps meeting transcription and search on the Mac",
+      "sourceUrl": "https://www.threadfork.com/"
+    },
+    {
+      "id": "content-item_2026-07-22_07_telemetry-brings-opentelemetry-traces-to-ai-applications_124191a2",
+      "sourceKind": "product",
+      "sourceName": "Telemetry",
+      "title": "Telemetry brings OpenTelemetry traces to AI applications",
+      "sourceUrl": "https://telemetry.dev/"
+    },
+    {
+      "id": "content-item_2026-07-22_08_tokenpath-adds-source-level-attribution-after-an-ai-answer_8d0e0d9b",
+      "sourceKind": "product",
+      "sourceName": "TokenPath",
+      "title": "TokenPath adds source-level attribution after an AI answer",
+      "sourceUrl": "https://tokenpath.ai"
+    },
+    {
+      "id": "content-item_2026-07-22_09_grabette-opens-a-lower-cost-route-to-robot-training-data_f07ea098",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face and Pollen Robotics",
+      "title": "Grabette opens a lower-cost route to robot training data",
+      "sourceUrl": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "id": "content-item_2026-07-22_10_a-judge-approves-anthropic-s-1-5-billion-book-settlement_70acebfb",
+      "sourceKind": "regulation",
+      "sourceName": "Associated Press",
+      "title": "A judge approves Anthropic’s $1.5 billion book settlement",
+      "sourceUrl": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
+    },
+    {
+      "id": "content-item_2026-07-22_11_bojieli-ai-agent-book-an-open-engineering-guide-to-ai-agents_6f83c4b9",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "microsoft/Ontology-Playground: visual tools for designing shared knowledge models",
-      "sourceUrl": "https://github.com/microsoft/Ontology-Playground"
+      "sourceName": "GitHub Trending",
+      "title": "bojieli/ai-agent-book: an open engineering guide to AI agents",
+      "sourceUrl": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "id": "content-item_2026-07-22_12_agegr-pi-web-a-browser-interface-for-the-pi-coding-agent_5169a99a",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "agegr/pi-web: a browser interface for the Pi coding agent",
+      "sourceUrl": "https://github.com/agegr/pi-web"
+    },
+    {
+      "id": "content-item_2026-07-22_13_owainlewis-awesome-artificial-intelligence-a-curated-ai-learning-index_c9fdf064",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "owainlewis/awesome-artificial-intelligence: a curated AI learning index",
+      "sourceUrl": "https://github.com/owainlewis/awesome-artificial-intelligence"
     }
   ]
 }

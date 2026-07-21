@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_05_nvidia-maps-the-simulation-stack-behind-physical-ai_eed16821",
+  "sourceKind": "article",
+  "sourceName": "NVIDIA on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "NVIDIA maps the simulation stack behind physical AI",
+  "friendlyTitle": "NVIDIA explains how virtual worlds help train robots",
+  "summary": "NVIDIA’s overview explains how simulation, synthetic data and digital environments support the development and evaluation of robots and other physical AI systems. It connects simulation choices to data generation, training and testing workflows.",
+  "friendlySummary": "Robots can practise in computer simulations and learn from synthetic data before working in the real world.",
+  "whyItMatters": "Testing in simulation can reduce the cost and danger of learning only on real machines, while exposing rare scenarios before deployment. Builders still need real-world validation because a simulated environment cannot reproduce every physical condition.",
+  "friendlyWhyItMatters": "This can make robot training safer and cheaper, but real machines still need careful testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

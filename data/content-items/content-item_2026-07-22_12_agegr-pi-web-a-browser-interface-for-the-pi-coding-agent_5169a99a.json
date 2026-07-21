@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_12_agegr-pi-web-a-browser-interface-for-the-pi-coding-agent_5169a99a",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/agegr/pi-web",
+  "canonicalUrl": "https://github.com/agegr/pi-web",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "agegr/pi-web: a browser interface for the Pi coding agent",
+  "friendlyTitle": "A web screen for using the Pi coding agent",
+  "summary": "Pi Web provides a web interface for the Pi coding agent, with session browsing, live chat, branching, file mentions and controls for agent tools. The TypeScript project is under active development and uses the MIT licence.",
+  "friendlySummary": "Pi Web lets developers chat with the Pi coding agent and manage its work from a browser.",
+  "whyItMatters": "It gives developers a visual way to manage Pi sessions when a terminal-only workflow is inconvenient. Because the interface can execute agent and shell actions, users should keep it private, review its configuration and avoid exposing it directly to the public internet.",
+  "friendlyWhyItMatters": "It can make coding-agent sessions easier to see and organise, but users should protect access because the agent can run tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}

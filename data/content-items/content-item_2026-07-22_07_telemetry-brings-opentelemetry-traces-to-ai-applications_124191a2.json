@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-22_07_telemetry-brings-opentelemetry-traces-to-ai-applications_124191a2",
+  "sourceKind": "product",
+  "sourceName": "Telemetry",
+  "sourceUrl": "https://telemetry.dev/",
+  "canonicalUrl": "https://telemetry.dev/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-21T20:04:54Z",
+  "createdAtUtc": "2026-07-21T20:04:54Z",
+  "updatedAtUtc": "2026-07-21T20:04:54Z",
+  "title": "Telemetry brings OpenTelemetry traces to AI applications",
+  "friendlyTitle": "A tool to see where an AI app fails or spends money",
+  "summary": "Telemetry traces model calls, retrieval steps and tool use while attaching latency, token cost and errors. It accepts standard OpenTelemetry data, supports Python and TypeScript integrations, and lets teams disable prompt and completion capture by environment.",
+  "friendlySummary": "Telemetry shows model calls and tool steps in one trace, including their speed, cost and errors.",
+  "whyItMatters": "Agent failures often span several model and tool steps, so one end-to-end trace can be more useful than isolated logs. Teams should still review retention, redaction and data-location requirements before sending production traces to a hosted service.",
+  "friendlyWhyItMatters": "Developers can find slow or broken steps more quickly and understand what their AI app costs to run.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-22"
+  }
+}
