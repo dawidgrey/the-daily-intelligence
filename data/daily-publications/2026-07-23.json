@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-23",
+  "slug": "2026-07-23",
+  "status": "published",
+  "publicationDateUtc": "2026-07-22T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI agents move from demos into operating systems",
+  "friendlyHeader": "AI tools are becoming more practical at work",
+  "summary": "Today’s issue follows the infrastructure around capable AI: enterprise controls, safer evaluation, cheaper agent execution, specialist security models and evidence from real public-sector use. The common thread is practical deployment—how organisations make AI useful without losing sight of cost, oversight or the people affected by the change.",
+  "friendlySummary": "Today we look at safer AI agents, lower running costs, tools for science and security, and a large study of AI in courts. The main lesson is that useful AI needs good controls, careful testing and clear benefits for people.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-23_01_amd-and-anthropic-plan-a-two-gigawatt-expansion-for-claude_cb2411b5",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_02_openai-presence-packages-controls-for-enterprise-voice-and-chat-agents_c54f46e5",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_03_openai-and-hugging-face-disclose-an-ai-evaluation-breach_20b0eb2d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_04_google-commits-40-million-in-ai-access-to-the-genesis-mission_15eb5b1c",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_05_substack-adds-an-optional-pangram-scan-for-ai-written-text_99a255b2",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_06_browserbase-argues-agents-need-a-code-surface-not-dozens-of-tools_53d2b9e6",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_07_a-prompt-cache-experiment-finds-30-second-keepalives-waste-money_9b14d7b0",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_08_a-nationwide-trial-finds-training-determines-whether-judgegpt-helps_58496084",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_09_cisco-releases-small-open-models-for-locating-vulnerable-code_65baddcb",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_10_amazon-trims-its-agi-group-amid-continuing-ai-reorganisation_295a9e87",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_11_dottxt-ai-outlines-reliable-structured-output-from-language-models_56498c5f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_12_langchain-ai-open-deep-research-a-configurable-research-agent_8cb6f09d",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-23_13_composiohq-awesome-claude-skills-a-large-practical-skills-index_6b401487",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-23.json",
+    "itemCount": 13
+  }
+}

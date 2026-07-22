@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_12_langchain-ai-open-deep-research-a-configurable-research-agent_8cb6f09d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/langchain-ai/open_deep_research",
+  "canonicalUrl": "https://github.com/langchain-ai/open_deep_research",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "langchain-ai/open_deep_research: a configurable research agent",
+  "friendlyTitle": "An open research agent you can change and run yourself",
+  "summary": "Open Deep Research is an MIT-licensed LangGraph agent for multi-step web research and report writing. It supports several model providers, search tools and MCP servers, and was one of the day’s most-starred AI repositories on GitHub Trending.",
+  "friendlySummary": "This project searches the web, studies sources and writes a report using models and search tools you choose.",
+  "whyItMatters": "Teams can run the agent locally, swap research and summarisation models, connect their preferred search API and inspect the full workflow. Production users should evaluate citation quality, search costs and failure handling before relying on generated reports.",
+  "friendlyWhyItMatters": "You can adapt it for your own research process, but important reports still need source checks and a clear cost limit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

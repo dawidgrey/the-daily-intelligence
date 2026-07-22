@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_11_dottxt-ai-outlines-reliable-structured-output-from-language-models_56498c5f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/dottxt-ai/outlines",
+  "canonicalUrl": "https://github.com/dottxt-ai/outlines",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "dottxt-ai/outlines: reliable structured output from language models",
+  "friendlyTitle": "Outlines makes AI answers follow a required data shape",
+  "summary": "Outlines is an Apache-licensed Python library that constrains language-model generation to valid types, schemas and grammars. The actively updated project supports multiple providers and local models, and was among the day’s fastest-rising AI repositories on GitHub Trending.",
+  "friendlySummary": "This popular Python library helps an AI return valid JSON, fixed choices or other structured data.",
+  "whyItMatters": "Developers can use Outlines to generate valid JSON, classifications or Pydantic-shaped data without relying on fragile repair code after generation. Test the constraint engine with the chosen model and schema because valid structure does not guarantee factually correct content.",
+  "friendlyWhyItMatters": "It can make AI features easier to connect to software, but developers must still check whether the information inside the structure is correct.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-21T20:04:54Z",
+  "generatedAtUtc": "2026-07-22T20:05:38Z",
   "items": [
     {
-      "id": "content-item_2026-07-22_01_google-introduces-gemini-3-6-flash-3-5-flash-lite-and-flash-cyber_8985407e",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google introduces Gemini 3.6 Flash, 3.5 Flash-Lite and Flash Cyber",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+      "id": "content-item_2026-07-23_01_amd-and-anthropic-plan-a-two-gigawatt-expansion-for-claude_cb2411b5",
+      "sourceKind": "article",
+      "sourceName": "AMD",
+      "title": "AMD and Anthropic plan a two-gigawatt expansion for Claude",
+      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus"
     },
     {
-      "id": "content-item_2026-07-22_02_openai-launches-a-practical-ai-program-for-small-businesses_d4236261",
+      "id": "content-item_2026-07-23_02_openai-presence-packages-controls-for-enterprise-voice-and-chat-agents_c54f46e5",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI launches a practical AI program for small businesses",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      "title": "OpenAI Presence packages controls for enterprise voice and chat agents",
+      "sourceUrl": "https://openai.com/index/introducing-openai-presence"
     },
     {
-      "id": "content-item_2026-07-22_03_a-new-test-probes-whether-ai-models-follow-graders-over-users_e9fd8e64",
-      "sourceKind": "research",
-      "sourceName": "OpenAI Alignment Blog and Apollo Research",
-      "title": "A new test probes whether AI models follow graders over users",
-      "sourceUrl": "https://alignment.openai.com/measuring-reward-seeking/"
-    },
-    {
-      "id": "content-item_2026-07-22_04_agent-client-protocol-v2-reaches-its-first-public-draft_15c03836",
-      "sourceKind": "product",
-      "sourceName": "Agent Client Protocol",
-      "title": "Agent Client Protocol v2 reaches its first public draft",
-      "sourceUrl": "https://agentclientprotocol.com/announcements/acp-v2-draft"
-    },
-    {
-      "id": "content-item_2026-07-22_05_nvidia-maps-the-simulation-stack-behind-physical-ai_eed16821",
+      "id": "content-item_2026-07-23_03_openai-and-hugging-face-disclose-an-ai-evaluation-breach_20b0eb2d",
       "sourceKind": "article",
-      "sourceName": "NVIDIA on Hugging Face",
-      "title": "NVIDIA maps the simulation stack behind physical AI",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+      "sourceName": "OpenAI and Hugging Face",
+      "title": "OpenAI and Hugging Face disclose an AI evaluation breach",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
     },
     {
-      "id": "content-item_2026-07-22_06_threadfork-keeps-meeting-transcription-and-search-on-the-mac_951c19b1",
+      "id": "content-item_2026-07-23_04_google-commits-40-million-in-ai-access-to-the-genesis-mission_15eb5b1c",
+      "sourceKind": "article",
+      "sourceName": "Google DeepMind and Google Cloud",
+      "title": "Google commits $40 million in AI access to the Genesis Mission",
+      "sourceUrl": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "id": "content-item_2026-07-23_05_substack-adds-an-optional-pangram-scan-for-ai-written-text_99a255b2",
       "sourceKind": "product",
-      "sourceName": "threadfork",
-      "title": "threadfork keeps meeting transcription and search on the Mac",
-      "sourceUrl": "https://www.threadfork.com/"
+      "sourceName": "Substack",
+      "title": "Substack adds an optional Pangram scan for AI-written text",
+      "sourceUrl": "https://support.substack.com/hc/en-us/articles/50891130623508-How-can-I-detect-AI-on-Substack"
     },
     {
-      "id": "content-item_2026-07-22_07_telemetry-brings-opentelemetry-traces-to-ai-applications_124191a2",
+      "id": "content-item_2026-07-23_06_browserbase-argues-agents-need-a-code-surface-not-dozens-of-tools_53d2b9e6",
+      "sourceKind": "article",
+      "sourceName": "Browserbase",
+      "title": "Browserbase argues agents need a code surface, not dozens of tools",
+      "sourceUrl": "https://www.browserbase.com/blog/code-mode-is-all-you-need"
+    },
+    {
+      "id": "content-item_2026-07-23_07_a-prompt-cache-experiment-finds-30-second-keepalives-waste-money_9b14d7b0",
+      "sourceKind": "article",
+      "sourceName": "Mempko",
+      "title": "A prompt-cache experiment finds 30-second keepalives waste money",
+      "sourceUrl": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/"
+    },
+    {
+      "id": "content-item_2026-07-23_08_a-nationwide-trial-finds-training-determines-whether-judgegpt-helps_58496084",
+      "sourceKind": "research",
+      "sourceName": "Sultan Mehmood, Andreas Goessmann and Elliott Ash",
+      "title": "A nationwide trial finds training determines whether JudgeGPT helps",
+      "sourceUrl": "https://elliottash.com/papers/Mehmood-Goessmann-Ash-Courts-of-Tomorrow-Evidence-Nationwide-Rollout-Generative-AI.pdf"
+    },
+    {
+      "id": "content-item_2026-07-23_09_cisco-releases-small-open-models-for-locating-vulnerable-code_65baddcb",
       "sourceKind": "product",
-      "sourceName": "Telemetry",
-      "title": "Telemetry brings OpenTelemetry traces to AI applications",
-      "sourceUrl": "https://telemetry.dev/"
+      "sourceName": "Cisco Foundation AI on Hugging Face",
+      "title": "Cisco releases small open models for locating vulnerable code",
+      "sourceUrl": "https://huggingface.co/fdtn-ai/antares-1b"
     },
     {
-      "id": "content-item_2026-07-22_08_tokenpath-adds-source-level-attribution-after-an-ai-answer_8d0e0d9b",
-      "sourceKind": "product",
-      "sourceName": "TokenPath",
-      "title": "TokenPath adds source-level attribution after an AI answer",
-      "sourceUrl": "https://tokenpath.ai"
+      "id": "content-item_2026-07-23_10_amazon-trims-its-agi-group-amid-continuing-ai-reorganisation_295a9e87",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Amazon trims its AGI group amid continuing AI reorganisation",
+      "sourceUrl": "https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/"
     },
     {
-      "id": "content-item_2026-07-22_09_grabette-opens-a-lower-cost-route-to-robot-training-data_f07ea098",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face and Pollen Robotics",
-      "title": "Grabette opens a lower-cost route to robot training data",
-      "sourceUrl": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "id": "content-item_2026-07-22_10_a-judge-approves-anthropic-s-1-5-billion-book-settlement_70acebfb",
-      "sourceKind": "regulation",
-      "sourceName": "Associated Press",
-      "title": "A judge approves Anthropic’s $1.5 billion book settlement",
-      "sourceUrl": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
-    },
-    {
-      "id": "content-item_2026-07-22_11_bojieli-ai-agent-book-an-open-engineering-guide-to-ai-agents_6f83c4b9",
+      "id": "content-item_2026-07-23_11_dottxt-ai-outlines-reliable-structured-output-from-language-models_56498c5f",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "bojieli/ai-agent-book: an open engineering guide to AI agents",
-      "sourceUrl": "https://github.com/bojieli/ai-agent-book"
+      "title": "dottxt-ai/outlines: reliable structured output from language models",
+      "sourceUrl": "https://github.com/dottxt-ai/outlines"
     },
     {
-      "id": "content-item_2026-07-22_12_agegr-pi-web-a-browser-interface-for-the-pi-coding-agent_5169a99a",
+      "id": "content-item_2026-07-23_12_langchain-ai-open-deep-research-a-configurable-research-agent_8cb6f09d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "agegr/pi-web: a browser interface for the Pi coding agent",
-      "sourceUrl": "https://github.com/agegr/pi-web"
+      "title": "langchain-ai/open_deep_research: a configurable research agent",
+      "sourceUrl": "https://github.com/langchain-ai/open_deep_research"
     },
     {
-      "id": "content-item_2026-07-22_13_owainlewis-awesome-artificial-intelligence-a-curated-ai-learning-index_c9fdf064",
+      "id": "content-item_2026-07-23_13_composiohq-awesome-claude-skills-a-large-practical-skills-index_6b401487",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "owainlewis/awesome-artificial-intelligence: a curated AI learning index",
-      "sourceUrl": "https://github.com/owainlewis/awesome-artificial-intelligence"
+      "title": "ComposioHQ/awesome-claude-skills: a large practical skills index",
+      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
   ]
 }

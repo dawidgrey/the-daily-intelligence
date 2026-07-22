@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_13_composiohq-awesome-claude-skills-a-large-practical-skills-index_6b401487",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "canonicalUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "ComposioHQ/awesome-claude-skills: a large practical skills index",
+  "friendlyTitle": "A large list of ready-made skills for AI agents",
+  "summary": "Awesome Claude Skills curates more than 1,000 skills and plugins covering documents, coding, analysis, business, communication, security and app automation. Despite its name, the collection notes that many skill packages can also inform workflows in Codex, Cursor, Gemini CLI and other coding agents.",
+  "friendlySummary": "This trending repository collects more than 1,000 practical agent skills for coding, documents, business tasks and other work.",
+  "whyItMatters": "Agent users can browse the index for reusable workflow patterns instead of writing every instruction set from scratch. Review each linked skill’s source, permissions, dependencies and maintenance status before installing it, especially when it can access external apps.",
+  "friendlyWhyItMatters": "It can help you find a useful workflow quickly, but check every skill before giving it access to files, accounts or apps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

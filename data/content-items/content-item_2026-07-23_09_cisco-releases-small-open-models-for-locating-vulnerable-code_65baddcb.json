@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_09_cisco-releases-small-open-models-for-locating-vulnerable-code_65baddcb",
+  "sourceKind": "product",
+  "sourceName": "Cisco Foundation AI on Hugging Face",
+  "sourceUrl": "https://huggingface.co/fdtn-ai/antares-1b",
+  "canonicalUrl": "https://huggingface.co/fdtn-ai/antares-1b",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "Cisco releases small open models for locating vulnerable code",
+  "friendlyTitle": "Cisco opens small AI models that search code for security problems",
+  "summary": "Cisco Foundation AI has released Antares-350M and Antares-1B, open-weight small language models specialised for locating files likely to contain a known vulnerability in a real codebase. The Apache 2.0 models are designed as components in an iterative agent workflow rather than general-purpose chatbots.",
+  "friendlySummary": "The Antares models help narrow down which files may contain a known software vulnerability.",
+  "whyItMatters": "A narrow model can run more cheaply and stay on premises while reducing the amount of code a larger security agent must inspect. Teams should treat the model as a triage aid, validate Cisco’s reported benchmarks on their own repositories and keep human review in the remediation loop.",
+  "friendlyWhyItMatters": "Security teams may find problems faster and keep code private, but they still need to test the result and review every fix.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

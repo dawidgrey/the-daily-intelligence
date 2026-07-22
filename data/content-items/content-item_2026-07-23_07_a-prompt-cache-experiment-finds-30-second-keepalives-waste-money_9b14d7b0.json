@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_07_a-prompt-cache-experiment-finds-30-second-keepalives-waste-money_9b14d7b0",
+  "sourceKind": "article",
+  "sourceName": "Mempko",
+  "sourceUrl": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
+  "canonicalUrl": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "A prompt-cache experiment finds 30-second keepalives waste money",
+  "friendlyTitle": "AI agents may be paying too much to keep prompts cached",
+  "summary": "A measured comparison across Anthropic, OpenAI, Gemini and DeepSeek found that the common 30-second cache keepalive was eight times more frequent than necessary. In the tested ten-minute pauses, a roughly four-minute interval saved money for Anthropic, improved cache reliability without dollar savings for DeepSeek, and brought little benefit for OpenAI or Gemini.",
+  "friendlySummary": "An experiment found that sending a cache message every 30 seconds is usually wasteful and that each AI provider behaves differently.",
+  "whyItMatters": "Long-running agents repeatedly resend large conversation prefixes, so a small timer choice can become a material API bill. Builders should measure each provider’s cache behaviour and stop keepalives when their cumulative read cost exceeds simply rebuilding the cache.",
+  "friendlyWhyItMatters": "Teams can lower agent costs by measuring the real cache lifetime and using a slower timer only where it saves money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

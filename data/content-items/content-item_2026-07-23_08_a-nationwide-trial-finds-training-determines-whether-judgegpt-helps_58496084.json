@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_08_a-nationwide-trial-finds-training-determines-whether-judgegpt-helps_58496084",
+  "sourceKind": "research",
+  "sourceName": "Sultan Mehmood, Andreas Goessmann and Elliott Ash",
+  "sourceUrl": "https://elliottash.com/papers/Mehmood-Goessmann-Ash-Courts-of-Tomorrow-Evidence-Nationwide-Rollout-Generative-AI.pdf",
+  "canonicalUrl": "https://elliottash.com/papers/Mehmood-Goessmann-Ash-Courts-of-Tomorrow-Evidence-Nationwide-Rollout-Generative-AI.pdf",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "A nationwide trial finds training determines whether JudgeGPT helps",
+  "friendlyTitle": "AI helped judges more when they also received training",
+  "summary": "A randomized field study involving 1,559 judges across Pakistan tested JudgeGPT, a system for searching, citing and summarising precedents and case documents. The researchers report a 6.3% increase in case resolution overall, with gains concentrated among judges who also received hands-on training rather than tool access alone.",
+  "friendlySummary": "A large study in Pakistan found that JudgeGPT helped courts complete more cases, mainly when judges learned how to use it properly.",
+  "whyItMatters": "The result suggests that deployment support can matter as much as access to a model in high-stakes professional work. Courts and other public services should budget for training, quality measurement and appeal safeguards instead of treating an AI subscription as a complete reform.",
+  "friendlyWhyItMatters": "Giving people an AI tool is not enough. Training and careful checks are important, especially for decisions that affect lives.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-21T20:04:54Z",
+  "generatedAtUtc": "2026-07-22T20:05:38Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-23",
+      "slug": "2026-07-23",
+      "status": "published",
+      "publicationDateUtc": "2026-07-22T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI agents move from demos into operating systems",
+      "friendlyHeader": "AI tools are becoming more practical at work",
+      "summary": "Today’s issue follows the infrastructure around capable AI: enterprise controls, safer evaluation, cheaper agent execution, specialist security models and evidence from real public-sector use. The common thread is practical deployment—how organisations make AI useful without losing sight of cost, oversight or the people affected by the change.",
+      "friendlySummary": "Today we look at safer AI agents, lower running costs, tools for science and security, and a large study of AI in courts. The main lesson is that useful AI needs good controls, careful testing and clear benefits for people.",
+      "itemCount": 13,
+      "href": "issues/2026-07-23.html",
+      "dataUrl": "data/daily-publications/2026-07-23.json"
+    },
     {
       "id": "daily-publication_2026-07-22",
       "slug": "2026-07-22",

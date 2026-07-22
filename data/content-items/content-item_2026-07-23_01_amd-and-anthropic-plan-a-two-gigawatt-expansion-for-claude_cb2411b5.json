@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_01_amd-and-anthropic-plan-a-two-gigawatt-expansion-for-claude_cb2411b5",
+  "sourceKind": "article",
+  "sourceName": "AMD",
+  "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+  "canonicalUrl": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "AMD and Anthropic plan a two-gigawatt expansion for Claude",
+  "friendlyTitle": "AMD will provide much more computing power for Claude",
+  "summary": "Anthropic plans to deploy up to two gigawatts of AMD Instinct MI450-series capacity, with the first gigawatt scheduled to begin in the first half of 2027. AMD also plans to invest up to $5 billion in Anthropic, while the companies will use Claude to improve AMD workloads and ROCm software.",
+  "friendlySummary": "Anthropic plans to use a very large amount of AMD hardware for Claude, and AMD may invest up to $5 billion in Anthropic.",
+  "whyItMatters": "The agreement gives Anthropic another large source of compute and gives AMD a prominent customer beyond the NVIDIA ecosystem. More hardware competition could improve capacity and pricing over time, although the promised deployment and investment remain forward-looking.",
+  "friendlyWhyItMatters": "More competition between AI chip suppliers may improve supply and prices, but most of this project will happen in the future.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_02_openai-presence-packages-controls-for-enterprise-voice-and-chat-agents_c54f46e5",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-openai-presence",
+  "canonicalUrl": "https://openai.com/index/introducing-openai-presence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "OpenAI Presence packages controls for enterprise voice and chat agents",
+  "friendlyTitle": "OpenAI launches a managed platform for business AI agents",
+  "summary": "OpenAI has introduced Presence, a platform for deploying customer-facing and internal agents across voice and chat. It brings company context, policies, permissions, guardrails, actions and evaluations into a shared operating layer, with support from forward-deployed engineers for larger implementations.",
+  "friendlySummary": "Presence helps companies build voice and chat agents with rules, permissions, safety checks and testing in one place.",
+  "whyItMatters": "Businesses buying agents increasingly need lifecycle controls and human escalation, not only a capable model. Presence may reduce custom integration work, but teams should still test reliability, data handling, lock-in and the cost of a services-heavy deployment.",
+  "friendlyWhyItMatters": "It may make business agents easier to control, but companies still need to test them carefully and understand their costs and data use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

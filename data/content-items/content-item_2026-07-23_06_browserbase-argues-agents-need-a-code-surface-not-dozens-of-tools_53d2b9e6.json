@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_06_browserbase-argues-agents-need-a-code-surface-not-dozens-of-tools_53d2b9e6",
+  "sourceKind": "article",
+  "sourceName": "Browserbase",
+  "sourceUrl": "https://www.browserbase.com/blog/code-mode-is-all-you-need",
+  "canonicalUrl": "https://www.browserbase.com/blog/code-mode-is-all-you-need",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "Browserbase argues agents need a code surface, not dozens of tools",
+  "friendlyTitle": "AI agents may work better with code than a huge toolbox",
+  "summary": "Browserbase proposes exposing a small set of typed capabilities inside a secure execution environment and letting an agent write ordinary code to combine them. Its worked example estimates about 88% less context than loading and calling a large collection of bespoke tools, while keeping filtering, retries and branching deterministic.",
+  "friendlySummary": "Browserbase says an agent can write small programs to join several safe capabilities instead of learning many separate tool commands.",
+  "whyItMatters": "Code mode can reduce tool-schema overhead and let agents process large results before they enter model context. It also expands what generated code can do, so the useful pattern is a constrained runtime with scoped capabilities, resource limits, logging and approval around consequential actions.",
+  "friendlyWhyItMatters": "This can save context and make workflows clearer, but the code must run inside a strongly limited and monitored environment.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}

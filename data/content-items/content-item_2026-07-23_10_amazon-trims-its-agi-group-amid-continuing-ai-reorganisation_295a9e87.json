@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-23_10_amazon-trims-its-agi-group-amid-continuing-ai-reorganisation_295a9e87",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/",
+  "canonicalUrl": "https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-22T20:05:38Z",
+  "createdAtUtc": "2026-07-22T20:05:38Z",
+  "updatedAtUtc": "2026-07-22T20:05:38Z",
+  "title": "Amazon trims its AGI group amid continuing AI reorganisation",
+  "friendlyTitle": "Amazon cuts some jobs inside its main AI group",
+  "summary": "Amazon has cut jobs in its artificial general intelligence group, the unit behind parts of its generative-AI strategy, according to Reuters. The reduction follows broader corporate layoffs and shows that heavy AI investment is still accompanied by selective restructuring inside AI teams themselves.",
+  "friendlySummary": "Amazon is reducing staff in its AGI team even while the company continues to invest heavily in AI.",
+  "whyItMatters": "AI spending does not guarantee stable staffing in every AI role; large companies are reallocating people and capital as products and priorities change. Workers and suppliers should distinguish headline investment totals from the health of a particular team or project.",
+  "friendlyWhyItMatters": "A company can spend more on AI while changing or shrinking particular teams, so workers should not assume every AI job is protected.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-23"
+  }
+}
