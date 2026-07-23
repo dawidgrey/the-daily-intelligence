@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-22T20:05:38Z",
+  "generatedAtUtc": "2026-07-23T20:05:12Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-24",
+      "slug": "2026-07-24",
+      "status": "published",
+      "publicationDateUtc": "2026-07-23T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves closer to the work — and the consequences",
+      "friendlyHeader": "AI is doing more useful work — but it needs good controls",
+      "summary": "Today’s issue follows AI into health records, desktop voice control, software triage and media production, while new evidence sharpens the case for careful oversight. We also look at practical ways to run image models with less memory, audit repetitive LLM workloads and choose tools for coding and financial research.",
+      "friendlySummary": "Today we look at AI for health, voice control, software work and media creation. We also explain new safety lessons and share three useful open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-07-24.html",
+      "dataUrl": "data/daily-publications/2026-07-24.json"
+    },
     {
       "id": "daily-publication_2026-07-23",
       "slug": "2026-07-23",

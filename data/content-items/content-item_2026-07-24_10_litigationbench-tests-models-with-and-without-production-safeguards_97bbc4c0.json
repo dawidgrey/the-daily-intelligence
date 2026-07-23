@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_10_litigationbench-tests-models-with-and-without-production-safeguards_97bbc4c0",
+  "sourceKind": "research",
+  "sourceName": "Litco",
+  "sourceUrl": "https://litco.ai/litigationbench",
+  "canonicalUrl": "https://litco.ai/litigationbench",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "LitigationBench tests models with and without production safeguards",
+  "friendlyTitle": "A new test checks AI models on real litigation work",
+  "summary": "Litco has published a litigation-focused benchmark that runs models on the same tasks both alone and inside its guarded production agent. The leaderboard exposes quality, metered cost, fabricated authorities and false-premise failures, including failures by models used in Litco’s own product.",
+  "friendlySummary": "LitigationBench compares models on legal tasks with and without extra safety checks. It shows quality, cost and mistakes such as invented legal sources.",
+  "whyItMatters": "Domain buyers need evaluations that test the surrounding workflow, not only a raw model score. Public failure details can help legal teams compare trade-offs, although a vendor-run benchmark should be treated as one piece of independent due diligence rather than a final verdict.",
+  "friendlyWhyItMatters": "Legal teams can compare models more carefully, but they should also use independent tests before trusting a vendor’s results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

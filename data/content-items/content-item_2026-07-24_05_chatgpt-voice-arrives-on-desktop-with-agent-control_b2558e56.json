@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_05_chatgpt-voice-arrives-on-desktop-with-agent-control_b2558e56",
+  "sourceKind": "x",
+  "sourceName": "OpenAI on X",
+  "sourceUrl": "https://x.com/OpenAI/status/2080378182469857576",
+  "canonicalUrl": "https://x.com/OpenAI/status/2080378182469857576",
+  "credit": "@OpenAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "ChatGPT Voice arrives on desktop with agent control",
+  "friendlyTitle": "You can now control ChatGPT desktop agents with your voice",
+  "summary": "OpenAI says ChatGPT Voice is rolling out globally in its desktop app, powered by GPT-Live. Users can speak while it listens and use voice commands to direct multiple agents running in ChatGPT Work or Codex.",
+  "friendlySummary": "ChatGPT Voice is coming to the desktop app. You can talk to it and direct several work or coding agents by voice.",
+  "whyItMatters": "Voice can make agent workflows more accessible while users move between tasks, but spoken instructions are easy to make ambiguous. Confirming consequential actions remains sensible when agents can operate a computer or coordinate work.",
+  "friendlyWhyItMatters": "This can help when your hands are busy or typing is difficult. Check important actions before the agents carry them out.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

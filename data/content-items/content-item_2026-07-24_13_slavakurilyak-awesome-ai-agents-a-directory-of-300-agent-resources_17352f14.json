@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_13_slavakurilyak-awesome-ai-agents-a-directory-of-300-agent-resources_17352f14",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/slavakurilyak/awesome-ai-agents",
+  "canonicalUrl": "https://github.com/slavakurilyak/awesome-ai-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "slavakurilyak/awesome-ai-agents: a directory of 300+ agent resources",
+  "friendlyTitle": "A large list of AI agent tools and learning resources",
+  "summary": "Awesome AI Agents is a curated index of more than 300 agent projects, frameworks and learning resources. The repository is trending with roughly 2,000 GitHub stars at publication time.",
+  "friendlySummary": "This repository collects more than 300 AI agent projects, frameworks and guides in one place.",
+  "whyItMatters": "Builders can use the directory to compare agent frameworks, find examples and map the ecosystem before choosing a stack. Curated lists vary in freshness and depth, so verify maintenance, licenses and security at each original repository.",
+  "friendlyWhyItMatters": "It is a useful starting point for exploring agent tools. Check that each project is active, safe and licensed for your needs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_06_runway-dev-offers-one-api-for-generative-media-models_29910c72",
+  "sourceKind": "product",
+  "sourceName": "Runway",
+  "sourceUrl": "https://runway.com/news/company-news/introducing-runway-dev",
+  "canonicalUrl": "https://runway.com/news/company-news/introducing-runway-dev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "Runway Dev offers one API for generative media models",
+  "friendlyTitle": "Runway puts several kinds of AI media behind one API",
+  "summary": "Runway Dev packages image, video, audio and real-time character models behind one developer platform and API. It is intended to let product teams integrate generated media without building a separate connection for every model and format.",
+  "friendlySummary": "Developers can use one Runway service for AI images, video, audio and live characters instead of connecting each kind separately.",
+  "whyItMatters": "A unified media layer can shorten development time and make it easier to change models as quality, speed and cost evolve. Teams should still test output consistency, licensing and provider dependence before making it core infrastructure.",
+  "friendlyWhyItMatters": "This may make media features faster to build, but teams should check cost, quality and usage rights before depending on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

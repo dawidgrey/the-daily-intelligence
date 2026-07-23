@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_04_review-maps-why-children-treat-llm-chatbots-like-people_2e7f37dd",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2607.18250",
+  "canonicalUrl": "https://arxiv.org/abs/2607.18250",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "Review maps why children treat LLM chatbots like people",
+  "friendlyTitle": "Why children may treat AI chatbots like real people",
+  "summary": "A systematic review of 35 empirical studies identifies human-like personas, adaptive help, companionship and embodied design as drivers of children’s anthropomorphic responses to LLM chatbots. Reported outcomes include social ties, boundary testing and attributing human stories to chatbot failures.",
+  "friendlySummary": "A review of 35 studies found several reasons children give human feelings and qualities to chatbots. Children may form social bonds even when they know the chatbot is not a person.",
+  "whyItMatters": "Parents, educators and product designers should assume that children may understand a bot is artificial while still forming meaningful social expectations around it. Age-appropriate design and clear limits matter as conversational AI enters learning and play.",
+  "friendlyWhyItMatters": "Parents, teachers and app makers should explain what chatbots can and cannot understand, and design them carefully for children.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

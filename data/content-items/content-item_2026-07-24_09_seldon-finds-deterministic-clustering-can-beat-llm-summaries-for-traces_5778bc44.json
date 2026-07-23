@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_09_seldon-finds-deterministic-clustering-can-beat-llm-summaries-for-traces_5778bc44",
+  "sourceKind": "article",
+  "sourceName": "Seldon AI",
+  "sourceUrl": "https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces",
+  "canonicalUrl": "https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "Seldon finds deterministic clustering can beat LLM summaries for traces",
+  "friendlyTitle": "You may not need another AI model to sort your AI logs",
+  "summary": "Seldon reports that contract-first grouping followed by density clustering accurately organized 12,517 repetitive LLM traces at effectively no model cost. In its ablation, summarizing traces with several LLMs before embedding reduced cluster purity rather than improving it.",
+  "friendlySummary": "Seldon grouped more than 12,000 similar AI traces with normal clustering. Adding AI-written summaries made the groups worse in its test.",
+  "whyItMatters": "Teams can identify repetitive extraction and classification calls without paying another model to inspect every trace. Those clusters can reveal workflows suitable for cheaper deterministic pipelines, though results should be validated on each organization’s own data.",
+  "friendlyWhyItMatters": "A simpler method can reduce analysis costs and help teams find repeated AI jobs that could become cheaper software workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

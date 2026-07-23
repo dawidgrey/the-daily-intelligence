@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_11_shiyu-coder-kronos-a-foundation-model-for-financial-market-data_a16249fc",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/shiyu-coder/Kronos",
+  "canonicalUrl": "https://github.com/shiyu-coder/Kronos",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "shiyu-coder/Kronos: a foundation model for financial market data",
+  "friendlyTitle": "Kronos is an open AI model for studying financial markets",
+  "summary": "Kronos is an open foundation-model project built for the language of financial markets, with code and resources for modelling market sequences. It is trending with roughly 33,000 GitHub stars at publication time.",
+  "friendlySummary": "Kronos is a popular open project that applies a foundation model to financial market data.",
+  "whyItMatters": "Quantitative researchers can study the model, reproduce experiments and test market-specific representations as a research baseline. It is not a trading guarantee; validate on held-out data, include costs and avoid treating generated forecasts as financial advice.",
+  "friendlyWhyItMatters": "Researchers can learn from the code and test it on market data, but should not trust its forecasts without careful independent checks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

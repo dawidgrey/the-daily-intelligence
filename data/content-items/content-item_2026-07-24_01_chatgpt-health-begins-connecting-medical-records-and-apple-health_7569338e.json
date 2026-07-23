@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_01_chatgpt-health-begins-connecting-medical-records-and-apple-health_7569338e",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/health-in-chatgpt",
+  "canonicalUrl": "https://openai.com/index/health-in-chatgpt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "ChatGPT Health begins connecting medical records and Apple Health",
+  "friendlyTitle": "ChatGPT can now use health data for more personal answers",
+  "summary": "OpenAI is rolling out Health in ChatGPT to eligible U.S. users, with optional connections to supported medical records and Apple Health data. The feature is designed to provide more personalized explanations and health insights, not replace professional care.",
+  "friendlySummary": "Some U.S. users can connect medical records and Apple Health to ChatGPT. This can help ChatGPT explain their health information in a more personal way.",
+  "whyItMatters": "Health questions are already a major everyday use of chatbots; adding personal data can make answers more relevant while raising the stakes for privacy, accuracy and knowing when to consult a clinician.",
+  "friendlyWhyItMatters": "This may make health information easier to understand, but people should protect their private data and still ask a medical professional for important advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

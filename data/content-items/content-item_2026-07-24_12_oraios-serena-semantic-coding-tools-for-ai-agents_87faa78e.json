@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_12_oraios-serena-semantic-coding-tools-for-ai-agents_87faa78e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/oraios/serena",
+  "canonicalUrl": "https://github.com/oraios/serena",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "oraios/serena: semantic coding tools for AI agents",
+  "friendlyTitle": "Serena helps AI coding agents understand and edit a codebase",
+  "summary": "Serena is an MCP toolkit that gives coding agents semantic code retrieval and editing capabilities across a project. The repository is trending with roughly 26,800 GitHub stars at publication time.",
+  "friendlySummary": "Serena gives compatible AI agents better tools for finding and changing the right parts of a software project.",
+  "whyItMatters": "Developers can connect compatible assistants to code-aware navigation and precise symbol-level editing instead of relying only on full-file reads. Try it in a disposable branch first and keep tests and code review around agent-made changes.",
+  "friendlyWhyItMatters": "It can reduce unnecessary file reading and make edits more precise. Use a safe branch and review every important change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}

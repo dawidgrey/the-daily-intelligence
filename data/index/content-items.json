@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-22T20:05:38Z",
+  "generatedAtUtc": "2026-07-23T20:05:12Z",
   "items": [
     {
-      "id": "content-item_2026-07-23_01_amd-and-anthropic-plan-a-two-gigawatt-expansion-for-claude_cb2411b5",
-      "sourceKind": "article",
-      "sourceName": "AMD",
-      "title": "AMD and Anthropic plan a two-gigawatt expansion for Claude",
-      "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus"
-    },
-    {
-      "id": "content-item_2026-07-23_02_openai-presence-packages-controls-for-enterprise-voice-and-chat-agents_c54f46e5",
+      "id": "content-item_2026-07-24_01_chatgpt-health-begins-connecting-medical-records-and-apple-health_7569338e",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI Presence packages controls for enterprise voice and chat agents",
-      "sourceUrl": "https://openai.com/index/introducing-openai-presence"
+      "title": "ChatGPT Health begins connecting medical records and Apple Health",
+      "sourceUrl": "https://openai.com/index/health-in-chatgpt"
     },
     {
-      "id": "content-item_2026-07-23_03_openai-and-hugging-face-disclose-an-ai-evaluation-breach_20b0eb2d",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and Hugging Face",
-      "title": "OpenAI and Hugging Face disclose an AI evaluation breach",
-      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-    },
-    {
-      "id": "content-item_2026-07-23_04_google-commits-40-million-in-ai-access-to-the-genesis-mission_15eb5b1c",
-      "sourceKind": "article",
-      "sourceName": "Google DeepMind and Google Cloud",
-      "title": "Google commits $40 million in AI access to the Genesis Mission",
-      "sourceUrl": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
-    },
-    {
-      "id": "content-item_2026-07-23_05_substack-adds-an-optional-pangram-scan-for-ai-written-text_99a255b2",
+      "id": "content-item_2026-07-24_02_github-adds-review-controls-for-agents-that-change-issues_db6740ff",
       "sourceKind": "product",
-      "sourceName": "Substack",
-      "title": "Substack adds an optional Pangram scan for AI-written text",
-      "sourceUrl": "https://support.substack.com/hc/en-us/articles/50891130623508-How-can-I-detect-AI-on-Substack"
+      "sourceName": "GitHub Changelog",
+      "title": "GitHub adds review controls for agents that change issues",
+      "sourceUrl": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview/"
     },
     {
-      "id": "content-item_2026-07-23_06_browserbase-argues-agents-need-a-code-surface-not-dozens-of-tools_53d2b9e6",
-      "sourceKind": "article",
-      "sourceName": "Browserbase",
-      "title": "Browserbase argues agents need a code surface, not dozens of tools",
-      "sourceUrl": "https://www.browserbase.com/blog/code-mode-is-all-you-need"
+      "id": "content-item_2026-07-24_03_nunchaku-brings-faster-4-bit-image-generation-into-diffusers_37c9890b",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Nunchaku brings faster 4-bit image generation into Diffusers",
+      "sourceUrl": "https://huggingface.co/blog/nunchaku-diffusers"
     },
     {
-      "id": "content-item_2026-07-23_07_a-prompt-cache-experiment-finds-30-second-keepalives-waste-money_9b14d7b0",
-      "sourceKind": "article",
-      "sourceName": "Mempko",
-      "title": "A prompt-cache experiment finds 30-second keepalives waste money",
-      "sourceUrl": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/"
-    },
-    {
-      "id": "content-item_2026-07-23_08_a-nationwide-trial-finds-training-determines-whether-judgegpt-helps_58496084",
+      "id": "content-item_2026-07-24_04_review-maps-why-children-treat-llm-chatbots-like-people_2e7f37dd",
       "sourceKind": "research",
-      "sourceName": "Sultan Mehmood, Andreas Goessmann and Elliott Ash",
-      "title": "A nationwide trial finds training determines whether JudgeGPT helps",
-      "sourceUrl": "https://elliottash.com/papers/Mehmood-Goessmann-Ash-Courts-of-Tomorrow-Evidence-Nationwide-Rollout-Generative-AI.pdf"
+      "sourceName": "arXiv",
+      "title": "Review maps why children treat LLM chatbots like people",
+      "sourceUrl": "https://arxiv.org/abs/2607.18250"
     },
     {
-      "id": "content-item_2026-07-23_09_cisco-releases-small-open-models-for-locating-vulnerable-code_65baddcb",
+      "id": "content-item_2026-07-24_05_chatgpt-voice-arrives-on-desktop-with-agent-control_b2558e56",
+      "sourceKind": "x",
+      "sourceName": "OpenAI on X",
+      "title": "ChatGPT Voice arrives on desktop with agent control",
+      "sourceUrl": "https://x.com/OpenAI/status/2080378182469857576"
+    },
+    {
+      "id": "content-item_2026-07-24_06_runway-dev-offers-one-api-for-generative-media-models_29910c72",
       "sourceKind": "product",
-      "sourceName": "Cisco Foundation AI on Hugging Face",
-      "title": "Cisco releases small open models for locating vulnerable code",
-      "sourceUrl": "https://huggingface.co/fdtn-ai/antares-1b"
+      "sourceName": "Runway",
+      "title": "Runway Dev offers one API for generative media models",
+      "sourceUrl": "https://runway.com/news/company-news/introducing-runway-dev"
     },
     {
-      "id": "content-item_2026-07-23_10_amazon-trims-its-agi-group-amid-continuing-ai-reorganisation_295a9e87",
+      "id": "content-item_2026-07-24_07_small-agent-evaluation-finds-capability-can-amplify-harm_8f719875",
+      "sourceKind": "research",
+      "sourceName": "AgentX Core",
+      "title": "Small agent evaluation finds capability can amplify harm",
+      "sourceUrl": "https://www.agentx-core.com/blog/stronger-agents-more-dangerous-unguarded"
+    },
+    {
+      "id": "content-item_2026-07-24_08_one-engineering-team-measures-a-13-ai-coding-subsidy_7ab7802a",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Amazon trims its AGI group amid continuing AI reorganisation",
-      "sourceUrl": "https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/"
+      "sourceName": "Modelplane Blog",
+      "title": "One engineering team measures a 13× AI coding subsidy",
+      "sourceUrl": "https://modelplane.ai/blog/ai-coding-subsidy-multiple"
     },
     {
-      "id": "content-item_2026-07-23_11_dottxt-ai-outlines-reliable-structured-output-from-language-models_56498c5f",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "dottxt-ai/outlines: reliable structured output from language models",
-      "sourceUrl": "https://github.com/dottxt-ai/outlines"
+      "id": "content-item_2026-07-24_09_seldon-finds-deterministic-clustering-can-beat-llm-summaries-for-traces_5778bc44",
+      "sourceKind": "article",
+      "sourceName": "Seldon AI",
+      "title": "Seldon finds deterministic clustering can beat LLM summaries for traces",
+      "sourceUrl": "https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces"
     },
     {
-      "id": "content-item_2026-07-23_12_langchain-ai-open-deep-research-a-configurable-research-agent_8cb6f09d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "langchain-ai/open_deep_research: a configurable research agent",
-      "sourceUrl": "https://github.com/langchain-ai/open_deep_research"
+      "id": "content-item_2026-07-24_10_litigationbench-tests-models-with-and-without-production-safeguards_97bbc4c0",
+      "sourceKind": "research",
+      "sourceName": "Litco",
+      "title": "LitigationBench tests models with and without production safeguards",
+      "sourceUrl": "https://litco.ai/litigationbench"
     },
     {
-      "id": "content-item_2026-07-23_13_composiohq-awesome-claude-skills-a-large-practical-skills-index_6b401487",
+      "id": "content-item_2026-07-24_11_shiyu-coder-kronos-a-foundation-model-for-financial-market-data_a16249fc",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "ComposioHQ/awesome-claude-skills: a large practical skills index",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills"
+      "title": "shiyu-coder/Kronos: a foundation model for financial market data",
+      "sourceUrl": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "id": "content-item_2026-07-24_12_oraios-serena-semantic-coding-tools-for-ai-agents_87faa78e",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "oraios/serena: semantic coding tools for AI agents",
+      "sourceUrl": "https://github.com/oraios/serena"
+    },
+    {
+      "id": "content-item_2026-07-24_13_slavakurilyak-awesome-ai-agents-a-directory-of-300-agent-resources_17352f14",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "slavakurilyak/awesome-ai-agents: a directory of 300+ agent resources",
+      "sourceUrl": "https://github.com/slavakurilyak/awesome-ai-agents"
     }
   ]
 }

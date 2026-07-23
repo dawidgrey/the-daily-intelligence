@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-24_08_one-engineering-team-measures-a-13-ai-coding-subsidy_7ab7802a",
+  "sourceKind": "article",
+  "sourceName": "Modelplane Blog",
+  "sourceUrl": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+  "canonicalUrl": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-23T20:05:12Z",
+  "createdAtUtc": "2026-07-23T20:05:12Z",
+  "updatedAtUtc": "2026-07-23T20:05:12Z",
+  "title": "One engineering team measures a 13× AI coding subsidy",
+  "friendlyTitle": "A team found its AI coding use would cost much more by token",
+  "summary": "Upbound measured local Claude Code logs for 20 engineers and estimated that equivalent API usage averaged roughly 13 times the bundled seat price, with wide variation by user. The company published its method and points to a local usage-analysis tool so other teams can estimate their exposure.",
+  "friendlySummary": "One company estimated that its engineers’ Claude Code use would cost about 13 times more on average at normal API prices than under its fixed-price plan.",
+  "whyItMatters": "Flat-rate coding plans may conceal the underlying cost of heavy agent use and may not remain priced the same forever. Measuring tokens and workload value now can help teams budget, set routing policies and avoid a surprise if pricing changes.",
+  "friendlyWhyItMatters": "Teams should measure how much AI they use so they can plan for possible price changes and choose cheaper models for simpler jobs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-24"
+  }
+}
