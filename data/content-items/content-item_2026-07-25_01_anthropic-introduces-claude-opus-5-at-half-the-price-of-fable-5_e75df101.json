@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_01_anthropic-introduces-claude-opus-5-at-half-the-price-of-fable-5_e75df101",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-opus-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "Anthropic introduces Claude Opus 5 at half the price of Fable 5",
+  "friendlyTitle": "Claude Opus 5 aims to bring strong AI work at a lower price",
+  "summary": "Anthropic has released Claude Opus 5, positioning it as a more efficient model for long-running agents, coding and professional work. The company says it approaches Claude Fable 5 capability at half the token price and has made it the default model on Claude Max.",
+  "friendlySummary": "Anthropic has released Claude Opus 5 for coding, office work and AI agents. It says the model is close to its more powerful Fable 5 model but costs half as much per token.",
+  "whyItMatters": "For teams using capable models every day, price and reliability can matter more than winning one benchmark. Opus 5 could make longer coding and knowledge-work sessions economical, although Anthropic’s performance claims still need independent testing.",
+  "friendlyWhyItMatters": "This may make long AI tasks cheaper for people and businesses. Independent tests will still be useful before changing an important workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

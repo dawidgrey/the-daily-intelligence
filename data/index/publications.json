@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-23T20:05:12Z",
+  "generatedAtUtc": "2026-07-24T20:04:30Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-25",
+      "slug": "2026-07-25",
+      "status": "published",
+      "publicationDateUtc": "2026-07-24T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A cheaper frontier model, multimodal video and agents moving closer to everyday work",
+      "friendlyHeader": "Powerful AI is getting easier to use — but the trade-offs matter",
+      "summary": "Today’s brief tracks a busy shift from raw model capability toward usable systems: Anthropic lowers the cost of its top-tier work, visual models learn across video and sound, and agent products reach desktops, coding workflows and social research. It also includes a sober look at the financial and privacy trade-offs underneath that progress.",
+      "friendlySummary": "Today we look at a cheaper Claude model, AI that works with video and sound, and assistants that can help with coding, research and desktop tasks. We also explain two important warnings about private code and the large debts behind AI data centres.",
+      "itemCount": 13,
+      "href": "issues/2026-07-25.html",
+      "dataUrl": "data/daily-publications/2026-07-25.json"
+    },
     {
       "id": "daily-publication_2026-07-24",
       "slug": "2026-07-24",

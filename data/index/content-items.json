@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-23T20:05:12Z",
+  "generatedAtUtc": "2026-07-24T20:04:30Z",
   "items": [
     {
-      "id": "content-item_2026-07-24_01_chatgpt-health-begins-connecting-medical-records-and-apple-health_7569338e",
+      "id": "content-item_2026-07-25_01_anthropic-introduces-claude-opus-5-at-half-the-price-of-fable-5_e75df101",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Health begins connecting medical records and Apple Health",
-      "sourceUrl": "https://openai.com/index/health-in-chatgpt"
+      "sourceName": "Anthropic",
+      "title": "Anthropic introduces Claude Opus 5 at half the price of Fable 5",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5"
     },
     {
-      "id": "content-item_2026-07-24_02_github-adds-review-controls-for-agents-that-change-issues_db6740ff",
+      "id": "content-item_2026-07-25_02_flux-3-learns-across-images-video-and-audio-in-one-model_8959abc1",
       "sourceKind": "product",
-      "sourceName": "GitHub Changelog",
-      "title": "GitHub adds review controls for agents that change issues",
-      "sourceUrl": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview/"
+      "sourceName": "Black Forest Labs",
+      "title": "FLUX 3 learns across images, video and audio in one model",
+      "sourceUrl": "https://bfl.ai/blog/flux-3"
     },
     {
-      "id": "content-item_2026-07-24_03_nunchaku-brings-faster-4-bit-image-generation-into-diffusers_37c9890b",
+      "id": "content-item_2026-07-25_03_sakana-updates-its-fugu-model-router-and-adds-a-claude-code-interface_7e652e83",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Nunchaku brings faster 4-bit image generation into Diffusers",
-      "sourceUrl": "https://huggingface.co/blog/nunchaku-diffusers"
+      "sourceName": "Sakana AI",
+      "title": "Sakana updates its Fugu model router and adds a Claude Code interface",
+      "sourceUrl": "https://sakana.ai/fugu-1-1-claude-code-interface/"
     },
     {
-      "id": "content-item_2026-07-24_04_review-maps-why-children-treat-llm-chatbots-like-people_2e7f37dd",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Review maps why children treat LLM chatbots like people",
-      "sourceUrl": "https://arxiv.org/abs/2607.18250"
-    },
-    {
-      "id": "content-item_2026-07-24_05_chatgpt-voice-arrives-on-desktop-with-agent-control_b2558e56",
-      "sourceKind": "x",
-      "sourceName": "OpenAI on X",
-      "title": "ChatGPT Voice arrives on desktop with agent control",
-      "sourceUrl": "https://x.com/OpenAI/status/2080378182469857576"
-    },
-    {
-      "id": "content-item_2026-07-24_06_runway-dev-offers-one-api-for-generative-media-models_29910c72",
-      "sourceKind": "product",
-      "sourceName": "Runway",
-      "title": "Runway Dev offers one API for generative media models",
-      "sourceUrl": "https://runway.com/news/company-news/introducing-runway-dev"
-    },
-    {
-      "id": "content-item_2026-07-24_07_small-agent-evaluation-finds-capability-can-amplify-harm_8f719875",
-      "sourceKind": "research",
-      "sourceName": "AgentX Core",
-      "title": "Small agent evaluation finds capability can amplify harm",
-      "sourceUrl": "https://www.agentx-core.com/blog/stronger-agents-more-dangerous-unguarded"
-    },
-    {
-      "id": "content-item_2026-07-24_08_one-engineering-team-measures-a-13-ai-coding-subsidy_7ab7802a",
+      "id": "content-item_2026-07-25_04_openai-s-new-voice-mode-reaches-the-chatgpt-desktop-app_75e11e42",
       "sourceKind": "article",
-      "sourceName": "Modelplane Blog",
-      "title": "One engineering team measures a 13× AI coding subsidy",
-      "sourceUrl": "https://modelplane.ai/blog/ai-coding-subsidy-multiple"
+      "sourceName": "TechCrunch",
+      "title": "OpenAI’s new voice mode reaches the ChatGPT desktop app",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
     },
     {
-      "id": "content-item_2026-07-24_09_seldon-finds-deterministic-clustering-can-beat-llm-summaries-for-traces_5778bc44",
+      "id": "content-item_2026-07-25_05_cognition-buys-poke-to-bring-a-more-conversational-style-to-devin_a9136825",
       "sourceKind": "article",
-      "sourceName": "Seldon AI",
-      "title": "Seldon finds deterministic clustering can beat LLM summaries for traces",
-      "sourceUrl": "https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces"
+      "sourceName": "TechCrunch",
+      "title": "Cognition buys Poke to bring a more conversational style to Devin",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
     },
     {
-      "id": "content-item_2026-07-24_10_litigationbench-tests-models-with-and-without-production-safeguards_97bbc4c0",
-      "sourceKind": "research",
-      "sourceName": "Litco",
-      "title": "LitigationBench tests models with and without production safeguards",
-      "sourceUrl": "https://litco.ai/litigationbench"
+      "id": "content-item_2026-07-25_06_bluesky-expands-attie-into-a-research-tool-for-open-social-conversations_983cb962",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Bluesky expands Attie into a research tool for open social conversations",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
     },
     {
-      "id": "content-item_2026-07-24_11_shiyu-coder-kronos-a-foundation-model-for-financial-market-data_a16249fc",
+      "id": "content-item_2026-07-25_07_a-developer-says-codex-pushed-full-private-repository-history-to-an-open_b585ccbd",
+      "sourceKind": "article",
+      "sourceName": "bhanu.io",
+      "title": "A developer says Codex pushed full private repository history to an OpenAI host",
+      "sourceUrl": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server"
+    },
+    {
+      "id": "content-item_2026-07-25_08_mendral-s-team-joins-anthropic-as-its-hosted-developer-product-closes_12801133",
+      "sourceKind": "article",
+      "sourceName": "Mendral",
+      "title": "Mendral’s team joins Anthropic as its hosted developer product closes",
+      "sourceUrl": "https://www.mendral.com/blog/mendral-team-joins-anthropic"
+    },
+    {
+      "id": "content-item_2026-07-25_09_meta-opens-muse-spark-1-1-and-previews-a-direct-model-api_9fc4a496",
+      "sourceKind": "product",
+      "sourceName": "Meta AI",
+      "title": "Meta opens Muse Spark 1.1 and previews a direct model API",
+      "sourceUrl": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
+    },
+    {
+      "id": "content-item_2026-07-25_10_ai-data-centre-expansion-is-leaning-on-large-off-balance-sheet-commitmen_8ed929e3",
+      "sourceKind": "article",
+      "sourceName": "Futurism",
+      "title": "AI data-centre expansion is leaning on large off-balance-sheet commitments",
+      "sourceUrl": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
+    },
+    {
+      "id": "content-item_2026-07-25_11_corebunch-instatic-an-agentic-self-hosted-visual-cms_ccea8540",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "shiyu-coder/Kronos: a foundation model for financial market data",
-      "sourceUrl": "https://github.com/shiyu-coder/Kronos"
+      "title": "CoreBunch/Instatic: an agentic, self-hosted visual CMS",
+      "sourceUrl": "https://github.com/CoreBunch/Instatic"
     },
     {
-      "id": "content-item_2026-07-24_12_oraios-serena-semantic-coding-tools-for-ai-agents_87faa78e",
+      "id": "content-item_2026-07-25_12_langgenius-dify-a-collaborative-platform-for-agent-and-rag-workflows_da322066",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "oraios/serena: semantic coding tools for AI agents",
-      "sourceUrl": "https://github.com/oraios/serena"
+      "title": "langgenius/dify: a collaborative platform for agent and RAG workflows",
+      "sourceUrl": "https://github.com/langgenius/dify"
     },
     {
-      "id": "content-item_2026-07-24_13_slavakurilyak-awesome-ai-agents-a-directory-of-300-agent-resources_17352f14",
+      "id": "content-item_2026-07-25_13_rasbt-llms-from-scratch-build-a-language-model-step-by-step-in-pytorch_1f1bc03a",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "slavakurilyak/awesome-ai-agents: a directory of 300+ agent resources",
-      "sourceUrl": "https://github.com/slavakurilyak/awesome-ai-agents"
+      "title": "rasbt/LLMs-from-scratch: build a language model step by step in PyTorch",
+      "sourceUrl": "https://github.com/rasbt/LLMs-from-scratch"
     }
   ]
 }

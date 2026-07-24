@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_11_corebunch-instatic-an-agentic-self-hosted-visual-cms_ccea8540",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/CoreBunch/Instatic",
+  "canonicalUrl": "https://github.com/CoreBunch/Instatic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "CoreBunch/Instatic: an agentic, self-hosted visual CMS",
+  "friendlyTitle": "Instatic is a self-hosted visual website builder with AI-agent features",
+  "summary": "Instatic is an open-source visual content-management system that produces static pages and includes users, roles, plugins, content and database features. Its agentic approach targets teams that want a self-hosted alternative to hosted visual site builders.",
+  "friendlySummary": "This open-source project helps people build and manage static websites visually while keeping the system on their own server.",
+  "whyItMatters": "Use it to prototype or run editable websites while keeping hosting and generated output under your control. Evaluate its young ecosystem, security model and migration path before replacing a mature production CMS.",
+  "friendlyWhyItMatters": "Try it for a site where you want visual editing and more control than a hosted builder gives you. Test security and backup options before using it in production.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

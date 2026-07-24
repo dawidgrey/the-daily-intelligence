@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_09_meta-opens-muse-spark-1-1-and-previews-a-direct-model-api_9fc4a496",
+  "sourceKind": "product",
+  "sourceName": "Meta AI",
+  "sourceUrl": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "canonicalUrl": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "Meta opens Muse Spark 1.1 and previews a direct model API",
+  "friendlyTitle": "Meta offers a stronger Muse Spark model and a new way for developers to use it",
+  "summary": "Meta has introduced Muse Spark 1.1, a multimodal reasoning model aimed at tool use, computer interaction, coding and visual understanding. It is available in Thinking mode in Meta AI, alongside a public preview of the Meta Model API for developers.",
+  "friendlySummary": "Muse Spark 1.1 is designed for reasoning, coding, using tools and understanding images. People can try it in Meta AI, and developers can preview a direct API.",
+  "whyItMatters": "The API gives developers another route to an agent-oriented multimodal model, while consumers can try the model without building an application. Teams should compare task reliability, regional availability and data terms with established model providers.",
+  "friendlyWhyItMatters": "This adds another choice for building or trying AI agents. Compare its results, availability and privacy terms before choosing it for regular work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_10_ai-data-centre-expansion-is-leaning-on-large-off-balance-sheet-commitmen_8ed929e3",
+  "sourceKind": "article",
+  "sourceName": "Futurism",
+  "sourceUrl": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+  "canonicalUrl": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "AI data-centre expansion is leaning on large off-balance-sheet commitments",
+  "friendlyTitle": "The AI data-centre boom may carry more financial risk than balance sheets show",
+  "summary": "Futurism examines how special-purpose vehicles, leases and purchase commitments are financing parts of the AI data-centre boom without always appearing as conventional corporate debt. The story argues that headline balance sheets may understate the long-term obligations attached to rapid infrastructure growth.",
+  "friendlySummary": "Some AI infrastructure is funded through leases and separate financial vehicles instead of normal company debt. This can make the full long-term cost harder to see.",
+  "whyItMatters": "Compute economics shape model prices, startup funding and the durability of today’s AI services. Customers and investors should watch cash commitments and utilisation, not just model adoption or capital-spending headlines.",
+  "friendlyWhyItMatters": "The cost of data centres can affect AI prices and which services survive. Look beyond growth headlines when choosing a long-term provider or investment.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

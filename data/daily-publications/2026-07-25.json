@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-25",
+  "slug": "2026-07-25",
+  "status": "published",
+  "publicationDateUtc": "2026-07-24T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A cheaper frontier model, multimodal video and agents moving closer to everyday work",
+  "friendlyHeader": "Powerful AI is getting easier to use — but the trade-offs matter",
+  "summary": "Today’s brief tracks a busy shift from raw model capability toward usable systems: Anthropic lowers the cost of its top-tier work, visual models learn across video and sound, and agent products reach desktops, coding workflows and social research. It also includes a sober look at the financial and privacy trade-offs underneath that progress.",
+  "friendlySummary": "Today we look at a cheaper Claude model, AI that works with video and sound, and assistants that can help with coding, research and desktop tasks. We also explain two important warnings about private code and the large debts behind AI data centres.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-25_01_anthropic-introduces-claude-opus-5-at-half-the-price-of-fable-5_e75df101",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_02_flux-3-learns-across-images-video-and-audio-in-one-model_8959abc1",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_03_sakana-updates-its-fugu-model-router-and-adds-a-claude-code-interface_7e652e83",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_04_openai-s-new-voice-mode-reaches-the-chatgpt-desktop-app_75e11e42",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_05_cognition-buys-poke-to-bring-a-more-conversational-style-to-devin_a9136825",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_06_bluesky-expands-attie-into-a-research-tool-for-open-social-conversations_983cb962",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_07_a-developer-says-codex-pushed-full-private-repository-history-to-an-open_b585ccbd",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_08_mendral-s-team-joins-anthropic-as-its-hosted-developer-product-closes_12801133",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_09_meta-opens-muse-spark-1-1-and-previews-a-direct-model-api_9fc4a496",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_10_ai-data-centre-expansion-is-leaning-on-large-off-balance-sheet-commitmen_8ed929e3",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_11_corebunch-instatic-an-agentic-self-hosted-visual-cms_ccea8540",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_12_langgenius-dify-a-collaborative-platform-for-agent-and-rag-workflows_da322066",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-25_13_rasbt-llms-from-scratch-build-a-language-model-step-by-step-in-pytorch_1f1bc03a",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-25.json",
+    "itemCount": 13
+  }
+}

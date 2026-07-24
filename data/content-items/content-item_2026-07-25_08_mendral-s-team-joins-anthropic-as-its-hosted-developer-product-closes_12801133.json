@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_08_mendral-s-team-joins-anthropic-as-its-hosted-developer-product-closes_12801133",
+  "sourceKind": "article",
+  "sourceName": "Mendral",
+  "sourceUrl": "https://www.mendral.com/blog/mendral-team-joins-anthropic",
+  "canonicalUrl": "https://www.mendral.com/blog/mendral-team-joins-anthropic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "Mendral’s team joins Anthropic as its hosted developer product closes",
+  "friendlyTitle": "Mendral’s developer-tools team is moving to Anthropic",
+  "summary": "The Mendral team is joining Anthropic to work on Claude Platform after building tools for CI diagnosis, flaky-test repair and dependency review. Mendral says it is winding down its hosted product and contacting current customers about the transition.",
+  "friendlySummary": "The team behind Mendral will work on Anthropic’s Claude Platform. Mendral’s online service is closing and customers are being moved off it.",
+  "whyItMatters": "Anthropic is adding developer-tool expertise while a smaller standalone service disappears. Existing Mendral users need a migration plan, and the move signals that CI and maintenance automation remain a strategic part of coding-agent platforms.",
+  "friendlyWhyItMatters": "Mendral customers should plan their replacement workflow. The move also shows that AI companies want tools that fix routine software maintenance work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

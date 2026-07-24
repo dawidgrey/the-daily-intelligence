@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_04_openai-s-new-voice-mode-reaches-the-chatgpt-desktop-app_75e11e42",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "OpenAI’s new voice mode reaches the ChatGPT desktop app",
+  "friendlyTitle": "ChatGPT’s newer voice mode is coming to desktop work",
+  "summary": "OpenAI is extending its newer ChatGPT Voice experience to the desktop app, where it can work with ChatGPT Work and Codex to complete tasks and control agents. The move puts spoken interaction closer to files, applications and active work sessions.",
+  "friendlySummary": "The ChatGPT desktop app can now use OpenAI’s newer voice system with work and coding agents.",
+  "whyItMatters": "Voice can reduce the friction of directing an agent while reviewing documents or code, especially when hands are occupied. Users should still confirm consequential actions on screen and be deliberate about microphone and workspace permissions.",
+  "friendlyWhyItMatters": "You may be able to talk through a task instead of typing every step. Keep important actions visible and check what the app can hear or access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

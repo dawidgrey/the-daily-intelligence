@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_02_flux-3-learns-across-images-video-and-audio-in-one-model_8959abc1",
+  "sourceKind": "product",
+  "sourceName": "Black Forest Labs",
+  "sourceUrl": "https://bfl.ai/blog/flux-3",
+  "canonicalUrl": "https://bfl.ai/blog/flux-3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "FLUX 3 learns across images, video and audio in one model",
+  "friendlyTitle": "FLUX 3 creates with pictures, video and sound together",
+  "summary": "Black Forest Labs has opened early access to FLUX 3, a multimodal foundation model trained jointly on images, video and audio. The company’s goal is a shared representation that can model objects, movement and sound rather than treating each medium as a separate pipeline.",
+  "friendlySummary": "Black Forest Labs has released early access to an AI model that learns from images, moving video and audio in one system.",
+  "whyItMatters": "Unified generation may simplify creative workflows that currently stitch together image, motion and audio tools. Early access means production teams should test consistency, rights controls and cost before relying on it for client work.",
+  "friendlyWhyItMatters": "Creators may need fewer separate tools to make complete clips. It is still early, so test quality, cost and usage rights before using it for paid work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

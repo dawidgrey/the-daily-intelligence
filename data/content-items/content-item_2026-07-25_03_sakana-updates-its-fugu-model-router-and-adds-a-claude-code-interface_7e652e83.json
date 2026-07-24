@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_03_sakana-updates-its-fugu-model-router-and-adds-a-claude-code-interface_7e652e83",
+  "sourceKind": "product",
+  "sourceName": "Sakana AI",
+  "sourceUrl": "https://sakana.ai/fugu-1-1-claude-code-interface/",
+  "canonicalUrl": "https://sakana.ai/fugu-1-1-claude-code-interface/",
+  "credit": "@SakanaAILabs",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "Sakana updates its Fugu model router and adds a Claude Code interface",
+  "friendlyTitle": "Fugu can now choose between AI models inside a Claude Code-style workflow",
+  "summary": "Sakana AI has released Fugu-Ultra v1.1, which dynamically orchestrates several frontier models and now exposes an interface compatible with Claude Code. Sakana reports gains of up to 7.9 benchmark points, but those figures are company-reported rather than independently verified.",
+  "friendlySummary": "Sakana AI updated Fugu, a service that coordinates several AI models, and added a connection designed to work like Claude Code. Its performance numbers come from Sakana itself.",
+  "whyItMatters": "A router can choose or combine models without forcing developers to rebuild their coding workflow around one provider. That flexibility may improve resilience and task quality, but teams should measure total latency, cost and data handling rather than benchmark scores alone.",
+  "friendlyWhyItMatters": "Developers may get more choice without changing how they work. Check the real speed, price and privacy before using it with company code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}

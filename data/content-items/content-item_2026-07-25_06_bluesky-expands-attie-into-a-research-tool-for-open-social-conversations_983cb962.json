@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-25_06_bluesky-expands-attie-into-a-research-tool-for-open-social-conversations_983cb962",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-24T20:04:30Z",
+  "createdAtUtc": "2026-07-24T20:04:30Z",
+  "updatedAtUtc": "2026-07-24T20:04:30Z",
+  "title": "Bluesky expands Attie into a research tool for open social conversations",
+  "friendlyTitle": "Bluesky’s Attie can now help research public online conversations",
+  "summary": "Bluesky’s Attie assistant can now answer questions about news, trends and conversations across Bluesky and other services built on the AT Protocol. The expansion turns a feed-building assistant into a broader research interface for open social data.",
+  "friendlySummary": "Attie can answer questions about trends and discussions on Bluesky and other apps that use the open AT Protocol.",
+  "whyItMatters": "Researchers, journalists and marketers gain another way to study public conversation without relying entirely on a closed social network. AI summaries can omit context or amplify noisy posts, so important findings should be checked against the underlying sources.",
+  "friendlyWhyItMatters": "It may help people understand public conversations more quickly. Always open the original posts before trusting an important conclusion.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-25"
+  }
+}
