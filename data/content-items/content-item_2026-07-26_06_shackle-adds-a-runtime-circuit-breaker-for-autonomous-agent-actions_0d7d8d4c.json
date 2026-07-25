@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_06_shackle-adds-a-runtime-circuit-breaker-for-autonomous-agent-actions_0d7d8d4c",
+  "sourceKind": "product",
+  "sourceName": "PyPI",
+  "sourceUrl": "https://pypi.org/project/pyshackle/",
+  "canonicalUrl": "https://pypi.org/project/pyshackle/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "SHACKLE adds a runtime circuit breaker for autonomous agent actions",
+  "friendlyTitle": "SHACKLE puts a safety gate in front of AI agent actions",
+  "summary": "The new pyshackle package mediates agent calls with deterministic allow, deny or human-review decisions and can stop repeated calls, budget overruns and timeouts before the next action. Its SP/1.0 proposal includes public conformance fixtures and integrations for LiteLLM and AutoGen.",
+  "friendlySummary": "SHACKLE is a new Python package that can allow, block or pause an agent’s next action for human approval. It can also stop loops, timeouts and budget overruns.",
+  "whyItMatters": "Model-level safety instructions are not a substitute for enforceable runtime limits. Teams operating agents can use a separate gate to cap spending, halt loops and require approval for sensitive tools, while evaluating the young project carefully before production use.",
+  "friendlyWhyItMatters": "A hard software limit can be more reliable than asking an AI model to control itself. Test the new project carefully before trusting it in important systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

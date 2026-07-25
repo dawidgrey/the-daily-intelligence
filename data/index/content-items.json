@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-24T20:04:30Z",
+  "generatedAtUtc": "2026-07-25T20:05:30Z",
   "items": [
     {
-      "id": "content-item_2026-07-25_01_anthropic-introduces-claude-opus-5-at-half-the-price-of-fable-5_e75df101",
+      "id": "content-item_2026-07-26_01_apertus-1-5-adds-images-reasoning-and-a-262k-context-window-to-fully-ope_4b4f3dce",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic introduces Claude Opus 5 at half the price of Fable 5",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5"
+      "sourceName": "Apertus",
+      "title": "Apertus 1.5 adds images, reasoning and a 262K context window to fully open models",
+      "sourceUrl": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/"
     },
     {
-      "id": "content-item_2026-07-25_02_flux-3-learns-across-images-video-and-audio-in-one-model_8959abc1",
-      "sourceKind": "product",
-      "sourceName": "Black Forest Labs",
-      "title": "FLUX 3 learns across images, video and audio in one model",
-      "sourceUrl": "https://bfl.ai/blog/flux-3"
+      "id": "content-item_2026-07-26_02_amd-opens-instella-moe-a-16b-model-with-2-8b-active-parameters_57d93a6f",
+      "sourceKind": "research",
+      "sourceName": "AMD ROCm Blog",
+      "title": "AMD opens Instella-MoE, a 16B model with 2.8B active parameters",
+      "sourceUrl": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html"
     },
     {
-      "id": "content-item_2026-07-25_03_sakana-updates-its-fugu-model-router-and-adds-a-claude-code-interface_7e652e83",
-      "sourceKind": "product",
-      "sourceName": "Sakana AI",
-      "title": "Sakana updates its Fugu model router and adds a Claude Code interface",
-      "sourceUrl": "https://sakana.ai/fugu-1-1-claude-code-interface/"
+      "id": "content-item_2026-07-26_03_debian-opens-a-formal-debate-over-llm-assisted-contributions_10e81be2",
+      "sourceKind": "regulation",
+      "sourceName": "Debian Project",
+      "title": "Debian opens a formal debate over LLM-assisted contributions",
+      "sourceUrl": "https://www.debian.org/vote/2026/vote_002"
     },
     {
-      "id": "content-item_2026-07-25_04_openai-s-new-voice-mode-reaches-the-chatgpt-desktop-app_75e11e42",
+      "id": "content-item_2026-07-26_04_openai-recovers-from-elevated-errors-across-chatgpt-codex-and-its-api_7259b8b1",
+      "sourceKind": "article",
+      "sourceName": "OpenAI Status",
+      "title": "OpenAI recovers from elevated errors across ChatGPT, Codex and its API",
+      "sourceUrl": "https://status.openai.com/incidents/01KYC921K145JTR1JK7DYKGWH1"
+    },
+    {
+      "id": "content-item_2026-07-26_05_a-context-cost-audit-argues-persistent-agents-should-cache-information-b_0444b955",
+      "sourceKind": "article",
+      "sourceName": "Tanishq",
+      "title": "A context-cost audit argues persistent agents should cache information by change rate",
+      "sourceUrl": "https://tanishq.xyz/engineering/agent-personality-tax"
+    },
+    {
+      "id": "content-item_2026-07-26_06_shackle-adds-a-runtime-circuit-breaker-for-autonomous-agent-actions_0d7d8d4c",
+      "sourceKind": "product",
+      "sourceName": "PyPI",
+      "title": "SHACKLE adds a runtime circuit breaker for autonomous agent actions",
+      "sourceUrl": "https://pypi.org/project/pyshackle/"
+    },
+    {
+      "id": "content-item_2026-07-26_07_a-clustered-data-centre-shutdown-shows-why-ai-loads-need-grid-aware-fail_ed13e18e",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "OpenAI’s new voice mode reaches the ChatGPT desktop app",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+      "title": "A clustered data-centre shutdown shows why AI loads need grid-aware failover",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
     },
     {
-      "id": "content-item_2026-07-25_05_cognition-buys-poke-to-bring-a-more-conversational-style-to-devin_a9136825",
+      "id": "content-item_2026-07-26_08_prentis-targets-routine-office-work-with-specialised-computer-use-models_e887b324",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Cognition buys Poke to bring a more conversational style to Devin",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+      "title": "Prentis targets routine office work with specialised computer-use models",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
     },
     {
-      "id": "content-item_2026-07-25_06_bluesky-expands-attie-into-a-research-tool-for-open-social-conversations_983cb962",
+      "id": "content-item_2026-07-26_09_political-campaigns-are-using-ai-to-hold-personalised-text-conversations_1bf093d1",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Bluesky expands Attie into a research tool for open social conversations",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+      "sourceName": "NPR",
+      "title": "Political campaigns are using AI to hold personalised text conversations at scale",
+      "sourceUrl": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns"
     },
     {
-      "id": "content-item_2026-07-25_07_a-developer-says-codex-pushed-full-private-repository-history-to-an-open_b585ccbd",
+      "id": "content-item_2026-07-26_10_a-practical-guide-separates-agent-memory-into-compaction-retrieval-and-l_3a928a14",
       "sourceKind": "article",
-      "sourceName": "bhanu.io",
-      "title": "A developer says Codex pushed full private repository history to an OpenAI host",
-      "sourceUrl": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server"
+      "sourceName": "Rafi Hasan",
+      "title": "A practical guide separates agent memory into compaction, retrieval and learned experience",
+      "sourceUrl": "https://rafihasan.com/blog/2026-07-24-the-curious-case-of-agent-memory"
     },
     {
-      "id": "content-item_2026-07-25_08_mendral-s-team-joins-anthropic-as-its-hosted-developer-product-closes_12801133",
-      "sourceKind": "article",
-      "sourceName": "Mendral",
-      "title": "Mendral’s team joins Anthropic as its hosted developer product closes",
-      "sourceUrl": "https://www.mendral.com/blog/mendral-team-joins-anthropic"
-    },
-    {
-      "id": "content-item_2026-07-25_09_meta-opens-muse-spark-1-1-and-previews-a-direct-model-api_9fc4a496",
-      "sourceKind": "product",
-      "sourceName": "Meta AI",
-      "title": "Meta opens Muse Spark 1.1 and previews a direct model API",
-      "sourceUrl": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
-    },
-    {
-      "id": "content-item_2026-07-25_10_ai-data-centre-expansion-is-leaning-on-large-off-balance-sheet-commitmen_8ed929e3",
-      "sourceKind": "article",
-      "sourceName": "Futurism",
-      "title": "AI data-centre expansion is leaning on large off-balance-sheet commitments",
-      "sourceUrl": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
-    },
-    {
-      "id": "content-item_2026-07-25_11_corebunch-instatic-an-agentic-self-hosted-visual-cms_ccea8540",
+      "id": "content-item_2026-07-26_11_opendcai-dataflow-turns-noisy-source-material-into-ai-ready-data-pipelin_7df9543e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "CoreBunch/Instatic: an agentic, self-hosted visual CMS",
-      "sourceUrl": "https://github.com/CoreBunch/Instatic"
+      "title": "OpenDCAI/DataFlow turns noisy source material into AI-ready data pipelines",
+      "sourceUrl": "https://github.com/OpenDCAI/DataFlow"
     },
     {
-      "id": "content-item_2026-07-25_12_langgenius-dify-a-collaborative-platform-for-agent-and-rag-workflows_da322066",
+      "id": "content-item_2026-07-26_12_anionex-banana-slides-builds-editable-presentations-from-prompts-and-sou_140d127f",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "langgenius/dify: a collaborative platform for agent and RAG workflows",
-      "sourceUrl": "https://github.com/langgenius/dify"
+      "title": "Anionex/banana-slides builds editable presentations from prompts and source material",
+      "sourceUrl": "https://github.com/Anionex/banana-slides"
     },
     {
-      "id": "content-item_2026-07-25_13_rasbt-llms-from-scratch-build-a-language-model-step-by-step-in-pytorch_1f1bc03a",
+      "id": "content-item_2026-07-26_13_mksglu-context-mode-reduces-tool-output-pressure-in-ai-coding-sessions_c4764ac3",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "rasbt/LLMs-from-scratch: build a language model step by step in PyTorch",
-      "sourceUrl": "https://github.com/rasbt/LLMs-from-scratch"
+      "title": "mksglu/context-mode reduces tool-output pressure in AI coding sessions",
+      "sourceUrl": "https://github.com/mksglu/context-mode"
     }
   ]
 }

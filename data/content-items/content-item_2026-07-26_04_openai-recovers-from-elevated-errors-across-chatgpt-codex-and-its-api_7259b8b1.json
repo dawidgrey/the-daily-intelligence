@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_04_openai-recovers-from-elevated-errors-across-chatgpt-codex-and-its-api_7259b8b1",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Status",
+  "sourceUrl": "https://status.openai.com/incidents/01KYC921K145JTR1JK7DYKGWH1",
+  "canonicalUrl": "https://status.openai.com/incidents/01KYC921K145JTR1JK7DYKGWH1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "OpenAI recovers from elevated errors across ChatGPT, Codex and its API",
+  "friendlyTitle": "ChatGPT, Codex and OpenAI’s API recover after an outage",
+  "summary": "OpenAI reported elevated error rates affecting ChatGPT, Codex and the Responses API before marking all impacted services as fully recovered. The disruption briefly affected both consumer access and production workflows built on OpenAI services.",
+  "friendlySummary": "OpenAI had higher error rates across several services. The company says ChatGPT, Codex and the Responses API are now working normally again.",
+  "whyItMatters": "AI assistants are increasingly part of normal work, so a provider outage can interrupt coding, support and automation at once. Important workflows benefit from retries, queued jobs, clear fallbacks and a way for people to continue manually.",
+  "friendlyWhyItMatters": "If your work depends on one AI provider, an outage can stop several tasks at the same time. Keep retries, backups and a manual way to continue important work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

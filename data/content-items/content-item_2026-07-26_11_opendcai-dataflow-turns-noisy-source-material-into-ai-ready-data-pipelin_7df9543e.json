@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_11_opendcai-dataflow-turns-noisy-source-material-into-ai-ready-data-pipelin_7df9543e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/OpenDCAI/DataFlow",
+  "canonicalUrl": "https://github.com/OpenDCAI/DataFlow",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "OpenDCAI/DataFlow turns noisy source material into AI-ready data pipelines",
+  "friendlyTitle": "DataFlow helps clean and prepare data for AI",
+  "summary": "DataFlow is an Apache-2.0 Python system for generating, refining, evaluating and filtering data for model training and RAG. It was among the day’s strongest AI-related GitHub Trending projects and had about 7,000 stars when checked.",
+  "friendlySummary": "This popular Python project turns messy documents and question-answer data into better material for RAG and model training.",
+  "whyItMatters": "Use its operators and pipelines to turn PDFs, plain text or low-quality question-answer sets into cleaner domain data. It is particularly relevant when a RAG system or fine-tuned model is limited by data quality rather than model choice.",
+  "friendlyWhyItMatters": "Use it when your AI system has poor or messy source data. Its pipelines can clean, filter and check that data before you train a model or build RAG.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

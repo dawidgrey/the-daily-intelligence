@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_07_a-clustered-data-centre-shutdown-shows-why-ai-loads-need-grid-aware-fail_ed13e18e",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "A clustered data-centre shutdown shows why AI loads need grid-aware failover",
+  "friendlyTitle": "AI data centres need smarter backup-power switching",
+  "summary": "After a power-line failure near Washington, roughly 3.1 gigawatts of data-centre load disconnected from the PJM grid within about 30 seconds, contributing to a voltage spike and an extended recovery. Engineers say staggered switching and campus-scale energy storage could make these large loads less disruptive.",
+  "friendlySummary": "A power-line problem caused many data centres to leave the grid almost together. That sudden change made the electricity system harder to stabilise.",
+  "whyItMatters": "AI infrastructure affects the reliability and cost of the same electricity system used by homes and other businesses. Data-centre operators and policymakers need to evaluate coordinated failover behaviour, not only total energy consumption.",
+  "friendlyWhyItMatters": "Large AI facilities share the grid with homes and businesses. Better timing and battery systems can reduce flickering, outages and wider grid problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

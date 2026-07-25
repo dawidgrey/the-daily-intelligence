@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-26",
+  "slug": "2026-07-26",
+  "status": "published",
+  "publicationDateUtc": "2026-07-25T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Open models widen their reach as agents meet practical limits",
+  "friendlyHeader": "Open AI models improve, while agents face real-world limits",
+  "summary": "Today’s issue tracks a more usable generation of open models, new guardrails and memory patterns for agents, and the physical and organisational constraints appearing as AI moves into everyday workflows. It also includes three fast-rising repositories for data preparation, slide creation and context-efficient coding agents.",
+  "friendlySummary": "Today we look at useful open AI models, safer and cheaper ways to run agents, and the real-world limits around power, software projects and office work. We also share three popular GitHub projects for preparing data, making slides and saving context space.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-26_01_apertus-1-5-adds-images-reasoning-and-a-262k-context-window-to-fully-ope_4b4f3dce",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_02_amd-opens-instella-moe-a-16b-model-with-2-8b-active-parameters_57d93a6f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_03_debian-opens-a-formal-debate-over-llm-assisted-contributions_10e81be2",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_04_openai-recovers-from-elevated-errors-across-chatgpt-codex-and-its-api_7259b8b1",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_05_a-context-cost-audit-argues-persistent-agents-should-cache-information-b_0444b955",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_06_shackle-adds-a-runtime-circuit-breaker-for-autonomous-agent-actions_0d7d8d4c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_07_a-clustered-data-centre-shutdown-shows-why-ai-loads-need-grid-aware-fail_ed13e18e",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_08_prentis-targets-routine-office-work-with-specialised-computer-use-models_e887b324",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_09_political-campaigns-are-using-ai-to-hold-personalised-text-conversations_1bf093d1",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_10_a-practical-guide-separates-agent-memory-into-compaction-retrieval-and-l_3a928a14",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_11_opendcai-dataflow-turns-noisy-source-material-into-ai-ready-data-pipelin_7df9543e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_12_anionex-banana-slides-builds-editable-presentations-from-prompts-and-sou_140d127f",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-26_13_mksglu-context-mode-reduces-tool-output-pressure-in-ai-coding-sessions_c4764ac3",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-26.json",
+    "itemCount": 13
+  }
+}

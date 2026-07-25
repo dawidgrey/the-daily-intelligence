@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_01_apertus-1-5-adds-images-reasoning-and-a-262k-context-window-to-fully-ope_4b4f3dce",
+  "sourceKind": "product",
+  "sourceName": "Apertus",
+  "sourceUrl": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/",
+  "canonicalUrl": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "Apertus 1.5 adds images, reasoning and a 262K context window to fully open models",
+  "friendlyTitle": "Apertus makes its open AI models better with images and longer memory",
+  "summary": "Apertus released updated 8B and 70B models with native image understanding, an optional thinking mode, stronger tool use and a fourfold context increase to 262,144 tokens. The project continues to publish weights, data, values and training details, although a fuller technical report is still forthcoming.",
+  "friendlySummary": "Apertus updated its 8B and 70B open models. They can understand images, think before answering, use tools better and read much longer inputs.",
+  "whyItMatters": "Teams that need inspectable or sovereign AI gain a more capable multimodal option without giving up model transparency. The 8B version may also make experimentation practical on more modest infrastructure.",
+  "friendlyWhyItMatters": "This gives people and businesses a more useful AI model that they can inspect and control themselves. The smaller model may be easier and cheaper to test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

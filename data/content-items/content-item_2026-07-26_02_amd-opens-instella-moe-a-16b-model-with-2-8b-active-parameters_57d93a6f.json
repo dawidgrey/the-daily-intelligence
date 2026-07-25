@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_02_amd-opens-instella-moe-a-16b-model-with-2-8b-active-parameters_57d93a6f",
+  "sourceKind": "research",
+  "sourceName": "AMD ROCm Blog",
+  "sourceUrl": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
+  "canonicalUrl": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "AMD opens Instella-MoE, a 16B model with 2.8B active parameters",
+  "friendlyTitle": "AMD releases an efficient open AI model and its full training recipe",
+  "summary": "AMD released Instella-MoE-16B-A3B with weights, data mixtures, training configurations, intermediate checkpoints and inference code. Its sparse design activates 2.8 billion of 16 billion parameters per token, and AMD reports training and serving efficiency gains from new attention and communication techniques.",
+  "friendlySummary": "AMD’s new model has 16 billion total parameters but uses only 2.8 billion for each token. AMD also shared the model files, training steps, data mixtures and code.",
+  "whyItMatters": "The release is both a usable small-active-parameter model and a reproducible account of training an MoE system entirely on AMD hardware. That gives researchers and infrastructure teams another path beyond Nvidia-centred model development.",
+  "friendlyWhyItMatters": "Developers can study, run and improve the model instead of relying only on a closed service. It also shows how large models can be trained on AMD hardware.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}

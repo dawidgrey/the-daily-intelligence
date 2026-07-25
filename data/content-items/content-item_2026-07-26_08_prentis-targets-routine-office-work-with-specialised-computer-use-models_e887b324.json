@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-26_08_prentis-targets-routine-office-work-with-specialised-computer-use-models_e887b324",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-25T20:05:30Z",
+  "createdAtUtc": "2026-07-25T20:05:30Z",
+  "updatedAtUtc": "2026-07-25T20:05:30Z",
+  "title": "Prentis targets routine office work with specialised computer-use models",
+  "friendlyTitle": "New AI lab Prentis wants agents to handle routine office tasks",
+  "summary": "Prentis, a new lab focused on models that operate office software, is reportedly discussing a $100 million raise at a $1 billion valuation. It says its smaller Hive-32B model can automate document-heavy workflows at lower cost, but TechCrunch notes that its benchmark and revenue projections have not been independently verified.",
+  "friendlySummary": "Prentis is building smaller AI models that use office software and automate document-heavy work. It is reportedly seeking $100 million, but its performance claims still need independent proof.",
+  "whyItMatters": "Investment is moving from general chatbots toward agents built for repetitive work across documents and business systems. Buyers should demand task-level trials, security controls and realised savings rather than relying on vendor benchmark claims.",
+  "friendlyWhyItMatters": "Office automation may become a major use of AI agents. Businesses should test real tasks and check security and savings before buying.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-26"
+  }
+}
