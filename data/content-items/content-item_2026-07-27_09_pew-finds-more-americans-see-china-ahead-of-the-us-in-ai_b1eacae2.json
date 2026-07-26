@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_09_pew-finds-more-americans-see-china-ahead-of-the-us-in-ai_b1eacae2",
+  "sourceKind": "research",
+  "sourceName": "Pew Research Center",
+  "sourceUrl": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+  "canonicalUrl": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "Pew finds more Americans see China ahead of the US in AI",
+  "friendlyTitle": "Many Americans think China leads in AI, but one-third are unsure",
+  "summary": "In a June survey of 3,488 US adults, 36% said China was more advanced in AI, 12% chose the United States, 18% saw them as equal and 33% were unsure. Separately, 43% said US leadership in AI was extremely or very important, while 51% expected AI to widen the gap between rich and poor countries.",
+  "friendlySummary": "A Pew survey found that 36% of US adults think China is ahead in AI and 12% think the US is ahead. One-third were not sure, and half expected AI to increase inequality between countries.",
+  "whyItMatters": "Public expectations can shape investment, procurement and policy even when many people remain uncertain about the underlying technology. Businesses should prepare for stronger national-competition framing alongside concern that access to AI’s benefits will be uneven.",
+  "friendlyWhyItMatters": "People’s beliefs about the AI race can affect government and business decisions. The results also show concern that richer countries may receive more of AI’s benefits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

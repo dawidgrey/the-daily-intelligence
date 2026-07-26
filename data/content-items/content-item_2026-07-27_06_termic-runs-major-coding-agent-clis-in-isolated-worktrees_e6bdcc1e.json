@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_06_termic-runs-major-coding-agent-clis-in-isolated-worktrees_e6bdcc1e",
+  "sourceKind": "product",
+  "sourceName": "Termic",
+  "sourceUrl": "https://termic.dev/",
+  "canonicalUrl": "https://termic.dev/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "Termic runs major coding-agent CLIs in isolated worktrees",
+  "friendlyTitle": "Termic runs coding agents side by side in separate work folders",
+  "summary": "Termic is a free AGPL-licensed desktop app that runs Claude, Codex, Gemini, Copilot, Grok, OpenCode and custom terminal agents in real PTYs. It supports separate Git worktrees, diff review, queued prompts and an optional macOS sandbox with filesystem and network allowlists; macOS and Linux builds are available.",
+  "friendlySummary": "Termic is a free desktop app for running several popular coding-agent command-line tools. Each task can have its own Git worktree, and Mac users can add tighter file and network limits.",
+  "whyItMatters": "Developers can supervise parallel agents without replacing the vendors’ own CLIs or sharing code with another hosted orchestration service. Worktree isolation and sandboxing reduce risk, but they do not replace backups, code review or careful limits on production credentials.",
+  "friendlyWhyItMatters": "Separate work folders help agents avoid overwriting each other’s changes. Keep backups and review the code even when a sandbox is turned on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

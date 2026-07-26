@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-25T20:05:30Z",
+  "generatedAtUtc": "2026-07-26T20:05:26Z",
   "items": [
     {
-      "id": "content-item_2026-07-26_01_apertus-1-5-adds-images-reasoning-and-a-262k-context-window-to-fully-ope_4b4f3dce",
-      "sourceKind": "product",
-      "sourceName": "Apertus",
-      "title": "Apertus 1.5 adds images, reasoning and a 262K context window to fully open models",
-      "sourceUrl": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/"
+      "id": "content-item_2026-07-27_01_anthropic-details-how-it-secures-an-ai-native-software-lifecycle_55c157c7",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic details how it secures an AI-native software lifecycle",
+      "sourceUrl": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle"
     },
     {
-      "id": "content-item_2026-07-26_02_amd-opens-instella-moe-a-16b-model-with-2-8b-active-parameters_57d93a6f",
+      "id": "content-item_2026-07-27_02_ntt-data-says-codex-reduced-a-complex-incident-analysis-from-days-to-30_ce627deb",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "NTT DATA says Codex reduced a complex incident analysis from days to 30 minutes",
+      "sourceUrl": "https://openai.com/index/ntt-data"
+    },
+    {
+      "id": "content-item_2026-07-27_03_a-cost-analysis-challenges-the-claim-that-kimi-k3-is-a-bargain_9ac04077",
+      "sourceKind": "article",
+      "sourceName": "Alex Inch",
+      "title": "A cost analysis challenges the claim that Kimi K3 is a bargain",
+      "sourceUrl": "https://www.alexinch.com/blog/kimi-k3"
+    },
+    {
+      "id": "content-item_2026-07-27_04_forkbench-puts-parallel-coding-agents-on-one-shared-work-board_cd8bb9a3",
+      "sourceKind": "product",
+      "sourceName": "Forkbench",
+      "title": "Forkbench puts parallel coding agents on one shared work board",
+      "sourceUrl": "https://forkbench.com"
+    },
+    {
+      "id": "content-item_2026-07-27_05_modelfuzz-adds-execution-time-guardrails-for-agent-tool-calls_b83032db",
+      "sourceKind": "product",
+      "sourceName": "ModelFuzz",
+      "title": "ModelFuzz adds execution-time guardrails for agent tool calls",
+      "sourceUrl": "https://www.modelfuzz.com/"
+    },
+    {
+      "id": "content-item_2026-07-27_06_termic-runs-major-coding-agent-clis-in-isolated-worktrees_e6bdcc1e",
+      "sourceKind": "product",
+      "sourceName": "Termic",
+      "title": "Termic runs major coding-agent CLIs in isolated worktrees",
+      "sourceUrl": "https://termic.dev/"
+    },
+    {
+      "id": "content-item_2026-07-27_07_a-developer-argues-that-companies-should-ship-agent-ready-apis-before-ai_2e9596cf",
+      "sourceKind": "article",
+      "sourceName": "Will Wang",
+      "title": "A developer argues that companies should ship agent-ready APIs before AI sidebars",
+      "sourceUrl": "https://iamwillwang.com/notes/please-ship-apis-not-ai/"
+    },
+    {
+      "id": "content-item_2026-07-27_08_reports-of-agent-caused-data-loss-point-to-confusion-about-system-state_1b3e67c0",
+      "sourceKind": "article",
+      "sourceName": "Firas D",
+      "title": "Reports of agent-caused data loss point to confusion about system state",
+      "sourceUrl": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion"
+    },
+    {
+      "id": "content-item_2026-07-27_09_pew-finds-more-americans-see-china-ahead-of-the-us-in-ai_b1eacae2",
       "sourceKind": "research",
-      "sourceName": "AMD ROCm Blog",
-      "title": "AMD opens Instella-MoE, a 16B model with 2.8B active parameters",
-      "sourceUrl": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html"
+      "sourceName": "Pew Research Center",
+      "title": "Pew finds more Americans see China ahead of the US in AI",
+      "sourceUrl": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/"
     },
     {
-      "id": "content-item_2026-07-26_03_debian-opens-a-formal-debate-over-llm-assisted-contributions_10e81be2",
-      "sourceKind": "regulation",
-      "sourceName": "Debian Project",
-      "title": "Debian opens a formal debate over LLM-assisted contributions",
-      "sourceUrl": "https://www.debian.org/vote/2026/vote_002"
-    },
-    {
-      "id": "content-item_2026-07-26_04_openai-recovers-from-elevated-errors-across-chatgpt-codex-and-its-api_7259b8b1",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Status",
-      "title": "OpenAI recovers from elevated errors across ChatGPT, Codex and its API",
-      "sourceUrl": "https://status.openai.com/incidents/01KYC921K145JTR1JK7DYKGWH1"
-    },
-    {
-      "id": "content-item_2026-07-26_05_a-context-cost-audit-argues-persistent-agents-should-cache-information-b_0444b955",
-      "sourceKind": "article",
-      "sourceName": "Tanishq",
-      "title": "A context-cost audit argues persistent agents should cache information by change rate",
-      "sourceUrl": "https://tanishq.xyz/engineering/agent-personality-tax"
-    },
-    {
-      "id": "content-item_2026-07-26_06_shackle-adds-a-runtime-circuit-breaker-for-autonomous-agent-actions_0d7d8d4c",
+      "id": "content-item_2026-07-27_10_a-browser-tool-highlights-common-llm-writing-clich-s_845da6df",
       "sourceKind": "product",
-      "sourceName": "PyPI",
-      "title": "SHACKLE adds a runtime circuit breaker for autonomous agent actions",
-      "sourceUrl": "https://pypi.org/project/pyshackle/"
+      "sourceName": "Simon Willison",
+      "title": "A browser tool highlights common LLM writing clichés",
+      "sourceUrl": "https://tools.simonwillison.net/llm-cliche-highlighter"
     },
     {
-      "id": "content-item_2026-07-26_07_a-clustered-data-centre-shutdown-shows-why-ai-loads-need-grid-aware-fail_ed13e18e",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "A clustered data-centre shutdown shows why AI loads need grid-aware failover",
-      "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
-    },
-    {
-      "id": "content-item_2026-07-26_08_prentis-targets-routine-office-work-with-specialised-computer-use-models_e887b324",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Prentis targets routine office work with specialised computer-use models",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
-    },
-    {
-      "id": "content-item_2026-07-26_09_political-campaigns-are-using-ai-to-hold-personalised-text-conversations_1bf093d1",
-      "sourceKind": "article",
-      "sourceName": "NPR",
-      "title": "Political campaigns are using AI to hold personalised text conversations at scale",
-      "sourceUrl": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns"
-    },
-    {
-      "id": "content-item_2026-07-26_10_a-practical-guide-separates-agent-memory-into-compaction-retrieval-and-l_3a928a14",
-      "sourceKind": "article",
-      "sourceName": "Rafi Hasan",
-      "title": "A practical guide separates agent memory into compaction, retrieval and learned experience",
-      "sourceUrl": "https://rafihasan.com/blog/2026-07-24-the-curious-case-of-agent-memory"
-    },
-    {
-      "id": "content-item_2026-07-26_11_opendcai-dataflow-turns-noisy-source-material-into-ai-ready-data-pipelin_7df9543e",
+      "id": "content-item_2026-07-27_11_pingdotgg-t3code-brings-multiple-coding-agents-into-one-minimal-interfac_025f7fa1",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "OpenDCAI/DataFlow turns noisy source material into AI-ready data pipelines",
-      "sourceUrl": "https://github.com/OpenDCAI/DataFlow"
+      "title": "pingdotgg/t3code brings multiple coding agents into one minimal interface",
+      "sourceUrl": "https://github.com/pingdotgg/t3code"
     },
     {
-      "id": "content-item_2026-07-26_12_anionex-banana-slides-builds-editable-presentations-from-prompts-and-sou_140d127f",
+      "id": "content-item_2026-07-27_12_evanzhoudev-openai-oauth-exposes-chatgpt-access-through-developer-interf_af035d0b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Anionex/banana-slides builds editable presentations from prompts and source material",
-      "sourceUrl": "https://github.com/Anionex/banana-slides"
+      "title": "EvanZhouDev/openai-oauth exposes ChatGPT access through developer interfaces",
+      "sourceUrl": "https://github.com/EvanZhouDev/openai-oauth"
     },
     {
-      "id": "content-item_2026-07-26_13_mksglu-context-mode-reduces-tool-output-pressure-in-ai-coding-sessions_c4764ac3",
+      "id": "content-item_2026-07-27_13_tashfeenahmed-freellmapi-routes-one-api-across-28-model-providers_dc7a66cb",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "mksglu/context-mode reduces tool-output pressure in AI coding sessions",
-      "sourceUrl": "https://github.com/mksglu/context-mode"
+      "title": "tashfeenahmed/freellmapi routes one API across 28 model providers",
+      "sourceUrl": "https://github.com/tashfeenahmed/freellmapi"
     }
   ]
 }

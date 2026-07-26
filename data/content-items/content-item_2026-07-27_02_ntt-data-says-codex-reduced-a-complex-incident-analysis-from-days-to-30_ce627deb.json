@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_02_ntt-data-says-codex-reduced-a-complex-incident-analysis-from-days-to-30_ce627deb",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/ntt-data",
+  "canonicalUrl": "https://openai.com/index/ntt-data",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "NTT DATA says Codex reduced a complex incident analysis from days to 30 minutes",
+  "friendlyTitle": "NTT DATA says Codex cut one incident review from three days to 30 minutes",
+  "summary": "An OpenAI customer case study says NTT DATA used Codex to complete in 30 minutes an incident analysis that had previously required five experienced engineers for three days. NTT DATA is also expanding ChatGPT Enterprise and Codex use across thousands of employees.",
+  "friendlySummary": "OpenAI says NTT DATA used Codex to analyse a difficult software incident in 30 minutes. The same work had previously taken five experienced engineers three days.",
+  "whyItMatters": "The example shows where coding agents may deliver their clearest return: gathering evidence, tracing unfamiliar systems and accelerating a skilled team’s diagnosis. Businesses should validate such vendor-published results on their own incidents and keep engineers responsible for conclusions and remediation.",
+  "friendlyWhyItMatters": "AI coding tools may save the most time when they help experts search and understand large systems. Companies should test the result themselves and keep people responsible for final decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

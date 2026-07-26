@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_01_anthropic-details-how-it-secures-an-ai-native-software-lifecycle_55c157c7",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+  "canonicalUrl": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "Anthropic details how it secures an AI-native software lifecycle",
+  "friendlyTitle": "Anthropic explains how it adds security to AI-assisted coding",
+  "summary": "Anthropic has published an account of integrating security earlier and more continuously into software development as its engineers use AI coding tools. The company presents security controls as part of the coding workflow rather than a final checkpoint after code is written.",
+  "friendlySummary": "Anthropic shared how it brings security checks into the software-building process while its developers use AI coding tools.",
+  "whyItMatters": "As agents generate and modify more production code, review processes need to inspect prompts, tool permissions, dependencies and resulting changes—not merely scan the finished build. Teams can use Anthropic’s account as a reference, while recognising that it describes the company’s own practices rather than an independent audit.",
+  "friendlyWhyItMatters": "When AI writes more code, security cannot wait until the end. Teams should check what tools an agent can use, what it changes and what software it adds.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_10_a-browser-tool-highlights-common-llm-writing-clich-s_845da6df",
+  "sourceKind": "product",
+  "sourceName": "Simon Willison",
+  "sourceUrl": "https://tools.simonwillison.net/llm-cliche-highlighter",
+  "canonicalUrl": "https://tools.simonwillison.net/llm-cliche-highlighter",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "A browser tool highlights common LLM writing clichés",
+  "friendlyTitle": "This free tool finds writing that sounds like a typical AI answer",
+  "summary": "Simon Willison released a small browser-based tool that highlights sentences matching familiar LLM writing patterns and labels the cliché it detected. Users can paste text or load a public URL, then inspect only the flagged passages.",
+  "friendlySummary": "Paste in text and the tool highlights common phrases and sentence patterns often used by language models.",
+  "whyItMatters": "The tool offers a quick editing pass for drafts that sound formulaic, whether or not AI wrote them. A match is a stylistic warning rather than proof of AI authorship, so writers should use it to revise deliberately rather than automatically delete every highlighted phrase.",
+  "friendlyWhyItMatters": "It can help make a draft sound less repetitive or mechanical. A highlighted phrase does not prove that AI wrote the text, so use your own judgement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

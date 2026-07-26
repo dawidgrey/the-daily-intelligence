@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_04_forkbench-puts-parallel-coding-agents-on-one-shared-work-board_cd8bb9a3",
+  "sourceKind": "product",
+  "sourceName": "Forkbench",
+  "sourceUrl": "https://forkbench.com",
+  "canonicalUrl": "https://forkbench.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "Forkbench puts parallel coding agents on one shared work board",
+  "friendlyTitle": "Forkbench helps you manage several coding agents from one board",
+  "summary": "Forkbench is a macOS workspace for running multiple local CLI coding agents in parallel, assigning them separate branches and coordinating work through a shared backlog. Its free tier includes local terminal workspaces, notebooks and a credential vault, while paid features add cross-device control and synchronisation.",
+  "friendlySummary": "Forkbench runs coding agents in separate branches and lets them share a task list. It keeps the work on a Mac, with optional paid controls from other devices.",
+  "whyItMatters": "The bottleneck in multi-agent coding is increasingly supervision and coordination rather than opening another terminal. Isolated branches, visible task ownership and narrowly granted secrets can reduce collisions, but users should still review changes and treat the product’s security claims as claims to verify.",
+  "friendlyWhyItMatters": "A clear board can stop two agents from changing the same thing and help you see who needs help. You should still review their code and check how secrets are protected.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

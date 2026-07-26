@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_05_modelfuzz-adds-execution-time-guardrails-for-agent-tool-calls_b83032db",
+  "sourceKind": "product",
+  "sourceName": "ModelFuzz",
+  "sourceUrl": "https://www.modelfuzz.com/",
+  "canonicalUrl": "https://www.modelfuzz.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "ModelFuzz adds execution-time guardrails for agent tool calls",
+  "friendlyTitle": "ModelFuzz checks an agent’s tool call before it can do damage",
+  "summary": "ModelFuzz is a new MIT-licensed Python project that combines a prompt-injection scanner with a decorator that checks tool arguments against policy before execution. It is designed to block actions such as data exfiltration through email or HTTP tools even after a model has been manipulated.",
+  "friendlySummary": "ModelFuzz can test an agent for prompt-injection problems and check tool inputs before a command, email or web request runs.",
+  "whyItMatters": "Filtering prompts is not enough when an agent can run commands or send data. Enforcing policy at the tool boundary creates a separate control point, though the young project and its default rules require careful testing against false positives, bypasses and each organisation’s threat model.",
+  "friendlyWhyItMatters": "Even a tricked AI model can be stopped if software checks the final action. Test the tool carefully because simple rules can still miss attacks or block safe work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

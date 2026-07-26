@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_11_pingdotgg-t3code-brings-multiple-coding-agents-into-one-minimal-interfac_025f7fa1",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/pingdotgg/t3code",
+  "canonicalUrl": "https://github.com/pingdotgg/t3code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "pingdotgg/t3code brings multiple coding agents into one minimal interface",
+  "friendlyTitle": "T3 Code puts four coding agents in one simple app",
+  "summary": "T3 Code is an MIT-licensed TypeScript web and desktop interface for Codex, Claude Code, Cursor and OpenCode. It led the day’s AI-related GitHub Trending candidates and had about 15,000 stars when checked.",
+  "friendlySummary": "This fast-rising project gives Codex, Claude Code, Cursor and OpenCode a shared web or desktop interface.",
+  "whyItMatters": "Use it to access several authenticated coding-agent CLIs through a consistent graphical workspace, either with npx or a desktop package. The maintainers call the project very early, so expect bugs and test it on non-critical repositories first.",
+  "friendlyWhyItMatters": "Try it if you want one visual place for different coding agents. It is still very early, so start with code that is backed up and not critical.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

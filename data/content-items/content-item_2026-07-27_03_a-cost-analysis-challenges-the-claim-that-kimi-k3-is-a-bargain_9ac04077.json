@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_03_a-cost-analysis-challenges-the-claim-that-kimi-k3-is-a-bargain_9ac04077",
+  "sourceKind": "article",
+  "sourceName": "Alex Inch",
+  "sourceUrl": "https://www.alexinch.com/blog/kimi-k3",
+  "canonicalUrl": "https://www.alexinch.com/blog/kimi-k3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "A cost analysis challenges the claim that Kimi K3 is a bargain",
+  "friendlyTitle": "Kimi K3 is powerful, but one analysis says it is not especially cheap",
+  "summary": "An analysis using Artificial Analysis task costs argues that Moonshot AI’s open-weight Kimi K3 is only slightly cheaper per benchmark task than OpenAI’s top model, roughly twice the cost of GLM-5.2 and about 20 times DeepSeek V4. It notes that K3 is relatively cheaper for coding but more expensive for office work, partly because it produces longer outputs.",
+  "friendlySummary": "A new comparison says Kimi K3 can cost nearly as much per completed task as a leading OpenAI model. It looks cheaper for coding and more expensive for office work.",
+  "whyItMatters": "Token prices alone can hide how much a model costs to finish a task. Buyers comparing models should measure total tokens, latency and success on their own workload; open weights can still add value through fine-tuning or self-hosting even when hosted inference is not the cheapest.",
+  "friendlyWhyItMatters": "A low price per token does not always mean a low price for the whole job. Test models on your real tasks, including how long their answers are and how often they succeed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-25T20:05:30Z",
+  "generatedAtUtc": "2026-07-26T20:05:26Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-27",
+      "slug": "2026-07-27",
+      "status": "published",
+      "publicationDateUtc": "2026-07-26T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from solo tools to managed, guarded teams",
+      "friendlyHeader": "AI agents get better tools, stronger safety and clearer costs",
+      "summary": "Today’s issue follows the operational layer forming around AI agents: parallel workspaces, execution-time guardrails, safer file handling and APIs designed for machines as well as people. It also examines the real cost of Kimi K3, changing public expectations around the AI race, and three fast-rising repositories for coding interfaces and model routing.",
+      "friendlySummary": "Today we look at new ways to manage several AI agents, stop unsafe actions and protect your files. We also explain Kimi K3’s real cost, what Americans think about the AI race, and three popular GitHub projects for coding and using different AI providers.",
+      "itemCount": 13,
+      "href": "issues/2026-07-27.html",
+      "dataUrl": "data/daily-publications/2026-07-27.json"
+    },
     {
       "id": "daily-publication_2026-07-26",
       "slug": "2026-07-26",

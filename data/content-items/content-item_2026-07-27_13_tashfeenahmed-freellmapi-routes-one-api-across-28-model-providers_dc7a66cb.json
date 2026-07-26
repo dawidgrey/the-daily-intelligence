@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_13_tashfeenahmed-freellmapi-routes-one-api-across-28-model-providers_dc7a66cb",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/tashfeenahmed/freellmapi",
+  "canonicalUrl": "https://github.com/tashfeenahmed/freellmapi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "tashfeenahmed/freellmapi routes one API across 28 model providers",
+  "friendlyTitle": "FreeLLMAPI combines many AI providers behind one address",
+  "summary": "FreeLLMAPI is an MIT-licensed TypeScript proxy that places free tiers from 28 LLM providers and custom OpenAI-compatible endpoints behind one API. The repository reports smart routing, failover, encrypted key storage and per-provider usage tracking, and had more than 17,000 stars when checked.",
+  "friendlySummary": "This popular project routes requests across the free plans of 28 AI providers and can switch providers when one reaches a limit.",
+  "whyItMatters": "It can give personal experiments a single endpoint with fallback when one provider reaches its quota. Review every provider’s terms, privacy rules and rate limits, and do not assume the project’s headline token total is guaranteed or suitable for commercial workloads.",
+  "friendlyWhyItMatters": "It can make small personal experiments cheaper and easier to keep running. Check each provider’s rules and do not treat the claimed free capacity as guaranteed business infrastructure.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

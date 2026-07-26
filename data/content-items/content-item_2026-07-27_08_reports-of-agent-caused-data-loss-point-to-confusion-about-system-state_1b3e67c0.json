@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_08_reports-of-agent-caused-data-loss-point-to-confusion-about-system-state_1b3e67c0",
+  "sourceKind": "article",
+  "sourceName": "Firas D",
+  "sourceUrl": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+  "canonicalUrl": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "Reports of agent-caused data loss point to confusion about system state",
+  "friendlyTitle": "Coding agents can delete data when they misunderstand files or settings",
+  "summary": "A review of reported Claude Code and Codex incidents links deleted files, lost Git changes and a wiped production database to mistaken assumptions about paths, environment variables, case sensitivity and test targets. The article argues that clumsy destructive actions deserve as much attention as deliberate prompt-injection attacks.",
+  "friendlySummary": "Several reported failures happened because an AI agent misunderstood a folder, database address, Git state or file-name rule, then ran a destructive command.",
+  "whyItMatters": "Full-access agents can turn a small misunderstanding into irreversible damage. Use sandboxing, disposable test databases, worktrees, destructive-command guards and current backups—and do not let an agent treat production data or a home directory as scratch space.",
+  "friendlyWhyItMatters": "Keep agents away from important data unless they truly need it. Use backups, test databases, separate work folders and hard blocks on dangerous commands.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}

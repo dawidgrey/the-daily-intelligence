@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-27_07_a-developer-argues-that-companies-should-ship-agent-ready-apis-before-ai_2e9596cf",
+  "sourceKind": "article",
+  "sourceName": "Will Wang",
+  "sourceUrl": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+  "canonicalUrl": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-26T20:05:26Z",
+  "createdAtUtc": "2026-07-26T20:05:26Z",
+  "updatedAtUtc": "2026-07-26T20:05:26Z",
+  "title": "A developer argues that companies should ship agent-ready APIs before AI sidebars",
+  "friendlyTitle": "Build a good API before adding another AI chat box",
+  "summary": "Developer Will Wang argues that companies should expose their core functions through well-designed APIs instead of prioritising another product-specific chatbot. He calls for token-efficient interfaces, fine-grained permissions, human-review hooks, documentation and examples that agents can use as skills.",
+  "friendlySummary": "Will Wang says companies should let AI agents use clear, secure APIs instead of making every agent click through a website or use a new chat panel.",
+  "whyItMatters": "Agents are faster and more reliable when they can call a structured interface instead of clicking through a visual dashboard. Product teams can make existing services more useful to both automation and people by exposing narrow actions, clear permissions and approval points.",
+  "friendlyWhyItMatters": "Good APIs make automation faster and easier to control. They can also let a person approve important steps before an agent continues.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-27"
+  }
+}
