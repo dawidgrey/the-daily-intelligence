@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-28_01_kimi-k3-opens-its-frontier-scale-model-and-supporting-infrastructure_b82b19a7",
+  "sourceKind": "product",
+  "sourceName": "Kimi",
+  "sourceUrl": "https://www.kimi.com/blog/kimi-k3",
+  "canonicalUrl": "https://www.kimi.com/blog/kimi-k3",
+  "credit": "@Kimi_Moonshot",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-27T20:04:36Z",
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "title": "Kimi K3 opens its frontier-scale model and supporting infrastructure",
+  "friendlyTitle": "Kimi opens its powerful K3 AI model",
+  "summary": "Moonshot AI has released Kimi K3 as an open-weight, multimodal mixture-of-experts model with a one-million-token context window, alongside technical details and parts of the infrastructure used to serve it. The model is aimed at coding, reasoning, knowledge work and long-running agent tasks.",
+  "friendlySummary": "Kimi K3 is now available with open model weights. It can work with text and images, handle very long inputs, and support coding and agent tasks.",
+  "whyItMatters": "Open weights give developers and businesses more control over hosting, privacy and adaptation while offering another serious option for complex agent workflows. The practical test now shifts from headline benchmarks to serving cost, reliability and independent evaluations.",
+  "friendlyWhyItMatters": "Teams can run and adapt the model with more control over their data. They should still test its cost, accuracy and safety on their own work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-28"
+  }
+}

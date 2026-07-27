@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-28",
+  "slug": "2026-07-28",
+  "status": "published",
+  "publicationDateUtc": "2026-07-27T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Open models, specialised agents and the economics of useful AI",
+  "friendlyHeader": "Open AI models and more practical agents",
+  "summary": "Today’s issue follows AI as it becomes more open, more specialised and more operational: Kimi K3’s open release, Microsoft’s security agents, evidence of work crossing occupational boundaries, and practical lessons on model routing, token use and containment. Three fast-rising GitHub projects round out the issue with tools for desktop workflows, agent-native applications and knowledge graphs.",
+  "friendlySummary": "Today we look at a powerful open AI model, new security agents, and how AI is changing the kinds of tasks people can do at work. We also share simple lessons for cutting costs, using fewer tokens and running agents more safely, plus three popular GitHub projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-28_01_kimi-k3-opens-its-frontier-scale-model-and-supporting-infrastructure_b82b19a7",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_02_microsoft-prepares-project-perception-for-public-preview-with-a-speciali_bfd85480",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_03_openai-finds-chatgpt-users-increasingly-cross-occupational-task-boundari_f143efbf",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_04_anthropic-expands-its-cognizant-partnership-to-put-claude-inside-industr_be0b73b3",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_05_perceptionbench-tests-what-multimodal-models-actually-see_77654aaf",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_06_ramp-explains-an-online-learning-approach-to-faster-more-reliable-llm-ro_7331b0ca",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_07_nvidia-turns-a-surgical-world-model-into-an-interactive-robot-simulator_9101339b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_08_a-new-paper-examines-ai-s-role-in-the-rise-of-independent-work_d45edf59",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_09_jetbrains-tests-whether-compressed-caveman-prompts-really-save-agent-tok_ef2dd2a2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_10_why-ordinary-software-sandboxes-may-not-contain-software-hacking-agents_f24cf121",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_11_different-ai-openwork-an-open-desktop-workspace-for-shareable-ai-workflo_a7aeb4c8",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_12_builderio-agent-native-a-full-stack-framework-for-agent-first-applicatio_4609711d",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-28_13_rahulnyk-knowledge-graph-turn-unstructured-text-into-a-graph-for-retriev_e143adcf",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-28.json",
+    "itemCount": 13
+  }
+}

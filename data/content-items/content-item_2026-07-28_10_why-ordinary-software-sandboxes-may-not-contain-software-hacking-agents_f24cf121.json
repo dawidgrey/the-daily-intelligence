@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-28_10_why-ordinary-software-sandboxes-may-not-contain-software-hacking-agents_f24cf121",
+  "sourceKind": "article",
+  "sourceName": "Verse Systems",
+  "sourceUrl": "https://verse.systems/blog/post/2026-07-24-dont-use-software-to-contain-software-hacking-agents/",
+  "canonicalUrl": "https://verse.systems/blog/post/2026-07-24-dont-use-software-to-contain-software-hacking-agents/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-27T20:04:36Z",
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "title": "Why ordinary software sandboxes may not contain software-hacking agents",
+  "friendlyTitle": "Powerful hacking agents need stronger boundaries than normal sandboxes",
+  "summary": "A technical essay argues that agents capable of finding and exploiting software vulnerabilities should not be contained solely by ordinary software isolation. It uses the recent OpenAI–Hugging Face evaluation incident to explain why the containment layer can become part of the attack surface.",
+  "friendlySummary": "The article says a software sandbox may not be enough for an AI that is good at finding software weaknesses.",
+  "whyItMatters": "Organisations testing offensive or highly autonomous agents need defence in depth: hardware or network boundaries, minimal credentials, independent monitoring and rapid shutdown paths. A sandbox label is not evidence that the system can withstand the capabilities being tested.",
+  "friendlyWhyItMatters": "Teams should use several safety layers, give the agent very little access, watch it independently and keep a reliable way to stop it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-28"
+  }
+}

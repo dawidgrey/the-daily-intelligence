@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-07-26T20:05:26Z",
+  "generatedAtUtc": "2026-07-27T20:04:37Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-07-28",
+      "slug": "2026-07-28",
+      "status": "published",
+      "publicationDateUtc": "2026-07-27T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Open models, specialised agents and the economics of useful AI",
+      "friendlyHeader": "Open AI models and more practical agents",
+      "summary": "Today’s issue follows AI as it becomes more open, more specialised and more operational: Kimi K3’s open release, Microsoft’s security agents, evidence of work crossing occupational boundaries, and practical lessons on model routing, token use and containment. Three fast-rising GitHub projects round out the issue with tools for desktop workflows, agent-native applications and knowledge graphs.",
+      "friendlySummary": "Today we look at a powerful open AI model, new security agents, and how AI is changing the kinds of tasks people can do at work. We also share simple lessons for cutting costs, using fewer tokens and running agents more safely, plus three popular GitHub projects.",
+      "itemCount": 13,
+      "href": "issues/2026-07-28.html",
+      "dataUrl": "data/daily-publications/2026-07-28.json"
+    },
     {
       "id": "daily-publication_2026-07-27",
       "slug": "2026-07-27",

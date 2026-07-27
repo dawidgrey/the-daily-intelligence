@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-28_11_different-ai-openwork-an-open-desktop-workspace-for-shareable-ai-workflo_a7aeb4c8",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/different-ai/openwork",
+  "canonicalUrl": "https://github.com/different-ai/openwork",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-27T20:04:36Z",
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "title": "different-ai/openwork: an open desktop workspace for shareable AI workflows",
+  "friendlyTitle": "OpenWork is an open desktop app for AI workflows",
+  "summary": "OpenWork is a free, open-source desktop application for building and sharing AI workflows, positioned as an alternative to closed desktop agent workspaces and powered by OpenCode.",
+  "friendlySummary": "OpenWork lets people build and share AI workflows in a free, open-source desktop app.",
+  "whyItMatters": "Use it to inspect how a desktop agent workspace connects tasks, tools and reusable workflows, or to run and adapt those workflows in an open codebase. Review permissions before allowing any desktop agent to access files or external services.",
+  "friendlyWhyItMatters": "You can study, run and change the workflows yourself. Check what files and services the agent can access before using it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-28"
+  }
+}

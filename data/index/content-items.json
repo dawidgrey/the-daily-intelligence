@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-26T20:05:26Z",
+  "generatedAtUtc": "2026-07-27T20:04:37Z",
   "items": [
     {
-      "id": "content-item_2026-07-27_01_anthropic-details-how-it-secures-an-ai-native-software-lifecycle_55c157c7",
+      "id": "content-item_2026-07-28_01_kimi-k3-opens-its-frontier-scale-model-and-supporting-infrastructure_b82b19a7",
+      "sourceKind": "product",
+      "sourceName": "Kimi",
+      "title": "Kimi K3 opens its frontier-scale model and supporting infrastructure",
+      "sourceUrl": "https://www.kimi.com/blog/kimi-k3"
+    },
+    {
+      "id": "content-item_2026-07-28_02_microsoft-prepares-project-perception-for-public-preview-with-a-speciali_bfd85480",
+      "sourceKind": "product",
+      "sourceName": "Microsoft",
+      "title": "Microsoft prepares Project Perception for public preview with a specialised cyber model",
+      "sourceUrl": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/"
+    },
+    {
+      "id": "content-item_2026-07-28_03_openai-finds-chatgpt-users-increasingly-cross-occupational-task-boundari_f143efbf",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI finds ChatGPT users increasingly cross occupational task boundaries",
+      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    },
+    {
+      "id": "content-item_2026-07-28_04_anthropic-expands-its-cognizant-partnership-to-put-claude-inside-industr_be0b73b3",
       "sourceKind": "article",
       "sourceName": "Anthropic",
-      "title": "Anthropic details how it secures an AI-native software lifecycle",
-      "sourceUrl": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle"
+      "title": "Anthropic expands its Cognizant partnership to put Claude inside industry platforms",
+      "sourceUrl": "https://www.anthropic.com/news/cognizant-anthropic"
     },
     {
-      "id": "content-item_2026-07-27_02_ntt-data-says-codex-reduced-a-complex-incident-analysis-from-days-to-30_ce627deb",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "NTT DATA says Codex reduced a complex incident analysis from days to 30 minutes",
-      "sourceUrl": "https://openai.com/index/ntt-data"
-    },
-    {
-      "id": "content-item_2026-07-27_03_a-cost-analysis-challenges-the-claim-that-kimi-k3-is-a-bargain_9ac04077",
-      "sourceKind": "article",
-      "sourceName": "Alex Inch",
-      "title": "A cost analysis challenges the claim that Kimi K3 is a bargain",
-      "sourceUrl": "https://www.alexinch.com/blog/kimi-k3"
-    },
-    {
-      "id": "content-item_2026-07-27_04_forkbench-puts-parallel-coding-agents-on-one-shared-work-board_cd8bb9a3",
-      "sourceKind": "product",
-      "sourceName": "Forkbench",
-      "title": "Forkbench puts parallel coding agents on one shared work board",
-      "sourceUrl": "https://forkbench.com"
-    },
-    {
-      "id": "content-item_2026-07-27_05_modelfuzz-adds-execution-time-guardrails-for-agent-tool-calls_b83032db",
-      "sourceKind": "product",
-      "sourceName": "ModelFuzz",
-      "title": "ModelFuzz adds execution-time guardrails for agent tool calls",
-      "sourceUrl": "https://www.modelfuzz.com/"
-    },
-    {
-      "id": "content-item_2026-07-27_06_termic-runs-major-coding-agent-clis-in-isolated-worktrees_e6bdcc1e",
-      "sourceKind": "product",
-      "sourceName": "Termic",
-      "title": "Termic runs major coding-agent CLIs in isolated worktrees",
-      "sourceUrl": "https://termic.dev/"
-    },
-    {
-      "id": "content-item_2026-07-27_07_a-developer-argues-that-companies-should-ship-agent-ready-apis-before-ai_2e9596cf",
-      "sourceKind": "article",
-      "sourceName": "Will Wang",
-      "title": "A developer argues that companies should ship agent-ready APIs before AI sidebars",
-      "sourceUrl": "https://iamwillwang.com/notes/please-ship-apis-not-ai/"
-    },
-    {
-      "id": "content-item_2026-07-27_08_reports-of-agent-caused-data-loss-point-to-confusion-about-system-state_1b3e67c0",
-      "sourceKind": "article",
-      "sourceName": "Firas D",
-      "title": "Reports of agent-caused data loss point to confusion about system state",
-      "sourceUrl": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion"
-    },
-    {
-      "id": "content-item_2026-07-27_09_pew-finds-more-americans-see-china-ahead-of-the-us-in-ai_b1eacae2",
+      "id": "content-item_2026-07-28_05_perceptionbench-tests-what-multimodal-models-actually-see_77654aaf",
       "sourceKind": "research",
-      "sourceName": "Pew Research Center",
-      "title": "Pew finds more Americans see China ahead of the US in AI",
-      "sourceUrl": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/"
+      "sourceName": "Kimi",
+      "title": "PerceptionBench tests what multimodal models actually see",
+      "sourceUrl": "https://www.kimi.com/blog/perception-bench"
     },
     {
-      "id": "content-item_2026-07-27_10_a-browser-tool-highlights-common-llm-writing-clich-s_845da6df",
-      "sourceKind": "product",
-      "sourceName": "Simon Willison",
-      "title": "A browser tool highlights common LLM writing clichés",
-      "sourceUrl": "https://tools.simonwillison.net/llm-cliche-highlighter"
+      "id": "content-item_2026-07-28_06_ramp-explains-an-online-learning-approach-to-faster-more-reliable-llm-ro_7331b0ca",
+      "sourceKind": "article",
+      "sourceName": "Ramp Builders",
+      "title": "Ramp explains an online-learning approach to faster, more reliable LLM routing",
+      "sourceUrl": "https://builders.ramp.com/post/thompson-sampling-model-routing"
     },
     {
-      "id": "content-item_2026-07-27_11_pingdotgg-t3code-brings-multiple-coding-agents-into-one-minimal-interfac_025f7fa1",
+      "id": "content-item_2026-07-28_07_nvidia-turns-a-surgical-world-model-into-an-interactive-robot-simulator_9101339b",
+      "sourceKind": "research",
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA turns a surgical world model into an interactive robot simulator",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    {
+      "id": "content-item_2026-07-28_08_a-new-paper-examines-ai-s-role-in-the-rise-of-independent-work_d45edf59",
+      "sourceKind": "research",
+      "sourceName": "Mercatus Center",
+      "title": "A new paper examines AI’s role in the rise of independent work",
+      "sourceUrl": "https://www.mercatus.org/research/research-papers/artificial-intelligence-and-rise-independent-work"
+    },
+    {
+      "id": "content-item_2026-07-28_09_jetbrains-tests-whether-compressed-caveman-prompts-really-save-agent-tok_ef2dd2a2",
+      "sourceKind": "article",
+      "sourceName": "JetBrains",
+      "title": "JetBrains tests whether compressed ‘caveman’ prompts really save agent tokens",
+      "sourceUrl": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/"
+    },
+    {
+      "id": "content-item_2026-07-28_10_why-ordinary-software-sandboxes-may-not-contain-software-hacking-agents_f24cf121",
+      "sourceKind": "article",
+      "sourceName": "Verse Systems",
+      "title": "Why ordinary software sandboxes may not contain software-hacking agents",
+      "sourceUrl": "https://verse.systems/blog/post/2026-07-24-dont-use-software-to-contain-software-hacking-agents/"
+    },
+    {
+      "id": "content-item_2026-07-28_11_different-ai-openwork-an-open-desktop-workspace-for-shareable-ai-workflo_a7aeb4c8",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "pingdotgg/t3code brings multiple coding agents into one minimal interface",
-      "sourceUrl": "https://github.com/pingdotgg/t3code"
+      "title": "different-ai/openwork: an open desktop workspace for shareable AI workflows",
+      "sourceUrl": "https://github.com/different-ai/openwork"
     },
     {
-      "id": "content-item_2026-07-27_12_evanzhoudev-openai-oauth-exposes-chatgpt-access-through-developer-interf_af035d0b",
+      "id": "content-item_2026-07-28_12_builderio-agent-native-a-full-stack-framework-for-agent-first-applicatio_4609711d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "EvanZhouDev/openai-oauth exposes ChatGPT access through developer interfaces",
-      "sourceUrl": "https://github.com/EvanZhouDev/openai-oauth"
+      "title": "BuilderIO/agent-native: a full-stack framework for agent-first applications",
+      "sourceUrl": "https://github.com/BuilderIO/agent-native"
     },
     {
-      "id": "content-item_2026-07-27_13_tashfeenahmed-freellmapi-routes-one-api-across-28-model-providers_dc7a66cb",
+      "id": "content-item_2026-07-28_13_rahulnyk-knowledge-graph-turn-unstructured-text-into-a-graph-for-retriev_e143adcf",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "tashfeenahmed/freellmapi routes one API across 28 model providers",
-      "sourceUrl": "https://github.com/tashfeenahmed/freellmapi"
+      "title": "rahulnyk/knowledge_graph: turn unstructured text into a graph for retrieval and Q&A",
+      "sourceUrl": "https://github.com/rahulnyk/knowledge_graph"
     }
   ]
 }

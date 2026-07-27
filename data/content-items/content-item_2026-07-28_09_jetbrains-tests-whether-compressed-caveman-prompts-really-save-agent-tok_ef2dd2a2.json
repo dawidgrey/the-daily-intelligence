@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-28_09_jetbrains-tests-whether-compressed-caveman-prompts-really-save-agent-tok_ef2dd2a2",
+  "sourceKind": "article",
+  "sourceName": "JetBrains",
+  "sourceUrl": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+  "canonicalUrl": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-27T20:04:36Z",
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "title": "JetBrains tests whether compressed ‘caveman’ prompts really save agent tokens",
+  "friendlyTitle": "JetBrains checks if very short prompts really save money",
+  "summary": "JetBrains ran a paired benchmark of a token-compression skill for Claude Code to test both token savings and output quality on agentic tasks. The article distinguishes advertised maximum savings from the results users should expect in ordinary work.",
+  "friendlySummary": "JetBrains tested a tool that makes instructions shorter for coding agents. It measured both token use and the quality of the finished work.",
+  "whyItMatters": "Shorter prompts do not automatically lower total cost if an agent must ask questions, recover context or redo work. Teams should measure complete task cost and success rate before adopting compressed prompting as a blanket rule.",
+  "friendlyWhyItMatters": "A shorter prompt is only useful if the AI still completes the task well. Measure the whole job, including mistakes and retries.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-28"
+  }
+}

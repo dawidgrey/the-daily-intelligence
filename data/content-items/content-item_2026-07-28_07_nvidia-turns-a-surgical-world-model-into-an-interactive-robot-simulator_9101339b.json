@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-28_07_nvidia-turns-a-surgical-world-model-into-an-interactive-robot-simulator_9101339b",
+  "sourceKind": "research",
+  "sourceName": "NVIDIA on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-27T20:04:36Z",
+  "createdAtUtc": "2026-07-27T20:04:36Z",
+  "updatedAtUtc": "2026-07-27T20:04:36Z",
+  "title": "NVIDIA turns a surgical world model into an interactive robot simulator",
+  "friendlyTitle": "NVIDIA builds a live simulator for surgical robots",
+  "summary": "NVIDIA presents Cosmos-H-Dreams, a generative simulation approach designed to turn surgical video and robot actions into an interactive training environment. The work connects a learned surgical world model with real-time simulation for robot-policy development.",
+  "friendlySummary": "The system uses an AI world model to create an interactive practice environment for surgical robots.",
+  "whyItMatters": "Real surgical data is expensive, sensitive and difficult to collect at scale. Useful simulation could let robotics teams test and train more safely before real-world trials, although clinical validation remains essential and synthetic environments can carry their own gaps.",
+  "friendlyWhyItMatters": "Robots may be able to practise more before working in the real world. The results still need careful medical testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-28"
+  }
+}
