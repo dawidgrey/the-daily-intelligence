@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_09_a-dairy-farm-shows-how-local-agents-can-unite-scattered-business-data_25d2cdbe",
+  "sourceKind": "article",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "A dairy farm shows how local agents can unite scattered business data",
+  "friendlyTitle": "A farmer uses local AI agents to prepare a daily business report",
+  "summary": "A Michigan dairy farmer built a local multi-agent workflow with Gemini 3.6 Flash to combine sensor exports, feed logs, invoices and weather data into a daily operating briefing. The system uses monitored folders and specialised ingestion, analysis and reporting agents rather than direct integrations with every source system.",
+  "friendlySummary": "The system brings together farm files, sensor data and receipts, then explains what changed in costs and performance each day.",
+  "whyItMatters": "The pattern applies well beyond farming: small businesses can begin with controlled file exports and one meaningful operating metric instead of an expensive integration programme. Keeping the workflow local also gives the operator clearer control over sensitive business data.",
+  "friendlyWhyItMatters": "Small businesses can copy the simple pattern: collect trusted files, choose one useful measure and let separate agents prepare a report.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

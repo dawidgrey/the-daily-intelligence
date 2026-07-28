@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-29",
+  "slug": "2026-07-29",
+  "status": "published",
+  "publicationDateUtc": "2026-07-28T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from impressive demos to controlled daily work",
+  "friendlyHeader": "AI agents are becoming more useful in everyday work",
+  "summary": "Today’s issue is about making AI useful under real constraints: coding agents in science, managed workers with budgets and safety hooks, local models that run on CPUs, and workflows reaching farms, nonprofits and wearable meeting notes. Security remains part of the operating model, with new cryptography results and a patched desktop-app flaw showing both sides of agent capability.",
+  "friendlySummary": "Today we look at AI agents helping scientists, farmers and nonprofit teams. We also cover cheaper local models, safer agent controls, meeting notes on Apple Watch, and important security lessons. Three popular GitHub projects offer practical ways to learn and build.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-29_01_claude-finds-new-weaknesses-in-two-cryptographic-research-targets_df6c1655",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_02_coding-agents-help-scientific-teams-modernise-fragile-research-software_df22037e",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_03_gemini-managed-agents-add-safety-hooks-schedules-and-spending-limits_be3ca537",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_04_granola-brings-one-tap-ai-meeting-notes-to-apple-watch_eae7f709",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_05_an-ai-security-agent-found-a-one-click-granola-account-takeover-now-patc_441edd02",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_06_liquid-ai-releases-small-long-context-encoders-designed-for-cpus_85dd0269",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_07_olmoearth-turns-satellite-foundation-models-into-continent-scale-maps_92e86660",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_08_oxide-joins-anthropic-s-project-glasswing-to-test-critical-infrastructur_2d5428b3",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_09_a-dairy-farm-shows-how-local-agents-can-unite-scattered-business-data_25d2cdbe",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_10_google-offers-nonprofits-free-ai-courses-and-individual-coaching_ae9750a8",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_11_virgiliojr94-book-to-skill-turn-a-technical-pdf-into-a-reusable-agent-sk_a58fde93",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_12_vudovn-ag-kit-a-structured-workspace-for-google-antigravity-agents_f28611d5",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-29_13_anthropics-prompt-eng-interactive-tutorial-practise-clearer-instructions_7592adc7",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-29.json",
+    "itemCount": 13
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-27T20:04:37Z",
+  "generatedAtUtc": "2026-07-28T20:05:38Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-29",
+      "slug": "2026-07-29",
+      "status": "published",
+      "publicationDateUtc": "2026-07-28T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from impressive demos to controlled daily work",
+      "friendlyHeader": "AI agents are becoming more useful in everyday work",
+      "summary": "Today’s issue is about making AI useful under real constraints: coding agents in science, managed workers with budgets and safety hooks, local models that run on CPUs, and workflows reaching farms, nonprofits and wearable meeting notes. Security remains part of the operating model, with new cryptography results and a patched desktop-app flaw showing both sides of agent capability.",
+      "friendlySummary": "Today we look at AI agents helping scientists, farmers and nonprofit teams. We also cover cheaper local models, safer agent controls, meeting notes on Apple Watch, and important security lessons. Three popular GitHub projects offer practical ways to learn and build.",
+      "itemCount": 13,
+      "href": "issues/2026-07-29.html",
+      "dataUrl": "data/daily-publications/2026-07-29.json"
+    },
     {
       "id": "daily-publication_2026-07-28",
       "slug": "2026-07-28",

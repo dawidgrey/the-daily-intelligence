@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_02_coding-agents-help-scientific-teams-modernise-fragile-research-software_df22037e",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+  "canonicalUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "Coding agents help scientific teams modernise fragile research software",
+  "friendlyTitle": "Coding agents are helping scientists repair old software",
+  "summary": "An OpenAI field report covers eight scientific-computing projects that used Codex, or Codex with Claude Code, for maintenance, optimisation, migrations and redesigns. Teams reported faster engineering work, while scientific validity, edge cases and long-term stewardship remained human responsibilities.",
+  "friendlySummary": "Eight science projects used coding agents to update, speed up or rebuild research tools. The agents worked quickly, but people still had to check the science and difficult details.",
+  "whyItMatters": "Researchers can use coding agents to tackle maintenance that would otherwise delay experiments, but speed moves the bottleneck to verification. Measurable acceptance tests, staged changes and a clear maintainer are more important than generating a quick rewrite.",
+  "friendlyWhyItMatters": "Scientists may spend less time fixing code and more time on research. Good tests and a person responsible for the software are still essential.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

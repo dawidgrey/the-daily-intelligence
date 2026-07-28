@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_11_virgiliojr94-book-to-skill-turn-a-technical-pdf-into-a-reusable-agent-sk_a58fde93",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/virgiliojr94/book-to-skill",
+  "canonicalUrl": "https://github.com/virgiliojr94/book-to-skill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "virgiliojr94/book-to-skill: turn a technical PDF into a reusable agent skill",
+  "friendlyTitle": "Book to Skill turns a technical PDF into an agent reference",
+  "summary": "Book to Skill is an MIT-licensed converter that structures a technical-book PDF as a searchable skill for Claude Code, including extracted knowledge, references and study material. It is one of today’s fastest-rising AI repositories, with more than 11,000 stars.",
+  "friendlySummary": "The tool changes a technical book PDF into organised files that Claude Code can search and use while helping you.",
+  "whyItMatters": "Use it to make a legitimately owned technical reference easier for an agent to consult during work or study. Review the generated material for extraction errors, and remember that the project’s MIT licence does not grant rights to the books being processed.",
+  "friendlyWhyItMatters": "It can make your own study material easier to use with an agent. Check the result and only process books you have the right to use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

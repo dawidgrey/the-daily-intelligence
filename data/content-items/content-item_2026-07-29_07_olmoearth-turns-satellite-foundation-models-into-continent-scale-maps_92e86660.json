@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_07_olmoearth-turns-satellite-foundation-models-into-continent-scale-maps_92e86660",
+  "sourceKind": "research",
+  "sourceName": "Ai2 on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "OlmoEarth turns satellite foundation models into continent-scale maps",
+  "friendlyTitle": "OlmoEarth helps turn satellite data into large AI maps",
+  "summary": "Ai2 has detailed the OlmoEarth Platform, which handles satellite-data preparation, model adaptation and large-scale geospatial inference for uses such as wildfire risk, food security and deforestation monitoring. A recent North America run used distributed CPU and GPU stages to reduce thousands of serial compute hours to roughly 30.5 hours.",
+  "friendlySummary": "Ai2 built a platform that prepares satellite images, runs Earth-observation AI and joins the results into maps across very large areas.",
+  "whyItMatters": "Open Earth-observation models are difficult to use without pipelines for imagery, projections, failures and map assembly. Packaging that infrastructure can give environmental and public-interest teams access to useful regional analysis without requiring them to become cloud-computing specialists.",
+  "friendlyWhyItMatters": "Teams can study wildfire risk, forests or food security without building every part of a huge data system themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

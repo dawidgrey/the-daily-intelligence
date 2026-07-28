@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-27T20:04:37Z",
+  "generatedAtUtc": "2026-07-28T20:05:37Z",
   "items": [
     {
-      "id": "content-item_2026-07-28_01_kimi-k3-opens-its-frontier-scale-model-and-supporting-infrastructure_b82b19a7",
-      "sourceKind": "product",
-      "sourceName": "Kimi",
-      "title": "Kimi K3 opens its frontier-scale model and supporting infrastructure",
-      "sourceUrl": "https://www.kimi.com/blog/kimi-k3"
+      "id": "content-item_2026-07-29_01_claude-finds-new-weaknesses-in-two-cryptographic-research-targets_df6c1655",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Claude finds new weaknesses in two cryptographic research targets",
+      "sourceUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
     },
     {
-      "id": "content-item_2026-07-28_02_microsoft-prepares-project-perception-for-public-preview-with-a-speciali_bfd85480",
-      "sourceKind": "product",
-      "sourceName": "Microsoft",
-      "title": "Microsoft prepares Project Perception for public preview with a specialised cyber model",
-      "sourceUrl": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/"
-    },
-    {
-      "id": "content-item_2026-07-28_03_openai-finds-chatgpt-users-increasingly-cross-occupational-task-boundari_f143efbf",
+      "id": "content-item_2026-07-29_02_coding-agents-help-scientific-teams-modernise-fragile-research-software_df22037e",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "OpenAI finds ChatGPT users increasingly cross occupational task boundaries",
-      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+      "title": "Coding agents help scientific teams modernise fragile research software",
+      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai"
     },
     {
-      "id": "content-item_2026-07-28_04_anthropic-expands-its-cognizant-partnership-to-put-claude-inside-industr_be0b73b3",
-      "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic expands its Cognizant partnership to put Claude inside industry platforms",
-      "sourceUrl": "https://www.anthropic.com/news/cognizant-anthropic"
+      "id": "content-item_2026-07-29_03_gemini-managed-agents-add-safety-hooks-schedules-and-spending-limits_be3ca537",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Gemini managed agents add safety hooks, schedules and spending limits",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
     },
     {
-      "id": "content-item_2026-07-28_05_perceptionbench-tests-what-multimodal-models-actually-see_77654aaf",
+      "id": "content-item_2026-07-29_04_granola-brings-one-tap-ai-meeting-notes-to-apple-watch_eae7f709",
+      "sourceKind": "product",
+      "sourceName": "Granola",
+      "title": "Granola brings one-tap AI meeting notes to Apple Watch",
+      "sourceUrl": "https://www.granola.ai/blog/granola-for-apple-watch"
+    },
+    {
+      "id": "content-item_2026-07-29_05_an-ai-security-agent-found-a-one-click-granola-account-takeover-now-patc_441edd02",
       "sourceKind": "research",
-      "sourceName": "Kimi",
-      "title": "PerceptionBench tests what multimodal models actually see",
-      "sourceUrl": "https://www.kimi.com/blog/perception-bench"
+      "sourceName": "Strix",
+      "title": "An AI security agent found a one-click Granola account takeover, now patched",
+      "sourceUrl": "https://www.strix.ai/blog/granola"
     },
     {
-      "id": "content-item_2026-07-28_06_ramp-explains-an-online-learning-approach-to-faster-more-reliable-llm-ro_7331b0ca",
-      "sourceKind": "article",
-      "sourceName": "Ramp Builders",
-      "title": "Ramp explains an online-learning approach to faster, more reliable LLM routing",
-      "sourceUrl": "https://builders.ramp.com/post/thompson-sampling-model-routing"
+      "id": "content-item_2026-07-29_06_liquid-ai-releases-small-long-context-encoders-designed-for-cpus_85dd0269",
+      "sourceKind": "product",
+      "sourceName": "Liquid AI on Hugging Face",
+      "title": "Liquid AI releases small long-context encoders designed for CPUs",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
     },
     {
-      "id": "content-item_2026-07-28_07_nvidia-turns-a-surgical-world-model-into-an-interactive-robot-simulator_9101339b",
+      "id": "content-item_2026-07-29_07_olmoearth-turns-satellite-foundation-models-into-continent-scale-maps_92e86660",
       "sourceKind": "research",
-      "sourceName": "NVIDIA on Hugging Face",
-      "title": "NVIDIA turns a surgical world model into an interactive robot simulator",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+      "sourceName": "Ai2 on Hugging Face",
+      "title": "OlmoEarth turns satellite foundation models into continent-scale maps",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
     },
     {
-      "id": "content-item_2026-07-28_08_a-new-paper-examines-ai-s-role-in-the-rise-of-independent-work_d45edf59",
-      "sourceKind": "research",
-      "sourceName": "Mercatus Center",
-      "title": "A new paper examines AI’s role in the rise of independent work",
-      "sourceUrl": "https://www.mercatus.org/research/research-papers/artificial-intelligence-and-rise-independent-work"
-    },
-    {
-      "id": "content-item_2026-07-28_09_jetbrains-tests-whether-compressed-caveman-prompts-really-save-agent-tok_ef2dd2a2",
+      "id": "content-item_2026-07-29_08_oxide-joins-anthropic-s-project-glasswing-to-test-critical-infrastructur_2d5428b3",
       "sourceKind": "article",
-      "sourceName": "JetBrains",
-      "title": "JetBrains tests whether compressed ‘caveman’ prompts really save agent tokens",
-      "sourceUrl": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/"
+      "sourceName": "Oxide Computer Company",
+      "title": "Oxide joins Anthropic’s Project Glasswing to test critical infrastructure code",
+      "sourceUrl": "https://oxide.computer/blog/oxide-anthropic-project-glasswing"
     },
     {
-      "id": "content-item_2026-07-28_10_why-ordinary-software-sandboxes-may-not-contain-software-hacking-agents_f24cf121",
+      "id": "content-item_2026-07-29_09_a-dairy-farm-shows-how-local-agents-can-unite-scattered-business-data_25d2cdbe",
       "sourceKind": "article",
-      "sourceName": "Verse Systems",
-      "title": "Why ordinary software sandboxes may not contain software-hacking agents",
-      "sourceUrl": "https://verse.systems/blog/post/2026-07-24-dont-use-software-to-contain-software-hacking-agents/"
+      "sourceName": "Google",
+      "title": "A dairy farm shows how local agents can unite scattered business data",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
     },
     {
-      "id": "content-item_2026-07-28_11_different-ai-openwork-an-open-desktop-workspace-for-shareable-ai-workflo_a7aeb4c8",
+      "id": "content-item_2026-07-29_10_google-offers-nonprofits-free-ai-courses-and-individual-coaching_ae9750a8",
+      "sourceKind": "product",
+      "sourceName": "Google.org",
+      "title": "Google offers nonprofits free AI courses and individual coaching",
+      "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
+    },
+    {
+      "id": "content-item_2026-07-29_11_virgiliojr94-book-to-skill-turn-a-technical-pdf-into-a-reusable-agent-sk_a58fde93",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "different-ai/openwork: an open desktop workspace for shareable AI workflows",
-      "sourceUrl": "https://github.com/different-ai/openwork"
+      "title": "virgiliojr94/book-to-skill: turn a technical PDF into a reusable agent skill",
+      "sourceUrl": "https://github.com/virgiliojr94/book-to-skill"
     },
     {
-      "id": "content-item_2026-07-28_12_builderio-agent-native-a-full-stack-framework-for-agent-first-applicatio_4609711d",
+      "id": "content-item_2026-07-29_12_vudovn-ag-kit-a-structured-workspace-for-google-antigravity-agents_f28611d5",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "BuilderIO/agent-native: a full-stack framework for agent-first applications",
-      "sourceUrl": "https://github.com/BuilderIO/agent-native"
+      "title": "vudovn/ag-kit: a structured workspace for Google Antigravity agents",
+      "sourceUrl": "https://github.com/vudovn/ag-kit"
     },
     {
-      "id": "content-item_2026-07-28_13_rahulnyk-knowledge-graph-turn-unstructured-text-into-a-graph-for-retriev_e143adcf",
+      "id": "content-item_2026-07-29_13_anthropics-prompt-eng-interactive-tutorial-practise-clearer-instructions_7592adc7",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "rahulnyk/knowledge_graph: turn unstructured text into a graph for retrieval and Q&A",
-      "sourceUrl": "https://github.com/rahulnyk/knowledge_graph"
+      "title": "anthropics/prompt-eng-interactive-tutorial: practise clearer instructions for Claude",
+      "sourceUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     }
   ]
 }

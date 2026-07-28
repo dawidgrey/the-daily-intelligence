@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_01_claude-finds-new-weaknesses-in-two-cryptographic-research-targets_df6c1655",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+  "canonicalUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "Claude finds new weaknesses in two cryptographic research targets",
+  "friendlyTitle": "Claude helped find weaknesses in two test encryption systems",
+  "summary": "Anthropic says Claude Mythos Preview helped improve an attack on HAWK, a candidate post-quantum signature scheme, and found a faster attack on a reduced-round version of AES. The company stresses that neither result breaks deployed production systems, and it released papers, demonstration code and a new cryptanalysis benchmark.",
+  "friendlySummary": "Anthropic used Claude to improve attacks on a future encryption candidate and a weaker research version of AES. The findings do not break the encryption used in today’s production systems.",
+  "whyItMatters": "The work shows that advanced agents can contribute to specialised mathematical security research, but also that costly autonomous searches produce many failed attempts alongside successes. Cryptography teams may gain a powerful testing tool, provided findings are independently verified and disclosed responsibly.",
+  "friendlyWhyItMatters": "AI may help experts test important security methods faster. Human specialists still need to check every result carefully.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

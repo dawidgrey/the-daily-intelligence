@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_13_anthropics-prompt-eng-interactive-tutorial-practise-clearer-instructions_7592adc7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+  "canonicalUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "anthropics/prompt-eng-interactive-tutorial: practise clearer instructions for Claude",
+  "friendlyTitle": "Anthropic’s free course teaches better prompts through practice",
+  "summary": "Anthropic’s interactive prompt-engineering course has returned to GitHub’s trending list, with more than 37,000 stars. Its nine chapters and exercises cover clear instructions, examples, output formats, hallucination reduction, tool use and retrieval.",
+  "friendlySummary": "The course has nine lessons and exercises about clear instructions, examples, output formats, mistakes, tools and search.",
+  "whyItMatters": "Work through the exercises to build a repeatable habit of specifying goals, separating instructions from data and testing outputs. Some examples reference older Claude models, but the core practices remain useful across modern assistants.",
+  "friendlyWhyItMatters": "Use it to practise giving AI clearer tasks and checking the results. Some model names are old, but the main lessons still help.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_05_an-ai-security-agent-found-a-one-click-granola-account-takeover-now-patc_441edd02",
+  "sourceKind": "research",
+  "sourceName": "Strix",
+  "sourceUrl": "https://www.strix.ai/blog/granola",
+  "canonicalUrl": "https://www.strix.ai/blog/granola",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "An AI security agent found a one-click Granola account takeover, now patched",
+  "friendlyTitle": "Granola fixed a serious link security problem",
+  "summary": "Strix reports that its autonomous security system found a chain in Granola’s Electron desktop app that could let a malicious notification link inherit a privileged application bridge and take over an account. Granola shipped server-side and follow-up fixes in June, and both companies report no evidence of exploitation.",
+  "friendlySummary": "Strix’s AI security agents found that one bad link could have taken over a Granola account through its desktop app. Granola fixed the issue and found no sign that attackers used it.",
+  "whyItMatters": "Desktop AI apps often combine web content with access to local files, sessions and device features, making navigation boundaries especially important. The disclosure offers a concrete checklist: block untrusted navigation, narrow IPC interfaces and keep encryption keys outside the renderer.",
+  "friendlyWhyItMatters": "AI desktop apps can reach sensitive local information. App makers should strictly limit which web pages and commands receive that access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

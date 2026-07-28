@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_08_oxide-joins-anthropic-s-project-glasswing-to-test-critical-infrastructur_2d5428b3",
+  "sourceKind": "article",
+  "sourceName": "Oxide Computer Company",
+  "sourceUrl": "https://oxide.computer/blog/oxide-anthropic-project-glasswing",
+  "canonicalUrl": "https://oxide.computer/blog/oxide-anthropic-project-glasswing",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "Oxide joins Anthropic’s Project Glasswing to test critical infrastructure code",
+  "friendlyTitle": "Oxide will use Claude to test its infrastructure software",
+  "summary": "Oxide says it is joining Anthropic’s Project Glasswing and will apply Claude Mythos 5 across its open-source infrastructure stack, including firmware, operating-system, control-plane and network code. The company says it intends to identify and patch vulnerabilities while sharing security work openly.",
+  "friendlySummary": "Oxide plans to use Claude Mythos 5 to look for security problems across firmware, operating systems and networking code.",
+  "whyItMatters": "This is a practical test of advanced security agents across code that spans hardware and software boundaries, rather than a narrow benchmark. Open code and published fixes can make the claimed benefits easier for customers and researchers to inspect.",
+  "friendlyWhyItMatters": "This may help find difficult bugs in important systems. Open code and public fixes make it easier for others to check the work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

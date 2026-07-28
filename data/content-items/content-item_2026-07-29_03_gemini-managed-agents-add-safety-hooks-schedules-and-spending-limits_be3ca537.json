@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_03_gemini-managed-agents-add-safety-hooks-schedules-and-spending-limits_be3ca537",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "Gemini managed agents add safety hooks, schedules and spending limits",
+  "friendlyTitle": "Google adds more controls for Gemini agents",
+  "summary": "Google’s Managed Agents in the Gemini API now default to Gemini 3.6 Flash and add environment hooks that can block, inspect or audit tool calls inside a sandbox. The update also introduces model selection, budget controls, scheduled triggers, environment management and free-tier access.",
+  "friendlySummary": "Gemini’s managed agents can now run safety checks before and after tool use, follow a budget, work on a schedule and use different models.",
+  "whyItMatters": "The useful shift is from an agent that can act to one that can be bounded and observed. Developers can place policy checks around file writes and code execution, cap runaway jobs and schedule routine work without building the whole control plane themselves.",
+  "friendlyWhyItMatters": "These controls can make automated work safer and easier to manage. Teams should still test their rules and watch important jobs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}

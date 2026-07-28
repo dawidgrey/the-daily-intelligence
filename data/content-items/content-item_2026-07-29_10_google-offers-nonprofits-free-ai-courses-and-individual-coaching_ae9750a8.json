@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-29_10_google-offers-nonprofits-free-ai-courses-and-individual-coaching_ae9750a8",
+  "sourceKind": "product",
+  "sourceName": "Google.org",
+  "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
+  "canonicalUrl": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-28T20:05:37Z",
+  "createdAtUtc": "2026-07-28T20:05:37Z",
+  "updatedAtUtc": "2026-07-28T20:05:37Z",
+  "title": "Google offers nonprofits free AI courses and individual coaching",
+  "friendlyTitle": "Nonprofits can get free AI training and help from Google",
+  "summary": "Google.org has launched three free, nonprofit-specific online courses covering everyday AI use, fundraising, creativity and workflows. Eligible Google for Nonprofits organisations can also book no-cost one-to-one product coaching, alongside a new survey of AI adoption across more than 6,000 organisations.",
+  "friendlySummary": "Google offers three free online AI courses for nonprofits, plus one-to-one coaching for eligible organisations.",
+  "whyItMatters": "Training and implementation support are often bigger barriers than access to a chatbot. Nonprofit teams can use the resources to test administrative workflows without spending programme funds, while setting review and privacy rules before wider adoption.",
+  "friendlyWhyItMatters": "Small nonprofit teams can learn practical ways to save time without paying for training. They should set privacy and checking rules before using AI widely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-29"
+  }
+}
