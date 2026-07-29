@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-28T20:05:37Z",
+  "generatedAtUtc": "2026-07-29T20:05:24Z",
   "items": [
     {
-      "id": "content-item_2026-07-29_01_claude-finds-new-weaknesses-in-two-cryptographic-research-targets_df6c1655",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Claude finds new weaknesses in two cryptographic research targets",
-      "sourceUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+      "id": "content-item_2026-07-30_01_posthog-offers-a-practical-test-for-how-much-work-to-delegate-to-agents_5c3c4b50",
+      "sourceKind": "article",
+      "sourceName": "PostHog",
+      "title": "PostHog offers a practical test for how much work to delegate to agents",
+      "sourceUrl": "https://newsletter.posthog.com/p/agent-autonomy"
     },
     {
-      "id": "content-item_2026-07-29_02_coding-agents-help-scientific-teams-modernise-fragile-research-software_df22037e",
+      "id": "content-item_2026-07-30_02_openai-offers-100-000-academic-researchers-free-access-to-frontier-model_14fd05ad",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI offers 100,000 academic researchers free access to frontier models",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers"
+    },
+    {
+      "id": "content-item_2026-07-30_03_gpt-5-6-engineering-points-to-cheaper-inference-and-leaner-agent-context_6d964f10",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "Coding agents help scientific teams modernise fragile research software",
-      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai"
+      "title": "GPT-5.6 engineering points to cheaper inference and leaner agent context",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
     },
     {
-      "id": "content-item_2026-07-29_03_gemini-managed-agents-add-safety-hooks-schedules-and-spending-limits_be3ca537",
+      "id": "content-item_2026-07-30_04_google-launches-lyria-3-5-with-more-control-over-generated-music_3cd190f7",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Gemini managed agents add safety hooks, schedules and spending limits",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      "title": "Google launches Lyria 3.5 with more control over generated music",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/"
     },
     {
-      "id": "content-item_2026-07-29_04_granola-brings-one-tap-ai-meeting-notes-to-apple-watch_eae7f709",
+      "id": "content-item_2026-07-30_05_pangram-4-targets-mixed-human-and-ai-writing-with-a-higher-api-price_5f95e1dc",
       "sourceKind": "product",
-      "sourceName": "Granola",
-      "title": "Granola brings one-tap AI meeting notes to Apple Watch",
-      "sourceUrl": "https://www.granola.ai/blog/granola-for-apple-watch"
+      "sourceName": "Pangram Labs",
+      "title": "Pangram 4 targets mixed human-and-AI writing, with a higher API price",
+      "sourceUrl": "https://www.pangram.com/blog/introducing-pangram-4"
     },
     {
-      "id": "content-item_2026-07-29_05_an-ai-security-agent-found-a-one-click-granola-account-takeover-now-patc_441edd02",
+      "id": "content-item_2026-07-30_06_perplexity-open-sources-numbat-to-monitor-and-block-risky-agent-actions_2df4202e",
+      "sourceKind": "product",
+      "sourceName": "Perplexity Research",
+      "title": "Perplexity open-sources Numbat to monitor and block risky agent actions",
+      "sourceUrl": "https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat"
+    },
+    {
+      "id": "content-item_2026-07-30_07_nanoclaw-adds-an-opt-in-hardened-runtime-for-open-source-agents_e20bda56",
+      "sourceKind": "product",
+      "sourceName": "NanoClaw",
+      "title": "NanoClaw adds an opt-in hardened runtime for open-source agents",
+      "sourceUrl": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/"
+    },
+    {
+      "id": "content-item_2026-07-30_08_asari-s-self-improving-agents-optimise-the-full-llm-serving-stack_a2bf077a",
       "sourceKind": "research",
-      "sourceName": "Strix",
-      "title": "An AI security agent found a one-click Granola account takeover, now patched",
-      "sourceUrl": "https://www.strix.ai/blog/granola"
+      "sourceName": "Asari AI",
+      "title": "Asari’s self-improving agents optimise the full LLM serving stack",
+      "sourceUrl": "https://asari.ai/blog/inference-optimization"
     },
     {
-      "id": "content-item_2026-07-29_06_liquid-ai-releases-small-long-context-encoders-designed-for-cpus_85dd0269",
+      "id": "content-item_2026-07-30_09_engy-offers-cryptographic-proof-that-an-api-served-the-requested-open-mo_e35207da",
       "sourceKind": "product",
-      "sourceName": "Liquid AI on Hugging Face",
-      "title": "Liquid AI releases small long-context encoders designed for CPUs",
-      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+      "sourceName": "Engy",
+      "title": "Engy offers cryptographic proof that an API served the requested open model",
+      "sourceUrl": "https://engy.ai/"
     },
     {
-      "id": "content-item_2026-07-29_07_olmoearth-turns-satellite-foundation-models-into-continent-scale-maps_92e86660",
-      "sourceKind": "research",
-      "sourceName": "Ai2 on Hugging Face",
-      "title": "OlmoEarth turns satellite foundation models into continent-scale maps",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
-    },
-    {
-      "id": "content-item_2026-07-29_08_oxide-joins-anthropic-s-project-glasswing-to-test-critical-infrastructur_2d5428b3",
+      "id": "content-item_2026-07-30_10_new-york-school-pauses-an-ai-robot-teacher-plan-after-community-concern_13ac22e1",
       "sourceKind": "article",
-      "sourceName": "Oxide Computer Company",
-      "title": "Oxide joins Anthropic’s Project Glasswing to test critical infrastructure code",
-      "sourceUrl": "https://oxide.computer/blog/oxide-anthropic-project-glasswing"
+      "sourceName": "Associated Press",
+      "title": "New York school pauses an AI robot teacher plan after community concern",
+      "sourceUrl": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df"
     },
     {
-      "id": "content-item_2026-07-29_09_a-dairy-farm-shows-how-local-agents-can-unite-scattered-business-data_25d2cdbe",
-      "sourceKind": "article",
-      "sourceName": "Google",
-      "title": "A dairy farm shows how local agents can unite scattered business data",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
-    },
-    {
-      "id": "content-item_2026-07-29_10_google-offers-nonprofits-free-ai-courses-and-individual-coaching_ae9750a8",
-      "sourceKind": "product",
-      "sourceName": "Google.org",
-      "title": "Google offers nonprofits free AI courses and individual coaching",
-      "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
-    },
-    {
-      "id": "content-item_2026-07-29_11_virgiliojr94-book-to-skill-turn-a-technical-pdf-into-a-reusable-agent-sk_a58fde93",
+      "id": "content-item_2026-07-30_11_microsoft-vibevoice-an-open-voice-ai-toolkit-for-speech-and-conversation_b9901cf0",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "virgiliojr94/book-to-skill: turn a technical PDF into a reusable agent skill",
-      "sourceUrl": "https://github.com/virgiliojr94/book-to-skill"
+      "title": "microsoft/VibeVoice: an open voice-AI toolkit for speech and conversation",
+      "sourceUrl": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "id": "content-item_2026-07-29_12_vudovn-ag-kit-a-structured-workspace-for-google-antigravity-agents_f28611d5",
+      "id": "content-item_2026-07-30_12_deepfakes-faceswap-a-mature-open-toolkit-for-face-swapping-research_c92ac56e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "vudovn/ag-kit: a structured workspace for Google Antigravity agents",
-      "sourceUrl": "https://github.com/vudovn/ag-kit"
+      "title": "deepfakes/faceswap: a mature open toolkit for face-swapping research",
+      "sourceUrl": "https://github.com/deepfakes/faceswap"
     },
     {
-      "id": "content-item_2026-07-29_13_anthropics-prompt-eng-interactive-tutorial-practise-clearer-instructions_7592adc7",
+      "id": "content-item_2026-07-30_13_sgl-project-sglang-high-performance-serving-for-language-and-multimodal_fe05b7b4",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "anthropics/prompt-eng-interactive-tutorial: practise clearer instructions for Claude",
-      "sourceUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+      "title": "sgl-project/sglang: high-performance serving for language and multimodal models",
+      "sourceUrl": "https://github.com/sgl-project/sglang"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_12_deepfakes-faceswap-a-mature-open-toolkit-for-face-swapping-research_c92ac56e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/deepfakes/faceswap",
+  "canonicalUrl": "https://github.com/deepfakes/faceswap",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "deepfakes/faceswap: a mature open toolkit for face-swapping research",
+  "friendlyTitle": "Faceswap is a popular open project for face-swap research",
+  "summary": "Faceswap is a long-running deep-learning project for training and creating face swaps, with more than 56,000 stars and renewed activity on GitHub Trending. Its Python codebase, installers and training workflow are released under GPL-3.0.",
+  "friendlySummary": "This established project provides tools for learning how AI face swaps are trained and made.",
+  "whyItMatters": "The repository can support legitimate visual-effects, education and synthetic-media research when all participants consent. Because the same capability enables impersonation and abuse, users should watermark or disclose outputs, protect identity data and never use someone’s likeness without permission.",
+  "friendlyWhyItMatters": "Only use faces with clear permission and label synthetic media. It can help with research and effects, but it can also cause serious harm through impersonation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

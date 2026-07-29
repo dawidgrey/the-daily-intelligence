@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_04_google-launches-lyria-3-5-with-more-control-over-generated-music_3cd190f7",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "Google launches Lyria 3.5 with more control over generated music",
+  "friendlyTitle": "Google’s new music AI gives creators more control",
+  "summary": "Google has released Lyria 3.5 in Flow Music, promising stronger musical structure, lyrics, pronunciation and expressive vocals. Users can also control tempo and duration more directly while editing individual parts of a generated track.",
+  "friendlySummary": "Lyria 3.5 can make songs with improved music, words and singing. Flow Music users can control timing and change parts of a track more easily.",
+  "whyItMatters": "Music generation is shifting from one-shot prompting toward an editable creative workflow. More precise controls can help musicians and content teams iterate on a specific section instead of regenerating an entire piece, though licensing and disclosure still need attention.",
+  "friendlyWhyItMatters": "Creators can fix one part instead of starting the whole song again. They should still check the rules for using and sharing generated music.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_03_gpt-5-6-engineering-points-to-cheaper-inference-and-leaner-agent-context_6d964f10",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "canonicalUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "GPT-5.6 engineering points to cheaper inference and leaner agent context",
+  "friendlyTitle": "OpenAI explains how it made GPT-5.6 cheaper and more efficient",
+  "summary": "OpenAI has detailed optimisations across model training, routing, GPU kernels, speculative decoding, caching and its agent harness. It reports that GPT-5.6-assisted kernel work reduced end-to-end serving costs by 20%, while improvements to its draft model raised token-generation efficiency by more than 15%.",
+  "friendlySummary": "OpenAI improved many parts of the system, including how work reaches GPUs, how tokens are predicted and how agents manage growing context. It says some changes cut important serving costs and raised output efficiency.",
+  "whyItMatters": "Serving cost and context bloat increasingly determine whether agent workflows are economical at scale. The techniques reinforce a practical lesson for builders: optimise the full system, measure correctness and reuse context rather than focusing only on model benchmark scores.",
+  "friendlyWhyItMatters": "More efficient systems can make AI faster and cheaper. Builders should measure the whole workflow and make sure speed changes do not harm quality.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

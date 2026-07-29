@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_07_nanoclaw-adds-an-opt-in-hardened-runtime-for-open-source-agents_e20bda56",
+  "sourceKind": "product",
+  "sourceName": "NanoClaw",
+  "sourceUrl": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+  "canonicalUrl": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "NanoClaw adds an opt-in hardened runtime for open-source agents",
+  "friendlyTitle": "NanoClaw makes the software inside its agent sandbox safer",
+  "summary": "NanoClaw and Echo have released a free, opt-in runtime that rebuilds and patches the browser, libraries and command-line tools inside an agent sandbox. The companies say this cuts known vulnerabilities from thousands to near zero while retaining a locally built, unauthenticated alternative.",
+  "friendlySummary": "A new optional runtime removes unnecessary software and patches the browser and tools used by NanoClaw agents. The normal local setup is still available.",
+  "whyItMatters": "A sandbox limits damage but does not fix vulnerable software inside it. People operating agents that browse untrusted pages or open files should treat the runtime like an employee laptop: minimise components, patch continuously and keep credentials behind policy controls.",
+  "friendlyWhyItMatters": "Agent sandboxes also need updates and security fixes. This can reduce known weak points, but users should still limit access and protect credentials.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

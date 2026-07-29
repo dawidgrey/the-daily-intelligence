@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-30",
+  "slug": "2026-07-30",
+  "status": "published",
+  "publicationDateUtc": "2026-07-29T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets faster, more autonomous — and more accountable",
+  "friendlyHeader": "AI is doing more work, so better checks matter",
+  "summary": "Today’s issue follows AI from the model-serving stack into daily work: agents are learning to optimise infrastructure, researchers are receiving broader access, and music tools are becoming more editable. The counterweight is accountability, with new controls for agent autonomy, endpoint monitoring, content provenance and a school deployment paused for consultation.",
+  "friendlySummary": "Today we look at faster AI systems, safer agents, free AI access for researchers and better music tools. We also cover ways to check AI content and a school that paused a robot teacher plan. Three popular GitHub projects help with voice, media and running AI models.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-30_01_posthog-offers-a-practical-test-for-how-much-work-to-delegate-to-agents_5c3c4b50",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_02_openai-offers-100-000-academic-researchers-free-access-to-frontier-model_14fd05ad",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_03_gpt-5-6-engineering-points-to-cheaper-inference-and-leaner-agent-context_6d964f10",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_04_google-launches-lyria-3-5-with-more-control-over-generated-music_3cd190f7",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_05_pangram-4-targets-mixed-human-and-ai-writing-with-a-higher-api-price_5f95e1dc",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_06_perplexity-open-sources-numbat-to-monitor-and-block-risky-agent-actions_2df4202e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_07_nanoclaw-adds-an-opt-in-hardened-runtime-for-open-source-agents_e20bda56",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_08_asari-s-self-improving-agents-optimise-the-full-llm-serving-stack_a2bf077a",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_09_engy-offers-cryptographic-proof-that-an-api-served-the-requested-open-mo_e35207da",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_10_new-york-school-pauses-an-ai-robot-teacher-plan-after-community-concern_13ac22e1",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_11_microsoft-vibevoice-an-open-voice-ai-toolkit-for-speech-and-conversation_b9901cf0",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_12_deepfakes-faceswap-a-mature-open-toolkit-for-face-swapping-research_c92ac56e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-30_13_sgl-project-sglang-high-performance-serving-for-language-and-multimodal_fe05b7b4",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-30.json",
+    "itemCount": 13
+  }
+}

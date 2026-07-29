@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_09_engy-offers-cryptographic-proof-that-an-api-served-the-requested-open-mo_e35207da",
+  "sourceKind": "product",
+  "sourceName": "Engy",
+  "sourceUrl": "https://engy.ai/",
+  "canonicalUrl": "https://engy.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "Engy offers cryptographic proof that an API served the requested open model",
+  "friendlyTitle": "Engy tries to prove which AI model answered your request",
+  "summary": "Engy has introduced an inference service that says it can provide cryptographic proof that a requested open model produced an output, rather than an undisclosed cheaper or quantised substitute. Its current setup supports GLM-5.2 through OpenAI-compatible APIs and configuration examples for Claude Code, Cursor, Codex and Hermes.",
+  "friendlySummary": "Engy says its service gives cryptographic proof that it used the exact open model you asked for, not a cheaper replacement. It currently shows how to connect several coding tools.",
+  "whyItMatters": "Model substitution is difficult for API customers to detect from output alone. Verifiable inference could make procurement and benchmarking more trustworthy, although buyers should inspect the proof design, operating assumptions, privacy terms and performance before relying on it.",
+  "friendlyWhyItMatters": "This could help customers check what they paid for. Technical teams should still examine how the proof works and how the service handles their data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

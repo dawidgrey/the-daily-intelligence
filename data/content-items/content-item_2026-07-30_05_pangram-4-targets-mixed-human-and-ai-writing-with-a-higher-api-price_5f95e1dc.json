@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_05_pangram-4-targets-mixed-human-and-ai-writing-with-a-higher-api-price_5f95e1dc",
+  "sourceKind": "product",
+  "sourceName": "Pangram Labs",
+  "sourceUrl": "https://www.pangram.com/blog/introducing-pangram-4",
+  "canonicalUrl": "https://www.pangram.com/blog/introducing-pangram-4",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "Pangram 4 targets mixed human-and-AI writing, with a higher API price",
+  "friendlyTitle": "Pangram updates its tool for finding AI-written text",
+  "summary": "Pangram has launched a larger text detector designed to identify AI-assisted passages, mixed authorship and output processed by humaniser tools. The company reports a 0.0041% false-positive rate on internal tests, while changing API billing to $0.05 per 100 words and retiring Pangram 3 in September.",
+  "friendlySummary": "Pangram 4 tries to find text written partly or fully by AI, including text changed by tools that make it sound human. The company also changed its prices.",
+  "whyItMatters": "Publishers, schools and compliance teams gain more granular signals, but detection remains probabilistic and the headline numbers are vendor-reported. Decisions affecting people should use evidence and review rather than treating one detector score as proof.",
+  "friendlyWhyItMatters": "The tool may help people review content, but its score is not proof. A person should check the evidence before making an important decision.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_13_sgl-project-sglang-high-performance-serving-for-language-and-multimodal_fe05b7b4",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/sgl-project/sglang",
+  "canonicalUrl": "https://github.com/sgl-project/sglang",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "sgl-project/sglang: high-performance serving for language and multimodal models",
+  "friendlyTitle": "SGLang helps teams run large AI models efficiently",
+  "summary": "SGLang is an Apache-licensed serving framework for large language, vision-language and diffusion models, with more than 30,000 stars and very active development. It focuses on high-throughput inference, model compatibility and production deployment across modern accelerators.",
+  "friendlySummary": "This popular open project serves language, image and multimodal models with a focus on speed and production use.",
+  "whyItMatters": "Infrastructure teams can use SGLang to serve open models behind APIs, benchmark throughput and tune inference across supported hardware. Start with a representative workload and verify output quality, latency, memory use and operational complexity against alternatives such as vLLM.",
+  "friendlyWhyItMatters": "Use it to run open models behind an API and test performance on your hardware. Compare speed, cost, memory and output quality before choosing it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

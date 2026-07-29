@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_01_posthog-offers-a-practical-test-for-how-much-work-to-delegate-to-agents_5c3c4b50",
+  "sourceKind": "article",
+  "sourceName": "PostHog",
+  "sourceUrl": "https://newsletter.posthog.com/p/agent-autonomy",
+  "canonicalUrl": "https://newsletter.posthog.com/p/agent-autonomy",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "PostHog offers a practical test for how much work to delegate to agents",
+  "friendlyTitle": "A simple way to decide how much work an AI agent should do alone",
+  "summary": "PostHog proposes grading agent autonomy by two properties of the task: how easily the result can be checked and how cheaply a mistake can be undone. Its four-level framework ranges from assistant mode to self-driving work, with deterministic tests and reversible changes enabling more delegation.",
+  "friendlySummary": "PostHog says to ask two questions: can you easily check the work, and can you easily undo a mistake? The answers help you choose how closely a person should supervise the agent.",
+  "whyItMatters": "Teams do not need one blanket policy for every agent. Classifying each workflow by verifiability and reversibility gives people a simple way to decide where human review, approval gates, tests and rollback should sit.",
+  "friendlyWhyItMatters": "You can give agents more freedom on safe, testable jobs and keep people involved when mistakes would be difficult or expensive.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}

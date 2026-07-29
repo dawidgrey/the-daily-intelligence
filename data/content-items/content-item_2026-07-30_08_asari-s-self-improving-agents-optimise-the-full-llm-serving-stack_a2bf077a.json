@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-30_08_asari-s-self-improving-agents-optimise-the-full-llm-serving-stack_a2bf077a",
+  "sourceKind": "research",
+  "sourceName": "Asari AI",
+  "sourceUrl": "https://asari.ai/blog/inference-optimization",
+  "canonicalUrl": "https://asari.ai/blog/inference-optimization",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-29T20:05:24Z",
+  "createdAtUtc": "2026-07-29T20:05:24Z",
+  "updatedAtUtc": "2026-07-29T20:05:24Z",
+  "title": "Asari’s self-improving agents optimise the full LLM serving stack",
+  "friendlyTitle": "AI agents improved the software that runs large AI models",
+  "summary": "Asari reports that parallel optimisation agents improved throughput and interactivity by up to 16% for DeepSeek v4 Pro and GLM 5.2 on NVIDIA B200 systems running vLLM. The agents changed kernels, schedulers, load balancers and configuration, then used distribution-level checks to test whether model behaviour remained consistent.",
+  "friendlySummary": "Asari’s agents tested many changes across an AI serving system and reported speed gains of up to 16%. They also checked that the model’s output behaviour stayed similar.",
+  "whyItMatters": "This is a concrete example of agents improving production infrastructure rather than only writing application code. The important pattern is the closed loop: profile, change, benchmark, verify and save lessons for later runs instead of accepting an unverified speed claim.",
+  "friendlyWhyItMatters": "Agents may help engineers find useful speed improvements across very complex systems. Careful tests are needed so faster does not mean wrong.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-30"
+  }
+}
