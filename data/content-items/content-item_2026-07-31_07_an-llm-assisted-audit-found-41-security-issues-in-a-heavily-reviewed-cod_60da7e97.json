@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_07_an-llm-assisted-audit-found-41-security-issues-in-a-heavily-reviewed-cod_60da7e97",
+  "sourceKind": "research",
+  "sourceName": "ISGroup",
+  "sourceUrl": "https://www.isgroup.biz/en/cyber-security/llm-based-code-security-review-costs-findings-methodology.html",
+  "canonicalUrl": "https://www.isgroup.biz/en/cyber-security/llm-based-code-security-review-costs-findings-methodology.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "An LLM-assisted audit found 41 security issues in a heavily reviewed codebase",
+  "friendlyTitle": "AI helped find 41 security problems for about $3,140 in model costs",
+  "summary": "ISGroup spent about $3,140 in API calls reviewing GlobaLeaks, a codebase that had already received six professional audits. It reports 29 vulnerabilities, 12 denial-of-service issues and 42 hardening recommendations, averaging roughly $77 per confirmed finding before human validation.",
+  "friendlySummary": "A security team used language models to review software that experts had already checked many times. It found 29 vulnerabilities and 12 denial-of-service problems, but people still had to confirm the findings.",
+  "whyItMatters": "AI can make broad code review affordable enough to run more often, but the reported cost excludes human confirmation and remediation. Security teams can use cheaper models for coverage and reserve expensive reasoning for suspicious areas, with experts deciding what is real and urgent.",
+  "friendlyWhyItMatters": "More organisations may now afford a deep first pass over their code. Human security experts are still needed to remove false alarms and fix the important problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

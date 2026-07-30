@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_05_ironclaw-1-0-separates-agent-decisions-from-actions-behind-one-safety-ch_e9492f12",
+  "sourceKind": "product",
+  "sourceName": "NEAR AI",
+  "sourceUrl": "https://near.ai/blog/introducing-ironclaw-1-0",
+  "canonicalUrl": "https://near.ai/blog/introducing-ironclaw-1-0",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "IronClaw 1.0 separates agent decisions from actions behind one safety checkpoint",
+  "friendlyTitle": "IronClaw 1.0 adds one safety gate for every agent action",
+  "summary": "NEAR AI released IronClaw 1.0 across the command line, web, Slack and Telegram. Its architecture routes actions through a central guard, checkpoints state for resumption and shares memory and safety rules across channels; its benchmark claims use the same DeepSeek V4 Flash base model across compared harnesses.",
+  "friendlySummary": "IronClaw now works across the web, terminal, Slack and Telegram with shared memory. It checks sensitive actions in one place and can continue a task after an interruption.",
+  "whyItMatters": "Persistent agents need consistent approval, secret handling and recovery more than another chat surface. A single action gate and resumable state offer a useful design pattern for teams evaluating always-on assistants, though the vendor’s leaderboard claims still merit independent testing.",
+  "friendlyWhyItMatters": "This design can make always-on assistants easier to control and less likely to lose work. Teams should still test the product with their own tasks and security rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

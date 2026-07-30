@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_10_forward-deployed-engineers-emerge-as-the-scarce-link-between-ai-models-a_0d0a337b",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+  "canonicalUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "Forward-deployed engineers emerge as the scarce link between AI models and business results",
+  "friendlyTitle": "Businesses need more people who can turn AI into working systems",
+  "summary": "A study from executive search firm Christian & Timbers argues that demand is rising sharply for forward-deployed engineers who work inside customer organisations to implement AI. Its estimate of only 2,000 top-tier U.S. practitioners is directional rather than a labour-market census, but it reflects a shift from model access to deployment expertise.",
+  "friendlySummary": "Companies are looking for engineers who work closely with customers and put AI into real business processes. One industry study says the strongest people with this mix of skills are very hard to find.",
+  "whyItMatters": "Companies increasingly need people who can combine engineering, domain knowledge and organisational change—not merely prompt a model. Workers can build valuable skills by learning to map workflows, connect systems, evaluate outcomes and communicate with the people who own the process.",
+  "friendlyWhyItMatters": "Knowing a model is not enough. Skills in business processes, software connections, testing and clear communication may become more valuable at work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

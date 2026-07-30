@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-07-31",
+  "slug": "2026-07-31",
+  "status": "published",
+  "publicationDateUtc": "2026-07-30T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Cheaper models, longer-lived agents and AI that acts in the physical world",
+  "friendlyHeader": "AI is getting cheaper and better at real work",
+  "summary": "Today’s issue follows AI from lower API bills into longer-running software agents, robot orchestration, music creation and browser security. The practical thread is implementation: preserving context, controlling actions, measuring security work and finding people who can turn capable models into reliable workflows.",
+  "friendlySummary": "Today we look at cheaper AI models, robots that can plan and work together, voice tools for coding, safer web browsers and better ways to run AI agents. We also share three popular GitHub projects for 3D creation and learning about AI engineering.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-07-31_01_gemini-robotics-er-2-gives-robots-a-real-time-planning-and-coordination_06b8d0ad",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_02_openai-cuts-gpt-5-6-luna-prices-by-80-and-terra-by-20_fc362ba7",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_03_two-context-settings-tripled-gpt-5-6-sol-s-arc-agi-3-score_cc8e132c",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_04_lyria-3-5-brings-more-controllable-ai-music-generation-to-google-flow-mu_705bd6c0",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_05_ironclaw-1-0-separates-agent-decisions-from-actions-behind-one-safety-ch_e9492f12",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_06_a-distillation-study-finds-finance-gains-transferred-without-the-teacher_945ecdf3",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_07_an-llm-assisted-audit-found-41-security-issues-in-a-heavily-reviewed-cod_60da7e97",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_08_ski-adds-a-local-two-way-voice-loop-to-popular-coding-agents_9c340ab1",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_09_google-says-ai-helped-chrome-patch-more-than-1-000-security-bugs-in-two_c3b2c774",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_10_forward-deployed-engineers-emerge-as-the-scarce-link-between-ai-models-a_0d0a337b",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_11_microsoft-trellis-2-generate-detailed-3d-assets-from-images_57bbe9cb",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_12_chiphuyen-aie-book-practical-resources-for-building-ai-applications_9686342c",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-07-31_13_infrasys-ai-aiinfra-a-broad-learning-map-for-ai-infrastructure_50be0b00",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-07-31.json",
+    "itemCount": 13
+  }
+}

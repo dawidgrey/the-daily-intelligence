@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_04_lyria-3-5-brings-more-controllable-ai-music-generation-to-google-flow-mu_705bd6c0",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+  "canonicalUrl": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "Lyria 3.5 brings more controllable AI music generation to Google Flow Music",
+  "friendlyTitle": "Google’s new music AI gives creators more control",
+  "summary": "Google released Lyria 3.5 in Flow Music with improvements to melody, lyrics, vocal expression and pronunciation. New controls also let creators set tempo and duration more directly.",
+  "friendlySummary": "Lyria 3.5 can make richer music, clearer lyrics and more natural voices. Users can also control the song’s speed and length more easily.",
+  "whyItMatters": "The update moves music generation toward an editable creative instrument rather than a one-shot novelty. Musicians, video teams and small businesses can prototype tracks faster, although final work still needs human taste and rights-aware review.",
+  "friendlyWhyItMatters": "Creators can test music ideas quickly and then choose what to keep or change. Human review is still important before publishing the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

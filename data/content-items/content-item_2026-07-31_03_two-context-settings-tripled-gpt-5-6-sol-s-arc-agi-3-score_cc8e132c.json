@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_03_two-context-settings-tripled-gpt-5-6-sol-s-arc-agi-3-score_cc8e132c",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "canonicalUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "credit": "@OpenAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "Two context settings tripled GPT-5.6 Sol’s ARC-AGI-3 score",
+  "friendlyTitle": "Better memory made an AI agent three times stronger on a test",
+  "summary": "OpenAI reports that retaining reasoning between actions and compacting long context raised GPT-5.6 Sol’s public ARC-AGI-3 score from 13.3% to 38.3% while using six times fewer output tokens. The experiment shows how strongly an agent’s harness can affect measured performance.",
+  "friendlySummary": "OpenAI kept the model’s earlier reasoning and compressed old context instead of deleting it. The model then scored about three times higher and used far fewer output tokens.",
+  "whyItMatters": "For long-running agents, memory handling can matter as much as model choice. Developers can reduce repeated reasoning and context loss by retaining prior response state and using compaction instead of simply deleting old turns.",
+  "friendlyWhyItMatters": "AI agents work better when they remember what they already learned. Good context settings can improve results and lower costs without changing the model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-29T20:05:24Z",
+  "generatedAtUtc": "2026-07-30T20:04:11Z",
   "items": [
     {
-      "id": "content-item_2026-07-30_01_posthog-offers-a-practical-test-for-how-much-work-to-delegate-to-agents_5c3c4b50",
-      "sourceKind": "article",
-      "sourceName": "PostHog",
-      "title": "PostHog offers a practical test for how much work to delegate to agents",
-      "sourceUrl": "https://newsletter.posthog.com/p/agent-autonomy"
+      "id": "content-item_2026-07-31_01_gemini-robotics-er-2-gives-robots-a-real-time-planning-and-coordination_06b8d0ad",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Gemini Robotics ER 2 gives robots a real-time planning and coordination layer",
+      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
     },
     {
-      "id": "content-item_2026-07-30_02_openai-offers-100-000-academic-researchers-free-access-to-frontier-model_14fd05ad",
+      "id": "content-item_2026-07-31_02_openai-cuts-gpt-5-6-luna-prices-by-80-and-terra-by-20_fc362ba7",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI offers 100,000 academic researchers free access to frontier models",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers"
+      "title": "OpenAI cuts GPT-5.6 Luna prices by 80% and Terra by 20%",
+      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
     },
     {
-      "id": "content-item_2026-07-30_03_gpt-5-6-engineering-points-to-cheaper-inference-and-leaner-agent-context_6d964f10",
+      "id": "content-item_2026-07-31_03_two-context-settings-tripled-gpt-5-6-sol-s-arc-agi-3-score_cc8e132c",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "GPT-5.6 engineering points to cheaper inference and leaner agent context",
-      "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+      "title": "Two context settings tripled GPT-5.6 Sol’s ARC-AGI-3 score",
+      "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
     },
     {
-      "id": "content-item_2026-07-30_04_google-launches-lyria-3-5-with-more-control-over-generated-music_3cd190f7",
+      "id": "content-item_2026-07-31_04_lyria-3-5-brings-more-controllable-ai-music-generation-to-google-flow-mu_705bd6c0",
       "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google launches Lyria 3.5 with more control over generated music",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/"
+      "sourceName": "Google DeepMind",
+      "title": "Lyria 3.5 brings more controllable AI music generation to Google Flow Music",
+      "sourceUrl": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
     },
     {
-      "id": "content-item_2026-07-30_05_pangram-4-targets-mixed-human-and-ai-writing-with-a-higher-api-price_5f95e1dc",
+      "id": "content-item_2026-07-31_05_ironclaw-1-0-separates-agent-decisions-from-actions-behind-one-safety-ch_e9492f12",
       "sourceKind": "product",
-      "sourceName": "Pangram Labs",
-      "title": "Pangram 4 targets mixed human-and-AI writing, with a higher API price",
-      "sourceUrl": "https://www.pangram.com/blog/introducing-pangram-4"
+      "sourceName": "NEAR AI",
+      "title": "IronClaw 1.0 separates agent decisions from actions behind one safety checkpoint",
+      "sourceUrl": "https://near.ai/blog/introducing-ironclaw-1-0"
     },
     {
-      "id": "content-item_2026-07-30_06_perplexity-open-sources-numbat-to-monitor-and-block-risky-agent-actions_2df4202e",
-      "sourceKind": "product",
-      "sourceName": "Perplexity Research",
-      "title": "Perplexity open-sources Numbat to monitor and block risky agent actions",
-      "sourceUrl": "https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat"
-    },
-    {
-      "id": "content-item_2026-07-30_07_nanoclaw-adds-an-opt-in-hardened-runtime-for-open-source-agents_e20bda56",
-      "sourceKind": "product",
-      "sourceName": "NanoClaw",
-      "title": "NanoClaw adds an opt-in hardened runtime for open-source agents",
-      "sourceUrl": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/"
-    },
-    {
-      "id": "content-item_2026-07-30_08_asari-s-self-improving-agents-optimise-the-full-llm-serving-stack_a2bf077a",
+      "id": "content-item_2026-07-31_06_a-distillation-study-finds-finance-gains-transferred-without-the-teacher_945ecdf3",
       "sourceKind": "research",
-      "sourceName": "Asari AI",
-      "title": "Asari’s self-improving agents optimise the full LLM serving stack",
-      "sourceUrl": "https://asari.ai/blog/inference-optimization"
+      "sourceName": "CTGT",
+      "title": "A distillation study finds finance gains transferred without the teacher’s censorship pattern",
+      "sourceUrl": "https://www.ctgt.ai/research/distillation-censorship-transfer"
     },
     {
-      "id": "content-item_2026-07-30_09_engy-offers-cryptographic-proof-that-an-api-served-the-requested-open-mo_e35207da",
+      "id": "content-item_2026-07-31_07_an-llm-assisted-audit-found-41-security-issues-in-a-heavily-reviewed-cod_60da7e97",
+      "sourceKind": "research",
+      "sourceName": "ISGroup",
+      "title": "An LLM-assisted audit found 41 security issues in a heavily reviewed codebase",
+      "sourceUrl": "https://www.isgroup.biz/en/cyber-security/llm-based-code-security-review-costs-findings-methodology.html"
+    },
+    {
+      "id": "content-item_2026-07-31_08_ski-adds-a-local-two-way-voice-loop-to-popular-coding-agents_9c340ab1",
       "sourceKind": "product",
-      "sourceName": "Engy",
-      "title": "Engy offers cryptographic proof that an API served the requested open model",
-      "sourceUrl": "https://engy.ai/"
+      "sourceName": "SKI",
+      "title": "SKI adds a local two-way voice loop to popular coding agents",
+      "sourceUrl": "https://heyski.io/"
     },
     {
-      "id": "content-item_2026-07-30_10_new-york-school-pauses-an-ai-robot-teacher-plan-after-community-concern_13ac22e1",
+      "id": "content-item_2026-07-31_09_google-says-ai-helped-chrome-patch-more-than-1-000-security-bugs-in-two_c3b2c774",
       "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "New York school pauses an AI robot teacher plan after community concern",
-      "sourceUrl": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df"
+      "sourceName": "Google Chrome Security Team",
+      "title": "Google says AI helped Chrome patch more than 1,000 security bugs in two releases",
+      "sourceUrl": "https://blog.google/security/chrome-stronger-with-every-update/"
     },
     {
-      "id": "content-item_2026-07-30_11_microsoft-vibevoice-an-open-voice-ai-toolkit-for-speech-and-conversation_b9901cf0",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "microsoft/VibeVoice: an open voice-AI toolkit for speech and conversation",
-      "sourceUrl": "https://github.com/microsoft/VibeVoice"
+      "id": "content-item_2026-07-31_10_forward-deployed-engineers-emerge-as-the-scarce-link-between-ai-models-a_0d0a337b",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Forward-deployed engineers emerge as the scarce link between AI models and business results",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
     },
     {
-      "id": "content-item_2026-07-30_12_deepfakes-faceswap-a-mature-open-toolkit-for-face-swapping-research_c92ac56e",
+      "id": "content-item_2026-07-31_11_microsoft-trellis-2-generate-detailed-3d-assets-from-images_57bbe9cb",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "deepfakes/faceswap: a mature open toolkit for face-swapping research",
-      "sourceUrl": "https://github.com/deepfakes/faceswap"
+      "title": "microsoft/TRELLIS.2: Generate detailed 3D assets from images",
+      "sourceUrl": "https://github.com/microsoft/TRELLIS.2"
     },
     {
-      "id": "content-item_2026-07-30_13_sgl-project-sglang-high-performance-serving-for-language-and-multimodal_fe05b7b4",
+      "id": "content-item_2026-07-31_12_chiphuyen-aie-book-practical-resources-for-building-ai-applications_9686342c",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "sgl-project/sglang: high-performance serving for language and multimodal models",
-      "sourceUrl": "https://github.com/sgl-project/sglang"
+      "title": "chiphuyen/aie-book: Practical resources for building AI applications",
+      "sourceUrl": "https://github.com/chiphuyen/aie-book"
+    },
+    {
+      "id": "content-item_2026-07-31_13_infrasys-ai-aiinfra-a-broad-learning-map-for-ai-infrastructure_50be0b00",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Infrasys-AI/AIInfra: A broad learning map for AI infrastructure",
+      "sourceUrl": "https://github.com/Infrasys-AI/AIInfra"
     }
   ]
 }

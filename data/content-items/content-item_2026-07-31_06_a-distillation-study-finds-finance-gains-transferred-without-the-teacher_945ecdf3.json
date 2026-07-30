@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_06_a-distillation-study-finds-finance-gains-transferred-without-the-teacher_945ecdf3",
+  "sourceKind": "research",
+  "sourceName": "CTGT",
+  "sourceUrl": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+  "canonicalUrl": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "A distillation study finds finance gains transferred without the teacher’s censorship pattern",
+  "friendlyTitle": "A student AI learned finance skills without copying the teacher’s refusals",
+  "summary": "CTGT trained GPT-OSS models on financial-reasoning outputs from DeepSeek V4 Flash and reports that capability improved without a statistically significant transfer of the teacher’s political refusal pattern. The team released model weights, 304 evaluation prompts, scoring rubrics and analysis code for replication.",
+  "friendlySummary": "Researchers trained an open model using answers from DeepSeek V4 Flash. The student improved at finance questions but did not show the same political refusal pattern in this test.",
+  "whyItMatters": "Model lineage does not automatically determine every downstream behaviour, which matters for teams considering open models as teachers. The result is limited to one domain and evaluation setup, but the released artefacts give researchers and risk teams a concrete way to test the claim.",
+  "friendlyWhyItMatters": "Useful skills and unwanted behaviour may not always move together during training. The public test data lets other people check whether the result is reliable.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

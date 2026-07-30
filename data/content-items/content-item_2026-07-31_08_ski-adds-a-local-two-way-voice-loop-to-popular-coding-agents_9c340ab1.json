@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_08_ski-adds-a-local-two-way-voice-loop-to-popular-coding-agents_9c340ab1",
+  "sourceKind": "product",
+  "sourceName": "SKI",
+  "sourceUrl": "https://heyski.io/",
+  "canonicalUrl": "https://heyski.io/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "SKI adds a local two-way voice loop to popular coding agents",
+  "friendlyTitle": "SKI lets you talk with your coding assistant out loud",
+  "summary": "SKI is a free Mac and Windows app that connects voice input and spoken replies to Claude Code, Codex, Cursor, Gemini CLI and other coding agents. Speech recognition and synthesis run on-device, with optional transcript review before instructions reach the agent.",
+  "friendlySummary": "SKI connects your voice to coding tools such as Codex and Claude Code, then reads their answers aloud. Its main speech features run on your own computer.",
+  "whyItMatters": "A hands-free conversation can help with accessibility, pair-programming and working through ideas away from the keyboard. Local speech processing limits audio exposure, while approve-before-send mode gives users a chance to correct a transcription before an agent acts on it.",
+  "friendlyWhyItMatters": "Voice can make coding tools easier to use when typing is difficult or inconvenient. You can check the written instruction before sending it to avoid mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

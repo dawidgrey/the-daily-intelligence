@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-07-31_02_openai-cuts-gpt-5-6-luna-prices-by-80-and-terra-by-20_fc362ba7",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+  "canonicalUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+  "credit": "@OpenAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-30T20:04:11Z",
+  "createdAtUtc": "2026-07-30T20:04:11Z",
+  "updatedAtUtc": "2026-07-30T20:04:11Z",
+  "title": "OpenAI cuts GPT-5.6 Luna prices by 80% and Terra by 20%",
+  "friendlyTitle": "OpenAI makes two GPT-5.6 models much cheaper",
+  "summary": "OpenAI reduced API prices for GPT-5.6 Luna to $0.20 per million input tokens and $1.20 per million output tokens, while Terra now costs $2 and $12 respectively. It also introduced an API Fast mode for Sol that offers up to 2.5 times the speed at twice the standard price.",
+  "friendlySummary": "GPT-5.6 Luna now costs 80% less, and Terra costs 20% less. OpenAI also added a faster, more expensive option for its strongest Sol model.",
+  "whyItMatters": "Lower prices make high-volume classification, document processing and background agent work more economical. Teams should re-run their own evaluations rather than switch on price alone, but model routing can now reserve expensive reasoning for the steps that genuinely need it.",
+  "friendlyWhyItMatters": "Businesses can use cheaper models for routine work and save stronger models for difficult decisions. This may reduce the cost of running AI tools every day.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-07-31"
+  }
+}

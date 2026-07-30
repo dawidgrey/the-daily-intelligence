@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-29T20:05:25Z",
+  "generatedAtUtc": "2026-07-30T20:04:11Z",
   "items": [
+    {
+      "id": "daily-publication_2026-07-31",
+      "slug": "2026-07-31",
+      "status": "published",
+      "publicationDateUtc": "2026-07-30T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Cheaper models, longer-lived agents and AI that acts in the physical world",
+      "friendlyHeader": "AI is getting cheaper and better at real work",
+      "summary": "Today’s issue follows AI from lower API bills into longer-running software agents, robot orchestration, music creation and browser security. The practical thread is implementation: preserving context, controlling actions, measuring security work and finding people who can turn capable models into reliable workflows.",
+      "friendlySummary": "Today we look at cheaper AI models, robots that can plan and work together, voice tools for coding, safer web browsers and better ways to run AI agents. We also share three popular GitHub projects for 3D creation and learning about AI engineering.",
+      "itemCount": 13,
+      "href": "issues/2026-07-31.html",
+      "dataUrl": "data/daily-publications/2026-07-31.json"
+    },
     {
       "id": "daily-publication_2026-07-30",
       "slug": "2026-07-30",
