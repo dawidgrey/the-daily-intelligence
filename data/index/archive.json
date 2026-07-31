@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-07-30T20:04:11Z",
+  "generatedAtUtc": "2026-07-31T20:06:07Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-08-01",
+      "slug": "2026-08-01",
+      "status": "published",
+      "publicationDateUtc": "2026-07-31T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Cheaper agents meet harder operational limits",
+      "friendlyHeader": "AI tools improve, but careful controls still matter",
+      "summary": "Today’s issue pairs faster, cheaper and more capable AI systems with evidence that production reliability still depends on careful architecture, governance and human oversight. It also covers new creative tools, a major MCP redesign and three practical open-source learning resources.",
+      "friendlySummary": "Today brings cheaper AI models, better creative tools and useful new ways to build agents. It also shows why people still need to test AI carefully, control what it can do and check important decisions.",
+      "itemCount": 13,
+      "href": "issues/2026-08-01.html",
+      "dataUrl": "data/daily-publications/2026-08-01.json"
+    },
     {
       "id": "daily-publication_2026-07-31",
       "slug": "2026-07-31",

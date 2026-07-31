@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_03_univ-shows-how-governance-and-employee-builders-can-scale-workplace-ai_48798195",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/unive",
+  "canonicalUrl": "https://openai.com/index/unive",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "Univé shows how governance and employee builders can scale workplace AI",
+  "friendlyTitle": "An insurer lets employees build useful AI tools safely",
+  "summary": "Dutch insurer Univé says 85% of its activated ChatGPT Enterprise users are active weekly and employees have created about 1,500 custom GPTs. Its rollout combines leadership training, inherited data permissions and human accountability; one claims workflow now prepares files in minutes rather than hours.",
+  "friendlySummary": "Univé trained staff, set clear data rules and let employees create about 1,500 custom AI helpers. One pet-insurance process now prepares claims in minutes instead of hours.",
+  "whyItMatters": "The case study offers a practical adoption pattern: establish permissions and accountability first, then give domain experts time to redesign their own work. The figures come from a vendor customer story, but the operating model is more transferable than a simple licence rollout.",
+  "friendlyWhyItMatters": "Companies can learn from the order of work: set safety rules first, then help the people who know each job build better processes. Humans still make the final decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

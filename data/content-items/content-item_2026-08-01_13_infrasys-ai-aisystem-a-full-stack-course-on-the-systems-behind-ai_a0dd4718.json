@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_13_infrasys-ai-aisystem-a-full-stack-course-on-the-systems-behind-ai_a0dd4718",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Infrasys-AI/AISystem",
+  "canonicalUrl": "https://github.com/Infrasys-AI/AISystem",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "Infrasys-AI/AISystem: A full-stack course on the systems behind AI",
+  "friendlyTitle": "AISystem explains the hardware and software under AI models",
+  "summary": "AISystem is a Chinese-language open course covering AI chips, compilers, inference, training frameworks, automatic differentiation and computation graphs. Its extensive notes, slides and diagrams had attracted about 17,400 GitHub stars when reviewed.",
+  "friendlySummary": "This Chinese-language course covers AI chips, compilers, model inference and training software. It had about 17,400 GitHub stars.",
+  "whyItMatters": "Infrastructure engineers can use the repository as a detailed study map from hardware through model execution. Because the repository is large and primarily Chinese, readers may prefer its published documentation or releases and use browser translation rather than cloning everything.",
+  "friendlyWhyItMatters": "Use it as a study plan for understanding how AI systems work below the app level. Open the online documents or releases first because the full repository is very large.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

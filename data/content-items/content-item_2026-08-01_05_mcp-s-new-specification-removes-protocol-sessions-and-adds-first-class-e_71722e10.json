@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_05_mcp-s-new-specification-removes-protocol-sessions-and-adds-first-class-e_71722e10",
+  "sourceKind": "product",
+  "sourceName": "Model Context Protocol",
+  "sourceUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+  "canonicalUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "MCP’s new specification removes protocol sessions and adds first-class extensions",
+  "friendlyTitle": "MCP becomes easier to scale across many servers",
+  "summary": "The 2026-07-28 MCP specification moves the protocol core to stateless HTTP requests, removes the initialization handshake and introduces an extension framework for capabilities such as Tasks and MCP Apps. It also strengthens authorization and adds a formal deprecation policy.",
+  "friendlySummary": "The new MCP design removes hidden connection sessions and adds optional extensions for long jobs and app interfaces. It also improves security rules and change management.",
+  "whyItMatters": "Remote MCP servers can run behind ordinary load balancers without sticky sessions or a shared protocol session store, which should make scaling simpler. The release contains breaking changes, so maintainers need to check SDK support and migration guidance before upgrading.",
+  "friendlyWhyItMatters": "Agent services should become easier to run on normal web infrastructure. Developers must still plan the upgrade because some old behaviour has changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

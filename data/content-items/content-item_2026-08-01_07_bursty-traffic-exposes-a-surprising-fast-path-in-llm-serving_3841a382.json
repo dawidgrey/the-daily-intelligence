@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_07_bursty-traffic-exposes-a-surprising-fast-path-in-llm-serving_3841a382",
+  "sourceKind": "research",
+  "sourceName": "Harvard Systems Group",
+  "sourceUrl": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/",
+  "canonicalUrl": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "Bursty traffic exposes a surprising fast path in LLM serving",
+  "friendlyTitle": "Busy bursts can sometimes make AI servers faster",
+  "summary": "Harvard Systems Group benchmarks found that burstier request arrivals could reduce token latency by separating decode work from heavy prompt prefills. Deeper profiling showed that much of the gain came from specialised kernel fast paths rather than an inherent advantage of bursty traffic.",
+  "friendlySummary": "Tests found that groups of requests sometimes helped an AI server generate tokens faster. The main reason was a software optimisation used for certain batches, not a universal rule.",
+  "whyItMatters": "Inference teams should profile real batching and kernel behaviour rather than relying only on queueing intuition. Routing traffic into bursts may improve output-token latency in some configurations, but it can worsen first-token tail latency and will not help when mixed batches are already efficient.",
+  "friendlyWhyItMatters": "Teams running models should measure their own traffic before changing how requests are routed. A faster result in one part of the system can make another delay worse.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

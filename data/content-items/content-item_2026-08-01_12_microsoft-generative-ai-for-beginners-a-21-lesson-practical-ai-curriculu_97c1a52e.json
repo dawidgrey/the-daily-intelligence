@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_12_microsoft-generative-ai-for-beginners-a-21-lesson-practical-ai-curriculu_97c1a52e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+  "canonicalUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "microsoft/generative-ai-for-beginners: A 21-lesson practical AI curriculum",
+  "friendlyTitle": "Microsoft offers 21 free lessons for building with generative AI",
+  "summary": "Microsoft’s open curriculum covers generative AI foundations, model comparison, responsible use, prompt engineering, retrieval and application development across 21 lessons. Recent updates include newer model integrations and migration guidance for the Responses API; the repository had about 114,000 stars when reviewed.",
+  "friendlySummary": "The course teaches AI basics, prompts, search, responsible use and app building with practical examples. It had about 114,000 GitHub stars.",
+  "whyItMatters": "Learners and teams can follow the lessons as a structured course or pull individual examples for workshops and prototypes. It is particularly useful for people who want runnable material rather than a high-level AI overview.",
+  "friendlyWhyItMatters": "Use the full course to learn step by step, or choose one lesson for a team workshop. The examples are designed to help you build, not only read.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_04_a-24-7-retail-voice-agent-handles-product-discovery-in-multiple-language_9146ff17",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/avatarin",
+  "canonicalUrl": "https://openai.com/index/avatarin",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "A 24/7 retail voice agent handles product discovery in multiple languages",
+  "friendlyTitle": "A Japanese retailer tests an AI shopping assistant that never closes",
+  "summary": "Avatarin and Japanese retailer Yamada Denki built a GPT-Realtime shopping agent that grounds answers in product information, asks follow-up questions and supports voice and text around the clock. About 30,000 shoppers used a two-week public experience, with 92% of survey responses reported as positive.",
+  "friendlySummary": "The voice and text assistant helps people choose products in several languages and uses store information for its answers. About 30,000 people tried it over two weeks.",
+  "whyItMatters": "The project illustrates a useful voice-agent pattern: pair low-latency conversation with retrieval, product-specific question flows and guardrails. Retail teams should still examine conversion, error rates and customer preference beyond the positive vendor-reported survey result.",
+  "friendlyWhyItMatters": "It is a clear example of AI helping customers when staff are unavailable. Businesses should also measure wrong answers, sales results and whether customers actually prefer it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

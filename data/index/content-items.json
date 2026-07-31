@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-30T20:04:11Z",
+  "generatedAtUtc": "2026-07-31T20:06:07Z",
   "items": [
     {
-      "id": "content-item_2026-07-31_01_gemini-robotics-er-2-gives-robots-a-real-time-planning-and-coordination_06b8d0ad",
+      "id": "content-item_2026-08-01_01_deepseek-updates-v4-flash-for-stronger-agent-and-codex-workflows_565e3d66",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini Robotics ER 2 gives robots a real-time planning and coordination layer",
-      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      "sourceName": "DeepSeek",
+      "title": "DeepSeek updates V4 Flash for stronger agent and Codex workflows",
+      "sourceUrl": "https://api-docs.deepseek.com/updates/"
     },
     {
-      "id": "content-item_2026-07-31_02_openai-cuts-gpt-5-6-luna-prices-by-80-and-terra-by-20_fc362ba7",
+      "id": "content-item_2026-08-01_02_minimax-h3-combines-image-video-and-stereo-audio-generation-in-one-model_e29bceaa",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI cuts GPT-5.6 Luna prices by 80% and Terra by 20%",
-      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      "sourceName": "MiniMax",
+      "title": "MiniMax H3 combines image, video and stereo audio generation in one model",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-h3"
     },
     {
-      "id": "content-item_2026-07-31_03_two-context-settings-tripled-gpt-5-6-sol-s-arc-agi-3-score_cc8e132c",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "Two context settings tripled GPT-5.6 Sol’s ARC-AGI-3 score",
-      "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-    },
-    {
-      "id": "content-item_2026-07-31_04_lyria-3-5-brings-more-controllable-ai-music-generation-to-google-flow-mu_705bd6c0",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Lyria 3.5 brings more controllable AI music generation to Google Flow Music",
-      "sourceUrl": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
-    },
-    {
-      "id": "content-item_2026-07-31_05_ironclaw-1-0-separates-agent-decisions-from-actions-behind-one-safety-ch_e9492f12",
-      "sourceKind": "product",
-      "sourceName": "NEAR AI",
-      "title": "IronClaw 1.0 separates agent decisions from actions behind one safety checkpoint",
-      "sourceUrl": "https://near.ai/blog/introducing-ironclaw-1-0"
-    },
-    {
-      "id": "content-item_2026-07-31_06_a-distillation-study-finds-finance-gains-transferred-without-the-teacher_945ecdf3",
-      "sourceKind": "research",
-      "sourceName": "CTGT",
-      "title": "A distillation study finds finance gains transferred without the teacher’s censorship pattern",
-      "sourceUrl": "https://www.ctgt.ai/research/distillation-censorship-transfer"
-    },
-    {
-      "id": "content-item_2026-07-31_07_an-llm-assisted-audit-found-41-security-issues-in-a-heavily-reviewed-cod_60da7e97",
-      "sourceKind": "research",
-      "sourceName": "ISGroup",
-      "title": "An LLM-assisted audit found 41 security issues in a heavily reviewed codebase",
-      "sourceUrl": "https://www.isgroup.biz/en/cyber-security/llm-based-code-security-review-costs-findings-methodology.html"
-    },
-    {
-      "id": "content-item_2026-07-31_08_ski-adds-a-local-two-way-voice-loop-to-popular-coding-agents_9c340ab1",
-      "sourceKind": "product",
-      "sourceName": "SKI",
-      "title": "SKI adds a local two-way voice loop to popular coding agents",
-      "sourceUrl": "https://heyski.io/"
-    },
-    {
-      "id": "content-item_2026-07-31_09_google-says-ai-helped-chrome-patch-more-than-1-000-security-bugs-in-two_c3b2c774",
+      "id": "content-item_2026-08-01_03_univ-shows-how-governance-and-employee-builders-can-scale-workplace-ai_48798195",
       "sourceKind": "article",
-      "sourceName": "Google Chrome Security Team",
-      "title": "Google says AI helped Chrome patch more than 1,000 security bugs in two releases",
-      "sourceUrl": "https://blog.google/security/chrome-stronger-with-every-update/"
+      "sourceName": "OpenAI",
+      "title": "Univé shows how governance and employee builders can scale workplace AI",
+      "sourceUrl": "https://openai.com/index/unive"
     },
     {
-      "id": "content-item_2026-07-31_10_forward-deployed-engineers-emerge-as-the-scarce-link-between-ai-models-a_0d0a337b",
+      "id": "content-item_2026-08-01_04_a-24-7-retail-voice-agent-handles-product-discovery-in-multiple-language_9146ff17",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "A 24/7 retail voice agent handles product discovery in multiple languages",
+      "sourceUrl": "https://openai.com/index/avatarin"
+    },
+    {
+      "id": "content-item_2026-08-01_05_mcp-s-new-specification-removes-protocol-sessions-and-adds-first-class-e_71722e10",
+      "sourceKind": "product",
+      "sourceName": "Model Context Protocol",
+      "title": "MCP’s new specification removes protocol sessions and adds first-class extensions",
+      "sourceUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+    },
+    {
+      "id": "content-item_2026-08-01_06_orca-bench-finds-frontier-agents-are-not-ready-to-run-production-on-call_a107d869",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "ORCA-bench finds frontier agents are not ready to run production on-call work alone",
+      "sourceUrl": "https://arxiv.org/abs/2607.28545"
+    },
+    {
+      "id": "content-item_2026-08-01_07_bursty-traffic-exposes-a-surprising-fast-path-in-llm-serving_3841a382",
+      "sourceKind": "research",
+      "sourceName": "Harvard Systems Group",
+      "title": "Bursty traffic exposes a surprising fast path in LLM serving",
+      "sourceUrl": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/"
+    },
+    {
+      "id": "content-item_2026-08-01_08_manifest-deprecates-its-llm-router-after-mixed-results-across-7-000-user_13350963",
+      "sourceKind": "article",
+      "sourceName": "Manifest",
+      "title": "Manifest deprecates its LLM router after mixed results across 7,000 users",
+      "sourceUrl": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
+    },
+    {
+      "id": "content-item_2026-08-01_09_anthropic-reports-three-security-tests-that-reached-real-external-system_42f0228c",
+      "sourceKind": "article",
+      "sourceName": "Associated Press",
+      "title": "Anthropic reports three security tests that reached real external systems",
+      "sourceUrl": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec"
+    },
+    {
+      "id": "content-item_2026-08-01_10_google-rolls-back-ai-image-generation-inside-google-earth-after-one-day_6422ae0f",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Forward-deployed engineers emerge as the scarce link between AI models and business results",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
+      "title": "Google rolls back AI image generation inside Google Earth after one day",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
     },
     {
-      "id": "content-item_2026-07-31_11_microsoft-trellis-2-generate-detailed-3d-assets-from-images_57bbe9cb",
+      "id": "content-item_2026-08-01_11_kangarooking-cangjie-skill-turn-long-form-knowledge-into-reusable-agent_7a6e11f8",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "microsoft/TRELLIS.2: Generate detailed 3D assets from images",
-      "sourceUrl": "https://github.com/microsoft/TRELLIS.2"
+      "title": "kangarooking/cangjie-skill: Turn long-form knowledge into reusable agent skills",
+      "sourceUrl": "https://github.com/kangarooking/cangjie-skill"
     },
     {
-      "id": "content-item_2026-07-31_12_chiphuyen-aie-book-practical-resources-for-building-ai-applications_9686342c",
+      "id": "content-item_2026-08-01_12_microsoft-generative-ai-for-beginners-a-21-lesson-practical-ai-curriculu_97c1a52e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "chiphuyen/aie-book: Practical resources for building AI applications",
-      "sourceUrl": "https://github.com/chiphuyen/aie-book"
+      "title": "microsoft/generative-ai-for-beginners: A 21-lesson practical AI curriculum",
+      "sourceUrl": "https://github.com/microsoft/generative-ai-for-beginners"
     },
     {
-      "id": "content-item_2026-07-31_13_infrasys-ai-aiinfra-a-broad-learning-map-for-ai-infrastructure_50be0b00",
+      "id": "content-item_2026-08-01_13_infrasys-ai-aisystem-a-full-stack-course-on-the-systems-behind-ai_a0dd4718",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Infrasys-AI/AIInfra: A broad learning map for AI infrastructure",
-      "sourceUrl": "https://github.com/Infrasys-AI/AIInfra"
+      "title": "Infrasys-AI/AISystem: A full-stack course on the systems behind AI",
+      "sourceUrl": "https://github.com/Infrasys-AI/AISystem"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_06_orca-bench-finds-frontier-agents-are-not-ready-to-run-production-on-call_a107d869",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2607.28545",
+  "canonicalUrl": "https://arxiv.org/abs/2607.28545",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "ORCA-bench finds frontier agents are not ready to run production on-call work alone",
+  "friendlyTitle": "A new test shows AI agents still struggle with software incidents",
+  "summary": "ORCA-bench evaluates five frontier agents on 1,079 root-cause analysis tasks using six days of real-style metrics, logs, traces and source code. The best agent reached 25.3% accuracy on medium tasks and 10% on hard tasks, while weaker systems often invented implausible causes.",
+  "friendlySummary": "Five leading agents tried to find the causes of realistic system failures. Even the best one solved only about one quarter of medium tasks and one tenth of hard tasks.",
+  "whyItMatters": "Coding skill does not automatically translate into reliable incident response across noisy operational evidence. Teams can use agents to gather context and suggest hypotheses, but the results argue strongly for expert review, constrained access and measurable escalation rules.",
+  "friendlyWhyItMatters": "AI can help an on-call engineer collect clues, but it should not be trusted to manage serious incidents alone. Human review and clear limits are still essential.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

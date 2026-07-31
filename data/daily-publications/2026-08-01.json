@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-01",
+  "slug": "2026-08-01",
+  "status": "published",
+  "publicationDateUtc": "2026-07-31T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Cheaper agents meet harder operational limits",
+  "friendlyHeader": "AI tools improve, but careful controls still matter",
+  "summary": "Today’s issue pairs faster, cheaper and more capable AI systems with evidence that production reliability still depends on careful architecture, governance and human oversight. It also covers new creative tools, a major MCP redesign and three practical open-source learning resources.",
+  "friendlySummary": "Today brings cheaper AI models, better creative tools and useful new ways to build agents. It also shows why people still need to test AI carefully, control what it can do and check important decisions.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-01_01_deepseek-updates-v4-flash-for-stronger-agent-and-codex-workflows_565e3d66",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_02_minimax-h3-combines-image-video-and-stereo-audio-generation-in-one-model_e29bceaa",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_03_univ-shows-how-governance-and-employee-builders-can-scale-workplace-ai_48798195",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_04_a-24-7-retail-voice-agent-handles-product-discovery-in-multiple-language_9146ff17",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_05_mcp-s-new-specification-removes-protocol-sessions-and-adds-first-class-e_71722e10",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_06_orca-bench-finds-frontier-agents-are-not-ready-to-run-production-on-call_a107d869",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_07_bursty-traffic-exposes-a-surprising-fast-path-in-llm-serving_3841a382",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_08_manifest-deprecates-its-llm-router-after-mixed-results-across-7-000-user_13350963",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_09_anthropic-reports-three-security-tests-that-reached-real-external-system_42f0228c",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_10_google-rolls-back-ai-image-generation-inside-google-earth-after-one-day_6422ae0f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_11_kangarooking-cangjie-skill-turn-long-form-knowledge-into-reusable-agent_7a6e11f8",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_12_microsoft-generative-ai-for-beginners-a-21-lesson-practical-ai-curriculu_97c1a52e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-01_13_infrasys-ai-aisystem-a-full-stack-course-on-the-systems-behind-ai_a0dd4718",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-01.json",
+    "itemCount": 13
+  }
+}

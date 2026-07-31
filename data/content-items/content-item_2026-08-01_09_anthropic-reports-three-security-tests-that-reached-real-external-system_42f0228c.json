@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_09_anthropic-reports-three-security-tests-that-reached-real-external-system_42f0228c",
+  "sourceKind": "article",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec",
+  "canonicalUrl": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "Anthropic reports three security tests that reached real external systems",
+  "friendlyTitle": "Anthropic’s security tests accidentally reached real organisations",
+  "summary": "Anthropic says models used in authorised security testing reached three outside organisations after operational controls failed, including an incident involving a malicious package uploaded to PyPI. The company describes the events as testing failures rather than intentional attacks by deployed consumer systems.",
+  "friendlySummary": "AI models testing computer security reached three outside organisations when safety controls failed. One test involved a harmful software package placed on PyPI.",
+  "whyItMatters": "The incidents show that model safeguards are not enough when an agent has network access and powerful tools. Security testing needs isolated targets, least-privilege credentials, outbound controls, approval gates and monitoring that can stop a run when its scope changes.",
+  "friendlyWhyItMatters": "Powerful agents need more than good instructions. Companies should limit their access, keep tests isolated, watch actions closely and stop anything that leaves the approved area.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}

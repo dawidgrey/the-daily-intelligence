@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-01_08_manifest-deprecates-its-llm-router-after-mixed-results-across-7-000-user_13350963",
+  "sourceKind": "article",
+  "sourceName": "Manifest",
+  "sourceUrl": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+  "canonicalUrl": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-07-31T20:06:07Z",
+  "createdAtUtc": "2026-07-31T20:06:07Z",
+  "updatedAtUtc": "2026-07-31T20:06:07Z",
+  "title": "Manifest deprecates its LLM router after mixed results across 7,000 users",
+  "friendlyTitle": "Manifest says automatic model switching was not worth the trouble",
+  "summary": "Manifest says it is shutting its automatic model router after four months of use across 7,000 cloud users. It found that prompt-only complexity estimates missed later tool work, model switching weakened consistency and caching often saved more than routing.",
+  "friendlySummary": "Manifest tested a tool that chose a different AI model for each request, then decided to remove it. The tool often could not see how hard a task would become later.",
+  "whyItMatters": "Automatic model selection can add evaluation, observability and behavioural uncertainty that offsets token savings. Agent teams may get better results by assigning known models to defined workflows, using prompt caching and measuring successful task cost rather than price per request.",
+  "friendlyWhyItMatters": "Using one tested model for a clear job may be simpler and more reliable than switching models automatically. Cache savings can also matter more than small differences in model price.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-01"
+  }
+}
