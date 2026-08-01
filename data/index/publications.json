@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-07-31T20:06:07Z",
+  "generatedAtUtc": "2026-08-01T20:05:09Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-02",
+      "slug": "2026-08-02",
+      "status": "published",
+      "publicationDateUtc": "2026-08-01T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from faster output to harder proof",
+      "friendlyHeader": "AI can do more, but people still need to check the work",
+      "summary": "Today’s issue follows AI into mathematics, robotics, video production and brain imaging, while keeping the operational questions in view: how do we verify the result, constrain the workflow and preserve human judgement? It also covers practical changes for creators, developers and security-conscious teams, plus three fast-rising GitHub projects.",
+      "friendlySummary": "Today’s AI can help with maths, robots, videos, software and research. These advances are useful, but people still need clear tests, safe limits and careful judgement before trusting the results.",
+      "itemCount": 13,
+      "href": "issues/2026-08-02.html",
+      "dataUrl": "data/daily-publications/2026-08-02.json"
+    },
     {
       "id": "daily-publication_2026-08-01",
       "slug": "2026-08-01",

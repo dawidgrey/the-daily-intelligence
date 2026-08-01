@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_09_production-guardrails-turn-coding-agent-mistakes-into-visible-failures_6f5dd78d",
+  "sourceKind": "article",
+  "sourceName": "Scott Spence",
+  "sourceUrl": "https://scottspence.com/posts/how-i-stop-llms-drifting-in-production-codebases",
+  "canonicalUrl": "https://scottspence.com/posts/how-i-stop-llms-drifting-in-production-codebases",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "Production guardrails turn coding-agent mistakes into visible failures",
+  "friendlyTitle": "Put coding rules in tests and tools, not only in an AI prompt",
+  "summary": "Engineering lead Scott Spence describes controlling coding-agent drift with repository-level checks, architecture rules, documentation retrieval, tool-call blockers and mandatory validation before handoff. Across 350 sessions in one production codebase, the checks repeatedly caught boundary violations and other copied shortcuts.",
+  "friendlySummary": "One engineering lead uses automatic checks to stop coding agents from copying bad patterns into a production system. The checks catch mistakes while the change is still small and easy to fix.",
+  "whyItMatters": "The practical lesson is to encode important engineering rules where an agent cannot simply forget them, rather than expanding prompts indefinitely. Teams can begin with warnings, measure recurring failures and promote the most damaging patterns into automated blockers and tests.",
+  "friendlyWhyItMatters": "AI instructions can be forgotten, but a test or blocked tool action is harder to ignore. Teams can start by tracking common mistakes and then automate the most important rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}

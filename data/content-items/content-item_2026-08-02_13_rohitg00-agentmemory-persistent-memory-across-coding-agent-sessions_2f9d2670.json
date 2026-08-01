@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_13_rohitg00-agentmemory-persistent-memory-across-coding-agent-sessions_2f9d2670",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/rohitg00/agentmemory",
+  "canonicalUrl": "https://github.com/rohitg00/agentmemory",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "rohitg00/agentmemory: Persistent memory across coding-agent sessions",
+  "friendlyTitle": "Agentmemory helps coding agents remember useful project context",
+  "summary": "Agentmemory provides a local-first memory layer, plugins, hooks and MCP tools intended to carry useful context across sessions in multiple coding agents. It had about 26,300 total stars and added roughly 120 stars in the GitHub Trending language feeds collected for today’s review.",
+  "friendlySummary": "The project saves context between coding sessions and works with several agent tools through plugins and MCP. It had about 26,300 GitHub stars when reviewed.",
+  "whyItMatters": "It can reduce repeated project explanations and preserve decisions, conventions and lessons between agent runs. Before using it on real repositories, inspect what gets captured, choose a suitable storage boundary and exclude secrets, customer data and transient mistakes that should not become durable guidance.",
+  "friendlyWhyItMatters": "Use it to avoid explaining the same project rules every time. Check what it stores and keep passwords, private customer information and incorrect temporary notes out of long-term memory.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}

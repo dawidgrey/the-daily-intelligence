@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_07_munich-court-holds-suno-liable-for-memorised-songs-in-training-and-outpu_3108afc7",
+  "sourceKind": "regulation",
+  "sourceName": "Munich Regional Court I",
+  "sourceUrl": "https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php",
+  "canonicalUrl": "https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "Munich court holds Suno liable for memorised songs in training and outputs",
+  "friendlyTitle": "A German court says Suno copied protected songs in its AI model",
+  "summary": "A Munich court largely upheld GEMA’s claims against Suno over six songs, finding protected works reproducibly present in model versions 3.5 and 4 and recognisable in generated outputs. It rejected German text-and-data-mining protection and a US fair-use defence in this case, and assigned responsibility to Suno rather than users; the ruling is not final.",
+  "friendlySummary": "The court found that six songs could be recognised inside Suno’s models and in music the models produced. It said Suno, not the users, was responsible, but the decision can still be appealed.",
+  "whyItMatters": "If the reasoning survives appeal, AI media companies may face greater liability when training works can be extracted through outputs, especially where source acquisition bypassed technical controls. Creators and businesses should not assume that a model provider’s availability settles copyright risk for generated music.",
+  "friendlyWhyItMatters": "AI music companies may need stronger controls over training data and copied outputs. People using generated music should still check licences and copyright risks before publishing it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}

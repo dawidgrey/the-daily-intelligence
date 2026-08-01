@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_11_zhaoxuya520-reverse-skill-an-agent-skill-router-for-authorised-security_a84eba56",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/zhaoxuya520/reverse-skill",
+  "canonicalUrl": "https://github.com/zhaoxuya520/reverse-skill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "zhaoxuya520/reverse-skill: An agent skill router for authorised security work",
+  "friendlyTitle": "Reverse-skill gives AI agents organised tools for approved security tests",
+  "summary": "Reverse-skill packages routing, tool bootstrapping and reusable procedures for reverse engineering, CTFs and authorised penetration testing across coding agents including Claude Code, Kiro, Cursor and Cline. It led the AI-related repositories found on GitHub’s daily Trending page with about 11,700 total stars and 1,360 stars added that day.",
+  "friendlySummary": "The project collects security skills and routes an AI agent to the right tools for reverse engineering, CTF exercises and authorised testing. It was the fastest-rising AI-related project found on GitHub Trending today.",
+  "whyItMatters": "Security teams can use it as a structured catalogue for repeatable lab and assessment workflows instead of giving an agent an unbounded security prompt. Review every script and dependency first, pin versions, isolate the environment and use it only on systems where you have explicit permission.",
+  "friendlyWhyItMatters": "Use it only in a safe lab or on systems you are clearly allowed to test. Check the code and downloads first, because security tool packs can perform powerful actions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}

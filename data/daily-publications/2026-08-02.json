@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-02",
+  "slug": "2026-08-02",
+  "status": "published",
+  "publicationDateUtc": "2026-08-01T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from faster output to harder proof",
+  "friendlyHeader": "AI can do more, but people still need to check the work",
+  "summary": "Today’s issue follows AI into mathematics, robotics, video production and brain imaging, while keeping the operational questions in view: how do we verify the result, constrain the workflow and preserve human judgement? It also covers practical changes for creators, developers and security-conscious teams, plus three fast-rising GitHub projects.",
+  "friendlySummary": "Today’s AI can help with maths, robots, videos, software and research. These advances are useful, but people still need clear tests, safe limits and careful judgement before trusting the results.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-02_01_openai-says-astra-produced-ten-new-results-on-longstanding-mathematics-p_6d58997b",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_02_gemini-robotics-2-adds-whole-body-control-dexterity-and-robot-teamwork_7909c613",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_03_seedance-2-5-generates-30-second-video-and-audio-scenes-in-one-pass_9abc53d7",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_04_supabase-open-sources-real-environment-evaluations-for-coding-agents_fd36dd8d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_05_princeton-researchers-reconstruct-viewed-images-from-fmri-in-about-15-se_d02d0760",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_06_snapchat-removes-wholly-ai-generated-videos-from-spotlight-recommendatio_ab59940b",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_07_munich-court-holds-suno-liable-for-memorised-songs-in-training-and-outpu_3108afc7",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_08_a-position-paper-argues-language-models-still-lack-science-s-abductive-l_6d99bf64",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_09_production-guardrails-turn-coding-agent-mistakes-into-visible-failures_6f5dd78d",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_10_openai-details-how-a-scam-network-used-chatgpt-across-several-fraud-sche_c5ad624a",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_11_zhaoxuya520-reverse-skill-an-agent-skill-router-for-authorised-security_a84eba56",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_12_github-copilot-sdk-embed-the-copilot-agent-in-applications-and-services_25246c2b",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-02_13_rohitg00-agentmemory-persistent-memory-across-coding-agent-sessions_2f9d2670",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-02.json",
+    "itemCount": 13
+  }
+}

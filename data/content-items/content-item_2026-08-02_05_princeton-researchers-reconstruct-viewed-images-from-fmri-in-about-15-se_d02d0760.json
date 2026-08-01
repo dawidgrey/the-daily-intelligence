@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_05_princeton-researchers-reconstruct-viewed-images-from-fmri-in-about-15-se_d02d0760",
+  "sourceKind": "research",
+  "sourceName": "Princeton Laboratory for Artificial Intelligence Research",
+  "sourceUrl": "https://blog.ai.princeton.edu/2026/07/31/reading-minds-almost-scientists-just-reconstructed-what-someone-sees-from-their-brain/",
+  "canonicalUrl": "https://blog.ai.princeton.edu/2026/07/31/reading-minds-almost-scientists-just-reconstructed-what-someone-sees-from-their-brain/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "Princeton researchers reconstruct viewed images from fMRI in about 15 seconds",
+  "friendlyTitle": "Researchers turn brain scans into rough pictures within seconds",
+  "summary": "A Princeton-led study used personalised fMRI training data and generative models to reconstruct rough versions of images a participant was viewing. Its fastest configuration produced recognisable semantic approximations about 15 seconds after viewing, rather than photographic copies.",
+  "friendlySummary": "A Princeton study used an MRI scanner and AI to make a rough picture of what one person was looking at. The picture appeared about 15 seconds later and showed the main idea, not exact details.",
+  "whyItMatters": "Faster decoding could support closed-loop neuroscience experiments and, eventually, carefully governed clinical research. This is not general mind reading: it requires an MRI scanner, about an hour of person-specific training and a participant looking at an image, which sharply limits immediate use and misuse.",
+  "friendlyWhyItMatters": "This may help brain research react to a person’s signals during an experiment. It cannot read anyone’s thoughts from far away and needs expensive equipment plus personal training data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}

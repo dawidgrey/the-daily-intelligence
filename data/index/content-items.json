@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-07-31T20:06:07Z",
+  "generatedAtUtc": "2026-08-01T20:05:09Z",
   "items": [
     {
-      "id": "content-item_2026-08-01_01_deepseek-updates-v4-flash-for-stronger-agent-and-codex-workflows_565e3d66",
-      "sourceKind": "product",
-      "sourceName": "DeepSeek",
-      "title": "DeepSeek updates V4 Flash for stronger agent and Codex workflows",
-      "sourceUrl": "https://api-docs.deepseek.com/updates/"
+      "id": "content-item_2026-08-02_01_openai-says-astra-produced-ten-new-results-on-longstanding-mathematics-p_6d58997b",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says Astra produced ten new results on longstanding mathematics problems",
+      "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics"
     },
     {
-      "id": "content-item_2026-08-01_02_minimax-h3-combines-image-video-and-stereo-audio-generation-in-one-model_e29bceaa",
+      "id": "content-item_2026-08-02_02_gemini-robotics-2-adds-whole-body-control-dexterity-and-robot-teamwork_7909c613",
       "sourceKind": "product",
-      "sourceName": "MiniMax",
-      "title": "MiniMax H3 combines image, video and stereo audio generation in one model",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-h3"
+      "sourceName": "Google DeepMind",
+      "title": "Gemini Robotics 2 adds whole-body control, dexterity and robot teamwork",
+      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
     },
     {
-      "id": "content-item_2026-08-01_03_univ-shows-how-governance-and-employee-builders-can-scale-workplace-ai_48798195",
+      "id": "content-item_2026-08-02_03_seedance-2-5-generates-30-second-video-and-audio-scenes-in-one-pass_9abc53d7",
+      "sourceKind": "product",
+      "sourceName": "ByteDance Seed",
+      "title": "Seedance 2.5 generates 30-second video-and-audio scenes in one pass",
+      "sourceUrl": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
+    },
+    {
+      "id": "content-item_2026-08-02_04_supabase-open-sources-real-environment-evaluations-for-coding-agents_fd36dd8d",
+      "sourceKind": "product",
+      "sourceName": "Supabase",
+      "title": "Supabase open-sources real-environment evaluations for coding agents",
+      "sourceUrl": "https://supabase.com/blog/introducing-supabase-evals"
+    },
+    {
+      "id": "content-item_2026-08-02_05_princeton-researchers-reconstruct-viewed-images-from-fmri-in-about-15-se_d02d0760",
+      "sourceKind": "research",
+      "sourceName": "Princeton Laboratory for Artificial Intelligence Research",
+      "title": "Princeton researchers reconstruct viewed images from fMRI in about 15 seconds",
+      "sourceUrl": "https://blog.ai.princeton.edu/2026/07/31/reading-minds-almost-scientists-just-reconstructed-what-someone-sees-from-their-brain/"
+    },
+    {
+      "id": "content-item_2026-08-02_06_snapchat-removes-wholly-ai-generated-videos-from-spotlight-recommendatio_ab59940b",
+      "sourceKind": "product",
+      "sourceName": "Snap",
+      "title": "Snapchat removes wholly AI-generated videos from Spotlight recommendations",
+      "sourceUrl": "https://newsroom.snap.com/rewarding-authentic-creativity-on-spotlight"
+    },
+    {
+      "id": "content-item_2026-08-02_07_munich-court-holds-suno-liable-for-memorised-songs-in-training-and-outpu_3108afc7",
+      "sourceKind": "regulation",
+      "sourceName": "Munich Regional Court I",
+      "title": "Munich court holds Suno liable for memorised songs in training and outputs",
+      "sourceUrl": "https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/16.php"
+    },
+    {
+      "id": "content-item_2026-08-02_08_a-position-paper-argues-language-models-still-lack-science-s-abductive-l_6d99bf64",
+      "sourceKind": "research",
+      "sourceName": "Tom Zahavy",
+      "title": "A position paper argues language models still lack science’s abductive leap",
+      "sourceUrl": "https://www.tomzahavy.com/files/llms-cant-jump.pdf"
+    },
+    {
+      "id": "content-item_2026-08-02_09_production-guardrails-turn-coding-agent-mistakes-into-visible-failures_6f5dd78d",
+      "sourceKind": "article",
+      "sourceName": "Scott Spence",
+      "title": "Production guardrails turn coding-agent mistakes into visible failures",
+      "sourceUrl": "https://scottspence.com/posts/how-i-stop-llms-drifting-in-production-codebases"
+    },
+    {
+      "id": "content-item_2026-08-02_10_openai-details-how-a-scam-network-used-chatgpt-across-several-fraud-sche_c5ad624a",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "Univé shows how governance and employee builders can scale workplace AI",
-      "sourceUrl": "https://openai.com/index/unive"
+      "title": "OpenAI details how a scam network used ChatGPT across several fraud schemes",
+      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     },
     {
-      "id": "content-item_2026-08-01_04_a-24-7-retail-voice-agent-handles-product-discovery-in-multiple-language_9146ff17",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "A 24/7 retail voice agent handles product discovery in multiple languages",
-      "sourceUrl": "https://openai.com/index/avatarin"
-    },
-    {
-      "id": "content-item_2026-08-01_05_mcp-s-new-specification-removes-protocol-sessions-and-adds-first-class-e_71722e10",
-      "sourceKind": "product",
-      "sourceName": "Model Context Protocol",
-      "title": "MCP’s new specification removes protocol sessions and adds first-class extensions",
-      "sourceUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
-    },
-    {
-      "id": "content-item_2026-08-01_06_orca-bench-finds-frontier-agents-are-not-ready-to-run-production-on-call_a107d869",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "ORCA-bench finds frontier agents are not ready to run production on-call work alone",
-      "sourceUrl": "https://arxiv.org/abs/2607.28545"
-    },
-    {
-      "id": "content-item_2026-08-01_07_bursty-traffic-exposes-a-surprising-fast-path-in-llm-serving_3841a382",
-      "sourceKind": "research",
-      "sourceName": "Harvard Systems Group",
-      "title": "Bursty traffic exposes a surprising fast path in LLM serving",
-      "sourceUrl": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/"
-    },
-    {
-      "id": "content-item_2026-08-01_08_manifest-deprecates-its-llm-router-after-mixed-results-across-7-000-user_13350963",
-      "sourceKind": "article",
-      "sourceName": "Manifest",
-      "title": "Manifest deprecates its LLM router after mixed results across 7,000 users",
-      "sourceUrl": "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
-    },
-    {
-      "id": "content-item_2026-08-01_09_anthropic-reports-three-security-tests-that-reached-real-external-system_42f0228c",
-      "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "Anthropic reports three security tests that reached real external systems",
-      "sourceUrl": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec"
-    },
-    {
-      "id": "content-item_2026-08-01_10_google-rolls-back-ai-image-generation-inside-google-earth-after-one-day_6422ae0f",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Google rolls back AI image generation inside Google Earth after one day",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-    },
-    {
-      "id": "content-item_2026-08-01_11_kangarooking-cangjie-skill-turn-long-form-knowledge-into-reusable-agent_7a6e11f8",
+      "id": "content-item_2026-08-02_11_zhaoxuya520-reverse-skill-an-agent-skill-router-for-authorised-security_a84eba56",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "kangarooking/cangjie-skill: Turn long-form knowledge into reusable agent skills",
-      "sourceUrl": "https://github.com/kangarooking/cangjie-skill"
+      "title": "zhaoxuya520/reverse-skill: An agent skill router for authorised security work",
+      "sourceUrl": "https://github.com/zhaoxuya520/reverse-skill"
     },
     {
-      "id": "content-item_2026-08-01_12_microsoft-generative-ai-for-beginners-a-21-lesson-practical-ai-curriculu_97c1a52e",
+      "id": "content-item_2026-08-02_12_github-copilot-sdk-embed-the-copilot-agent-in-applications-and-services_25246c2b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "microsoft/generative-ai-for-beginners: A 21-lesson practical AI curriculum",
-      "sourceUrl": "https://github.com/microsoft/generative-ai-for-beginners"
+      "title": "github/copilot-sdk: Embed the Copilot agent in applications and services",
+      "sourceUrl": "https://github.com/github/copilot-sdk"
     },
     {
-      "id": "content-item_2026-08-01_13_infrasys-ai-aisystem-a-full-stack-course-on-the-systems-behind-ai_a0dd4718",
+      "id": "content-item_2026-08-02_13_rohitg00-agentmemory-persistent-memory-across-coding-agent-sessions_2f9d2670",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Infrasys-AI/AISystem: A full-stack course on the systems behind AI",
-      "sourceUrl": "https://github.com/Infrasys-AI/AISystem"
+      "title": "rohitg00/agentmemory: Persistent memory across coding-agent sessions",
+      "sourceUrl": "https://github.com/rohitg00/agentmemory"
     }
   ]
 }

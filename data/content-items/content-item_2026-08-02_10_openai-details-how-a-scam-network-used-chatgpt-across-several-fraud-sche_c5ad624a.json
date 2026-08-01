@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-02_10_openai-details-how-a-scam-network-used-chatgpt-across-several-fraud-sche_c5ad624a",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "canonicalUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-01T20:05:09Z",
+  "createdAtUtc": "2026-08-01T20:05:09Z",
+  "updatedAtUtc": "2026-08-01T20:05:09Z",
+  "title": "OpenAI details how a scam network used ChatGPT across several fraud schemes",
+  "friendlyTitle": "OpenAI shuts down ChatGPT accounts linked to several kinds of scams",
+  "summary": "OpenAI says it banned a coordinated Cambodia-linked account network that used ChatGPT for fake personas, translations, forged-document imagery and the administration of romance, investment, gambling and law-enforcement impersonation scams. It shared indicators with partners and authorities after a lead from WhatsApp.",
+  "friendlySummary": "A suspected scam group used ChatGPT to write messages, make fake identities and support romance, investment, gambling and police impersonation fraud. OpenAI banned the accounts and shared information with partners and authorities.",
+  "whyItMatters": "AI did not invent these fraud patterns, but it helped one operation move between languages, personas and scam types more efficiently. Everyday defences remain practical: distrust guaranteed returns and urgent secrecy, verify officials through independent channels, and never send money merely to unlock a reward or avoid a threatened penalty.",
+  "friendlyWhyItMatters": "AI can help scammers sound convincing in many languages. Be careful with secret requests, guaranteed profits, urgent fines and demands to send money before receiving a reward.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-02"
+  }
+}
