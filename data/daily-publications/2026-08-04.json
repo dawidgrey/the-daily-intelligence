@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-04",
+  "slug": "2026-08-04",
+  "status": "published",
+  "publicationDateUtc": "2026-08-03T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets cheaper, faster and closer to real work",
+  "friendlyHeader": "AI is becoming easier to use at work",
+  "summary": "Today’s issue follows a practical shift from impressive demos to systems people can actually use: lower-cost models, deployable coding agents, more capable assistants, clearer governance and better ways to evaluate output. We also highlight three fast-rising open-source projects for coding and live-data RAG.",
+  "friendlySummary": "Today we look at AI that is faster, cheaper and more useful in real life. There are new tools for coding, better phone help, clearer safety rules and three popular open-source projects you can try.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-04_01_google-s-new-flash-models-target-cheaper-more-reliable-ai-agents_edd884e3",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_02_cloudflare-doubles-long-context-capacity-for-kimi-while-cutting-glm-memo_489b06ed",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_03_hoplite-launches-cloud-coding-agents-that-work-from-task-to-pull-request_0b422014",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_04_stanford-publishes-a-nine-part-course-on-self-improving-ai-agents_b5f45dcb",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_05_june-brings-agent-led-implementation-to-enterprise-software_c8ebc55a",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_06_siri-ai-adds-personal-context-onscreen-awareness-and-a-dedicated-app_42441b94",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_07_chatgpt-takes-88-of-identifiable-house-ai-spending_6157c0f1",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_08_design-arena-turns-millions-of-user-choices-into-ai-model-rankings_edcbf3bc",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_09_openai-maps-its-eu-ai-act-approach-to-safety-transparency-and-provenance_b86dc435",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_10_openai-argues-the-useful-metric-is-cost-per-completed-outcome_6e145b01",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_11_can1357-oh-my-pi_da7c582e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_12_alishahryar1-free-claude-code_d1aa340a",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-04_13_pathwaycom-llm-app_5772838d",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-04.json",
+    "itemCount": 13
+  }
+}

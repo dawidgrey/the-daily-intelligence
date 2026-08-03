@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-04_10_openai-argues-the-useful-metric-is-cost-per-completed-outcome_6e145b01",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/building-abundant-intelligence",
+  "canonicalUrl": "https://openai.com/index/building-abundant-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-03T20:04:38Z",
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "title": "OpenAI argues the useful metric is cost per completed outcome",
+  "friendlyTitle": "The cheapest AI is not always the least expensive choice",
+  "summary": "OpenAI set out a full-stack strategy for lowering the cost of useful intelligence through cheaper models, serving efficiency, routing and context management. It argues that buyers should measure the total cost of a successful result—including retries, oversight and errors—rather than token price alone.",
+  "friendlySummary": "OpenAI says people should count the full cost of finishing a job, including mistakes, retries and human checking—not only token prices.",
+  "whyItMatters": "This is a practical framework for buying and operating AI. A cheap model can be expensive if it needs repeated attempts, while a stronger model can save money when it reliably finishes the job.",
+  "friendlyWhyItMatters": "This helps teams compare AI tools by real results instead of a price that tells only part of the story.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-04"
+  }
+}

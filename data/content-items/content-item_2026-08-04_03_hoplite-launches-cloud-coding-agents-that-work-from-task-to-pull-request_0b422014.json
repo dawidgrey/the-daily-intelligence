@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-04_03_hoplite-launches-cloud-coding-agents-that-work-from-task-to-pull-request_0b422014",
+  "sourceKind": "product",
+  "sourceName": "Hoplite",
+  "sourceUrl": "https://hoplite.sh",
+  "canonicalUrl": "https://hoplite.sh",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-03T20:04:38Z",
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "title": "Hoplite launches cloud coding agents that work from task to pull request",
+  "friendlyTitle": "Hoplite gives coding jobs to cloud AI workers",
+  "summary": "YC-backed Hoplite gives each coding task an isolated cloud sandbox where an agent can inspect a repository, edit code, run tests, open a live preview and prepare a pull request. Teams can gate file edits, shell commands and pull-request actions behind approvals.",
+  "friendlySummary": "Hoplite puts each coding task in its own safe cloud computer. The AI changes code, runs tests and waits for approval before opening a pull request.",
+  "whyItMatters": "This is the emerging model for delegated software work: give an agent an outcome, let it verify its own changes in a real environment, then keep a human at the approval boundary. It may save engineering time on well-scoped fixes and maintenance tasks.",
+  "friendlyWhyItMatters": "Developers can hand over clear tasks while still checking the final work before it is merged.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-04"
+  }
+}

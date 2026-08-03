@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-04_12_alishahryar1-free-claude-code_d1aa340a",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Alishahryar1/free-claude-code",
+  "canonicalUrl": "https://github.com/Alishahryar1/free-claude-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-03T20:04:38Z",
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "title": "Alishahryar1/free-claude-code",
+  "friendlyTitle": "One open gateway for several coding agents",
+  "summary": "Free Claude Code is an open-source gateway for using coding agents such as Claude Code, Codex and Pi from terminals, IDEs, apps or phones. The Python-led project has attracted more than 43,000 GitHub stars and was updated this week.",
+  "friendlySummary": "This project connects tools like Claude Code, Codex and Pi so they can be used from different devices and apps.",
+  "whyItMatters": "It can give developers one interface for experimenting with different coding-agent clients and access routes. Review provider terms, authentication methods and any third-party routing before connecting accounts or sensitive repositories.",
+  "friendlyWhyItMatters": "It is useful for testing several coding agents, but check the security and account rules before using private code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-04"
+  }
+}

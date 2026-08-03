@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-04_13_pathwaycom-llm-app_5772838d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/pathwaycom/llm-app",
+  "canonicalUrl": "https://github.com/pathwaycom/llm-app",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-03T20:04:38Z",
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "title": "pathwaycom/llm-app",
+  "friendlyTitle": "Pathway templates for AI that reads live business data",
+  "summary": "Pathway’s LLM App repository provides ready-to-run templates for RAG, enterprise search and live-data AI pipelines. Its connectors cover sources including SharePoint, Google Drive, S3, Kafka, PostgreSQL and real-time APIs, and the project has more than 59,000 stars.",
+  "friendlySummary": "This project contains ready-made examples for search and question-answering across files, databases and live data feeds.",
+  "whyItMatters": "Teams can use the Docker-friendly templates to prototype retrieval systems that stay synchronized with changing business data rather than relying on occasional static re-indexing.",
+  "friendlyWhyItMatters": "It can help you build an AI search tool that stays updated when your company data changes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-04"
+  }
+}

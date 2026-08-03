@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-04_02_cloudflare-doubles-long-context-capacity-for-kimi-while-cutting-glm-memo_489b06ed",
+  "sourceKind": "research",
+  "sourceName": "Cloudflare",
+  "sourceUrl": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "canonicalUrl": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-03T20:04:38Z",
+  "createdAtUtc": "2026-08-03T20:04:38Z",
+  "updatedAtUtc": "2026-08-03T20:04:38Z",
+  "title": "Cloudflare doubles long-context capacity for Kimi while cutting GLM memory use",
+  "friendlyTitle": "Cloudflare fits more AI work onto the same hardware",
+  "summary": "Cloudflare detailed production techniques for serving large open models: an 8-bit KV cache doubled Kimi K2.6 context capacity, while 4-bit weight compression cut GLM 5.2’s checkpoint size by about 40%. Its evaluations found no meaningful accuracy loss in the tested workloads.",
+  "friendlySummary": "Cloudflare made Kimi and GLM models use much less GPU memory while keeping similar test results.",
+  "whyItMatters": "Inference engineering can reduce AI cost and latency without waiting for a new model. Teams running open models can use the same ideas—careful quantization, benchmarking and cache isolation—to serve more users on existing hardware.",
+  "friendlyWhyItMatters": "Better efficiency can mean faster and cheaper AI services without buying as many expensive GPUs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-04"
+  }
+}
