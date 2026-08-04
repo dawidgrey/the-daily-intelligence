@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_06_coding-agents-need-a-tighter-boundary-than-your-whole-laptop_535c821f",
+  "sourceKind": "article",
+  "sourceName": "Superconductor",
+  "sourceUrl": "https://www.superconductor.com/blog/remote-sandboxes-agent-security",
+  "canonicalUrl": "https://www.superconductor.com/blog/remote-sandboxes-agent-security",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Coding agents need a tighter boundary than your whole laptop",
+  "friendlyTitle": "Do not give a coding agent access to your whole computer",
+  "summary": "Superconductor argues that coding agents should run in isolated remote sandboxes rather than inherit a developer laptop's files, credentials, browser sessions, and network access. It recommends fresh workspaces, scoped secrets, restricted networks, disposable state, and centralized audit logs.",
+  "friendlySummary": "A separate, temporary workspace can keep an agent away from unrelated files, passwords, and private systems. It also makes the agent's work easier to check.",
+  "whyItMatters": "The practical lesson applies regardless of vendor: give an agent only the repository, credentials, and network routes required for one task. Isolation reduces accidental leakage and makes parallel work easier to reproduce and review, though it does not replace tool-level permissions or human approval.",
+  "friendlyWhyItMatters": "Give AI only the access it needs. This simple rule can prevent many expensive mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

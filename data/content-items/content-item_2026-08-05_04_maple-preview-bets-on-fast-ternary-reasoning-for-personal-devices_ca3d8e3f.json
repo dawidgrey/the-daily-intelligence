@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_04_maple-preview-bets-on-fast-ternary-reasoning-for-personal-devices_ca3d8e3f",
+  "sourceKind": "research",
+  "sourceName": "DeepGrove",
+  "sourceUrl": "https://deepgrove.ai/maple-preview",
+  "canonicalUrl": "https://deepgrove.ai/maple-preview",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Maple-Preview bets on fast ternary reasoning for personal devices",
+  "friendlyTitle": "A fast open model aims to bring reasoning to personal devices",
+  "summary": "DeepGrove unveiled Maple-Preview, an open-source 20B mixture-of-experts reasoning model with ternary weights and 1.49B active parameters. Its model card reports a 5.31 GB checkpoint, a 131K context window, and more than 200 tokens per second on an M4 Mac mini.",
+  "friendlySummary": "Maple-Preview uses a very efficient number format to run quickly on Apple computers and even an iPhone. It is open source but still an early preview.",
+  "whyItMatters": "Ultra-low-precision models could bring fast reasoning and private personalization to consumer hardware. This remains a preview with limited agent training, so its striking speed and benchmark results should be treated as promising evidence rather than a finished general-purpose assistant.",
+  "friendlyWhyItMatters": "Fast local models could give you more private and personal AI without sending every task to the cloud.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

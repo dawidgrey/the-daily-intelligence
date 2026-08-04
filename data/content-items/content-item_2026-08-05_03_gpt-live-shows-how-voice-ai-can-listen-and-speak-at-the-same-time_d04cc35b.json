@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_03_gpt-live-shows-how-voice-ai-can-listen-and-speak-at-the-same-time_d04cc35b",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "canonicalUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "GPT-Live shows how voice AI can listen and speak at the same time",
+  "friendlyTitle": "Voice AI is learning to talk without awkward pauses",
+  "summary": "OpenAI detailed the architecture behind GPT-Live, a full-duplex voice model that removes the separate turn detector and can listen while speaking. A dedicated media path keeps audio responsive while deeper reasoning and tool calls run asynchronously.",
+  "friendlySummary": "GPT-Live can listen and speak at the same time. Slow tools run separately so they do not interrupt the conversation.",
+  "whyItMatters": "Continuous voice makes assistants feel less like walkie-talkies and more useful for hands-busy work, accessibility, and agent coordination. The engineering pattern also gives developers a practical lesson: keep latency-sensitive interaction separate from slower tools and business logic.",
+  "friendlyWhyItMatters": "This can make voice assistants easier to use while cooking, driving, working, or using accessibility tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

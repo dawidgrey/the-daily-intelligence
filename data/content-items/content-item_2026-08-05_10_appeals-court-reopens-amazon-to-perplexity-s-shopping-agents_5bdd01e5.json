@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_10_appeals-court-reopens-amazon-to-perplexity-s-shopping-agents_5bdd01e5",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
+  "canonicalUrl": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Appeals court reopens Amazon to Perplexity's shopping agents",
+  "friendlyTitle": "Perplexity's shopping agent can return to Amazon for now",
+  "summary": "A U.S. appeals court overturned a temporary order that blocked Perplexity's agentic shopping tools from Amazon. The court said Amazon was unlikely to prevail on its claim under federal computer-hacking law and treated users, rather than Perplexity itself, as the parties accessing the platform.",
+  "friendlySummary": "A U.S. appeals court removed a temporary ban on Perplexity's AI shopping tools using Amazon. The wider legal case is not finished.",
+  "whyItMatters": "The decision is an early legal signal about whether user-directed agents may browse and transact on closed platforms. It does not end the lawsuit, but it could shape how retailers, browser agents, and consumers negotiate authorization, account security, advertising, and platform rules.",
+  "friendlyWhyItMatters": "This case may help decide what an AI assistant is allowed to do for you on shopping websites.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

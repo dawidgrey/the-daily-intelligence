@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-03T20:04:38Z",
+  "generatedAtUtc": "2026-08-04T20:04:28Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-05",
+      "slug": "2026-08-05",
+      "status": "published",
+      "publicationDateUtc": "2026-08-04T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves onto devices, into classrooms, and across the open web",
+      "friendlyHeader": "AI is becoming more useful in everyday places",
+      "summary": "Today's issue follows AI beyond the chat window: smaller models are becoming practical on everyday hardware, voice systems are learning to converse continuously, and agents are testing the boundaries of shopping, security, education, and creative work.",
+      "friendlySummary": "Today we look at AI that can run on your own device, help in classrooms, speak more naturally, shop online, and support creative work. We also cover simple ways to use these tools more safely.",
+      "itemCount": 13,
+      "href": "issues/2026-08-05.html",
+      "dataUrl": "data/daily-publications/2026-08-05.json"
+    },
     {
       "id": "daily-publication_2026-08-04",
       "slug": "2026-08-04",

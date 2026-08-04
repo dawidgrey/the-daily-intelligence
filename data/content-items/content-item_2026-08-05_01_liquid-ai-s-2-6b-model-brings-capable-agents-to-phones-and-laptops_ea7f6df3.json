@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_01_liquid-ai-s-2-6b-model-brings-capable-agents-to-phones-and-laptops_ea7f6df3",
+  "sourceKind": "research",
+  "sourceName": "Liquid AI on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "canonicalUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Liquid AI's 2.6B model brings capable agents to phones and laptops",
+  "friendlyTitle": "A small AI model can run useful agents on your device",
+  "summary": "Liquid AI released LFM2.5-2.6B, a compact model trained for tool use and multi-step agent workflows. The company reports a 128K context window, memory use below 2.5 GB, and competitive agent performance against models roughly four times larger.",
+  "friendlySummary": "Liquid AI made a small model for tools and multi-step tasks. It can run on laptops and some phones while using less than 2.5 GB of memory.",
+  "whyItMatters": "Small, capable models can keep private data on-device, work without a constant cloud connection, and reduce inference bills. Developers should still validate the vendor-reported benchmarks against their own tasks, especially coding workloads where larger models retain an advantage.",
+  "friendlyWhyItMatters": "This could make private, offline AI helpers cheaper and easier to use. Test it with your own work before depending on its benchmark claims.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_11_github-trend-loopx-keeps-long-running-agent-teams-on-track_e7c4f36d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/huangruiteng/loopx",
+  "canonicalUrl": "https://github.com/huangruiteng/loopx",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "GitHub trend: LoopX keeps long-running agent teams on track",
+  "friendlyTitle": "LoopX helps AI agent teams remember goals and hand over work",
+  "summary": "LoopX is an agent-agnostic state kernel for long-running teams using Codex, Claude Code, and other coding agents. It provides durable goals, executable to-do items, quota-aware wake-ups, evidence logs, and verifiable handoffs.",
+  "friendlySummary": "LoopX stores goals, tasks, logs, and proof for AI agents that work for a long time or take turns.",
+  "whyItMatters": "Use it when an agent task must survive restarts, hand work between agents, or prove that milestones were actually completed. Its stable state and CLI contracts can sit underneath multiple agent hosts without granting them extra credentials or authority.",
+  "friendlyWhyItMatters": "Try it when several coding agents need to continue the same project without losing track of what is done.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

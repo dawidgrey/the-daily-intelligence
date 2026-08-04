@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-03T20:04:38Z",
+  "generatedAtUtc": "2026-08-04T20:04:28Z",
   "items": [
     {
-      "id": "content-item_2026-08-04_01_google-s-new-flash-models-target-cheaper-more-reliable-ai-agents_edd884e3",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google’s new Flash models target cheaper, more reliable AI agents",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
-    },
-    {
-      "id": "content-item_2026-08-04_02_cloudflare-doubles-long-context-capacity-for-kimi-while-cutting-glm-memo_489b06ed",
+      "id": "content-item_2026-08-05_01_liquid-ai-s-2-6b-model-brings-capable-agents-to-phones-and-laptops_ea7f6df3",
       "sourceKind": "research",
-      "sourceName": "Cloudflare",
-      "title": "Cloudflare doubles long-context capacity for Kimi while cutting GLM memory use",
-      "sourceUrl": "https://blog.cloudflare.com/smaller-faster-safer-models/"
+      "sourceName": "Liquid AI on Hugging Face",
+      "title": "Liquid AI's 2.6B model brings capable agents to phones and laptops",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
     },
     {
-      "id": "content-item_2026-08-04_03_hoplite-launches-cloud-coding-agents-that-work-from-task-to-pull-request_0b422014",
+      "id": "content-item_2026-08-05_02_openai-packages-agent-workflows-for-teachers-and-college-students_b274d678",
       "sourceKind": "product",
-      "sourceName": "Hoplite",
-      "title": "Hoplite launches cloud coding agents that work from task to pull request",
-      "sourceUrl": "https://hoplite.sh"
+      "sourceName": "OpenAI",
+      "title": "OpenAI packages agent workflows for teachers and college students",
+      "sourceUrl": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     },
     {
-      "id": "content-item_2026-08-04_04_stanford-publishes-a-nine-part-course-on-self-improving-ai-agents_b5f45dcb",
-      "sourceKind": "youtube",
-      "sourceName": "Stanford Online",
-      "title": "Stanford publishes a nine-part course on self-improving AI agents",
-      "sourceUrl": "https://www.youtube.com/playlist?list=PLangBM27OtEA"
+      "id": "content-item_2026-08-05_03_gpt-live-shows-how-voice-ai-can-listen-and-speak-at-the-same-time_d04cc35b",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "GPT-Live shows how voice AI can listen and speak at the same time",
+      "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
     },
     {
-      "id": "content-item_2026-08-04_05_june-brings-agent-led-implementation-to-enterprise-software_c8ebc55a",
+      "id": "content-item_2026-08-05_04_maple-preview-bets-on-fast-ternary-reasoning-for-personal-devices_ca3d8e3f",
+      "sourceKind": "research",
+      "sourceName": "DeepGrove",
+      "title": "Maple-Preview bets on fast ternary reasoning for personal devices",
+      "sourceUrl": "https://deepgrove.ai/maple-preview"
+    },
+    {
+      "id": "content-item_2026-08-05_05_a-new-rl-environment-uses-markets-to-train-agents-for-changing-condition_fd85a287",
       "sourceKind": "product",
-      "sourceName": "June",
-      "title": "June brings agent-led implementation to enterprise software",
-      "sourceUrl": "https://www.june.ai/"
+      "sourceName": "E.env",
+      "title": "A new RL environment uses markets to train agents for changing conditions",
+      "sourceUrl": "https://edotenv.com/"
     },
     {
-      "id": "content-item_2026-08-04_06_siri-ai-adds-personal-context-onscreen-awareness-and-a-dedicated-app_42441b94",
-      "sourceKind": "product",
-      "sourceName": "Apple Newsroom",
-      "title": "Siri AI adds personal context, onscreen awareness and a dedicated app",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
-    },
-    {
-      "id": "content-item_2026-08-04_07_chatgpt-takes-88-of-identifiable-house-ai-spending_6157c0f1",
+      "id": "content-item_2026-08-05_06_coding-agents-need-a-tighter-boundary-than-your-whole-laptop_535c821f",
       "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "ChatGPT takes 88% of identifiable House AI spending",
-      "sourceUrl": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html"
+      "sourceName": "Superconductor",
+      "title": "Coding agents need a tighter boundary than your whole laptop",
+      "sourceUrl": "https://www.superconductor.com/blog/remote-sandboxes-agent-security"
     },
     {
-      "id": "content-item_2026-08-04_08_design-arena-turns-millions-of-user-choices-into-ai-model-rankings_edcbf3bc",
+      "id": "content-item_2026-08-05_07_ibm-s-breach-report-puts-agent-identity-controls-at-the-top-of-the-check_d295bff4",
+      "sourceKind": "research",
+      "sourceName": "IBM",
+      "title": "IBM's breach report puts agent identity controls at the top of the checklist",
+      "sourceUrl": "https://www.ibm.com/reports/data-breach"
+    },
+    {
+      "id": "content-item_2026-08-05_08_pulitzer-recognized-newsrooms-use-ai-to-sort-evidence-not-write-the-stor_1dd79bf7",
+      "sourceKind": "article",
+      "sourceName": "Nieman Journalism Lab",
+      "title": "Pulitzer-recognized newsrooms use AI to sort evidence, not write the story",
+      "sourceUrl": "https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/"
+    },
+    {
+      "id": "content-item_2026-08-05_09_spotify-and-merlin-set-opt-in-terms-for-fan-made-ai-covers-and-remixes_6582fd40",
       "sourceKind": "product",
-      "sourceName": "Design Arena",
-      "title": "Design Arena turns millions of user choices into AI model rankings",
-      "sourceUrl": "https://www.designarena.ai/"
+      "sourceName": "Spotify",
+      "title": "Spotify and Merlin set opt-in terms for fan-made AI covers and remixes",
+      "sourceUrl": "https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/"
     },
     {
-      "id": "content-item_2026-08-04_09_openai-maps-its-eu-ai-act-approach-to-safety-transparency-and-provenance_b86dc435",
+      "id": "content-item_2026-08-05_10_appeals-court-reopens-amazon-to-perplexity-s-shopping-agents_5bdd01e5",
       "sourceKind": "regulation",
-      "sourceName": "OpenAI",
-      "title": "OpenAI maps its EU AI Act approach to safety, transparency and provenance",
-      "sourceUrl": "https://openai.com/index/advancing-responsible-ai-across-europe"
+      "sourceName": "Reuters",
+      "title": "Appeals court reopens Amazon to Perplexity's shopping agents",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/"
     },
     {
-      "id": "content-item_2026-08-04_10_openai-argues-the-useful-metric-is-cost-per-completed-outcome_6e145b01",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI argues the useful metric is cost per completed outcome",
-      "sourceUrl": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
-      "id": "content-item_2026-08-04_11_can1357-oh-my-pi_da7c582e",
+      "id": "content-item_2026-08-05_11_github-trend-loopx-keeps-long-running-agent-teams-on-track_e7c4f36d",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "can1357/oh-my-pi",
-      "sourceUrl": "https://github.com/can1357/oh-my-pi"
+      "sourceName": "GitHub Trending Python",
+      "title": "GitHub trend: LoopX keeps long-running agent teams on track",
+      "sourceUrl": "https://github.com/huangruiteng/loopx"
     },
     {
-      "id": "content-item_2026-08-04_12_alishahryar1-free-claude-code_d1aa340a",
+      "id": "content-item_2026-08-05_12_github-trend-livekit-agents-builds-realtime-voice-and-video-assistants_1a00e618",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Alishahryar1/free-claude-code",
-      "sourceUrl": "https://github.com/Alishahryar1/free-claude-code"
+      "sourceName": "GitHub Trending Python",
+      "title": "GitHub trend: LiveKit Agents builds realtime voice and video assistants",
+      "sourceUrl": "https://github.com/livekit/agents"
     },
     {
-      "id": "content-item_2026-08-04_13_pathwaycom-llm-app_5772838d",
+      "id": "content-item_2026-08-05_13_github-trend-uber-open-sources-detection-tools-for-risky-ai-agents_270776c2",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "pathwaycom/llm-app",
-      "sourceUrl": "https://github.com/pathwaycom/llm-app"
+      "sourceName": "GitHub Trending Python",
+      "title": "GitHub trend: Uber open-sources detection tools for risky AI agents",
+      "sourceUrl": "https://github.com/uber/ADR"
     }
   ]
 }

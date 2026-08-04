@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_09_spotify-and-merlin-set-opt-in-terms-for-fan-made-ai-covers-and-remixes_6582fd40",
+  "sourceKind": "product",
+  "sourceName": "Spotify",
+  "sourceUrl": "https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/",
+  "canonicalUrl": "https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Spotify and Merlin set opt-in terms for fan-made AI covers and remixes",
+  "friendlyTitle": "Spotify plans AI remixes that artists can choose and earn from",
+  "summary": "Spotify and independent-music licensing group Merlin agreed terms for Spotify's upcoming fan-made covers and remixing tool. Participating artists can opt in, receive credit and compensation, and gain an additional revenue stream from the paid add-on.",
+  "friendlySummary": "Independent artists represented by Merlin can choose whether fans may make AI covers and remixes of their music. Participating artists will be credited and paid.",
+  "whyItMatters": "This offers a concrete alternative to scraping first and negotiating later: licensed source material, creator choice, attribution, and payment are built into the product design. Listeners get a legal creative tool, while independent artists retain a say in whether their work participates.",
+  "friendlyWhyItMatters": "AI creativity works better when creators can say yes or no and receive credit and money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}

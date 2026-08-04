@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-05_08_pulitzer-recognized-newsrooms-use-ai-to-sort-evidence-not-write-the-stor_1dd79bf7",
+  "sourceKind": "article",
+  "sourceName": "Nieman Journalism Lab",
+  "sourceUrl": "https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/",
+  "canonicalUrl": "https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-04T20:04:28Z",
+  "createdAtUtc": "2026-08-04T20:04:28Z",
+  "updatedAtUtc": "2026-08-04T20:04:28Z",
+  "title": "Pulitzer-recognized newsrooms use AI to sort evidence, not write the story",
+  "friendlyTitle": "Top journalists use AI to find evidence, then check it themselves",
+  "summary": "Nieman Lab reports that five 2026 Pulitzer winners and three finalists disclosed using AI, a record since disclosures began in 2024. Common uses included summarizing, translating, classifying, and searching large document collections, with reporters and specialists checking the relevant source material.",
+  "friendlySummary": "Eight Pulitzer winners or finalists said they used AI. They mainly used it to search and organize many documents, not to write finished stories.",
+  "whyItMatters": "This is a useful pattern for knowledge work: let AI sort a large pile and surface likely evidence, then have people verify the originals and own the final judgment. Disclosure and a clear boundary around AI-written output help preserve trust.",
+  "friendlyWhyItMatters": "AI is useful for finding the needle in a haystack. People should still read the source, check the facts, and make the final decision.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-05"
+  }
+}
