@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-06_11_cloudflare-computer-a-durable-computer-interface-for-ai-agents_3e8857a2",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/cloudflare/computer",
+  "canonicalUrl": "https://github.com/cloudflare/computer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-05T20:04:25Z",
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "title": "cloudflare/computer: a durable computer interface for AI agents",
+  "friendlyTitle": "Cloudflare gives AI agents a computer interface",
+  "summary": "Cloudflare’s Computer project gives agents a portable interface to compute, filesystems, processes and execution journals across local and hosted backends. The fast-rising MIT-licensed repository includes examples, agent skills and design documentation.",
+  "friendlySummary": "This open-source project gives agents common tools for files, programs and computing across different systems.",
+  "whyItMatters": "Agent builders can use it to provide a consistent execution environment instead of writing a separate shell and filesystem layer for every runtime. Its journaling and multiple backends are particularly relevant to durable workflows that need to resume after interruption.",
+  "friendlyWhyItMatters": "Use it when building an agent that needs a dependable workspace and must continue after a restart.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-06_01_meta-launches-muse-code-as-a-lower-cost-terminal-coding-agent_fbcffa66",
+  "sourceKind": "product",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-05T20:04:25Z",
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "title": "Meta launches Muse Code as a lower-cost terminal coding agent",
+  "friendlyTitle": "Meta releases a cheaper AI coding helper",
+  "summary": "Meta released Muse Code in beta alongside its coding-focused Muse Spark 1.2 model. The terminal agent can plan changes, write code and validate results, with pay-as-you-go access and a cheaper contributor tier that opts users into model improvement.",
+  "friendlySummary": "Muse Code is a new terminal tool that can plan, write and check software changes. Meta is offering normal paid access and a cheaper option for people who agree to help improve the model.",
+  "whyItMatters": "Another major supplier is competing on the cost of complete coding workflows rather than chat alone. Developers should compare total task quality, data-retention terms and review effort—not just token prices—before moving real repositories into the tool.",
+  "friendlyWhyItMatters": "More competition may lower the cost of AI coding. Check the privacy rules and review its work carefully before using it on important code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-06"
+  }
+}

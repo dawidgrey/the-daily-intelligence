@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-06",
+  "slug": "2026-08-06",
+  "status": "published",
+  "publicationDateUtc": "2026-08-05T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from demos into everyday systems",
+  "friendlyHeader": "AI helpers are moving into real work",
+  "summary": "Today’s issue tracks AI moving into practical infrastructure: coding terminals, browser tasks, local apps, weather forecasting, commerce and content safety. It also looks at where communities and maintainers are drawing firmer boundaries around AI-assisted work.",
+  "friendlySummary": "Today we look at AI tools for coding, shopping, local apps, weather and safer online services. We also explain why some people are setting clearer rules for AI-made work.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-06_01_meta-launches-muse-code-as-a-lower-cost-terminal-coding-agent_fbcffa66",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_02_mistral-opens-a-3b-safety-model-with-policies-written-in-plain-language_1a17d34b",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_03_shopify-says-ai-referred-traffic-and-orders-tripled-year-over-year_f9650be6",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_04_us-appeals-court-clears-perplexity-s-shopping-agent-to-act-for-users-on_9deb2b83",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_05_windborne-raises-37-million-to-expand-balloon-fed-ai-weather-forecasts_40d8458e",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_06_macpaw-and-liquid-ai-bring-private-offline-inference-to-desktop-apps_823827dc",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_07_hark-previews-a-browser-agent-for-errands-bookings-and-research_2c94353a",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_08_linux-staging-maintainer-rejects-llm-cleanup-patches-but-keeps-a-securit_e47edf7d",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_09_a-former-openai-researcher-joins-conduit-to-pursue-non-invasive-thought_02d9e178",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_10_why-hobby-programming-communities-resist-llm-generated-work_6437fe73",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_11_cloudflare-computer-a-durable-computer-interface-for-ai-agents_3e8857a2",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_12_didilili-ai-agents-from-zero-a-project-based-agent-engineering-curriculu_d74b8f68",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-06_13_melgarafael-deskcommcrm-self-hosted-ai-sales-workflows-for-chat_c13d5955",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-06.json",
+    "itemCount": 13
+  }
+}

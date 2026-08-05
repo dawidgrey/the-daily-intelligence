@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-06_12_didilili-ai-agents-from-zero-a-project-based-agent-engineering-curriculu_d74b8f68",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/didilili/ai-agents-from-zero",
+  "canonicalUrl": "https://github.com/didilili/ai-agents-from-zero",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-05T20:04:25Z",
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "title": "didilili/ai-agents-from-zero: a project-based agent engineering curriculum",
+  "friendlyTitle": "Learn to build AI agents from the beginning",
+  "summary": "This Chinese-language learning repository covers Python agent development with LangChain, LangGraph, Dify, Coze, MCP, RAG and deployment. It combines structured chapters, runnable examples, practical projects and interview preparation in an MIT-licensed package.",
+  "friendlySummary": "This Chinese-language course includes lessons, code and projects for building AI agents with popular tools.",
+  "whyItMatters": "Chinese-reading developers can follow a broad route from basic LLM concepts to production-oriented agent projects, including deep research and commerce examples. The repository is best used as a guided curriculum, with library versions and security choices checked against current official documentation.",
+  "friendlyWhyItMatters": "Use it as a step-by-step learning path, and check the latest official documents when tools have changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-06"
+  }
+}

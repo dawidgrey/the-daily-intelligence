@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-06_08_linux-staging-maintainer-rejects-llm-cleanup-patches-but-keeps-a-securit_e47edf7d",
+  "sourceKind": "article",
+  "sourceName": "Phoronix",
+  "sourceUrl": "https://www.phoronix.com/news/Linux-Staging-Reject-LLMs",
+  "canonicalUrl": "https://www.phoronix.com/news/Linux-Staging-Reject-LLMs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-05T20:04:25Z",
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "title": "Linux staging maintainer rejects LLM cleanup patches but keeps a security exception",
+  "friendlyTitle": "Linux sets limits on AI-made beginner patches",
+  "summary": "Linux maintainer Greg Kroah-Hartman said LLM-generated cleanup patches will be rejected from drivers/staging because that area is intended to teach new contributors. AI-found security fixes remain eligible when submitters test them on real hardware and can defend the result.",
+  "friendlySummary": "The Linux staging area will reject AI-generated cleanup changes because it is a place for people to learn. Real security fixes can still be accepted if they are tested on actual hardware.",
+  "whyItMatters": "The policy separates automation that bypasses learning from assistance that may uncover genuine harm. It offers a practical template for teams: define where AI is appropriate, require disclosure and evidence, and make the human submitter accountable for the output.",
+  "friendlyWhyItMatters": "Teams can use a similar rule: allow AI where it helps, but require testing and a person who understands the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-06"
+  }
+}

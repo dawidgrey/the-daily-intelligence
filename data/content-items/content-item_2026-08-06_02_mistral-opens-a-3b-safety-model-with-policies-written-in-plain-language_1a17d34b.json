@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-06_02_mistral-opens-a-3b-safety-model-with-policies-written-in-plain-language_1a17d34b",
+  "sourceKind": "product",
+  "sourceName": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/shieldstral/",
+  "canonicalUrl": "https://mistral.ai/news/shieldstral/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-05T20:04:25Z",
+  "createdAtUtc": "2026-08-05T20:04:25Z",
+  "updatedAtUtc": "2026-08-05T20:04:25Z",
+  "title": "Mistral opens a 3B safety model with policies written in plain language",
+  "friendlyTitle": "Mistral opens a small AI safety model",
+  "summary": "Mistral released Shieldstral, a 3B open-weights model for moderating text and images under Apache 2.0. Instead of relying on a fixed harm taxonomy, operators provide a plain-language yes-or-no policy question at inference time and receive a calibrated score.",
+  "friendlySummary": "Shieldstral checks text and images against safety rules written as simple questions. Its open weights can run on one 16GB graphics card.",
+  "whyItMatters": "Teams can adapt one guardrail to different products and audiences without retraining it for every policy update. Its size also makes private deployment practical on a single 16GB GPU, though Mistral’s benchmark claims still need independent testing in each real use case.",
+  "friendlyWhyItMatters": "A business can change its safety rules more easily and keep the checker on its own system. It should still test the model with real examples before trusting it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-06"
+  }
+}
