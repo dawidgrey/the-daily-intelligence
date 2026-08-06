@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_08_na-ve-packages-company-operations-behind-one-agent-ready-api_6d747706",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+  "canonicalUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Naïve packages company operations behind one agent-ready API",
+  "friendlyTitle": "A new service helps AI agents run business tasks",
+  "summary": "Naïve has raised $28.5 million for infrastructure that lets developers connect agents to payments, email, phone numbers, cloud services, storage and company incorporation through one API. The company says it signed up more than 30,000 developer customers within months.",
+  "friendlySummary": "Naïve gives AI agents one way to use payments, email, phone numbers, cloud tools and company setup services.",
+  "whyItMatters": "Agent tooling is moving beyond generating code into operating a business. That can remove setup work for small teams, but financial and legal actions require explicit spending limits, audit logs and human accountability.",
+  "friendlyWhyItMatters": "Small teams could save time on boring setup work. Money and legal actions still need clear limits and careful review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_01_chatgpt-gives-free-users-unlimited-gpt-5-6-luna-text-chats_0f0c1961",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+  "canonicalUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "ChatGPT gives free users unlimited GPT-5.6 Luna text chats",
+  "friendlyTitle": "Free ChatGPT users get unlimited text chats",
+  "summary": "OpenAI is making GPT-5.6 Luna the default for Free and Go users, with unlimited text chats and a Think button for harder questions. Plus and Pro users get a more focused GPT-5.6 Sol and a slider for controlling reasoning effort.",
+  "friendlySummary": "OpenAI is giving free users unlimited text chats with GPT-5.6 Luna. Paid users also get better answer controls.",
+  "whyItMatters": "The useful baseline for free AI rises sharply: long-running text help becomes easier to access without watching a message counter. Tool use, files and images still have limits, so “unlimited” applies specifically to text chats.",
+  "friendlyWhyItMatters": "You can use ChatGPT for longer writing, learning and planning sessions without running out of text messages. Files and images still have limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

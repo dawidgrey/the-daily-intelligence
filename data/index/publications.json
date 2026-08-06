@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-05T20:04:25Z",
+  "generatedAtUtc": "2026-08-06T20:06:32Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-07",
+      "slug": "2026-08-07",
+      "status": "published",
+      "publicationDateUtc": "2026-08-06T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI gets cheaper to use—and harder to supervise",
+      "friendlyHeader": "AI is easier to use, but still needs careful rules",
+      "summary": "Today’s issue follows AI into everyday chat, weather warnings, biological design, business operations and personal decisions. Wider access is arriving alongside a practical warning: capable agents still need stronger boundaries than a stream of approval buttons.",
+      "friendlySummary": "Today we look at cheaper and more useful AI for chat, weather, science, work and dating. We also explain why clicking “allow” is not enough to keep AI agents safe.",
+      "itemCount": 13,
+      "href": "issues/2026-08-07.html",
+      "dataUrl": "data/daily-publications/2026-08-07.json"
+    },
     {
       "id": "daily-publication_2026-08-06",
       "slug": "2026-08-06",

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_11_aionui-puts-multiple-coding-agents-in-one-always-on-workspace_4932c346",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/iOfficeAI/AionUi",
+  "canonicalUrl": "https://github.com/iOfficeAI/AionUi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "AionUi puts multiple coding agents in one always-on workspace",
+  "friendlyTitle": "AionUi brings many coding agents into one app",
+  "summary": "AionUi is an open-source desktop workspace for running and coordinating more than 20 command-line agents, including Hermes, Claude Code, Codex and OpenCode. It has about 31,600 GitHub stars and was among the day’s strongest AI-related trending repositories.",
+  "friendlySummary": "AionUi is a free desktop app that can run Hermes, Claude Code, Codex and many other AI agents together.",
+  "whyItMatters": "Use it when you want one interface for several local agent tools, scheduled work and team-style delegation. Review each agent’s permissions before enabling always-on operation, especially around repositories and credentials.",
+  "friendlyWhyItMatters": "It can reduce tool switching and help organise several agents. Limit what each agent can access before leaving it running.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-07"
+  },
+  "howItsUseful": "Use it when you want one interface for several local agent tools, scheduled work and team-style delegation. Review each agent’s permissions before enabling always-on operation, especially around repositories and credentials.",
+  "friendlyHowItsUseful": "It can reduce tool switching and help organise several agents. Limit what each agent can access before leaving it running."
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_10_microsoft-opens-its-largest-india-data-centre-hub_e0641c08",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/world/india/microsoft-opens-its-largest-india-data-center-hub-ai-race-heats-up-2026-08-06/",
+  "canonicalUrl": "https://www.reuters.com/world/india/microsoft-opens-its-largest-india-data-center-hub-ai-race-heats-up-2026-08-06",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Microsoft opens its largest India data-centre hub",
+  "friendlyTitle": "Microsoft opens a large new AI data centre in India",
+  "summary": "Microsoft has opened its largest Indian data centre in Hyderabad, creating its fourth cloud region in the country, with Adani Group and HDFC Bank among early users. The facility is part of a roughly $20.5 billion expansion commitment in India.",
+  "friendlySummary": "Microsoft has opened its biggest data-centre site in India. It will support cloud and AI services for local businesses.",
+  "whyItMatters": "Local infrastructure can reduce latency and help organisations keep regulated data closer to home, widening practical access to cloud AI. The scale of investment also makes energy, water and grid planning part of the real cost of AI adoption.",
+  "friendlyWhyItMatters": "Nearby servers can make services faster and help with local data rules. Large sites also use a lot of power and water.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_13_scientific-agent-skills-gives-coding-agents-158-research-workflows_36917ef3",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "canonicalUrl": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Scientific Agent Skills gives coding agents 158 research workflows",
+  "friendlyTitle": "Scientific Agent Skills adds research tools to AI agents",
+  "summary": "Scientific Agent Skills is a library of 158 reusable workflows and connections to more than 100 scientific databases for biology, chemistry, medicine and drug discovery. The repository has about 32,800 stars and added more than 100 stars on the day’s Python trending list.",
+  "friendlySummary": "This free library gives AI coding agents ready-made steps for science tasks and access to many research databases.",
+  "whyItMatters": "Researchers can add structured literature, database and analysis procedures to compatible agents such as Codex, Claude Code and Cursor. Treat outputs as research assistance, verify citations and keep clinical or experimental decisions with qualified humans.",
+  "friendlyWhyItMatters": "It can speed up literature and data work. Always check sources and let trained experts make medical or laboratory decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-07"
+  },
+  "howItsUseful": "Researchers can add structured literature, database and analysis procedures to compatible agents such as Codex, Claude Code and Cursor. Treat outputs as research assistance, verify citations and keep clinical or experimental decisions with qualified humans.",
+  "friendlyHowItsUseful": "It can speed up literature and data work. Always check sources and let trained experts make medical or laboratory decisions."
+}

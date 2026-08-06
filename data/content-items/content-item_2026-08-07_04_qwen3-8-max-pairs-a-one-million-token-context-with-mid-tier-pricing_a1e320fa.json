@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_04_qwen3-8-max-pairs-a-one-million-token-context-with-mid-tier-pricing_a1e320fa",
+  "sourceKind": "article",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/models/qwen3-8-max",
+  "canonicalUrl": "https://artificialanalysis.ai/models/qwen3-8-max",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Qwen3.8 Max pairs a one-million-token context with mid-tier pricing",
+  "friendlyTitle": "Qwen3.8 Max handles very large files at a reasonable price",
+  "summary": "Independent testing from Artificial Analysis gives Qwen3.8 Max an Intelligence Index score of 58, with image and video input, a one-million-token context window and API pricing of $2 per million input tokens and $6 per million output tokens. The model ranked strongly on intelligence but was relatively verbose and slightly slower than the comparison median.",
+  "friendlySummary": "Independent tests show Qwen3.8 Max is a strong model with a very large memory window. It can read text, images and video, but it often writes long answers.",
+  "whyItMatters": "The model is a credible option for large-document and multimodal workflows, but its high output volume can increase real task costs. Teams should compare cost per completed job, not just the attractive headline token price.",
+  "friendlyWhyItMatters": "It may suit big research or document tasks. Check the total cost of its long answers before using it at scale.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

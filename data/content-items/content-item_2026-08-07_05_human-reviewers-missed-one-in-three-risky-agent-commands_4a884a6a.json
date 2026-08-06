@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_05_human-reviewers-missed-one-in-three-risky-agent-commands_4a884a6a",
+  "sourceKind": "research",
+  "sourceName": "Scale X",
+  "sourceUrl": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "canonicalUrl": "https://scalex.dev/blog/ai-agent-permissions-stats",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Human reviewers missed one in three risky agent commands",
+  "friendlyTitle": "People missed many dangerous AI agent requests",
+  "summary": "Across more than 40,000 runs of a browser-based agent-permission game, players missed one in three threats on average. Familiar-looking npm scripts were a particular blind spot, and only about one in five players caught every threat without heavily blocking safe commands.",
+  "friendlySummary": "In a game with more than 40,000 runs, people allowed about one in three dangerous commands. Normal-looking software commands were easy to trust by mistake.",
+  "whyItMatters": "Approval prompts are not a complete security boundary: repetition, time pressure and missing context wear reviewers down. Run agents inside narrow sandboxes, limit secrets and permissions, and reserve human approval for clear high-risk transitions.",
+  "friendlyWhyItMatters": "Do not depend only on “allow” buttons. Give AI agents limited access and keep private keys and important files outside their workspace.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

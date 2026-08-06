@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_03_evo-2-designs-whole-phage-genomes-that-kill-e-coli_7f355cb5",
+  "sourceKind": "research",
+  "sourceName": "Stanford Report",
+  "sourceUrl": "https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages",
+  "canonicalUrl": "https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Evo 2 designs whole phage genomes that kill E. coli",
+  "friendlyTitle": "AI designed viruses that killed harmful bacteria in the lab",
+  "summary": "Stanford researchers used the Evo 2 genome model to design nearly 300 bacteriophages, then found 16 strong E. coli killers in laboratory tests. A cocktail of the generated phages also overcame bacteria resistant to the original natural phage.",
+  "friendlySummary": "Stanford scientists used AI to design tiny viruses called phages. Sixteen of them were very good at killing E. coli bacteria in tests.",
+  "whyItMatters": "This is a concrete laboratory result, not just a computer prediction, and it points toward new ways to tackle antibiotic resistance. It also raises the stakes for biosecurity controls around models that can write functional genomes.",
+  "friendlyWhyItMatters": "This could help create new treatments when antibiotics stop working. It also shows why powerful biology AI needs strong safety checks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

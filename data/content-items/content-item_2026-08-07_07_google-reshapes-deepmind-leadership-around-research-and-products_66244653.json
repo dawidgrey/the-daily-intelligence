@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_07_google-reshapes-deepmind-leadership-around-research-and-products_66244653",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
+  "canonicalUrl": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "Google reshapes DeepMind leadership around research and products",
+  "friendlyTitle": "Google changes who leads its AI work",
+  "summary": "Demis Hassabis is moving from Google DeepMind CEO to Alphabet chief scientist and DeepMind chairman, while Koray Kavukcuoglu takes day-to-day control. Reuters also reports several prominent engineers, including Jeff Dean, are leaving to form a machine-learning research startup.",
+  "friendlySummary": "Demis Hassabis will focus more on science, while another leader runs DeepMind’s daily work. Several well-known engineers are also leaving Google.",
+  "whyItMatters": "Leadership changes can alter how quickly Gemini research becomes dependable products and cloud services. Businesses building on Google’s AI stack should watch product roadmaps and staffing continuity, not just benchmark announcements.",
+  "friendlyWhyItMatters": "These changes may affect how quickly new Gemini tools arrive and how strongly Google focuses on business products.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}

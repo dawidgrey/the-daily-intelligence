@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-07_02_weathernext-adds-about-a-day-of-accuracy-to-cyclone-forecasts_f5f908b6",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+  "canonicalUrl": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-06T20:06:32Z",
+  "createdAtUtc": "2026-08-06T20:06:32Z",
+  "updatedAtUtc": "2026-08-06T20:06:32Z",
+  "title": "WeatherNext adds about a day of accuracy to cyclone forecasts",
+  "friendlyTitle": "AI cyclone forecasts may give people one more day to prepare",
+  "summary": "Google DeepMind says WeatherNext predicts cyclone tracks, intensity and wind structure with a lead-time advantage of more than 24 hours over earlier leading systems. The Nature-published work has already supported operational forecasts, and the models are being open-sourced.",
+  "friendlySummary": "Google’s WeatherNext model can predict where cyclones go and how strong they become about one day earlier than older leading systems.",
+  "whyItMatters": "An extra day of useful warning can improve evacuation, logistics and emergency planning. Open weights also give weather agencies and researchers a path to test and adapt the system rather than relying only on a closed forecast feed.",
+  "friendlyWhyItMatters": "Earlier warnings can help families, emergency teams and businesses prepare. Google is also sharing the models for researchers to test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-07"
+  }
+}
