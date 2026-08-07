@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_09_suno-adds-download-limits-audio-provenance-and-clearer-anti-spam-rules_937d3775",
+  "sourceKind": "product",
+  "sourceName": "Suno",
+  "sourceUrl": "https://suno.com/blog/building-the-future-of-music-responsibly",
+  "canonicalUrl": "https://suno.com/blog/building-the-future-of-music-responsibly",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "Suno adds download limits, audio provenance and clearer anti-spam rules",
+  "friendlyTitle": "Suno adds tools to identify AI music and reduce spam",
+  "summary": "Suno outlined a forthcoming download policy intended to curb mass distribution of generated songs and said it will add audio watermarking and fingerprinting. Updated community rules prohibit unauthorized imitation, deceptive audio, spam, bots, fake engagement and use of a person’s voice or likeness without permission.",
+  "friendlySummary": "Suno will limit mass downloads and add hidden signals that help platforms identify generated songs. It also made rules against imitation, fake engagement and unauthorized voices clearer.",
+  "whyItMatters": "Generative music services are being pushed to distinguish personal creation from industrial-scale spam and fraud. Creators and distributors should gain better provenance signals, although the effectiveness of the limits and resistance of the markings to removal still need real-world evidence.",
+  "friendlyWhyItMatters": "These changes may help honest creators and music services separate creative use from spam and fraud. We still need to see how well the tools work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

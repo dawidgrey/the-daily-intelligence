@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_01_openai-pauses-parts-of-astra-development-while-testing-critical-cyber-ca_833934ee",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "canonicalUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "OpenAI pauses parts of Astra development while testing critical cyber capability",
+  "friendlyTitle": "OpenAI adds stronger safety checks for a powerful cyber model",
+  "summary": "OpenAI says preliminary tests of its upcoming Astra model are strong enough that it cannot rule out the highest cybersecurity capability level in its Preparedness Framework. The company has paused internal Astra activities that do not meet stronger controls and is adding isolation, monitoring, restricted access and external testing.",
+  "friendlySummary": "OpenAI says its coming Astra model may be unusually strong at cybersecurity. Some work has been paused while the company improves isolation, access controls and monitoring.",
+  "whyItMatters": "A model that can autonomously find and exploit serious vulnerabilities would be valuable to defenders but dangerous with broad access. Organizations planning advanced coding agents should expect stricter identity, sandboxing, monitoring and model-access requirements as capabilities rise.",
+  "friendlyWhyItMatters": "More capable coding agents need stronger limits. Businesses should give them small permissions, safe test systems and clear human oversight.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

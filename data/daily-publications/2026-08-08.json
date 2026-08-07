@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-08",
+  "slug": "2026-08-08",
+  "status": "published",
+  "publicationDateUtc": "2026-08-07T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI agents meet the realities of deployment, safety and scale",
+  "friendlyHeader": "AI helpers are getting safer and easier to run",
+  "summary": "Today’s issue follows AI beyond the model itself: browsers built for agents, managed runtimes, shared harnesses, better evaluations and more precise safeguards. It also tracks practical shifts in inference hardware, music transparency and open tools for creative and multi-agent work.",
+  "friendlySummary": "Today we look at new ways to run AI agents, test them and give them safer access to tools. We also cover useful changes in biology help, music creation, AI hardware and three popular open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-08_01_openai-pauses-parts-of-astra-development-while-testing-critical-cyber-ca_833934ee",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_02_anthropic-cuts-benign-biology-blocks-by-about-85-while-retaining-dual-us_7fee6508",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_03_cloudflare-builds-kitesurf-as-a-lighter-browser-for-ai-agents_6f79108c",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_04_langchain-opens-managed-deep-agents-public-beta-for-production-deploymen_d7eea6b4",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_05_kiro-unifies-its-ide-terminal-web-and-mobile-agents-behind-one-harness_4b707aa7",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_06_tutormoments-finds-ai-tutors-often-help-too-much_fd5b733b",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_07_harnessopt-bench-measures-whether-models-can-improve-the-systems-around_8390da05",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_08_amd-agrees-to-acquire-taalas-for-specialized-ai-inference-technology_ccef7abc",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_09_suno-adds-download-limits-audio-provenance-and-clearer-anti-spam-rules_937d3775",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_10_baseten-joins-hugging-face-as-an-inference-provider-for-open-models_72ea094f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_11_comfy-org-comfyui-visual-workflows-for-generative-media_f34c2412",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_12_google-skills-reusable-instructions-for-google-products-and-cloud-agents_876f4401",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-08_13_666ghj-mirofish-multi-agent-simulations-for-exploring-possible-outcomes_62c7a5d1",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-08.json",
+    "itemCount": 13
+  }
+}

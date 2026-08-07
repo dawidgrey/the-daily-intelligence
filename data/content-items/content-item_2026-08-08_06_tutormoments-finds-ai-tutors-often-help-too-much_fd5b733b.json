@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_06_tutormoments-finds-ai-tutors-often-help-too-much_fd5b733b",
+  "sourceKind": "research",
+  "sourceName": "Ai2 on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/tutormoments",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/tutormoments",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "TutorMoments finds AI tutors often help too much",
+  "friendlyTitle": "AI tutors may help so much that students learn less",
+  "summary": "Ai2 released TutorMoments, an evaluation built from 462 de-identified one-to-one maths tutoring transcripts and more than 1,500 teacher-annotated decision points. Its preview finds that models told only to tutor well tend to over-help, while explicit instructions about when to support or challenge a student improve but do not solve the problem.",
+  "friendlySummary": "A new test shows that AI tutors often do too much of the work. Clear instructions help them choose when to give a hint and when to let the student think.",
+  "whyItMatters": "A useful tutor should not simply produce the answer faster; it should preserve the learner’s thinking. Parents, educators and product teams can improve AI tutoring prompts by asking for questions, hints and adjustable support rather than full solutions by default.",
+  "friendlyWhyItMatters": "Ask an AI tutor to guide you with questions instead of giving the full answer. The struggle to solve a problem is part of learning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_10_baseten-joins-hugging-face-as-an-inference-provider-for-open-models_72ea094f",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/baseten",
+  "canonicalUrl": "https://huggingface.co/blog/baseten",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "Baseten joins Hugging Face as an inference provider for open models",
+  "friendlyTitle": "Hugging Face adds another way to run open AI models",
+  "summary": "Hugging Face added Baseten to its Inference Providers, initially for conversational and text-generation models including Kimi K3, DeepSeek V4 Flash and GLM-5.2. Developers can route requests through Hugging Face billing or bring a Baseten key using the Hub interface and standard Python or JavaScript clients.",
+  "friendlySummary": "Developers can now use Baseten to run several popular open models through Hugging Face tools and billing.",
+  "whyItMatters": "A common model interface makes it easier to compare hosts or add capacity without rewriting an application. Teams should still benchmark latency, regional availability, pricing and data-handling terms because the same model can behave differently across serving platforms.",
+  "friendlyWhyItMatters": "It becomes easier to change or compare AI hosting services. Check speed, cost and privacy before choosing one for real work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

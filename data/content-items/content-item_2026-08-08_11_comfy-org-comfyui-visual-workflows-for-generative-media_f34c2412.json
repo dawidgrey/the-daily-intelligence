@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_11_comfy-org-comfyui-visual-workflows-for-generative-media_f34c2412",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/Comfy-Org/ComfyUI",
+  "canonicalUrl": "https://github.com/Comfy-Org/ComfyUI",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "Comfy-Org/ComfyUI: visual workflows for generative media",
+  "friendlyTitle": "ComfyUI: build visual AI media workflows",
+  "summary": "ComfyUI is a widely used node-based interface and backend for constructing image, video and audio generation pipelines. The actively maintained project has about 125,000 GitHub stars and supports reusable graphs, local models, an API and a large extension ecosystem.",
+  "friendlySummary": "ComfyUI lets you connect boxes on a graph to control how AI creates and edits images, video and audio.",
+  "whyItMatters": "Creators and developers can build repeatable media workflows by connecting model loading, prompting, control and post-processing nodes instead of hiding the process behind one prompt. Start with trusted templates and review third-party nodes before installing them.",
+  "friendlyWhyItMatters": "Use it for repeatable creative workflows on your own computer. Check community add-ons before installing them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

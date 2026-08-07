@@ -21,6 +21,16 @@
     <priority>0.1</priority>
   </url>
   <url>
+    <loc>https://dailyintelligence.lacbgrey.com.au/issues/2026-08-08.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailyintelligence.lacbgrey.com.au/issues/2026-08-07.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dailyintelligence.lacbgrey.com.au/issues/2026-08-06.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

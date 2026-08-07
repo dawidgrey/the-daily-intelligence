@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_04_langchain-opens-managed-deep-agents-public-beta-for-production-deploymen_d7eea6b4",
+  "sourceKind": "product",
+  "sourceName": "LangChain",
+  "sourceUrl": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+  "canonicalUrl": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "LangChain opens Managed Deep Agents public beta for production deployments",
+  "friendlyTitle": "LangChain offers a managed home for production AI agents",
+  "summary": "LangChain’s Managed Deep Agents public beta lets developers build in Python or TypeScript and deploy to LangSmith with one command. The hosted runtime supplies durable execution, sandboxes, streaming, persistence, memory, identity, evaluations, schedules and workplace channels around the open-source Deep Agents harness.",
+  "friendlySummary": "Developers can write an agent, test it locally and deploy it with one command. LangChain manages restarts, memory, safe code spaces, user identity and testing tools.",
+  "whyItMatters": "The difficult part of an agent product is often the operational layer rather than the first demo. Teams can use the service to avoid rebuilding common infrastructure, while still evaluating hosting cost, data governance, vendor dependence and the maturity of beta features.",
+  "friendlyWhyItMatters": "This can save months of infrastructure work, but teams should check cost, privacy and beta limits before depending on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

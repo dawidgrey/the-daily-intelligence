@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-06T20:06:32Z",
+  "generatedAtUtc": "2026-08-07T20:04:34Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-08",
+      "slug": "2026-08-08",
+      "status": "published",
+      "publicationDateUtc": "2026-08-07T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI agents meet the realities of deployment, safety and scale",
+      "friendlyHeader": "AI helpers are getting safer and easier to run",
+      "summary": "Today’s issue follows AI beyond the model itself: browsers built for agents, managed runtimes, shared harnesses, better evaluations and more precise safeguards. It also tracks practical shifts in inference hardware, music transparency and open tools for creative and multi-agent work.",
+      "friendlySummary": "Today we look at new ways to run AI agents, test them and give them safer access to tools. We also cover useful changes in biology help, music creation, AI hardware and three popular open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-08-08.html",
+      "dataUrl": "data/daily-publications/2026-08-08.json"
+    },
     {
       "id": "daily-publication_2026-08-07",
       "slug": "2026-08-07",

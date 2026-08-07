@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_13_666ghj-mirofish-multi-agent-simulations-for-exploring-possible-outcomes_62c7a5d1",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/666ghj/MiroFish",
+  "canonicalUrl": "https://github.com/666ghj/MiroFish",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "666ghj/MiroFish: multi-agent simulations for exploring possible outcomes",
+  "friendlyTitle": "MiroFish: explore scenarios with many simulated AI agents",
+  "summary": "MiroFish is an AGPL-licensed swarm-intelligence engine that builds knowledge graphs and runs multi-agent social simulations from supplied material. The project has more than 70,000 GitHub stars and targets scenario exploration, public-opinion analysis and forecasting experiments.",
+  "friendlySummary": "MiroFish creates a simulated group of AI characters and lets them react to information and events.",
+  "whyItMatters": "Researchers and strategy teams can use it to generate structured scenarios and inspect how simulated actors respond to events. Treat outputs as hypotheses rather than predictions, document assumptions and compare them with real evidence before making decisions.",
+  "friendlyWhyItMatters": "Use it to explore possible outcomes, not to predict the future with certainty. Check every result against real-world evidence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}

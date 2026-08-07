@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-05T20:04:25Z",
+  "generatedAtUtc": "2026-08-07T20:04:34Z",
   "items": [
     {
-      "id": "content-item_2026-08-06_01_meta-launches-muse-code-as-a-lower-cost-terminal-coding-agent_fbcffa66",
+      "id": "content-item_2026-08-08_01_openai-pauses-parts-of-astra-development-while-testing-critical-cyber-ca_833934ee",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI pauses parts of Astra development while testing critical cyber capability",
+      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "id": "content-item_2026-08-08_02_anthropic-cuts-benign-biology-blocks-by-about-85-while-retaining-dual-us_7fee6508",
       "sourceKind": "product",
-      "sourceName": "CNBC",
-      "title": "Meta launches Muse Code as a lower-cost terminal coding agent",
-      "sourceUrl": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html"
+      "sourceName": "Anthropic",
+      "title": "Anthropic cuts benign biology blocks by about 85% while retaining dual-use limits",
+      "sourceUrl": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
     },
     {
-      "id": "content-item_2026-08-06_02_mistral-opens-a-3b-safety-model-with-policies-written-in-plain-language_1a17d34b",
+      "id": "content-item_2026-08-08_03_cloudflare-builds-kitesurf-as-a-lighter-browser-for-ai-agents_6f79108c",
       "sourceKind": "product",
-      "sourceName": "Mistral AI",
-      "title": "Mistral opens a 3B safety model with policies written in plain language",
-      "sourceUrl": "https://mistral.ai/news/shieldstral/"
+      "sourceName": "Cloudflare",
+      "title": "Cloudflare builds Kitesurf as a lighter browser for AI agents",
+      "sourceUrl": "https://blog.cloudflare.com/kitesurf"
     },
     {
-      "id": "content-item_2026-08-06_03_shopify-says-ai-referred-traffic-and-orders-tripled-year-over-year_f9650be6",
-      "sourceKind": "article",
-      "sourceName": "Shopify",
-      "title": "Shopify says AI-referred traffic and orders tripled year over year",
-      "sourceUrl": "https://www.shopify.com/investors/quarterly-results/webcast/q2-2026"
-    },
-    {
-      "id": "content-item_2026-08-06_04_us-appeals-court-clears-perplexity-s-shopping-agent-to-act-for-users-on_9deb2b83",
-      "sourceKind": "regulation",
-      "sourceName": "Knight First Amendment Institute",
-      "title": "US appeals court clears Perplexity’s shopping agent to act for users on Amazon",
-      "sourceUrl": "https://knightcolumbia.org/cases/amazon-v-perplexity-ai"
-    },
-    {
-      "id": "content-item_2026-08-06_05_windborne-raises-37-million-to-expand-balloon-fed-ai-weather-forecasts_40d8458e",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "WindBorne raises $37 million to expand balloon-fed AI weather forecasts",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
-    },
-    {
-      "id": "content-item_2026-08-06_06_macpaw-and-liquid-ai-bring-private-offline-inference-to-desktop-apps_823827dc",
+      "id": "content-item_2026-08-08_04_langchain-opens-managed-deep-agents-public-beta-for-production-deploymen_d7eea6b4",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "MacPaw and Liquid AI bring private, offline inference to desktop apps",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
+      "sourceName": "LangChain",
+      "title": "LangChain opens Managed Deep Agents public beta for production deployments",
+      "sourceUrl": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta"
     },
     {
-      "id": "content-item_2026-08-06_07_hark-previews-a-browser-agent-for-errands-bookings-and-research_2c94353a",
+      "id": "content-item_2026-08-08_05_kiro-unifies-its-ide-terminal-web-and-mobile-agents-behind-one-harness_4b707aa7",
+      "sourceKind": "article",
+      "sourceName": "Kiro",
+      "title": "Kiro unifies its IDE, terminal, web and mobile agents behind one harness",
+      "sourceUrl": "https://kiro.dev/blog/one-agent/"
+    },
+    {
+      "id": "content-item_2026-08-08_06_tutormoments-finds-ai-tutors-often-help-too-much_fd5b733b",
+      "sourceKind": "research",
+      "sourceName": "Ai2 on Hugging Face",
+      "title": "TutorMoments finds AI tutors often help too much",
+      "sourceUrl": "https://huggingface.co/blog/allenai/tutormoments"
+    },
+    {
+      "id": "content-item_2026-08-08_07_harnessopt-bench-measures-whether-models-can-improve-the-systems-around_8390da05",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "HarnessOpt-Bench measures whether models can improve the systems around them",
+      "sourceUrl": "https://arxiv.org/abs/2608.06301"
+    },
+    {
+      "id": "content-item_2026-08-08_08_amd-agrees-to-acquire-taalas-for-specialized-ai-inference-technology_ccef7abc",
+      "sourceKind": "article",
+      "sourceName": "AMD",
+      "title": "AMD agrees to acquire Taalas for specialized AI inference technology",
+      "sourceUrl": "https://newsroom.amd.com/news/amd-acquires-taalas-ai-inference/"
+    },
+    {
+      "id": "content-item_2026-08-08_09_suno-adds-download-limits-audio-provenance-and-clearer-anti-spam-rules_937d3775",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Hark previews a browser agent for errands, bookings and research",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+      "sourceName": "Suno",
+      "title": "Suno adds download limits, audio provenance and clearer anti-spam rules",
+      "sourceUrl": "https://suno.com/blog/building-the-future-of-music-responsibly"
     },
     {
-      "id": "content-item_2026-08-06_08_linux-staging-maintainer-rejects-llm-cleanup-patches-but-keeps-a-securit_e47edf7d",
-      "sourceKind": "article",
-      "sourceName": "Phoronix",
-      "title": "Linux staging maintainer rejects LLM cleanup patches but keeps a security exception",
-      "sourceUrl": "https://www.phoronix.com/news/Linux-Staging-Reject-LLMs"
+      "id": "content-item_2026-08-08_10_baseten-joins-hugging-face-as-an-inference-provider-for-open-models_72ea094f",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Baseten joins Hugging Face as an inference provider for open models",
+      "sourceUrl": "https://huggingface.co/blog/baseten"
     },
     {
-      "id": "content-item_2026-08-06_09_a-former-openai-researcher-joins-conduit-to-pursue-non-invasive-thought_02d9e178",
-      "sourceKind": "article",
-      "sourceName": "Naomi Bashkansky",
-      "title": "A former OpenAI researcher joins Conduit to pursue non-invasive thought-to-text",
-      "sourceUrl": "https://naomibashkansky.com/blog/telepathy/"
-    },
-    {
-      "id": "content-item_2026-08-06_10_why-hobby-programming-communities-resist-llm-generated-work_6437fe73",
-      "sourceKind": "article",
-      "sourceName": "Fogus",
-      "title": "Why hobby programming communities resist LLM-generated work",
-      "sourceUrl": "https://blog.fogus.me/llm/born-against.html"
-    },
-    {
-      "id": "content-item_2026-08-06_11_cloudflare-computer-a-durable-computer-interface-for-ai-agents_3e8857a2",
+      "id": "content-item_2026-08-08_11_comfy-org-comfyui-visual-workflows-for-generative-media_f34c2412",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "cloudflare/computer: a durable computer interface for AI agents",
-      "sourceUrl": "https://github.com/cloudflare/computer"
+      "sourceName": "GitHub Trending Python",
+      "title": "Comfy-Org/ComfyUI: visual workflows for generative media",
+      "sourceUrl": "https://github.com/Comfy-Org/ComfyUI"
     },
     {
-      "id": "content-item_2026-08-06_12_didilili-ai-agents-from-zero-a-project-based-agent-engineering-curriculu_d74b8f68",
+      "id": "content-item_2026-08-08_12_google-skills-reusable-instructions-for-google-products-and-cloud-agents_876f4401",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "didilili/ai-agents-from-zero: a project-based agent engineering curriculum",
-      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero"
+      "sourceName": "GitHub Trending Python",
+      "title": "google/skills: reusable instructions for Google products and cloud agents",
+      "sourceUrl": "https://github.com/google/skills"
     },
     {
-      "id": "content-item_2026-08-06_13_melgarafael-deskcommcrm-self-hosted-ai-sales-workflows-for-chat_c13d5955",
+      "id": "content-item_2026-08-08_13_666ghj-mirofish-multi-agent-simulations-for-exploring-possible-outcomes_62c7a5d1",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "melgarafael/DeskcommCRM: self-hosted AI sales workflows for chat",
-      "sourceUrl": "https://github.com/melgarafael/DeskcommCRM"
+      "sourceName": "GitHub Trending Python",
+      "title": "666ghj/MiroFish: multi-agent simulations for exploring possible outcomes",
+      "sourceUrl": "https://github.com/666ghj/MiroFish"
     }
   ]
 }

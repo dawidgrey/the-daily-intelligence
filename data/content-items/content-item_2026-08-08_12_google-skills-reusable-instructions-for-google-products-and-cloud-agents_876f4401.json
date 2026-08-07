@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-08_12_google-skills-reusable-instructions-for-google-products-and-cloud-agents_876f4401",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/google/skills",
+  "canonicalUrl": "https://github.com/google/skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-07T20:04:34Z",
+  "createdAtUtc": "2026-08-07T20:04:34Z",
+  "updatedAtUtc": "2026-08-07T20:04:34Z",
+  "title": "google/skills: reusable instructions for Google products and cloud agents",
+  "friendlyTitle": "Google shares ready-made skills for AI agents",
+  "summary": "Google’s fast-rising repository packages agent skills for Google Cloud and related technologies, including deployment, RAG, analytics, model management and troubleshooting workflows. It supports installation through the emerging Agent Skills format and includes plugins for several coding-agent hosts.",
+  "friendlySummary": "This repository gives agents reusable instructions for Google Cloud, data, AI models and other Google technologies.",
+  "whyItMatters": "Developers can give compatible agents maintained procedures for complex Google tasks instead of recreating instructions in every prompt. Review each skill’s permissions and generated infrastructure before letting an agent make cloud changes.",
+  "friendlyWhyItMatters": "Install only the skills you need, and check every cloud change and permission before approving it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-08"
+  }
+}
