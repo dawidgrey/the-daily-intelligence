@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_05_backflip-converts-3d-scans-into-editable-cad-feature-trees_6e0470c7",
+  "sourceKind": "product",
+  "sourceName": "Backflip AI",
+  "sourceUrl": "https://www.backflip.ai/blog/the-reverse-replicator",
+  "canonicalUrl": "https://www.backflip.ai/blog/the-reverse-replicator",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "Backflip converts 3D scans into editable CAD feature trees",
+  "friendlyTitle": "Backflip turns a scanned part into an editable 3D design",
+  "summary": "Backflip AI released a second-generation model that turns scans and mesh files into parametric CAD built from operations such as extrusions, revolutions and patterns. The company says conversions take one to five minutes, work through Autodesk Fusion or a web app, and can be exported as STEP files.",
+  "friendlySummary": "Backflip’s AI changes a 3D scan into a CAD file that engineers can edit. It works in Autodesk Fusion or a web browser and can export standard STEP files.",
+  "whyItMatters": "Editable CAD is far more useful to engineers than a surface-only mesh. If performance holds across complex parts, this could reduce the cost and skilled time required to digitise legacy factory components and produce replacements.",
+  "friendlyWhyItMatters": "Factories may be able to replace old parts faster because they do not need to rebuild every design by hand. Complex parts still need careful checking before manufacturing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_01_imagine-image-2-0-adds-precise-edits-multi-image-references-and-smart-re_53b313cc",
+  "sourceKind": "product",
+  "sourceName": "xAI",
+  "sourceUrl": "https://x.ai/news/grok-imagine-image-2",
+  "canonicalUrl": "https://x.ai/news/grok-imagine-image-2",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "Imagine Image 2.0 adds precise edits, multi-image references and smart resizing",
+  "friendlyTitle": "Grok gets better tools for making and editing images",
+  "summary": "xAI has made Imagine Image 2.0 generally available in Grok’s web and mobile products. The release adds region-specific editing, background removal, up to five reference images, smart resizing and templates, while API access is still forthcoming.",
+  "friendlySummary": "xAI’s new image tool can change one part of a picture, remove backgrounds, use up to five reference pictures and resize an image for different formats. It is available on Grok’s website and mobile apps.",
+  "whyItMatters": "The update turns image generation into a more iterative production workflow rather than a one-shot novelty. Designers, marketers and small businesses can revise assets with less manual compositing, although xAI’s benchmark claims should still be tested on real projects.",
+  "friendlyWhyItMatters": "This can save time when making posters, product pictures or social media graphics. Try it on your own work before deciding how well it fits your needs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

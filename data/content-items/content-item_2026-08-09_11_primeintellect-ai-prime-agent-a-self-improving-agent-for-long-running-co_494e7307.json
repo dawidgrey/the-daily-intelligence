@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_11_primeintellect-ai-prime-agent-a-self-improving-agent-for-long-running-co_494e7307",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "canonicalUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "PrimeIntellect-ai/prime-agent: a self-improving agent for long-running coding work",
+  "friendlyTitle": "Prime Agent helps AI keep working on long coding tasks",
+  "summary": "Prime Agent is an MIT-licensed coding-agent platform built around persistent work, subagents, reusable skills and an RLM programming model. It was the strongest AI-related mover in today’s collected GitHub Trending data and currently shows about 8,300 stars.",
+  "friendlySummary": "Prime Agent is an open-source coding helper with memory, smaller helper agents and reusable skills. It was the fastest-moving AI project in today’s GitHub collection.",
+  "whyItMatters": "Developers can use it to experiment with long-running autonomous coding, persistent Python analysis, headless automation and provider-flexible workflows. Its architecture documentation is also useful for studying how an agent separates its daemon, workers, kernels and persistence.",
+  "friendlyWhyItMatters": "Developers can try it for longer coding jobs or study how a modern coding agent is built. Test it in a safe project before giving it access to important code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

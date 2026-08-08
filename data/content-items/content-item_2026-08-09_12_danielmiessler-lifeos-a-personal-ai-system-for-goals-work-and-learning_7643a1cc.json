@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_12_danielmiessler-lifeos-a-personal-ai-system-for-goals-work-and-learning_7643a1cc",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/danielmiessler/LifeOS",
+  "canonicalUrl": "https://github.com/danielmiessler/LifeOS",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "danielmiessler/LifeOS: a personal AI system for goals, work and learning",
+  "friendlyTitle": "LifeOS organises personal goals and AI workflows",
+  "summary": "LifeOS is an MIT-licensed personal AI harness that organises goals, skills, memory and repeatable workflows across life and work. The project is active, appeared among today’s leading AI-related GitHub movers and currently shows about 17,300 stars.",
+  "friendlySummary": "LifeOS is an open-source system for using AI with goals, learning, work and reusable instructions. It is one of today’s popular AI projects on GitHub.",
+  "whyItMatters": "It offers a concrete structure for turning personal objectives into agent-assisted plans and reusable procedures. People building their own personal knowledge or productivity system can inspect its templates and architecture rather than starting from a blank folder.",
+  "friendlyWhyItMatters": "You can study its templates to build a more organised personal AI setup. Review its privacy and security choices before adding personal information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

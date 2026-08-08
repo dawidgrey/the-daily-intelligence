@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-08-07T20:04:34Z",
+  "generatedAtUtc": "2026-08-08T20:05:30Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-08-09",
+      "slug": "2026-08-09",
+      "status": "published",
+      "publicationDateUtc": "2026-08-08T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from novelty to measurable work",
+      "friendlyHeader": "AI is becoming a more useful everyday tool",
+      "summary": "Today’s issue follows AI into creative production, company budgets, travel search, manufacturing and everyday communication. The common thread is practical control: better tools are arriving, but useful deployment depends on measurement, privacy, evaluation and clear human judgment.",
+      "friendlySummary": "Today we look at AI for images, work, travel, factories and learning. We also explain why people still need to watch costs, protect private information and check AI results carefully.",
+      "itemCount": 13,
+      "href": "issues/2026-08-09.html",
+      "dataUrl": "data/daily-publications/2026-08-09.json"
+    },
     {
       "id": "daily-publication_2026-08-08",
       "slug": "2026-08-08",

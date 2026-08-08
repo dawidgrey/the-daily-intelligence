@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_10_a-505-task-benchmark-tests-whether-llms-can-work-on-file-system-engineer_0528e422",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2608.00280",
+  "canonicalUrl": "https://arxiv.org/abs/2608.00280",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "A 505-task benchmark tests whether LLMs can work on file-system engineering",
+  "friendlyTitle": "A new test checks how well AI can build and fix file systems",
+  "summary": "Researchers introduced φ-Bench, a 505-task evaluation covering file-system understanding, implementation, performance modelling, debugging, optimisation and feature development. The study compares several open and proprietary models and analyses efficiency, failure causes and mitigation techniques.",
+  "friendlySummary": "Researchers made 505 tasks about understanding, coding, debugging and improving file systems. They used the tasks to compare several open and closed AI models.",
+  "whyItMatters": "Broad coding scores do not show whether a model can safely handle specialised systems work. Domain-specific evaluations like this can help engineering teams select models by task, expose failure modes and decide where expert review remains essential.",
+  "friendlyWhyItMatters": "A model that is good at normal coding may still struggle with important system software. Special tests help teams choose the right model and know when an expert must check the work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

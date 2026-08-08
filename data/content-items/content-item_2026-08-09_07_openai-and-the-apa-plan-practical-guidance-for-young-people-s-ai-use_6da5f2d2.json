@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-09_07_openai-and-the-apa-plan-practical-guidance-for-young-people-s-ai-use_6da5f2d2",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+  "canonicalUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-08T20:05:30Z",
+  "createdAtUtc": "2026-08-08T20:05:30Z",
+  "updatedAtUtc": "2026-08-08T20:05:30Z",
+  "title": "OpenAI and the APA plan practical guidance for young people’s AI use",
+  "friendlyTitle": "OpenAI and psychology experts will make guidance for young AI users",
+  "summary": "OpenAI and the American Psychological Association are working on evidence-informed resources for families, schools and clinicians. Planned areas include healthy use, signs of overreliance, developmentally appropriate design and ways to connect young people with real-world support.",
+  "friendlySummary": "OpenAI and the American Psychological Association plan resources for parents, schools and health workers. They will cover healthy AI use, overuse and when a young person needs help from a real person.",
+  "whyItMatters": "Families and professionals need more than generic warnings as teenagers use chatbots for advice and emotional support. Practical, independently scrutinised guidance could help adults set healthier boundaries while keeping human care and relationships central.",
+  "friendlyWhyItMatters": "AI can help with information, but it should not replace family, teachers, friends or professional care. Clear guidance can help adults support young people safely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-09"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-07T20:04:34Z",
+  "generatedAtUtc": "2026-08-08T20:05:30Z",
   "items": [
     {
-      "id": "content-item_2026-08-08_01_openai-pauses-parts-of-astra-development-while-testing-critical-cyber-ca_833934ee",
+      "id": "content-item_2026-08-09_01_imagine-image-2-0-adds-precise-edits-multi-image-references-and-smart-re_53b313cc",
+      "sourceKind": "product",
+      "sourceName": "xAI",
+      "title": "Imagine Image 2.0 adds precise edits, multi-image references and smart resizing",
+      "sourceUrl": "https://x.ai/news/grok-imagine-image-2"
+    },
+    {
+      "id": "content-item_2026-08-09_02_nextslide-joins-openai-to-bring-presentation-making-ideas-into-chatgpt_fe0ca32f",
+      "sourceKind": "product",
+      "sourceName": "NextSlide",
+      "title": "NextSlide joins OpenAI to bring presentation-making ideas into ChatGPT",
+      "sourceUrl": "https://nextslide.ai/"
+    },
+    {
+      "id": "content-item_2026-08-09_03_rippling-launches-controls-that-connect-ai-spending-to-business-outcomes_3a9748cd",
+      "sourceKind": "product",
+      "sourceName": "Rippling",
+      "title": "Rippling launches controls that connect AI spending to business outcomes",
+      "sourceUrl": "https://www.rippling.com/blog/introducing-ai-spend-console"
+    },
+    {
+      "id": "content-item_2026-08-09_04_airbnb-prepares-an-optional-natural-language-search-experience_883433c4",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Airbnb prepares an optional natural-language search experience",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+    },
+    {
+      "id": "content-item_2026-08-09_05_backflip-converts-3d-scans-into-editable-cad-feature-trees_6e0470c7",
+      "sourceKind": "product",
+      "sourceName": "Backflip AI",
+      "title": "Backflip converts 3D scans into editable CAD feature trees",
+      "sourceUrl": "https://www.backflip.ai/blog/the-reverse-replicator"
+    },
+    {
+      "id": "content-item_2026-08-09_06_openai-data-shows-workplace-chatgpt-use-is-shifting-from-asking-to-doing_fea9ae47",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "OpenAI pauses parts of Astra development while testing critical cyber capability",
-      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      "title": "OpenAI data shows workplace ChatGPT use is shifting from asking to doing",
+      "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
     },
     {
-      "id": "content-item_2026-08-08_02_anthropic-cuts-benign-biology-blocks-by-about-85-while-retaining-dual-us_7fee6508",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic cuts benign biology blocks by about 85% while retaining dual-use limits",
-      "sourceUrl": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-    },
-    {
-      "id": "content-item_2026-08-08_03_cloudflare-builds-kitesurf-as-a-lighter-browser-for-ai-agents_6f79108c",
-      "sourceKind": "product",
-      "sourceName": "Cloudflare",
-      "title": "Cloudflare builds Kitesurf as a lighter browser for AI agents",
-      "sourceUrl": "https://blog.cloudflare.com/kitesurf"
-    },
-    {
-      "id": "content-item_2026-08-08_04_langchain-opens-managed-deep-agents-public-beta-for-production-deploymen_d7eea6b4",
-      "sourceKind": "product",
-      "sourceName": "LangChain",
-      "title": "LangChain opens Managed Deep Agents public beta for production deployments",
-      "sourceUrl": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta"
-    },
-    {
-      "id": "content-item_2026-08-08_05_kiro-unifies-its-ide-terminal-web-and-mobile-agents-behind-one-harness_4b707aa7",
+      "id": "content-item_2026-08-09_07_openai-and-the-apa-plan-practical-guidance-for-young-people-s-ai-use_6da5f2d2",
       "sourceKind": "article",
-      "sourceName": "Kiro",
-      "title": "Kiro unifies its IDE, terminal, web and mobile agents behind one harness",
-      "sourceUrl": "https://kiro.dev/blog/one-agent/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI and the APA plan practical guidance for young people’s AI use",
+      "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
     },
     {
-      "id": "content-item_2026-08-08_06_tutormoments-finds-ai-tutors-often-help-too-much_fd5b733b",
+      "id": "content-item_2026-08-09_08_stained-glass-transform-explores-prompt-privacy-without-fully-local-infe_baa17d10",
       "sourceKind": "research",
-      "sourceName": "Ai2 on Hugging Face",
-      "title": "TutorMoments finds AI tutors often help too much",
-      "sourceUrl": "https://huggingface.co/blog/allenai/tutormoments"
+      "sourceName": "Sameer Wagh",
+      "title": "Stained Glass Transform explores prompt privacy without fully local inference",
+      "sourceUrl": "https://snwagh.com/blog/2026/stained-glass-transform/"
     },
     {
-      "id": "content-item_2026-08-08_07_harnessopt-bench-measures-whether-models-can-improve-the-systems-around_8390da05",
+      "id": "content-item_2026-08-09_09_readers-could-not-reliably-distinguish-ai-short-stories-from-human-ones_d9bbe938",
+      "sourceKind": "research",
+      "sourceName": "Judgment and Decision Making",
+      "title": "Readers could not reliably distinguish AI short stories from human ones",
+      "sourceUrl": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/bot-or-not-can-people-tell-the-difference-between-stories-written-by-a-human-or-by-an-ai-system/45E6DC0BB90AA648654D5AE243F6C667"
+    },
+    {
+      "id": "content-item_2026-08-09_10_a-505-task-benchmark-tests-whether-llms-can-work-on-file-system-engineer_0528e422",
       "sourceKind": "research",
       "sourceName": "arXiv",
-      "title": "HarnessOpt-Bench measures whether models can improve the systems around them",
-      "sourceUrl": "https://arxiv.org/abs/2608.06301"
+      "title": "A 505-task benchmark tests whether LLMs can work on file-system engineering",
+      "sourceUrl": "https://arxiv.org/abs/2608.00280"
     },
     {
-      "id": "content-item_2026-08-08_08_amd-agrees-to-acquire-taalas-for-specialized-ai-inference-technology_ccef7abc",
-      "sourceKind": "article",
-      "sourceName": "AMD",
-      "title": "AMD agrees to acquire Taalas for specialized AI inference technology",
-      "sourceUrl": "https://newsroom.amd.com/news/amd-acquires-taalas-ai-inference/"
-    },
-    {
-      "id": "content-item_2026-08-08_09_suno-adds-download-limits-audio-provenance-and-clearer-anti-spam-rules_937d3775",
-      "sourceKind": "product",
-      "sourceName": "Suno",
-      "title": "Suno adds download limits, audio provenance and clearer anti-spam rules",
-      "sourceUrl": "https://suno.com/blog/building-the-future-of-music-responsibly"
-    },
-    {
-      "id": "content-item_2026-08-08_10_baseten-joins-hugging-face-as-an-inference-provider-for-open-models_72ea094f",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Baseten joins Hugging Face as an inference provider for open models",
-      "sourceUrl": "https://huggingface.co/blog/baseten"
-    },
-    {
-      "id": "content-item_2026-08-08_11_comfy-org-comfyui-visual-workflows-for-generative-media_f34c2412",
+      "id": "content-item_2026-08-09_11_primeintellect-ai-prime-agent-a-self-improving-agent-for-long-running-co_494e7307",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "Comfy-Org/ComfyUI: visual workflows for generative media",
-      "sourceUrl": "https://github.com/Comfy-Org/ComfyUI"
+      "sourceName": "GitHub Trending",
+      "title": "PrimeIntellect-ai/prime-agent: a self-improving agent for long-running coding work",
+      "sourceUrl": "https://github.com/PrimeIntellect-ai/prime-agent"
     },
     {
-      "id": "content-item_2026-08-08_12_google-skills-reusable-instructions-for-google-products-and-cloud-agents_876f4401",
+      "id": "content-item_2026-08-09_12_danielmiessler-lifeos-a-personal-ai-system-for-goals-work-and-learning_7643a1cc",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "google/skills: reusable instructions for Google products and cloud agents",
-      "sourceUrl": "https://github.com/google/skills"
+      "sourceName": "GitHub Trending",
+      "title": "danielmiessler/LifeOS: a personal AI system for goals, work and learning",
+      "sourceUrl": "https://github.com/danielmiessler/LifeOS"
     },
     {
-      "id": "content-item_2026-08-08_13_666ghj-mirofish-multi-agent-simulations-for-exploring-possible-outcomes_62c7a5d1",
+      "id": "content-item_2026-08-09_13_handsonllm-hands-on-large-language-models-practical-notebooks-for-learni_787088ba",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "666ghj/MiroFish: multi-agent simulations for exploring possible outcomes",
-      "sourceUrl": "https://github.com/666ghj/MiroFish"
+      "sourceName": "GitHub Trending",
+      "title": "HandsOnLLM/Hands-On-Large-Language-Models: practical notebooks for learning LLMs",
+      "sourceUrl": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
     }
   ]
 }
