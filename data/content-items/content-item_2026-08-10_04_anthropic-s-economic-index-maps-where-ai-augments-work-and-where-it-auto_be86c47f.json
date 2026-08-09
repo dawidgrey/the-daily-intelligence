@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_04_anthropic-s-economic-index-maps-where-ai-augments-work-and-where-it-auto_be86c47f",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/economic-index",
+  "canonicalUrl": "https://www.anthropic.com/economic-index",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "Anthropic’s Economic Index maps where AI augments work and where it automates it",
+  "friendlyTitle": "A public map shows how people use Claude at work and at home",
+  "summary": "Anthropic’s public Economic Index lets users explore Claude usage by country, US state, occupation, task, artifact and collaboration pattern. The current data distinguishes work, personal and coursework use and compares tasks where people collaborate with Claude against those they delegate more fully.",
+  "friendlySummary": "Anthropic’s dashboard shows which jobs and tasks use Claude, where use is common and whether people work with the AI or let it do more of the task alone.",
+  "whyItMatters": "The dashboard gives business leaders and researchers a more detailed view than broad adoption totals when deciding where training or workflow redesign may help. It covers one vendor’s service and privacy-filtered classifications, so it should be treated as a useful sample rather than a complete map of the economy.",
+  "friendlyWhyItMatters": "This can help teams choose useful AI training and find tasks worth improving. It only shows Anthropic’s own data, not all AI use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

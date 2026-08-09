@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_07_code-review-breaks-down-when-no-human-understands-the-generated-change_8afec11b",
+  "sourceKind": "article",
+  "sourceName": "Raed Abdallah",
+  "sourceUrl": "https://blog.raed.dev/posts/ai-code-review/",
+  "canonicalUrl": "https://blog.raed.dev/posts/ai-code-review/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "Code review breaks down when no human understands the generated change",
+  "friendlyTitle": "Do not submit AI code that nobody understands",
+  "summary": "Raed Abdallah argues that conventional code review assumes an accountable author who can explain a change, an assumption weakened when agents produce complete pull requests before a person understands them. He proposes a simple readiness rule: the submitting human must explain the intent, affected invariants and evidence that the change is safe.",
+  "friendlySummary": "AI can create a complete code change before a person understands it. The article says the person submitting the work should explain what it does, what it may affect and why it is safe.",
+  "whyItMatters": "Generating code faster does not generate organizational context or ownership. Teams can protect review quality by requiring human explanations, smaller changes, tests tied to risks and a named operator who can maintain what the agent produced.",
+  "friendlyWhyItMatters": "A passing test is not enough if nobody can maintain the code later. Keep changes small and make a real person responsible for them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_09_bytedance-begins-training-a-model-that-could-reach-10-trillion-parameter_1031fe69",
+  "sourceKind": "article",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+  "canonicalUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "ByteDance begins training a model that could reach 10 trillion parameters",
+  "friendlyTitle": "ByteDance is training a very large new AI model",
+  "summary": "A Financial Times report carried by Ars Technica says ByteDance is in the early pre-training stage of a model that may reach 10 trillion parameters, with final size still undecided and training expected to take months. The effort is part of a wider push by Chinese labs toward larger frontier systems.",
+  "friendlySummary": "ByteDance has started training a model that may reach 10 trillion parameters. The final size and performance are not known yet, and the work may take several months.",
+  "whyItMatters": "The project signals continued capital and infrastructure competition at the top of the model market. Parameter count alone does not establish capability, cost or reliability, so businesses should wait for a released model, pricing and independent task results before changing plans.",
+  "friendlyWhyItMatters": "This shows that competition between major AI labs is still growing. A bigger model is not automatically a better or cheaper tool, so wait for real tests.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

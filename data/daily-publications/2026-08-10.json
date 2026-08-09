@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-10",
+  "slug": "2026-08-10",
+  "status": "published",
+  "publicationDateUtc": "2026-08-09T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI autonomy grows, and the guardrails move with it",
+  "friendlyHeader": "AI can do more, so people need better checks",
+  "summary": "Today’s issue follows AI into longer-running coding work, workplace learning, legal systems and institutional security. The practical signal is clear: capable tools are becoming easier to deploy, while accountability, evaluation and human understanding matter more—not less.",
+  "friendlySummary": "Today we look at AI for coding, learning, work and public services. These tools can save time, but people still need clear rules, safe testing and a real understanding of the results.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-10_01_claude-code-makes-classifier-governed-auto-mode-the-default_15e161b5",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_02_openchamber-brings-persistent-multi-model-coding-agents-into-one-workspa_268943c0",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_03_a-simulation-first-workflow-turns-llm-research-into-interactive-learning_a7c4d93e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_04_anthropic-s-economic-index-maps-where-ai-augments-work-and-where-it-auto_be86c47f",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_05_ai-written-claims-are-adding-pressure-to-britain-s-employment-courts_61951d6b",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_06_fabraix-opens-a-public-playground-for-testing-whether-agents-can-be-mani_1d901f27",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_07_code-review-breaks-down-when-no-human-understands-the-generated-change_8afec11b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_08_one-testbed-misconfiguration-connected-three-labs-rogue-agent-incidents_0e28f3cf",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_09_bytedance-begins-training-a-model-that-could-reach-10-trillion-parameter_1031fe69",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_10_ai-assisted-fake-students-target-us-community-college-financial-aid_7960918a",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_11_google-deepmind-weathernext-open-code-and-weights-for-ai-weather-forecas_7532557c",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_12_harveyai-harvey-labs-a-public-benchmark-for-legal-agents_12d32974",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-10_13_funstory-ai-babeldoc-layout-preserving-translation-for-research-pdfs_eaace841",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-10.json",
+    "itemCount": 13
+  }
+}

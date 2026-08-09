@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_11_google-deepmind-weathernext-open-code-and-weights-for-ai-weather-forecas_7532557c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/google-deepmind/weathernext",
+  "canonicalUrl": "https://github.com/google-deepmind/weathernext",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "google-deepmind/weathernext: open code and weights for AI weather forecasting",
+  "friendlyTitle": "WeatherNext shares AI tools for weather and cyclone forecasts",
+  "summary": "Google DeepMind’s WeatherNext repository contains code and pretrained weights for global medium-range and tropical-cyclone forecasting, including WeatherNext 2 and earlier GraphCast and GenCast systems. It was the strongest AI-specific repository in today’s collected GitHub Trending results and currently shows about 7,000 stars.",
+  "friendlySummary": "Google DeepMind’s popular repository includes code and model files for global weather and cyclone prediction.",
+  "whyItMatters": "Researchers and weather developers can run model examples, inspect forecasting methods or consume daily outputs through Google Cloud, WeatherLab and Open-Meteo. Operational decisions still require domain expertise and comparison with official meteorological guidance.",
+  "friendlyWhyItMatters": "Researchers can study the models or use published forecast feeds. For safety decisions, always follow official weather services.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

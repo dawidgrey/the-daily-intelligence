@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_01_claude-code-makes-classifier-governed-auto-mode-the-default_15e161b5",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/auto-mode-default-in-claude-code",
+  "canonicalUrl": "https://claude.com/blog/auto-mode-default-in-claude-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "Claude Code makes classifier-governed auto mode the default",
+  "friendlyTitle": "Claude Code will do more work without asking every time",
+  "summary": "From August 14, new Claude Code sessions on Pro, Max and Team plans will use auto mode by default, replacing most permission prompts with a classifier that blocks irreversible, destructive or external actions. Anthropic says a study of 1,053 testers found the classifier caught 89% of planted dangerous commands, versus 13.6% caught by people reviewing prompts.",
+  "friendlySummary": "Claude Code will use an automatic safety checker instead of asking for permission before most actions. Anthropic says this checker caught more dangerous commands than people did in its test.",
+  "whyItMatters": "Developers routinely approve prompts by habit, so targeted automated checks may be safer and less disruptive than constant confirmation boxes. Teams should still configure hard deny rules, isolate sensitive environments and treat Anthropic’s safety figures as vendor evidence to validate locally.",
+  "friendlyWhyItMatters": "Fewer pop-ups can save time, but important code and data still need strong limits. Keep backups, block risky actions and test the setting safely first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

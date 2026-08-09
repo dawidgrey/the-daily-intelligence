@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_12_harveyai-harvey-labs-a-public-benchmark-for-legal-agents_12d32974",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/harveyai/harvey-labs",
+  "canonicalUrl": "https://github.com/harveyai/harvey-labs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "harveyai/harvey-labs: a public benchmark for legal agents",
+  "friendlyTitle": "Harvey LAB tests how well AI agents handle legal work",
+  "summary": "Harvey LAB provides realistic legal tasks, documents, rubrics and an execution harness for evaluating agents that support legal work. The trending repository recently added a 250-task enterprise-search benchmark and currently shows about 780 stars.",
+  "friendlySummary": "This open-source project gives AI agents realistic legal tasks and a clear way to score their work.",
+  "whyItMatters": "Legal-technology teams can compare agents on repeatable assignments, inspect detailed scoring and add tasks that reflect their own workflows. Benchmark success does not replace lawyer review, confidentiality controls or jurisdiction-specific validation.",
+  "friendlyWhyItMatters": "Legal teams can compare tools before using them on real matters. A qualified lawyer must still check every important result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

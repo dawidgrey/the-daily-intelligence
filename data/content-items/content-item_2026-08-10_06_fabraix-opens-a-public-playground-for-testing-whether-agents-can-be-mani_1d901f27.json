@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_06_fabraix-opens-a-public-playground-for-testing-whether-agents-can-be-mani_1d901f27",
+  "sourceKind": "product",
+  "sourceName": "Fabraix",
+  "sourceUrl": "https://playground.fabraix.com/",
+  "canonicalUrl": "https://playground.fabraix.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "Fabraix opens a public playground for testing whether agents can be manipulated",
+  "friendlyTitle": "A safe game teaches how people trick AI agents",
+  "summary": "Fabraix’s public playground challenges users to persuade a guarded AI agent to call a tool that its policy forbids. The current scenario uses an inert placeholder rather than hazardous material, and successful attacks are reviewed before appearing on a leaderboard.",
+  "friendlySummary": "Fabraix asks players to make an AI agent break one of its rules. The forbidden tool returns a harmless placeholder, and staff check successful attacks.",
+  "whyItMatters": "Hands-on red teaming makes prompt-injection and social-engineering failures easier to understand than a checklist alone. Builders can use the exercise to improve threat modelling, but should only test systems where they have permission and never assume a winning guardrail generalizes to production.",
+  "friendlyWhyItMatters": "The game can help developers learn why agents need strong safety checks. Only test systems when you have clear permission.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

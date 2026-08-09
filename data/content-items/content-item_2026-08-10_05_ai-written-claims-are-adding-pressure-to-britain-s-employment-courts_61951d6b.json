@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-10_05_ai-written-claims-are-adding-pressure-to-britain-s-employment-courts_61951d6b",
+  "sourceKind": "article",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+  "canonicalUrl": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-09T20:06:01Z",
+  "createdAtUtc": "2026-08-09T20:06:01Z",
+  "updatedAtUtc": "2026-08-09T20:06:01Z",
+  "title": "AI-written claims are adding pressure to Britain’s employment courts",
+  "friendlyTitle": "Poor AI legal documents are slowing British employment courts",
+  "summary": "The Decoder reports, citing a memo from British tribunal presidents, that employment claims rose 39% in the year through March 2026 while the unresolved backlog grew 55% to 64,000. Officials say some AI-assisted filings are hundreds of pages long and include fabricated law or unrealistic demands.",
+  "friendlySummary": "More people are using chatbots to prepare legal claims. Some documents are very long or include laws that do not exist, while the court backlog is growing.",
+  "whyItMatters": "Cheap drafting can improve access to legal systems, but unchecked volume and false citations can delay legitimate cases and raise costs for everyone. People using AI for legal documents should verify every authority, keep submissions focused and seek qualified advice for consequential claims.",
+  "friendlyWhyItMatters": "AI can help with a first draft, but legal claims must be checked carefully. Wrong facts and fake citations can hurt your case and slow down other people.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-10"
+  }
+}

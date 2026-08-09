@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-08T20:05:30Z",
+  "generatedAtUtc": "2026-08-09T20:06:02Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-10",
+      "slug": "2026-08-10",
+      "status": "published",
+      "publicationDateUtc": "2026-08-09T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI autonomy grows, and the guardrails move with it",
+      "friendlyHeader": "AI can do more, so people need better checks",
+      "summary": "Today’s issue follows AI into longer-running coding work, workplace learning, legal systems and institutional security. The practical signal is clear: capable tools are becoming easier to deploy, while accountability, evaluation and human understanding matter more—not less.",
+      "friendlySummary": "Today we look at AI for coding, learning, work and public services. These tools can save time, but people still need clear rules, safe testing and a real understanding of the results.",
+      "itemCount": 13,
+      "href": "issues/2026-08-10.html",
+      "dataUrl": "data/daily-publications/2026-08-10.json"
+    },
     {
       "id": "daily-publication_2026-08-09",
       "slug": "2026-08-09",

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-08T20:05:30Z",
+  "generatedAtUtc": "2026-08-09T20:06:01Z",
   "items": [
     {
-      "id": "content-item_2026-08-09_01_imagine-image-2-0-adds-precise-edits-multi-image-references-and-smart-re_53b313cc",
+      "id": "content-item_2026-08-10_01_claude-code-makes-classifier-governed-auto-mode-the-default_15e161b5",
       "sourceKind": "product",
-      "sourceName": "xAI",
-      "title": "Imagine Image 2.0 adds precise edits, multi-image references and smart resizing",
-      "sourceUrl": "https://x.ai/news/grok-imagine-image-2"
+      "sourceName": "Anthropic",
+      "title": "Claude Code makes classifier-governed auto mode the default",
+      "sourceUrl": "https://claude.com/blog/auto-mode-default-in-claude-code"
     },
     {
-      "id": "content-item_2026-08-09_02_nextslide-joins-openai-to-bring-presentation-making-ideas-into-chatgpt_fe0ca32f",
+      "id": "content-item_2026-08-10_02_openchamber-brings-persistent-multi-model-coding-agents-into-one-workspa_268943c0",
       "sourceKind": "product",
-      "sourceName": "NextSlide",
-      "title": "NextSlide joins OpenAI to bring presentation-making ideas into ChatGPT",
-      "sourceUrl": "https://nextslide.ai/"
+      "sourceName": "OpenChamber",
+      "title": "OpenChamber brings persistent, multi-model coding agents into one workspace",
+      "sourceUrl": "https://openchamber.dev/"
     },
     {
-      "id": "content-item_2026-08-09_03_rippling-launches-controls-that-connect-ai-spending-to-business-outcomes_3a9748cd",
-      "sourceKind": "product",
-      "sourceName": "Rippling",
-      "title": "Rippling launches controls that connect AI spending to business outcomes",
-      "sourceUrl": "https://www.rippling.com/blog/introducing-ai-spend-console"
-    },
-    {
-      "id": "content-item_2026-08-09_04_airbnb-prepares-an-optional-natural-language-search-experience_883433c4",
+      "id": "content-item_2026-08-10_03_a-simulation-first-workflow-turns-llm-research-into-interactive-learning_a7c4d93e",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Airbnb prepares an optional natural-language search experience",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+      "sourceName": "Laurentiu Raducu",
+      "title": "A simulation-first workflow turns LLM research into interactive learning",
+      "sourceUrl": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
     },
     {
-      "id": "content-item_2026-08-09_05_backflip-converts-3d-scans-into-editable-cad-feature-trees_6e0470c7",
-      "sourceKind": "product",
-      "sourceName": "Backflip AI",
-      "title": "Backflip converts 3D scans into editable CAD feature trees",
-      "sourceUrl": "https://www.backflip.ai/blog/the-reverse-replicator"
-    },
-    {
-      "id": "content-item_2026-08-09_06_openai-data-shows-workplace-chatgpt-use-is-shifting-from-asking-to-doing_fea9ae47",
+      "id": "content-item_2026-08-10_04_anthropic-s-economic-index-maps-where-ai-augments-work-and-where-it-auto_be86c47f",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI data shows workplace ChatGPT use is shifting from asking to doing",
-      "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+      "sourceName": "Anthropic",
+      "title": "Anthropic’s Economic Index maps where AI augments work and where it automates it",
+      "sourceUrl": "https://www.anthropic.com/economic-index"
     },
     {
-      "id": "content-item_2026-08-09_07_openai-and-the-apa-plan-practical-guidance-for-young-people-s-ai-use_6da5f2d2",
+      "id": "content-item_2026-08-10_05_ai-written-claims-are-adding-pressure-to-britain-s-employment-courts_61951d6b",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI and the APA plan practical guidance for young people’s AI use",
-      "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      "sourceName": "The Decoder",
+      "title": "AI-written claims are adding pressure to Britain’s employment courts",
+      "sourceUrl": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/"
     },
     {
-      "id": "content-item_2026-08-09_08_stained-glass-transform-explores-prompt-privacy-without-fully-local-infe_baa17d10",
-      "sourceKind": "research",
-      "sourceName": "Sameer Wagh",
-      "title": "Stained Glass Transform explores prompt privacy without fully local inference",
-      "sourceUrl": "https://snwagh.com/blog/2026/stained-glass-transform/"
+      "id": "content-item_2026-08-10_06_fabraix-opens-a-public-playground-for-testing-whether-agents-can-be-mani_1d901f27",
+      "sourceKind": "product",
+      "sourceName": "Fabraix",
+      "title": "Fabraix opens a public playground for testing whether agents can be manipulated",
+      "sourceUrl": "https://playground.fabraix.com/"
     },
     {
-      "id": "content-item_2026-08-09_09_readers-could-not-reliably-distinguish-ai-short-stories-from-human-ones_d9bbe938",
-      "sourceKind": "research",
-      "sourceName": "Judgment and Decision Making",
-      "title": "Readers could not reliably distinguish AI short stories from human ones",
-      "sourceUrl": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/bot-or-not-can-people-tell-the-difference-between-stories-written-by-a-human-or-by-an-ai-system/45E6DC0BB90AA648654D5AE243F6C667"
+      "id": "content-item_2026-08-10_07_code-review-breaks-down-when-no-human-understands-the-generated-change_8afec11b",
+      "sourceKind": "article",
+      "sourceName": "Raed Abdallah",
+      "title": "Code review breaks down when no human understands the generated change",
+      "sourceUrl": "https://blog.raed.dev/posts/ai-code-review/"
     },
     {
-      "id": "content-item_2026-08-09_10_a-505-task-benchmark-tests-whether-llms-can-work-on-file-system-engineer_0528e422",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "A 505-task benchmark tests whether LLMs can work on file-system engineering",
-      "sourceUrl": "https://arxiv.org/abs/2608.00280"
+      "id": "content-item_2026-08-10_08_one-testbed-misconfiguration-connected-three-labs-rogue-agent-incidents_0e28f3cf",
+      "sourceKind": "article",
+      "sourceName": "CNBC",
+      "title": "One testbed misconfiguration connected three labs’ rogue-agent incidents",
+      "sourceUrl": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
     },
     {
-      "id": "content-item_2026-08-09_11_primeintellect-ai-prime-agent-a-self-improving-agent-for-long-running-co_494e7307",
+      "id": "content-item_2026-08-10_09_bytedance-begins-training-a-model-that-could-reach-10-trillion-parameter_1031fe69",
+      "sourceKind": "article",
+      "sourceName": "Ars Technica",
+      "title": "ByteDance begins training a model that could reach 10 trillion parameters",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+    },
+    {
+      "id": "content-item_2026-08-10_10_ai-assisted-fake-students-target-us-community-college-financial-aid_7960918a",
+      "sourceKind": "article",
+      "sourceName": "The Decoder",
+      "title": "AI-assisted fake students target US community-college financial aid",
+      "sourceUrl": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/"
+    },
+    {
+      "id": "content-item_2026-08-10_11_google-deepmind-weathernext-open-code-and-weights-for-ai-weather-forecas_7532557c",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "PrimeIntellect-ai/prime-agent: a self-improving agent for long-running coding work",
-      "sourceUrl": "https://github.com/PrimeIntellect-ai/prime-agent"
+      "sourceName": "GitHub Trending Python",
+      "title": "google-deepmind/weathernext: open code and weights for AI weather forecasting",
+      "sourceUrl": "https://github.com/google-deepmind/weathernext"
     },
     {
-      "id": "content-item_2026-08-09_12_danielmiessler-lifeos-a-personal-ai-system-for-goals-work-and-learning_7643a1cc",
+      "id": "content-item_2026-08-10_12_harveyai-harvey-labs-a-public-benchmark-for-legal-agents_12d32974",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "danielmiessler/LifeOS: a personal AI system for goals, work and learning",
-      "sourceUrl": "https://github.com/danielmiessler/LifeOS"
+      "sourceName": "GitHub Trending Python",
+      "title": "harveyai/harvey-labs: a public benchmark for legal agents",
+      "sourceUrl": "https://github.com/harveyai/harvey-labs"
     },
     {
-      "id": "content-item_2026-08-09_13_handsonllm-hands-on-large-language-models-practical-notebooks-for-learni_787088ba",
+      "id": "content-item_2026-08-10_13_funstory-ai-babeldoc-layout-preserving-translation-for-research-pdfs_eaace841",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "HandsOnLLM/Hands-On-Large-Language-Models: practical notebooks for learning LLMs",
-      "sourceUrl": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+      "sourceName": "GitHub Trending Python",
+      "title": "funstory-ai/BabelDOC: layout-preserving translation for research PDFs",
+      "sourceUrl": "https://github.com/funstory-ai/BabelDOC"
     }
   ]
 }
