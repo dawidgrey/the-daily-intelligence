@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_10_openai-and-codeai-plan-free-ai-literacy-programs-for-students_9765648a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI and CodeAI",
+  "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+  "canonicalUrl": "https://openai.com/index/partnering-with-codeai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "OpenAI and CodeAI plan free AI-literacy programs for students",
+  "friendlyTitle": "Students will get more help learning how AI really works",
+  "summary": "OpenAI and CodeAI announced a year of student and teacher programs spanning basic AI literacy, a high-school builders challenge, classroom resources, career sessions, and an advisory council focused on child development and learning. The partnership accompanies ChatGPT for Teens and CodeAI’s free AI Foundations course.",
+  "friendlySummary": "OpenAI and CodeAI are creating free lessons, projects, and career programs to help students and teachers understand AI.",
+  "whyItMatters": "For families and schools, the emphasis on questioning outputs and understanding limitations is more useful than simply expanding chatbot access; implementation quality and independent evaluation will determine the program’s value.",
+  "friendlyWhyItMatters": "Young people need to check AI answers and know its limits, not only learn how to use a chatbot.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}

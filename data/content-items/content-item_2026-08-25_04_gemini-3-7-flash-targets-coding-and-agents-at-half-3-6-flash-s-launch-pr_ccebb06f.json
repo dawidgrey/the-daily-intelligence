@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_04_gemini-3-7-flash-targets-coding-and-agents-at-half-3-6-flash-s-launch-pr_ccebb06f",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "Gemini 3.7 Flash targets coding and agents at half 3.6 Flash’s launch price",
+  "friendlyTitle": "Google’s new Flash model aims to do more for less",
+  "summary": "Google says Gemini 3.7 Flash improves on 3.6 Flash across software engineering, document work, web development, and business automation, while launching at half the earlier model’s original per-token price. Google reports gains on several coding and workflow benchmarks, which remain vendor-provided measurements.",
+  "friendlySummary": "Gemini 3.7 Flash is designed for coding, documents, and AI agents. Google launched it at half the original price of Gemini 3.6 Flash.",
+  "whyItMatters": "A stronger low-cost model gives teams another candidate for high-volume coding, document, and agent tasks where frontier-model pricing is difficult to justify; real workload tests should still decide any migration.",
+  "friendlyWhyItMatters": "It may lower the cost of everyday AI work, but teams should test it on their own tasks first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}

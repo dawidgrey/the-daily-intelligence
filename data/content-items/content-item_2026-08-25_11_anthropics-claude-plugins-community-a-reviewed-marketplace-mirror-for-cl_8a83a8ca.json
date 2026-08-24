@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_11_anthropics-claude-plugins-community-a-reviewed-marketplace-mirror-for-cl_8a83a8ca",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/anthropics/claude-plugins-community",
+  "canonicalUrl": "https://github.com/anthropics/claude-plugins-community",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "anthropics/claude-plugins-community: a reviewed marketplace mirror for Claude extensions",
+  "friendlyTitle": "Find community plugins for Claude Code and Cowork",
+  "summary": "Anthropic’s community marketplace mirror collects third-party plugins for Claude Cowork and Claude Code, with submissions flowing through an internal review pipeline rather than direct pull requests. The repository was among the day’s fastest-moving AI projects and had about 1,300 stars when checked.",
+  "friendlySummary": "This Anthropic repository lists community-made extensions for Claude tools and sends submissions through a review process.",
+  "whyItMatters": "Claude Code users can add the repository as a marketplace and install task-specific plugins, while inspecting each plugin’s source and permissions before enabling it.",
+  "friendlyWhyItMatters": "You can add new abilities to Claude, but check a plugin’s code and permissions before installing it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}

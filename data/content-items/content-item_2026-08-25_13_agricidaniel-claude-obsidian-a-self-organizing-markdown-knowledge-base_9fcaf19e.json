@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_13_agricidaniel-claude-obsidian-a-self-organizing-markdown-knowledge-base_9fcaf19e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/AgriciDaniel/claude-obsidian",
+  "canonicalUrl": "https://github.com/AgriciDaniel/claude-obsidian",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "AgriciDaniel/claude-obsidian: a self-organizing Markdown knowledge base",
+  "friendlyTitle": "Build an AI-organized second brain in Obsidian",
+  "summary": "Claude Obsidian combines Obsidian and Claude Code to read incoming sources, create links, and organize them into a user-owned knowledge graph of plain Markdown. The project had about 11,700 stars when checked, making it one of the most popular AI-focused repositories in the day’s candidate set.",
+  "friendlySummary": "This project uses Claude Code to sort sources and connect notes inside an Obsidian vault made of normal Markdown files.",
+  "whyItMatters": "It offers a starting point for a local, portable research or personal-knowledge workflow in which notes remain ordinary files rather than being locked inside a hosted AI notebook service.",
+  "friendlyWhyItMatters": "It can help organize research while keeping your notes in files you own and can move elsewhere.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}

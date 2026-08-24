@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-09T20:06:02Z",
+  "generatedAtUtc": "2026-08-24T20:05:03Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-25",
+      "slug": "2026-08-25",
+      "status": "published",
+      "publicationDateUtc": "2026-08-24T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Cheaper intelligence meets more deliberate AI",
+      "friendlyHeader": "AI is getting cheaper, safer, and easier to use",
+      "summary": "Today’s issue tracks the practical side of AI’s next phase: lower model costs, more structured coding tools, stronger privacy controls, calibrated agent memory, and accessibility features moving from research into everyday products.",
+      "friendlySummary": "Today we look at lower AI prices, better coding helpers, stronger privacy, smarter agent memory, and useful tools that are reaching more people.",
+      "itemCount": 13,
+      "href": "issues/2026-08-25.html",
+      "dataUrl": "data/daily-publications/2026-08-25.json"
+    },
     {
       "id": "daily-publication_2026-08-10",
       "slug": "2026-08-10",

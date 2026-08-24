@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-25",
+  "slug": "2026-08-25",
+  "status": "published",
+  "publicationDateUtc": "2026-08-24T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Cheaper intelligence meets more deliberate AI",
+  "friendlyHeader": "AI is getting cheaper, safer, and easier to use",
+  "summary": "Today’s issue tracks the practical side of AI’s next phase: lower model costs, more structured coding tools, stronger privacy controls, calibrated agent memory, and accessibility features moving from research into everyday products.",
+  "friendlySummary": "Today we look at lower AI prices, better coding helpers, stronger privacy, smarter agent memory, and useful tools that are reaching more people.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-25_01_openai-sets-promotional-gpt-5-6-sol-pricing-through-at-least-november_7a2032ac",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_02_gpt-5-6-arrives-in-kiro-for-spec-driven-software-development_df015003",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_03_google-deepmind-expands-game-partnerships-to-test-general-ai-agents_06daba08",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_04_gemini-3-7-flash-targets-coding-and-agents-at-half-3-6-flash-s-launch-pr_ccebb06f",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_05_google-brings-sign-language-dictation-to-gboard-and-live-transcribe_f5d9b5f6",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_06_ibm-research-finds-agent-memory-works-best-as-a-calibrated-dose_5ce81034",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_07_openai-previews-private-safety-checks-for-zero-retention-api-use_ef913e9f",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_08_replit-uses-gpt-5-6-luna-to-power-a-no-token-cost-planning-mode_9ac0643f",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_09_anthropic-explains-the-invisible-watermark-planned-for-future-claude-tex_8a4a811d",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_10_openai-and-codeai-plan-free-ai-literacy-programs-for-students_9765648a",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_11_anthropics-claude-plugins-community-a-reviewed-marketplace-mirror-for-cl_8a83a8ca",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_12_apache-maka-a-local-first-workspace-with-auditable-agent-histories_137531af",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-25_13_agricidaniel-claude-obsidian-a-self-organizing-markdown-knowledge-base_9fcaf19e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-25.json",
+    "itemCount": 13
+  }
+}

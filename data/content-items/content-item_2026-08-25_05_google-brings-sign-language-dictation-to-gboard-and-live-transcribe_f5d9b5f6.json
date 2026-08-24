@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_05_google-brings-sign-language-dictation-to-gboard-and-live-transcribe_f5d9b5f6",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+  "canonicalUrl": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "Google brings sign-language dictation to Gboard and Live Transcribe",
+  "friendlyTitle": "Pixel phones can turn sign language into text",
+  "summary": "Google’s multilingual sign-language-to-text model now powers American Sign Language dictation in Gboard and Live Transcribe on Pixel 11, with more devices and languages planned. The system sends pose landmarks for translation rather than retaining the raw camera video.",
+  "friendlySummary": "A new Google model lets people sign in American Sign Language and turn it into text in Gboard and Live Transcribe on Pixel 11.",
+  "whyItMatters": "This moves sign-language AI into a daily input method for messages, search, documents, and conversations, while its landmark-based design offers a more privacy-conscious path than uploading raw video.",
+  "friendlyWhyItMatters": "It can make messaging and conversations faster and more natural for Deaf and hard-of-hearing users.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}

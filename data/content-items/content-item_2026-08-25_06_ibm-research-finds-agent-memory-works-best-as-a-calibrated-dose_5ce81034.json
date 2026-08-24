@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-25_06_ibm-research-finds-agent-memory-works-best-as-a-calibrated-dose_5ce81034",
+  "sourceKind": "research",
+  "sourceName": "IBM Research on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-24T20:05:02Z",
+  "createdAtUtc": "2026-08-24T20:05:02Z",
+  "updatedAtUtc": "2026-08-24T20:05:02Z",
+  "title": "IBM research finds agent memory works best as a calibrated dose",
+  "friendlyTitle": "AI agents may need less memory than you think",
+  "summary": "An IBM Research evaluation across eight models found that more agent memory is not automatically better: stronger models benefited from fuller guidance, weaker models often did better with a compact core plus retrieval, and saturated models showed little gain. In one reported result, curated retrieval raised task completion by 16.1 percentage points with only 5% more tokens.",
+  "friendlySummary": "IBM researchers found that different AI models need different amounts of saved guidance. Giving an agent everything can sometimes make it worse.",
+  "whyItMatters": "Agent builders can reduce cost and context clutter by measuring the right memory strategy per model instead of placing every past lesson into every prompt.",
+  "friendlyWhyItMatters": "Careful memory settings can improve results while using fewer tokens and costing less.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-25"
+  }
+}
