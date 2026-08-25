@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-24T20:05:02Z",
+  "generatedAtUtc": "2026-08-25T20:05:15Z",
   "items": [
     {
-      "id": "content-item_2026-08-25_01_openai-sets-promotional-gpt-5-6-sol-pricing-through-at-least-november_7a2032ac",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI sets promotional GPT-5.6 Sol pricing through at least November",
-      "sourceUrl": "https://developers.openai.com/api/docs/pricing"
-    },
-    {
-      "id": "content-item_2026-08-25_02_gpt-5-6-arrives-in-kiro-for-spec-driven-software-development_df015003",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-5.6 arrives in Kiro for spec-driven software development",
-      "sourceUrl": "https://openai.com/index/gpt-5-6-in-kiro"
-    },
-    {
-      "id": "content-item_2026-08-25_03_google-deepmind-expands-game-partnerships-to-test-general-ai-agents_06daba08",
+      "id": "content-item_2026-08-26_01_skild-ai-s-s1-learns-robot-tasks-from-a-single-video-demonstration_d598d8ea",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind expands game partnerships to test general AI agents",
-      "sourceUrl": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+      "sourceName": "Skild AI",
+      "title": "Skild AI’s S1 learns robot tasks from a single video demonstration",
+      "sourceUrl": "https://skild.ai/blogs/s1"
     },
     {
-      "id": "content-item_2026-08-25_04_gemini-3-7-flash-targets-coding-and-agents-at-half-3-6-flash-s-launch-pr_ccebb06f",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini 3.7 Flash targets coding and agents at half 3.6 Flash’s launch price",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-    },
-    {
-      "id": "content-item_2026-08-25_05_google-brings-sign-language-dictation-to-gboard-and-live-transcribe_f5d9b5f6",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google brings sign-language dictation to Gboard and Live Transcribe",
-      "sourceUrl": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
-    },
-    {
-      "id": "content-item_2026-08-25_06_ibm-research-finds-agent-memory-works-best-as-a-calibrated-dose_5ce81034",
-      "sourceKind": "research",
-      "sourceName": "IBM Research on Hugging Face",
-      "title": "IBM research finds agent memory works best as a calibrated dose",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "id": "content-item_2026-08-25_07_openai-previews-private-safety-checks-for-zero-retention-api-use_ef913e9f",
-      "sourceKind": "product",
+      "id": "content-item_2026-08-26_02_openai-publishes-first-results-for-its-jalape-o-inference-chip_9ad99bb5",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI previews private safety checks for zero-retention API use",
-      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      "title": "OpenAI publishes first results for its Jalapeño inference chip",
+      "sourceUrl": "https://openai.com/index/jalapeno-first-results"
     },
     {
-      "id": "content-item_2026-08-25_08_replit-uses-gpt-5-6-luna-to-power-a-no-token-cost-planning-mode_9ac0643f",
+      "id": "content-item_2026-08-26_03_perplexity-launches-a-local-first-agent-for-private-files-and-long-runni_1ef0a8e7",
       "sourceKind": "product",
-      "sourceName": "OpenAI and Replit",
-      "title": "Replit uses GPT-5.6 Luna to power a no-token-cost planning mode",
-      "sourceUrl": "https://openai.com/index/replit"
+      "sourceName": "Perplexity",
+      "title": "Perplexity launches a local-first agent for private files and long-running work",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai"
     },
     {
-      "id": "content-item_2026-08-25_09_anthropic-explains-the-invisible-watermark-planned-for-future-claude-tex_8a4a811d",
-      "sourceKind": "regulation",
+      "id": "content-item_2026-08-26_04_google-packages-gemini-agents-for-contract-review-research-and-complianc_3b52dbb7",
+      "sourceKind": "product",
+      "sourceName": "Google Cloud",
+      "title": "Google packages Gemini agents for contract review, research, and compliance",
+      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal"
+    },
+    {
+      "id": "content-item_2026-08-26_05_instant-s-team-joins-openai-giving-cloud-customers-a-migration-deadline_4396881c",
+      "sourceKind": "article",
+      "sourceName": "Instant",
+      "title": "Instant’s team joins OpenAI, giving cloud customers a migration deadline",
+      "sourceUrl": "https://www.instantdb.com/essays/instant_team_joins_openai"
+    },
+    {
+      "id": "content-item_2026-08-26_06_liquid-ai-finds-coding-agents-need-real-data-and-external-checks-to-reac_ba98181a",
+      "sourceKind": "research",
+      "sourceName": "Liquid AI",
+      "title": "Liquid AI finds coding agents need real data and external checks to reach production",
+      "sourceUrl": "https://www.liquid.ai/blog/agent-loops"
+    },
+    {
+      "id": "content-item_2026-08-26_07_quantization-aware-healing-makes-one-compressed-4-bit-model-beat-its-16_f6b26e55",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face / Multiverse Computing",
+      "title": "Quantization-aware healing makes one compressed 4-bit model beat its 16-bit checkpoint",
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
+    {
+      "id": "content-item_2026-08-26_08_gradio-turns-multi-step-ai-pipelines-into-visible-deployable-workflow-gr_2983dbf7",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Gradio turns multi-step AI pipelines into visible, deployable workflow graphs",
+      "sourceUrl": "https://huggingface.co/blog/gradio-workflow-guide"
+    },
+    {
+      "id": "content-item_2026-08-26_09_anthropic-funds-independent-evaluations-of-ai-s-effects-on-user-wellbein_0c54f135",
+      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic explains the invisible watermark planned for future Claude text",
-      "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark"
+      "title": "Anthropic funds independent evaluations of AI’s effects on user wellbeing",
+      "sourceUrl": "https://www.anthropic.com/news/wellbeing-research-grants"
     },
     {
-      "id": "content-item_2026-08-25_10_openai-and-codeai-plan-free-ai-literacy-programs-for-students_9765648a",
-      "sourceKind": "product",
-      "sourceName": "OpenAI and CodeAI",
-      "title": "OpenAI and CodeAI plan free AI-literacy programs for students",
-      "sourceUrl": "https://openai.com/index/partnering-with-codeai"
+      "id": "content-item_2026-08-26_10_claude-begins-sharing-editable-memory-across-chat-and-cowork_c00d0b0f",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Claude begins sharing editable memory across chat and Cowork",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
     },
     {
-      "id": "content-item_2026-08-25_11_anthropics-claude-plugins-community-a-reviewed-marketplace-mirror-for-cl_8a83a8ca",
+      "id": "content-item_2026-08-26_11_cloudflare-cloudflare-os-an-open-agent-workspace-on-workers_0f24fd84",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "anthropics/claude-plugins-community: a reviewed marketplace mirror for Claude extensions",
-      "sourceUrl": "https://github.com/anthropics/claude-plugins-community"
+      "title": "cloudflare/cloudflare-os: an open agent workspace on Workers",
+      "sourceUrl": "https://github.com/cloudflare/cloudflare-os"
     },
     {
-      "id": "content-item_2026-08-25_12_apache-maka-a-local-first-workspace-with-auditable-agent-histories_137531af",
+      "id": "content-item_2026-08-26_12_marin-community-marin-reproducible-foundation-model-research-from-data-t_1f765a81",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "apache/maka: a local-first workspace with auditable agent histories",
-      "sourceUrl": "https://github.com/apache/maka"
+      "title": "marin-community/marin: reproducible foundation-model research from data to checkpoint",
+      "sourceUrl": "https://github.com/marin-community/marin"
     },
     {
-      "id": "content-item_2026-08-25_13_agricidaniel-claude-obsidian-a-self-organizing-markdown-knowledge-base_9fcaf19e",
+      "id": "content-item_2026-08-26_13_anthropics-claude-plugins-official-anthropic-s-managed-claude-plugin-dir_3de13b42",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "AgriciDaniel/claude-obsidian: a self-organizing Markdown knowledge base",
-      "sourceUrl": "https://github.com/AgriciDaniel/claude-obsidian"
+      "title": "anthropics/claude-plugins-official: Anthropic’s managed Claude plugin directory",
+      "sourceUrl": "https://github.com/anthropics/claude-plugins-official"
     }
   ]
 }

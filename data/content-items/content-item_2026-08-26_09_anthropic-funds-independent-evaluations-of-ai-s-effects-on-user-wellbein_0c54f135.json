@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_09_anthropic-funds-independent-evaluations-of-ai-s-effects-on-user-wellbein_0c54f135",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/wellbeing-research-grants",
+  "canonicalUrl": "https://www.anthropic.com/news/wellbeing-research-grants",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Anthropic funds independent evaluations of AI’s effects on user wellbeing",
+  "friendlyTitle": "Anthropic will fund better tests for AI and wellbeing",
+  "summary": "Anthropic opened a $5 million grant programme for independent, open-source evaluations of how AI systems affect user wellbeing. Its guidance emphasises multi-turn scenarios, clinical expertise, testing both harmful compliance and excessive refusal, and validating automated graders against subject-matter experts.",
+  "friendlySummary": "Anthropic is offering $5 million for independent research on how AI affects people’s wellbeing. The tests will be open source and should study long conversations, not only one answer.",
+  "whyItMatters": "People increasingly use chatbots for emotional support and sensitive advice, where a single-response safety test misses changes across a conversation. Better public evaluations could help developers compare safeguards and help users understand where an assistant should not replace professional care.",
+  "friendlyWhyItMatters": "AI can be helpful in difficult moments, but it can also give harmful advice. Better public tests may improve safety and show where human help is needed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

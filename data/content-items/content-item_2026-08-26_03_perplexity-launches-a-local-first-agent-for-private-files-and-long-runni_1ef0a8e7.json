@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_03_perplexity-launches-a-local-first-agent-for-private-files-and-long-runni_1ef0a8e7",
+  "sourceKind": "product",
+  "sourceName": "Perplexity",
+  "sourceUrl": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+  "canonicalUrl": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Perplexity launches a local-first agent for private files and long-running work",
+  "friendlyTitle": "Perplexity brings an AI worker to your own computer",
+  "summary": "Portable Computer runs Perplexity’s orchestrator, local search, tool routing, and Qwen-based models on an NVIDIA DGX Spark, with RTX PC support planned. Work stays on the device by default, while cloud research or frontier models require user-authorised escalation.",
+  "friendlySummary": "Portable Computer can read files, search documents, and run jobs on a local NVIDIA computer. It asks before sending work to cloud services.",
+  "whyItMatters": "Local execution offers a practical middle path for confidential code, contracts, and internal documents: keep sensitive processing nearby, but selectively use the web or larger models when necessary. The current hardware and subscription requirements make this an early-adopter product rather than a mass-market option.",
+  "friendlyWhyItMatters": "Private files can stay on your machine, while you can still use online research when you choose.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

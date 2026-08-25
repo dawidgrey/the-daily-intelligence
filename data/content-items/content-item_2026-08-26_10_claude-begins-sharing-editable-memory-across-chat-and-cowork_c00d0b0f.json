@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_10_claude-begins-sharing-editable-memory-across-chat-and-cowork_c00d0b0f",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+  "canonicalUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Claude begins sharing editable memory across chat and Cowork",
+  "friendlyTitle": "Claude can remember more between chat and work tasks",
+  "summary": "Anthropic is merging the memory used by Claude chat and Cowork so project context and preferences can carry between research conversations and agentic work. Users can inspect, edit, or delete retained information by topic.",
+  "friendlySummary": "Claude is starting to share memory between normal chat and Cowork. Users can see, change, or delete what it remembers.",
+  "whyItMatters": "Shared memory reduces repetitive briefing and makes the transition from discussing a task to executing it smoother. It also raises the importance of routinely reviewing stored context, especially when work and personal conversations share an account.",
+  "friendlyWhyItMatters": "You may need to repeat yourself less. It is still wise to check what Claude has saved, especially for private or work information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

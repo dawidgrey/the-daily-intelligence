@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_04_google-packages-gemini-agents-for-contract-review-research-and-complianc_3b52dbb7",
+  "sourceKind": "product",
+  "sourceName": "Google Cloud",
+  "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+  "canonicalUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Google packages Gemini agents for contract review, research, and compliance",
+  "friendlyTitle": "Google makes a Gemini system for legal teams",
+  "summary": "Gemini Enterprise for Legal combines reusable legal skills, MCP connections to document and case systems, pre-built agents, and central governance. Google lists contract review, regulatory monitoring, data-access requests, research, drafting, and document redaction among its target workflows.",
+  "friendlySummary": "Google’s new legal AI can help review contracts, research rules, prepare documents, and connect to legal software. It includes controls for access, security, and citations.",
+  "whyItMatters": "The launch reflects a broader shift from general chatbots to governed, domain-specific systems that can act inside existing business software. Legal teams evaluating it should focus on permission inheritance, citation quality, auditability, and mandatory practitioner review rather than the automation label alone.",
+  "friendlyWhyItMatters": "This could reduce repetitive legal work, but lawyers still need to check important decisions and documents.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

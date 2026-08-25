@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_05_instant-s-team-joins-openai-giving-cloud-customers-a-migration-deadline_4396881c",
+  "sourceKind": "article",
+  "sourceName": "Instant",
+  "sourceUrl": "https://www.instantdb.com/essays/instant_team_joins_openai",
+  "canonicalUrl": "https://www.instantdb.com/essays/instant_team_joins_openai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Instant’s team joins OpenAI, giving cloud customers a migration deadline",
+  "friendlyTitle": "Instant joins OpenAI, and cloud users need to move",
+  "summary": "The team behind Instant, an open-source realtime database used heavily by app-building agents, is joining OpenAI. New cloud signups are closed; existing users have until August 31, 2027 to migrate, while backups remain available for another year and self-hosting continues.",
+  "friendlySummary": "Instant’s team is joining OpenAI. Instant Cloud will close on August 31, 2027, but the open-source software can still be self-hosted.",
+  "whyItMatters": "Acqui-hires can turn a promising developer service into an urgent infrastructure task for customers. Anyone running an Instant Cloud app should schedule an export and migration well before shutdown, while the move also signals OpenAI’s interest in the application infrastructure around coding agents.",
+  "friendlyWhyItMatters": "If your app uses Instant Cloud, make a migration plan early. The open-source version gives users another path.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

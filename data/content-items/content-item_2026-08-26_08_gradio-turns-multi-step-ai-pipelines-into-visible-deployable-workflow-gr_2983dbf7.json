@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_08_gradio-turns-multi-step-ai-pipelines-into-visible-deployable-workflow-gr_2983dbf7",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/gradio-workflow-guide",
+  "canonicalUrl": "https://huggingface.co/blog/gradio-workflow-guide",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Gradio turns multi-step AI pipelines into visible, deployable workflow graphs",
+  "friendlyTitle": "Gradio makes AI workflows easier to see and test",
+  "summary": "The new gr.Workflow interface represents Python functions, hosted models, Spaces, and datasets as typed graph nodes on a drag-and-drop canvas. Each node and intermediate output can be inspected, while the same workflow is exposed as REST endpoints and can be deployed to Hugging Face Spaces.",
+  "friendlySummary": "You can connect AI models and Python steps on a visual canvas, run each step, and see the result. The workflow also becomes an API and can be deployed online.",
+  "whyItMatters": "Visible intermediate steps make multi-model pipelines easier to debug, demonstrate, and hand to non-specialists. Developers can prototype media, data, or model workflows in one interface without giving up callable APIs or custom Python code.",
+  "friendlyWhyItMatters": "This can make complex AI apps easier to build, explain, and fix when one step goes wrong.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

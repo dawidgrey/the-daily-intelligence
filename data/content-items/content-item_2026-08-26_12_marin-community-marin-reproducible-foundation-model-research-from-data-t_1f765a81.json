@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_12_marin-community-marin-reproducible-foundation-model-research-from-data-t_1f765a81",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/marin-community/marin",
+  "canonicalUrl": "https://github.com/marin-community/marin",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "marin-community/marin: reproducible foundation-model research from data to checkpoint",
+  "friendlyTitle": "Marin helps researchers build AI models in a repeatable way",
+  "summary": "Marin is an Apache-2.0 framework for researching and developing foundation models, with an emphasis on recording every stage from raw data through training and final models. The active repository had about 2,000 stars when reviewed and ranked highly in the day’s Python trends.",
+  "friendlySummary": "Marin records the steps from raw data to a trained foundation model. This makes experiments easier to repeat and inspect.",
+  "whyItMatters": "Research teams can use Marin to define repeatable experiments, inspect training recipes, and reproduce more of the model-development pipeline than a final checkpoint alone provides. Its large, active codebase is best suited to serious model research rather than casual local inference.",
+  "friendlyWhyItMatters": "Use it for serious model research when you need a clear record of data, training, and results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

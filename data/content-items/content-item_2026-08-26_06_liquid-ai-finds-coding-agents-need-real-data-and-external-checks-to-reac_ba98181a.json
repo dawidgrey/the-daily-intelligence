@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_06_liquid-ai-finds-coding-agents-need-real-data-and-external-checks-to-reac_ba98181a",
+  "sourceKind": "research",
+  "sourceName": "Liquid AI",
+  "sourceUrl": "https://www.liquid.ai/blog/agent-loops",
+  "canonicalUrl": "https://www.liquid.ai/blog/agent-loops",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Liquid AI finds coding agents need real data and external checks to reach production",
+  "friendlyTitle": "Coding agents improved when real tests kept checking them",
+  "summary": "Liquid AI describes an experiment in which coding agents built a production BPE tokenizer trainer: both passed toy tests quickly, but neither handled the full dataset until repeated feedback loops exposed memory, encoding, and scale failures. The resulting tool, toktoktok, is open source, and the company says the code was produced without human code review.",
+  "friendlySummary": "Two coding agents made small working demos quickly, but both failed on full production data. They succeeded only after repeated tests showed them what was wrong.",
+  "whyItMatters": "The useful lesson is operational rather than magical: specify outcomes, test against real workloads, and use verification the agent cannot rewrite. Teams can apply that pattern to migrations, optimisation, incident triage, and other work where a plausible demo is not enough.",
+  "friendlyWhyItMatters": "Give an AI a clear goal, real data, and tests it cannot change. That is safer than trusting code because a small demo passed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

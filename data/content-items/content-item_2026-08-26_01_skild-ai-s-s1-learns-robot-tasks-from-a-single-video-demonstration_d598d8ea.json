@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-26_01_skild-ai-s-s1-learns-robot-tasks-from-a-single-video-demonstration_d598d8ea",
+  "sourceKind": "research",
+  "sourceName": "Skild AI",
+  "sourceUrl": "https://skild.ai/blogs/s1",
+  "canonicalUrl": "https://skild.ai/blogs/s1",
+  "credit": "@SkildAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-25T20:05:15Z",
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "title": "Skild AI’s S1 learns robot tasks from a single video demonstration",
+  "friendlyTitle": "A robot can learn a task by watching one video",
+  "summary": "Skild AI introduced S1, a robotic foundation model that takes a video demonstration as its task prompt and executes both familiar and previously unseen manipulation tasks without fine-tuning. The company reports demonstrations lasting up to ten minutes, including tasks outside the model’s training distribution.",
+  "friendlySummary": "Skild AI says its S1 robot model can watch one video and then try the task without extra training. It can also handle some long or new tasks that it did not see during training.",
+  "whyItMatters": "If the results generalise beyond controlled demonstrations, teaching a robot could begin to resemble showing a colleague what to do rather than collecting a new training dataset. That would lower the setup cost for automation in factories, laboratories, kitchens, and other changing environments.",
+  "friendlyWhyItMatters": "Robots may become easier to teach. Instead of programming every action, a person could show the robot what to do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-26"
+  }
+}

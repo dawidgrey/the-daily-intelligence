@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-26",
+  "slug": "2026-08-26",
+  "status": "published",
+  "publicationDateUtc": "2026-08-25T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves closer to the work — and the machine",
+  "friendlyHeader": "AI is getting closer to real work",
+  "summary": "Today’s issue follows AI out of the chat window: into robots that learn from video, local computers that protect private files, legal workflows, production engineering loops, and faster inference hardware. It also covers the less glamorous foundations that make these systems useful: memory, evaluation, deployment, and recoverable infrastructure.",
+  "friendlySummary": "Today we look at AI that can learn a robot task from a video, work with private files on your own computer, help legal teams, and run faster. We also cover useful tools for building, checking, and managing AI systems.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-26_01_skild-ai-s-s1-learns-robot-tasks-from-a-single-video-demonstration_d598d8ea",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_02_openai-publishes-first-results-for-its-jalape-o-inference-chip_9ad99bb5",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_03_perplexity-launches-a-local-first-agent-for-private-files-and-long-runni_1ef0a8e7",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_04_google-packages-gemini-agents-for-contract-review-research-and-complianc_3b52dbb7",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_05_instant-s-team-joins-openai-giving-cloud-customers-a-migration-deadline_4396881c",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_06_liquid-ai-finds-coding-agents-need-real-data-and-external-checks-to-reac_ba98181a",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_07_quantization-aware-healing-makes-one-compressed-4-bit-model-beat-its-16_f6b26e55",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_08_gradio-turns-multi-step-ai-pipelines-into-visible-deployable-workflow-gr_2983dbf7",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_09_anthropic-funds-independent-evaluations-of-ai-s-effects-on-user-wellbein_0c54f135",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_10_claude-begins-sharing-editable-memory-across-chat-and-cowork_c00d0b0f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_11_cloudflare-cloudflare-os-an-open-agent-workspace-on-workers_0f24fd84",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_12_marin-community-marin-reproducible-foundation-model-research-from-data-t_1f765a81",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-26_13_anthropics-claude-plugins-official-anthropic-s-managed-claude-plugin-dir_3de13b42",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-25T20:05:15Z",
+  "updatedAtUtc": "2026-08-25T20:05:15Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-26.json",
+    "itemCount": 13
+  }
+}
