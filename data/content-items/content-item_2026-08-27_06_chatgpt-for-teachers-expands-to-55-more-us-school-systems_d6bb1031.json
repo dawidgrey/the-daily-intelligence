@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_06_chatgpt-for-teachers-expands-to-55-more-us-school-systems_d6bb1031",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+  "canonicalUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "ChatGPT for Teachers expands to 55 more US school systems",
+  "friendlyTitle": "More US teachers will get a school version of ChatGPT",
+  "summary": "OpenAI is extending ChatGPT for Teachers to more than 100,000 additional educators and staff across 55 school systems in 20 US states. The partnerships pair access to a school-focused workspace with training and support for classroom and administrative use.",
+  "friendlySummary": "OpenAI is bringing ChatGPT for Teachers to over 100,000 more teachers and staff in 55 school systems. The programme also includes training and support.",
+  "whyItMatters": "District-level deployment can replace scattered personal accounts with shared policies, training and privacy controls. The useful test will be whether schools improve preparation and support without outsourcing professional judgment or exposing student information.",
+  "friendlyWhyItMatters": "A shared school plan can be safer than many separate personal accounts. Schools still need clear rules for student data and for checking AI answers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

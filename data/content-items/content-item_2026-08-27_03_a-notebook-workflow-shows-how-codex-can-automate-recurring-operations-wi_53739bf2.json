@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_03_a-notebook-workflow-shows-how-codex-can-automate-recurring-operations-wi_53739bf2",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Developers",
+  "sourceUrl": "https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex",
+  "canonicalUrl": "https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "A notebook workflow shows how Codex can automate recurring operations without hiding decisions",
+  "friendlyTitle": "A simple notebook can make repeated AI work safer and easier",
+  "summary": "An OpenAI engineer describes using Codex with Runme notebooks to plan, execute and document recurring evaluation work. The workflow keeps goals, approvals, commands, results and lessons in a shared artifact that future agent runs can reuse.",
+  "friendlySummary": "An OpenAI engineer uses Codex and a shared notebook to plan tasks, wait for approval, run commands and save the results. The next run can learn from what happened before.",
+  "whyItMatters": "This is a practical pattern for safer automation: make the agent write a reviewable plan, preserve evidence and record why choices were made. Teams can apply the same approach to deployments, reports and other repeatable work instead of leaving operational knowledge inside disposable chats.",
+  "friendlyWhyItMatters": "Keeping the plan and evidence in one place makes AI work easier to review. It also stops useful knowledge from disappearing inside old chats.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

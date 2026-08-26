@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_04_anthropic-opens-privacy-protected-claude-usage-data-to-independent-resea_6b13cfde",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/enabling-independent-research",
+  "canonicalUrl": "https://www.anthropic.com/research/enabling-independent-research",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "Anthropic opens privacy-protected Claude usage data to independent researchers",
+  "friendlyTitle": "Outside researchers studied how people really use Claude",
+  "summary": "Anthropic piloted independent studies over roughly 250,000 privacy-protected Claude and Claude Code conversations and released aggregate project data. Early findings suggest users often bring consequential work to AI, usually remain in charge of direction and may benefit from productive friction during collaboration.",
+  "friendlySummary": "Anthropic let independent teams study private, grouped data from about 250,000 Claude conversations. They found that people often use AI for important work but usually still guide and edit the result.",
+  "whyItMatters": "Real-world usage evidence can help organisations design training and controls around how people actually use assistants, rather than around surveys or laboratory tasks alone. One immediate lesson is that legal, financial and other high-stakes requests need stronger review habits because users already delegate them to AI.",
+  "friendlyWhyItMatters": "This helps us understand real AI habits. It also shows why important legal or money advice from AI should always be checked carefully.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

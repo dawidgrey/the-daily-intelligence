@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_10_primus-launches-an-autonomous-research-service-for-literature-experiment_c877c312",
+  "sourceKind": "product",
+  "sourceName": "Transformer Lab",
+  "sourceUrl": "https://lab.cloud/",
+  "canonicalUrl": "https://lab.cloud/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "Primus launches an autonomous research service for literature, experiments and write-ups",
+  "friendlyTitle": "Primus wants to run a full research project with AI",
+  "summary": "Transformer Lab launched Primus, a gradually opening service that claims to run research loops from literature review and hypothesis generation through code, compute experiments and final reports. The company presents completed research examples and is onboarding users from a waitlist because of limited GPU capacity.",
+  "friendlySummary": "Primus says it can read papers, plan experiments, run code and write a final report. The service is live but is adding users slowly because GPU space is limited.",
+  "whyItMatters": "A service that joins literature search, experiment execution and reporting could shorten exploratory research cycles for teams with suitable compute budgets. Its results and broad autonomy claims need independent validation, so researchers should require reproducible artifacts, cost limits and expert review before trusting conclusions.",
+  "friendlyWhyItMatters": "This could speed up early research work. People should still check the experiments, costs and conclusions before using the results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

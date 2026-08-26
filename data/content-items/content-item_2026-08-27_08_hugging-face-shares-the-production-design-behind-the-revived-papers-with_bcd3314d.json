@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_08_hugging-face-shares-the-production-design-behind-the-revived-papers-with_bcd3314d",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/pwc-search",
+  "canonicalUrl": "https://huggingface.co/blog/pwc-search",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "Hugging Face shares the production design behind the revived Papers with Code search",
+  "friendlyTitle": "How Papers with Code built a search system that keeps working",
+  "summary": "Hugging Face explains how Papers with Code searches more than 110,000 papers using PostgreSQL full-text retrieval, pgvector semantic search and reciprocal-rank fusion. Its design separates batch embedding work from live queries and falls back to keyword search when the embedding endpoint is unavailable.",
+  "friendlySummary": "Hugging Face combines exact word search with meaning-based search across more than 110,000 papers. If the AI search service is unavailable, the system can still use normal text search.",
+  "whyItMatters": "The architecture is a useful blueprint for dependable research search and RAG systems: version embedding inputs, move expensive work offline and keep a simpler fallback path. It also gives researchers and agents a practical way to find papers and related artifacts through the site or CLI.",
+  "friendlyWhyItMatters": "This is a helpful design for anyone building document search. A simple backup method can keep the service useful when the smarter part has a problem.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

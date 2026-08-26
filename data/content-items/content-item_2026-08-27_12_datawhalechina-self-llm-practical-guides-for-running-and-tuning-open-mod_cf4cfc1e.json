@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_12_datawhalechina-self-llm-practical-guides-for-running-and-tuning-open-mod_cf4cfc1e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/datawhalechina/self-llm",
+  "canonicalUrl": "https://github.com/datawhalechina/self-llm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "datawhalechina/self-llm: practical guides for running and tuning open models",
+  "friendlyTitle": "self-llm teaches people how to run and tune open AI models",
+  "summary": "self-llm is an Apache-licensed collection of Linux tutorials for deploying, using and fine-tuning open language and multimodal models. The mostly Chinese-language project includes an English guide and has about 32,000 GitHub stars.",
+  "friendlySummary": "This project offers step-by-step Linux guides for setting up, using and fine-tuning many open models. Most content is in Chinese, with an English guide also available.",
+  "whyItMatters": "Learners and practitioners can follow model-specific setup paths for local deployment and LoRA or full-parameter tuning across different hardware. Check each model’s current requirements and licence before committing expensive compute.",
+  "friendlyWhyItMatters": "Use it as a practical learning path for local models. Check hardware needs and model licences before starting a large training job.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_13_janhq-jan-a-private-desktop-alternative-to-cloud-ai-chat_78640dbd",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/janhq/jan",
+  "canonicalUrl": "https://github.com/janhq/jan",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "janhq/jan: a private desktop alternative to cloud AI chat",
+  "friendlyTitle": "Jan lets you run an AI chat app on your own computer",
+  "summary": "Jan is an open-source desktop application for running local models and using a ChatGPT-style interface without sending every conversation to a hosted service. The actively developed project has more than 44,000 GitHub stars.",
+  "friendlySummary": "Jan is an open-source desktop app for chatting with local AI models. Your conversations can stay on your computer instead of going to a cloud service.",
+  "whyItMatters": "It offers a friendlier route into offline assistants for private notes, drafts and experiments, provided the computer can run the chosen model. Users can compare local privacy and cost benefits against lower speed, model capability and hardware limits.",
+  "friendlyWhyItMatters": "It can be useful for private notes and offline experiments. The experience depends on how powerful your computer is and which model you choose.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

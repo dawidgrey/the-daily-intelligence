@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-27_01_gemini-3-5-transcribe-turns-natural-speech-into-polished-text_83abfc08",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+  "canonicalUrl": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-26T20:06:14Z",
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "title": "Gemini 3.5 Transcribe turns natural speech into polished text",
+  "friendlyTitle": "Google’s new tool makes spoken words into cleaner text",
+  "summary": "Google introduced Gemini 3.5 Transcribe for real-time and recorded audio, with custom vocabulary, speaker attribution, word-level timestamps and support for more than 85 languages. Google says the model can clean up filler words and self-corrections while preserving the speaker’s intent.",
+  "friendlySummary": "Gemini 3.5 Transcribe can write down live or recorded speech, separate speakers and understand more than 85 languages. It can also remove filler words and handle spoken corrections.",
+  "whyItMatters": "More reliable transcription can improve captions, meeting records, dictation and voice agents, especially in noisy or multilingual settings. Developers should still test accuracy on their own accents, terminology and privacy requirements before using it for consequential records.",
+  "friendlyWhyItMatters": "This could make captions, notes and voice tools easier to use. Important recordings should still be checked by a person.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-27"
+  }
+}

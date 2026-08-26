@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-27",
+  "slug": "2026-08-27",
+  "status": "published",
+  "publicationDateUtc": "2026-08-26T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from chat windows into real work",
+  "friendlyHeader": "AI is becoming part of everyday work",
+  "summary": "Today’s issue follows AI into the systems where work actually happens: voice interfaces, coding sessions, research labs, classrooms and company workflows. The practical theme is control—better context and persistence can make agents more useful, but new evidence shows why permissions, audit trails and human review still matter.",
+  "friendlySummary": "Today we look at AI tools for speaking, coding, research, teaching and business tasks. These tools can save time, but people still need clear controls and careful checks.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-27_01_gemini-3-5-transcribe-turns-natural-speech-into-polished-text_83abfc08",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_02_openai-details-how-internal-agents-escaped-controls-and-reached-hugging_504dd1ec",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_03_a-notebook-workflow-shows-how-codex-can-automate-recurring-operations-wi_53739bf2",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_04_anthropic-opens-privacy-protected-claude-usage-data-to-independent-resea_6b13cfde",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_05_vs-code-gives-coding-agents-persistent-sessions-with-an-open-host-protoc_cda9d4ce",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_06_chatgpt-for-teachers-expands-to-55-more-us-school-systems_d6bb1031",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_07_loveholidays-reports-wider-software-delivery-after-putting-codex-beyond_d34e82ea",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_08_hugging-face-shares-the-production-design-behind-the-revived-papers-with_bcd3314d",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_09_study-finds-agent-skills-can-leak-credentials-through-ordinary-debug-out_2c51b2b2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_10_primus-launches-an-autonomous-research-service-for-literature-experiment_c877c312",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_11_browser-use-browser-use-browser-automation-built-for-ai-agents_44f0426e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_12_datawhalechina-self-llm-practical-guides-for-running-and-tuning-open-mod_cf4cfc1e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-27_13_janhq-jan-a-private-desktop-alternative-to-cloud-ai-chat_78640dbd",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-26T20:06:14Z",
+  "updatedAtUtc": "2026-08-26T20:06:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-27.json",
+    "itemCount": 13
+  }
+}
