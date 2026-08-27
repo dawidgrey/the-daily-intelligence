@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_01_anthropic-previews-a-shared-standard-for-ai-controlled-hardware_e8e7441a",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+  "canonicalUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+  "credit": "@AnthropicAI",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Anthropic previews a shared standard for AI-controlled hardware",
+  "friendlyTitle": "Anthropic gives AI agents a common way to use machines",
+  "summary": "Anthropic opened a research preview of the Model Hardware Standard, a model-agnostic specification that lets agents discover and operate programmable lab and manufacturing equipment through common drivers, safety limits and interfaces including MCP. Early partners used it across microscopy, biotech, robotics and quantum-computing workflows.",
+  "friendlySummary": "Anthropic is testing a shared system that helps AI agents understand and control lab and factory equipment. It works with different models and includes rules about what each machine can safely do.",
+  "whyItMatters": "A common hardware layer could replace weeks of custom integration with hours, making automated experiments and small-scale manufacturing more accessible. Because agents are touching physical systems, the preview's safety evaluations and enforced device limits will matter as much as its convenience.",
+  "friendlyWhyItMatters": "This could make it much faster to connect machines and automate careful work. Strong safety limits are important because mistakes can affect real equipment, not only a screen.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

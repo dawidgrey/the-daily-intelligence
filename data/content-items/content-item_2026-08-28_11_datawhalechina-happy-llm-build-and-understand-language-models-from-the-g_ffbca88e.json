@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_11_datawhalechina-happy-llm-build-and-understand-language-models-from-the-g_ffbca88e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/datawhalechina/happy-llm",
+  "canonicalUrl": "https://github.com/datawhalechina/happy-llm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "datawhalechina/happy-llm: build and understand language models from the ground up",
+  "friendlyTitle": "Happy-LLM teaches how large language models work",
+  "summary": "Happy-LLM is a Chinese-language open-source learning project that explains large language models from core architecture and tokenization through pretraining, fine-tuning and deployment. The repository had more than 33,000 stars when checked and led today's eligible AI repository candidates by trend score.",
+  "friendlySummary": "This free Chinese-language project explains large language models step by step, from basic parts to training and deployment. It includes practical learning material and code.",
+  "whyItMatters": "Use it as a structured study path when you want to move beyond API calls and understand how models are built. Its notebooks and implementation-oriented material are especially useful for Mandarin readers and learners comfortable translating technical text.",
+  "friendlyWhyItMatters": "Use it to study how LLMs are built instead of only learning how to call an API. It is best for Mandarin readers or people happy to use translation tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

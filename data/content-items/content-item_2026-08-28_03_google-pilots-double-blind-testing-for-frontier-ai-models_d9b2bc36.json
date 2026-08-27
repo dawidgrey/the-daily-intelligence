@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_03_google-pilots-double-blind-testing-for-frontier-ai-models_d9b2bc36",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+  "canonicalUrl": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Google pilots double-blind testing for frontier AI models",
+  "friendlyTitle": "A new AI test hides both the questions and the model",
+  "summary": "Google DeepMind and external partners are testing a Gemini Flash Lite model inside a confidential computing environment where Google cannot see the evaluators' prompts and evaluators cannot see the model weights. The approach is designed to reduce benchmark contamination while protecting both test data and proprietary models.",
+  "friendlySummary": "Google is testing an AI model in a secure computer space. Google cannot see the private test questions, and the testers cannot see the model's secret code and weights.",
+  "whyItMatters": "Model buyers and policymakers rely on benchmark claims, but leaked test questions can inflate scores. Cryptographically separated evaluations could make independent safety and capability testing more credible without forcing either side to disclose sensitive assets.",
+  "friendlyWhyItMatters": "This can make AI test results easier to trust because the model company cannot prepare for hidden questions. It also protects private information on both sides.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

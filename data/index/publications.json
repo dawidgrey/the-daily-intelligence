@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-26T20:06:14Z",
+  "generatedAtUtc": "2026-08-27T20:07:18Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-28",
+      "slug": "2026-08-28",
+      "status": "published",
+      "publicationDateUtc": "2026-08-27T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answers to actions — and meets harder safety tests",
+      "friendlyHeader": "AI can do more tasks, but it needs better safety",
+      "summary": "Today's issue follows AI into physical equipment, travel booking, enterprise workflows and generative video, while new evaluation and security work shows why capable agents need stronger boundaries. We also highlight three fast-moving open-source projects for learning, browser automation and better agent context.",
+      "friendlySummary": "Today, AI is helping with machines, travel, sales work and video creation. We also look at new ways to test AI and keep agents safer, plus three useful open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-08-28.html",
+      "dataUrl": "data/daily-publications/2026-08-28.json"
+    },
     {
       "id": "daily-publication_2026-08-27",
       "slug": "2026-08-27",

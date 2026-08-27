@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_07_google-s-ai-mode-can-track-fares-show-rewards-prices-and-book-hotels_5a6b8552",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Google's AI Mode can track fares, show rewards prices and book hotels",
+  "friendlyTitle": "Google AI can help watch flight prices and book hotels",
+  "summary": "Google added conversational flight-price alerts and globally available points-and-miles results to AI Mode in Search, while hotel booking through Google Pay is beginning to roll out in English in the United States. Flight tracking is available across more than 180 countries and territories, subject to regional exclusions.",
+  "friendlySummary": "AI Mode in Google Search can send flight price alerts and show some flights and hotels in points or miles. In the United States, it is also starting to help users complete hotel bookings.",
+  "whyItMatters": "Travel planning is moving from search and comparison toward transactions inside an AI conversation. Users gain convenience but should still verify cancellation terms, reward valuations and the final merchant, especially because availability and booking support vary by region and partner.",
+  "friendlyWhyItMatters": "This can save time when planning a trip. Before paying, check the price, cancellation rules, rewards value and which company will handle the booking.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

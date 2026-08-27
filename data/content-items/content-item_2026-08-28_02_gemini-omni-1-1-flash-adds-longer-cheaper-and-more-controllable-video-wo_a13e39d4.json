@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_02_gemini-omni-1-1-flash-adds-longer-cheaper-and-more-controllable-video-wo_a13e39d4",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+  "canonicalUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Gemini Omni 1.1 Flash adds longer, cheaper and more controllable video workflows",
+  "friendlyTitle": "Google's new video model gives creators more control",
+  "summary": "Google released Gemini Omni 1.1 Flash for production use through the Gemini API, adding scene extension up to 40 seconds, first-and-last-frame control, fast 360p drafts and 4K upscaling. The model now considers up to 10 seconds of prior footage when extending a scene.",
+  "friendlySummary": "Gemini Omni 1.1 Flash can continue a video, connect chosen start and end images, make quick low-quality drafts and improve final video to 4K. It can keep more of the earlier scene in mind.",
+  "whyItMatters": "Creative teams can prototype at lower resolution and cost, then upscale only approved work, while stronger frame and continuity controls reduce repeated generations. Developers can now build these capabilities into editing and media-production tools rather than using a standalone demo.",
+  "friendlyWhyItMatters": "Creators can test ideas faster and spend less before making the final version. App makers can also add these video tools to their own products.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

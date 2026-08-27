@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-26T20:06:14Z",
+  "generatedAtUtc": "2026-08-27T20:07:17Z",
   "items": [
     {
-      "id": "content-item_2026-08-27_01_gemini-3-5-transcribe-turns-natural-speech-into-polished-text_83abfc08",
+      "id": "content-item_2026-08-28_01_anthropic-previews-a-shared-standard-for-ai-controlled-hardware_e8e7441a",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic previews a shared standard for AI-controlled hardware",
+      "sourceUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+    },
+    {
+      "id": "content-item_2026-08-28_02_gemini-omni-1-1-flash-adds-longer-cheaper-and-more-controllable-video-wo_a13e39d4",
       "sourceKind": "product",
       "sourceName": "Google DeepMind",
-      "title": "Gemini 3.5 Transcribe turns natural speech into polished text",
-      "sourceUrl": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+      "title": "Gemini Omni 1.1 Flash adds longer, cheaper and more controllable video workflows",
+      "sourceUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
     },
     {
-      "id": "content-item_2026-08-27_02_openai-details-how-internal-agents-escaped-controls-and-reached-hugging_504dd1ec",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI details how internal agents escaped controls and reached Hugging Face",
-      "sourceUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-    },
-    {
-      "id": "content-item_2026-08-27_03_a-notebook-workflow-shows-how-codex-can-automate-recurring-operations-wi_53739bf2",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Developers",
-      "title": "A notebook workflow shows how Codex can automate recurring operations without hiding decisions",
-      "sourceUrl": "https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex"
-    },
-    {
-      "id": "content-item_2026-08-27_04_anthropic-opens-privacy-protected-claude-usage-data-to-independent-resea_6b13cfde",
+      "id": "content-item_2026-08-28_03_google-pilots-double-blind-testing-for-frontier-ai-models_d9b2bc36",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic opens privacy-protected Claude usage data to independent researchers",
-      "sourceUrl": "https://www.anthropic.com/research/enabling-independent-research"
+      "sourceName": "Google DeepMind",
+      "title": "Google pilots double-blind testing for frontier AI models",
+      "sourceUrl": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
     },
     {
-      "id": "content-item_2026-08-27_05_vs-code-gives-coding-agents-persistent-sessions-with-an-open-host-protoc_cda9d4ce",
-      "sourceKind": "product",
-      "sourceName": "Visual Studio Code",
-      "title": "VS Code gives coding agents persistent sessions with an open host protocol",
-      "sourceUrl": "https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture"
-    },
-    {
-      "id": "content-item_2026-08-27_06_chatgpt-for-teachers-expands-to-55-more-us-school-systems_d6bb1031",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT for Teachers expands to 55 more US school systems",
-      "sourceUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "id": "content-item_2026-08-27_07_loveholidays-reports-wider-software-delivery-after-putting-codex-beyond_d34e82ea",
+      "id": "content-item_2026-08-28_04_openai-and-more-than-100-organisations-call-for-an-ai-powered-cyber-defe_3e2dd7fa",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "loveholidays reports wider software delivery after putting Codex beyond engineering",
-      "sourceUrl": "https://openai.com/index/loveholidays"
+      "title": "OpenAI and more than 100 organisations call for an AI-powered cyber-defence push",
+      "sourceUrl": "https://openai.com/collective-cyberdefense/"
     },
     {
-      "id": "content-item_2026-08-27_08_hugging-face-shares-the-production-design-behind-the-revived-papers-with_bcd3314d",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face shares the production design behind the revived Papers with Code search",
-      "sourceUrl": "https://huggingface.co/blog/pwc-search"
-    },
-    {
-      "id": "content-item_2026-08-27_09_study-finds-agent-skills-can-leak-credentials-through-ordinary-debug-out_2c51b2b2",
+      "id": "content-item_2026-08-28_05_independent-review-details-how-1-200-agents-found-each-other-and-coordin_9ad84ad0",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Study finds agent skills can leak credentials through ordinary debug output",
-      "sourceUrl": "https://arxiv.org/abs/2604.03070"
+      "sourceName": "METR",
+      "title": "Independent review details how 1,200 agents found each other and coordinated an attack",
+      "sourceUrl": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
     },
     {
-      "id": "content-item_2026-08-27_10_primus-launches-an-autonomous-research-service-for-literature-experiment_c877c312",
+      "id": "content-item_2026-08-28_06_salesforce-and-anthropic-bring-governed-crm-work-into-claude_30a0fccd",
       "sourceKind": "product",
-      "sourceName": "Transformer Lab",
-      "title": "Primus launches an autonomous research service for literature, experiments and write-ups",
-      "sourceUrl": "https://lab.cloud/"
+      "sourceName": "Salesforce",
+      "title": "Salesforce and Anthropic bring governed CRM work into Claude",
+      "sourceUrl": "https://www.salesforce.com/claudeforce/"
     },
     {
-      "id": "content-item_2026-08-27_11_browser-use-browser-use-browser-automation-built-for-ai-agents_44f0426e",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "browser-use/browser-use: browser automation built for AI agents",
-      "sourceUrl": "https://github.com/browser-use/browser-use"
+      "id": "content-item_2026-08-28_07_google-s-ai-mode-can-track-fares-show-rewards-prices-and-book-hotels_5a6b8552",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google's AI Mode can track fares, show rewards prices and book hotels",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
     },
     {
-      "id": "content-item_2026-08-27_12_datawhalechina-self-llm-practical-guides-for-running-and-tuning-open-mod_cf4cfc1e",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "datawhalechina/self-llm: practical guides for running and tuning open models",
-      "sourceUrl": "https://github.com/datawhalechina/self-llm"
+      "id": "content-item_2026-08-28_08_telem-launches-routing-and-observability-infrastructure-for-agent-web-se_a14c0516",
+      "sourceKind": "product",
+      "sourceName": "Telem AI",
+      "title": "Telem launches routing and observability infrastructure for agent web search",
+      "sourceUrl": "https://telem.ai/"
     },
     {
-      "id": "content-item_2026-08-27_13_janhq-jan-a-private-desktop-alternative-to-cloud-ai-chat_78640dbd",
+      "id": "content-item_2026-08-28_09_prompt-laundering-shows-how-untrusted-text-can-become-trusted-agent-memo_0094d221",
+      "sourceKind": "research",
+      "sourceName": "IronCore Labs",
+      "title": "Prompt laundering shows how untrusted text can become trusted agent memory",
+      "sourceUrl": "https://ironcorelabs.com/blog/2026/prompt-laundering/"
+    },
+    {
+      "id": "content-item_2026-08-28_10_openui-publishes-a-cost-and-validity-benchmark-for-generative-interfaces_0e9e77c6",
+      "sourceKind": "research",
+      "sourceName": "OpenUI",
+      "title": "OpenUI publishes a cost-and-validity benchmark for generative interfaces",
+      "sourceUrl": "https://www.openui.com/benchmarks"
+    },
+    {
+      "id": "content-item_2026-08-28_11_datawhalechina-happy-llm-build-and-understand-language-models-from-the-g_ffbca88e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "janhq/jan: a private desktop alternative to cloud AI chat",
-      "sourceUrl": "https://github.com/janhq/jan"
+      "title": "datawhalechina/happy-llm: build and understand language models from the ground up",
+      "sourceUrl": "https://github.com/datawhalechina/happy-llm"
+    },
+    {
+      "id": "content-item_2026-08-28_12_tencent-browserskill-let-agents-work-in-your-existing-browser-session_b7cb6769",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Tencent/BrowserSkill: let agents work in your existing browser session",
+      "sourceUrl": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "id": "content-item_2026-08-28_13_neolabhq-context-engineering-kit-reusable-skills-for-more-disciplined-co_e2e70ddc",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "NeoLabHQ/context-engineering-kit: reusable skills for more disciplined coding agents",
+      "sourceUrl": "https://github.com/NeoLabHQ/context-engineering-kit"
     }
   ]
 }

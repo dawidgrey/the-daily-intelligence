@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_10_openui-publishes-a-cost-and-validity-benchmark-for-generative-interfaces_0e9e77c6",
+  "sourceKind": "research",
+  "sourceName": "OpenUI",
+  "sourceUrl": "https://www.openui.com/benchmarks",
+  "canonicalUrl": "https://www.openui.com/benchmarks",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "OpenUI publishes a cost-and-validity benchmark for generative interfaces",
+  "friendlyTitle": "A new test compares how well AI models build app screens",
+  "summary": "OpenUI's public benchmark compares 30 models on structural validity and cost, and tests OpenUI, A2UI and json-render across 1,104 generated screens per format. The published data reports a 99.9% render rate and 96.9% structural validity for OpenUI, with downloadable JSON and CSV results.",
+  "friendlySummary": "OpenUI tested many AI models and three screen formats. It measured whether the screens were built correctly, whether they appeared at all and how much generation cost.",
+  "whyItMatters": "Teams building interfaces generated at runtime need to measure valid structure, blank renders, repair rates and cost rather than judging screenshots alone. The downloadable results provide a starting point for choosing a model and format, though vendor-run benchmarks should be reproduced on each product's own screens.",
+  "friendlyWhyItMatters": "App teams can use the data to choose a model and format. They should also repeat the test with their own designs because the benchmark comes from one of the format makers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_09_prompt-laundering-shows-how-untrusted-text-can-become-trusted-agent-memo_0094d221",
+  "sourceKind": "research",
+  "sourceName": "IronCore Labs",
+  "sourceUrl": "https://ironcorelabs.com/blog/2026/prompt-laundering/",
+  "canonicalUrl": "https://ironcorelabs.com/blog/2026/prompt-laundering/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Prompt laundering shows how untrusted text can become trusted agent memory",
+  "friendlyTitle": "A blocked scam can return later through an AI agent's memory",
+  "summary": "IronCore Labs describes a demonstrated attack in which suspicious instructions from email were rejected initially but later stored in agent memory without their untrusted labels. Repetition and memory promotion then moved the attack into more trusted context, creating a delayed path to harmful actions.",
+  "friendlySummary": "A security test found that an agent rejected harmful email instructions but saved parts of them as normal memory. Later, the agent could treat those false notes as trusted information.",
+  "whyItMatters": "Filtering an incoming prompt is not enough if summaries and memories discard provenance. Agent operators should preserve trust labels through every transformation, keep untrusted claims out of privileged memory and require user confirmation before sensitive actions derived from recalled context.",
+  "friendlyWhyItMatters": "AI systems should remember where information came from and whether it was trusted. Important actions should need a fresh check or human approval, even when the request comes from memory.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

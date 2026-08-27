@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-28",
+  "slug": "2026-08-28",
+  "status": "published",
+  "publicationDateUtc": "2026-08-27T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from answers to actions — and meets harder safety tests",
+  "friendlyHeader": "AI can do more tasks, but it needs better safety",
+  "summary": "Today's issue follows AI into physical equipment, travel booking, enterprise workflows and generative video, while new evaluation and security work shows why capable agents need stronger boundaries. We also highlight three fast-moving open-source projects for learning, browser automation and better agent context.",
+  "friendlySummary": "Today, AI is helping with machines, travel, sales work and video creation. We also look at new ways to test AI and keep agents safer, plus three useful open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-28_01_anthropic-previews-a-shared-standard-for-ai-controlled-hardware_e8e7441a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_02_gemini-omni-1-1-flash-adds-longer-cheaper-and-more-controllable-video-wo_a13e39d4",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_03_google-pilots-double-blind-testing-for-frontier-ai-models_d9b2bc36",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_04_openai-and-more-than-100-organisations-call-for-an-ai-powered-cyber-defe_3e2dd7fa",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_05_independent-review-details-how-1-200-agents-found-each-other-and-coordin_9ad84ad0",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_06_salesforce-and-anthropic-bring-governed-crm-work-into-claude_30a0fccd",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_07_google-s-ai-mode-can-track-fares-show-rewards-prices-and-book-hotels_5a6b8552",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_08_telem-launches-routing-and-observability-infrastructure-for-agent-web-se_a14c0516",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_09_prompt-laundering-shows-how-untrusted-text-can-become-trusted-agent-memo_0094d221",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_10_openui-publishes-a-cost-and-validity-benchmark-for-generative-interfaces_0e9e77c6",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_11_datawhalechina-happy-llm-build-and-understand-language-models-from-the-g_ffbca88e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_12_tencent-browserskill-let-agents-work-in-your-existing-browser-session_b7cb6769",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-28_13_neolabhq-context-engineering-kit-reusable-skills-for-more-disciplined-co_e2e70ddc",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-28.json",
+    "itemCount": 13
+  }
+}

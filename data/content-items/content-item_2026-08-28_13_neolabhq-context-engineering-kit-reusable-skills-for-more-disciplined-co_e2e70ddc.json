@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_13_neolabhq-context-engineering-kit-reusable-skills-for-more-disciplined-co_e2e70ddc",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NeoLabHQ/context-engineering-kit",
+  "canonicalUrl": "https://github.com/NeoLabHQ/context-engineering-kit",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "NeoLabHQ/context-engineering-kit: reusable skills for more disciplined coding agents",
+  "friendlyTitle": "Context Engineering Kit gives coding agents reusable work guides",
+  "summary": "Context Engineering Kit collects reusable coding-agent skills aimed at improving planning, reviews, testing and context management across Claude Code, OpenCode, Cursor, Gemini CLI and other compatible tools. It had more than 1,400 stars when checked and narrowly outranked other eligible AI repos in today's trend data.",
+  "friendlySummary": "This project contains ready-made instructions for AI coding tools. The guides cover tasks such as planning, code review, testing and keeping useful context.",
+  "whyItMatters": "Teams can inspect and adapt individual skills instead of repeatedly writing long workflow prompts for each coding session. Treat third-party skill files as executable operating instructions: review permissions and commands, pin versions and test them in an isolated repository first.",
+  "friendlyWhyItMatters": "Copy or adapt a guide when you want a coding agent to follow the same process each time. Read every guide before installing it because agent skills can run powerful tools and commands.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

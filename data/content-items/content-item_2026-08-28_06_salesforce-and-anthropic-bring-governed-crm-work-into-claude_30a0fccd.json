@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_06_salesforce-and-anthropic-bring-governed-crm-work-into-claude_30a0fccd",
+  "sourceKind": "product",
+  "sourceName": "Salesforce",
+  "sourceUrl": "https://www.salesforce.com/claudeforce/",
+  "canonicalUrl": "https://www.salesforce.com/claudeforce/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Salesforce and Anthropic bring governed CRM work into Claude",
+  "friendlyTitle": "Claude can now help sales teams work with Salesforce data",
+  "summary": "Salesforce introduced Claudeforce, including a Salesforce-in-Claude plugin with 37 sales skills that can reason over Salesforce, Slack and connected email while applying existing permissions and business rules. It is in a customer pilot, with an open beta planned for September 2026.",
+  "friendlySummary": "Salesforce and Anthropic made a Claude plugin with 37 sales skills. It can use company data from Salesforce and connected tools while following the company's access rules.",
+  "whyItMatters": "This is a concrete shift from asking an assistant for advice to letting it prepare pipeline reviews, update records and run governed workflows inside a system of record. Sales teams should test the time savings alongside permission scope, data retention and approval rules before broad deployment.",
+  "friendlyWhyItMatters": "Sales staff may spend less time searching through records and preparing reports. Companies should still check who can access data and which actions need approval.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

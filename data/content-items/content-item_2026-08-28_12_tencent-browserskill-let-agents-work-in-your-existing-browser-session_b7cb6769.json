@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_12_tencent-browserskill-let-agents-work-in-your-existing-browser-session_b7cb6769",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Tencent/BrowserSkill",
+  "canonicalUrl": "https://github.com/Tencent/BrowserSkill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Tencent/BrowserSkill: let agents work in your existing browser session",
+  "friendlyTitle": "BrowserSkill lets AI agents use your logged-in browser",
+  "summary": "BrowserSkill combines a CLI and browser extension so shell-capable AI agents can automate a user's real, logged-in browser without taking over the active window. The repository had about 1,400 stars when checked and was one of today's strongest AI-related trending candidates.",
+  "friendlySummary": "This tool connects AI agents to a browser session that is already signed in. It can work in the background through a command-line tool and browser extension.",
+  "whyItMatters": "It can help coding agents test authenticated web apps or complete browser workflows that are difficult in a clean automation profile. Use a separate low-privilege browser profile where possible, because access to a live session also exposes sensitive accounts and data.",
+  "friendlyWhyItMatters": "Use it to test private web apps or automate signed-in tasks. A separate browser profile with limited access is safer than giving an agent your main browser.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-28_08_telem-launches-routing-and-observability-infrastructure-for-agent-web-se_a14c0516",
+  "sourceKind": "product",
+  "sourceName": "Telem AI",
+  "sourceUrl": "https://telem.ai/",
+  "canonicalUrl": "https://telem.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-27T20:07:17Z",
+  "createdAtUtc": "2026-08-27T20:07:17Z",
+  "updatedAtUtc": "2026-08-27T20:07:17Z",
+  "title": "Telem launches routing and observability infrastructure for agent web search",
+  "friendlyTitle": "Telem helps AI agents search the web through one service",
+  "summary": "Telem offers one API that routes agent search and page-fetch requests across providers based on cost, latency and quality, with failover, normalized responses and trace-level observability. The service says personal users pay upstream provider costs without an added platform fee and receive starter credit.",
+  "friendlySummary": "Telem can send each web search to a suitable provider, retry failed page requests and show a record of what the agent did. Developers use one API instead of connecting every search service separately.",
+  "whyItMatters": "Agents often fail because web providers degrade, pages resist extraction or teams cannot inspect what was retrieved. A routing and trace layer can make research workflows easier to debug, though teams should assess provider coverage, data handling and dependence on another infrastructure layer.",
+  "friendlyWhyItMatters": "This may make web research agents more reliable and easier to fix. Teams should still check privacy, supported providers and what happens if the service is unavailable.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-28"
+  }
+}
