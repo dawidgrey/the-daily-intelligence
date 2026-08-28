@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-29_08_pipecat-releases-an-open-weight-model-tuned-for-low-latency-phone-agents_72f901d6",
+  "sourceKind": "product",
+  "sourceName": "Daily / Pipecat",
+  "sourceUrl": "https://www.daily.co/blog/announcing-pipecat-phonellm-alpha-1/",
+  "canonicalUrl": "https://www.daily.co/blog/announcing-pipecat-phonellm-alpha-1/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-28T20:05:21Z",
+  "createdAtUtc": "2026-08-28T20:05:21Z",
+  "updatedAtUtc": "2026-08-28T20:05:21Z",
+  "title": "Pipecat releases an open-weight model tuned for low-latency phone agents",
+  "friendlyTitle": "A smaller open AI model is built for phone calls",
+  "summary": "PhoneLLM Alpha 1 is an open-weight, BSD-licensed fine-tune of NVIDIA’s Nemotron 3 Nano with 3.5 billion active parameters. Pipecat trained it for responsive multi-turn calls and accurate tool use, and released PhoneBench to evaluate accuracy, speaking style, latency, cost and whether an agent’s actions match its words.",
+  "friendlySummary": "PhoneLLM is designed to answer quickly, hold a conversation and use tools during customer calls. Companies can run the model on their own systems.",
+  "whyItMatters": "A specialist model that can run on private infrastructure may lower latency, cost and data exposure for customer-service calls. Teams should validate Pipecat’s benchmark claims with their own accents, escalation rules, tools and compliance requirements before production use.",
+  "friendlyWhyItMatters": "It may make voice agents cheaper and more private. Businesses should still test it carefully with real callers and safety rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-29"
+  }
+}

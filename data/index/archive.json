@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-08-27T20:07:18Z",
+  "generatedAtUtc": "2026-08-28T20:05:21Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-08-29",
+      "slug": "2026-08-29",
+      "status": "published",
+      "publicationDateUtc": "2026-08-28T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into infrastructure, research and real work",
+      "friendlyHeader": "AI agents are becoming more useful in real work",
+      "summary": "Today’s issue follows AI agents into the systems that make them useful: faster infrastructure, specialist models, safer training, scientific discovery and practical workflows. It also looks at the legal and labour-market signals shaping where these tools go next.",
+      "friendlySummary": "Today we look at new AI tools for coding, research, phone calls and office work. We also explain important changes in AI safety, jobs and government use.",
+      "itemCount": 13,
+      "href": "issues/2026-08-29.html",
+      "dataUrl": "data/daily-publications/2026-08-29.json"
+    },
     {
       "id": "daily-publication_2026-08-28",
       "slug": "2026-08-28",

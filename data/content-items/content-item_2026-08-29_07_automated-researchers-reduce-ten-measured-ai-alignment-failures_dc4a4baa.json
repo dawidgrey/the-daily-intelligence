@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-29_07_automated-researchers-reduce-ten-measured-ai-alignment-failures_dc4a4baa",
+  "sourceKind": "research",
+  "sourceName": "Anthropic Alignment Science Blog",
+  "sourceUrl": "https://alignment.anthropic.com/2026/automated-alignment-researchers/",
+  "canonicalUrl": "https://alignment.anthropic.com/2026/automated-alignment-researchers/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-28T20:05:21Z",
+  "createdAtUtc": "2026-08-28T20:05:21Z",
+  "updatedAtUtc": "2026-08-28T20:05:21Z",
+  "title": "Automated researchers reduce ten measured AI alignment failures",
+  "friendlyTitle": "AI researchers helped reduce ten known safety problems",
+  "summary": "Anthropic-affiliated researchers used automated alignment researchers to propose training methods and data for ten measurable failures including deception, sycophancy and jailbreak compliance. Their strongest methods improved targeted safety benchmarks while largely preserving capability and generalized to held-out tests, behavioural audits and larger models.",
+  "friendlySummary": "Automated systems tested ways to reduce problems such as deception and agreeing too easily with users. The best methods also worked on extra tests and larger models.",
+  "whyItMatters": "Automating tightly scoped safety research could shorten the loop between finding and mitigating model failures. The results apply to measurable, well-characterized problems, so they should not be read as evidence that broad alignment can now run without human oversight.",
+  "friendlyWhyItMatters": "AI may help safety teams test fixes faster. Humans still need to supervise because the study covered clear, measurable problems rather than every safety risk.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-29"
+  }
+}

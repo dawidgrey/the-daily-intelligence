@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-27T20:07:17Z",
+  "generatedAtUtc": "2026-08-28T20:05:21Z",
   "items": [
     {
-      "id": "content-item_2026-08-28_01_anthropic-previews-a-shared-standard-for-ai-controlled-hardware_e8e7441a",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic previews a shared standard for AI-controlled hardware",
-      "sourceUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      "id": "content-item_2026-08-29_01_us-judge-blocks-the-pentagon-s-anthropic-blacklist_c262c2ce",
+      "sourceKind": "regulation",
+      "sourceName": "Reuters",
+      "title": "US judge blocks the Pentagon’s Anthropic blacklist",
+      "sourceUrl": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
     },
     {
-      "id": "content-item_2026-08-28_02_gemini-omni-1-1-flash-adds-longer-cheaper-and-more-controllable-video-wo_a13e39d4",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini Omni 1.1 Flash adds longer, cheaper and more controllable video workflows",
-      "sourceUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
-    },
-    {
-      "id": "content-item_2026-08-28_03_google-pilots-double-blind-testing-for-frontier-ai-models_d9b2bc36",
+      "id": "content-item_2026-08-29_02_uncoordinated-ai-agents-report-new-results-on-five-mathematics-problems_fb769fc6",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google pilots double-blind testing for frontier AI models",
-      "sourceUrl": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+      "sourceName": "arXiv",
+      "title": "Uncoordinated AI agents report new results on five mathematics problems",
+      "sourceUrl": "https://arxiv.org/abs/2608.23691"
     },
     {
-      "id": "content-item_2026-08-28_04_openai-and-more-than-100-organisations-call-for-an-ai-powered-cyber-defe_3e2dd7fa",
+      "id": "content-item_2026-08-29_03_a-new-handbook-treats-analytical-ai-as-a-measurable-data-workflow_3b217e06",
+      "sourceKind": "article",
+      "sourceName": "Sutro",
+      "title": "A new handbook treats analytical AI as a measurable data workflow",
+      "sourceUrl": "https://handbook.sutro.sh"
+    },
+    {
+      "id": "content-item_2026-08-29_04_openai-introduces-a-limited-luna-fallback-after-regular-usage-runs-out_85d0a9d9",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Help Center",
+      "title": "OpenAI introduces a limited Luna fallback after regular usage runs out",
+      "sourceUrl": "https://help.openai.com/en/articles/20001499-luna-reserve-in-codex-and-chatgpt-work"
+    },
+    {
+      "id": "content-item_2026-08-29_05_nvidia-begins-shipping-vera-cpus-built-around-agent-workloads_ae61ed14",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA Blog",
+      "title": "NVIDIA begins shipping Vera CPUs built around agent workloads",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
+    },
+    {
+      "id": "content-item_2026-08-29_06_tencent-previews-hy4-a-770b-parameter-open-model-with-a-1m-token-context_6a21b1e4",
+      "sourceKind": "product",
+      "sourceName": "Tencent Hy",
+      "title": "Tencent previews Hy4, a 770B-parameter open model with a 1M-token context",
+      "sourceUrl": "https://hy.tencent.ai/research/hy4-preview"
+    },
+    {
+      "id": "content-item_2026-08-29_07_automated-researchers-reduce-ten-measured-ai-alignment-failures_dc4a4baa",
+      "sourceKind": "research",
+      "sourceName": "Anthropic Alignment Science Blog",
+      "title": "Automated researchers reduce ten measured AI alignment failures",
+      "sourceUrl": "https://alignment.anthropic.com/2026/automated-alignment-researchers/"
+    },
+    {
+      "id": "content-item_2026-08-29_08_pipecat-releases-an-open-weight-model-tuned-for-low-latency-phone-agents_72f901d6",
+      "sourceKind": "product",
+      "sourceName": "Daily / Pipecat",
+      "title": "Pipecat releases an open-weight model tuned for low-latency phone agents",
+      "sourceUrl": "https://www.daily.co/blog/announcing-pipecat-phonellm-alpha-1/"
+    },
+    {
+      "id": "content-item_2026-08-29_09_openai-and-thailand-launch-an-accelerator-for-health-and-education-start_0b00c80d",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI and more than 100 organisations call for an AI-powered cyber-defence push",
-      "sourceUrl": "https://openai.com/collective-cyberdefense/"
+      "title": "OpenAI and Thailand launch an accelerator for health and education startups",
+      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
     },
     {
-      "id": "content-item_2026-08-28_05_independent-review-details-how-1-200-agents-found-each-other-and-coordin_9ad84ad0",
+      "id": "content-item_2026-08-29_10_study-links-higher-ai-exposure-with-a-larger-education-wage-premium_0ea67c97",
       "sourceKind": "research",
-      "sourceName": "METR",
-      "title": "Independent review details how 1,200 agents found each other and coordinated an attack",
-      "sourceUrl": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+      "sourceName": "SSRN",
+      "title": "Study links higher AI exposure with a larger education wage premium",
+      "sourceUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7330818"
     },
     {
-      "id": "content-item_2026-08-28_06_salesforce-and-anthropic-bring-governed-crm-work-into-claude_30a0fccd",
-      "sourceKind": "product",
-      "sourceName": "Salesforce",
-      "title": "Salesforce and Anthropic bring governed CRM work into Claude",
-      "sourceUrl": "https://www.salesforce.com/claudeforce/"
-    },
-    {
-      "id": "content-item_2026-08-28_07_google-s-ai-mode-can-track-fares-show-rewards-prices-and-book-hotels_5a6b8552",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google's AI Mode can track fares, show rewards prices and book hotels",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
-    },
-    {
-      "id": "content-item_2026-08-28_08_telem-launches-routing-and-observability-infrastructure-for-agent-web-se_a14c0516",
-      "sourceKind": "product",
-      "sourceName": "Telem AI",
-      "title": "Telem launches routing and observability infrastructure for agent web search",
-      "sourceUrl": "https://telem.ai/"
-    },
-    {
-      "id": "content-item_2026-08-28_09_prompt-laundering-shows-how-untrusted-text-can-become-trusted-agent-memo_0094d221",
-      "sourceKind": "research",
-      "sourceName": "IronCore Labs",
-      "title": "Prompt laundering shows how untrusted text can become trusted agent memory",
-      "sourceUrl": "https://ironcorelabs.com/blog/2026/prompt-laundering/"
-    },
-    {
-      "id": "content-item_2026-08-28_10_openui-publishes-a-cost-and-validity-benchmark-for-generative-interfaces_0e9e77c6",
-      "sourceKind": "research",
-      "sourceName": "OpenUI",
-      "title": "OpenUI publishes a cost-and-validity benchmark for generative interfaces",
-      "sourceUrl": "https://www.openui.com/benchmarks"
-    },
-    {
-      "id": "content-item_2026-08-28_11_datawhalechina-happy-llm-build-and-understand-language-models-from-the-g_ffbca88e",
+      "id": "content-item_2026-08-29_11_abi-screenshot-to-code-turn-interface-images-into-editable-web-code_c5264a1d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "datawhalechina/happy-llm: build and understand language models from the ground up",
-      "sourceUrl": "https://github.com/datawhalechina/happy-llm"
+      "title": "abi/screenshot-to-code: turn interface images into editable web code",
+      "sourceUrl": "https://github.com/abi/screenshot-to-code"
     },
     {
-      "id": "content-item_2026-08-28_12_tencent-browserskill-let-agents-work-in-your-existing-browser-session_b7cb6769",
+      "id": "content-item_2026-08-29_12_cursor-plugins-the-official-specification-and-catalog-for-cursor-extensi_1fb256ce",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Tencent/BrowserSkill: let agents work in your existing browser session",
-      "sourceUrl": "https://github.com/Tencent/BrowserSkill"
+      "title": "cursor/plugins: the official specification and catalog for Cursor extensions",
+      "sourceUrl": "https://github.com/cursor/plugins"
     },
     {
-      "id": "content-item_2026-08-28_13_neolabhq-context-engineering-kit-reusable-skills-for-more-disciplined-co_e2e70ddc",
+      "id": "content-item_2026-08-29_13_abhigyanpatwari-gitnexus-map-a-codebase-into-a-local-knowledge-graph_ca08b1c2",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "NeoLabHQ/context-engineering-kit: reusable skills for more disciplined coding agents",
-      "sourceUrl": "https://github.com/NeoLabHQ/context-engineering-kit"
+      "title": "abhigyanpatwari/GitNexus: map a codebase into a local knowledge graph",
+      "sourceUrl": "https://github.com/abhigyanpatwari/GitNexus"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-29_01_us-judge-blocks-the-pentagon-s-anthropic-blacklist_c262c2ce",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+  "canonicalUrl": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-28T20:05:21Z",
+  "createdAtUtc": "2026-08-28T20:05:21Z",
+  "updatedAtUtc": "2026-08-28T20:05:21Z",
+  "title": "US judge blocks the Pentagon’s Anthropic blacklist",
+  "friendlyTitle": "A judge stops the Pentagon’s ban on Anthropic",
+  "summary": "A US federal judge blocked the Pentagon’s designation of Anthropic as a national-security supply-chain risk, calling the decision illegal and baseless. A separate case over another designation that could affect civilian government contracts remains pending.",
+  "friendlySummary": "A US judge said the Pentagon did not have a proper basis for putting Anthropic on a security blacklist. Another related court case is still open.",
+  "whyItMatters": "The ruling may preserve Anthropic’s access to government and contractor business while clarifying limits on procurement penalties tied to an AI provider’s usage restrictions. Organizations choosing models for regulated work should still watch the parallel case and procurement guidance.",
+  "friendlyWhyItMatters": "This could help Anthropic keep working with government customers. Businesses using Claude should still watch what happens next.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-08-29"
+  }
+}

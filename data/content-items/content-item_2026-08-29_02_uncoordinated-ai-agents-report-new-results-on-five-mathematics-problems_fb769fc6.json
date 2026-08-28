@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-29_02_uncoordinated-ai-agents-report-new-results-on-five-mathematics-problems_fb769fc6",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2608.23691",
+  "canonicalUrl": "https://arxiv.org/abs/2608.23691",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-28T20:05:21Z",
+  "createdAtUtc": "2026-08-28T20:05:21Z",
+  "updatedAtUtc": "2026-08-28T20:05:21Z",
+  "title": "Uncoordinated AI agents report new results on five mathematics problems",
+  "friendlyTitle": "AI agents worked together on new maths results",
+  "summary": "Researchers placed agents from different model families in an open-ended shared environment where they chose directions, ran experiments and built a common literature without a central coordinator. The paper reports results novel relative to prior literature on five of 12 construction problems and releases dialogues, proofs and verification code.",
+  "friendlySummary": "Several AI agents chose their own research tasks and shared what they learned. The researchers say the system found new results on five maths problems and released the work for checking.",
+  "whyItMatters": "The work suggests multi-agent systems can produce inspectable research artifacts rather than only final answers. For teams exploring AI-assisted research, the released records offer a concrete way to study collaboration, verification and failure modes.",
+  "friendlyWhyItMatters": "This shows how AI may help researchers explore difficult problems. The public proofs and records also make the claims easier to check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-29"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-29_06_tencent-previews-hy4-a-770b-parameter-open-model-with-a-1m-token-context_6a21b1e4",
+  "sourceKind": "product",
+  "sourceName": "Tencent Hy",
+  "sourceUrl": "https://hy.tencent.ai/research/hy4-preview",
+  "canonicalUrl": "https://hy.tencent.ai/research/hy4-preview",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-28T20:05:21Z",
+  "createdAtUtc": "2026-08-28T20:05:21Z",
+  "updatedAtUtc": "2026-08-28T20:05:21Z",
+  "title": "Tencent previews Hy4, a 770B-parameter open model with a 1M-token context",
+  "friendlyTitle": "Tencent releases a very large open AI model called Hy4",
+  "summary": "Tencent released Hy4 preview, a mixture-of-experts model with 770 billion total parameters, 49 billion active parameters and a one-million-token context window. The company targets long-horizon coding, multi-file office analysis, game development and scientific research, with access through cloud and open-model platforms.",
+  "friendlySummary": "Hy4 can read a very large amount of information at once and is designed for coding, office files, games and research. Tencent has made it available through cloud and open-model services.",
+  "whyItMatters": "Hy4 adds another large open option for organizations that need long context or deployment flexibility. Builders should independently test its benchmark claims, hardware requirements, licensing and performance on their own documents and codebases.",
+  "friendlyWhyItMatters": "It gives builders another model to test for large projects, but they should check cost, hardware needs and real results first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-29"
+  }
+}
