@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_04_vllm-0-28-targets-faster-kimi-k3-and-broader-inference-hardware_0cb38851",
+  "sourceKind": "product",
+  "sourceName": "vLLM",
+  "sourceUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+  "canonicalUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "vLLM 0.28 targets faster Kimi-K3 and broader inference hardware",
+  "friendlyTitle": "vLLM 0.28 makes newer open models faster to run",
+  "summary": "vLLM 0.28 brings extensive Kimi-K3 and DeepSeek V4 optimizations, advances speculative decoding, adds tiered KV-cache offloading and expands CUDA, ROCm, CPU and XPU artifacts. The release also changes defaults and moves bitsandbytes support into a plugin.",
+  "friendlySummary": "The new vLLM release improves Kimi-K3 and DeepSeek V4 performance, adds more memory options and supports several types of hardware.",
+  "whyItMatters": "Operators may gain lower latency or memory use when serving current open models, including on AMD hardware. Because the release includes breaking changes and new defaults, production upgrades should be benchmarked and staged rather than applied casually.",
+  "friendlyWhyItMatters": "People running their own AI servers may get better speed or memory use, but they should test the upgrade because some settings changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

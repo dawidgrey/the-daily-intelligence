@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-30",
+  "slug": "2026-08-30",
+  "status": "published",
+  "publicationDateUtc": "2026-08-29T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves into durable workflows, while access and risk keep shifting",
+  "friendlyHeader": "AI tools are getting more useful, but the rules are changing",
+  "summary": "Today’s issue focuses on the infrastructure around useful AI: agents that learn from feedback, safer deployment patterns, faster inference and clearer hardware choices. It also tracks immediate changes to Claude Code access, Cursor’s model supply and the copyright pressure surrounding training data.",
+  "friendlySummary": "Today we look at better AI workflows, faster models and tools for choosing local hardware. We also explain changes to Claude Code limits, Cursor and AI copyright cases.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-30_01_warp-shows-how-human-feedback-can-improve-agents-over-time_ce496cd8",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_02_openai-sets-a-november-cutoff-for-its-models-in-cursor_092c8de0",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_03_claude-on-azure-gains-five-building-blocks-for-production-agents_24f6f4d8",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_04_vllm-0-28-targets-faster-kimi-k3-and-broader-inference-hardware_0cb38851",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_05_study-finds-safety-protections-removable-in-all-21-open-models-tested_8753e149",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_06_gemini-3-7-flash-pairs-stronger-agent-performance-with-introductory-pric_068e562e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_07_claude-code-will-settle-at-25-higher-weekly-limits-in-september_f4d09009",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_08_llmspeed-lets-buyers-feel-local-model-performance-before-choosing-a-gpu_0913988c",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_09_domain-driven-design-offers-a-practical-map-for-coding-agents-in-legacy_dbe16c47",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_10_sony-and-warner-publishers-open-a-broad-copyright-case-against-anthropic_6b08cd3b",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_11_openmaic-turns-course-material-into-a-multi-agent-interactive-classroom_fc81d743",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_12_heretic-automates-removal-of-refusal-behavior-from-open-language-models_154fbef7",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-30_13_ods-packages-a-local-ai-server-for-chat-voice-agents-and-rag_1b0a2cde",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-30.json",
+    "itemCount": 13
+  }
+}

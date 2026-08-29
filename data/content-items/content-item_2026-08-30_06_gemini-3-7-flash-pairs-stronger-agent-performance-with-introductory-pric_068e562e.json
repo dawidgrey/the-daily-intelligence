@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_06_gemini-3-7-flash-pairs-stronger-agent-performance-with-introductory-pric_068e562e",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "Gemini 3.7 Flash pairs stronger agent performance with introductory pricing",
+  "friendlyTitle": "Gemini 3.7 Flash is built for faster, lower-cost AI work",
+  "summary": "Google positions Gemini 3.7 Flash as a workhorse model for coding and agents, reporting gains over 3.6 Flash in software engineering, document understanding and workflow automation. Introductory API pricing is $0.75 per million input tokens and $3.75 per million output tokens through 2026.",
+  "friendlySummary": "Google says its new Flash model is better at coding, reading difficult documents and completing business workflows. A lower starting price lasts until the end of 2026.",
+  "whyItMatters": "The model offers another price-performance option for high-volume agent and coding workloads. Buyers should benchmark their own tasks and account for the announced price doubling in January 2027 before making long-term cost assumptions.",
+  "friendlyWhyItMatters": "It may reduce the cost of busy AI tools, but businesses should test it and plan for higher prices next year.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

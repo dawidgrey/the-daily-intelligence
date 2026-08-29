@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_02_openai-sets-a-november-cutoff-for-its-models-in-cursor_092c8de0",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "canonicalUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "OpenAI sets a November cutoff for its models in Cursor",
+  "friendlyTitle": "OpenAI plans to remove its models from Cursor in November",
+  "summary": "OpenAI says it intends to stop providing models to Cursor on November 12 following Cursor’s acquisition by SpaceX. OpenAI cites concerns about contract and terms-of-service compliance and says future models will not be supplied through the integration.",
+  "friendlySummary": "OpenAI says Cursor will lose access to its models on November 12 after SpaceX bought the coding tool. Future OpenAI models will not be added there.",
+  "whyItMatters": "Developers who depend on OpenAI models inside Cursor now have a transition deadline. Teams should identify model-specific workflows, test alternatives and avoid assuming that access through a third-party coding tool is permanent.",
+  "friendlyWhyItMatters": "Cursor users should test other models now and check whether important coding workflows depend on OpenAI.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

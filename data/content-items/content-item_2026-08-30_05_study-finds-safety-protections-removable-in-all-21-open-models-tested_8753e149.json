@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_05_study-finds-safety-protections-removable-in-all-21-open-models-tested_8753e149",
+  "sourceKind": "research",
+  "sourceName": "University of Waterloo",
+  "sourceUrl": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+  "canonicalUrl": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "Study finds safety protections removable in all 21 open models tested",
+  "friendlyTitle": "Researchers removed safety protections from 21 open AI models",
+  "summary": "A Waterloo- and FAR.AI-led team used TamperBench to test 21 leading open-weight language models and reports that every model’s safeguards could be weakened through modification. The researchers released the benchmark to support more systematic testing of post-release tampering.",
+  "friendlySummary": "A research team tested 21 popular open models and found that all of their safety protections could be weakened after the models were changed.",
+  "whyItMatters": "Organizations cannot assume built-in model safeguards will survive fine-tuning or local modification. Procurement and deployment plans need independent controls, monitoring and access restrictions around the model, not only safety training inside it.",
+  "friendlyWhyItMatters": "Companies should add security and monitoring around a model instead of trusting its built-in safety rules alone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-08-28T20:05:21Z",
+  "generatedAtUtc": "2026-08-29T20:05:38Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-08-30",
+      "slug": "2026-08-30",
+      "status": "published",
+      "publicationDateUtc": "2026-08-29T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves into durable workflows, while access and risk keep shifting",
+      "friendlyHeader": "AI tools are getting more useful, but the rules are changing",
+      "summary": "Today’s issue focuses on the infrastructure around useful AI: agents that learn from feedback, safer deployment patterns, faster inference and clearer hardware choices. It also tracks immediate changes to Claude Code access, Cursor’s model supply and the copyright pressure surrounding training data.",
+      "friendlySummary": "Today we look at better AI workflows, faster models and tools for choosing local hardware. We also explain changes to Claude Code limits, Cursor and AI copyright cases.",
+      "itemCount": 13,
+      "href": "issues/2026-08-30.html",
+      "dataUrl": "data/daily-publications/2026-08-30.json"
+    },
     {
       "id": "daily-publication_2026-08-29",
       "slug": "2026-08-29",

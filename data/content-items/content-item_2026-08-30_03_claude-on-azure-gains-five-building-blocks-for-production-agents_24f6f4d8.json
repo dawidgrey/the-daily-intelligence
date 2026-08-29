@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_03_claude-on-azure-gains-five-building-blocks-for-production-agents_24f6f4d8",
+  "sourceKind": "product",
+  "sourceName": "Microsoft Foundry Blog",
+  "sourceUrl": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/",
+  "canonicalUrl": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "Claude on Azure gains five building blocks for production agents",
+  "friendlyTitle": "Claude agents on Azure get five useful new features",
+  "summary": "Microsoft Foundry has added structured outputs, web search, web fetch, MCP connections and tool search to Claude deployments hosted on Azure. The features target common agent plumbing while retaining Azure deployment and data-residency options.",
+  "friendlySummary": "Claude on Microsoft Foundry can now return reliable data formats, search and read the web, connect to MCP tools and choose tools from a large list.",
+  "whyItMatters": "Enterprise teams can replace custom JSON repair, retrieval and tool-routing code with managed features. That may shorten delivery time, but builders still need to test permissions, search quality, costs and data-handling boundaries.",
+  "friendlyWhyItMatters": "Businesses may need less custom code to build agents, while still using Azure controls and hosting options.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

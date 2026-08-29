@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_11_openmaic-turns-course-material-into-a-multi-agent-interactive-classroom_fc81d743",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/THU-MAIC/OpenMAIC",
+  "canonicalUrl": "https://github.com/THU-MAIC/OpenMAIC",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "OpenMAIC turns course material into a multi-agent interactive classroom",
+  "friendlyTitle": "OpenMAIC builds interactive lessons with several AI teachers",
+  "summary": "OpenMAIC is an open-source classroom system that uses multiple AI roles to turn source material into interactive lessons and course experiences. Its recent 1.0 release adds an agent-assisted course-building workflow.",
+  "friendlySummary": "This open-source project turns learning material into a classroom experience with different AI roles.",
+  "whyItMatters": "Educators and training teams can prototype AI-guided lessons, inspect the orchestration code and adapt the system to internal learning material. Review generated teaching content and privacy settings before using it with learners.",
+  "friendlyWhyItMatters": "Teachers and training teams can test new lesson formats and change the code for their own material.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

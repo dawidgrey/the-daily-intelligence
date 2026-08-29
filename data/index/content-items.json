@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-28T20:05:21Z",
+  "generatedAtUtc": "2026-08-29T20:05:38Z",
   "items": [
     {
-      "id": "content-item_2026-08-29_01_us-judge-blocks-the-pentagon-s-anthropic-blacklist_c262c2ce",
-      "sourceKind": "regulation",
-      "sourceName": "Reuters",
-      "title": "US judge blocks the Pentagon’s Anthropic blacklist",
-      "sourceUrl": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
-    },
-    {
-      "id": "content-item_2026-08-29_02_uncoordinated-ai-agents-report-new-results-on-five-mathematics-problems_fb769fc6",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Uncoordinated AI agents report new results on five mathematics problems",
-      "sourceUrl": "https://arxiv.org/abs/2608.23691"
-    },
-    {
-      "id": "content-item_2026-08-29_03_a-new-handbook-treats-analytical-ai-as-a-measurable-data-workflow_3b217e06",
+      "id": "content-item_2026-08-30_01_warp-shows-how-human-feedback-can-improve-agents-over-time_ce496cd8",
       "sourceKind": "article",
-      "sourceName": "Sutro",
-      "title": "A new handbook treats analytical AI as a measurable data workflow",
-      "sourceUrl": "https://handbook.sutro.sh"
+      "sourceName": "Claude by Anthropic",
+      "title": "Warp shows how human feedback can improve agents over time",
+      "sourceUrl": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
     },
     {
-      "id": "content-item_2026-08-29_04_openai-introduces-a-limited-luna-fallback-after-regular-usage-runs-out_85d0a9d9",
+      "id": "content-item_2026-08-30_02_openai-sets-a-november-cutoff-for-its-models-in-cursor_092c8de0",
       "sourceKind": "product",
-      "sourceName": "OpenAI Help Center",
-      "title": "OpenAI introduces a limited Luna fallback after regular usage runs out",
-      "sourceUrl": "https://help.openai.com/en/articles/20001499-luna-reserve-in-codex-and-chatgpt-work"
-    },
-    {
-      "id": "content-item_2026-08-29_05_nvidia-begins-shipping-vera-cpus-built-around-agent-workloads_ae61ed14",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA Blog",
-      "title": "NVIDIA begins shipping Vera CPUs built around agent workloads",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
-    },
-    {
-      "id": "content-item_2026-08-29_06_tencent-previews-hy4-a-770b-parameter-open-model-with-a-1m-token-context_6a21b1e4",
-      "sourceKind": "product",
-      "sourceName": "Tencent Hy",
-      "title": "Tencent previews Hy4, a 770B-parameter open model with a 1M-token context",
-      "sourceUrl": "https://hy.tencent.ai/research/hy4-preview"
-    },
-    {
-      "id": "content-item_2026-08-29_07_automated-researchers-reduce-ten-measured-ai-alignment-failures_dc4a4baa",
-      "sourceKind": "research",
-      "sourceName": "Anthropic Alignment Science Blog",
-      "title": "Automated researchers reduce ten measured AI alignment failures",
-      "sourceUrl": "https://alignment.anthropic.com/2026/automated-alignment-researchers/"
-    },
-    {
-      "id": "content-item_2026-08-29_08_pipecat-releases-an-open-weight-model-tuned-for-low-latency-phone-agents_72f901d6",
-      "sourceKind": "product",
-      "sourceName": "Daily / Pipecat",
-      "title": "Pipecat releases an open-weight model tuned for low-latency phone agents",
-      "sourceUrl": "https://www.daily.co/blog/announcing-pipecat-phonellm-alpha-1/"
-    },
-    {
-      "id": "content-item_2026-08-29_09_openai-and-thailand-launch-an-accelerator-for-health-and-education-start_0b00c80d",
-      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI and Thailand launch an accelerator for health and education startups",
-      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      "title": "OpenAI sets a November cutoff for its models in Cursor",
+      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     },
     {
-      "id": "content-item_2026-08-29_10_study-links-higher-ai-exposure-with-a-larger-education-wage-premium_0ea67c97",
+      "id": "content-item_2026-08-30_03_claude-on-azure-gains-five-building-blocks-for-production-agents_24f6f4d8",
+      "sourceKind": "product",
+      "sourceName": "Microsoft Foundry Blog",
+      "title": "Claude on Azure gains five building blocks for production agents",
+      "sourceUrl": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/"
+    },
+    {
+      "id": "content-item_2026-08-30_04_vllm-0-28-targets-faster-kimi-k3-and-broader-inference-hardware_0cb38851",
+      "sourceKind": "product",
+      "sourceName": "vLLM",
+      "title": "vLLM 0.28 targets faster Kimi-K3 and broader inference hardware",
+      "sourceUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
+    },
+    {
+      "id": "content-item_2026-08-30_05_study-finds-safety-protections-removable-in-all-21-open-models-tested_8753e149",
       "sourceKind": "research",
-      "sourceName": "SSRN",
-      "title": "Study links higher AI exposure with a larger education wage premium",
-      "sourceUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7330818"
+      "sourceName": "University of Waterloo",
+      "title": "Study finds safety protections removable in all 21 open models tested",
+      "sourceUrl": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models"
     },
     {
-      "id": "content-item_2026-08-29_11_abi-screenshot-to-code-turn-interface-images-into-editable-web-code_c5264a1d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "abi/screenshot-to-code: turn interface images into editable web code",
-      "sourceUrl": "https://github.com/abi/screenshot-to-code"
+      "id": "content-item_2026-08-30_06_gemini-3-7-flash-pairs-stronger-agent-performance-with-introductory-pric_068e562e",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Gemini 3.7 Flash pairs stronger agent performance with introductory pricing",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
     },
     {
-      "id": "content-item_2026-08-29_12_cursor-plugins-the-official-specification-and-catalog-for-cursor-extensi_1fb256ce",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "cursor/plugins: the official specification and catalog for Cursor extensions",
-      "sourceUrl": "https://github.com/cursor/plugins"
+      "id": "content-item_2026-08-30_07_claude-code-will-settle-at-25-higher-weekly-limits-in-september_f4d09009",
+      "sourceKind": "x",
+      "sourceName": "Claude Developers on X",
+      "title": "Claude Code will settle at 25% higher weekly limits in September",
+      "sourceUrl": "https://x.com/ClaudeDevs/status/2093742321473065266"
     },
     {
-      "id": "content-item_2026-08-29_13_abhigyanpatwari-gitnexus-map-a-codebase-into-a-local-knowledge-graph_ca08b1c2",
+      "id": "content-item_2026-08-30_08_llmspeed-lets-buyers-feel-local-model-performance-before-choosing-a-gpu_0913988c",
+      "sourceKind": "product",
+      "sourceName": "llmspeed",
+      "title": "llmspeed lets buyers feel local-model performance before choosing a GPU",
+      "sourceUrl": "https://llmspeed.dev/"
+    },
+    {
+      "id": "content-item_2026-08-30_09_domain-driven-design-offers-a-practical-map-for-coding-agents-in-legacy_dbe16c47",
+      "sourceKind": "article",
+      "sourceName": "Cold Take",
+      "title": "Domain-driven design offers a practical map for coding agents in legacy systems",
+      "sourceUrl": "https://coldtake.dev/blog/domain-driven-agents"
+    },
+    {
+      "id": "content-item_2026-08-30_10_sony-and-warner-publishers-open-a-broad-copyright-case-against-anthropic_6b08cd3b",
+      "sourceKind": "article",
+      "sourceName": "Axios",
+      "title": "Sony and Warner publishers open a broad copyright case against Anthropic",
+      "sourceUrl": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright"
+    },
+    {
+      "id": "content-item_2026-08-30_11_openmaic-turns-course-material-into-a-multi-agent-interactive-classroom_fc81d743",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "abhigyanpatwari/GitNexus: map a codebase into a local knowledge graph",
-      "sourceUrl": "https://github.com/abhigyanpatwari/GitNexus"
+      "title": "OpenMAIC turns course material into a multi-agent interactive classroom",
+      "sourceUrl": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "id": "content-item_2026-08-30_12_heretic-automates-removal-of-refusal-behavior-from-open-language-models_154fbef7",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Heretic automates removal of refusal behavior from open language models",
+      "sourceUrl": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "id": "content-item_2026-08-30_13_ods-packages-a-local-ai-server-for-chat-voice-agents-and-rag_1b0a2cde",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "ODS packages a local AI server for chat, voice, agents and RAG",
+      "sourceUrl": "https://github.com/Osmantic/ODS"
     }
   ]
 }

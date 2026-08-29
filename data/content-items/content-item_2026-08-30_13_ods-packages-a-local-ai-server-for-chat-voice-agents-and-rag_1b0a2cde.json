@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_13_ods-packages-a-local-ai-server-for-chat-voice-agents-and-rag_1b0a2cde",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Osmantic/ODS",
+  "canonicalUrl": "https://github.com/Osmantic/ODS",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "ODS packages a local AI server for chat, voice, agents and RAG",
+  "friendlyTitle": "ODS turns your computer into a private AI server",
+  "summary": "ODS is an open-source stack for turning a Linux, macOS or Windows machine into a local AI server with model inference, chat, voice, agents, workflows, retrieval and image generation. It includes installer and container options for several hardware paths.",
+  "friendlySummary": "This open-source package combines local chat, voice, agents, document search and image tools in one setup.",
+  "whyItMatters": "People who want one self-hosted environment can use ODS to assemble common local-AI services without integrating every component from scratch. Check hardware requirements, exposed ports, model licenses and data backups before deployment.",
+  "friendlyWhyItMatters": "It can save setup time for a home or work AI server, but you should check security and hardware needs first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-30_10_sony-and-warner-publishers-open-a-broad-copyright-case-against-anthropic_6b08cd3b",
+  "sourceKind": "article",
+  "sourceName": "Axios",
+  "sourceUrl": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+  "canonicalUrl": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-29T20:05:38Z",
+  "createdAtUtc": "2026-08-29T20:05:38Z",
+  "updatedAtUtc": "2026-08-29T20:05:38Z",
+  "title": "Sony and Warner publishers open a broad copyright case against Anthropic",
+  "friendlyTitle": "Sony and Warner publishers sue Anthropic over music used for AI",
+  "summary": "Music-publishing units of Sony and Warner have sued Anthropic, alleging unauthorized downloading and use of tens of thousands of copyrighted compositions to train Claude. The complaint names the company and two founders; Anthropic had not commented when Axios published its report.",
+  "friendlySummary": "The publishers say Anthropic used many copyrighted songs without permission to train Claude. These are allegations in a new court case, and Anthropic had not yet replied publicly.",
+  "whyItMatters": "Music rights can be split across lyrics, compositions and recordings, increasing legal and licensing complexity for model builders and creative tools. The case could influence training-data costs, provenance requirements and risk assessments for businesses using generative media.",
+  "friendlyWhyItMatters": "The result may change how AI companies pay for training data and how creative businesses check where model data came from.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-30"
+  }
+}
