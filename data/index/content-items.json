@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-08-29T20:05:38Z",
+  "generatedAtUtc": "2026-08-30T20:06:11Z",
   "items": [
     {
-      "id": "content-item_2026-08-30_01_warp-shows-how-human-feedback-can-improve-agents-over-time_ce496cd8",
+      "id": "content-item_2026-08-31_01_openai-s-agent-incident-shows-how-shared-infrastructure-became-a-hidden_dab2710a",
       "sourceKind": "article",
-      "sourceName": "Claude by Anthropic",
-      "title": "Warp shows how human feedback can improve agents over time",
-      "sourceUrl": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
+      "sourceName": "Dwarkesh Patel",
+      "title": "OpenAI’s agent incident shows how shared infrastructure became a hidden coordination channel",
+      "sourceUrl": "https://www.dwarkesh.com/p/openai-huggingface"
     },
     {
-      "id": "content-item_2026-08-30_02_openai-sets-a-november-cutoff-for-its-models-in-cursor_092c8de0",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI sets a November cutoff for its models in Cursor",
-      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      "id": "content-item_2026-08-31_02_claude-code-users-push-back-on-automatic-session-links-in-git-history_773e6152",
+      "sourceKind": "article",
+      "sourceName": "Anthropic Claude Code issue tracker",
+      "title": "Claude Code users push back on automatic session links in Git history",
+      "sourceUrl": "https://github.com/anthropics/claude-code/issues/66504"
     },
     {
-      "id": "content-item_2026-08-30_03_claude-on-azure-gains-five-building-blocks-for-production-agents_24f6f4d8",
-      "sourceKind": "product",
-      "sourceName": "Microsoft Foundry Blog",
-      "title": "Claude on Azure gains five building blocks for production agents",
-      "sourceUrl": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/"
-    },
-    {
-      "id": "content-item_2026-08-30_04_vllm-0-28-targets-faster-kimi-k3-and-broader-inference-hardware_0cb38851",
-      "sourceKind": "product",
-      "sourceName": "vLLM",
-      "title": "vLLM 0.28 targets faster Kimi-K3 and broader inference hardware",
-      "sourceUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
-    },
-    {
-      "id": "content-item_2026-08-30_05_study-finds-safety-protections-removable-in-all-21-open-models-tested_8753e149",
+      "id": "content-item_2026-08-31_03_wikiskill-turns-agent-experience-into-persistent-testable-skills_c07cfbc0",
       "sourceKind": "research",
-      "sourceName": "University of Waterloo",
-      "title": "Study finds safety protections removable in all 21 open models tested",
-      "sourceUrl": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models"
+      "sourceName": "arXiv",
+      "title": "WikiSkill turns agent experience into persistent, testable skills",
+      "sourceUrl": "https://arxiv.org/abs/2608.27454"
     },
     {
-      "id": "content-item_2026-08-30_06_gemini-3-7-flash-pairs-stronger-agent-performance-with-introductory-pric_068e562e",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini 3.7 Flash pairs stronger agent performance with introductory pricing",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
-    },
-    {
-      "id": "content-item_2026-08-30_07_claude-code-will-settle-at-25-higher-weekly-limits-in-september_f4d09009",
-      "sourceKind": "x",
-      "sourceName": "Claude Developers on X",
-      "title": "Claude Code will settle at 25% higher weekly limits in September",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2093742321473065266"
-    },
-    {
-      "id": "content-item_2026-08-30_08_llmspeed-lets-buyers-feel-local-model-performance-before-choosing-a-gpu_0913988c",
-      "sourceKind": "product",
-      "sourceName": "llmspeed",
-      "title": "llmspeed lets buyers feel local-model performance before choosing a GPU",
-      "sourceUrl": "https://llmspeed.dev/"
-    },
-    {
-      "id": "content-item_2026-08-30_09_domain-driven-design-offers-a-practical-map-for-coding-agents-in-legacy_dbe16c47",
+      "id": "content-item_2026-08-31_04_caterpillar-applies-decades-of-industrial-automation-lessons-to-everyday_d4272022",
       "sourceKind": "article",
-      "sourceName": "Cold Take",
-      "title": "Domain-driven design offers a practical map for coding agents in legacy systems",
-      "sourceUrl": "https://coldtake.dev/blog/domain-driven-agents"
+      "sourceName": "TechCrunch",
+      "title": "Caterpillar applies decades of industrial automation lessons to everyday AI deployment",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
     },
     {
-      "id": "content-item_2026-08-30_10_sony-and-warner-publishers-open-a-broad-copyright-case-against-anthropic_6b08cd3b",
+      "id": "content-item_2026-08-31_05_a-restaurant-workflow-shows-how-voice-can-replace-form-filling-without-b_f87ba8cc",
       "sourceKind": "article",
-      "sourceName": "Axios",
-      "title": "Sony and Warner publishers open a broad copyright case against Anthropic",
-      "sourceUrl": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright"
+      "sourceName": "Darko Trpevski",
+      "title": "A restaurant workflow shows how voice can replace form-filling without becoming a chatbot",
+      "sourceUrl": "https://trpevski.com/blog/voice-assistant-noisy-environments-openai-realtime"
     },
     {
-      "id": "content-item_2026-08-30_11_openmaic-turns-course-material-into-a-multi-agent-interactive-classroom_fc81d743",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "OpenMAIC turns course material into a multi-agent interactive classroom",
-      "sourceUrl": "https://github.com/THU-MAIC/OpenMAIC"
+      "id": "content-item_2026-08-31_06_nvidia-argues-agent-harness-design-can-change-performance-as-much-as-mod_19872cfc",
+      "sourceKind": "article",
+      "sourceName": "NVIDIA Technical Blog",
+      "title": "NVIDIA argues agent harness design can change performance as much as model choice",
+      "sourceUrl": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/"
     },
     {
-      "id": "content-item_2026-08-30_12_heretic-automates-removal-of-refusal-behavior-from-open-language-models_154fbef7",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Heretic automates removal of refusal behavior from open language models",
-      "sourceUrl": "https://github.com/p-e-w/heretic"
+      "id": "content-item_2026-08-31_07_cerebras-maps-a-denser-future-for-wafer-scale-ai-systems_828a7c91",
+      "sourceKind": "article",
+      "sourceName": "Tom’s Hardware",
+      "title": "Cerebras maps a denser future for wafer-scale AI systems",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram"
     },
     {
-      "id": "content-item_2026-08-30_13_ods-packages-a-local-ai-server-for-chat-voice-agents-and-rag_1b0a2cde",
+      "id": "content-item_2026-08-31_08_npr-test-finds-chatbots-challenged-foreign-falsehoods-more-often-than-se_653e555e",
+      "sourceKind": "article",
+      "sourceName": "NPR",
+      "title": "NPR test finds chatbots challenged foreign falsehoods more often than search results",
+      "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda"
+    },
+    {
+      "id": "content-item_2026-08-31_09_claude-cowork-gets-a-separate-built-in-browser-for-delegated-web-tasks_6bd3f9e8",
+      "sourceKind": "product",
+      "sourceName": "Claude by Anthropic",
+      "title": "Claude Cowork gets a separate built-in browser for delegated web tasks",
+      "sourceUrl": "https://claude.com/blog/cowork-built-in-browser/"
+    },
+    {
+      "id": "content-item_2026-08-31_10_coding-agents-badly-misjudge-task-duration-and-their-own-results_3132146d",
+      "sourceKind": "research",
+      "sourceName": "Michael Ofengenden and Maksym Andriushchenko",
+      "title": "Coding agents badly misjudge task duration and their own results",
+      "sourceUrl": "https://www.lesswrong.com/posts/eAbuPXbjakop5rSJx/your-agents-are-not-time-aware"
+    },
+    {
+      "id": "content-item_2026-08-31_11_vercel-labs-vgpu-one-webgpu-toolkit-for-graphics-tensors-and-browser-ai_6ca2cb62",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "ODS packages a local AI server for chat, voice, agents and RAG",
-      "sourceUrl": "https://github.com/Osmantic/ODS"
+      "title": "vercel-labs/vgpu: one WebGPU toolkit for graphics, tensors and browser AI",
+      "sourceUrl": "https://github.com/vercel-labs/vgpu"
+    },
+    {
+      "id": "content-item_2026-08-31_12_pollen-robotics-microduck-rl-train-locomotion-policies-for-an-open-robot_b1f15b8a",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "pollen-robotics/microduck_rl: train locomotion policies for an open robot duck",
+      "sourceUrl": "https://github.com/pollen-robotics/microduck_rl"
+    },
+    {
+      "id": "content-item_2026-08-31_13_corsairdev-corsair-open-integrations-for-connecting-agents-to-user-appli_10f32d2f",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "corsairdev/corsair: open integrations for connecting agents to user applications",
+      "sourceUrl": "https://github.com/corsairdev/corsair"
     }
   ]
 }

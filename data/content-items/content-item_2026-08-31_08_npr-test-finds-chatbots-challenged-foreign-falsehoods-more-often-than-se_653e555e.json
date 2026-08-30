@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_08_npr-test-finds-chatbots-challenged-foreign-falsehoods-more-often-than-se_653e555e",
+  "sourceKind": "article",
+  "sourceName": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+  "canonicalUrl": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "NPR test finds chatbots challenged foreign falsehoods more often than search results",
+  "friendlyTitle": "Chatbots often spotted false claims better than ordinary search in one test",
+  "summary": "NPR and NewsGuard tested 30 false narratives from China, Iran and Russia across six chatbots, four search engines and available AI search summaries. Chatbots debunked the narratives about three-quarters of the time and failed to challenge them less often than traditional search results, while AI summaries above search results performed worse than chatbots.",
+  "friendlySummary": "NPR and NewsGuard asked AI tools and search engines about 30 false stories. Chatbots corrected the stories about three times out of four, while AI summaries in search did less well.",
+  "whyItMatters": "The experiment suggests a web-connected chatbot can be a useful starting point when a question contains a false premise, but it is not a truth machine. Readers should still open citations, compare independent sources and be especially cautious with compressed AI summaries presented above search results.",
+  "friendlyWhyItMatters": "AI can help you begin checking a claim, but you should still read the sources and compare more than one trusted report.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

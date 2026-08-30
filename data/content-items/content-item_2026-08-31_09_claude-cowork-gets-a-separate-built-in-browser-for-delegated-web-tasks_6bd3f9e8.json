@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_09_claude-cowork-gets-a-separate-built-in-browser-for-delegated-web-tasks_6bd3f9e8",
+  "sourceKind": "product",
+  "sourceName": "Claude by Anthropic",
+  "sourceUrl": "https://claude.com/blog/cowork-built-in-browser/",
+  "canonicalUrl": "https://claude.com/blog/cowork-built-in-browser/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "Claude Cowork gets a separate built-in browser for delegated web tasks",
+  "friendlyTitle": "Claude can now use its own browser inside Cowork",
+  "summary": "Claude’s desktop Cowork mode can now open a separate Chromium-based browser to navigate sites, read pages, click and type without requiring the Chrome extension. It is rolling out to Pro, Max and Team plans, while Enterprise administrators can manage access; selected site logins can be imported separately.",
+  "friendlySummary": "Claude can open a separate browser to read websites, click buttons and fill forms. It does not automatically see your normal browser data, though you can choose to import some logins.",
+  "whyItMatters": "A separate agent browser can reduce exposure to a person’s everyday tabs, bookmarks and passwords while enabling research and portal workflows. Prompt-injection risk remains, so users should begin with trusted sites, minimize imported logins and supervise consequential actions.",
+  "friendlyWhyItMatters": "This makes web tasks easier to hand off while keeping some distance from your personal browser. Use trusted sites and avoid unnecessary account access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

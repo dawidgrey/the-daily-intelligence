@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_05_a-restaurant-workflow-shows-how-voice-can-replace-form-filling-without-b_f87ba8cc",
+  "sourceKind": "article",
+  "sourceName": "Darko Trpevski",
+  "sourceUrl": "https://trpevski.com/blog/voice-assistant-noisy-environments-openai-realtime",
+  "canonicalUrl": "https://trpevski.com/blog/voice-assistant-noisy-environments-openai-realtime",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "A restaurant workflow shows how voice can replace form-filling without becoming a chatbot",
+  "friendlyTitle": "Restaurant staff can fill a form by saying the details once",
+  "summary": "A practitioner describes using OpenAI Realtime to turn one spoken restaurant reservation into validated form fields across four languages. The design uses one shared voice component, per-screen schemas, short-lived credentials and strict audio-session cleanup rather than a conversational assistant.",
+  "friendlySummary": "A voice tool listens to a reservation and fills the correct name, phone number, guest count and time fields. It works as form input instead of starting a long conversation.",
+  "whyItMatters": "Voice is most useful when it removes typing from a known workflow and leaves the normal validation and submit path intact. Builders can also control cost and privacy by opening the microphone session only when needed and measuring how often users correct extracted fields.",
+  "friendlyWhyItMatters": "Voice can save time when people are busy, especially when they can check the filled form before sending it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

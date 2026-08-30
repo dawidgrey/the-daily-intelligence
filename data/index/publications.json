@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-08-29T20:05:38Z",
+  "generatedAtUtc": "2026-08-30T20:06:12Z",
   "items": [
+    {
+      "id": "daily-publication_2026-08-31",
+      "slug": "2026-08-31",
+      "status": "published",
+      "publicationDateUtc": "2026-08-30T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The agent layer becomes the real product",
+      "friendlyHeader": "AI agents need better tools, memory and safety checks",
+      "summary": "Today’s issue looks beyond model launches to the systems that make AI useful or risky: persistent skills, browser access, time awareness, voice interfaces, production deployment and the infrastructure underneath them. It also examines two concrete privacy lessons for coding-agent users and a measured test of AI search against false claims.",
+      "friendlySummary": "Today we look at how AI agents learn from past work, use websites, understand time and help with everyday tasks. We also explain privacy risks, safer ways to check information and three useful open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-08-31.html",
+      "dataUrl": "data/daily-publications/2026-08-31.json"
+    },
     {
       "id": "daily-publication_2026-08-30",
       "slug": "2026-08-30",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_07_cerebras-maps-a-denser-future-for-wafer-scale-ai-systems_828a7c91",
+  "sourceKind": "article",
+  "sourceName": "Tom’s Hardware",
+  "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
+  "canonicalUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "Cerebras maps a denser future for wafer-scale AI systems",
+  "friendlyTitle": "Cerebras plans more AI computing power in each data-centre rack",
+  "summary": "At Hot Chips 2026, Cerebras outlined a Nexus rack architecture intended to increase wafer-scale system density and described plans for stacked DRAM in its future CS-6 generation. The roadmap aims to move more model compute and memory bandwidth into fewer racks; performance projections remain forward-looking company claims.",
+  "friendlySummary": "Cerebras described a new system design and a future chip generation with stacked memory. The company says this should fit more AI performance into less rack space.",
+  "whyItMatters": "AI service cost increasingly depends on memory movement, networking and rack-level design, not only individual chips. Denser systems could improve the economics of training and inference, but buyers should wait for measured availability, power use and workload benchmarks.",
+  "friendlyWhyItMatters": "Denser hardware may make large AI services cheaper or faster, but real products and independent tests are still needed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

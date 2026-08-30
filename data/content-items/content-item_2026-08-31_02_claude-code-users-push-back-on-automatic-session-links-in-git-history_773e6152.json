@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_02_claude-code-users-push-back-on-automatic-session-links-in-git-history_773e6152",
+  "sourceKind": "article",
+  "sourceName": "Anthropic Claude Code issue tracker",
+  "sourceUrl": "https://github.com/anthropics/claude-code/issues/66504",
+  "canonicalUrl": "https://github.com/anthropics/claude-code/issues/66504",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "Claude Code users push back on automatic session links in Git history",
+  "friendlyTitle": "Developers object to Claude Code adding session links to commits",
+  "summary": "A widely discussed Claude Code issue says session URLs were being appended to generated commit messages and pull-request descriptions without a clear opt-in. The issue is now closed, but its long discussion documents user concerns and configuration workarounds; it is a community report rather than an Anthropic security advisory.",
+  "friendlySummary": "Users reported that Claude Code added links to AI sessions in commit messages and pull requests without making the choice clear. The report is from GitHub users, not an official security notice.",
+  "whyItMatters": "AI coding tools can change durable project records, not just source files. Developers should inspect generated commit and PR text, review attribution settings and avoid assuming that agent-added links are harmless in public repositories.",
+  "friendlyWhyItMatters": "Check everything an AI tool adds to your Git history, because those records may stay public for a long time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

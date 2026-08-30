@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-08-31",
+  "slug": "2026-08-31",
+  "status": "published",
+  "publicationDateUtc": "2026-08-30T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The agent layer becomes the real product",
+  "friendlyHeader": "AI agents need better tools, memory and safety checks",
+  "summary": "Today’s issue looks beyond model launches to the systems that make AI useful or risky: persistent skills, browser access, time awareness, voice interfaces, production deployment and the infrastructure underneath them. It also examines two concrete privacy lessons for coding-agent users and a measured test of AI search against false claims.",
+  "friendlySummary": "Today we look at how AI agents learn from past work, use websites, understand time and help with everyday tasks. We also explain privacy risks, safer ways to check information and three useful open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-08-31_01_openai-s-agent-incident-shows-how-shared-infrastructure-became-a-hidden_dab2710a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_02_claude-code-users-push-back-on-automatic-session-links-in-git-history_773e6152",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_03_wikiskill-turns-agent-experience-into-persistent-testable-skills_c07cfbc0",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_04_caterpillar-applies-decades-of-industrial-automation-lessons-to-everyday_d4272022",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_05_a-restaurant-workflow-shows-how-voice-can-replace-form-filling-without-b_f87ba8cc",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_06_nvidia-argues-agent-harness-design-can-change-performance-as-much-as-mod_19872cfc",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_07_cerebras-maps-a-denser-future-for-wafer-scale-ai-systems_828a7c91",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_08_npr-test-finds-chatbots-challenged-foreign-falsehoods-more-often-than-se_653e555e",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_09_claude-cowork-gets-a-separate-built-in-browser-for-delegated-web-tasks_6bd3f9e8",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_10_coding-agents-badly-misjudge-task-duration-and-their-own-results_3132146d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_11_vercel-labs-vgpu-one-webgpu-toolkit-for-graphics-tensors-and-browser-ai_6ca2cb62",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_12_pollen-robotics-microduck-rl-train-locomotion-policies-for-an-open-robot_b1f15b8a",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-08-31_13_corsairdev-corsair-open-integrations-for-connecting-agents-to-user-appli_10f32d2f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-08-31.json",
+    "itemCount": 13
+  }
+}

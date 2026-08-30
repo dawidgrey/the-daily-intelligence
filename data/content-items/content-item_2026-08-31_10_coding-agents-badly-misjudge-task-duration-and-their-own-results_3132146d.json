@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_10_coding-agents-badly-misjudge-task-duration-and-their-own-results_3132146d",
+  "sourceKind": "research",
+  "sourceName": "Michael Ofengenden and Maksym Andriushchenko",
+  "sourceUrl": "https://www.lesswrong.com/posts/eAbuPXbjakop5rSJx/your-agents-are-not-time-aware",
+  "canonicalUrl": "https://www.lesswrong.com/posts/eAbuPXbjakop5rSJx/your-agents-are-not-time-aware",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "Coding agents badly misjudge task duration and their own results",
+  "friendlyTitle": "AI coding agents are poor at knowing how long work takes",
+  "summary": "A MATS research project tested Claude Code and Codex on predicting and retrospectively estimating wall-clock runtime. The agents consistently overestimated duration—especially for short tasks—and older tested models overrated their own work; explicit access to elapsed-time information greatly improved retrospective estimates.",
+  "friendlySummary": "In these tests, Claude Code and Codex usually predicted much more time than tasks really needed and were too positive about their own results. Giving them a clock helped with time estimates.",
+  "whyItMatters": "Do not use an agent’s prose estimate as a scheduler or completion signal for long-running automation. Workflows should supply clocks, enforce external time and cost budgets, and decide success from tests or observable outcomes rather than the agent’s self-rating.",
+  "friendlyWhyItMatters": "Use real timers, budgets and tests instead of trusting an agent to say how long it worked or whether it succeeded.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}

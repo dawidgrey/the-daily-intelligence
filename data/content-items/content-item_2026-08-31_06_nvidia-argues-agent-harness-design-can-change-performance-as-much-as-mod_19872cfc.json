@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-08-31_06_nvidia-argues-agent-harness-design-can-change-performance-as-much-as-mod_19872cfc",
+  "sourceKind": "article",
+  "sourceName": "NVIDIA Technical Blog",
+  "sourceUrl": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+  "canonicalUrl": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-08-30T20:06:11Z",
+  "createdAtUtc": "2026-08-30T20:06:11Z",
+  "updatedAtUtc": "2026-08-30T20:06:11Z",
+  "title": "NVIDIA argues agent harness design can change performance as much as model choice",
+  "friendlyTitle": "Better agent software can improve the same AI model",
+  "summary": "NVIDIA’s open-source NOOA research preview represents an agent as a typed Python object with explicit state, code-based actions, pass-by-reference data and model-callable context controls. NVIDIA reports substantial benchmark and token-efficiency gains with the same underlying models, though these are vendor-reported results.",
+  "friendlySummary": "NVIDIA built an open agent framework around typed data, clear state and normal Python code. Its tests suggest the software around a model can strongly change results and cost.",
+  "whyItMatters": "Model rankings alone do not predict how a working agent will perform. Teams can improve reliability and cost by testing typed interfaces, bounded context views, inspectable state and ordinary software-engineering practices before paying for a larger model.",
+  "friendlyWhyItMatters": "Before buying a more expensive model, a team may get better results by improving how its agent stores information and uses tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-08-31"
+  }
+}
