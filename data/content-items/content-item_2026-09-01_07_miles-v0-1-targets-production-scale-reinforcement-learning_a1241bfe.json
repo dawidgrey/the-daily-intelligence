@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_07_miles-v0-1-targets-production-scale-reinforcement-learning_a1241bfe",
+  "sourceKind": "research",
+  "sourceName": "LMSYS Org",
+  "sourceUrl": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1/",
+  "canonicalUrl": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "Miles v0.1 targets production-scale reinforcement learning",
+  "friendlyTitle": "Miles helps teams improve large AI models after training",
+  "summary": "RadixArk and ecosystem partners released Miles v0.1, a full-stack system for large-scale model post-training. It combines SGLang rollouts, asynchronous reinforcement learning, isolated agent environments, multiple training backends and support for NVIDIA and AMD hardware.",
+  "friendlySummary": "Miles is an open system for teaching large models with reinforcement learning. It keeps different parts of the work running at the same time and supports several types of hardware.",
+  "whyItMatters": "Open post-training infrastructure lowers the engineering barrier for research teams that need tool-using or long-running models tuned to specific tasks. Its asynchronous design is particularly relevant when agent trajectories vary widely in length and would otherwise leave expensive hardware idle.",
+  "friendlyWhyItMatters": "Research teams may be able to train specialised AI agents more efficiently instead of building the whole system from scratch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

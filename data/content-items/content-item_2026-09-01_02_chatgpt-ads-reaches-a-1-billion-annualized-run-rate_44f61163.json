@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_02_chatgpt-ads-reaches-a-1-billion-annualized-run-rate_44f61163",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+  "canonicalUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "ChatGPT Ads reaches a $1 billion annualized run rate",
+  "friendlyTitle": "Advertising inside ChatGPT is growing quickly",
+  "summary": "OpenAI says ChatGPT Ads reached a $1 billion annualized revenue run rate less than 200 days after launch. Self-service buying is expanding across India, Europe, the Middle East and North Africa, while small and medium businesses now make up a material share of advertisers.",
+  "friendlySummary": "OpenAI says ChatGPT's ad business is now running at about $1 billion a year. More businesses in more countries can buy ads directly.",
+  "whyItMatters": "Conversational discovery is becoming a commercial channel alongside search and social media. Users should watch how ad personalization is controlled, while businesses may need to test whether products can be clearly understood and compared inside AI-assisted decisions.",
+  "friendlyWhyItMatters": "People are starting to discover products while talking to AI. Users should check their ad settings, and businesses may want to learn how this new channel works.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_05_doltlite-brings-git-style-history-and-sync-to-sqlite_d6b322d6",
+  "sourceKind": "product",
+  "sourceName": "DoltHub",
+  "sourceUrl": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+  "canonicalUrl": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "DoltLite brings Git-style history and sync to SQLite",
+  "friendlyTitle": "DoltLite adds version history to SQLite databases",
+  "summary": "DoltLite has entered beta with a stable storage format, broad SQLite compatibility and Git-like branching, merging, diffs, push and pull. DoltHub says the project was built through about 2,000 agent-assisted pull requests and now passes 100% of sqllogictest's 5.8 million queries.",
+  "friendlySummary": "DoltLite is a new SQLite-based database that can branch, compare, merge and sync data like Git. It has reached beta after extensive testing.",
+  "whyItMatters": "Versioned local data can make AI-assisted applications easier to inspect, synchronize and recover when an automated change goes wrong. The trade-off is measurable write overhead, so teams should benchmark their own workload and favour batched writes.",
+  "friendlyWhyItMatters": "Apps and AI agents can make mistakes. Database history makes it easier to see what changed and return to an earlier version.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

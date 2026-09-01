@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_06_open-speech-leaderboard-adds-hindi-and-indian-english_b0b2c2da",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "canonicalUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "Open speech leaderboard adds Hindi and Indian English",
+  "friendlyTitle": "Speech recognition tests now cover Hindi and Indian English",
+  "summary": "Hugging Face and Voice Arena are expanding the Open ASR Leaderboard with public evaluation for Hindi and Indian English. The work also highlights why a single word-error score can hide substantial differences across accents, ages and other speaker characteristics.",
+  "friendlySummary": "An open leaderboard can now compare speech-to-text models in Hindi and Indian English. It also shows that one overall score may hide poor results for some speakers.",
+  "whyItMatters": "Speech tools should be evaluated on the people who will actually use them. Teams building transcription or voice products can use broader benchmarks as a starting point, then test local accents and real acoustic conditions before deployment.",
+  "friendlyWhyItMatters": "A voice tool should understand the people who use it, not only the speakers in a narrow test set.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_10_circleback-makes-unlimited-meeting-transcription-free_121993fc",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+  "canonicalUrl": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "Circleback makes unlimited meeting transcription free",
+  "friendlyTitle": "Circleback now offers free meeting notes",
+  "summary": "Circleback has added a free plan with unlimited meeting transcription, 30 days of history, transcript questions, mobile and Apple Watch apps, plus Slack and Linear integrations. Paid plans add unlimited history, all integrations, API access and MCP support.",
+  "friendlySummary": "Circleback's free plan can record and transcribe unlimited meetings, but it keeps only 30 days of history. It can also answer questions about transcripts.",
+  "whyItMatters": "Meeting capture is becoming a low-cost commodity, making workflow fit, retention policy and privacy more important differentiators than transcription alone. Individuals and small teams can now test whether searchable notes actually reduce follow-up work before paying.",
+  "friendlyWhyItMatters": "Small teams can try automatic meeting notes without paying first. They should still check privacy settings and decide how long notes should be kept.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

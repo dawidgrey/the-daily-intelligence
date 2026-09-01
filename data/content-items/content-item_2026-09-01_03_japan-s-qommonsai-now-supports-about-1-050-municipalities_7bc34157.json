@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_03_japan-s-qommonsai-now-supports-about-1-050-municipalities_7bc34157",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/polimill",
+  "canonicalUrl": "https://openai.com/index/polimill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "Japan's QommonsAI now supports about 1,050 municipalities",
+  "friendlyTitle": "Japanese councils use AI to find and reuse public knowledge",
+  "summary": "Polimill's QommonsAI standardizes and searches municipal records for roughly 1,050 Japanese municipalities and 550,000 public employees. The company says Codex also shortened its software-development cycle by three to five times, with people reviewing plans and taking responsibility for decisions.",
+  "friendlySummary": "QommonsAI helps local government workers search records and prepare work across about 1,050 municipalities. Polimill also uses coding AI to build and test features faster.",
+  "whyItMatters": "This is a concrete example of AI becoming useful through organized institutional knowledge rather than a standalone chatbot. The transferable lesson is to structure records, preserve audit controls and capture expert judgement before automating workflows.",
+  "friendlyWhyItMatters": "AI works better when an organisation first puts its information in order. Good records and human review can turn a chatbot into a useful work tool.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}

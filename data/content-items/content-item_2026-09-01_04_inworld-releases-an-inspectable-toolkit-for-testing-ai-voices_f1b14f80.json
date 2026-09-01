@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-01_04_inworld-releases-an-inspectable-toolkit-for-testing-ai-voices_f1b14f80",
+  "sourceKind": "product",
+  "sourceName": "Inworld AI",
+  "sourceUrl": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
+  "canonicalUrl": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T02:14:18Z",
+  "createdAtUtc": "2026-09-01T02:14:18Z",
+  "updatedAtUtc": "2026-09-01T02:14:18Z",
+  "title": "Inworld releases an inspectable toolkit for testing AI voices",
+  "friendlyTitle": "A new free toolkit helps compare AI voices",
+  "summary": "Inworld has open-sourced a framework that samples text-to-speech systems, evaluates audio offline and produces reports tied to source text, transcripts, settings and thresholds. It includes adapters for several providers, local analysis and a compact 100-prompt English dialogue stress set.",
+  "friendlySummary": "Inworld released an open tool that tests AI speech and shows exactly how each score was produced. Teams can inspect the audio, transcript and test settings.",
+  "whyItMatters": "Voice quality cannot be reduced to one vendor score. Product teams can use the toolkit with their own voices, languages and real prompts to compare accuracy, silence, clipping, pacing and failure cases before choosing a service.",
+  "friendlyWhyItMatters": "This makes it easier to choose a voice system using your own examples instead of trusting a marketing score.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-01"
+  }
+}
