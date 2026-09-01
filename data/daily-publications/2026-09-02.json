@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-02",
+  "slug": "2026-09-02",
+  "status": "published",
+  "publicationDateUtc": "2026-09-01T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets more capable—and more operational",
+  "friendlyHeader": "AI is taking on more real work",
+  "summary": "Today's developments move AI closer to everyday work: stronger models, cheaper video analysis, live transcription, connected healthcare records and agents that manage real workflows. The practical theme is control—over cost, context, permissions, privacy and the systems AI is allowed to touch.",
+  "friendlySummary": "Today we look at new AI for coding, video, speech, healthcare, family planning and creative work. We also cover an important safety problem and three popular open projects you can try.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-02_01_anthropic-launches-claude-fable-5-1-with-lower-agent-workflow-costs_3df5fbd9",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_02_gemini-can-now-choose-which-moments-of-a-video-to-inspect_dfd1ea2e",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_03_hugging-face-releases-207-webgpu-kernels-for-local-browser-ai_85562dc1",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_04_openai-maps-how-three-companies-turn-agent-experiments-into-workflows_3b5f2688",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_05_meta-introduces-muse-voice-transcribe-for-live-multilingual-speech_1b46b681",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_06_nori-opens-orders-for-a-1-688-two-armed-home-robot_2133b6c6",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_07_gitspawn-flaw-lets-some-coding-agents-execute-repository-controlled-comm_8434f448",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_08_chatgpt-for-healthcare-connects-authorized-epic-records-and-public-datas_50e05f9b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_09_fambot-turns-family-emails-and-calendars-into-a-daily-plan_d0f8fcfd",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_10_google-pics-brings-prompt-based-image-creation-into-workspace_77cd2a6a",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_11_voicestudio-packages-local-voice-cloning-dubbing-and-transcription_1c9d47a9",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_12_academic-research-skills-structures-research-review-and-revision-for-age_3ffc776f",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-02_13_openknowledge-combines-a-local-markdown-workspace-with-ai-agents_3345b333",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-02.json",
+    "itemCount": 13
+  }
+}

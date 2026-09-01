@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_12_academic-research-skills-structures-research-review-and-revision-for-age_3ffc776f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Imbad0202/academic-research-skills",
+  "canonicalUrl": "https://github.com/Imbad0202/academic-research-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "academic-research-skills structures research, review and revision for agents",
+  "friendlyTitle": "A popular project gives AI a step-by-step research process",
+  "summary": "Academic Research Skills is a fast-moving collection of Claude Code workflows for literature research, paper drafting, review, revision, citation checks and reproducibility. The repository has about 44,800 stars and packages the process as separate skills plus an orchestrated academic pipeline.",
+  "friendlySummary": "These agent skills organise research, writing, review, revision and final checks instead of asking AI to write a paper in one step.",
+  "whyItMatters": "Researchers can adapt the workflow to make source gathering, critical review and revision more explicit instead of relying on one large prompt. It should support—not replace—reading the sources, checking every citation and applying disciplinary expertise.",
+  "friendlyWhyItMatters": "It can make research work more organised. You still need to read the sources, check citations and make the final academic decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

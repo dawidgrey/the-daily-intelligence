@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_13_openknowledge-combines-a-local-markdown-workspace-with-ai-agents_3345b333",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/inkeep/open-knowledge",
+  "canonicalUrl": "https://github.com/inkeep/open-knowledge",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "OpenKnowledge combines a local Markdown workspace with AI agents",
+  "friendlyTitle": "OpenKnowledge makes local notes easier for people and AI to use",
+  "summary": "OpenKnowledge is a GPL-licensed Markdown editor and LLM wiki with desktop and local web versions, rich editing, search, graph links and integrations for Claude, Codex and other agent tools. The actively maintained repository has about 3,900 stars and can open existing Markdown folders and Obsidian vaults.",
+  "friendlySummary": "This open app edits Markdown notes and connects them to AI coding and research tools. It works with existing folders and Obsidian vaults.",
+  "whyItMatters": "Individuals and teams can keep notes, specifications and agent-readable knowledge in portable Markdown while adding richer editing and search. Git-based sync is optional, so users can start locally and choose deliberately what leaves the machine.",
+  "friendlyWhyItMatters": "It can turn plain files into a more useful local knowledge base. You can decide whether to keep it private or add Git-based sharing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

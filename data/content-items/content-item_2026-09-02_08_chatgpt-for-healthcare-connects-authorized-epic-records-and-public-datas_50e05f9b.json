@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_08_chatgpt-for-healthcare-connects-authorized-epic-records-and-public-datas_50e05f9b",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "canonicalUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "ChatGPT for Healthcare connects authorized Epic records and public datasets",
+  "friendlyTitle": "Healthcare teams can connect patient records to ChatGPT",
+  "summary": "OpenAI added an Epic integration that lets eligible healthcare organizations bring authorized patient context into ChatGPT for Healthcare. A separate plugin connects nine official public sources, including PubMed, DailyMed, ClinicalTrials.gov and CMS Coverage, while preserving source references for review.",
+  "friendlySummary": "Approved healthcare organisations can let ChatGPT read authorised information from Epic and search official medical data sources in one workspace.",
+  "whyItMatters": "Clinicians may spend less time assembling history, medications, results and research before a visit, but summaries remain support for professional judgement rather than a replacement. Access control, audit logs, source checking and local clinical validation are central because errors involve sensitive records and care decisions.",
+  "friendlyWhyItMatters": "This may save clinicians time when preparing for care. Access must be tightly controlled, and a qualified person must check the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

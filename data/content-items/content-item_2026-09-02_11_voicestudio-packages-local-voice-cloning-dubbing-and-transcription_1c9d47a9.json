@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_11_voicestudio-packages-local-voice-cloning-dubbing-and-transcription_1c9d47a9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/debpalash/VoiceStudio",
+  "canonicalUrl": "https://github.com/debpalash/VoiceStudio",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "VoiceStudio packages local voice cloning, dubbing and transcription",
+  "friendlyTitle": "VoiceStudio runs many voice AI tools on your own computer",
+  "summary": "VoiceStudio is an actively developed, AGPL-licensed desktop platform for local voice generation, cloning, dubbing, transcription, dictation and audiobook workflows. The repository has about 13,600 stars and supports a broad collection of optional speech engines and models.",
+  "friendlySummary": "This popular open project combines voice creation, cloning, dubbing, transcription and audiobook tools in one desktop app.",
+  "whyItMatters": "Creators and developers can test an end-to-end voice workflow on their own hardware instead of sending every recording to a hosted service. Review the license and each downloaded model's terms, and never clone a person's voice without clear permission.",
+  "friendlyWhyItMatters": "It can keep more audio work local. Check model licences and only copy a voice when the person has clearly agreed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

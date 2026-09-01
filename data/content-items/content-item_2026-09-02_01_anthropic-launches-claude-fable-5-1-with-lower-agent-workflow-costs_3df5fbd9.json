@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_01_anthropic-launches-claude-fable-5-1-with-lower-agent-workflow-costs_3df5fbd9",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "canonicalUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "Anthropic launches Claude Fable 5.1 with lower agent-workflow costs",
+  "friendlyTitle": "Anthropic releases a stronger, cheaper Claude model",
+  "summary": "Anthropic released Claude Fable 5.1 for general use and the more tightly controlled Mythos 5.1 for vetted cyber and life-science work. The company says lower cache-read pricing cuts typical Fable workloads by about 25% and highly agentic workloads by as much as 45%, while reducing false-positive safety blocks.",
+  "friendlySummary": "Claude Fable 5.1 is available now. Anthropic says it performs better and can cost less, especially when an AI agent reuses a lot of earlier information.",
+  "whyItMatters": "For long-running agents, reused context can dominate the bill, so cache pricing may matter as much as headline token prices. Teams should still test the model on their own tasks: the performance and savings figures are vendor-reported and vary by workload.",
+  "friendlyWhyItMatters": "Businesses may be able to run longer AI tasks for less money. They should test real work before assuming the advertised savings will apply to them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

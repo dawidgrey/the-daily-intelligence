@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-01T02:14:19Z",
+  "generatedAtUtc": "2026-09-01T20:06:52Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-09-02",
+      "slug": "2026-09-02",
+      "status": "published",
+      "publicationDateUtc": "2026-09-01T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI gets more capable—and more operational",
+      "friendlyHeader": "AI is taking on more real work",
+      "summary": "Today's developments move AI closer to everyday work: stronger models, cheaper video analysis, live transcription, connected healthcare records and agents that manage real workflows. The practical theme is control—over cost, context, permissions, privacy and the systems AI is allowed to touch.",
+      "friendlySummary": "Today we look at new AI for coding, video, speech, healthcare, family planning and creative work. We also cover an important safety problem and three popular open projects you can try.",
+      "itemCount": 13,
+      "href": "issues/2026-09-02.html",
+      "dataUrl": "data/daily-publications/2026-09-02.json"
+    },
     {
       "id": "daily-publication_2026-09-01",
       "slug": "2026-09-01",

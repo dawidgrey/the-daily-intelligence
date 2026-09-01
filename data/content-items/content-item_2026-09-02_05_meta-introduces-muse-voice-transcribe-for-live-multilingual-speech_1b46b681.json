@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_05_meta-introduces-muse-voice-transcribe-for-live-multilingual-speech_1b46b681",
+  "sourceKind": "research",
+  "sourceName": "Meta AI Research",
+  "sourceUrl": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+  "canonicalUrl": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "Meta introduces Muse Voice Transcribe for live multilingual speech",
+  "friendlyTitle": "Meta's new speech AI can follow many speakers and languages",
+  "summary": "Meta introduced Muse Voice Transcribe, a streaming model that combines speech recognition, speaker separation and endpoint detection. It supports seamless language switching, can distinguish more than 20 speakers and is available through Meta Model API, Meta AI for Mac and Muse Code.",
+  "friendlySummary": "Muse Voice Transcribe writes speech as it happens, tells speakers apart and can understand people who switch languages during a sentence.",
+  "whyItMatters": "One live audio model that identifies speakers and understands mixed-language conversation could simplify meeting notes, dictation and voice-agent pipelines. Users and teams should still examine consent, retention and error handling before recording real conversations.",
+  "friendlyWhyItMatters": "It could improve meeting notes and voice tools. People should know when they are being recorded, and important transcripts still need checking.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

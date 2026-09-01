@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_07_gitspawn-flaw-lets-some-coding-agents-execute-repository-controlled-comm_8434f448",
+  "sourceKind": "research",
+  "sourceName": "Manifold Security",
+  "sourceUrl": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+  "canonicalUrl": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "GitSpawn flaw lets some coding agents execute repository-controlled commands",
+  "friendlyTitle": "A project folder can attack some AI coding tools before work begins",
+  "summary": "Manifold Security found that several coding agents ran Git context commands without neutralizing executable settings in a repository's local Git configuration. A project delivered with its .git directory intact could therefore run code as the user; some affected products were patched, while the researchers reported four findings still unpatched at publication.",
+  "friendlySummary": "Some coding agents automatically ask Git about a project. A specially prepared project folder can use that step to run a hidden command on the user's computer.",
+  "whyItMatters": "Do not open an untrusted project archive or synced folder directly in a coding agent. Clone from a trusted remote when possible, inspect .git/config before use, keep agents updated and isolate unfamiliar repositories from valuable credentials and files.",
+  "friendlyWhyItMatters": "Treat downloaded project folders as untrusted. Check them first, update your coding tool and keep important keys away from test environments.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

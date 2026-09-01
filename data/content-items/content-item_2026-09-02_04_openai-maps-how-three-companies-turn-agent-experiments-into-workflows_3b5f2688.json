@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_04_openai-maps-how-three-companies-turn-agent-experiments-into-workflows_3b5f2688",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/ai-native-company-workflows",
+  "canonicalUrl": "https://openai.com/index/ai-native-company-workflows",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "OpenAI maps how three companies turn agent experiments into workflows",
+  "friendlyTitle": "Three companies show how to give AI agents a clear job",
+  "summary": "OpenAI describes how Basis packages employee onboarding as a reusable skill, Clay maintains persistent account workspaces and Exa lets an agent find integration opportunities and prepare tested pull requests. Across the examples, people retain decision rights while agents work from bounded processes, evidence and review points.",
+  "friendlySummary": "The examples cover staff onboarding, sales accounts and software integrations. Each agent has a known task, the information it needs and a point where a person checks the work.",
+  "whyItMatters": "The transferable pattern is more useful than any single tool: choose a repeatable job, define success, connect only the context and permissions it needs, and require visible evidence before consequential action. That turns experimentation into an operating capability that can be measured and improved.",
+  "friendlyWhyItMatters": "AI is safer and more useful when its job, limits and proof are clear. Start with one repeatable process instead of asking an agent to do everything.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

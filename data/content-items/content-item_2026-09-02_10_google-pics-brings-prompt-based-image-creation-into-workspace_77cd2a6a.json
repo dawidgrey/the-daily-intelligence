@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_10_google-pics-brings-prompt-based-image-creation-into-workspace_77cd2a6a",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "Google Pics brings prompt-based image creation into Workspace",
+  "friendlyTitle": "Google adds an AI picture maker to Workspace",
+  "summary": "Google launched Google Pics, a Nano Banana-powered image creation and editing tool for posters, illustrations, social posts and other everyday designs. It supports object-level edits, text changes and translation, variations and collaboration, with availability beginning in Workspace, Docs and Slides for eligible customers.",
+  "friendlySummary": "Google Pics can create and edit images from a written request. It is being added to tools such as Docs and Slides for eligible users.",
+  "whyItMatters": "Image generation is moving from a separate novelty app into the documents and presentations people already use. That can shorten routine design work, but teams still need brand review, factual checks, rights awareness and clear labelling where synthetic imagery could mislead.",
+  "friendlyWhyItMatters": "People can make simple work graphics without starting from a blank design. The final image still needs checking for mistakes, brand fit and misleading details.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

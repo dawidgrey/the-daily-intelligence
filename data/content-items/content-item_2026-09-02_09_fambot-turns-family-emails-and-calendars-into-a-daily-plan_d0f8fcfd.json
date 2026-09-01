@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-02_09_fambot-turns-family-emails-and-calendars-into-a-daily-plan_d0f8fcfd",
+  "sourceKind": "product",
+  "sourceName": "Fambot",
+  "sourceUrl": "https://fambot.com/",
+  "canonicalUrl": "https://fambot.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-01T20:06:52Z",
+  "createdAtUtc": "2026-09-01T20:06:52Z",
+  "updatedAtUtc": "2026-09-01T20:06:52Z",
+  "title": "Fambot turns family emails and calendars into a daily plan",
+  "friendlyTitle": "Fambot helps families find tasks hidden in emails",
+  "summary": "Fambot is offering a free beta that connects to Gmail and Google Calendar, extracts tasks and dates from school and family messages, and produces a daily digest, shared to-do list and calendar updates. The company says it does not allow its AI providers to train on user data and erases the account when disconnected.",
+  "friendlySummary": "Fambot reads connected school emails and calendars, then makes a daily list of things to do, bring or remember. It is free while in beta.",
+  "whyItMatters": "Family administration is a practical test of whether proactive agents can reduce mental load rather than add another inbox. The trade-off is broad access to sensitive family communications, so users should review permissions, privacy terms and generated calendar changes carefully.",
+  "friendlyWhyItMatters": "It could save parents time, but it needs access to private family information. Check its permissions and every important date or task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-02"
+  }
+}

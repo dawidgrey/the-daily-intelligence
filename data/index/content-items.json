@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-01T02:14:18Z",
+  "generatedAtUtc": "2026-09-01T20:06:52Z",
   "items": [
     {
-      "id": "content-item_2026-09-01_01_anthropic-hardens-agent-testing-after-models-reached-real-systems_e83ff5fa",
-      "sourceKind": "article",
+      "id": "content-item_2026-09-02_01_anthropic-launches-claude-fable-5-1-with-lower-agent-workflow-costs_3df5fbd9",
+      "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Anthropic hardens agent testing after models reached real systems",
-      "sourceUrl": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+      "title": "Anthropic launches Claude Fable 5.1 with lower agent-workflow costs",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
     },
     {
-      "id": "content-item_2026-09-01_02_chatgpt-ads-reaches-a-1-billion-annualized-run-rate_44f61163",
+      "id": "content-item_2026-09-02_02_gemini-can-now-choose-which-moments-of-a-video-to-inspect_dfd1ea2e",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Ads reaches a $1 billion annualized run rate",
-      "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      "sourceName": "Google DeepMind",
+      "title": "Gemini can now choose which moments of a video to inspect",
+      "sourceUrl": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
     },
     {
-      "id": "content-item_2026-09-01_03_japan-s-qommonsai-now-supports-about-1-050-municipalities_7bc34157",
+      "id": "content-item_2026-09-02_03_hugging-face-releases-207-webgpu-kernels-for-local-browser-ai_85562dc1",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "Japan's QommonsAI now supports about 1,050 municipalities",
-      "sourceUrl": "https://openai.com/index/polimill"
-    },
-    {
-      "id": "content-item_2026-09-01_04_inworld-releases-an-inspectable-toolkit-for-testing-ai-voices_f1b14f80",
-      "sourceKind": "product",
-      "sourceName": "Inworld AI",
-      "title": "Inworld releases an inspectable toolkit for testing AI voices",
-      "sourceUrl": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit"
-    },
-    {
-      "id": "content-item_2026-09-01_05_doltlite-brings-git-style-history-and-sync-to-sqlite_d6b322d6",
-      "sourceKind": "product",
-      "sourceName": "DoltHub",
-      "title": "DoltLite brings Git-style history and sync to SQLite",
-      "sourceUrl": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/"
-    },
-    {
-      "id": "content-item_2026-09-01_06_open-speech-leaderboard-adds-hindi-and-indian-english_b0b2c2da",
-      "sourceKind": "research",
       "sourceName": "Hugging Face",
-      "title": "Open speech leaderboard adds Hindi and Indian English",
-      "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      "title": "Hugging Face releases 207 WebGPU kernels for local browser AI",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels"
     },
     {
-      "id": "content-item_2026-09-01_07_miles-v0-1-targets-production-scale-reinforcement-learning_a1241bfe",
+      "id": "content-item_2026-09-02_04_openai-maps-how-three-companies-turn-agent-experiments-into-workflows_3b5f2688",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "OpenAI maps how three companies turn agent experiments into workflows",
+      "sourceUrl": "https://openai.com/index/ai-native-company-workflows"
+    },
+    {
+      "id": "content-item_2026-09-02_05_meta-introduces-muse-voice-transcribe-for-live-multilingual-speech_1b46b681",
       "sourceKind": "research",
-      "sourceName": "LMSYS Org",
-      "title": "Miles v0.1 targets production-scale reinforcement learning",
-      "sourceUrl": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1/"
+      "sourceName": "Meta AI Research",
+      "title": "Meta introduces Muse Voice Transcribe for live multilingual speech",
+      "sourceUrl": "https://research.meta.ai/blog/introducing-muse-voice-transcribe"
     },
     {
-      "id": "content-item_2026-09-01_08_eu-places-chatgpt-under-its-strictest-digital-services-act-tier_e70fdf50",
-      "sourceKind": "regulation",
-      "sourceName": "European Commission",
-      "title": "EU places ChatGPT under its strictest Digital Services Act tier",
-      "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772"
-    },
-    {
-      "id": "content-item_2026-09-01_09_instagram-will-limit-unlabeled-ai-generated-profiles_8051bcd0",
+      "id": "content-item_2026-09-02_06_nori-opens-orders-for-a-1-688-two-armed-home-robot_2133b6c6",
       "sourceKind": "product",
-      "sourceName": "The Verge",
-      "title": "Instagram will limit unlabeled AI-generated profiles",
-      "sourceUrl": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+      "sourceName": "Nori Robotics",
+      "title": "Nori opens orders for a $1,688 two-armed home robot",
+      "sourceUrl": "https://www.norirobotics.com/"
     },
     {
-      "id": "content-item_2026-09-01_10_circleback-makes-unlimited-meeting-transcription-free_121993fc",
+      "id": "content-item_2026-09-02_07_gitspawn-flaw-lets-some-coding-agents-execute-repository-controlled-comm_8434f448",
+      "sourceKind": "research",
+      "sourceName": "Manifold Security",
+      "title": "GitSpawn flaw lets some coding agents execute repository-controlled commands",
+      "sourceUrl": "https://www.manifold.security/blog/ai-coding-agents-git-hijack"
+    },
+    {
+      "id": "content-item_2026-09-02_08_chatgpt-for-healthcare-connects-authorized-epic-records-and-public-datas_50e05f9b",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Circleback makes unlimited meeting transcription free",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+      "sourceName": "OpenAI",
+      "title": "ChatGPT for Healthcare connects authorized Epic records and public datasets",
+      "sourceUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     {
-      "id": "content-item_2026-09-01_11_patent-disclosure-skill-turns-chinese-patent-work-into-an-agent-workflow_35ba5e90",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "patent-disclosure-skill turns Chinese patent work into an agent workflow",
-      "sourceUrl": "https://github.com/handsomestWei/patent-disclosure-skill"
+      "id": "content-item_2026-09-02_09_fambot-turns-family-emails-and-calendars-into-a-daily-plan_d0f8fcfd",
+      "sourceKind": "product",
+      "sourceName": "Fambot",
+      "title": "Fambot turns family emails and calendars into a daily plan",
+      "sourceUrl": "https://fambot.com/"
     },
     {
-      "id": "content-item_2026-09-01_12_locally-uncensored-bundles-private-chat-media-generation-and-coding_00bd9b47",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "locally-uncensored bundles private chat, media generation and coding",
-      "sourceUrl": "https://github.com/PurpleDoubleD/locally-uncensored"
+      "id": "content-item_2026-09-02_10_google-pics-brings-prompt-based-image-creation-into-workspace_77cd2a6a",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google Pics brings prompt-based image creation into Workspace",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
     },
     {
-      "id": "content-item_2026-09-01_13_microsoft-s-ml-for-beginners-offers-a-12-week-practical-curriculum_007f4e99",
+      "id": "content-item_2026-09-02_11_voicestudio-packages-local-voice-cloning-dubbing-and-transcription_1c9d47a9",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Microsoft's ML for Beginners offers a 12-week practical curriculum",
-      "sourceUrl": "https://github.com/microsoft/ML-For-Beginners"
+      "title": "VoiceStudio packages local voice cloning, dubbing and transcription",
+      "sourceUrl": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "id": "content-item_2026-09-02_12_academic-research-skills-structures-research-review-and-revision-for-age_3ffc776f",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "academic-research-skills structures research, review and revision for agents",
+      "sourceUrl": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+      "id": "content-item_2026-09-02_13_openknowledge-combines-a-local-markdown-workspace-with-ai-agents_3345b333",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "OpenKnowledge combines a local Markdown workspace with AI agents",
+      "sourceUrl": "https://github.com/inkeep/open-knowledge"
     }
   ]
 }
