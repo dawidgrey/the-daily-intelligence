@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-01T20:06:52Z",
+  "generatedAtUtc": "2026-09-02T20:05:00Z",
   "items": [
     {
-      "id": "content-item_2026-09-02_01_anthropic-launches-claude-fable-5-1-with-lower-agent-workflow-costs_3df5fbd9",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic launches Claude Fable 5.1 with lower agent-workflow costs",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
-    },
-    {
-      "id": "content-item_2026-09-02_02_gemini-can-now-choose-which-moments-of-a-video-to-inspect_dfd1ea2e",
+      "id": "content-item_2026-09-03_01_google-launches-gemini-3-8-flash-for-longer-agent-and-coding-work_18ef68f7",
       "sourceKind": "product",
       "sourceName": "Google DeepMind",
-      "title": "Gemini can now choose which moments of a video to inspect",
-      "sourceUrl": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      "title": "Google launches Gemini 3.8 Flash for longer agent and coding work",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
     },
     {
-      "id": "content-item_2026-09-02_03_hugging-face-releases-207-webgpu-kernels-for-local-browser-ai_85562dc1",
+      "id": "content-item_2026-09-03_02_meta-s-muse-spark-1-3-targets-agentic-coding-workflows_3e6570f9",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face releases 207 WebGPU kernels for local browser AI",
-      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels"
+      "sourceName": "Meta",
+      "title": "Meta’s Muse Spark 1.3 targets agentic coding workflows",
+      "sourceUrl": "https://developer.meta.com/ai/models/muse-spark/"
     },
     {
-      "id": "content-item_2026-09-02_04_openai-maps-how-three-companies-turn-agent-experiments-into-workflows_3b5f2688",
+      "id": "content-item_2026-09-03_03_world-labs-atlas-joins-generation-3d-reconstruction-and-simulation_e6922ed9",
+      "sourceKind": "product",
+      "sourceName": "World Labs",
+      "title": "World Labs’ Atlas joins generation, 3D reconstruction and simulation",
+      "sourceUrl": "https://www.worldlabs.ai/blog/atlas"
+    },
+    {
+      "id": "content-item_2026-09-03_04_anthropic-publishes-working-blueprints-for-commerce-agents_64447158",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic publishes working blueprints for commerce agents",
+      "sourceUrl": "https://claude.com/blog/claude-for-commerce-agents"
+    },
+    {
+      "id": "content-item_2026-09-03_05_openai-classifies-astra-as-its-first-critical-cyber-model_309be27b",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI maps how three companies turn agent experiments into workflows",
-      "sourceUrl": "https://openai.com/index/ai-native-company-workflows"
+      "title": "OpenAI classifies Astra as its first ‘Critical’ cyber model",
+      "sourceUrl": "https://openai.com/index/path-to-astra"
     },
     {
-      "id": "content-item_2026-09-02_05_meta-introduces-muse-voice-transcribe-for-live-multilingual-speech_1b46b681",
-      "sourceKind": "research",
-      "sourceName": "Meta AI Research",
-      "title": "Meta introduces Muse Voice Transcribe for live multilingual speech",
-      "sourceUrl": "https://research.meta.ai/blog/introducing-muse-voice-transcribe"
-    },
-    {
-      "id": "content-item_2026-09-02_06_nori-opens-orders-for-a-1-688-two-armed-home-robot_2133b6c6",
-      "sourceKind": "product",
-      "sourceName": "Nori Robotics",
-      "title": "Nori opens orders for a $1,688 two-armed home robot",
-      "sourceUrl": "https://www.norirobotics.com/"
-    },
-    {
-      "id": "content-item_2026-09-02_07_gitspawn-flaw-lets-some-coding-agents-execute-repository-controlled-comm_8434f448",
-      "sourceKind": "research",
-      "sourceName": "Manifold Security",
-      "title": "GitSpawn flaw lets some coding agents execute repository-controlled commands",
-      "sourceUrl": "https://www.manifold.security/blog/ai-coding-agents-git-hijack"
-    },
-    {
-      "id": "content-item_2026-09-02_08_chatgpt-for-healthcare-connects-authorized-epic-records-and-public-datas_50e05f9b",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT for Healthcare connects authorized Epic records and public datasets",
-      "sourceUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-    },
-    {
-      "id": "content-item_2026-09-02_09_fambot-turns-family-emails-and-calendars-into-a-daily-plan_d0f8fcfd",
-      "sourceKind": "product",
-      "sourceName": "Fambot",
-      "title": "Fambot turns family emails and calendars into a daily plan",
-      "sourceUrl": "https://fambot.com/"
-    },
-    {
-      "id": "content-item_2026-09-02_10_google-pics-brings-prompt-based-image-creation-into-workspace_77cd2a6a",
+      "id": "content-item_2026-09-03_06_google-opens-a-controlled-path-to-ai-generated-security-patches_383dbcd7",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Google Pics brings prompt-based image creation into Workspace",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      "title": "Google opens a controlled path to AI-generated security patches",
+      "sourceUrl": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
     },
     {
-      "id": "content-item_2026-09-02_11_voicestudio-packages-local-voice-cloning-dubbing-and-transcription_1c9d47a9",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "VoiceStudio packages local voice cloning, dubbing and transcription",
-      "sourceUrl": "https://github.com/debpalash/VoiceStudio"
+      "id": "content-item_2026-09-03_07_an-ai-security-system-found-six-low-severity-curl-flaws-others-missed_cf155639",
+      "sourceKind": "article",
+      "sourceName": "AISLE",
+      "title": "An AI security system found six low-severity curl flaws others missed",
+      "sourceUrl": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
     },
     {
-      "id": "content-item_2026-09-02_12_academic-research-skills-structures-research-review-and-revision-for-age_3ffc776f",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "academic-research-skills structures research, review and revision for agents",
-      "sourceUrl": "https://github.com/Imbad0202/academic-research-skills"
+      "id": "content-item_2026-09-03_08_ibm-brings-time-series-foundation-models-into-live-data-streams_22915ca8",
+      "sourceKind": "product",
+      "sourceName": "IBM Research on Hugging Face",
+      "title": "IBM brings time-series foundation models into live data streams",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
     },
     {
-      "id": "content-item_2026-09-02_13_openknowledge-combines-a-local-markdown-workspace-with-ai-agents_3345b333",
+      "id": "content-item_2026-09-03_09_research-shows-reward-choice-changes-how-llm-forecasts-fail_96b2639c",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Research shows reward choice changes how LLM forecasts fail",
+      "sourceUrl": "https://arxiv.org/abs/2608.28482"
+    },
+    {
+      "id": "content-item_2026-09-03_10_us-government-backs-a-broad-fair-use-argument-for-ai-training_ac3fb099",
+      "sourceKind": "regulation",
+      "sourceName": "Reuters",
+      "title": "US government backs a broad fair-use argument for AI training",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/"
+    },
+    {
+      "id": "content-item_2026-09-03_11_openclaude-a-provider-flexible-coding-agent-runtime_a11bf9f8",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "OpenKnowledge combines a local Markdown workspace with AI agents",
-      "sourceUrl": "https://github.com/inkeep/open-knowledge"
+      "title": "openclaude: a provider-flexible coding agent runtime",
+      "sourceUrl": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "id": "content-item_2026-09-03_12_humanizer-an-agent-skill-for-revising-formulaic-ai-prose_db09b457",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Humanizer: an agent skill for revising formulaic AI prose",
+      "sourceUrl": "https://github.com/blader/humanizer"
+    },
+    {
+      "id": "content-item_2026-09-03_13_shannon-3-0-adds-agentic-static-analysis-to-ai-pentesting_1a01afe6",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Shannon 3.0 adds agentic static analysis to AI pentesting",
+      "sourceUrl": "https://github.com/KeygraphHQ/shannon"
     }
   ]
 }

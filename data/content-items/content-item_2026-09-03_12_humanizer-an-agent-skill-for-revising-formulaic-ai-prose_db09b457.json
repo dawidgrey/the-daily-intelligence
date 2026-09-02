@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_12_humanizer-an-agent-skill-for-revising-formulaic-ai-prose_db09b457",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/blader/humanizer",
+  "canonicalUrl": "https://github.com/blader/humanizer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "Humanizer: an agent skill for revising formulaic AI prose",
+  "friendlyTitle": "A skill that helps clean up robotic AI writing",
+  "summary": "Humanizer is a portable agent skill that identifies common patterns associated with generic AI-generated writing and guides a rewrite in plainer language. It supports skill and plugin installation across several coding-agent environments.",
+  "friendlySummary": "Humanizer gives AI agents a checklist for finding stiff, repeated or overly polished writing patterns.",
+  "whyItMatters": "Writers and editors can use its pattern checklist as a revision pass for drafts, while still reviewing facts, voice and originality themselves. It is best treated as an editing aid, not proof that text is human-written.",
+  "friendlyWhyItMatters": "Use it as one editing pass to make a draft clearer. A person should still check the facts and final voice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

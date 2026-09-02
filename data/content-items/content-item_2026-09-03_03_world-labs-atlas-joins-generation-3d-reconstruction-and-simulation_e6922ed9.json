@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_03_world-labs-atlas-joins-generation-3d-reconstruction-and-simulation_e6922ed9",
+  "sourceKind": "product",
+  "sourceName": "World Labs",
+  "sourceUrl": "https://www.worldlabs.ai/blog/atlas",
+  "canonicalUrl": "https://www.worldlabs.ai/blog/atlas",
+  "credit": "@theworldlabs",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "World Labs’ Atlas joins generation, 3D reconstruction and simulation",
+  "friendlyTitle": "Atlas turns pictures and prompts into controllable 3D worlds",
+  "summary": "World Labs unveiled Atlas, an early-access model that works across text, images, video and 3D. It can reconstruct scenes, generate camera-controlled video up to one minute at 1440p and support simulation workflows for robotics.",
+  "friendlySummary": "World Labs says Atlas can create scenes, rebuild places in 3D and make videos with exact camera movement. It can also help create simulated spaces for robots.",
+  "whyItMatters": "A shared model for creating and reconstructing spatial scenes could shorten workflows in media, design, digital twins and robotics. Access is still limited, so the published demonstrations should be treated as an early capability signal rather than broad production proof.",
+  "friendlyWhyItMatters": "This may save time for designers, filmmakers and robotics teams. It is in early access, so most people cannot use it widely yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

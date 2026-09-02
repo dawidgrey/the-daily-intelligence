@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_06_google-opens-a-controlled-path-to-ai-generated-security-patches_383dbcd7",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+  "canonicalUrl": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "Google opens a controlled path to AI-generated security patches",
+  "friendlyTitle": "Google gives trusted defenders AI tools to find and fix bugs",
+  "summary": "Google launched Fairwind, a limited-access program that combines Gemini 3.8 Flash Cyber with its CodeMender harness to find, verify and patch vulnerabilities. Initial access is aimed at governments, critical infrastructure operators and trusted enterprise security teams under operational restrictions.",
+  "friendlySummary": "Fairwind combines a special Gemini model with tools that create and check software patches. Access is limited to approved government and business security teams.",
+  "whyItMatters": "The program turns advanced cyber reasoning into a governed repair workflow rather than a generally available model. If the claims hold in deployment, defenders could reduce the costly gap between discovering a flaw and shipping a reviewed patch.",
+  "friendlyWhyItMatters": "Fixing a security hole quickly can prevent real harm. Limited access aims to help defenders without giving the same power to everyone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_09_research-shows-reward-choice-changes-how-llm-forecasts-fail_96b2639c",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2608.28482",
+  "canonicalUrl": "https://arxiv.org/abs/2608.28482",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "Research shows reward choice changes how LLM forecasts fail",
+  "friendlyTitle": "How you reward a forecasting model changes its mistakes",
+  "summary": "A new preprint compares five theoretically proper scoring rules used to train LLMs on binary forecasts. The models reached broadly similar aggregate performance but differed in calibration, probability use and the mix of bias, information and noise in their errors; the authors note that each condition used only one seed.",
+  "friendlySummary": "Researchers trained AI forecasters with five different scoring methods. Overall scores were similar, but the models used probabilities and made errors in different ways.",
+  "whyItMatters": "When an AI forecast informs budgets, inventory or risk, the training objective can shape not just accuracy but the kind of mistakes the system makes. Teams should evaluate calibration and error structure against the decision they need to make, while treating the single-seed results as preliminary.",
+  "friendlyWhyItMatters": "A forecast can look accurate overall and still be badly suited to your decision. Teams should check whether its confidence is trustworthy and remember that this study is early.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

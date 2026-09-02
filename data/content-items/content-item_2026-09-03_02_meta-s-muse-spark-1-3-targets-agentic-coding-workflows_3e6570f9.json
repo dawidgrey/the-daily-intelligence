@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_02_meta-s-muse-spark-1-3-targets-agentic-coding-workflows_3e6570f9",
+  "sourceKind": "product",
+  "sourceName": "Meta",
+  "sourceUrl": "https://developer.meta.com/ai/models/muse-spark/",
+  "canonicalUrl": "https://developer.meta.com/ai/models/muse-spark/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "Meta’s Muse Spark 1.3 targets agentic coding workflows",
+  "friendlyTitle": "Meta adds a new model for coding agents",
+  "summary": "Meta released Muse Spark 1.3, describing it as a model trained for agentic workflows and optimized for competitive coding performance. The launch adds another focused coding model to a market increasingly shaped by agents rather than single-turn chat.",
+  "friendlySummary": "Muse Spark 1.3 is built for AI helpers that plan and complete coding work. Meta says it is also strong at competitive coding tasks.",
+  "whyItMatters": "More competition among coding-focused models gives developers additional options for matching capability, latency and cost to a workflow. The useful test remains performance on a team’s own repository and review process, not a headline benchmark alone.",
+  "friendlyWhyItMatters": "Developers now have another model to test for everyday coding. The best choice is the one that works well on your real code and fits your budget.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

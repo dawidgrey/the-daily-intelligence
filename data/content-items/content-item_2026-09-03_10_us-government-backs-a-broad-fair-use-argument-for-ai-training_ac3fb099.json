@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_10_us-government-backs-a-broad-fair-use-argument-for-ai-training_ac3fb099",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "canonicalUrl": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "US government backs a broad fair-use argument for AI training",
+  "friendlyTitle": "The US government supports OpenAI’s fair-use argument",
+  "summary": "The US government filed an advisory brief supporting OpenAI in its copyright dispute with The New York Times, arguing that training language models on copyrighted text is generally transformative fair use. The brief is not a ruling, and US courts have not settled the broader question.",
+  "friendlySummary": "The government told a court that using copyrighted text to train AI is generally fair use. This supports OpenAI’s position, but the court has not decided the case.",
+  "whyItMatters": "The eventual legal boundary will affect model training costs, licensing markets and what creators and AI companies can do with published material. For now, businesses should not mistake a government position for final law and should keep their data provenance and licensing practices auditable.",
+  "friendlyWhyItMatters": "The result could change how AI companies pay for and use training material. Businesses should keep clear records because the law is still unsettled.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_08_ibm-brings-time-series-foundation-models-into-live-data-streams_22915ca8",
+  "sourceKind": "product",
+  "sourceName": "IBM Research on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "IBM brings time-series foundation models into live data streams",
+  "friendlyTitle": "IBM puts forecasting AI directly into live business data",
+  "summary": "IBM and Confluent are offering early access to time-series foundation models inside Confluent Cloud data streams. The integration targets forecasting, anomaly detection, similar-event retrieval and operational optimization without building a separate model for every signal.",
+  "friendlySummary": "The new early-access tools watch streams of changing numbers and can predict what comes next or spot unusual behavior. They run inside Confluent Cloud, where many companies already move data.",
+  "whyItMatters": "This is AI aimed at ordinary operational decisions: stock levels, fraud checks, equipment drift and production planning. Running inference where events already flow could help domain teams act while a signal is still useful rather than after a batch report arrives.",
+  "friendlyWhyItMatters": "Teams may catch shortages, fraud or machine problems earlier. They may also need less custom work for every new stream of data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

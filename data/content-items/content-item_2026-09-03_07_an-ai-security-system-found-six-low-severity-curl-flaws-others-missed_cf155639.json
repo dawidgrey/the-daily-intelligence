@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_07_an-ai-security-system-found-six-low-severity-curl-flaws-others-missed_cf155639",
+  "sourceKind": "article",
+  "sourceName": "AISLE",
+  "sourceUrl": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+  "canonicalUrl": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "An AI security system found six low-severity curl flaws others missed",
+  "friendlyTitle": "A focused AI audit found six real curl bugs that bigger systems missed",
+  "summary": "AISLE reports that its autonomous audit produced six findings accepted as CVEs by curl’s maintainers after other frontier security systems returned no additional results. All six flaws were rated low severity and fixed in curl 8.22.0, providing external validation beyond a benchmark score.",
+  "friendlySummary": "Curl’s maintainers accepted six AISLE findings as official, low-severity security issues and fixed them. Other well-known AI security systems had not found more issues in the same code.",
+  "whyItMatters": "The result is a useful reminder that the surrounding audit system can matter as much as the underlying model. Businesses evaluating AI security tools should compare verified findings, false positives and remediation quality on real code rather than relying on model reputation.",
+  "friendlyWhyItMatters": "A famous model is not always the best tool for a specific job. Buyers should look for real, checked results and not only impressive claims.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

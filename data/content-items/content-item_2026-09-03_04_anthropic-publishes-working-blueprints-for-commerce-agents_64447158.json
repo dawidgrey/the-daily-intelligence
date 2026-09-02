@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-03_04_anthropic-publishes-working-blueprints-for-commerce-agents_64447158",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/claude-for-commerce-agents",
+  "canonicalUrl": "https://claude.com/blog/claude-for-commerce-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-02T20:05:00Z",
+  "createdAtUtc": "2026-09-02T20:05:00Z",
+  "updatedAtUtc": "2026-09-02T20:05:00Z",
+  "title": "Anthropic publishes working blueprints for commerce agents",
+  "friendlyTitle": "Anthropic shares starter kits for AI shopping helpers",
+  "summary": "Anthropic released reference implementations for shopping and merchant agents, including catalog search, cart building, customer care, sales analysis and inventory monitoring. The blueprint keeps checkout with the merchant and requires human approval before suggested business changes go live.",
+  "friendlySummary": "The free blueprints show developers how to build helpers for shoppers and store staff. They cover product search, carts, support, stock checks and sales questions.",
+  "whyItMatters": "Retailers can start from working patterns instead of designing an agent stack from scratch. The built-in separation between recommendations, checkout and approval is also a useful model for keeping people responsible for consequential actions.",
+  "friendlyWhyItMatters": "Stores can test useful AI features more quickly. People still approve important changes, and the store keeps control of payment.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-03"
+  }
+}

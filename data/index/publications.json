@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-01T20:06:52Z",
+  "generatedAtUtc": "2026-09-02T20:05:01Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-03",
+      "slug": "2026-09-03",
+      "status": "published",
+      "publicationDateUtc": "2026-09-02T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Faster agents meet harder questions about control",
+      "friendlyHeader": "AI tools are getting more useful — and need better controls",
+      "summary": "Today’s issue follows AI into practical work: faster agent models, commerce blueprints, live operational forecasting and spatial creation. It also examines the control layer catching up around them, from cyber safeguards and code audits to copyright and forecasting choices.",
+      "friendlySummary": "Today we look at faster AI helpers for coding, shopping, business data and 3D creation. We also explain the safety, security and legal choices that matter as these tools do more work for us.",
+      "itemCount": 13,
+      "href": "issues/2026-09-03.html",
+      "dataUrl": "data/daily-publications/2026-09-03.json"
+    },
     {
       "id": "daily-publication_2026-09-02",
       "slug": "2026-09-02",
