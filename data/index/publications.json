@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-02T20:05:01Z",
+  "generatedAtUtc": "2026-09-03T20:07:49Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-04",
+      "slug": "2026-09-04",
+      "status": "published",
+      "publicationDateUtc": "2026-09-03T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Astra raises the ceiling as AI spreads across everyday infrastructure",
+      "friendlyHeader": "Smarter AI needs strong tools and clear limits",
+      "summary": "Today's issue pairs a major jump in agent capability with the systems around it: local compute, weather forecasting, open-model infrastructure, service resilience and practical guardrails. The common thread is that useful AI increasingly depends on the surrounding workflow, not just the model at its centre.",
+      "friendlySummary": "Today we look at a powerful new AI model, better weather forecasts, private AI at home and changes to the open-model world. We also explain why safety rules, reliable services and human oversight still matter.",
+      "itemCount": 13,
+      "href": "issues/2026-09-04.html",
+      "dataUrl": "data/daily-publications/2026-09-04.json"
+    },
     {
       "id": "daily-publication_2026-09-03",
       "slug": "2026-09-03",

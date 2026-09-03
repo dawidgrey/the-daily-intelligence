@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_10_claude-max-subscribers-sue-anthropic-over-usage-limit-advertising_0c0a54ee",
+  "sourceKind": "article",
+  "sourceName": "CNET",
+  "sourceUrl": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/",
+  "canonicalUrl": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "Claude Max subscribers sue Anthropic over usage-limit advertising",
+  "friendlyTitle": "Claude Max users challenge how its usage limits were advertised",
+  "summary": "A lawsuit alleges that Anthropic falsely advertised the usage available with its Claude Max subscription, bringing the gap between headline access and practical rate limits into court. The claims are allegations and have not been proven.",
+  "friendlySummary": "A lawsuit says Anthropic's advertising did not clearly match the usage available in Claude Max. The court has not yet decided whether the claim is correct.",
+  "whyItMatters": "Heavy users increasingly choose plans based on expected agent and coding capacity, so unclear or changing limits can affect both budgets and delivery schedules. Buyers should record advertised terms, monitor actual usage and avoid treating a premium subscription as guaranteed unlimited infrastructure.",
+  "friendlyWhyItMatters": "Check the real limits before depending on an AI subscription for important work. Keep a record if the advertised service changes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-04"
+  }
+}

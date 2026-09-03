@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_07_norway-restricts-generative-ai-across-primary-schools_e1c835f8",
+  "sourceKind": "regulation",
+  "sourceName": "Euronews",
+  "sourceUrl": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+  "canonicalUrl": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "Norway restricts generative AI across primary schools",
+  "friendlyTitle": "Norway limits AI use for younger school students",
+  "summary": "Norway's national restrictions on generative AI took effect at the end of August for primary grades one to seven, while use up to age 16 is limited to supervised settings. The policy is intended to protect foundational reading, writing and mathematics skills.",
+  "friendlySummary": "Norway has stopped normal use of generative AI in primary grades one to seven. Older children may use it only with supervision up to age 16.",
+  "whyItMatters": "Schools are moving from informal classroom rules to age-based national policy, which affects teachers, families and education-tool vendors. The practical challenge is preserving useful, supervised AI literacy without letting automated answers replace the basic skills students need to judge them.",
+  "friendlyWhyItMatters": "Children need to learn basic reading, writing and maths before depending on AI. Schools also need safe ways to teach how AI works.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-04"
+  }
+}

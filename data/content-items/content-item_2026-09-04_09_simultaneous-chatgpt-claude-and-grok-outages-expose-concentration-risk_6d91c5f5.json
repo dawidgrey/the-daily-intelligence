@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_09_simultaneous-chatgpt-claude-and-grok-outages-expose-concentration-risk_6d91c5f5",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "Simultaneous ChatGPT, Claude and Grok outages expose concentration risk",
+  "friendlyTitle": "ChatGPT, Claude and Grok had problems at the same time",
+  "summary": "ChatGPT and Codex, Claude and Claude Code, and Grok all experienced service problems during overlapping periods on Thursday. The companies reported recovery work or resolution, and there was no confirmed evidence that the incidents shared one cause.",
+  "friendlySummary": "Three major AI services stopped working for some users during overlapping periods. No shared cause was confirmed.",
+  "whyItMatters": "When AI becomes part of routine work, even short outages can halt research, coding and customer operations. Teams should keep exports, manual fallbacks and tested provider-switching paths, while avoiding assumptions that simultaneous failures necessarily came from one shared event.",
+  "friendlyWhyItMatters": "Do not let one online AI service become the only way important work can continue. Keep copies of key information and a simple backup process.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-04"
+  }
+}

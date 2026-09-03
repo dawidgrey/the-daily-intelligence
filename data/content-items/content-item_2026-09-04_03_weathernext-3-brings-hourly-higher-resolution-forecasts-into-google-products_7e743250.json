@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-products_7e743250",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "WeatherNext 3 brings hourly, higher-resolution forecasts into Google products",
+  "friendlyTitle": "Google's weather AI now gives sharper forecasts every hour",
+  "summary": "Google launched WeatherNext 3 with live satellite inputs, hourly updates and forecasts at five times the previous spatial resolution. The model is being integrated into Search, Gemini, Maps, Google Maps Platform and Cloud, with added detail for precipitation and clean-energy planning.",
+  "friendlySummary": "WeatherNext 3 uses live satellite data to make more detailed forecasts. Its results are coming to Google Search, Gemini, Maps and Cloud.",
+  "whyItMatters": "More local and frequently refreshed forecasts can improve daily travel decisions as well as farming, logistics and renewable-energy operations. Google cites independent live evaluation, but high-stakes users should still compare local performance and retain established warning channels.",
+  "friendlyWhyItMatters": "Better local forecasts can help people plan travel, farming and energy use. Keep using official emergency warnings when weather is dangerous.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-04"
+  }
+}

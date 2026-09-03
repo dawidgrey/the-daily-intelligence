@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_13_aws-ai-dlc-workflows-adds-structure-and-approval-gates-to-coding-agents_c32a6f32",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/awslabs/aidlc-workflows",
+  "canonicalUrl": "https://github.com/awslabs/aidlc-workflows",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "AWS AI-DLC Workflows adds structure and approval gates to coding agents",
+  "friendlyTitle": "AWS shares a step-by-step workflow for AI coding agents",
+  "summary": "AWS Labs' AI-DLC Workflows, with about 4,300 stars, was a fast-moving AI repository in today's GitHub trends. It supplies adaptive workflow rules, lifecycle stages, audit records and human approval points for coding agents across supported harnesses.",
+  "friendlySummary": "This project guides coding agents through planning, building, checking and human approval instead of letting them change software without structure.",
+  "whyItMatters": "Software teams can use it as a starting point for turning an open-ended coding prompt into staged requirements, design, implementation and review work. Adapt the process to the project's risk and size; extra gates help on consequential changes but can burden small, reversible tasks.",
+  "friendlyWhyItMatters": "It can make larger AI coding jobs easier to review and audit. Use fewer steps for small, low-risk changes so the process does not become heavy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-04"
+  },
+  "howItsUseful": "Software teams can use it as a starting point for turning an open-ended coding prompt into staged requirements, design, implementation and review work. Adapt the process to the project's risk and size; extra gates help on consequential changes but can burden small, reversible tasks.",
+  "friendlyHowItsUseful": "It can make larger AI coding jobs easier to review and audit. Use fewer steps for small, low-risk changes so the process does not become heavy."
+}

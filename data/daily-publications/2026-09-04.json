@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-04",
+  "slug": "2026-09-04",
+  "status": "published",
+  "publicationDateUtc": "2026-09-03T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Astra raises the ceiling as AI spreads across everyday infrastructure",
+  "friendlyHeader": "Smarter AI needs strong tools and clear limits",
+  "summary": "Today's issue pairs a major jump in agent capability with the systems around it: local compute, weather forecasting, open-model infrastructure, service resilience and practical guardrails. The common thread is that useful AI increasingly depends on the surrounding workflow, not just the model at its centre.",
+  "friendlySummary": "Today we look at a powerful new AI model, better weather forecasts, private AI at home and changes to the open-model world. We also explain why safety rules, reliable services and human oversight still matter.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-04_01_openai-launches-gpt-6-astra-for-computer-use-and-professional-work_0f3b76bc",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_02_independent-arc-testing-shows-astra-s-result-depends-heavily-on-its-harness_389074cd",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-products_7e743250",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_04_nvidia-pair-pools-home-computers-for-private-local-ai-workloads_f22a10c9",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_05_nvidia-agrees-to-acquire-hugging-face-for-12-93-billion_7f856618",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_06_abliteration-ai-turns-guardrail-removal-into-a-hosted-ai-service_4b9bca93",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_07_norway-restricts-generative-ai-across-primary-schools_e1c835f8",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_08_pentagon-says-anthropic-remains-a-supply-chain-risk-despite-mixed-government-sig_b65db2c9",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_09_simultaneous-chatgpt-claude-and-grok-outages-expose-concentration-risk_6d91c5f5",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_10_claude-max-subscribers-sue-anthropic-over-usage-limit-advertising_0c0a54ee",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_11_anthropic-s-skills-repository-remains-github-s-biggest-ai-trend-of-the-day_10ba7193",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_12_qwen3-vl-provides-open-tooling-for-visual-and-video-ai_962ce020",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-04_13_aws-ai-dlc-workflows-adds-structure-and-approval-gates-to-coding-agents_c32a6f32",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-04.json",
+    "itemCount": 13
+  }
+}

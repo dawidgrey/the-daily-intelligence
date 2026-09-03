@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-04_08_pentagon-says-anthropic-remains-a-supply-chain-risk-despite-mixed-government-sig_b65db2c9",
+  "sourceKind": "regulation",
+  "sourceName": "Axios",
+  "sourceUrl": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
+  "canonicalUrl": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-03T20:07:49Z",
+  "createdAtUtc": "2026-09-03T20:07:49Z",
+  "updatedAtUtc": "2026-09-03T20:07:49Z",
+  "title": "Pentagon says Anthropic remains a supply-chain risk despite mixed government signals",
+  "friendlyTitle": "US officials still disagree about whether defence suppliers can trust Anthropic",
+  "summary": "A senior Pentagon official said Anthropic remains designated a supply-chain risk for the department and defence industrial base, one day after the US commerce secretary said the company was back in the administration's trust. A federal judge has blocked one Pentagon designation, while a separate legal challenge continues.",
+  "friendlySummary": "The Pentagon says Anthropic is still a supply-chain risk, even though another senior US official said the company had regained trust. Court cases over the restrictions are continuing.",
+  "whyItMatters": "Conflicting government positions create procurement uncertainty for defence suppliers and other regulated buyers of Claude. Organisations in sensitive supply chains should check the specific rule that applies to each contract rather than treating broad political statements as operating guidance.",
+  "friendlyWhyItMatters": "Businesses working on government contracts need to check the exact rules before choosing an AI provider. Public comments may not match procurement requirements.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-04"
+  }
+}
