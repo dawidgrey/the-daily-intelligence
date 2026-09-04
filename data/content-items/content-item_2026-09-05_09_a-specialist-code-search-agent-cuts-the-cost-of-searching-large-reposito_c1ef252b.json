@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_09_a-specialist-code-search-agent-cuts-the-cost-of-searching-large-reposito_c1ef252b",
+  "sourceKind": "research",
+  "sourceName": "Applied Compute",
+  "sourceUrl": "https://www.appliedcompute.com/case-studies/turbopuffer",
+  "canonicalUrl": "https://www.appliedcompute.com/case-studies/turbopuffer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "A specialist code-search agent cuts the cost of searching large repositories",
+  "friendlyTitle": "A smaller specialist searches large code collections faster and cheaper",
+  "summary": "Applied Compute and turbopuffer trained a 35-billion-parameter open model to search indexed code across thousands of repositories. Their case study reports frontier-competitive retrieval, nearly three-times lower median latency at large scale and roughly 100-times lower marginal search cost than repeatedly scanning files with a frontier model.",
+  "friendlySummary": "The team trained an open model to use a code index instead of reading every file again. In its tests, searches were faster and much cheaper at large scale.",
+  "whyItMatters": "General-purpose models and filesystem search work well in small repositories, but the economics change across large code estates. Teams running frequent agent searches may benefit from a smaller specialist model and a maintained index, provided they test retrieval quality on their own code.",
+  "friendlyWhyItMatters": "Companies with many repositories may reduce agent cost and waiting time. They should test the system on their own code before depending on the reported gains.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

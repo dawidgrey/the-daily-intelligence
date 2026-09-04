@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-03T20:07:49Z",
+  "generatedAtUtc": "2026-09-04T20:06:19Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-05",
+      "slug": "2026-09-05",
+      "status": "published",
+      "publicationDateUtc": "2026-09-04T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from better answers to longer, verifiable work",
+      "friendlyHeader": "AI helpers are doing longer jobs — now they must prove their work",
+      "summary": "Today’s issue follows AI beyond chat: long-running agent workflows, computer-checked mathematics, local memory, engineering tests and live weather forecasts. The practical theme is clear: capability matters, but dependable tools, evidence and operational resilience increasingly decide whether AI is useful.",
+      "friendlySummary": "Today we look at AI that can work across software, mathematics, weather, security and engineering. The useful question is no longer only whether AI can do a task, but whether we can check its work and rely on the systems around it.",
+      "itemCount": 13,
+      "href": "issues/2026-09-05.html",
+      "dataUrl": "data/daily-publications/2026-09-05.json"
+    },
     {
       "id": "daily-publication_2026-09-04",
       "slug": "2026-09-04",

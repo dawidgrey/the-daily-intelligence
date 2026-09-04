@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_06_funes-gives-coding-agents-a-local-cross-tool-memory_86b47b47",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/funes",
+  "canonicalUrl": "https://huggingface.co/blog/funes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "Funes gives coding agents a local, cross-tool memory",
+  "friendlyTitle": "Funes helps coding agents remember earlier work",
+  "summary": "Hugging Face introduced Funes, an open-source memory layer that indexes existing Claude Code, Codex, Pi and Hermes sessions. It performs embedding, hybrid retrieval and reranking locally by default, returns original passages with provenance, and can optionally sync a redacted memory through a private Hugging Face dataset.",
+  "friendlySummary": "Funes turns old coding-agent sessions into a searchable memory. It works locally with several popular agents and shows the original text behind each answer.",
+  "whyItMatters": "Developers can carry decisions and failed approaches across agents, machines and fresh sessions without repeatedly pasting long handoffs. Session histories can contain sensitive material, so teams should still inspect redaction limits and access controls before syncing them.",
+  "friendlyWhyItMatters": "A new session can recover past decisions instead of starting again. Check privacy and sharing settings carefully because session logs may contain sensitive information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

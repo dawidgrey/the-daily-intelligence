@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-prod_56da2c8e",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "WeatherNext 3 brings hourly, higher-resolution forecasts into Google products",
+  "friendlyTitle": "Google’s weather AI now updates every hour with sharper local detail",
+  "summary": "Google introduced WeatherNext 3, which combines live satellite observations with other weather data to issue global forecasts every hour at resolutions as fine as five kilometres. It is beginning to power Search, Gemini, Maps and developer data services, with new variables for wind and solar energy planning.",
+  "friendlySummary": "WeatherNext 3 uses live satellite data to make global forecasts as often as every hour. Its results are starting to appear in Google Search, Gemini and Maps.",
+  "whyItMatters": "More frequent and localized forecasts can improve daily planning, farming, logistics and renewable-energy operations, especially in regions underserved by costly regional models. Google still directs people to official weather agencies for warnings and public-safety decisions.",
+  "friendlyWhyItMatters": "Better local forecasts can help people plan travel, farming, deliveries and clean-energy supply. Official warnings should still come from local weather agencies.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

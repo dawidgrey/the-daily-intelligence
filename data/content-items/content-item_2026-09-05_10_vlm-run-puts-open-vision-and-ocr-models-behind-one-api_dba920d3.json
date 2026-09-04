@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_10_vlm-run-puts-open-vision-and-ocr-models-behind-one-api_dba920d3",
+  "sourceKind": "product",
+  "sourceName": "VLM Run",
+  "sourceUrl": "https://www.vlmrun.com/gateway",
+  "canonicalUrl": "https://www.vlmrun.com/gateway",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "VLM Run puts open vision and OCR models behind one API",
+  "friendlyTitle": "One API can connect apps and agents to many visual AI models",
+  "summary": "VLM Run launched a visual-model gateway covering OCR, document-to-Markdown, image and video chat, detection and related tasks through an OpenAI-compatible API and MCP server. Its catalogue lists open-weight models from multiple providers and offers hosted, private-cloud and on-premises deployment options.",
+  "friendlySummary": "VLM Run offers one connection for reading documents, understanding pictures and videos, and using several open AI models. It can also connect through MCP.",
+  "whyItMatters": "A shared interface can let teams compare or replace visual models without rebuilding document and media pipelines for every provider. Buyers should independently test accuracy, latency, privacy controls and the company’s cost claims on representative files.",
+  "friendlyWhyItMatters": "Developers can change models without rewriting the whole pipeline. Test it with real documents and check privacy, speed and price before production use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

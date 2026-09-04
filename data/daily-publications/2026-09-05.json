@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-05",
+  "slug": "2026-09-05",
+  "status": "published",
+  "publicationDateUtc": "2026-09-04T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from better answers to longer, verifiable work",
+  "friendlyHeader": "AI helpers are doing longer jobs — now they must prove their work",
+  "summary": "Today’s issue follows AI beyond chat: long-running agent workflows, computer-checked mathematics, local memory, engineering tests and live weather forecasts. The practical theme is clear: capability matters, but dependable tools, evidence and operational resilience increasingly decide whether AI is useful.",
+  "friendlySummary": "Today we look at AI that can work across software, mathematics, weather, security and engineering. The useful question is no longer only whether AI can do a task, but whether we can check its work and rely on the systems around it.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-05_01_gpt-6-astra-adds-asynchronous-tools-and-mid-task-steering_817a3fd0",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_02_claude-produces-a-computer-checked-formalization-of-fermat-s-last-theore_44c50944",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-prod_56da2c8e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_04_openai-commits-1-billion-of-cyber-ai-support-to-frontline-defenders_5190d2a1",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_05_simultaneous-frontier-model-outages-expose-a-resilience-gap_840678f8",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_06_funes-gives-coding-agents-a-local-cross-tool-memory_86b47b47",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_07_a-100-step-fine-tune-improves-small-model-structured-output_45020768",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_08_eebench-tests-whether-ai-designed-circuits-survive-real-constraints_2079f49c",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_09_a-specialist-code-search-agent-cuts-the-cost-of-searching-large-reposito_c1ef252b",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_10_vlm-run-puts-open-vision-and-ocr-models-behind-one-api_dba920d3",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_11_magnitude-runs-local-models-for-the-agent-you-already-use_20b52029",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_12_miles-packages-large-scale-reinforcement-learning-for-llms-and-vlms_7c77e1d3",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-05_13_context7-supplies-current-documentation-to-coding-agents_b88e00bc",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-05.json",
+    "itemCount": 13
+  }
+}

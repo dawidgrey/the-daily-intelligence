@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_11_magnitude-runs-local-models-for-the-agent-you-already-use_20b52029",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/magnitudedev/magnitude",
+  "canonicalUrl": "https://github.com/magnitudedev/magnitude",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "Magnitude runs local models for the agent you already use",
+  "friendlyTitle": "Run local AI models inside your existing coding agent",
+  "summary": "Magnitude is an Apache-2.0 local inference server that selects models for available hardware and connects them to agents including Hermes, Codex, Claude Code and OpenCode. The actively updated repository has about 2,300 stars and supports offline operation after models are downloaded.",
+  "friendlySummary": "Magnitude connects locally running models to tools such as Hermes, Codex and Claude Code. It can work offline after installation and model download.",
+  "whyItMatters": "Use it to keep prompts and files on your own machine, test open models against cloud providers or give an existing coding agent an offline fallback. Local performance still depends heavily on RAM, GPU memory and the chosen model.",
+  "friendlyWhyItMatters": "Use it for private or offline agent work and to compare local models with cloud services. Your computer’s memory and graphics hardware set the practical limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

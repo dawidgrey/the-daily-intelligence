@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_01_gpt-6-astra-adds-asynchronous-tools-and-mid-task-steering_817a3fd0",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://developers.openai.com/api/docs/guides/latest-model",
+  "canonicalUrl": "https://developers.openai.com/api/docs/guides/latest-model",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "GPT-6 Astra adds asynchronous tools and mid-task steering",
+  "friendlyTitle": "OpenAI’s new model can use tools while other work continues",
+  "summary": "OpenAI is rolling GPT-6 Astra out first through its Trusted Access Program, with broader API and ChatGPT access planned in the following days. For developers, the important additions include asynchronous tool calls, mid-turn instructions and reasoning-effort changes that preserve prompt caching.",
+  "friendlySummary": "GPT-6 Astra can keep working while a slow tool runs, accept new instructions during a task and change how hard it thinks without rebuilding the whole conversation.",
+  "whyItMatters": "These features address ordinary agent problems: waiting on slow tools, correcting a job without restarting it and controlling cost as task difficulty changes. Teams migrating should also note that tool use requires the Responses API and several older generation parameters are unsupported.",
+  "friendlyWhyItMatters": "This can make AI helpers faster and easier to correct. Developers will need to update some API settings before moving existing products to the model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_12_miles-packages-large-scale-reinforcement-learning-for-llms-and-vlms_7c77e1d3",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/radixark/miles",
+  "canonicalUrl": "https://github.com/radixark/miles",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "Miles packages large-scale reinforcement learning for LLMs and VLMs",
+  "friendlyTitle": "A toolkit for training large AI models with reinforcement learning",
+  "summary": "Miles is an Apache-2.0 framework for post-training language and vision-language models with reinforcement learning. The roughly 2,500-star project supports several training and rollout backends, agent environments and distributed deployments, and was being actively updated this week.",
+  "friendlySummary": "Miles brings together the software needed to improve language and vision models using reinforcement learning across many computers.",
+  "whyItMatters": "Model teams can use Miles to build and scale RL post-training pipelines rather than assembling distributed trainers, rollout engines and evaluation plumbing from scratch. It is infrastructure for experienced model engineers, not a lightweight end-user fine-tuning tool.",
+  "friendlyWhyItMatters": "Experienced model teams can use it as a starting point for large training systems. It is more complex than tools made for ordinary local fine-tuning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_07_a-100-step-fine-tune-improves-small-model-structured-output_45020768",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face and Liquid AI",
+  "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "canonicalUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "A 100-step fine-tune improves small-model structured output",
+  "friendlyTitle": "A short training run made a tiny model better at valid JSON",
+  "summary": "A public recipe used roughly 500 examples and 100 GRPO training steps to improve a 350-million-parameter Liquid AI model’s IFStruct score from 22.6% to 29.7%. The run targets JSON and schema compliance, fits on a free-tier 16 GB GPU and includes a reproducible notebook.",
+  "friendlySummary": "Researchers improved a small model’s structured-output test score using about 500 examples and 100 training steps. The recipe can run on a free cloud GPU.",
+  "whyItMatters": "Reliable structure often matters more than broad knowledge when a model feeds invoices, forms or software workflows. The result shows that narrowly targeted post-training can improve a small local model cheaply, though its final pass rate also shows substantial room for validation and retries.",
+  "friendlyWhyItMatters": "Small models may become useful for focused business tasks without expensive training. Their output still needs checking because many test cases did not pass.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

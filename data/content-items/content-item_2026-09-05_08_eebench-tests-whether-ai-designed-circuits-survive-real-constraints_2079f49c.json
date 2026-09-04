@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_08_eebench-tests-whether-ai-designed-circuits-survive-real-constraints_2079f49c",
+  "sourceKind": "research",
+  "sourceName": "EEBench",
+  "sourceUrl": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "canonicalUrl": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "EEBench tests whether AI-designed circuits survive real constraints",
+  "friendlyTitle": "A benchmark checks whether AI circuits actually work",
+  "summary": "EEBench evaluates AI agents on circuit-design tasks using deterministic builds, SPICE simulations, component tolerances, availability and cost rather than judging whether a schematic merely looks plausible. Its current 13-task benchmark covers simulated analog and digital design, not physical layout or manufacturing.",
+  "friendlySummary": "EEBench asks AI to design circuits, then tests voltage, timing, part limits and cost in simulations. It does not yet test building a complete physical board.",
+  "whyItMatters": "Engineering agents need feedback tied to physical behaviour and trade-offs, not confident prose or attractive diagrams. Simulation-backed tests can help teams measure where AI assists real design work and where human review remains essential before anything reaches hardware.",
+  "friendlyWhyItMatters": "A circuit that looks correct can still fail. Clear engineering tests help people use AI safely without trusting a design just because it sounds convincing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

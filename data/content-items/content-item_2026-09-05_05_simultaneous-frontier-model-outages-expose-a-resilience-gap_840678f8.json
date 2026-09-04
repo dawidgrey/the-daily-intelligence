@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-05_05_simultaneous-frontier-model-outages-expose-a-resilience-gap_840678f8",
+  "sourceKind": "article",
+  "sourceName": "WIRED",
+  "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+  "canonicalUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-04T20:06:19Z",
+  "createdAtUtc": "2026-09-04T20:06:19Z",
+  "updatedAtUtc": "2026-09-04T20:06:19Z",
+  "title": "Simultaneous frontier-model outages expose a resilience gap",
+  "friendlyTitle": "Several major AI services went down at nearly the same time",
+  "summary": "OpenAI, Anthropic and xAI services experienced overlapping outages on Thursday. OpenAI attributed its disruption to a routing error, xAI cited an outage at its Memphis compute centre, and Anthropic said it had identified and fixed its cause without providing further detail; no shared infrastructure failure was confirmed.",
+  "friendlySummary": "ChatGPT, Claude and Grok all had service problems on Thursday. The companies reported separate causes or gave limited detail, so there is no confirmed single cause.",
+  "whyItMatters": "Businesses that place AI inside daily operations should treat model availability like any other external dependency. Provider fallbacks, queued work, clear degradation modes and the ability to resume interrupted jobs are becoming basic operational safeguards.",
+  "friendlyWhyItMatters": "Important work should not stop because one AI service is unavailable. Businesses need backups and a safe way to continue or restart interrupted tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-05"
+  }
+}

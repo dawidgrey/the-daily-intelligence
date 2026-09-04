@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-02T20:05:00Z",
+  "generatedAtUtc": "2026-09-04T20:06:19Z",
   "items": [
     {
-      "id": "content-item_2026-09-03_01_google-launches-gemini-3-8-flash-for-longer-agent-and-coding-work_18ef68f7",
+      "id": "content-item_2026-09-05_01_gpt-6-astra-adds-asynchronous-tools-and-mid-task-steering_817a3fd0",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "GPT-6 Astra adds asynchronous tools and mid-task steering",
+      "sourceUrl": "https://developers.openai.com/api/docs/guides/latest-model"
+    },
+    {
+      "id": "content-item_2026-09-05_02_claude-produces-a-computer-checked-formalization-of-fermat-s-last-theore_44c50944",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Claude produces a computer-checked formalization of Fermat’s Last Theorem",
+      "sourceUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+    },
+    {
+      "id": "content-item_2026-09-05_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-prod_56da2c8e",
       "sourceKind": "product",
       "sourceName": "Google DeepMind",
-      "title": "Google launches Gemini 3.8 Flash for longer agent and coding work",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      "title": "WeatherNext 3 brings hourly, higher-resolution forecasts into Google products",
+      "sourceUrl": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
     },
     {
-      "id": "content-item_2026-09-03_02_meta-s-muse-spark-1-3-targets-agentic-coding-workflows_3e6570f9",
+      "id": "content-item_2026-09-05_04_openai-commits-1-billion-of-cyber-ai-support-to-frontline-defenders_5190d2a1",
       "sourceKind": "product",
-      "sourceName": "Meta",
-      "title": "Meta’s Muse Spark 1.3 targets agentic coding workflows",
-      "sourceUrl": "https://developer.meta.com/ai/models/muse-spark/"
-    },
-    {
-      "id": "content-item_2026-09-03_03_world-labs-atlas-joins-generation-3d-reconstruction-and-simulation_e6922ed9",
-      "sourceKind": "product",
-      "sourceName": "World Labs",
-      "title": "World Labs’ Atlas joins generation, 3D reconstruction and simulation",
-      "sourceUrl": "https://www.worldlabs.ai/blog/atlas"
-    },
-    {
-      "id": "content-item_2026-09-03_04_anthropic-publishes-working-blueprints-for-commerce-agents_64447158",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic publishes working blueprints for commerce agents",
-      "sourceUrl": "https://claude.com/blog/claude-for-commerce-agents"
-    },
-    {
-      "id": "content-item_2026-09-03_05_openai-classifies-astra-as-its-first-critical-cyber-model_309be27b",
-      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI classifies Astra as its first ‘Critical’ cyber model",
-      "sourceUrl": "https://openai.com/index/path-to-astra"
+      "title": "OpenAI commits $1 billion of cyber-AI support to frontline defenders",
+      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
-      "id": "content-item_2026-09-03_06_google-opens-a-controlled-path-to-ai-generated-security-patches_383dbcd7",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google opens a controlled path to AI-generated security patches",
-      "sourceUrl": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
-    },
-    {
-      "id": "content-item_2026-09-03_07_an-ai-security-system-found-six-low-severity-curl-flaws-others-missed_cf155639",
+      "id": "content-item_2026-09-05_05_simultaneous-frontier-model-outages-expose-a-resilience-gap_840678f8",
       "sourceKind": "article",
-      "sourceName": "AISLE",
-      "title": "An AI security system found six low-severity curl flaws others missed",
-      "sourceUrl": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+      "sourceName": "WIRED",
+      "title": "Simultaneous frontier-model outages expose a resilience gap",
+      "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
     },
     {
-      "id": "content-item_2026-09-03_08_ibm-brings-time-series-foundation-models-into-live-data-streams_22915ca8",
+      "id": "content-item_2026-09-05_06_funes-gives-coding-agents-a-local-cross-tool-memory_86b47b47",
       "sourceKind": "product",
-      "sourceName": "IBM Research on Hugging Face",
-      "title": "IBM brings time-series foundation models into live data streams",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+      "sourceName": "Hugging Face",
+      "title": "Funes gives coding agents a local, cross-tool memory",
+      "sourceUrl": "https://huggingface.co/blog/funes"
     },
     {
-      "id": "content-item_2026-09-03_09_research-shows-reward-choice-changes-how-llm-forecasts-fail_96b2639c",
+      "id": "content-item_2026-09-05_07_a-100-step-fine-tune-improves-small-model-structured-output_45020768",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Research shows reward choice changes how LLM forecasts fail",
-      "sourceUrl": "https://arxiv.org/abs/2608.28482"
+      "sourceName": "Hugging Face and Liquid AI",
+      "title": "A 100-step fine-tune improves small-model structured output",
+      "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     },
     {
-      "id": "content-item_2026-09-03_10_us-government-backs-a-broad-fair-use-argument-for-ai-training_ac3fb099",
-      "sourceKind": "regulation",
-      "sourceName": "Reuters",
-      "title": "US government backs a broad fair-use argument for AI training",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/"
+      "id": "content-item_2026-09-05_08_eebench-tests-whether-ai-designed-circuits-survive-real-constraints_2079f49c",
+      "sourceKind": "research",
+      "sourceName": "EEBench",
+      "title": "EEBench tests whether AI-designed circuits survive real constraints",
+      "sourceUrl": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
     },
     {
-      "id": "content-item_2026-09-03_11_openclaude-a-provider-flexible-coding-agent-runtime_a11bf9f8",
+      "id": "content-item_2026-09-05_09_a-specialist-code-search-agent-cuts-the-cost-of-searching-large-reposito_c1ef252b",
+      "sourceKind": "research",
+      "sourceName": "Applied Compute",
+      "title": "A specialist code-search agent cuts the cost of searching large repositories",
+      "sourceUrl": "https://www.appliedcompute.com/case-studies/turbopuffer"
+    },
+    {
+      "id": "content-item_2026-09-05_10_vlm-run-puts-open-vision-and-ocr-models-behind-one-api_dba920d3",
+      "sourceKind": "product",
+      "sourceName": "VLM Run",
+      "title": "VLM Run puts open vision and OCR models behind one API",
+      "sourceUrl": "https://www.vlmrun.com/gateway"
+    },
+    {
+      "id": "content-item_2026-09-05_11_magnitude-runs-local-models-for-the-agent-you-already-use_20b52029",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "openclaude: a provider-flexible coding agent runtime",
-      "sourceUrl": "https://github.com/Gitlawb/openclaude"
+      "title": "Magnitude runs local models for the agent you already use",
+      "sourceUrl": "https://github.com/magnitudedev/magnitude"
     },
     {
-      "id": "content-item_2026-09-03_12_humanizer-an-agent-skill-for-revising-formulaic-ai-prose_db09b457",
+      "id": "content-item_2026-09-05_12_miles-packages-large-scale-reinforcement-learning-for-llms-and-vlms_7c77e1d3",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Humanizer: an agent skill for revising formulaic AI prose",
-      "sourceUrl": "https://github.com/blader/humanizer"
+      "title": "Miles packages large-scale reinforcement learning for LLMs and VLMs",
+      "sourceUrl": "https://github.com/radixark/miles"
     },
     {
-      "id": "content-item_2026-09-03_13_shannon-3-0-adds-agentic-static-analysis-to-ai-pentesting_1a01afe6",
+      "id": "content-item_2026-09-05_13_context7-supplies-current-documentation-to-coding-agents_b88e00bc",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Shannon 3.0 adds agentic static analysis to AI pentesting",
-      "sourceUrl": "https://github.com/KeygraphHQ/shannon"
+      "title": "Context7 supplies current documentation to coding agents",
+      "sourceUrl": "https://github.com/upstash/context7"
     }
   ]
 }
