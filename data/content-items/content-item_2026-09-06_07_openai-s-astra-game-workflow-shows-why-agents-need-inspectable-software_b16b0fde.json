@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_07_openai-s-astra-game-workflow-shows-why-agents-need-inspectable-software_b16b0fde",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Developers",
+  "sourceUrl": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+  "canonicalUrl": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "OpenAI’s Astra game workflow shows why agents need inspectable software",
+  "friendlyTitle": "AI builds better software when it can inspect and test the result",
+  "summary": "An OpenAI developer describes building three browser games with GPT-6 Astra using concrete experience goals, visual references, repeatable test scenes and an inspection interface exposing game state and performance counters. Vitest checks deterministic systems while Playwright exercises complete player journeys in the browser.",
+  "friendlySummary": "A developer gave Astra test scenes, game-state data and browser tests while building three games. The person still played the games and decided what felt right.",
+  "whyItMatters": "The reusable lesson is not limited to games: agents perform better when software exposes state, diagnostics and repeatable scenarios instead of forcing the model to infer everything from screenshots. Human review still decides whether the experience feels right, while automated checks catch mechanical failures.",
+  "friendlyWhyItMatters": "Useful agents need clear ways to see what software is doing and repeat a problem. This can improve many kinds of development, not only games.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

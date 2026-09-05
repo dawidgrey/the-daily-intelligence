@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_05_an-open-recipe-trains-a-coding-model-to-paint-with-javascript_b844bdee",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code",
+  "canonicalUrl": "https://huggingface.co/blog/train-to-paint-with-code",
+  "credit": "@kickingkeys",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "An open recipe trains a coding model to paint with JavaScript",
+  "friendlyTitle": "A coding model learned to paint watercolours with an open recipe",
+  "summary": "Hugging Face published an open reproduction of Surya Narreddi’s viral experiment in which a language model writes JavaScript that renders watercolor-style paintings. The recipe exposes the dataset, reinforcement-learning environment, training scripts, models and a reward system combining execution checks with learned aesthetic preferences.",
+  "friendlySummary": "The model writes JavaScript that draws a painting. Hugging Face published the training tools and models so others can study and repeat the experiment.",
+  "whyItMatters": "Code-generated art remains readable, editable and repeatable in ways that a single image-model output is not. The experiment also makes an important limitation visible: when reinforcement learning optimizes taste, the curated references and model judges quietly define what the system learns to value.",
+  "friendlyWhyItMatters": "People can read and edit the code behind each picture. The project also shows that the chosen examples and AI judges strongly shape what the model calls beautiful.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

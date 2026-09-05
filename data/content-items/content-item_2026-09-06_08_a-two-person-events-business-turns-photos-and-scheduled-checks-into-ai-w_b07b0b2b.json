@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_08_a-two-person-events-business-turns-photos-and-scheduled-checks-into-ai-w_b07b0b2b",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/atv-big-air-tour",
+  "canonicalUrl": "https://openai.com/index/atv-big-air-tour",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "A two-person events business turns photos and scheduled checks into AI workflows",
+  "friendlyTitle": "A small events team uses AI for listings and stock checks",
+  "summary": "OpenAI’s customer case study says ATV Big Air Tour uses ChatGPT Work to check online event listings, draft correction requests and turn merchandise photos into an inventory spreadsheet, website and reorder plan. The company reports cutting weekly listing review from about eight hours to one and inventory work from days to hours.",
+  "friendlySummary": "A two-person company uses scheduled AI checks to find wrong event details and uses merchandise photos to prepare stock records and reorder suggestions.",
+  "whyItMatters": "The most transferable idea is to start with repetitive work that has visible inputs and a human-approved output, rather than asking AI to run the whole business. The figures are customer-reported, so other small firms should measure time saved and error rates in their own process.",
+  "friendlyWhyItMatters": "Small businesses can begin with slow, repeated tasks that a person can easily review. They should measure real time savings and check mistakes for themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

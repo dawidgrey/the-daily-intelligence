@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_06_neomme-compresses-visual-document-retrieval-into-one-smaller-encoder_96a3500c",
+  "sourceKind": "research",
+  "sourceName": "H Company and Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme",
+  "canonicalUrl": "https://huggingface.co/blog/Hcompany/neomme",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "NeoMME compresses visual document retrieval into one smaller encoder",
+  "friendlyTitle": "A smaller open model searches text and document images together",
+  "summary": "H Company released Apache-2.0 NeoMME models with 260 million and 800 million parameters for multilingual text and image encoding. A single bidirectional Transformer handles both modalities; the team reports about 51 document pages per second for the smaller model on an NVIDIA L40S and a 255-fold reduction in one retrieval-index format while retaining more than 95% of baseline quality.",
+  "friendlySummary": "NeoMME uses one AI encoder for words and page images. Its makers report fast document processing and much smaller search indexes, and they released the models openly.",
+  "whyItMatters": "Smaller visual retrievers can make search over scanned forms, reports and mixed-layout documents cheaper to operate. The open checkpoints and Transformers support make the claims testable, but teams should benchmark accuracy and storage on their own languages and document types.",
+  "friendlyWhyItMatters": "This could lower the cost of searching scanned documents and complex reports. Try it with your own languages and page layouts before depending on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

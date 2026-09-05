@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_04_benchmirt-asks-what-model-benchmarks-are-actually-measuring_23bdbfdb",
+  "sourceKind": "research",
+  "sourceName": "Ai2 and Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/benchmirt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "BenchMIRT asks what model benchmarks are actually measuring",
+  "friendlyTitle": "A new tool explains what an AI test score really measures",
+  "summary": "Ai2 introduced BenchMIRT, an open method that analyzes benchmark results question by question to separate underlying capabilities. Trained on 100 open models, 16 benchmarks and more than 34,000 questions, it recovered reasoning and safety as distinct signals and showed that some benchmark totals mix the two.",
+  "friendlySummary": "BenchMIRT studies each test question instead of trusting one total score. It found that some tests mix general reasoning with safety behavior.",
+  "whyItMatters": "A single score can hide whether a model failed because of weak reasoning, strong refusal behavior or a confusing test. More diagnostic evaluations can help teams choose models and design safeguards with fewer false conclusions; Ai2 also found that carefully selected subsets could preserve much of the ranking signal.",
+  "friendlyWhyItMatters": "Teams can make better model choices when they know why a score is high or low. Smaller, carefully chosen tests may also reduce evaluation cost.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

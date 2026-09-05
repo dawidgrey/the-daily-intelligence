@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_02_openlake-tops-comparable-mlperf-checkpoint-storage-results_cc15feb4",
+  "sourceKind": "research",
+  "sourceName": "OpenLake",
+  "sourceUrl": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+  "canonicalUrl": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "OpenLake tops comparable MLPerf checkpoint storage results",
+  "friendlyTitle": "Faster storage can reduce wasted time during AI training",
+  "summary": "OpenLake reports the highest read and write bandwidth among five comparable closed-division S3 submissions in MLPerf Storage v3.0’s Llama 3.1 8B checkpoint test. Its system recorded 6.72 GiB/s writes and 11.55 GiB/s reads using one client node, although the underlying storage configurations differed.",
+  "friendlySummary": "OpenLake led a group of similar published tests for saving and restoring an AI model during training. The compared systems did not all use the same storage setup.",
+  "whyItMatters": "Training pauses while checkpoints are saved, and recovery waits while they are restored, leaving expensive accelerators idle. Standardized results help infrastructure teams compare this often overlooked bottleneck, but buyers should match network, durability and scale assumptions to their own environment.",
+  "friendlyWhyItMatters": "Slow saving leaves costly AI computers waiting. Teams can use standard tests as a starting point, then check performance with their own hardware and workloads.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

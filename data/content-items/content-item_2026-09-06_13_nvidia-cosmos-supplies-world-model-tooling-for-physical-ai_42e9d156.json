@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_13_nvidia-cosmos-supplies-world-model-tooling-for-physical-ai_42e9d156",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NVIDIA/cosmos",
+  "canonicalUrl": "https://github.com/NVIDIA/cosmos",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "NVIDIA Cosmos supplies world-model tooling for physical AI",
+  "friendlyTitle": "Tools and examples for AI that understands and acts in the physical world",
+  "summary": "NVIDIA Cosmos is an actively maintained platform of world models, datasets, evaluation code and cookbooks for robotics, autonomous vehicles and other physical-AI systems. The approximately 11,700-star repository now includes Cosmos 3 deployment and fine-tuning examples and uses NVIDIA’s OpenMDW-1.1 license.",
+  "friendlySummary": "NVIDIA Cosmos provides models, data and guides for robotics, vehicles and other systems that must reason about the real world.",
+  "whyItMatters": "Robotics teams can use the cookbooks to evaluate, deploy or fine-tune models for simulation, video reasoning and action policies instead of assembling the full stack alone. Hardware requirements are substantial, and users should review both model limitations and license terms before production use.",
+  "friendlyWhyItMatters": "Robotics teams can start from working deployment and training examples. They still need suitable hardware, safety testing and a careful licence review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

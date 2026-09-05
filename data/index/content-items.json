@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-04T20:06:19Z",
+  "generatedAtUtc": "2026-09-05T20:04:44Z",
   "items": [
     {
-      "id": "content-item_2026-09-05_01_gpt-6-astra-adds-asynchronous-tools-and-mid-task-steering_817a3fd0",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-6 Astra adds asynchronous tools and mid-task steering",
-      "sourceUrl": "https://developers.openai.com/api/docs/guides/latest-model"
-    },
-    {
-      "id": "content-item_2026-09-05_02_claude-produces-a-computer-checked-formalization-of-fermat-s-last-theore_44c50944",
+      "id": "content-item_2026-09-06_01_artificial-analysis-rebuilds-its-model-index-around-harder-less-gameable_2d1aff01",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Claude produces a computer-checked formalization of Fermat’s Last Theorem",
-      "sourceUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+      "sourceName": "Artificial Analysis",
+      "title": "Artificial Analysis rebuilds its model index around harder, less gameable work",
+      "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
     },
     {
-      "id": "content-item_2026-09-05_03_weathernext-3-brings-hourly-higher-resolution-forecasts-into-google-prod_56da2c8e",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "WeatherNext 3 brings hourly, higher-resolution forecasts into Google products",
-      "sourceUrl": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      "id": "content-item_2026-09-06_02_openlake-tops-comparable-mlperf-checkpoint-storage-results_cc15feb4",
+      "sourceKind": "research",
+      "sourceName": "OpenLake",
+      "title": "OpenLake tops comparable MLPerf checkpoint storage results",
+      "sourceUrl": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0"
     },
     {
-      "id": "content-item_2026-09-05_04_openai-commits-1-billion-of-cyber-ai-support-to-frontline-defenders_5190d2a1",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI commits $1 billion of cyber-AI support to frontline defenders",
-      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders"
+      "id": "content-item_2026-09-06_03_yandex-researchers-recast-the-kv-cache-as-a-runtime-for-concurrent-agent_09c51a48",
+      "sourceKind": "research",
+      "sourceName": "Yandex Research",
+      "title": "Yandex researchers recast the KV cache as a runtime for concurrent agents",
+      "sourceUrl": "https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime"
     },
     {
-      "id": "content-item_2026-09-05_05_simultaneous-frontier-model-outages-expose-a-resilience-gap_840678f8",
-      "sourceKind": "article",
-      "sourceName": "WIRED",
-      "title": "Simultaneous frontier-model outages expose a resilience gap",
-      "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
+      "id": "content-item_2026-09-06_04_benchmirt-asks-what-model-benchmarks-are-actually-measuring_23bdbfdb",
+      "sourceKind": "research",
+      "sourceName": "Ai2 and Hugging Face",
+      "title": "BenchMIRT asks what model benchmarks are actually measuring",
+      "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt"
     },
     {
-      "id": "content-item_2026-09-05_06_funes-gives-coding-agents-a-local-cross-tool-memory_86b47b47",
-      "sourceKind": "product",
+      "id": "content-item_2026-09-06_05_an-open-recipe-trains-a-coding-model-to-paint-with-javascript_b844bdee",
+      "sourceKind": "research",
       "sourceName": "Hugging Face",
-      "title": "Funes gives coding agents a local, cross-tool memory",
-      "sourceUrl": "https://huggingface.co/blog/funes"
+      "title": "An open recipe trains a coding model to paint with JavaScript",
+      "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code"
     },
     {
-      "id": "content-item_2026-09-05_07_a-100-step-fine-tune-improves-small-model-structured-output_45020768",
+      "id": "content-item_2026-09-06_06_neomme-compresses-visual-document-retrieval-into-one-smaller-encoder_96a3500c",
       "sourceKind": "research",
-      "sourceName": "Hugging Face and Liquid AI",
-      "title": "A 100-step fine-tune improves small-model structured output",
-      "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+      "sourceName": "H Company and Hugging Face",
+      "title": "NeoMME compresses visual document retrieval into one smaller encoder",
+      "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme"
     },
     {
-      "id": "content-item_2026-09-05_08_eebench-tests-whether-ai-designed-circuits-survive-real-constraints_2079f49c",
-      "sourceKind": "research",
-      "sourceName": "EEBench",
-      "title": "EEBench tests whether AI-designed circuits survive real constraints",
-      "sourceUrl": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
+      "id": "content-item_2026-09-06_07_openai-s-astra-game-workflow-shows-why-agents-need-inspectable-software_b16b0fde",
+      "sourceKind": "article",
+      "sourceName": "OpenAI Developers",
+      "title": "OpenAI’s Astra game workflow shows why agents need inspectable software",
+      "sourceUrl": "https://developers.openai.com/blog/how-to-build-games-with-astra"
     },
     {
-      "id": "content-item_2026-09-05_09_a-specialist-code-search-agent-cuts-the-cost-of-searching-large-reposito_c1ef252b",
-      "sourceKind": "research",
-      "sourceName": "Applied Compute",
-      "title": "A specialist code-search agent cuts the cost of searching large repositories",
-      "sourceUrl": "https://www.appliedcompute.com/case-studies/turbopuffer"
+      "id": "content-item_2026-09-06_08_a-two-person-events-business-turns-photos-and-scheduled-checks-into-ai-w_b07b0b2b",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "A two-person events business turns photos and scheduled checks into AI workflows",
+      "sourceUrl": "https://openai.com/index/atv-big-air-tour"
     },
     {
-      "id": "content-item_2026-09-05_10_vlm-run-puts-open-vision-and-ocr-models-behind-one-api_dba920d3",
-      "sourceKind": "product",
-      "sourceName": "VLM Run",
-      "title": "VLM Run puts open vision and OCR models behind one API",
-      "sourceUrl": "https://www.vlmrun.com/gateway"
+      "id": "content-item_2026-09-06_09_a-rescue-offers-a-blunt-warning-against-treating-chatbot-plans-as-expert_e2a0f618",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "A rescue offers a blunt warning against treating chatbot plans as expert advice",
+      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
     },
     {
-      "id": "content-item_2026-09-05_11_magnitude-runs-local-models-for-the-agent-you-already-use_20b52029",
+      "id": "content-item_2026-09-06_10_openai-says-ai-incident-disclosure-needs-a-clearer-standard_6088de7d",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "OpenAI says AI incident disclosure needs a clearer standard",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/"
+    },
+    {
+      "id": "content-item_2026-09-06_11_humanlayer-s-skills-package-reusable-control-loops-for-coding-agents_2a8c71da",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Magnitude runs local models for the agent you already use",
-      "sourceUrl": "https://github.com/magnitudedev/magnitude"
+      "title": "HumanLayer’s skills package reusable control loops for coding agents",
+      "sourceUrl": "https://github.com/humanlayer/skills"
     },
     {
-      "id": "content-item_2026-09-05_12_miles-packages-large-scale-reinforcement-learning-for-llms-and-vlms_7c77e1d3",
+      "id": "content-item_2026-09-06_12_rag-techniques-collects-runnable-patterns-for-better-retrieval_682fc915",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Miles packages large-scale reinforcement learning for LLMs and VLMs",
-      "sourceUrl": "https://github.com/radixark/miles"
+      "title": "RAG Techniques collects runnable patterns for better retrieval",
+      "sourceUrl": "https://github.com/NirDiamant/RAG_Techniques"
     },
     {
-      "id": "content-item_2026-09-05_13_context7-supplies-current-documentation-to-coding-agents_b88e00bc",
+      "id": "content-item_2026-09-06_13_nvidia-cosmos-supplies-world-model-tooling-for-physical-ai_42e9d156",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Context7 supplies current documentation to coding agents",
-      "sourceUrl": "https://github.com/upstash/context7"
+      "title": "NVIDIA Cosmos supplies world-model tooling for physical AI",
+      "sourceUrl": "https://github.com/NVIDIA/cosmos"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_03_yandex-researchers-recast-the-kv-cache-as-a-runtime-for-concurrent-agent_09c51a48",
+  "sourceKind": "research",
+  "sourceName": "Yandex Research",
+  "sourceUrl": "https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime",
+  "canonicalUrl": "https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "Yandex researchers recast the KV cache as a runtime for concurrent agents",
+  "friendlyTitle": "AI agents could think, listen and respond at the same time",
+  "summary": "Yandex researchers argue that an LLM’s KV cache can act as shared execution state rather than only a decoding optimization. Their Hogwild! Inference and AsyncReasoning work lets pretrained models share partial work or separate observation, private reasoning and public output without changing model weights.",
+  "friendlySummary": "Yandex researchers use a model’s temporary memory in a new way so several AI workers can share unfinished work, or one assistant can keep listening while it thinks.",
+  "whyItMatters": "Agents in voice, games and robotics need to keep observing and responding while longer reasoning continues. Moving some interactivity into the inference runtime could reduce restarts and silence, though the approach still needs careful evaluation for consistency, safety and production cost.",
+  "friendlyWhyItMatters": "This could make voice assistants and other live agents feel less slow and rigid. Developers still need to test whether the shared work stays correct and safe.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

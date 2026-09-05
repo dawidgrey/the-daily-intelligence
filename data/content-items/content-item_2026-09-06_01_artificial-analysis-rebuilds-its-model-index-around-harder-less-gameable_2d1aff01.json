@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_01_artificial-analysis-rebuilds-its-model-index-around-harder-less-gameable_2d1aff01",
+  "sourceKind": "research",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "Artificial Analysis rebuilds its model index around harder, less gameable work",
+  "friendlyTitle": "A major AI ranking now uses harder and more private tests",
+  "summary": "Artificial Analysis released Intelligence Index v4.2 with a private agentic knowledge-work evaluation, long-document reasoning across 4,592 PDF pages and twice the previous weighting on held-out tests. Claude Fable 5.1 leads the revised index, followed by GPT-6 Astra.",
+  "friendlySummary": "Artificial Analysis changed its model ranking to include realistic office projects, very long PDF tasks and more questions that model makers cannot see in advance.",
+  "whyItMatters": "Leaderboards shape buying and development decisions, but saturated or public tests can reward benchmark optimization rather than useful work. Harder private tasks and clearer cost comparisons should produce a better signal, although no single index can replace testing models on an organization’s own workflows.",
+  "friendlyWhyItMatters": "This may make model rankings harder to game. Businesses should still test models with their own documents and tasks before choosing one.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

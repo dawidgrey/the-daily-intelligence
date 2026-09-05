@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_11_humanlayer-s-skills-package-reusable-control-loops-for-coding-agents_2a8c71da",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/humanlayer/skills",
+  "canonicalUrl": "https://github.com/humanlayer/skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "HumanLayer’s skills package reusable control loops for coding agents",
+  "friendlyTitle": "Add focused, reusable workflows to a coding agent",
+  "summary": "HumanLayer’s MIT-licensed repository contains installable Claude Code skills for improving project instructions, narrowing React prop types, explaining systems and designing repeatable agentic control loops. The trending project has about 2,600 stars and provides command-line installation for individual skills.",
+  "friendlySummary": "HumanLayer offers small instruction packages for tasks such as improving project guidance, checking React types and designing repeated agent workflows.",
+  "whyItMatters": "Developers can install one focused skill at a time to add a documented workflow without copying a large agent configuration. Review every skill before use: repository-local instructions can shape tool behavior and should be treated like executable automation.",
+  "friendlyWhyItMatters": "Install only the workflow you need, and read it first. Agent instructions can affect files and commands much like other automation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

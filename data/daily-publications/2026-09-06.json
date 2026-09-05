@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-06",
+  "slug": "2026-09-06",
+  "status": "published",
+  "publicationDateUtc": "2026-09-05T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets more useful when its limits become easier to see",
+  "friendlyHeader": "Better AI needs better checks, clear limits and human judgment",
+  "summary": "Today’s issue looks past raw model scores to the systems around them: stronger benchmarks, concurrent agent runtimes, reproducible creative training, practical business workflows and clearer incident reporting. The common thread is evidence — useful AI needs tests, constraints and human judgment as much as capability.",
+  "friendlySummary": "Today we look at new ways to test AI, make agents respond faster, train creative models and use AI in real work. We also see why people should check important advice instead of trusting an AI answer by itself.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-06_01_artificial-analysis-rebuilds-its-model-index-around-harder-less-gameable_2d1aff01",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_02_openlake-tops-comparable-mlperf-checkpoint-storage-results_cc15feb4",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_03_yandex-researchers-recast-the-kv-cache-as-a-runtime-for-concurrent-agent_09c51a48",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_04_benchmirt-asks-what-model-benchmarks-are-actually-measuring_23bdbfdb",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_05_an-open-recipe-trains-a-coding-model-to-paint-with-javascript_b844bdee",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_06_neomme-compresses-visual-document-retrieval-into-one-smaller-encoder_96a3500c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_07_openai-s-astra-game-workflow-shows-why-agents-need-inspectable-software_b16b0fde",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_08_a-two-person-events-business-turns-photos-and-scheduled-checks-into-ai-w_b07b0b2b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_09_a-rescue-offers-a-blunt-warning-against-treating-chatbot-plans-as-expert_e2a0f618",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_10_openai-says-ai-incident-disclosure-needs-a-clearer-standard_6088de7d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_11_humanlayer-s-skills-package-reusable-control-loops-for-coding-agents_2a8c71da",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_12_rag-techniques-collects-runnable-patterns-for-better-retrieval_682fc915",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-06_13_nvidia-cosmos-supplies-world-model-tooling-for-physical-ai_42e9d156",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-06.json",
+    "itemCount": 13
+  }
+}

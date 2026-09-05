@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_09_a-rescue-offers-a-blunt-warning-against-treating-chatbot-plans-as-expert_e2a0f618",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "A rescue offers a blunt warning against treating chatbot plans as expert advice",
+  "friendlyTitle": "Hikers needed rescue after relying on an AI trip plan",
+  "summary": "Three hikers were rescued after a Mount Shasta trip that they had planned with Google Gemini, according to TechCrunch’s account of the sheriff’s report. Authorities said the group carried too little food and water, reached the summit late and attempted to descend in darkness, while noting that the hikers’ own decisions also mattered.",
+  "friendlySummary": "Officials said three Mount Shasta hikers brought too little food and water after planning with Gemini. They also continued very late and tried to come down in the dark.",
+  "whyItMatters": "Chatbots can organize a trip, but they cannot replace current local conditions, official guidance or experienced judgment when errors carry physical risk. For hiking, medical, financial and other high-stakes decisions, use AI to prepare questions — then verify the answers with an authoritative source.",
+  "friendlyWhyItMatters": "AI can help make a checklist, but important safety advice must come from current official or expert sources. People must still make careful decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}

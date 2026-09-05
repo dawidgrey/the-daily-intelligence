@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-06_12_rag-techniques-collects-runnable-patterns-for-better-retrieval_682fc915",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NirDiamant/RAG_Techniques",
+  "canonicalUrl": "https://github.com/NirDiamant/RAG_Techniques",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-05T20:04:44Z",
+  "createdAtUtc": "2026-09-05T20:04:44Z",
+  "updatedAtUtc": "2026-09-05T20:04:44Z",
+  "title": "RAG Techniques collects runnable patterns for better retrieval",
+  "friendlyTitle": "Learn and compare many ways to improve RAG search",
+  "summary": "RAG Techniques is a roughly 29,400-star collection of notebooks and runnable scripts covering advanced retrieval-augmented generation methods, including contextual retrieval, graph-based approaches, reranking and evaluation. It was updated this week and uses a custom non-commercial license.",
+  "friendlySummary": "This popular repository provides notebooks and scripts for several methods that help AI find better information before answering.",
+  "whyItMatters": "Teams can use the examples to compare retrieval patterns before committing to a framework or production architecture. The notebooks are educational starting points rather than drop-in production systems, and commercial users should check the repository’s license before reuse.",
+  "friendlyWhyItMatters": "Use the examples to test ideas and understand trade-offs. Production use needs more engineering, and businesses should check the non-commercial licence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-06"
+  }
+}
