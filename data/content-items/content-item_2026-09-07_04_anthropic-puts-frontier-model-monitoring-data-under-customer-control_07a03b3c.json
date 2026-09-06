@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-07_04_anthropic-puts-frontier-model-monitoring-data-under-customer-control_07a03b3c",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+  "canonicalUrl": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-06T20:06:14Z",
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "title": "Anthropic puts frontier-model monitoring data under customer control",
+  "friendlyTitle": "Companies can monitor Claude while keeping the data in their own cloud",
+  "summary": "Anthropic announced Enterprise Frontier Safeguards, an optional system that monitors patterns across AI activity while allowing customers to keep the underlying data in their own cloud accounts. Automated flags go to the customer for human review, and phased rollout is scheduled to begin later this fall.",
+  "friendlySummary": "Anthropic is preparing a system that looks for serious misuse across AI sessions. Customers can store the activity data themselves and have their own staff review warnings.",
+  "whyItMatters": "Regulated organizations often need both cross-session misuse detection and strict control over sensitive records. Customer-owned storage, encryption and review could reduce that conflict, though security teams will still need to test detection quality, false positives, access controls and cloud costs.",
+  "friendlyWhyItMatters": "This may help banks, hospitals and other regulated organizations use stronger AI without handing sensitive records to another human review team. They still need to test whether the warnings are accurate and secure.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-07"
+  }
+}

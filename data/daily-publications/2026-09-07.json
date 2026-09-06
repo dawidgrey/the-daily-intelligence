@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-07",
+  "slug": "2026-09-07",
+  "status": "published",
+  "publicationDateUtc": "2026-09-06T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from impressive outputs to supervised work",
+  "friendlyHeader": "AI is doing more work, but people still need to stay in control",
+  "summary": "Today’s issue follows AI into the systems where it now does sustained work: research labs, regulated enterprises, creative tools, legal review and robotics. The useful pattern is not autonomy by itself, but autonomy paired with monitoring, measurable results and a clear place for human judgment.",
+  "friendlySummary": "Today we look at AI for research, music, legal work, business and robots. These tools can save time and open new possibilities, but they work best when people can check what happened and make the important decisions.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-07_01_lyria-3-5-brings-longer-ai-generated-music-to-gemini-and-its-api_ae25f065",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_02_openai-says-coding-agents-now-perform-multi-day-research-tasks-under-sup_19672c48",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_03_openai-s-chief-scientist-calls-for-stronger-controls-as-ai-capability-ac_a8e8f9dc",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_04_anthropic-puts-frontier-model-monitoring-data-under-customer-control_07a03b3c",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_05_openai-s-agent-monitor-catches-policy-bypasses-deception-and-hidden-unce_87019ef3",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_06_zerothesis-turns-agent-research-into-a-shared-verifiable-competition_bb0d0f09",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_07_a-parent-s-ai-playbook-keeps-core-skills-while-making-room-for-new-tools_cd3eade1",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_08_legora-reports-faster-financial-review-while-keeping-legal-judgment-huma_be4a3c54",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_09_nscale-seeks-3-5-billion-as-ai-infrastructure-finance-accelerates_2f64692a",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_10_robot-data-startup-xdof-reportedly-approaches-a-1-2-billion-valuation_266031de",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_11_blender-mcp-gives-language-models-a-safer-path-into-3d-creation_eb85e154",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_12_open-science-packages-local-agents-notebooks-and-provenance-into-one-wor_92edae1e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-07_13_autohedge-demonstrates-a-multi-agent-pipeline-for-market-analysis_f87fcf2e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-07.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-07_11_blender-mcp-gives-language-models-a-safer-path-into-3d-creation_eb85e154",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ahujasid/blender-mcp",
+  "canonicalUrl": "https://github.com/ahujasid/blender-mcp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-06T20:06:14Z",
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "title": "Blender MCP gives language models a safer path into 3D creation",
+  "friendlyTitle": "Control Blender with an AI assistant",
+  "summary": "Blender MCP is a roughly 27,200-star community integration that lets MCP-compatible assistants inspect scenes, create and modify 3D objects and run Blender operations from natural-language requests. Recent updates added a safe mode for bounded code execution, tests and a Dockerfile.",
+  "friendlySummary": "This popular community project connects AI assistants to Blender so they can inspect a scene and help create or change 3D objects. Recent updates added safer code limits and tests.",
+  "whyItMatters": "Artists and developers can use it to prototype scenes, automate repetitive Blender work and let an assistant operate against visible scene state. Because it can execute powerful actions inside a creative tool, start with safe mode, review generated changes and keep versioned project files.",
+  "friendlyWhyItMatters": "Use it for quick scene drafts and repeated Blender tasks. Turn on the safer mode, check every important change and keep backup versions of your project.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-07"
+  }
+}

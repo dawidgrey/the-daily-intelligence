@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-05T20:04:45Z",
+  "generatedAtUtc": "2026-09-06T20:06:14Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-07",
+      "slug": "2026-09-07",
+      "status": "published",
+      "publicationDateUtc": "2026-09-06T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from impressive outputs to supervised work",
+      "friendlyHeader": "AI is doing more work, but people still need to stay in control",
+      "summary": "Today’s issue follows AI into the systems where it now does sustained work: research labs, regulated enterprises, creative tools, legal review and robotics. The useful pattern is not autonomy by itself, but autonomy paired with monitoring, measurable results and a clear place for human judgment.",
+      "friendlySummary": "Today we look at AI for research, music, legal work, business and robots. These tools can save time and open new possibilities, but they work best when people can check what happened and make the important decisions.",
+      "itemCount": 13,
+      "href": "issues/2026-09-07.html",
+      "dataUrl": "data/daily-publications/2026-09-07.json"
+    },
     {
       "id": "daily-publication_2026-09-06",
       "slug": "2026-09-06",

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-05T20:04:44Z",
+  "generatedAtUtc": "2026-09-06T20:06:14Z",
   "items": [
     {
-      "id": "content-item_2026-09-06_01_artificial-analysis-rebuilds-its-model-index-around-harder-less-gameable_2d1aff01",
+      "id": "content-item_2026-09-07_01_lyria-3-5-brings-longer-ai-generated-music-to-gemini-and-its-api_ae25f065",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Lyria 3.5 brings longer AI-generated music to Gemini and its API",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/"
+    },
+    {
+      "id": "content-item_2026-09-07_02_openai-says-coding-agents-now-perform-multi-day-research-tasks-under-sup_19672c48",
       "sourceKind": "research",
-      "sourceName": "Artificial Analysis",
-      "title": "Artificial Analysis rebuilds its model index around harder, less gameable work",
-      "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+      "sourceName": "OpenAI",
+      "title": "OpenAI says coding agents now perform multi-day research tasks under supervision",
+      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai"
     },
     {
-      "id": "content-item_2026-09-06_02_openlake-tops-comparable-mlperf-checkpoint-storage-results_cc15feb4",
-      "sourceKind": "research",
-      "sourceName": "OpenLake",
-      "title": "OpenLake tops comparable MLPerf checkpoint storage results",
-      "sourceUrl": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0"
-    },
-    {
-      "id": "content-item_2026-09-06_03_yandex-researchers-recast-the-kv-cache-as-a-runtime-for-concurrent-agent_09c51a48",
-      "sourceKind": "research",
-      "sourceName": "Yandex Research",
-      "title": "Yandex researchers recast the KV cache as a runtime for concurrent agents",
-      "sourceUrl": "https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime"
-    },
-    {
-      "id": "content-item_2026-09-06_04_benchmirt-asks-what-model-benchmarks-are-actually-measuring_23bdbfdb",
-      "sourceKind": "research",
-      "sourceName": "Ai2 and Hugging Face",
-      "title": "BenchMIRT asks what model benchmarks are actually measuring",
-      "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt"
-    },
-    {
-      "id": "content-item_2026-09-06_05_an-open-recipe-trains-a-coding-model-to-paint-with-javascript_b844bdee",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "An open recipe trains a coding model to paint with JavaScript",
-      "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code"
-    },
-    {
-      "id": "content-item_2026-09-06_06_neomme-compresses-visual-document-retrieval-into-one-smaller-encoder_96a3500c",
-      "sourceKind": "research",
-      "sourceName": "H Company and Hugging Face",
-      "title": "NeoMME compresses visual document retrieval into one smaller encoder",
-      "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme"
-    },
-    {
-      "id": "content-item_2026-09-06_07_openai-s-astra-game-workflow-shows-why-agents-need-inspectable-software_b16b0fde",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Developers",
-      "title": "OpenAI’s Astra game workflow shows why agents need inspectable software",
-      "sourceUrl": "https://developers.openai.com/blog/how-to-build-games-with-astra"
-    },
-    {
-      "id": "content-item_2026-09-06_08_a-two-person-events-business-turns-photos-and-scheduled-checks-into-ai-w_b07b0b2b",
+      "id": "content-item_2026-09-07_03_openai-s-chief-scientist-calls-for-stronger-controls-as-ai-capability-ac_a8e8f9dc",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "A two-person events business turns photos and scheduled checks into AI workflows",
-      "sourceUrl": "https://openai.com/index/atv-big-air-tour"
+      "title": "OpenAI’s chief scientist calls for stronger controls as AI capability accelerates",
+      "sourceUrl": "https://openai.com/index/an-alien-mind"
     },
     {
-      "id": "content-item_2026-09-06_09_a-rescue-offers-a-blunt-warning-against-treating-chatbot-plans-as-expert_e2a0f618",
+      "id": "content-item_2026-09-07_04_anthropic-puts-frontier-model-monitoring-data-under-customer-control_07a03b3c",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic puts frontier-model monitoring data under customer control",
+      "sourceUrl": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+    },
+    {
+      "id": "content-item_2026-09-07_05_openai-s-agent-monitor-catches-policy-bypasses-deception-and-hidden-unce_87019ef3",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI’s agent monitor catches policy bypasses, deception and hidden uncertainty",
+      "sourceUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/"
+    },
+    {
+      "id": "content-item_2026-09-07_06_zerothesis-turns-agent-research-into-a-shared-verifiable-competition_bb0d0f09",
+      "sourceKind": "product",
+      "sourceName": "ZeroThesis",
+      "title": "ZeroThesis turns agent research into a shared, verifiable competition",
+      "sourceUrl": "https://zerothesis.com"
+    },
+    {
+      "id": "content-item_2026-09-07_07_a-parent-s-ai-playbook-keeps-core-skills-while-making-room-for-new-tools_cd3eade1",
+      "sourceKind": "article",
+      "sourceName": "The Guardian",
+      "title": "A parent’s AI playbook keeps core skills while making room for new tools",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
+    },
+    {
+      "id": "content-item_2026-09-07_08_legora-reports-faster-financial-review-while-keeping-legal-judgment-huma_be4a3c54",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and Legora",
+      "title": "Legora reports faster financial review while keeping legal judgment human",
+      "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "id": "content-item_2026-09-07_09_nscale-seeks-3-5-billion-as-ai-infrastructure-finance-accelerates_2f64692a",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "A rescue offers a blunt warning against treating chatbot plans as expert advice",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+      "title": "Nscale seeks $3.5 billion as AI infrastructure finance accelerates",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
     },
     {
-      "id": "content-item_2026-09-06_10_openai-says-ai-incident-disclosure-needs-a-clearer-standard_6088de7d",
+      "id": "content-item_2026-09-07_10_robot-data-startup-xdof-reportedly-approaches-a-1-2-billion-valuation_266031de",
       "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "OpenAI says AI incident disclosure needs a clearer standard",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/"
+      "sourceName": "TechCrunch",
+      "title": "Robot-data startup XDOF reportedly approaches a $1.2 billion valuation",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
     },
     {
-      "id": "content-item_2026-09-06_11_humanlayer-s-skills-package-reusable-control-loops-for-coding-agents_2a8c71da",
+      "id": "content-item_2026-09-07_11_blender-mcp-gives-language-models-a-safer-path-into-3d-creation_eb85e154",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "HumanLayer’s skills package reusable control loops for coding agents",
-      "sourceUrl": "https://github.com/humanlayer/skills"
+      "title": "Blender MCP gives language models a safer path into 3D creation",
+      "sourceUrl": "https://github.com/ahujasid/blender-mcp"
     },
     {
-      "id": "content-item_2026-09-06_12_rag-techniques-collects-runnable-patterns-for-better-retrieval_682fc915",
+      "id": "content-item_2026-09-07_12_open-science-packages-local-agents-notebooks-and-provenance-into-one-wor_92edae1e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "RAG Techniques collects runnable patterns for better retrieval",
-      "sourceUrl": "https://github.com/NirDiamant/RAG_Techniques"
+      "title": "Open Science packages local agents, notebooks and provenance into one workbench",
+      "sourceUrl": "https://github.com/aipoch/open-science"
     },
     {
-      "id": "content-item_2026-09-06_13_nvidia-cosmos-supplies-world-model-tooling-for-physical-ai_42e9d156",
+      "id": "content-item_2026-09-07_13_autohedge-demonstrates-a-multi-agent-pipeline-for-market-analysis_f87fcf2e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "NVIDIA Cosmos supplies world-model tooling for physical AI",
-      "sourceUrl": "https://github.com/NVIDIA/cosmos"
+      "title": "AutoHedge demonstrates a multi-agent pipeline for market analysis",
+      "sourceUrl": "https://github.com/The-Swarm-Corporation/AutoHedge"
     }
   ]
 }

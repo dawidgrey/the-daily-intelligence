@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-07_10_robot-data-startup-xdof-reportedly-approaches-a-1-2-billion-valuation_266031de",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-06T20:06:14Z",
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "title": "Robot-data startup XDOF reportedly approaches a $1.2 billion valuation",
+  "friendlyTitle": "Investors are placing a high value on real-world training data for robots",
+  "summary": "TechCrunch reports that XDOF is in late-stage talks for a Series B led by 8VC at a valuation of about $1.2 billion, less than three months after emerging from stealth. The startup collects real-world teleoperation data used to train general-purpose robots.",
+  "friendlySummary": "XDOF collects examples of people remotely controlling robots so AI systems can learn physical tasks. It is reportedly raising money at a value of about $1.2 billion.",
+  "whyItMatters": "Robotics progress depends not only on models and hardware but also on diverse demonstrations of physical tasks. The reported valuation suggests investors see that data layer as strategic, while prospective customers should examine data quality, consent, coverage and transfer to their own environments.",
+  "friendlyWhyItMatters": "Robots need good examples from the real world, not only software models. Companies should check where the data came from, what tasks it covers and whether it works in their own setting.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-07"
+  }
+}

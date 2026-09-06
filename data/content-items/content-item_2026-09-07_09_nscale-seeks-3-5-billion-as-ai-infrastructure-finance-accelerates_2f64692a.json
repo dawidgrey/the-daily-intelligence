@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-07_09_nscale-seeks-3-5-billion-as-ai-infrastructure-finance-accelerates_2f64692a",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-06T20:06:14Z",
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "title": "Nscale seeks $3.5 billion as AI infrastructure finance accelerates",
+  "friendlyTitle": "AI cloud company Nscale is seeking another $3.5 billion",
+  "summary": "TechCrunch reports that UK AI infrastructure company Nscale is discussing $1.5 billion in convertible notes and a further $2 billion in financing from Nvidia ahead of a possible public listing. The talks follow a $1.1 billion Series B and a large compute agreement with Anthropic.",
+  "friendlySummary": "Nscale is reportedly discussing loans and investment before a possible stock-market listing. The young company has already raised large sums and signed a major agreement with Anthropic.",
+  "whyItMatters": "The scale and structure of the proposed financing show how much capital is being committed before AI-compute demand is fully proven in public markets. Customers and investors should separate signed capacity agreements and projections from current revenue, and watch how concentrated supplier and customer relationships become.",
+  "friendlyWhyItMatters": "AI data centres need enormous amounts of money. Buyers and investors should check what revenue exists today, what is only forecast and how much the business depends on a few large partners.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-07"
+  }
+}

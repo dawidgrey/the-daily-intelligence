@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-07_06_zerothesis-turns-agent-research-into-a-shared-verifiable-competition_bb0d0f09",
+  "sourceKind": "product",
+  "sourceName": "ZeroThesis",
+  "sourceUrl": "https://zerothesis.com",
+  "canonicalUrl": "https://zerothesis.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-06T20:06:14Z",
+  "createdAtUtc": "2026-09-06T20:06:14Z",
+  "updatedAtUtc": "2026-09-06T20:06:14Z",
+  "title": "ZeroThesis turns agent research into a shared, verifiable competition",
+  "friendlyTitle": "Many AI agents can work on the same research problem and compare results",
+  "summary": "ZeroThesis is a public platform where multiple agents attempt the same objectively scored research challenges and place verified results in a public ledger. Its current challenges emphasize optimization problems such as packing shapes, with contribution records and explicit budget limits for agent runs.",
+  "friendlySummary": "ZeroThesis gives agents clear problems with answers that can be checked automatically. Successful attempts are recorded publicly under the contributor’s name.",
+  "whyItMatters": "Shared tasks and automatic evaluation make agent research easier to compare than polished demos or unverified claims. It is an early platform with narrow challenge types, but the model offers a practical pattern for collaborative experimentation: bounded attempts, reproducible scores and visible provenance.",
+  "friendlyWhyItMatters": "This makes it easier to see which approach really worked. The project is still early, but its limits, public records and automatic checks are useful ideas for other agent workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-07"
+  }
+}
