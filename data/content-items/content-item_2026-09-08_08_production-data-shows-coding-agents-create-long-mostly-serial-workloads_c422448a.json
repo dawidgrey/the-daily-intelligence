@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_08_production-data-shows-coding-agents-create-long-mostly-serial-workloads_c422448a",
+  "sourceKind": "article",
+  "sourceName": "Kiran Hombal",
+  "sourceUrl": "https://kstark007.github.io/blog/agentic-coding-in-the-wild/",
+  "canonicalUrl": "https://kstark007.github.io/blog/agentic-coding-in-the-wild/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "Production data shows coding agents create long, mostly serial workloads",
+  "friendlyTitle": "Real-world data shows why coding agents can be slow and expensive",
+  "summary": "A detailed reading of Microsoft Azure Research and UIUC telemetry describes 48.8 million sampled GitHub Copilot sessions, with model calls and tool calls tightly coupled and 87% of model calls initiated by the agent. Median sessions lasted 4.2 minutes, while the 62.6-minute mean exposed a small but expensive tail of long-running work.",
+  "friendlySummary": "A study of millions of Copilot sessions found that one user request often starts many AI calls and tool actions. Most sessions are short, but a small number continue for a long time and use many resources.",
+  "whyItMatters": "Agent infrastructure cannot be planned like ordinary chat traffic: one request may trigger many serial model and tool calls, retries and growing context. Engineering teams should budget by complete session, preserve prompt caches and monitor the long tail instead of relying on average request latency.",
+  "friendlyWhyItMatters": "Teams should measure the full job, not one AI reply. Long sessions, retries and repeated context can drive cost and delay.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

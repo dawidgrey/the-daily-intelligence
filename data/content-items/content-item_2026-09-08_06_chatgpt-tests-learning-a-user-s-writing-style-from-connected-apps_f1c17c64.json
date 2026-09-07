@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_06_chatgpt-tests-learning-a-user-s-writing-style-from-connected-apps_f1c17c64",
+  "sourceKind": "product",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+  "credit": "@GaelBreton",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "ChatGPT tests learning a user’s writing style from connected apps",
+  "friendlyTitle": "ChatGPT is testing a way to learn how you write from your apps",
+  "summary": "OpenAI confirmed it is testing a Writing Style feature with a small group of users. The experiment can reference examples from connected Slack, Google Drive, Notion and Gmail accounts to draft in a user’s voice, rather than requiring writing samples to be pasted into each chat.",
+  "friendlySummary": "A small test group can let ChatGPT look at writing in services such as Gmail, Slack, Notion and Google Drive. It then uses those examples when drafting new text.",
+  "whyItMatters": "Persistent style can reduce repeated prompting, but it also expands the personal and workplace material an assistant may inspect. Before connecting accounts, users and administrators should review scopes, retention, confidential-data rules and whether different contexts—email, chat and formal documents—should stay separate.",
+  "friendlyWhyItMatters": "This could save time, but it gives the assistant access to more personal or work information. Check what it can read, how the data is kept and whether your workplace allows it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

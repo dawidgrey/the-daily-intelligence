@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-06T20:06:14Z",
+  "generatedAtUtc": "2026-09-07T20:06:20Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-08",
+      "slug": "2026-09-08",
+      "status": "published",
+      "publicationDateUtc": "2026-09-07T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI gets measurable: proofs, workflows, payments and the hidden cost of oversight",
+      "friendlyHeader": "Better AI needs results we can check",
+      "summary": "Today’s issue looks past model-launch noise to evidence you can use: a computer-checked mathematical proof, harder business benchmarks, a real agent purchase and production-scale coding-agent data. The common lesson is that useful AI needs verifiable outcomes—and honest accounting for the human work around it.",
+      "friendlySummary": "Today we look at AI that proves maths, completes business tasks, buys a real product and helps with coding. We also look at the time people spend checking AI, because a fast answer is only useful when the finished work is correct.",
+      "itemCount": 13,
+      "href": "issues/2026-09-08.html",
+      "dataUrl": "data/daily-publications/2026-09-08.json"
+    },
     {
       "id": "daily-publication_2026-09-07",
       "slug": "2026-09-07",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_12_ai-engineering-hub-collects-working-examples-for-agents-rag-and-model-wo_b20adaa5",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/patchy631/ai-engineering-hub",
+  "canonicalUrl": "https://github.com/patchy631/ai-engineering-hub",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "AI Engineering Hub collects working examples for agents, RAG and model workflows",
+  "friendlyTitle": "Try practical examples for AI agents, RAG and model apps",
+  "summary": "AI Engineering Hub is an MIT-licensed collection of notebooks and example projects covering LLM applications, retrieval-augmented generation, agents, fine-tuning and related production patterns. The repository has about 37,400 stars and was one of the strongest-rising AI repositories in the day’s collected trending data.",
+  "friendlySummary": "This large open-source collection has tutorials and notebooks for common AI engineering jobs. It includes agents, search over documents, fine-tuning and complete app examples.",
+  "whyItMatters": "Developers can use the examples as small starting points for experiments instead of assembling every integration from scratch. Pin dependencies, inspect external services and credentials, and convert any useful notebook into tested application code before relying on it in production.",
+  "friendlyWhyItMatters": "Use a small example to learn or start a test project. Check the packages and services it uses, then add proper tests before using the code for important work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

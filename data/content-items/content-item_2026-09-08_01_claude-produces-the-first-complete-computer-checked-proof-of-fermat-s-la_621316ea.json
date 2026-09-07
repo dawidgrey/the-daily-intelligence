@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_01_claude-produces-the-first-complete-computer-checked-proof-of-fermat-s-la_621316ea",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/formalizing-fermats-last-theorem",
+  "canonicalUrl": "https://www.anthropic.com/news/formalizing-fermats-last-theorem",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "Claude produces the first complete computer-checked proof of Fermat’s Last Theorem",
+  "friendlyTitle": "Claude turned a famous maths proof into code a computer can check",
+  "summary": "Anthropic says dozens of Claude agents spent 11 days producing an end-to-end Lean formalization of Fermat’s Last Theorem, comprising about 13 million lines and 30,300 proved theorems. The work formalizes an existing proof rather than discovering new mathematics, and Anthropic has published the resulting proof repository for inspection.",
+  "friendlySummary": "Anthropic says many Claude agents worked for 11 days to write a complete version of the proof in Lean. Lean checks every logical step, and the code has been shared for others to inspect.",
+  "whyItMatters": "Formal verification could help researchers check complex work at a scale that ordinary peer review cannot match. The workflow is also instructive beyond mathematics: the successful attempt used a dependency graph, shared state and machine-checkable completion criteria rather than relying on agents to coordinate through conversation alone.",
+  "friendlyWhyItMatters": "Computer checking can make complicated research easier to trust. The project also shows that AI teams work better when tasks, dependencies and tests are clearly recorded.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

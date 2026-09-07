@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-08",
+  "slug": "2026-09-08",
+  "status": "published",
+  "publicationDateUtc": "2026-09-07T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets measurable: proofs, workflows, payments and the hidden cost of oversight",
+  "friendlyHeader": "Better AI needs results we can check",
+  "summary": "Today’s issue looks past model-launch noise to evidence you can use: a computer-checked mathematical proof, harder business benchmarks, a real agent purchase and production-scale coding-agent data. The common lesson is that useful AI needs verifiable outcomes—and honest accounting for the human work around it.",
+  "friendlySummary": "Today we look at AI that proves maths, completes business tasks, buys a real product and helps with coding. We also look at the time people spend checking AI, because a fast answer is only useful when the finished work is correct.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-08_01_claude-produces-the-first-complete-computer-checked-proof-of-fermat-s-la_621316ea",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_02_a-harder-ai-index-tests-agents-on-657-guarded-business-workflows_c38fd485",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_03_an-ai-agent-buys-a-physical-shirt-through-an-http-payment-flow_51cc27a1",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_04_ai-designed-lung-drug-shifts-six-biological-age-markers-in-a-small-trial_8f8168f8",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_05_berkeley-law-bans-most-ai-assistance-in-assessed-work-by-default_16ab7903",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_06_chatgpt-tests-learning-a-user-s-writing-style-from-connected-apps_f1c17c64",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_07_rapid-model-releases-create-model-fatigue-for-ai-buyers_bb1be035",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_08_production-data-shows-coding-agents-create-long-mostly-serial-workloads_c422448a",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_09_botsitting-puts-the-hidden-labour-of-checking-ai-on-the-balance-sheet_cd4d6f87",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_10_revise-makes-every-ai-writing-edit-visible-and-optional_b40757ce",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_11_openai-s-skills-catalog-trends-again-despite-its-move-to-plugins_4aff7db9",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_12_ai-engineering-hub-collects-working-examples-for-agents-rag-and-model-wo_b20adaa5",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-08_13_pytorch-remains-the-most-popular-ai-framework-in-today-s-trending-set_21508532",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-08.json",
+    "itemCount": 13
+  }
+}

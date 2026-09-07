@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_07_rapid-model-releases-create-model-fatigue-for-ai-buyers_bb1be035",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "Rapid model releases create ‘model fatigue’ for AI buyers",
+  "friendlyTitle": "Too many model updates are making AI choices harder",
+  "summary": "CNBC examines a week of closely spaced model releases from Anthropic, Meta, Google and OpenAI, alongside another major open-model launch. Developers and executives describe growing effort spent comparing capabilities, prices and risks as vendors shorten release cycles.",
+  "friendlySummary": "Several large AI companies released models in the same week. People using them now spend more time comparing quality, price and safety.",
+  "whyItMatters": "Constant switching can consume the gains a new model promises. A practical response is to maintain a small task-specific evaluation set, define a threshold for meaningful improvement and change production models only when measured quality, cost or risk justifies the migration.",
+  "friendlyWhyItMatters": "You do not need to change models every time one launches. Keep a few real tests and switch only when a new model gives a useful improvement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

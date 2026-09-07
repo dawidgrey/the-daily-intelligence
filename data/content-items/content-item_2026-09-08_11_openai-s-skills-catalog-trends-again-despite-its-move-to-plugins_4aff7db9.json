@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_11_openai-s-skills-catalog-trends-again-despite-its-move-to-plugins_4aff7db9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/openai/skills",
+  "canonicalUrl": "https://github.com/openai/skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "OpenAI’s skills catalog trends again despite its move to plugins",
+  "friendlyTitle": "Study reusable Codex skills, but use the newer plugin system",
+  "summary": "OpenAI’s roughly 26,000-star repository packages reusable instructions, scripts and resources for Codex, and appeared among the day’s fastest-rising AI-related repositories. The repository is now explicitly deprecated in favour of OpenAI’s Plugins repository, so it is better treated as a reference than a current distribution channel.",
+  "friendlySummary": "This popular OpenAI repository shows how instructions and helper files can be packaged for an agent. OpenAI has now retired the catalog and points new users to plugins.",
+  "whyItMatters": "Agent builders can study how task procedures are packaged into discoverable skill folders and reuse the general design ideas. For new Codex work, follow the linked plugin guidance rather than building a dependency on this retired catalog, and check each skill’s individual licence.",
+  "friendlyWhyItMatters": "Use it to learn skill design patterns. Start new Codex projects with the current plugin guide, and check the licence for any skill you copy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}

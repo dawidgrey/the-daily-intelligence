@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-08_02_a-harder-ai-index-tests-agents-on-657-guarded-business-workflows_c38fd485",
+  "sourceKind": "research",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-07T20:06:20Z",
+  "createdAtUtc": "2026-09-07T20:06:20Z",
+  "updatedAtUtc": "2026-09-07T20:06:20Z",
+  "title": "A harder AI index tests agents on 657 guarded business workflows",
+  "friendlyTitle": "New tests show AI agents still struggle to finish whole business jobs safely",
+  "summary": "Artificial Analysis updated its Intelligence Index with Terminal-Bench v4 and AutomationBench-AA, a held-out set of 657 finance, HR, marketing, operations, sales and support tasks. Leading models complete many objectives, but the best reported full-workflow completion rate without a guardrail violation is only 41.6%.",
+  "friendlySummary": "The updated index gives models 657 business tasks and checks both the work and the rules. The strongest model finished every part safely in fewer than half of the workflows.",
+  "whyItMatters": "The gap between partial progress and a fully correct, policy-compliant workflow is the number buyers should notice. Teams comparing models should test complete outcomes, guardrail failures and cost on their own tasks—not choose from one headline score.",
+  "friendlyWhyItMatters": "A model can look good while only finishing part of a job. Businesses should test full results, mistakes, rule-breaking and cost before choosing a model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-08"
+  }
+}
