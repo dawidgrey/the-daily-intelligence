@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-09_02_openai-publishes-an-ai-generated-lean-checked-answer-to-the-navier-stoke_fbb79928",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/navier-stokes-solution",
+  "canonicalUrl": "https://openai.com/index/navier-stokes-solution",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-08T20:06:56Z",
+  "createdAtUtc": "2026-09-08T20:06:56Z",
+  "updatedAtUtc": "2026-09-08T20:06:56Z",
+  "title": "OpenAI publishes an AI-generated, Lean-checked answer to the Navier–Stokes problem",
+  "friendlyTitle": "OpenAI shared a computer-checked attempt at a famous unsolved maths problem",
+  "summary": "OpenAI says an internal model and roughly 10,000 coordinating agents produced a proposed resolution of the Navier–Stokes existence and smoothness Millennium Prize problem, followed by a Lean formalization using GPT-6 Astra. The paper and proof code are public, but the extraordinary mathematical claim still requires independent expert scrutiny and formal recognition is not automatic.",
+  "friendlySummary": "OpenAI says thousands of AI agents created a proof and converted it into Lean code that checks each logical step. The files are public, but independent mathematicians still need to examine the claim carefully.",
+  "whyItMatters": "A machine-checkable artifact gives researchers more to inspect than a confident model answer, while also showing the scale now being applied to scientific problems: OpenAI reports about 130 billion output tokens for the Navier–Stokes effort. The practical standard should remain reproducibility and independent review, not the size of the agent swarm or the announcement.",
+  "friendlyWhyItMatters": "AI research is easier to trust when experts can inspect the evidence and computers can check the logic. A major announcement is not the same as independent confirmation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-09"
+  }
+}

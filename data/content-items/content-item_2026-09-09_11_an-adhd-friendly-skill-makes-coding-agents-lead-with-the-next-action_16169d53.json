@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-09_11_an-adhd-friendly-skill-makes-coding-agents-lead-with-the-next-action_16169d53",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ayghri/i-have-adhd",
+  "canonicalUrl": "https://github.com/ayghri/i-have-adhd",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-08T20:06:56Z",
+  "createdAtUtc": "2026-09-08T20:06:56Z",
+  "updatedAtUtc": "2026-09-08T20:06:56Z",
+  "title": "An ADHD-friendly skill makes coding agents lead with the next action",
+  "friendlyTitle": "Make a coding agent give shorter, clearer next steps",
+  "summary": "The MIT-licensed i-have-adhd project packages ten communication rules for coding agents, including leading with the next action, numbering steps, suppressing tangents and making progress visible. It supports several coding-agent environments, has roughly 29,700 stars and led the day’s collected AI-related GitHub trend momentum.",
+  "friendlySummary": "This popular skill tells coding agents to put the next action first, number steps and avoid long side discussions. It works with several agent tools and can be changed to fit your needs.",
+  "whyItMatters": "People who find agent output overwhelming can install or adapt the skill to produce shorter, action-first responses. Review the rules before enabling an always-on version: aggressive brevity can hide reasoning or caveats in work where safety and diagnosis matter.",
+  "friendlyWhyItMatters": "Try it if long AI answers make work harder to follow. Keep fuller explanations for risky or complicated tasks where missing a warning could matter.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-09"
+  }
+}

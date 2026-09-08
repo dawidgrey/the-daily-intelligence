@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-09_12_minicpm-trends-with-compact-models-designed-for-local-and-on-device-use_9df02aca",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/OpenBMB/MiniCPM",
+  "canonicalUrl": "https://github.com/OpenBMB/MiniCPM",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-08T20:06:56Z",
+  "createdAtUtc": "2026-09-08T20:06:56Z",
+  "updatedAtUtc": "2026-09-08T20:06:56Z",
+  "title": "MiniCPM trends with compact models designed for local and on-device use",
+  "friendlyTitle": "Try smaller AI models that can run with fewer computing resources",
+  "summary": "OpenBMB’s MiniCPM repository collects compact language-model releases, inference examples, fine-tuning and quantization tools, with recent work around the MiniCPM5 family and speculative decoding. The project has roughly 10,600 stars and ranked second in the day’s collected AI-related GitHub trend momentum.",
+  "friendlySummary": "MiniCPM provides compact language models plus tools for running, changing and shrinking them. The project is aimed at strong results without always needing the largest cloud model.",
+  "whyItMatters": "Developers can evaluate smaller models where local execution, lower hardware requirements or controlled data handling matter more than maximum frontier capability. Check each model’s licence and benchmark it on your own language, latency and quality needs before choosing it for a device or production service.",
+  "friendlyWhyItMatters": "Test it when you want local AI, lower costs or more control over data. Check the licence and compare speed and answer quality on your real tasks first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-09"
+  }
+}

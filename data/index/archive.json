@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-07T20:06:20Z",
+  "generatedAtUtc": "2026-09-08T20:06:57Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-09-09",
+      "slug": "2026-09-09",
+      "status": "published",
+      "publicationDateUtc": "2026-09-08T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move into everyday work while proof, privacy and control become the real tests",
+      "friendlyHeader": "AI can do more, but we still need proof and control",
+      "summary": "Today’s issue follows AI from personal errands and enterprise deployment to mathematics, genomics and creative work. The useful thread is not simply greater capability: it is whether actions can be checked, access can be controlled, and results can be measured rather than inferred from activity.",
+      "friendlySummary": "Today we look at AI that can handle personal tasks, help companies, study DNA, make images and work on difficult maths. The main lesson is simple: useful AI needs clear permissions, results we can check and honest measures of whether it helped.",
+      "itemCount": 13,
+      "href": "issues/2026-09-09.html",
+      "dataUrl": "data/daily-publications/2026-09-09.json"
+    },
     {
       "id": "daily-publication_2026-09-08",
       "slug": "2026-09-08",
