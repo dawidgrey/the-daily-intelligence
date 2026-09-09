@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-10_06_hyper-tau-bench-finds-agents-still-struggle-to-build-reliable-agents-alo_2dfbcc23",
+  "sourceKind": "research",
+  "sourceName": "Sierra",
+  "sourceUrl": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents",
+  "canonicalUrl": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-09T23:34:14Z",
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "title": "Hyper-tau-bench finds agents still struggle to build reliable agents alone",
+  "friendlyTitle": "A new test shows AI is much better at building agents with an expert beside it",
+  "summary": "Sierra has open-sourced hyper-tau-bench, an evaluation in which a developer agent must recover requirements from messy business records, build a customer-service agent and pass unseen production-style tests within a cost budget. Its best fully automated configuration passed 23.9% of held-out tasks, compared with 82.2% for an experienced engineer working with a frontier model.",
+  "friendlySummary": "AI systems had to study messy company information and build a working support agent. The best AI-only setup passed about 24% of hidden tasks, while an expert using AI reached about 82%.",
+  "whyItMatters": "The result challenges the idea that agent-building can already be delegated end to end: automated builders skipped evidence, asked too few questions and explored too little of the design space. For production work, experienced human context, acceptance tests and cost limits remain part of the system rather than optional supervision.",
+  "friendlyWhyItMatters": "Do not hand a full business process to an AI builder and assume it understood everything. Give it expert context, clear tests and a firm cost limit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-10"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-08T20:06:56Z",
+  "generatedAtUtc": "2026-09-09T23:34:14Z",
   "items": [
     {
-      "id": "content-item_2026-09-09_01_meta-launches-muse-to-act-across-email-travel-shopping-and-the-web_1fc754bb",
-      "sourceKind": "product",
-      "sourceName": "Meta",
-      "title": "Meta launches Muse to act across email, travel, shopping and the web",
-      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
-    },
-    {
-      "id": "content-item_2026-09-09_02_openai-publishes-an-ai-generated-lean-checked-answer-to-the-navier-stoke_fbb79928",
+      "id": "content-item_2026-09-10_01_anthropic-details-four-cases-where-cyber-evaluation-agents-reached-real_8e96172c",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI publishes an AI-generated, Lean-checked answer to the Navier–Stokes problem",
-      "sourceUrl": "https://openai.com/index/navier-stokes-solution"
+      "sourceName": "Anthropic",
+      "title": "Anthropic details four cases where cyber-evaluation agents reached real systems",
+      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
-      "id": "content-item_2026-09-09_03_alphagenome-atlas-maps-predicted-effects-for-nine-billion-possible-dna-c_80d284f5",
-      "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "AlphaGenome Atlas maps predicted effects for nine billion possible DNA changes",
-      "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-    },
-    {
-      "id": "content-item_2026-09-09_04_chatgpt-images-2-5-adds-faster-generation-targeted-edits-and-an-in-app-s_305f03a4",
+      "id": "content-item_2026-09-10_02_gpt-6-astra-targets-computer-use-and-complex-professional-workflows_587a7034",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "ChatGPT Images 2.5 adds faster generation, targeted edits and an in-app sketch tool",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5"
+      "title": "GPT-6 Astra targets computer use and complex professional workflows",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work"
     },
     {
-      "id": "content-item_2026-09-09_05_1password-reports-shorter-pull-request-cycles-after-embedding-codex-acro_9816f5be",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and 1Password",
-      "title": "1Password reports shorter pull-request cycles after embedding Codex across development",
-      "sourceUrl": "https://openai.com/index/1password"
-    },
-    {
-      "id": "content-item_2026-09-09_06_openai-offers-5-million-for-independent-research-on-ai-and-teen-developm_99c22bc8",
+      "id": "content-item_2026-09-10_03_codex-runs-routine-quantum-chip-measurements-while-researchers-retain-ov_167bce5d",
       "sourceKind": "research",
+      "sourceName": "OpenAI and MIT EQuS",
+      "title": "Codex runs routine quantum-chip measurements while researchers retain oversight",
+      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
+    {
+      "id": "content-item_2026-09-10_04_openai-expands-ai-training-and-tool-access-for-journalism-schools-and-ne_671a9fed",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI offers $5 million for independent research on AI and teen development",
-      "sourceUrl": "https://openai.com/index/teen-development-research-grants"
+      "title": "OpenAI expands AI training and tool access for journalism schools and newsrooms",
+      "sourceUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
     },
     {
-      "id": "content-item_2026-09-09_07_accenture-and-google-cloud-form-a-1-000-engineer-unit-for-gemini-deploym_1fa1df4c",
+      "id": "content-item_2026-09-10_05_ibm-releases-an-open-385m-parameter-model-for-zero-shot-time-series-fore_e8608e40",
+      "sourceKind": "product",
+      "sourceName": "IBM Research on Hugging Face",
+      "title": "IBM releases an open 385M-parameter model for zero-shot time-series forecasting",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+    },
+    {
+      "id": "content-item_2026-09-10_06_hyper-tau-bench-finds-agents-still-struggle-to-build-reliable-agents-alo_2dfbcc23",
+      "sourceKind": "research",
+      "sourceName": "Sierra",
+      "title": "Hyper-tau-bench finds agents still struggle to build reliable agents alone",
+      "sourceUrl": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents"
+    },
+    {
+      "id": "content-item_2026-09-10_07_procedural-graphs-let-agents-revise-the-order-and-conditions-of-their-ow_9ced8937",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Procedural Graphs let agents revise the order and conditions of their own workflows",
+      "sourceUrl": "https://arxiv.org/abs/2609.09153"
+    },
+    {
+      "id": "content-item_2026-09-10_08_medical-benchmark-shows-strong-model-scores-and-why-they-are-not-clinica_174384e9",
+      "sourceKind": "research",
+      "sourceName": "Natomy",
+      "title": "Medical benchmark shows strong model scores—and why they are not clinical proof",
+      "sourceUrl": "https://www.natomy.com/med-evals"
+    },
+    {
+      "id": "content-item_2026-09-10_09_researchers-test-whether-speech-patterns-can-support-earlier-schizophren_f8da8f75",
       "sourceKind": "article",
-      "sourceName": "Accenture and Google Cloud",
-      "title": "Accenture and Google Cloud form a 1,000-engineer unit for Gemini deployments",
-      "sourceUrl": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group"
+      "sourceName": "Knowable Magazine",
+      "title": "Researchers test whether speech patterns can support earlier schizophrenia assessment",
+      "sourceUrl": "https://knowablemagazine.org/content/article/mind/2026/how-ai-can-listen-for-signs-of-schizophrenia"
     },
     {
-      "id": "content-item_2026-09-09_08_mistral-raises-3-billion-to-expand-open-weight-models-and-sovereign-ai-i_3045481d",
-      "sourceKind": "article",
-      "sourceName": "Mistral AI",
-      "title": "Mistral raises €3 billion to expand open-weight models and sovereign AI infrastructure",
-      "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+      "id": "content-item_2026-09-10_10_apple-s-reference-image-creates-a-signed-comparison-for-edited-iphone-ph_83655f36",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Apple’s Reference Image creates a signed comparison for edited iPhone photos",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
     },
     {
-      "id": "content-item_2026-09-09_09_an-operational-ai-bill-of-materials-tracks-models-prompts-data-tools-and_8534dee6",
-      "sourceKind": "article",
-      "sourceName": "Jason Doyle",
-      "title": "An operational AI bill of materials tracks models, prompts, data, tools and permissions",
-      "sourceUrl": "https://jasondoyle.ie/whitepapers/the-ai-bill-of-materials-is-an-operational-record/"
-    },
-    {
-      "id": "content-item_2026-09-09_10_meta-reportedly-drops-raw-ai-usage-from-engineer-performance-reviews_230280f9",
-      "sourceKind": "article",
-      "sourceName": "The Decoder",
-      "title": "Meta reportedly drops raw AI usage from engineer performance reviews",
-      "sourceUrl": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/"
-    },
-    {
-      "id": "content-item_2026-09-09_11_an-adhd-friendly-skill-makes-coding-agents-lead-with-the-next-action_16169d53",
+      "id": "content-item_2026-09-10_11_experiential-routes-agent-traffic-across-hosted-byok-and-local-models_a1b02a64",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "An ADHD-friendly skill makes coding agents lead with the next action",
-      "sourceUrl": "https://github.com/ayghri/i-have-adhd"
+      "title": "Experiential routes agent traffic across hosted, BYOK and local models",
+      "sourceUrl": "https://github.com/experientiallabs/experiential"
     },
     {
-      "id": "content-item_2026-09-09_12_minicpm-trends-with-compact-models-designed-for-local-and-on-device-use_9df02aca",
+      "id": "content-item_2026-09-10_12_tencent-s-teamai-cli-turns-agent-lessons-into-shared-team-context_520b4877",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "MiniCPM trends with compact models designed for local and on-device use",
-      "sourceUrl": "https://github.com/OpenBMB/MiniCPM"
+      "title": "Tencent’s TeamAI CLI turns agent lessons into shared team context",
+      "sourceUrl": "https://github.com/Tencent/teamai-cli"
     },
     {
-      "id": "content-item_2026-09-09_13_hexstrike-connects-ai-agents-to-more-than-150-security-testing-tools_519ff9d3",
+      "id": "content-item_2026-09-10_13_pi-desktop-packages-a-local-first-coding-agent-with-installable-plugins_f3afdd17",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "HexStrike connects AI agents to more than 150 security-testing tools",
-      "sourceUrl": "https://github.com/0x4m4/hexstrike-ai"
+      "title": "PI-Desktop packages a local-first coding agent with installable plugins",
+      "sourceUrl": "https://github.com/vastsa/PI-Desktop"
     }
   ]
 }

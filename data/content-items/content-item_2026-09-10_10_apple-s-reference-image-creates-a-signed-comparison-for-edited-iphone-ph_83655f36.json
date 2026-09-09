@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-10_10_apple-s-reference-image-creates-a-signed-comparison-for-edited-iphone-ph_83655f36",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-09T23:34:14Z",
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "title": "Apple’s Reference Image creates a signed comparison for edited iPhone photos",
+  "friendlyTitle": "Apple added a way to compare an edited photo with a signed camera original",
+  "summary": "Apple has introduced Reference Image for the iPhone 18 Pro, using signed sensor data and Private Cloud Compute to create an unalterable comparison image that can reveal later changes. The reference is initially viewable in Photos, with developer APIs planned, and Apple is also supporting SynthID for identifying AI-created or altered images.",
+  "friendlySummary": "The iPhone 18 Pro can create a protected reference image from camera sensor data. People can compare it with another copy to see whether the picture changed later.",
+  "whyItMatters": "Provenance built into capture devices can give photographers, newsrooms and businesses stronger evidence than visual guesswork when authenticity matters. It will not prove that a scene itself was honest or complete, so organizations still need source context and a documented chain of custody.",
+  "friendlyWhyItMatters": "This can help check important photos, but it cannot prove that the scene was truthful or showed everything. Keep the source details and handling record too.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-10"
+  }
+}

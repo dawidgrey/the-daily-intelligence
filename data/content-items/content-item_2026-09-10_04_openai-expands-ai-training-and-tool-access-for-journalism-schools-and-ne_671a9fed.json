@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-10_04_openai-expands-ai-training-and-tool-access-for-journalism-schools-and-ne_671a9fed",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+  "canonicalUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-09T23:34:14Z",
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "title": "OpenAI expands AI training and tool access for journalism schools and newsrooms",
+  "friendlyTitle": "OpenAI is giving journalism students and newsrooms more AI tools and training",
+  "summary": "OpenAI is providing more than 400 ChatGPT Edu subscriptions to graduate students and faculty at CUNY’s Newmark J-School and Northwestern’s Medill School, alongside training and workflow development. It is also extending enterprise access, API credits and reusable playbooks through journalism partners including the American Journalism Project and WAN-IFRA.",
+  "friendlySummary": "Two US journalism schools will receive ChatGPT Edu access, and other news groups will get training, credits and shared guides. The tools may help with research, translation, archives and new products.",
+  "whyItMatters": "Newsrooms are moving from informal chatbot use toward governed workflows for records analysis, translation, archives and product development. The useful standard remains human reporting and verification, with clear disclosure, source checks and privacy rules around sensitive material.",
+  "friendlyWhyItMatters": "Journalists can save time, but people must still check sources and protect private information. AI should support reporting, not replace verification.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-10"
+  }
+}

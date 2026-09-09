@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-10_11_experiential-routes-agent-traffic-across-hosted-byok-and-local-models_a1b02a64",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/experientiallabs/experiential",
+  "canonicalUrl": "https://github.com/experientiallabs/experiential",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-09T23:34:14Z",
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "title": "Experiential routes agent traffic across hosted, BYOK and local models",
+  "friendlyTitle": "Use one gateway to connect agents with many AI models",
+  "summary": "Experiential is an Apache-2.0 open-source gateway that presents hosted, bring-your-own-key and local models through one OpenAI-compatible API. The roughly 3,700-star project adds user and agent access controls, spending limits, traffic-based routing and tools for optimizing a router or specialized model from production traces.",
+  "friendlySummary": "Experiential provides one API for cloud models, your own API keys and local models. It can control who uses each model, set spending limits and learn which model works best for a task.",
+  "whyItMatters": "Teams can place it between agents and multiple model providers to centralize policy, compare quality, speed and cost, and reduce provider-specific integration work. Review its telemetry setting, protect traces and credentials, and validate routing decisions before putting sensitive production traffic through it.",
+  "friendlyWhyItMatters": "Try it when you want to compare providers or manage model access in one place. Protect your keys and traces, check the telemetry setting and test its choices before production use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-10"
+  }
+}

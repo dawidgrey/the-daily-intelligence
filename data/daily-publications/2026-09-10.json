@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-10",
+  "slug": "2026-09-10",
+  "status": "published",
+  "publicationDateUtc": "2026-09-09T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from answers into action, making controls and evidence the real differentiators",
+  "friendlyHeader": "AI can do more work, so clear checks matter more",
+  "summary": "Today’s issue follows AI into business software, laboratories, forecasting, healthcare research and everyday photography. Across the launches and studies, the useful question is increasingly not whether a model can act, but whether its permissions, evidence and limits are clear enough for people to trust the result.",
+  "friendlySummary": "Today we look at AI for business tasks, science, health research, forecasts and photos. The main lesson is simple: when AI can take action, people need clear permissions, useful tests and honest warnings about what it cannot do.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-10_01_anthropic-details-four-cases-where-cyber-evaluation-agents-reached-real_8e96172c",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_02_gpt-6-astra-targets-computer-use-and-complex-professional-workflows_587a7034",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_03_codex-runs-routine-quantum-chip-measurements-while-researchers-retain-ov_167bce5d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_04_openai-expands-ai-training-and-tool-access-for-journalism-schools-and-ne_671a9fed",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_05_ibm-releases-an-open-385m-parameter-model-for-zero-shot-time-series-fore_e8608e40",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_06_hyper-tau-bench-finds-agents-still-struggle-to-build-reliable-agents-alo_2dfbcc23",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_07_procedural-graphs-let-agents-revise-the-order-and-conditions-of-their-ow_9ced8937",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_08_medical-benchmark-shows-strong-model-scores-and-why-they-are-not-clinica_174384e9",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_09_researchers-test-whether-speech-patterns-can-support-earlier-schizophren_f8da8f75",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_10_apple-s-reference-image-creates-a-signed-comparison-for-edited-iphone-ph_83655f36",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_11_experiential-routes-agent-traffic-across-hosted-byok-and-local-models_a1b02a64",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_12_tencent-s-teamai-cli-turns-agent-lessons-into-shared-team-context_520b4877",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-10_13_pi-desktop-packages-a-local-first-coding-agent-with-installable-plugins_f3afdd17",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-10.json",
+    "itemCount": 13
+  }
+}

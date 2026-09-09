@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-10_12_tencent-s-teamai-cli-turns-agent-lessons-into-shared-team-context_520b4877",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Tencent/teamai-cli",
+  "canonicalUrl": "https://github.com/Tencent/teamai-cli",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-09T23:34:14Z",
+  "createdAtUtc": "2026-09-09T23:34:14Z",
+  "updatedAtUtc": "2026-09-09T23:34:14Z",
+  "title": "Tencent’s TeamAI CLI turns agent lessons into shared team context",
+  "friendlyTitle": "Share useful coding-agent knowledge across a development team",
+  "summary": "TeamAI CLI is an MIT-licensed toolkit for running multiple coding agents while maintaining shared skills, rules, role definitions and a codebase knowledge graph in version-controlled files. The roughly 2,900-star project supports several agent tools and can import repositories, save privacy-scrubbed session summaries and generate team usage digests.",
+  "friendlySummary": "TeamAI CLI stores team rules, skills and codebase knowledge in files that can be reviewed and versioned. It works with several coding agents and can create summaries from sessions.",
+  "whyItMatters": "Development teams can use it to keep useful agent instructions and project knowledge from disappearing inside individual chat sessions. Begin with one repository, review generated knowledge before committing it, and keep secrets or unredacted transcripts outside the shared store.",
+  "friendlyWhyItMatters": "Use it to stop important lessons from staying in one person’s chat. Review generated files before sharing them, and never include passwords or private transcripts.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-10"
+  }
+}
