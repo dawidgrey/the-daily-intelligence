@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_04_ai-helps-researchers-search-genomes-for-antimicrobial-candidates_01415994",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "canonicalUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "AI helps researchers search genomes for antimicrobial candidates",
+  "friendlyTitle": "Researchers use AI to look for new infection-fighting molecules",
+  "summary": "César de la Fuente’s lab is using specialist deep-learning models alongside Codex and ChatGPT to search genome and protein databases for molecules that might fight drug-resistant microbes. AI helps the team generate hypotheses, write code, prepare large datasets, and bridge gaps between biology, chemistry, and computing.",
+  "friendlySummary": "A research team uses AI to search large collections of DNA and protein data for possible new antimicrobial molecules. ChatGPT and Codex also help with ideas, code, and data preparation.",
+  "whyItMatters": "The work shows a grounded role for general AI tools inside expert research: speeding up exploration without replacing laboratory validation. A promising digital candidate remains only a starting point; toxicity testing, manufacturing, regulation, and clinical trials still stand between a prediction and a medicine.",
+  "friendlyWhyItMatters": "AI can help scientists explore more possibilities faster. Real laboratory tests are still needed before anyone knows whether a molecule is safe or useful as medicine.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-09T23:34:14Z",
+  "generatedAtUtc": "2026-09-10T20:04:14Z",
   "items": [
     {
-      "id": "content-item_2026-09-10_01_anthropic-details-four-cases-where-cyber-evaluation-agents-reached-real_8e96172c",
+      "id": "content-item_2026-09-11_01_openai-launches-a-managed-agents-api_dc0bdad5",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI launches a managed Agents API",
+      "sourceUrl": "https://openai.com/index/introducing-the-agents-api/"
+    },
+    {
+      "id": "content-item_2026-09-11_02_chatgpt-work-adds-a-conversational-data-agent_4d4e7920",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Work adds a conversational data agent",
+      "sourceUrl": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "id": "content-item_2026-09-11_03_gpt-live-1-brings-full-duplex-voice-agents-to-the-api_4e410dad",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "GPT-Live-1 brings full-duplex voice agents to the API",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    {
+      "id": "content-item_2026-09-11_04_ai-helps-researchers-search-genomes-for-antimicrobial-candidates_01415994",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "AI helps researchers search genomes for antimicrobial candidates",
+      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "id": "content-item_2026-09-11_05_anthropic-details-how-ai-misuse-is-becoming-more-autonomous_348626d9",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic details four cases where cyber-evaluation agents reached real systems",
-      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+      "title": "Anthropic details how AI misuse is becoming more autonomous",
+      "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026"
     },
     {
-      "id": "content-item_2026-09-10_02_gpt-6-astra-targets-computer-use-and-complex-professional-workflows_587a7034",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-6 Astra targets computer use and complex professional workflows",
-      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work"
-    },
-    {
-      "id": "content-item_2026-09-10_03_codex-runs-routine-quantum-chip-measurements-while-researchers-retain-ov_167bce5d",
-      "sourceKind": "research",
-      "sourceName": "OpenAI and MIT EQuS",
-      "title": "Codex runs routine quantum-chip measurements while researchers retain oversight",
-      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments"
-    },
-    {
-      "id": "content-item_2026-09-10_04_openai-expands-ai-training-and-tool-access-for-journalism-schools-and-ne_671a9fed",
+      "id": "content-item_2026-09-11_06_gradio-rebuilds-a-complex-image-workflow-as-a-visual-graph_cb50b0c3",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI expands AI training and tool access for journalism schools and newsrooms",
-      "sourceUrl": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+      "sourceName": "Hugging Face",
+      "title": "Gradio rebuilds a complex image workflow as a visual graph",
+      "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
-      "id": "content-item_2026-09-10_05_ibm-releases-an-open-385m-parameter-model-for-zero-shot-time-series-fore_e8608e40",
+      "id": "content-item_2026-09-11_07_promptsign-applies-code-signing-ideas-to-ai-instructions_56acf13b",
       "sourceKind": "product",
-      "sourceName": "IBM Research on Hugging Face",
-      "title": "IBM releases an open 385M-parameter model for zero-shot time-series forecasting",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+      "sourceName": "PromptSign",
+      "title": "PromptSign applies code-signing ideas to AI instructions",
+      "sourceUrl": "https://promptsign.ai/"
     },
     {
-      "id": "content-item_2026-09-10_06_hyper-tau-bench-finds-agents-still-struggle-to-build-reliable-agents-alo_2dfbcc23",
-      "sourceKind": "research",
-      "sourceName": "Sierra",
-      "title": "Hyper-tau-bench finds agents still struggle to build reliable agents alone",
-      "sourceUrl": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents"
-    },
-    {
-      "id": "content-item_2026-09-10_07_procedural-graphs-let-agents-revise-the-order-and-conditions-of-their-ow_9ced8937",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Procedural Graphs let agents revise the order and conditions of their own workflows",
-      "sourceUrl": "https://arxiv.org/abs/2609.09153"
-    },
-    {
-      "id": "content-item_2026-09-10_08_medical-benchmark-shows-strong-model-scores-and-why-they-are-not-clinica_174384e9",
-      "sourceKind": "research",
-      "sourceName": "Natomy",
-      "title": "Medical benchmark shows strong model scores—and why they are not clinical proof",
-      "sourceUrl": "https://www.natomy.com/med-evals"
-    },
-    {
-      "id": "content-item_2026-09-10_09_researchers-test-whether-speech-patterns-can-support-earlier-schizophren_f8da8f75",
-      "sourceKind": "article",
-      "sourceName": "Knowable Magazine",
-      "title": "Researchers test whether speech patterns can support earlier schizophrenia assessment",
-      "sourceUrl": "https://knowablemagazine.org/content/article/mind/2026/how-ai-can-listen-for-signs-of-schizophrenia"
-    },
-    {
-      "id": "content-item_2026-09-10_10_apple-s-reference-image-creates-a-signed-comparison-for-edited-iphone-ph_83655f36",
+      "id": "content-item_2026-09-11_08_lowdefy-6-adds-agent-ready-app-infrastructure_e2a9eeb6",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Apple’s Reference Image creates a signed comparison for edited iPhone photos",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+      "sourceName": "Lowdefy",
+      "title": "Lowdefy 6 adds agent-ready app infrastructure",
+      "sourceUrl": "https://lowdefy.com/articles/lowdefy-6-whats-new/"
     },
     {
-      "id": "content-item_2026-09-10_11_experiential-routes-agent-traffic-across-hosted-byok-and-local-models_a1b02a64",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Experiential routes agent traffic across hosted, BYOK and local models",
-      "sourceUrl": "https://github.com/experientiallabs/experiential"
+      "id": "content-item_2026-09-11_09_why-agent-evaluations-should-be-treated-as-production-risk-systems_3e27280d",
+      "sourceKind": "research",
+      "sourceName": "Jason Doyle",
+      "title": "Why agent evaluations should be treated as production-risk systems",
+      "sourceUrl": "https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/"
     },
     {
-      "id": "content-item_2026-09-10_12_tencent-s-teamai-cli-turns-agent-lessons-into-shared-team-context_520b4877",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Tencent’s TeamAI CLI turns agent lessons into shared team context",
-      "sourceUrl": "https://github.com/Tencent/teamai-cli"
+      "id": "content-item_2026-09-11_10_cortecs-offers-a-europe-focused-gateway-for-ai-models_b4ae2fc2",
+      "sourceKind": "product",
+      "sourceName": "Cortecs",
+      "title": "Cortecs offers a Europe-focused gateway for AI models",
+      "sourceUrl": "https://cortecs.ai"
     },
     {
-      "id": "content-item_2026-09-10_13_pi-desktop-packages-a-local-first-coding-agent-with-installable-plugins_f3afdd17",
+      "id": "content-item_2026-09-11_11_cloddsbot-a-self-hosted-ai-trading-agent_a6475552",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "PI-Desktop packages a local-first coding agent with installable plugins",
-      "sourceUrl": "https://github.com/vastsa/PI-Desktop"
+      "title": "CloddsBot: a self-hosted AI trading agent",
+      "sourceUrl": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "id": "content-item_2026-09-11_12_llm-wiki-turns-documents-into-a-persistent-knowledge-base_e47c2055",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "LLM Wiki turns documents into a persistent knowledge base",
+      "sourceUrl": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "id": "content-item_2026-09-11_13_a-runnable-guide-to-35-agent-architectures_0022c453",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "A runnable guide to 35 agent architectures",
+      "sourceUrl": "https://github.com/FareedKhan-dev/all-agentic-architectures"
     }
   ]
 }

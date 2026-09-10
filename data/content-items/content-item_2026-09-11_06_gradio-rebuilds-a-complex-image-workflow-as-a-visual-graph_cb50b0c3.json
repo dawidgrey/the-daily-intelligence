@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_06_gradio-rebuilds-a-complex-image-workflow-as-a-visual-graph_cb50b0c3",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111",
+  "canonicalUrl": "https://huggingface.co/blog/gradio-workflow-1111",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "Gradio rebuilds a complex image workflow as a visual graph",
+  "friendlyTitle": "A visual Gradio project joins many image AI tools in one workflow",
+  "summary": "Hugging Face has demonstrated Workflow1111, a 73-node Gradio workflow that recreates much of AUTOMATIC1111 across 11 media pipelines. It combines image generation, editing, upscaling, prompt assistance, object detection, background removal, metadata, and image-to-video in one rewritable canvas.",
+  "friendlySummary": "Workflow1111 connects 73 steps for creating, editing, improving, and understanding images. You can try it online or copy it and change the workflow.",
+  "whyItMatters": "Creators and developers can inspect how a large multimodel workflow fits together, then duplicate and modify it rather than starting from a blank page. The example also shows where parallel graph execution and ordinary testable Python functions can make visual AI pipelines easier to maintain.",
+  "friendlyWhyItMatters": "It gives builders a working example instead of an empty canvas. The visual graph also makes it easier to see how different AI tools connect.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_09_why-agent-evaluations-should-be-treated-as-production-risk-systems_3e27280d",
+  "sourceKind": "research",
+  "sourceName": "Jason Doyle",
+  "sourceUrl": "https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/",
+  "canonicalUrl": "https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "Why agent evaluations should be treated as production-risk systems",
+  "friendlyTitle": "Testing an AI agent can change real systems",
+  "summary": "A new incident-grounded paper argues that agent evaluations stop being passive measurements once models receive shells, browsers, credentials, networks, and mutation-capable tools. It proposes six independent boundaries covering execution, networks, identity, external effects, evaluation integrity, and evidence and response.",
+  "friendlySummary": "A paper explains that an AI test is not harmless when the agent can use a computer, network, browser, or real login details. It suggests six separate safety boundaries for these tests.",
+  "whyItMatters": "Teams testing capable agents can cause real damage even when the intended task is only a benchmark. Treating evaluation workloads like hostile production code—with default-deny networking, scoped credentials, isolated graders, and off-box logs—reduces the blast radius when an agent explores beyond the expected path.",
+  "friendlyWhyItMatters": "A benchmark can become a real security incident if the test environment is weak. Teams should isolate agents, limit their access, and keep reliable records of every action.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

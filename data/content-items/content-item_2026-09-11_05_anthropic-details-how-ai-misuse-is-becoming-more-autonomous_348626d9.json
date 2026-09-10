@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_05_anthropic-details-how-ai-misuse-is-becoming-more-autonomous_348626d9",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "canonicalUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "Anthropic details how AI misuse is becoming more autonomous",
+  "friendlyTitle": "Anthropic says attackers are using AI for more of their work",
+  "summary": "Anthropic’s latest threat-intelligence report describes malicious uses of Claude that it says it disrupted between December 2025 and August 2026. The cases span cyber operations, surveillance, influence, scams, biological and weapons misuse, and model distillation, with AI increasingly used to orchestrate multi-step activity rather than simply answer questions.",
+  "friendlySummary": "Anthropic reports that it blocked several harmful uses of Claude. In some cases, AI helped organize many steps of an attack instead of only giving advice.",
+  "whyItMatters": "Businesses deploying agents should assume capable attackers can automate more of the attack chain with fewer specialists. Defensive priorities include short-lived credentials, constrained tools, strong monitoring, approval gates for consequential actions, and incident plans built for machine-speed activity.",
+  "friendlyWhyItMatters": "Companies need tighter controls when AI can use tools and take actions. Limit access, watch what agents do, and keep people involved in important decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

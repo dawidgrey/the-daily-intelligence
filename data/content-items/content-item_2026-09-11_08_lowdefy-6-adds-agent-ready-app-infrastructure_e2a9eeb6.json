@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_08_lowdefy-6-adds-agent-ready-app-infrastructure_e2a9eeb6",
+  "sourceKind": "product",
+  "sourceName": "Lowdefy",
+  "sourceUrl": "https://lowdefy.com/articles/lowdefy-6-whats-new/",
+  "canonicalUrl": "https://lowdefy.com/articles/lowdefy-6-whats-new/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "Lowdefy 6 adds agent-ready app infrastructure",
+  "friendlyTitle": "Lowdefy 6 adds more tools for apps and AI agents",
+  "summary": "Lowdefy 6 replaces its Next.js base with Hono and Vite while keeping its YAML application model. The release adds WebSockets, notification email, dynamic pages, scheduled endpoints, LLM steps, an MCP interface, and development tools that let coding agents inspect what they build.",
+  "friendlySummary": "Lowdefy’s new version adds live updates, email alerts, schedules, AI steps, and MCP support. It also changes the technology underneath while keeping the same YAML style for apps.",
+  "whyItMatters": "Small teams can assemble internal applications and agent workflows with less custom plumbing, including schedules and real-time updates. Existing users get a relatively short migration path, but should test session changes, renamed environment variables, and deployment assumptions before upgrading.",
+  "friendlyWhyItMatters": "Teams can build useful internal tools with less setup. Current users should test the upgrade because some login and configuration details have changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

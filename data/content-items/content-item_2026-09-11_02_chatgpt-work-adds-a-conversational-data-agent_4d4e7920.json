@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_02_chatgpt-work-adds-a-conversational-data-agent_4d4e7920",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/put-data-to-work",
+  "canonicalUrl": "https://openai.com/index/put-data-to-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "ChatGPT Work adds a conversational data agent",
+  "friendlyTitle": "ChatGPT can now answer questions about company data",
+  "summary": "The new Data agent connects ChatGPT Work to approved business systems including BigQuery, Databricks, MongoDB, Redshift, Snowflake, Google Drive, and SharePoint. Users can investigate business questions in plain language and turn the results into interactive dashboards while existing source permissions remain in force.",
+  "friendlySummary": "A new ChatGPT Work tool connects to approved company data and documents. People can ask questions in normal language and create dashboards from the answers.",
+  "whyItMatters": "This could shorten the path from a business question to an evidence-backed answer, especially for staff who do not write SQL. Its value will depend on reliable metric definitions, source permissions, and people reviewing the agent’s analysis rather than treating polished charts as proof.",
+  "friendlyWhyItMatters": "More workers may be able to use business data without waiting for a specialist. Companies still need clear data rules and people who check the results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

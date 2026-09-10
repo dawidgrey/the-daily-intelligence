@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_12_llm-wiki-turns-documents-into-a-persistent-knowledge-base_e47c2055",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/nashsu/llm_wiki",
+  "canonicalUrl": "https://github.com/nashsu/llm_wiki",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "LLM Wiki turns documents into a persistent knowledge base",
+  "friendlyTitle": "LLM Wiki builds a connected wiki from your documents",
+  "summary": "LLM Wiki is a cross-platform desktop application that incrementally converts documents into an organized, linked wiki rather than regenerating answers from retrieved passages each time. The GPL-licensed project has about 18,000 stars and includes local-model support, web clipping, and an MCP server.",
+  "friendlySummary": "This desktop app reads documents and slowly builds a linked knowledge base from them. It can work with local AI models and connect to other tools through MCP.",
+  "whyItMatters": "It offers a practical way to build durable, navigable knowledge from a personal or team document collection. Users can inspect and edit the resulting pages, while local-model options may suit work that should not be sent to a hosted model.",
+  "friendlyWhyItMatters": "Use it to organize notes and documents into pages you can browse and edit. Local AI support can help when you want to keep information on your own computer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

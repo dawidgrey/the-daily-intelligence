@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_03_gpt-live-1-brings-full-duplex-voice-agents-to-the-api_4e410dad",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "canonicalUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "GPT-Live-1 brings full-duplex voice agents to the API",
+  "friendlyTitle": "OpenAI’s new voice model can listen while it speaks",
+  "summary": "OpenAI has made GPT-Live-1 available through its API at $0.05 per minute for the voice layer. The model listens and speaks at the same time, handles interruptions and background noise, supports phone workflows, and can delegate deeper reasoning or tool calls to another model.",
+  "friendlySummary": "GPT-Live-1 lets developers build voice apps that handle pauses, interruptions, and background noise more naturally. It can also pass difficult work to another AI model.",
+  "whyItMatters": "Voice interfaces may become less like rigid phone menus and more like natural conversations for support, scheduling, tutoring, and accessibility. Builders must still design clear escalation, consent, recording, and error-handling rules before letting voice agents act for customers.",
+  "friendlyWhyItMatters": "Phone support and voice assistants could feel easier to use. Businesses still need a safe way to hand difficult or sensitive calls to a person.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

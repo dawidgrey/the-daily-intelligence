@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_10_cortecs-offers-a-europe-focused-gateway-for-ai-models_b4ae2fc2",
+  "sourceKind": "product",
+  "sourceName": "Cortecs",
+  "sourceUrl": "https://cortecs.ai",
+  "canonicalUrl": "https://cortecs.ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "Cortecs offers a Europe-focused gateway for AI models",
+  "friendlyTitle": "Cortecs routes AI requests through European model providers",
+  "summary": "Cortecs provides one OpenAI- and Anthropic-compatible API for routing text, vision, embedding, transcription, and speech workloads across more than 150 model endpoints. It emphasizes European providers, policy-based routing, GDPR controls, and an EU-sovereign option.",
+  "friendlySummary": "Cortecs gives developers one API for many AI models and can keep requests with selected European providers. It supports text, images, audio, and speech.",
+  "whyItMatters": "Organizations with European data-residency or procurement requirements may be able to change models without rewriting integrations. Buyers should independently verify compliance claims, provider paths, retention controls, reliability, and total cost for their own workload before treating a gateway as a governance solution.",
+  "friendlyWhyItMatters": "This may help European organizations change models while following their data rules. They should still check the service’s privacy, reliability, and costs for themselves.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}

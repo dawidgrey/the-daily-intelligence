@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-11_07_promptsign-applies-code-signing-ideas-to-ai-instructions_56acf13b",
+  "sourceKind": "product",
+  "sourceName": "PromptSign",
+  "sourceUrl": "https://promptsign.ai/",
+  "canonicalUrl": "https://promptsign.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-10T20:04:14Z",
+  "createdAtUtc": "2026-09-10T20:04:14Z",
+  "updatedAtUtc": "2026-09-10T20:04:14Z",
+  "title": "PromptSign applies code-signing ideas to AI instructions",
+  "friendlyTitle": "PromptSign checks who published an AI instruction file",
+  "summary": "PromptSign signs AI skill folders and instruction files such as AGENTS.md and CLAUDE.md, recording publisher identity and tamper-evident file fingerprints. Its command-line hooks can block unsigned or modified instructions, while verification can run offline.",
+  "friendlySummary": "PromptSign adds a digital signature to AI skills and instruction files. It can tell you who signed the files and whether someone changed them later.",
+  "whyItMatters": "As people install more third-party agent skills, provenance and integrity become part of software supply-chain hygiene. A valid signature does not prove instructions are safe, but it can show who published them and whether files changed after signing.",
+  "friendlyWhyItMatters": "This can make shared agent tools easier to trust and audit. A signed file can still be harmful, so people must also review what it does.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-11"
+  }
+}
