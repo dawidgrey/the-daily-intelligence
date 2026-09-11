@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_03_anthropic-reports-ai-misuse-spanning-cyberattacks-weapons-work-and-model_af75749a",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10/",
+  "canonicalUrl": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "Anthropic reports AI misuse spanning cyberattacks, weapons work and model extraction",
+  "friendlyTitle": "Anthropic says people misused Claude for harmful work",
+  "summary": "Reuters reports that Anthropic disrupted attempts to use Claude in suspected cyber-espionage, weapons development and biological research. Anthropic also alleged that several China-based AI labs used fraudulent access and large-scale exchanges to extract capabilities from Claude; the named companies did not immediately respond to Reuters.",
+  "friendlySummary": "Anthropic says it stopped accounts linked to hacking, weapons work and unsafe biological research. It also accused some AI companies of using Claude’s answers to improve their own models.",
+  "whyItMatters": "As agents take on more of a workflow, account monitoring, tool restrictions and incident response become practical operating requirements rather than abstract safety ideas. The allegations also show how competition over model capabilities is moving into security and data-governance territory.",
+  "friendlyWhyItMatters": "Powerful AI needs strong account checks and limits on what tools it can use. Businesses should plan for misuse, not only normal use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_02_chatgpt-for-financial-services-bundles-premium-data-with-traceable-analy_016c3ec9",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "canonicalUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "ChatGPT for Financial Services bundles premium data with traceable analysis",
+  "friendlyTitle": "A finance version of ChatGPT includes trusted business data",
+  "summary": "OpenAI has introduced a financial-services edition of ChatGPT Work with built-in datasets from providers including Daloopa, PitchBook, LSEG News and Crunchbase. It is designed for research, financial modelling and client materials, with citations that point users back to supporting tables and passages.",
+  "friendlySummary": "OpenAI launched a ChatGPT product for financial teams. It includes paid financial data and shows citations for important figures and claims.",
+  "whyItMatters": "The product reflects a broader shift from general chatbots toward industry systems that combine models, licensed data, permissions and audit controls. For professional work, the ability to inspect evidence may prove more valuable than a marginal gain in raw model capability.",
+  "friendlyWhyItMatters": "People doing financial work need to check where numbers came from. Clear sources and company controls can make AI more useful and safer at work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_10_an-interactive-guide-separates-the-language-model-from-the-software-arou_f66b1172",
+  "sourceKind": "article",
+  "sourceName": "Faza",
+  "sourceUrl": "https://fazamhd.com/mental-models/llm/",
+  "canonicalUrl": "https://fazamhd.com/mental-models/llm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "An interactive guide separates the language model from the software around it",
+  "friendlyTitle": "A clear, interactive guide to how language models work",
+  "summary": "This extensive interactive guide explains language models through three layers: the learned predictor, the token-generation loop and the surrounding product system. It traces tokenisation, embeddings, attention, sampling, training and tool use while distinguishing model behaviour from application behaviour.",
+  "friendlySummary": "The guide explains the AI model, the loop that creates text and the app that provides memory and tools. It includes interactive examples for the main ideas.",
+  "whyItMatters": "A clearer mental model makes everyday AI use less mysterious and troubleshooting more precise. Instead of asking what the model ‘believed’, users can inspect the context, tools, sampling choices, permissions and checks that actually shaped an answer.",
+  "friendlyWhyItMatters": "Knowing which part of an AI system did what helps you find mistakes and choose the right fix.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

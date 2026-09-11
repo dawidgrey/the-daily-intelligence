@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_07_a-practical-workflow-for-coordinating-fleets-of-coding-agents_131712a7",
+  "sourceKind": "article",
+  "sourceName": "Fatih Arslan",
+  "sourceUrl": "https://arslan.io/2026/09/11/how-i-manage-my-agents/",
+  "canonicalUrl": "https://arslan.io/2026/09/11/how-i-manage-my-agents/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "A practical workflow for coordinating fleets of coding agents",
+  "friendlyTitle": "How one developer keeps many coding agents organised",
+  "summary": "Fatih Arslan describes a Git-based planning system that moves work through drafts, ready plans, active execution, completion and discard states. Long-running coordinator agents dispatch isolated workers, while human-readable Markdown files preserve decisions, dependencies, handoffs and verification steps.",
+  "friendlySummary": "The workflow stores plans as simple files in Git. Coordinator agents send clear tasks to other agents and record what happened.",
+  "whyItMatters": "Running more agents does not remove coordination work; it makes explicit state and ownership more important. A small, reviewable plan repository can keep humans in control while allowing replaceable agents to pick up bounded work without relying on one conversation’s memory.",
+  "friendlyWhyItMatters": "A shared list of plans, decisions and results helps people understand what every agent is doing. It also makes unfinished work easier to continue.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

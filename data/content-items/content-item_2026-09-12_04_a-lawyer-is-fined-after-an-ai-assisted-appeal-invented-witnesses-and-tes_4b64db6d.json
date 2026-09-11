@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_04_a-lawyer-is-fined-after-an-ai-assisted-appeal-invented-witnesses-and-tes_4b64db6d",
+  "sourceKind": "article",
+  "sourceName": "RNZ / Reuters",
+  "sourceUrl": "https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses",
+  "canonicalUrl": "https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "A lawyer is fined after an AI-assisted appeal invented witnesses and testimony",
+  "friendlyTitle": "A lawyer was fined after AI invented parts of a court case",
+  "summary": "New Mexico’s highest court fined a defence lawyer US$5,000 and held him in contempt after an appeal included testimony and witnesses fabricated by ChatGPT. The lawyer said he had used the system to summarise trial material and failed to understand how severely it could hallucinate facts.",
+  "friendlySummary": "A court said a lawyer filed an appeal with witnesses and testimony that did not exist. The lawyer had used ChatGPT to summarise case documents.",
+  "whyItMatters": "Summarisation is not verification, especially where a person’s rights or livelihood are at stake. Anyone using AI for consequential documents needs a source-by-source review process and clear personal responsibility for the final work.",
+  "friendlyWhyItMatters": "AI can write something that sounds confident but is false. People must check important documents against the original evidence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

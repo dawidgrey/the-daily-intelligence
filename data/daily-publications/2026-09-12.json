@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-12",
+  "slug": "2026-09-12",
+  "status": "published",
+  "publicationDateUtc": "2026-09-11T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from clever output to operational systems",
+  "friendlyHeader": "AI is becoming part of real work",
+  "summary": "Today’s issue follows AI into the less glamorous work that makes it useful: reliable storage, trusted data, coordinated agents, human review and tools that fit real hardware. The common thread is simple: capability matters, but the surrounding system decides whether it helps.",
+  "friendlySummary": "Today we look at the systems around AI. These include safe data access, better ways to manage agents, useful tools and clear human checks.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-12_01_openai-explains-the-storage-platform-serving-more-than-one-billion-weekl_c7d3c8ae",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_02_chatgpt-for-financial-services-bundles-premium-data-with-traceable-analy_016c3ec9",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_03_anthropic-reports-ai-misuse-spanning-cyberattacks-weapons-work-and-model_af75749a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_04_a-lawyer-is-fined-after-an-ai-assisted-appeal-invented-witnesses-and-tes_4b64db6d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_05_two-architectures-for-letting-agents-analyse-business-data_def3162e",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_06_hungrygpu-maps-local-ai-models-and-patches-to-the-hardware-that-can-run_2615e036",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_07_a-practical-workflow-for-coordinating-fleets-of-coding-agents_131712a7",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_08_a-shared-local-notebook-helps-parallel-agents-remember-dependencies-and_755c7045",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_09_orca-brings-multiple-coding-agents-worktrees-and-review-into-one-environ_28e0fc96",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_10_an-interactive-guide-separates-the-language-model-from-the-software-arou_f66b1172",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_11_omnivoice-offers-multilingual-voice-cloning-and-text-to-speech_da16f84e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_12_scrapling-combines-adaptive-web-extraction-with-crawling-and-mcp-support_db112699",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-12_13_mathmodelagent-automates-a-full-mathematical-modelling-workflow_0bf265e9",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-12.json",
+    "itemCount": 13
+  }
+}

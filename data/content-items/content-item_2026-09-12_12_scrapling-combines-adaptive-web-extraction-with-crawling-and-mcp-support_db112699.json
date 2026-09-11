@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_12_scrapling-combines-adaptive-web-extraction-with-crawling-and-mcp-support_db112699",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/D4Vinci/Scrapling",
+  "canonicalUrl": "https://github.com/D4Vinci/Scrapling",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "Scrapling combines adaptive web extraction with crawling and MCP support",
+  "friendlyTitle": "Scrapling helps software collect data from changing websites",
+  "summary": "Scrapling is a BSD-licensed Python framework for requests, browser-backed extraction and larger crawls, with adaptive selectors and an MCP server for agent workflows. The repository had about 80,300 stars when reviewed and remains actively maintained.",
+  "friendlySummary": "Scrapling is a Python web-scraping and crawling tool. It can use normal requests or a browser and can connect to AI agents through MCP.",
+  "whyItMatters": "It can support monitored research, migration and data-collection workflows where page structures change over time. Users still need to respect site terms, robots rules, privacy obligations and rate limits rather than treating technical access as permission.",
+  "friendlyWhyItMatters": "It can reduce broken data collection when a website changes its layout. Always follow the site’s rules and privacy laws.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

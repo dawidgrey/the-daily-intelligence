@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-10T20:04:14Z",
+  "generatedAtUtc": "2026-09-11T20:04:03Z",
   "items": [
     {
-      "id": "content-item_2026-09-11_01_openai-launches-a-managed-agents-api_dc0bdad5",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI launches a managed Agents API",
-      "sourceUrl": "https://openai.com/index/introducing-the-agents-api/"
-    },
-    {
-      "id": "content-item_2026-09-11_02_chatgpt-work-adds-a-conversational-data-agent_4d4e7920",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Work adds a conversational data agent",
-      "sourceUrl": "https://openai.com/index/put-data-to-work"
-    },
-    {
-      "id": "content-item_2026-09-11_03_gpt-live-1-brings-full-duplex-voice-agents-to-the-api_4e410dad",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-Live-1 brings full-duplex voice agents to the API",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-    },
-    {
-      "id": "content-item_2026-09-11_04_ai-helps-researchers-search-genomes-for-antimicrobial-candidates_01415994",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "AI helps researchers search genomes for antimicrobial candidates",
-      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-    },
-    {
-      "id": "content-item_2026-09-11_05_anthropic-details-how-ai-misuse-is-becoming-more-autonomous_348626d9",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic details how AI misuse is becoming more autonomous",
-      "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026"
-    },
-    {
-      "id": "content-item_2026-09-11_06_gradio-rebuilds-a-complex-image-workflow-as-a-visual-graph_cb50b0c3",
+      "id": "content-item_2026-09-12_01_openai-explains-the-storage-platform-serving-more-than-one-billion-weekl_c7d3c8ae",
       "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "Gradio rebuilds a complex image workflow as a visual graph",
-      "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111"
+      "sourceName": "OpenAI",
+      "title": "OpenAI explains the storage platform serving more than one billion weekly users",
+      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     {
-      "id": "content-item_2026-09-11_07_promptsign-applies-code-signing-ideas-to-ai-instructions_56acf13b",
+      "id": "content-item_2026-09-12_02_chatgpt-for-financial-services-bundles-premium-data-with-traceable-analy_016c3ec9",
       "sourceKind": "product",
-      "sourceName": "PromptSign",
-      "title": "PromptSign applies code-signing ideas to AI instructions",
-      "sourceUrl": "https://promptsign.ai/"
+      "sourceName": "OpenAI",
+      "title": "ChatGPT for Financial Services bundles premium data with traceable analysis",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services"
     },
     {
-      "id": "content-item_2026-09-11_08_lowdefy-6-adds-agent-ready-app-infrastructure_e2a9eeb6",
+      "id": "content-item_2026-09-12_03_anthropic-reports-ai-misuse-spanning-cyberattacks-weapons-work-and-model_af75749a",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Anthropic reports AI misuse spanning cyberattacks, weapons work and model extraction",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10/"
+    },
+    {
+      "id": "content-item_2026-09-12_04_a-lawyer-is-fined-after-an-ai-assisted-appeal-invented-witnesses-and-tes_4b64db6d",
+      "sourceKind": "article",
+      "sourceName": "RNZ / Reuters",
+      "title": "A lawyer is fined after an AI-assisted appeal invented witnesses and testimony",
+      "sourceUrl": "https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses"
+    },
+    {
+      "id": "content-item_2026-09-12_05_two-architectures-for-letting-agents-analyse-business-data_def3162e",
+      "sourceKind": "article",
+      "sourceName": "Starburst",
+      "title": "Two architectures for letting agents analyse business data",
+      "sourceUrl": "https://www.starburst.io/blog/an-analysis-of-two-architectures-for-agentic-data-analysis/"
+    },
+    {
+      "id": "content-item_2026-09-12_06_hungrygpu-maps-local-ai-models-and-patches-to-the-hardware-that-can-run_2615e036",
       "sourceKind": "product",
-      "sourceName": "Lowdefy",
-      "title": "Lowdefy 6 adds agent-ready app infrastructure",
-      "sourceUrl": "https://lowdefy.com/articles/lowdefy-6-whats-new/"
+      "sourceName": "HungryGPU",
+      "title": "HungryGPU maps local AI models and patches to the hardware that can run them",
+      "sourceUrl": "https://hungrygpu.com"
     },
     {
-      "id": "content-item_2026-09-11_09_why-agent-evaluations-should-be-treated-as-production-risk-systems_3e27280d",
-      "sourceKind": "research",
-      "sourceName": "Jason Doyle",
-      "title": "Why agent evaluations should be treated as production-risk systems",
-      "sourceUrl": "https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/"
+      "id": "content-item_2026-09-12_07_a-practical-workflow-for-coordinating-fleets-of-coding-agents_131712a7",
+      "sourceKind": "article",
+      "sourceName": "Fatih Arslan",
+      "title": "A practical workflow for coordinating fleets of coding agents",
+      "sourceUrl": "https://arslan.io/2026/09/11/how-i-manage-my-agents/"
     },
     {
-      "id": "content-item_2026-09-11_10_cortecs-offers-a-europe-focused-gateway-for-ai-models_b4ae2fc2",
+      "id": "content-item_2026-09-12_08_a-shared-local-notebook-helps-parallel-agents-remember-dependencies-and_755c7045",
+      "sourceKind": "article",
+      "sourceName": "Thomas Skulbru",
+      "title": "A shared local notebook helps parallel agents remember dependencies and decisions",
+      "sourceUrl": "https://tskulbru.dev/posts/beads-local-shadow-for-agent-work/"
+    },
+    {
+      "id": "content-item_2026-09-12_09_orca-brings-multiple-coding-agents-worktrees-and-review-into-one-environ_28e0fc96",
       "sourceKind": "product",
-      "sourceName": "Cortecs",
-      "title": "Cortecs offers a Europe-focused gateway for AI models",
-      "sourceUrl": "https://cortecs.ai"
+      "sourceName": "Orca",
+      "title": "Orca brings multiple coding agents, worktrees and review into one environment",
+      "sourceUrl": "https://www.onorca.dev"
     },
     {
-      "id": "content-item_2026-09-11_11_cloddsbot-a-self-hosted-ai-trading-agent_a6475552",
+      "id": "content-item_2026-09-12_10_an-interactive-guide-separates-the-language-model-from-the-software-arou_f66b1172",
+      "sourceKind": "article",
+      "sourceName": "Faza",
+      "title": "An interactive guide separates the language model from the software around it",
+      "sourceUrl": "https://fazamhd.com/mental-models/llm/"
+    },
+    {
+      "id": "content-item_2026-09-12_11_omnivoice-offers-multilingual-voice-cloning-and-text-to-speech_da16f84e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "CloddsBot: a self-hosted AI trading agent",
-      "sourceUrl": "https://github.com/alsk1992/CloddsBot"
+      "title": "OmniVoice offers multilingual voice cloning and text-to-speech",
+      "sourceUrl": "https://github.com/k2-fsa/OmniVoice"
     },
     {
-      "id": "content-item_2026-09-11_12_llm-wiki-turns-documents-into-a-persistent-knowledge-base_e47c2055",
+      "id": "content-item_2026-09-12_12_scrapling-combines-adaptive-web-extraction-with-crawling-and-mcp-support_db112699",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "LLM Wiki turns documents into a persistent knowledge base",
-      "sourceUrl": "https://github.com/nashsu/llm_wiki"
+      "title": "Scrapling combines adaptive web extraction with crawling and MCP support",
+      "sourceUrl": "https://github.com/D4Vinci/Scrapling"
     },
     {
-      "id": "content-item_2026-09-11_13_a-runnable-guide-to-35-agent-architectures_0022c453",
+      "id": "content-item_2026-09-12_13_mathmodelagent-automates-a-full-mathematical-modelling-workflow_0bf265e9",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "A runnable guide to 35 agent architectures",
-      "sourceUrl": "https://github.com/FareedKhan-dev/all-agentic-architectures"
+      "title": "MathModelAgent automates a full mathematical-modelling workflow",
+      "sourceUrl": "https://github.com/jihe520/MathModelAgent"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_06_hungrygpu-maps-local-ai-models-and-patches-to-the-hardware-that-can-run_2615e036",
+  "sourceKind": "product",
+  "sourceName": "HungryGPU",
+  "sourceUrl": "https://hungrygpu.com",
+  "canonicalUrl": "https://hungrygpu.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "HungryGPU maps local AI models and patches to the hardware that can run them",
+  "friendlyTitle": "HungryGPU helps you find AI models that fit your computer",
+  "summary": "HungryGPU is a searchable catalogue of open models, community setups, performance measurements, hardware-specific patches and relevant papers. It labels estimates separately from measured runs and exposes its catalogue through MCP without requiring an account.",
+  "friendlySummary": "HungryGPU collects models, setup guides, speed tests and software changes. You can filter the information for the hardware you own.",
+  "whyItMatters": "Local AI advice is often too generic to answer the question that matters: what will run well on the machine already on your desk. Hardware-specific evidence can save time and money before downloading a model, changing an inference engine or applying a patch.",
+  "friendlyWhyItMatters": "It can help you avoid downloading a model that is too large or using a setting that does not support your machine.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}

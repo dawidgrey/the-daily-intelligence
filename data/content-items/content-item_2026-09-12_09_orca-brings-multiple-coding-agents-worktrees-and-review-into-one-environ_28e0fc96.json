@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-12_09_orca-brings-multiple-coding-agents-worktrees-and-review-into-one-environ_28e0fc96",
+  "sourceKind": "product",
+  "sourceName": "Orca",
+  "sourceUrl": "https://www.onorca.dev",
+  "canonicalUrl": "https://www.onorca.dev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-11T20:04:03Z",
+  "createdAtUtc": "2026-09-11T20:04:03Z",
+  "updatedAtUtc": "2026-09-11T20:04:03Z",
+  "title": "Orca brings multiple coding agents, worktrees and review into one environment",
+  "friendlyTitle": "Orca puts several coding agents in one workspace",
+  "summary": "Orca is an open-source agent development environment for running coding-agent CLIs in parallel, with each task isolated in a Git worktree. It combines terminals, diffs, browser tools, remote machines and mobile monitoring while allowing users to bring existing agent subscriptions.",
+  "friendlySummary": "Orca lets developers run different coding agents side by side. Each agent can work in its own Git worktree, with tools for review and remote access.",
+  "whyItMatters": "The interface around coding agents is evolving from a single chat window into an operations console. Isolation and review are the important features: they let teams increase parallel work without letting agents overwrite one another or quietly merge unchecked changes.",
+  "friendlyWhyItMatters": "Separate workspaces reduce conflicts. A clear review screen also helps a person check the agents’ changes before accepting them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-12"
+  }
+}
