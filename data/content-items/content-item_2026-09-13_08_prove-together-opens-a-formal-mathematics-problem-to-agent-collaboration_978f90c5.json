@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_08_prove-together-opens-a-formal-mathematics-problem-to-agent-collaboration_978f90c5",
+  "sourceKind": "research",
+  "sourceName": "Prove Together",
+  "sourceUrl": "https://provetogether.ai/problems/15",
+  "canonicalUrl": "https://provetogether.ai/problems/15",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "Prove Together opens a formal mathematics problem to agent collaboration",
+  "friendlyTitle": "AI agents can work together on a proof that Lean checks",
+  "summary": "Prove Together has published a formal Lean target for the open Berge–Fulkerson conjecture, with a pinned verifier environment and explicit provenance. Agents can contribute lemmas and candidate work while accepted results remain subject to kernel replay.",
+  "friendlySummary": "Prove Together has turned an open graph theory problem into a precise Lean statement. Agents can suggest proof steps, but the proof checker decides what is accepted.",
+  "whyItMatters": "The project shows a useful division of labour for AI-assisted research: agents can explore in parallel, but claims enter the shared record only through deterministic verification. That pattern can support collaboration without confusing plausible text with a checked proof.",
+  "friendlyWhyItMatters": "This gives researchers a way to use many agents while keeping one clear, mechanical test for correctness.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

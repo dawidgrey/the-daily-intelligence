@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_09_cad-benchmark-finds-agents-need-numeric-checks-not-just-good-looking-ren_d9309c83",
+  "sourceKind": "research",
+  "sourceName": "ModelRift",
+  "sourceUrl": "https://modelrift.com/blog/cadquery-vs-openscad/",
+  "canonicalUrl": "https://modelrift.com/blog/cadquery-vs-openscad/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "CAD benchmark finds agents need numeric checks, not just good-looking renders",
+  "friendlyTitle": "A 3D model can look right and still be wrong",
+  "summary": "ModelRift gave six agents three functional-part tasks split between OpenSCAD and CadQuery, then inspected every exported mesh independently. Both toolchains produced printable parts, but silent geometry failures showed that visual review alone could miss serious defects.",
+  "friendlySummary": "AI agents made printable parts with two CAD tools, but some hidden geometry errors were not visible in the pictures. Number-based checks found problems that visual review missed.",
+  "whyItMatters": "For AI-generated physical designs, a convincing image is weak evidence. Automated checks for volume, wall thickness, clearance, watertightness, interference, and mesh integrity should be part of the completion gate before fabrication.",
+  "friendlyWhyItMatters": "Before printing an AI-made part, check its measurements and mesh quality instead of trusting the preview image.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_10_a-crawler-factory-shows-how-to-scale-bounded-coding-agent-work_b98f3446",
+  "sourceKind": "article",
+  "sourceName": "ClassicalBot",
+  "sourceUrl": "https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents",
+  "canonicalUrl": "https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "A crawler factory shows how to scale bounded coding-agent work",
+  "friendlyTitle": "Small agent jobs helped build a large concert database",
+  "summary": "ClassicalBot describes using Codex agents to build website-specific concert crawlers from a URL queue. Deterministic validation, one controlled retry, GitHub pull requests, and automated checks helped the project expand to more than 70,000 future concerts from over 4,000 sources.",
+  "friendlySummary": "ClassicalBot sends website addresses to coding agents, which build one concert crawler at a time. Automatic tests and GitHub checks decide whether each crawler is good enough to keep.",
+  "whyItMatters": "The workflow is a practical blueprint for scaling many independent, bounded tasks: queue small jobs, validate outputs mechanically, limit retries, and route changes through version control. The same shape can apply to catalogues, prices, events, or other structured-data work.",
+  "friendlyWhyItMatters": "Breaking work into small jobs with clear tests can make agent automation easier to control and reuse.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

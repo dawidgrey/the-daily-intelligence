@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_02_mathematicians-ask-openai-to-clarify-whether-private-work-shaped-its-res_6be94843",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "Mathematicians ask OpenAI to clarify whether private work shaped its results",
+  "friendlyTitle": "Researchers want clearer answers about how OpenAI uses private chats",
+  "summary": "Mathematician Andreas Thom has asked OpenAI for evidence that private ChatGPT interactions did not influence mathematical results later announced by the company. The dispute turns on the difference between direct access to a conversation and indirect use of de-identified product data for model improvement.",
+  "friendlySummary": "Some mathematicians are worried that ideas shared privately with ChatGPT may have helped OpenAI produce later research results. They want OpenAI to explain and prove how the data was handled.",
+  "whyItMatters": "Researchers and businesses need precise answers about how confidential or pre-publication ideas can enter model-training pipelines. The same distinction matters whenever people use hosted assistants with valuable drafts, designs, research, or strategy.",
+  "friendlyWhyItMatters": "If you put valuable work into an online AI tool, you need to know whether that work can later help train the system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

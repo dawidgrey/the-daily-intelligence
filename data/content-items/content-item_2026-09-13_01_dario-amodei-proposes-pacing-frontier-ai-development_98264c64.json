@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_01_dario-amodei-proposes-pacing-frontier-ai-development_98264c64",
+  "sourceKind": "article",
+  "sourceName": "Dario Amodei",
+  "sourceUrl": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "canonicalUrl": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "Dario Amodei proposes pacing frontier AI development",
+  "friendlyTitle": "Anthropic’s CEO wants the fastest AI work to slow down",
+  "summary": "Anthropic CEO Dario Amodei argues that frontier labs should slow capability gains enough for safeguards to catch up. His three-step proposal starts with embedded third-party evaluators, then calls for coordination among companies and governments.",
+  "friendlySummary": "Dario Amodei says leading AI companies should move more carefully and let independent experts check their safety work. He also wants companies and governments to agree on shared rules.",
+  "whyItMatters": "This is a concrete governance proposal from inside a leading AI lab, not a general appeal to stop development. If adopted, independent access and shared safety thresholds could affect model release schedules, procurement decisions, and the evidence customers receive about high-capability systems.",
+  "friendlyWhyItMatters": "This could change when powerful models are released and what proof businesses get that those models are safe enough to use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

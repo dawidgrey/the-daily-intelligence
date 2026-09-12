@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_07_tokendelivery-offers-deterministic-open-model-inference_feb336d6",
+  "sourceKind": "product",
+  "sourceName": "TokenDelivery.ai",
+  "sourceUrl": "https://www.tokendelivery.ai/",
+  "canonicalUrl": "https://www.tokendelivery.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "TokenDelivery offers deterministic open-model inference",
+  "friendlyTitle": "An AI API that aims to give the same answer every time",
+  "summary": "TokenDelivery has opened a preview API for Gemma 4 26B A4B that promises byte-for-byte repeatable output. The OpenAI-compatible service exposes seeds, sampling controls, structured output, image input, tools, log probabilities, and a token-ID endpoint.",
+  "friendlySummary": "TokenDelivery runs an open model and promises exactly repeatable results for the same request. It also works with software written for OpenAI-style APIs.",
+  "whyItMatters": "Deterministic inference can make regression tests, audits, and reproducible experiments easier because the same input can produce the same output. The preview is free, but teams should evaluate performance, privacy, availability, and future listed pricing before relying on it.",
+  "friendlyWhyItMatters": "Repeatable answers are useful when you test software or need to explain exactly what an AI system did.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}

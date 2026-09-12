@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-11T20:04:03Z",
+  "generatedAtUtc": "2026-09-12T20:05:31Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-13",
+      "slug": "2026-09-13",
+      "status": "published",
+      "publicationDateUtc": "2026-09-12T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI work gets more deliberate",
+      "friendlyHeader": "Making AI useful without losing control",
+      "summary": "Today’s issue looks at a proposed brake on frontier development, practical ways to test agent work, and a set of tools that make AI systems more inspectable and useful. The common thread is straightforward: capability matters, but evidence, boundaries, and good workflow design matter just as much.",
+      "friendlySummary": "Today we look at calls to slow the fastest AI work, better ways to check what agents do, and useful tools for writing, design, music, and everyday computer work.",
+      "itemCount": 13,
+      "href": "issues/2026-09-13.html",
+      "dataUrl": "data/daily-publications/2026-09-13.json"
+    },
     {
       "id": "daily-publication_2026-09-12",
       "slug": "2026-09-12",

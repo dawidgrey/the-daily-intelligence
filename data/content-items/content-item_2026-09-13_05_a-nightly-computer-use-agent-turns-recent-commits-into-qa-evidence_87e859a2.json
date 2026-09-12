@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-13_05_a-nightly-computer-use-agent-turns-recent-commits-into-qa-evidence_87e859a2",
+  "sourceKind": "article",
+  "sourceName": "Tristan Rhodes",
+  "sourceUrl": "https://tristanrhodes.com/blog/Computer-Use-Agents-are-Excellent-QA-Engineers",
+  "canonicalUrl": "https://tristanrhodes.com/blog/Computer-Use-Agents-are-Excellent-QA-Engineers",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-12T20:05:30Z",
+  "createdAtUtc": "2026-09-12T20:05:30Z",
+  "updatedAtUtc": "2026-09-12T20:05:30Z",
+  "title": "A nightly computer-use agent turns recent commits into QA evidence",
+  "friendlyTitle": "An AI agent can test yesterday’s software changes overnight",
+  "summary": "A SaaS engineer describes a computer-use QA agent that reviews recent commits, tests user-facing flows, records screenshots and reproduction steps, and files detailed issues. The setup combines user-level access with read-only code context and scheduled execution.",
+  "friendlySummary": "One engineer uses an agent to read recent code changes, try the product like a user, take screenshots, and report bugs. The agent runs on a schedule and keeps notes for its next test.",
+  "whyItMatters": "This is a reusable pattern for supervised automation: give an agent realistic user interfaces, enough technical context to investigate failures, and a structured place to report evidence. It can reduce repetitive manual testing without giving the agent authority to silently ship fixes.",
+  "friendlyWhyItMatters": "This can save testing time while still leaving people in charge of reviewing and fixing important problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-13"
+  }
+}
