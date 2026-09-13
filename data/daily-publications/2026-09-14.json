@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-14",
+  "slug": "2026-09-14",
+  "status": "published",
+  "publicationDateUtc": "2026-09-13T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from answers to accountable action",
+  "friendlyHeader": "AI is doing more work, with better checks",
+  "summary": "Today’s issue tracks a practical shift: models are being trusted with longer workflows, while teams add stronger context, verification and evidence around their work. There are also useful releases for music, web performance and specialist recruiting, plus three fast-rising open-source projects.",
+  "friendlySummary": "Today, we look at AI that can handle bigger tasks. We also look at ways to give AI better information, check its work, make music, improve websites and find job candidates.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-14_01_perplexity-says-gpt-6-astra-can-handle-end-to-end-systems-with-less-supe_12e9dd68",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_02_elevenlabs-releases-music-v2-5-with-lossless-downloads-on-every-plan_fff224bb",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_03_flare-pairs-llm-agents-with-lean-proofs-to-verify-optimisation-models_dc97187e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_04_iris-releases-open-weight-search-agents-and-a-reusable-evaluation-harnes_8d0f3c08",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_05_why-data-agents-need-business-definitions-not-just-database-access_677d2535",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_06_getdesign-turns-a-live-website-into-design-context-for-coding-agents_d2f4062d",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_07_makefaster-packages-website-performance-work-as-a-repeating-ai-loop_d7082d9e",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_08_sengi-brings-evidence-checked-candidate-sourcing-into-claude-and-chatgpt_7819436e",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_09_anthropic-reportedly-chooses-nasdaq-for-a-potential-ipo_d7d3b51b",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_10_joonko-founder-pleads-guilty-over-false-customer-and-revenue-claims_b4227104",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_11_justvugg-colibri-runs-large-mixture-of-experts-models-from-local-storage_adf06ac7",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_12_asgeirtj-system-prompts-leaks-archives-prompts-from-major-ai-products_a699cca1",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-14_13_vxcontrol-pentagi-coordinates-ai-agents-for-authorised-penetration-testi_2e8a64d0",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-14.json",
+    "itemCount": 13
+  }
+}

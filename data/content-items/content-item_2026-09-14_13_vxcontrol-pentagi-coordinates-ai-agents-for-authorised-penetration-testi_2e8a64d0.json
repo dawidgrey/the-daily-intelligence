@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_13_vxcontrol-pentagi-coordinates-ai-agents-for-authorised-penetration-testi_2e8a64d0",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/vxcontrol/pentagi",
+  "canonicalUrl": "https://github.com/vxcontrol/pentagi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "vxcontrol/pentagi coordinates AI agents for authorised penetration testing",
+  "friendlyTitle": "Pentagi uses AI agents to help with approved security testing",
+  "summary": "Pentagi is an open-source system that orchestrates AI agents and security tools for complex penetration-testing workflows. It ranked third among eligible unpublished AI repositories in today’s captured GitHub Trending results, with 613 stars added.",
+  "friendlySummary": "Pentagi coordinates AI agents and security tools for penetration tests. It was one of today’s fastest-rising AI repositories on GitHub.",
+  "whyItMatters": "Security teams can use it in isolated labs or on systems they are explicitly authorised to test, while retaining logs and human control over scope. Its autonomous offensive capabilities make strict credentials, network boundaries and written permission non-negotiable.",
+  "friendlyWhyItMatters": "Security teams can test it in a safe lab or on systems they have written permission to assess. Never point it at systems without permission.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

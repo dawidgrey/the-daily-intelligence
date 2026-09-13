@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_02_elevenlabs-releases-music-v2-5-with-lossless-downloads-on-every-plan_fff224bb",
+  "sourceKind": "product",
+  "sourceName": "ElevenLabs",
+  "sourceUrl": "https://elevenlabs.io/blog/music-v2-5-model",
+  "canonicalUrl": "https://elevenlabs.io/blog/music-v2-5-model",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "ElevenLabs releases Music v2.5 with lossless downloads on every plan",
+  "friendlyTitle": "ElevenLabs updates its AI music maker",
+  "summary": "Music v2.5 is now ElevenMusic’s default model for prompted and reference-based generation, with the company reporting fuller arrangements and more natural instruments. Free accounts receive five lossless downloads per day, while commercial-use conditions vary by plan and attribution requirements.",
+  "friendlySummary": "Music v2.5 aims to make instruments and full songs sound more natural. Free users can download five high-quality tracks each day.",
+  "whyItMatters": "Creators can generate and revise soundtracks inside broader voice and video workflows, including through the API. Before publishing, check the applicable licence and avoid reference tracks that imitate protected artists or songs.",
+  "friendlyWhyItMatters": "It can help people make music for videos and other projects. Check the usage rules before using a track for paid work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

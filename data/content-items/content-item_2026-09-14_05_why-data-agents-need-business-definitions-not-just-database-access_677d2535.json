@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_05_why-data-agents-need-business-definitions-not-just-database-access_677d2535",
+  "sourceKind": "article",
+  "sourceName": "Shubham Sharma",
+  "sourceUrl": "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/",
+  "canonicalUrl": "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "Why data agents need business definitions, not just database access",
+  "friendlyTitle": "Give data agents a trusted business dictionary",
+  "summary": "A practical implementation note argues that schemas alone cannot tell an agent what terms such as revenue or new customer mean inside a particular business. It proposes a governed catalogue containing ownership, freshness, business definitions, verified queries and access controls.",
+  "friendlySummary": "An AI agent may understand database tables but not what your company means by words like revenue. A data catalogue can give it clear definitions and approved examples.",
+  "whyItMatters": "An agent can generate valid SQL and still return the wrong business answer. Before connecting AI to company data, document the meaning of key measures and enforce permissions at the data layer rather than trying to encode every rule in a larger prompt.",
+  "friendlyWhyItMatters": "Better context can prevent correct-looking but wrong answers. Access rules should also stop the AI from seeing data a user cannot see.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

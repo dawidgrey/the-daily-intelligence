@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_08_sengi-brings-evidence-checked-candidate-sourcing-into-claude-and-chatgpt_7819436e",
+  "sourceKind": "product",
+  "sourceName": "Sengi",
+  "sourceUrl": "https://sengi.ai/",
+  "canonicalUrl": "https://sengi.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "Sengi brings evidence-checked candidate sourcing into Claude and ChatGPT",
+  "friendlyTitle": "Sengi helps recruiters check why a candidate fits",
+  "summary": "Sengi connects to AI assistants through MCP and searches public sources for candidates who match detailed role requirements. It presents evidence for each must-have and separates clear matches from uncertain ones instead of returning an unqualified list of names.",
+  "friendlySummary": "Sengi searches public information and shows evidence for each job requirement. It works with AI assistants such as Claude and ChatGPT.",
+  "whyItMatters": "Evidence-linked sourcing can reduce recruiters’ verification workload on difficult roles, but public evidence can still be incomplete or stale. Human review, fair criteria and lawful handling of candidate data remain essential before outreach or rejection decisions.",
+  "friendlyWhyItMatters": "Recruiters may spend less time checking long candidate lists. A person must still review the evidence and make fair decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

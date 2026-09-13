@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_01_perplexity-says-gpt-6-astra-can-handle-end-to-end-systems-with-less-supe_12e9dd68",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "canonicalUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "Perplexity says GPT-6 Astra can handle end-to-end systems with less supervision",
+  "friendlyTitle": "Perplexity gives an AI model bigger software jobs",
+  "summary": "Perplexity says it is using GPT-6 Astra to write communications, change software, monitor production systems and build realistic end-to-end tests. The account is an OpenAI customer case study, so its performance claims should be read as company-reported rather than independent evaluation.",
+  "friendlySummary": "Perplexity says GPT-6 Astra can change software, watch live systems and create tests. This is a company case study, not an independent test.",
+  "whyItMatters": "The useful pattern is not simply more autonomous coding: it is asking an agent to create tests and evidence around the work it performs. Teams adopting longer-running agents should make those artefacts part of review rather than reducing oversight on trust alone.",
+  "friendlyWhyItMatters": "AI can save more time when it also shows proof that its work is correct. People should still review that proof before important changes go live.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

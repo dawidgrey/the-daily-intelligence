@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_11_justvugg-colibri-runs-large-mixture-of-experts-models-from-local-storage_adf06ac7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/JustVugg/colibri",
+  "canonicalUrl": "https://github.com/JustVugg/colibri",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "JustVugg/colibri runs large mixture-of-experts models from local storage",
+  "friendlyTitle": "Colibri helps large AI models run on hardware you already own",
+  "summary": "Colibri is a dependency-light C inference engine that streams mixture-of-experts model weights from disk so large open models can run on existing hardware. It led today’s eligible, previously unpublished AI repositories found on GitHub Trending, with 960 stars added on the captured daily page.",
+  "friendlySummary": "Colibri is a small C program that loads parts of a large AI model from storage when they are needed. It was one of today’s fastest-rising AI projects on GitHub.",
+  "whyItMatters": "Developers can explore local inference for models whose full expert weights do not fit in memory, with CPU and accelerator paths available. Expect storage and speed trade-offs, and test model licensing and hardware compatibility before committing to a deployment.",
+  "friendlyWhyItMatters": "It can help developers test big open models locally. Performance depends on the computer and storage speed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

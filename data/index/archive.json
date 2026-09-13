@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-12T20:05:31Z",
+  "generatedAtUtc": "2026-09-13T20:05:41Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-09-14",
+      "slug": "2026-09-14",
+      "status": "published",
+      "publicationDateUtc": "2026-09-13T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answers to accountable action",
+      "friendlyHeader": "AI is doing more work, with better checks",
+      "summary": "Today’s issue tracks a practical shift: models are being trusted with longer workflows, while teams add stronger context, verification and evidence around their work. There are also useful releases for music, web performance and specialist recruiting, plus three fast-rising open-source projects.",
+      "friendlySummary": "Today, we look at AI that can handle bigger tasks. We also look at ways to give AI better information, check its work, make music, improve websites and find job candidates.",
+      "itemCount": 13,
+      "href": "issues/2026-09-14.html",
+      "dataUrl": "data/daily-publications/2026-09-14.json"
+    },
     {
       "id": "daily-publication_2026-09-13",
       "slug": "2026-09-13",

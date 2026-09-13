@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_04_iris-releases-open-weight-search-agents-and-a-reusable-evaluation-harnes_8d0f3c08",
+  "sourceKind": "research",
+  "sourceName": "AllSpark Research / Hugging Face",
+  "sourceUrl": "https://huggingface.co/collections/AllSpark-Research/iris",
+  "canonicalUrl": "https://huggingface.co/collections/AllSpark-Research/iris",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "Iris releases open-weight search agents and a reusable evaluation harness",
+  "friendlyTitle": "Iris opens two AI search models for people to test",
+  "summary": "AllSpark Research has published the 36-billion-parameter Iris-mini and 403-billion-parameter Iris-pro search agents as open weights. The accompanying release includes an agent harness, tool and context-management support, plus evaluations for four search and reasoning benchmarks; the team’s broader training pipeline is promised but not yet released.",
+  "friendlySummary": "AllSpark Research released two open-weight models that can search the web and work through difficult questions. It also shared tools for running and testing them.",
+  "whyItMatters": "Open weights and a harness let teams inspect, run and compare search-agent behaviour without relying entirely on a closed service. Reported benchmark leads still need independent replication, and the incomplete training release limits how fully outsiders can reproduce the models today.",
+  "friendlyWhyItMatters": "Developers can study and run the search agents themselves. The published scores should still be checked by independent testers, and not all training tools are available yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

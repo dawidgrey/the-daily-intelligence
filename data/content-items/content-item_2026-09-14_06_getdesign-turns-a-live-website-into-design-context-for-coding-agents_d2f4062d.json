@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_06_getdesign-turns-a-live-website-into-design-context-for-coding-agents_d2f4062d",
+  "sourceKind": "product",
+  "sourceName": "getdesign",
+  "sourceUrl": "https://www.getdesign.app",
+  "canonicalUrl": "https://www.getdesign.app",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "getdesign turns a live website into design context for coding agents",
+  "friendlyTitle": "getdesign explains a website’s visual style to coding agents",
+  "summary": "The beta product opens a public site in a browser, reads its rendered CSS and produces a design.md covering colours, typography, spacing and components. It is available through a web dashboard, API, Bun CLI, SDK and a portable agent skill, with hosted runs using the customer’s Daytona and OpenAI keys.",
+  "friendlySummary": "Give getdesign a public website address and it creates a file describing the site’s colours, fonts, spacing and parts.",
+  "whyItMatters": "A structured design document can give coding agents more reliable visual context than screenshots or a vague request to copy a style. Users should still respect the source site’s rights and treat extracted design language as reference, not permission to clone a brand.",
+  "friendlyWhyItMatters": "This can help an AI coding tool follow a real design more closely. Use it for guidance, not to copy someone else’s brand.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

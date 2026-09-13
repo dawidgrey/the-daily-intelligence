@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_10_joonko-founder-pleads-guilty-over-false-customer-and-revenue-claims_b4227104",
+  "sourceKind": "article",
+  "sourceName": "U.S. Department of Justice",
+  "sourceUrl": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
+  "canonicalUrl": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "Joonko founder pleads guilty over false customer and revenue claims",
+  "friendlyTitle": "AI hiring startup founder admits misleading investors",
+  "summary": "Joonko founder and former CEO Ilit Raz pleaded guilty to securities fraud after admitting to misleading investors about customers and revenue at the AI recruiting company. Prosecutors say fabricated documents supported claims used to raise approximately $27 million in 2021 and 2022.",
+  "friendlySummary": "The former head of Joonko pleaded guilty after false claims about customers and revenue helped the company raise about $27 million.",
+  "whyItMatters": "AI buyers and investors still need ordinary operational due diligence: verified customers, bank records, revenue reconciliation and independent references. A compelling AI story does not reduce the need to test the underlying business evidence.",
+  "friendlyWhyItMatters": "People investing in or buying AI products should check normal business facts. The AI label is not proof that a company’s claims are true.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}

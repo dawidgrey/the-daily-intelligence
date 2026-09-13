@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-14_03_flare-pairs-llm-agents-with-lean-proofs-to-verify-optimisation-models_dc97187e",
+  "sourceKind": "research",
+  "sourceName": "FLARE research team",
+  "sourceUrl": "https://flare.henryrobbins.com/",
+  "canonicalUrl": "https://flare.henryrobbins.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-13T20:05:41Z",
+  "createdAtUtc": "2026-09-13T20:05:41Z",
+  "updatedAtUtc": "2026-09-13T20:05:41Z",
+  "title": "FLARE pairs LLM agents with Lean proofs to verify optimisation models",
+  "friendlyTitle": "FLARE makes AI prove its maths work",
+  "summary": "FLARE uses an LLM-based agent and the Lean proof assistant to determine whether one mixed-integer linear programming formulation correctly reformulates another. On the paper’s 54-pair NP-hard evaluation subset, FLARE reported 100% accuracy and produced machine-checkable certificates for accepted reformulations.",
+  "friendlySummary": "FLARE uses AI to compare optimisation models, then uses Lean software to check the proof. It got every case right in the paper’s main test set.",
+  "whyItMatters": "This is a concrete model for high-stakes AI work: let the model propose or translate, but require a separate formal system to verify acceptance. The benchmark is small, yet the proof-carrying workflow is more dependable than judging plausible-looking output alone.",
+  "friendlyWhyItMatters": "For important maths, a clear proof is safer than trusting a confident AI answer. This idea could improve other AI systems that need strong checks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-14"
+  }
+}
