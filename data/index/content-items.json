@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-13T20:05:41Z",
+  "generatedAtUtc": "2026-09-14T20:04:14Z",
   "items": [
     {
-      "id": "content-item_2026-09-14_01_perplexity-says-gpt-6-astra-can-handle-end-to-end-systems-with-less-supe_12e9dd68",
+      "id": "content-item_2026-09-15_01_anthropic-says-agentic-coding-drove-a-25-fold-rise-in-ci-jobs_8f1dbbf7",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic says agentic coding drove a 25-fold rise in CI jobs",
+      "sourceUrl": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic"
+    },
+    {
+      "id": "content-item_2026-09-15_02_langchain-open-sources-the-paid-media-agent-behind-its-campaign-workflow_9ead411f",
+      "sourceKind": "article",
+      "sourceName": "LangChain",
+      "title": "LangChain open-sources the paid-media agent behind its campaign workflow",
+      "sourceUrl": "https://www.langchain.com/blog/paid-media-agent"
+    },
+    {
+      "id": "content-item_2026-09-15_03_pc-alm-trains-1-000-layer-networks-using-local-learning-dynamics_71e0793e",
+      "sourceKind": "research",
+      "sourceName": "Sakana AI",
+      "title": "PC-ALM trains 1,000-layer networks using local learning dynamics",
+      "sourceUrl": "https://pub.sakana.ai/pc-alm/"
+    },
+    {
+      "id": "content-item_2026-09-15_04_security-benchmark-finds-ai-agents-reliably-exploit-simple-access-contro_ca904f83",
+      "sourceKind": "research",
+      "sourceName": "Ghost Security",
+      "title": "Security benchmark finds AI agents reliably exploit simple access-control flaws",
+      "sourceUrl": "https://omcc.ghostsecurity.ai/"
+    },
+    {
+      "id": "content-item_2026-09-15_05_fyxer-explains-why-its-email-assistant-uses-many-narrow-models_296d33de",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "Perplexity says GPT-6 Astra can handle end-to-end systems with less supervision",
-      "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      "title": "Fyxer explains why its email assistant uses many narrow models",
+      "sourceUrl": "https://openai.com/index/fyxer"
     },
     {
-      "id": "content-item_2026-09-14_02_elevenlabs-releases-music-v2-5-with-lossless-downloads-on-every-plan_fff224bb",
+      "id": "content-item_2026-09-15_06_microsoft-opens-its-draft-mai-model-code-of-conduct-for-public-comment_eee5e396",
+      "sourceKind": "regulation",
+      "sourceName": "Microsoft AI",
+      "title": "Microsoft opens its draft MAI model code of conduct for public comment",
+      "sourceUrl": "https://microsoft.ai/news/mai-code-of-conduct/"
+    },
+    {
+      "id": "content-item_2026-09-15_07_anthropic-connects-claude-to-financial-adviser-data-and-workflow-tools_a7da05dd",
       "sourceKind": "product",
-      "sourceName": "ElevenLabs",
-      "title": "ElevenLabs releases Music v2.5 with lossless downloads on every plan",
-      "sourceUrl": "https://elevenlabs.io/blog/music-v2-5-model"
-    },
-    {
-      "id": "content-item_2026-09-14_03_flare-pairs-llm-agents-with-lean-proofs-to-verify-optimisation-models_dc97187e",
-      "sourceKind": "research",
-      "sourceName": "FLARE research team",
-      "title": "FLARE pairs LLM agents with Lean proofs to verify optimisation models",
-      "sourceUrl": "https://flare.henryrobbins.com/"
-    },
-    {
-      "id": "content-item_2026-09-14_04_iris-releases-open-weight-search-agents-and-a-reusable-evaluation-harnes_8d0f3c08",
-      "sourceKind": "research",
-      "sourceName": "AllSpark Research / Hugging Face",
-      "title": "Iris releases open-weight search agents and a reusable evaluation harness",
-      "sourceUrl": "https://huggingface.co/collections/AllSpark-Research/iris"
-    },
-    {
-      "id": "content-item_2026-09-14_05_why-data-agents-need-business-definitions-not-just-database-access_677d2535",
-      "sourceKind": "article",
-      "sourceName": "Shubham Sharma",
-      "title": "Why data agents need business definitions, not just database access",
-      "sourceUrl": "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/"
-    },
-    {
-      "id": "content-item_2026-09-14_06_getdesign-turns-a-live-website-into-design-context-for-coding-agents_d2f4062d",
-      "sourceKind": "product",
-      "sourceName": "getdesign",
-      "title": "getdesign turns a live website into design context for coding agents",
-      "sourceUrl": "https://www.getdesign.app"
-    },
-    {
-      "id": "content-item_2026-09-14_07_makefaster-packages-website-performance-work-as-a-repeating-ai-loop_d7082d9e",
-      "sourceKind": "product",
-      "sourceName": "Makefaster",
-      "title": "Makefaster packages website performance work as a repeating AI loop",
-      "sourceUrl": "https://makefaster.dev"
-    },
-    {
-      "id": "content-item_2026-09-14_08_sengi-brings-evidence-checked-candidate-sourcing-into-claude-and-chatgpt_7819436e",
-      "sourceKind": "product",
-      "sourceName": "Sengi",
-      "title": "Sengi brings evidence-checked candidate sourcing into Claude and ChatGPT",
-      "sourceUrl": "https://sengi.ai/"
-    },
-    {
-      "id": "content-item_2026-09-14_09_anthropic-reportedly-chooses-nasdaq-for-a-potential-ipo_d7d3b51b",
-      "sourceKind": "article",
       "sourceName": "Reuters",
-      "title": "Anthropic reportedly chooses Nasdaq for a potential IPO",
-      "sourceUrl": "https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/"
+      "title": "Anthropic connects Claude to financial-adviser data and workflow tools",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/"
     },
     {
-      "id": "content-item_2026-09-14_10_joonko-founder-pleads-guilty-over-false-customer-and-revenue-claims_b4227104",
+      "id": "content-item_2026-09-15_08_superhuman-acquires-meeting-assistant-fathom_9566a3a7",
       "sourceKind": "article",
-      "sourceName": "U.S. Department of Justice",
-      "title": "Joonko founder pleads guilty over false customer and revenue claims",
-      "sourceUrl": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud"
+      "sourceName": "TechCrunch",
+      "title": "Superhuman acquires meeting assistant Fathom",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
     },
     {
-      "id": "content-item_2026-09-14_11_justvugg-colibri-runs-large-mixture-of-experts-models-from-local-storage_adf06ac7",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "JustVugg/colibri runs large mixture-of-experts models from local storage",
-      "sourceUrl": "https://github.com/JustVugg/colibri"
+      "id": "content-item_2026-09-15_09_ios-27-gives-siri-multi-step-tasks-and-personal-on-screen-context_f7b5c927",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "iOS 27 gives Siri multi-step tasks and personal on-screen context",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
     },
     {
-      "id": "content-item_2026-09-14_12_asgeirtj-system-prompts-leaks-archives-prompts-from-major-ai-products_a699cca1",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "asgeirtj/system_prompts_leaks archives prompts from major AI products",
-      "sourceUrl": "https://github.com/asgeirtj/system_prompts_leaks"
+      "id": "content-item_2026-09-15_10_agentdrive-offers-versioned-shared-files-that-persist-across-agent-sessi_c3ed63e4",
+      "sourceKind": "product",
+      "sourceName": "Token Canopy",
+      "title": "AgentDrive offers versioned shared files that persist across agent sessions",
+      "sourceUrl": "https://tokencanopy.com/products/agentdrive"
     },
     {
-      "id": "content-item_2026-09-14_13_vxcontrol-pentagi-coordinates-ai-agents-for-authorised-penetration-testi_2e8a64d0",
+      "id": "content-item_2026-09-15_11_huggingface-transformers-remains-the-central-toolkit-for-open-model-work_9a589f3b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "vxcontrol/pentagi coordinates AI agents for authorised penetration testing",
-      "sourceUrl": "https://github.com/vxcontrol/pentagi"
+      "title": "huggingface/transformers remains the central toolkit for open model work",
+      "sourceUrl": "https://github.com/huggingface/transformers"
+    },
+    {
+      "id": "content-item_2026-09-15_12_tech-leads-club-agent-skills-builds-a-validated-catalogue-for-coding-age_0ef977a8",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "tech-leads-club/agent-skills builds a validated catalogue for coding agents",
+      "sourceUrl": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+      "id": "content-item_2026-09-15_13_danny-avila-librechat-provides-a-self-hosted-interface-for-models-and-ag_216404bf",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "danny-avila/LibreChat provides a self-hosted interface for models and agents",
+      "sourceUrl": "https://github.com/danny-avila/LibreChat"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_12_tech-leads-club-agent-skills-builds-a-validated-catalogue-for-coding-age_0ef977a8",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/tech-leads-club/agent-skills",
+  "canonicalUrl": "https://github.com/tech-leads-club/agent-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "tech-leads-club/agent-skills builds a validated catalogue for coding agents",
+  "friendlyTitle": "Agent Skills collects reusable instructions for coding assistants",
+  "summary": "Agent Skills is a registry and installation tool for reusable instructions across coding assistants including Claude Code, Cursor and Copilot. It ranked second among today’s eligible unpublished AI repositories in the captured Trending results, with a score of 506 and about 6,000 total stars.",
+  "friendlySummary": "The project helps people find and install skills for several AI coding tools. It was the second-highest eligible AI repository in today’s captured Trending results.",
+  "whyItMatters": "Teams can discover, inspect and reuse task-specific guidance instead of rebuilding every coding workflow from scratch. A validation layer reduces risk but does not remove it: review skill files, scripts, permissions, licences and attribution requirements before installation.",
+  "friendlyWhyItMatters": "It can save time when setting up repeated coding tasks. Read every skill and its rules before allowing it to run on important code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

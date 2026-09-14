@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_01_anthropic-says-agentic-coding-drove-a-25-fold-rise-in-ci-jobs_8f1dbbf7",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+  "canonicalUrl": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "Anthropic says agentic coding drove a 25-fold rise in CI jobs",
+  "friendlyTitle": "More AI-written code put heavy pressure on Anthropic’s test system",
+  "summary": "Anthropic reports that its continuous-integration job volume grew 25-fold in six months as Claude helped generate and review more code and tests. After several short-lived capacity fixes, the company redesigned its deterministic test-selection service so independent workers could process results in parallel.",
+  "friendlySummary": "Anthropic says its software test jobs grew 25 times in six months. It had to redesign the system that chooses and records tests.",
+  "whyItMatters": "Faster code generation moves the bottleneck rather than removing it. Teams adopting coding agents should measure pressure on tests, review queues and deployment systems, then keep verification deterministic instead of asking another model to guess what passed.",
+  "friendlyWhyItMatters": "AI can create code faster, but the code still needs careful testing. Companies should prepare their test systems before they greatly increase AI coding.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_08_superhuman-acquires-meeting-assistant-fathom_9566a3a7",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "Superhuman acquires meeting assistant Fathom",
+  "friendlyTitle": "Superhuman buys the AI meeting notes tool Fathom",
+  "summary": "Superhuman is acquiring AI meeting-notetaker Fathom, which says it has more than 400,000 monthly active users. The deal adds meeting transcripts, decisions and action items to Superhuman’s broader productivity platform as it works toward assistants that can start follow-up tasks proactively.",
+  "friendlySummary": "Fathom records and summarises meetings and says it has more than 400,000 monthly users. Superhuman plans to connect that meeting context with its productivity tools.",
+  "whyItMatters": "Email, calendars and meeting records are converging into one context layer for workplace agents. Customers should watch how consent, recording notices, retention and cross-product data controls change as those previously separate tools are combined.",
+  "friendlyWhyItMatters": "Joined-up tools may make follow-up work easier. Users should check who can see recordings, how long data is kept and whether meeting information is reused elsewhere.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

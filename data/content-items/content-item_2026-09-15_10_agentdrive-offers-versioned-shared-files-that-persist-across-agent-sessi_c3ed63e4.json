@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_10_agentdrive-offers-versioned-shared-files-that-persist-across-agent-sessi_c3ed63e4",
+  "sourceKind": "product",
+  "sourceName": "Token Canopy",
+  "sourceUrl": "https://tokencanopy.com/products/agentdrive",
+  "canonicalUrl": "https://tokencanopy.com/products/agentdrive",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "AgentDrive offers versioned shared files that persist across agent sessions",
+  "friendlyTitle": "AgentDrive gives AI agents shared files that do not disappear",
+  "summary": "AgentDrive is a beta cloud filesystem where people and agents can share multiple permissioned drives, keep version history and retain work after an agent session ends. Its current MCP endpoint supports Claude Code and Codex, and the vendor warns that the v0 API may change.",
+  "friendlySummary": "People and agents can use shared drives, keep older file versions and continue work in later sessions. The service is still in beta.",
+  "whyItMatters": "Durable files can make handoffs between agents more reliable than repeatedly pasting context into prompts. Treat the drive as a real shared data store: grant the least access needed, avoid unreviewed secrets and plan for API changes while the service remains in beta.",
+  "friendlyWhyItMatters": "This can make agent handoffs easier. Use careful permissions, keep secrets out unless necessary and expect the early API to change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

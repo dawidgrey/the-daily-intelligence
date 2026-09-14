@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_13_danny-avila-librechat-provides-a-self-hosted-interface-for-models-and-ag_216404bf",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/danny-avila/LibreChat",
+  "canonicalUrl": "https://github.com/danny-avila/LibreChat",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "danny-avila/LibreChat provides a self-hosted interface for models and agents",
+  "friendlyTitle": "LibreChat is a self-hosted home for many AI models and agents",
+  "summary": "LibreChat is an open-source, multi-user chat interface supporting numerous model providers, agents, MCP, tools, code execution and authentication. It ranked third among today’s eligible unpublished AI repositories in the captured Trending results, with a score of 294 and roughly 43,500 total stars.",
+  "friendlySummary": "LibreChat gives teams one chat interface for many AI providers, tools and agents. It was the third-highest eligible AI repository in today’s captured Trending results.",
+  "whyItMatters": "Organisations can offer a consistent interface across multiple providers while retaining control over deployment and user access. Self-hosting still requires disciplined upgrades, secret management, tool permissions and monitoring, especially when agents can execute code or reach internal systems.",
+  "friendlyWhyItMatters": "Teams can manage several AI services in one place. Administrators still need to protect keys, update the software and tightly control powerful tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

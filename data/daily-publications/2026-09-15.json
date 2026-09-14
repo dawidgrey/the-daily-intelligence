@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-15",
+  "slug": "2026-09-15",
+  "status": "published",
+  "publicationDateUtc": "2026-09-14T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI work meets the systems around it",
+  "friendlyHeader": "AI is becoming part of real work",
+  "summary": "Today’s issue is less about a single breakthrough than the machinery that makes AI useful: test infrastructure, governed financial workflows, persistent files, measurable marketing loops and clearer operating rules. Consumer assistants are also becoming more practical, while three heavily trending repositories offer foundations for models, skills and self-hosted chat.",
+  "friendlySummary": "Today, we look at AI that helps with software tests, finance, marketing, email, meetings and phone tasks. We also cover safer rules, security research and three popular open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-15_01_anthropic-says-agentic-coding-drove-a-25-fold-rise-in-ci-jobs_8f1dbbf7",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_02_langchain-open-sources-the-paid-media-agent-behind-its-campaign-workflow_9ead411f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_03_pc-alm-trains-1-000-layer-networks-using-local-learning-dynamics_71e0793e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_04_security-benchmark-finds-ai-agents-reliably-exploit-simple-access-contro_ca904f83",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_05_fyxer-explains-why-its-email-assistant-uses-many-narrow-models_296d33de",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_06_microsoft-opens-its-draft-mai-model-code-of-conduct-for-public-comment_eee5e396",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_07_anthropic-connects-claude-to-financial-adviser-data-and-workflow-tools_a7da05dd",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_08_superhuman-acquires-meeting-assistant-fathom_9566a3a7",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_09_ios-27-gives-siri-multi-step-tasks-and-personal-on-screen-context_f7b5c927",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_10_agentdrive-offers-versioned-shared-files-that-persist-across-agent-sessi_c3ed63e4",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_11_huggingface-transformers-remains-the-central-toolkit-for-open-model-work_9a589f3b",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_12_tech-leads-club-agent-skills-builds-a-validated-catalogue-for-coding-age_0ef977a8",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-15_13_danny-avila-librechat-provides-a-self-hosted-interface-for-models-and-ag_216404bf",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-15.json",
+    "itemCount": 13
+  }
+}

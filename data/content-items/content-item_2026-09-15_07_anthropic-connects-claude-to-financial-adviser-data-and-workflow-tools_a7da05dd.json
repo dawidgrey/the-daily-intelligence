@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_07_anthropic-connects-claude-to-financial-adviser-data-and-workflow-tools_a7da05dd",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+  "canonicalUrl": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "Anthropic connects Claude to financial-adviser data and workflow tools",
+  "friendlyTitle": "Claude gets new tools for financial advisers",
+  "summary": "Reuters reports that Anthropic launched Claude for Financial Advisors, connecting Claude with investment analytics and wealth-management software from providers including BlackRock, Charles Schwab, Addepar, Envestnet and Orion. The product targets meeting preparation, portfolio review and client follow-up.",
+  "friendlySummary": "Claude can connect to several investment and wealth-management systems. It is designed to help prepare meetings, review portfolios and handle follow-up work.",
+  "whyItMatters": "Connecting an assistant to live financial systems can reduce preparation work, but it also raises the cost of stale data, unsuitable recommendations and weak permissions. Firms should require source traceability, role-based access and adviser approval before client-facing output or action.",
+  "friendlyWhyItMatters": "This may save advisers time, but financial work needs current sources, strong access controls and a qualified person checking every important result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

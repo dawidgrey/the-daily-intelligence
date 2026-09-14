@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_03_pc-alm-trains-1-000-layer-networks-using-local-learning-dynamics_71e0793e",
+  "sourceKind": "research",
+  "sourceName": "Sakana AI",
+  "sourceUrl": "https://pub.sakana.ai/pc-alm/",
+  "canonicalUrl": "https://pub.sakana.ai/pc-alm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "PC-ALM trains 1,000-layer networks using local learning dynamics",
+  "friendlyTitle": "A new method trains very deep networks without normal backpropagation",
+  "summary": "Sakana AI researchers introduced PC-ALM, a predictive-coding method that distributes learning signals through neighbouring layers rather than standard backpropagation. In the authors’ experiments, it trained narrow residual networks up to 1,000 layers and approached backpropagation performance on small vision benchmarks.",
+  "friendlySummary": "PC-ALM lets each network layer learn from nearby layers. The researchers used it on networks with up to 1,000 layers in small image tests.",
+  "whyItMatters": "The work is early and does not replace backpropagation for today’s large models, but it offers a testable route toward more local learning rules. That could matter for neuroscience-inspired systems and hardware where local dynamics are cheaper than global gradient passes.",
+  "friendlyWhyItMatters": "This is early research, not a ready replacement for current AI training. It may help future computers learn with less global coordination.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

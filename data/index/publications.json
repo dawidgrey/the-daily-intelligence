@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-13T20:05:41Z",
+  "generatedAtUtc": "2026-09-14T20:04:15Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-15",
+      "slug": "2026-09-15",
+      "status": "published",
+      "publicationDateUtc": "2026-09-14T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI work meets the systems around it",
+      "friendlyHeader": "AI is becoming part of real work",
+      "summary": "Today’s issue is less about a single breakthrough than the machinery that makes AI useful: test infrastructure, governed financial workflows, persistent files, measurable marketing loops and clearer operating rules. Consumer assistants are also becoming more practical, while three heavily trending repositories offer foundations for models, skills and self-hosted chat.",
+      "friendlySummary": "Today, we look at AI that helps with software tests, finance, marketing, email, meetings and phone tasks. We also cover safer rules, security research and three popular open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-09-15.html",
+      "dataUrl": "data/daily-publications/2026-09-15.json"
+    },
     {
       "id": "daily-publication_2026-09-14",
       "slug": "2026-09-14",

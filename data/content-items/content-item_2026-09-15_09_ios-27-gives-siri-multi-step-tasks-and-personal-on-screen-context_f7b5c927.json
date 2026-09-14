@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_09_ios-27-gives-siri-multi-step-tasks-and-personal-on-screen-context_f7b5c927",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "iOS 27 gives Siri multi-step tasks and personal on-screen context",
+  "friendlyTitle": "The new Siri can use more of what is on your iPhone",
+  "summary": "TechCrunch’s hands-on review says the redesigned Siri in iOS 27 can follow multi-step requests, use context from files, messages and email, understand what is on screen, and draft or send messages. The reviewer found it substantially more useful while still encountering occasional errors during beta testing.",
+  "friendlySummary": "In iOS 27, Siri can handle requests with several steps and use information from your screen, files, messages and email. A reviewer found it more useful but not perfect.",
+  "whyItMatters": "This brings agent-like help into a device many people already carry, lowering the effort needed to find information and complete small tasks. Because usefulness depends on personal context, users should review app permissions and confirm messages or actions before sending.",
+  "friendlyWhyItMatters": "It may save time on everyday phone tasks. Check what Siri can access and confirm important actions before they happen.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}

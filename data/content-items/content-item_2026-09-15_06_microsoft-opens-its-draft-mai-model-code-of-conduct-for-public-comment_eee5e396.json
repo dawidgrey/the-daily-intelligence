@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-15_06_microsoft-opens-its-draft-mai-model-code-of-conduct-for-public-comment_eee5e396",
+  "sourceKind": "regulation",
+  "sourceName": "Microsoft AI",
+  "sourceUrl": "https://microsoft.ai/news/mai-code-of-conduct/",
+  "canonicalUrl": "https://microsoft.ai/news/mai-code-of-conduct/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-14T20:04:14Z",
+  "createdAtUtc": "2026-09-14T20:04:14Z",
+  "updatedAtUtc": "2026-09-14T20:04:14Z",
+  "title": "Microsoft opens its draft MAI model code of conduct for public comment",
+  "friendlyTitle": "Microsoft shares draft rules for how its AI models should behave",
+  "summary": "Microsoft AI published a draft training and deployment code for its own MAI models and opened a six-week consultation. The document says models should remain under human control, accept interruption and shutdown, avoid expanding their own scope, and follow absolute constraints in areas such as weapons, child safety and mass manipulation.",
+  "friendlySummary": "The rules say Microsoft’s models should follow people’s direction, accept being stopped and avoid several kinds of serious harm. The public can comment for six weeks.",
+  "whyItMatters": "This is a company policy draft, not an independently enforced standard, but it creates specific promises that customers and researchers can test against future MAI products. Organisations writing their own agent rules can also compare whether their shutdown, scope and audit requirements are equally explicit.",
+  "friendlyWhyItMatters": "Clear written rules make it easier to check whether an AI product behaves as promised. The rules are still a draft and Microsoft is responsible for proving they work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-15"
+  }
+}
