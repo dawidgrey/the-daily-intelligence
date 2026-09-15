@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_01_gemini-3-8-live-adds-simultaneous-reasoning-and-background-tool-use-to-v_f4c3141c",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Gemini 3.8 Live adds simultaneous reasoning and background tool use to voice agents",
+  "friendlyTitle": "Gemini’s new voice AI can keep talking while it uses tools",
+  "summary": "Google launched Gemini 3.8 Live and an Extended Thinking version for real-time voice conversations. The models can use visual context, switch among 97 languages, call tools in the background and, in the extended version, narrate progress while reasoning through multi-step work.",
+  "friendlySummary": "Google released two voice models that can understand images, change languages and do background tasks during a conversation. The stronger version can explain its progress while working.",
+  "whyItMatters": "Voice interfaces become more useful when they can keep a conversation moving while software completes a task. Developers can access both models through the Gemini API, but should test Google’s benchmark claims on their own accents, latency, tool errors and confirmation requirements.",
+  "friendlyWhyItMatters": "This could make voice assistants less awkward and more useful. Important actions still need testing and clear confirmation before they happen.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

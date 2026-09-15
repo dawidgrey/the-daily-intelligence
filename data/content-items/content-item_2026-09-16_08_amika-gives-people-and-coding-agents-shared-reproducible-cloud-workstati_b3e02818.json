@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_08_amika-gives-people-and-coding-agents-shared-reproducible-cloud-workstati_b3e02818",
+  "sourceKind": "product",
+  "sourceName": "Amika",
+  "sourceUrl": "https://www.amika.dev/",
+  "canonicalUrl": "https://www.amika.dev/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Amika gives people and coding agents shared, reproducible cloud workstations",
+  "friendlyTitle": "Amika lets teams share the same computer workspace with coding agents",
+  "summary": "Amika introduced shareable virtual workstations called Rigs that bundle repositories, services and coding agents in versioned environments. Teams can steer them through the web, CLI, SSH, Slack, Linear or GitHub, inspect live previews and take over an agent session.",
+  "friendlySummary": "Amika creates cloud computers with the project, services and coding tools already set up. People can watch the work, test previews and take control of an agent session.",
+  "whyItMatters": "Coding agents are easier to supervise when their environment is reproducible and a colleague can inspect the running result rather than only a patch. Before placing sensitive code there, teams should examine isolation, data handling and network controls; some secret-hiding and network-control features are still listed as coming soon.",
+  "friendlyWhyItMatters": "Shared workspaces can make AI coding easier to review. Check the security and privacy controls before using private code or important secrets.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

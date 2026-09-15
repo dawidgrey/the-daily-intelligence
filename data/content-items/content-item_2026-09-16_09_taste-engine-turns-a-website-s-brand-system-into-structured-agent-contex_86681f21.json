@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_09_taste-engine-turns-a-website-s-brand-system-into-structured-agent-contex_86681f21",
+  "sourceKind": "product",
+  "sourceName": "Taste Labs",
+  "sourceUrl": "https://engine.tastelabs.com/",
+  "canonicalUrl": "https://engine.tastelabs.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Taste Engine turns a website’s brand system into structured agent context",
+  "friendlyTitle": "Taste Engine gives design agents a website’s brand rules",
+  "summary": "Taste Labs launched an API that extracts logos, colour palettes, fonts and brand metadata from a website into a structured design system. It also supports natural-language brand search and checks generated output against the captured brand context.",
+  "friendlySummary": "The API collects a site’s logos, colours, fonts and other brand details. An agent can use that information and check whether new work matches the brand.",
+  "whyItMatters": "Design agents often lose time rediscovering basic brand rules or produce inconsistent assets. Structured context can make that step repeatable, but teams should verify extraction accuracy and confirm that automated use of logos, fonts and third-party brand material is authorised.",
+  "friendlyWhyItMatters": "This may make repeated design work more consistent. People still need to check accuracy and make sure they have permission to use the brand material.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

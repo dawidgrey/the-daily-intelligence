@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_07_openart-launches-an-expert-led-benchmark-for-creative-ai-models_0d4b77e9",
+  "sourceKind": "product",
+  "sourceName": "OpenArt",
+  "sourceUrl": "https://openart.ai/arena",
+  "canonicalUrl": "https://openart.ai/arena",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "OpenArt launches an expert-led benchmark for creative AI models",
+  "friendlyTitle": "A new leaderboard compares image and video AI by creative job",
+  "summary": "OpenArt published an Arena that ranks image and video models using evaluations organised around professional tasks including advertising, film, animation, graphic design, editing and lip-sync. Its first tables separate overall performance from use-case-specific rankings rather than naming one universal winner.",
+  "friendlySummary": "OpenArt ranks creative models for work such as ads, films, animation, design and editing. Different models can lead in different kinds of work.",
+  "whyItMatters": "Creative teams usually care about a particular job, not an abstract model score. A task-specific comparison can help narrow trials, though buyers should inspect the methodology and test shortlisted models with their own prompts, rights requirements and production constraints.",
+  "friendlyWhyItMatters": "The best model depends on what you need to make. Use the rankings as a shortlist, then test with your own work and rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

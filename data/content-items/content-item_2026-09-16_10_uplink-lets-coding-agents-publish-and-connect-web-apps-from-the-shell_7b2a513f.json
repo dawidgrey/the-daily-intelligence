@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_10_uplink-lets-coding-agents-publish-and-connect-web-apps-from-the-shell_7b2a513f",
+  "sourceKind": "product",
+  "sourceName": "Uplink",
+  "sourceUrl": "https://uplink.spot/",
+  "canonicalUrl": "https://uplink.spot/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Uplink lets coding agents publish and connect web apps from the shell",
+  "friendlyTitle": "Uplink helps coding agents put web apps online from the command line",
+  "summary": "Uplink is an npm package for agent-driven web management. Its command-line workflow lets an agent share a local service, deploy an application and attach a domain without handing the task to a separate browser dashboard.",
+  "friendlySummary": "An agent can use one command-line package to share a local app, deploy it and connect a domain. It does not need a separate web dashboard.",
+  "whyItMatters": "Keeping deployment in a scriptable shell can remove awkward handoffs and make an agent’s actions easier to record. Because deployment and domain changes affect public infrastructure, teams should use narrow credentials, preview changes and require approval before production updates.",
+  "friendlyWhyItMatters": "This can make publishing faster and easier to automate. Keep access limited and require a person to approve changes to the real website.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

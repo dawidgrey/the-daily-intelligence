@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_02_jev-trades-free-form-text-for-fast-typed-decisions-inside-software_642a1494",
+  "sourceKind": "product",
+  "sourceName": "TypeSafe AI",
+  "sourceUrl": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "canonicalUrl": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Jev trades free-form text for fast, typed decisions inside software",
+  "friendlyTitle": "Jev gives software quick, structured answers instead of prose",
+  "summary": "TypeSafe AI opened early access to Jev, a model that returns predefined structured values and calibrated probabilities rather than generating prose token by token. The company positions it for classification, routing, extraction and other repeated decisions, and reports response times of roughly 70 to 500 milliseconds.",
+  "friendlySummary": "Jev is made for choices such as classifying, routing or scoring information. It returns allowed values with confidence estimates instead of writing an open-ended response.",
+  "whyItMatters": "Many business workflows need a bounded decision rather than an eloquent answer. Typed output can simplify validation and reduce one class of integration failure, although the speed, cost and accuracy comparisons are vendor-run and need independent testing on real workloads.",
+  "friendlyWhyItMatters": "A narrow answer can be easier and safer for software to use. Teams should still test whether the answer itself is correct, not only whether its format is valid.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

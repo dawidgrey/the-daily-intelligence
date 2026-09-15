@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-14T20:04:15Z",
+  "generatedAtUtc": "2026-09-15T20:03:58Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-09-16",
+      "slug": "2026-09-16",
+      "status": "published",
+      "publicationDateUtc": "2026-09-15T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Voice agents move closer to real work",
+      "friendlyHeader": "AI is learning to talk, decide and work more reliably",
+      "summary": "Today’s issue follows a practical shift from chat toward systems that can speak, decide, verify and act inside ordinary workflows. New voice models and structured decision tools promise lower-friction automation, while fresh research warns that one successful agent run is not proof of reliability. The supporting tools are also maturing, from shared coding workstations and brand-aware APIs to open research and code-review projects.",
+      "friendlySummary": "Today, we look at better voice AI, faster software decisions, safer coding, health research and useful tools for teams. We also explain why an AI agent that works once may not work the same way next time.",
+      "itemCount": 13,
+      "href": "issues/2026-09-16.html",
+      "dataUrl": "data/daily-publications/2026-09-16.json"
+    },
     {
       "id": "daily-publication_2026-09-15",
       "slug": "2026-09-15",

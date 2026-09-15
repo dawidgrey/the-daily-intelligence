@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_06_neuro-formal-verification-pairs-coding-agents-with-machine-checked-proof_8b98267d",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2608.21516",
+  "canonicalUrl": "https://arxiv.org/abs/2608.21516",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "Neuro-formal verification pairs coding agents with machine-checked proofs",
+  "friendlyTitle": "AI agents can help turn ordinary code into checkable proofs",
+  "summary": "A revised preprint proposes having an AI agent translate programs in mainstream languages into proof obligations handled by established formal verifiers. On a balanced set of correct and buggy Python programs, the Dafny version resolved 57% of entries with 92% precision among its verdicts; a CBMC version found counterexamples for 63% of buggy programs at 90% precision.",
+  "friendlySummary": "The researchers use an AI agent to describe a software claim in a form that a proof tool can check. Early tests found useful results, but the method could not handle every program.",
+  "whyItMatters": "Machine-checked evidence is stronger than simply asking a model whether code looks correct. The method still cannot guarantee that the agent translated the original program and environment faithfully, so it complements rather than replaces tests and expert review.",
+  "friendlyWhyItMatters": "A checked proof can give stronger evidence than an AI opinion. People must still confirm that the proof describes the real code and its real environment correctly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

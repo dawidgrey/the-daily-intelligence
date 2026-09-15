@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_12_alphaxiv-openresearch-turns-coding-agents-into-local-first-research-work_80e4f50f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/alphaXiv/OpenResearch",
+  "canonicalUrl": "https://github.com/alphaXiv/OpenResearch",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "alphaXiv/OpenResearch turns coding agents into local-first research workers",
+  "friendlyTitle": "OpenResearch gives AI agents a workspace for research and experiments",
+  "summary": "OpenResearch provides a local-first workspace where coding agents can review literature, propose hypotheses, run experiments and preserve the lineage of parallel attempts. It added 593 stars today, the second-highest count among eligible, previously unpublished AI repositories found on GitHub Trending.",
+  "friendlySummary": "The project helps agents read papers, form ideas, run tests and keep a history of what they tried. It was the second-highest eligible new AI repository in today’s Trending list.",
+  "whyItMatters": "Researchers can organise agent experiments and evidence in one workspace, then run the same source snapshot locally or on remote compute. Review autonomous experiment plans, protect remote hosts and account for the project’s opt-out usage telemetry before adoption.",
+  "friendlyWhyItMatters": "Researchers can keep experiments and results together across local and remote computers. Check agent plans, remote security and telemetry settings first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

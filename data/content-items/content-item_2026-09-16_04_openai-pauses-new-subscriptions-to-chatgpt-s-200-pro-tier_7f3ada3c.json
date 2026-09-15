@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-16_04_openai-pauses-new-subscriptions-to-chatgpt-s-200-pro-tier_7f3ada3c",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Help Center",
+  "sourceUrl": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+  "canonicalUrl": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-15T20:03:58Z",
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "title": "OpenAI pauses new subscriptions to ChatGPT’s $200 Pro tier",
+  "friendlyTitle": "New customers cannot currently buy ChatGPT’s $200 Pro plan",
+  "summary": "OpenAI says new sign-ups and upgrades to its $200-a-month Pro plan are temporarily paused. Existing $200 subscriptions continue, and the $100 Pro tier remains available with the same core features but lower usage allowances.",
+  "friendlySummary": "OpenAI has temporarily stopped new purchases and upgrades for its highest-use Pro plan. Current customers keep it, and the $100 plan is still available.",
+  "whyItMatters": "People relying on the highest consumer usage tier should avoid accidental cancellation or downgrade because they cannot buy it again during the pause. The change also underlines that paid access and capacity can shift, so critical workflows need a fallback plan.",
+  "friendlyWhyItMatters": "If you already use the $200 plan, check carefully before cancelling or changing it. Important work should not depend on one plan always being available.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-16"
+  }
+}

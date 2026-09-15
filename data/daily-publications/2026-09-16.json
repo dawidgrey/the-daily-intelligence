@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-16",
+  "slug": "2026-09-16",
+  "status": "published",
+  "publicationDateUtc": "2026-09-15T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Voice agents move closer to real work",
+  "friendlyHeader": "AI is learning to talk, decide and work more reliably",
+  "summary": "Today’s issue follows a practical shift from chat toward systems that can speak, decide, verify and act inside ordinary workflows. New voice models and structured decision tools promise lower-friction automation, while fresh research warns that one successful agent run is not proof of reliability. The supporting tools are also maturing, from shared coding workstations and brand-aware APIs to open research and code-review projects.",
+  "friendlySummary": "Today, we look at better voice AI, faster software decisions, safer coding, health research and useful tools for teams. We also explain why an AI agent that works once may not work the same way next time.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-16_01_gemini-3-8-live-adds-simultaneous-reasoning-and-background-tool-use-to-v_f4c3141c",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_02_jev-trades-free-form-text-for-fast-typed-decisions-inside-software_642a1494",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_03_ibm-research-exposes-the-consistency-gap-hidden-by-average-agent-scores_16a7b27e",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_04_openai-pauses-new-subscriptions-to-chatgpt-s-200-pro-tier_7f3ada3c",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_05_openai-foundation-commits-more-than-125-million-to-public-health-dataset_12ff2946",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_06_neuro-formal-verification-pairs-coding-agents-with-machine-checked-proof_8b98267d",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_07_openart-launches-an-expert-led-benchmark-for-creative-ai-models_0d4b77e9",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_08_amika-gives-people-and-coding-agents-shared-reproducible-cloud-workstati_b3e02818",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_09_taste-engine-turns-a-website-s-brand-system-into-structured-agent-contex_86681f21",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_10_uplink-lets-coding-agents-publish-and-connect-web-apps-from-the-shell_7b2a513f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_11_alibaba-open-code-review-combines-fixed-checks-with-an-llm-review-agent_f7cfdfd7",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_12_alphaxiv-openresearch-turns-coding-agents-into-local-first-research-work_80e4f50f",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-16_13_addyosmani-agent-skills-packages-tested-engineering-workflows-for-coding_2e74d022",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-15T20:03:58Z",
+  "updatedAtUtc": "2026-09-15T20:03:58Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-16.json",
+    "itemCount": 13
+  }
+}
