@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-17_06_bragjack-research-exposes-a-shared-weakness-in-five-ai-enabled-browsers_9402b4f1",
+  "sourceKind": "research",
+  "sourceName": "Forever Security",
+  "sourceUrl": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+  "canonicalUrl": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-16T20:05:33Z",
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "title": "BragJack research exposes a shared weakness in five AI-enabled browsers",
+  "friendlyTitle": "AI browser tools can make bad extensions more dangerous",
+  "summary": "Researchers report vulnerabilities across Chrome, Edge, Opera Neon, Perplexity Comet and Claude in Chrome that let malicious extensions exploit trusted connections between browser interfaces and AI assistants. Vendors paid bounties for the findings, which included zero-click paths and, in some cases, access to local files or device sensors.",
+  "friendlySummary": "Security researchers found related flaws in five browsers with AI assistants. A harmful extension could abuse the trusted link between the assistant and the browser.",
+  "whyItMatters": "A browser agent can combine web content, personal data and real actions, so an extension flaw can carry more authority than an ordinary webpage bug. Review extension permissions, remove unused add-ons and keep browsers updated.",
+  "friendlyWhyItMatters": "Delete extensions you do not need, check their permissions and install browser updates. AI features can increase the damage an unsafe extension can cause.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-17"
+  }
+}

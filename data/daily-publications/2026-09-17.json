@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-17",
+  "slug": "2026-09-17",
+  "status": "published",
+  "publicationDateUtc": "2026-09-16T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from chat into work, homes and higher-stakes systems",
+  "friendlyHeader": "AI is becoming part of everyday work and life",
+  "summary": "Today’s issue tracks AI becoming less of a separate destination and more of an operating layer: inside documents, advertising, workplace measurement, smart homes and medicine. That wider reach also sharpens the need for permissions, verification and visible human control.",
+  "friendlySummary": "Today we look at AI tools for documents, work, email, smart homes and medicine. We also cover important safety lessons as AI systems gain more power to take action.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-17_01_anthropic-unifies-claude-chat-and-cowork-adding-docs-and-slides_a28c5c64",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_02_openai-tests-sponsored-agents-and-expands-ai-tools-for-advertisers_52752974",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_03_chatgpt-work-analytics-connect-ai-activity-to-business-outcomes_5f7e182a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_04_openai-study-finds-ai-assisted-tasks-are-broadening-workers-roles_71646fff",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_05_novo-nordisk-partners-with-anthropic-for-drug-research-and-development_5046b696",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_06_bragjack-research-exposes-a-shared-weakness-in-five-ai-enabled-browsers_9402b4f1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_07_researchers-trace-earlier-hugging-face-probing-to-openai-linked-agents_1171fe12",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_08_google-home-opens-early-mcp-access-to-third-party-ai-agents_ffa6cd36",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_09_opendocbot-brings-a-bring-your-own-model-agent-to-microsoft-office_1ad9f422",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_10_tabmail-adds-confirm-before-action-ai-to-thunderbird-and-iphone_ecea342e",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_11_tencentcloud-octop-a-self-hosted-multi-user-multi-agent-assistant_e2fd3d80",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_12_snailsploit-claude-red-offensive-security-skills-for-authorised-testing_983f23e9",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-17_13_meituan-longcat-longcat-video-open-tools-for-video-and-avatar-generation_94272189",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-17.json",
+    "itemCount": 13
+  }
+}

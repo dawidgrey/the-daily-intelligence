@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-15T20:03:58Z",
+  "generatedAtUtc": "2026-09-16T20:05:33Z",
   "items": [
     {
-      "id": "content-item_2026-09-16_01_gemini-3-8-live-adds-simultaneous-reasoning-and-background-tool-use-to-v_f4c3141c",
+      "id": "content-item_2026-09-17_01_anthropic-unifies-claude-chat-and-cowork-adding-docs-and-slides_a28c5c64",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Gemini 3.8 Live adds simultaneous reasoning and background tool use to voice agents",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      "sourceName": "Reuters",
+      "title": "Anthropic unifies Claude chat and Cowork, adding Docs and Slides",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/"
     },
     {
-      "id": "content-item_2026-09-16_02_jev-trades-free-form-text-for-fast-typed-decisions-inside-software_642a1494",
+      "id": "content-item_2026-09-17_02_openai-tests-sponsored-agents-and-expands-ai-tools-for-advertisers_52752974",
       "sourceKind": "product",
-      "sourceName": "TypeSafe AI",
-      "title": "Jev trades free-form text for fast, typed decisions inside software",
-      "sourceUrl": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+      "sourceName": "OpenAI",
+      "title": "OpenAI tests Sponsored Agents and expands AI tools for advertisers",
+      "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai"
     },
     {
-      "id": "content-item_2026-09-16_03_ibm-research-exposes-the-consistency-gap-hidden-by-average-agent-scores_16a7b27e",
+      "id": "content-item_2026-09-17_03_chatgpt-work-analytics-connect-ai-activity-to-business-outcomes_5f7e182a",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Work analytics connect AI activity to business outcomes",
+      "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    {
+      "id": "content-item_2026-09-17_04_openai-study-finds-ai-assisted-tasks-are-broadening-workers-roles_71646fff",
       "sourceKind": "research",
-      "sourceName": "IBM Research on Hugging Face",
-      "title": "IBM research exposes the consistency gap hidden by average agent scores",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+      "sourceName": "OpenAI Economic Research",
+      "title": "OpenAI study finds AI-assisted tasks are broadening workers’ roles",
+      "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     {
-      "id": "content-item_2026-09-16_04_openai-pauses-new-subscriptions-to-chatgpt-s-200-pro-tier_7f3ada3c",
-      "sourceKind": "product",
-      "sourceName": "OpenAI Help Center",
-      "title": "OpenAI pauses new subscriptions to ChatGPT’s $200 Pro tier",
-      "sourceUrl": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
+      "id": "content-item_2026-09-17_05_novo-nordisk-partners-with-anthropic-for-drug-research-and-development_5046b696",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Novo Nordisk partners with Anthropic for drug research and development",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/novo-partners-with-anthropic-speed-up-drug-development-with-claude-2026-09-16/"
     },
     {
-      "id": "content-item_2026-09-16_05_openai-foundation-commits-more-than-125-million-to-public-health-dataset_12ff2946",
+      "id": "content-item_2026-09-17_06_bragjack-research-exposes-a-shared-weakness-in-five-ai-enabled-browsers_9402b4f1",
       "sourceKind": "research",
-      "sourceName": "OpenAI Foundation",
-      "title": "OpenAI Foundation commits more than $125 million to public health datasets",
-      "sourceUrl": "https://openaifoundation.org/news/public-data-for-health"
+      "sourceName": "Forever Security",
+      "title": "BragJack research exposes a shared weakness in five AI-enabled browsers",
+      "sourceUrl": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/"
     },
     {
-      "id": "content-item_2026-09-16_06_neuro-formal-verification-pairs-coding-agents-with-machine-checked-proof_8b98267d",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Neuro-formal verification pairs coding agents with machine-checked proofs",
-      "sourceUrl": "https://arxiv.org/abs/2608.21516"
+      "id": "content-item_2026-09-17_07_researchers-trace-earlier-hugging-face-probing-to-openai-linked-agents_1171fe12",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Researchers trace earlier Hugging Face probing to OpenAI-linked agents",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/"
     },
     {
-      "id": "content-item_2026-09-16_07_openart-launches-an-expert-led-benchmark-for-creative-ai-models_0d4b77e9",
+      "id": "content-item_2026-09-17_08_google-home-opens-early-mcp-access-to-third-party-ai-agents_ffa6cd36",
       "sourceKind": "product",
-      "sourceName": "OpenArt",
-      "title": "OpenArt launches an expert-led benchmark for creative AI models",
-      "sourceUrl": "https://openart.ai/arena"
+      "sourceName": "TechCrunch",
+      "title": "Google Home opens early MCP access to third-party AI agents",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
     },
     {
-      "id": "content-item_2026-09-16_08_amika-gives-people-and-coding-agents-shared-reproducible-cloud-workstati_b3e02818",
+      "id": "content-item_2026-09-17_09_opendocbot-brings-a-bring-your-own-model-agent-to-microsoft-office_1ad9f422",
       "sourceKind": "product",
-      "sourceName": "Amika",
-      "title": "Amika gives people and coding agents shared, reproducible cloud workstations",
-      "sourceUrl": "https://www.amika.dev/"
+      "sourceName": "OpenDocBot",
+      "title": "OpenDocBot brings a bring-your-own-model agent to Microsoft Office",
+      "sourceUrl": "https://opendocbot.com/"
     },
     {
-      "id": "content-item_2026-09-16_09_taste-engine-turns-a-website-s-brand-system-into-structured-agent-contex_86681f21",
+      "id": "content-item_2026-09-17_10_tabmail-adds-confirm-before-action-ai-to-thunderbird-and-iphone_ecea342e",
       "sourceKind": "product",
-      "sourceName": "Taste Labs",
-      "title": "Taste Engine turns a website’s brand system into structured agent context",
-      "sourceUrl": "https://engine.tastelabs.com/"
+      "sourceName": "TabMail",
+      "title": "TabMail adds confirm-before-action AI to Thunderbird and iPhone",
+      "sourceUrl": "https://tabmail.ai/"
     },
     {
-      "id": "content-item_2026-09-16_10_uplink-lets-coding-agents-publish-and-connect-web-apps-from-the-shell_7b2a513f",
-      "sourceKind": "product",
-      "sourceName": "Uplink",
-      "title": "Uplink lets coding agents publish and connect web apps from the shell",
-      "sourceUrl": "https://uplink.spot/"
-    },
-    {
-      "id": "content-item_2026-09-16_11_alibaba-open-code-review-combines-fixed-checks-with-an-llm-review-agent_f7cfdfd7",
+      "id": "content-item_2026-09-17_11_tencentcloud-octop-a-self-hosted-multi-user-multi-agent-assistant_e2fd3d80",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "alibaba/open-code-review combines fixed checks with an LLM review agent",
-      "sourceUrl": "https://github.com/alibaba/open-code-review"
+      "title": "TencentCloud/Octop: a self-hosted multi-user, multi-agent assistant",
+      "sourceUrl": "https://github.com/TencentCloud/Octop"
     },
     {
-      "id": "content-item_2026-09-16_12_alphaxiv-openresearch-turns-coding-agents-into-local-first-research-work_80e4f50f",
+      "id": "content-item_2026-09-17_12_snailsploit-claude-red-offensive-security-skills-for-authorised-testing_983f23e9",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "alphaXiv/OpenResearch turns coding agents into local-first research workers",
-      "sourceUrl": "https://github.com/alphaXiv/OpenResearch"
+      "title": "SnailSploit/Claude-Red: offensive-security skills for authorised testing",
+      "sourceUrl": "https://github.com/SnailSploit/Claude-Red"
     },
     {
-      "id": "content-item_2026-09-16_13_addyosmani-agent-skills-packages-tested-engineering-workflows-for-coding_2e74d022",
+      "id": "content-item_2026-09-17_13_meituan-longcat-longcat-video-open-tools-for-video-and-avatar-generation_94272189",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "addyosmani/agent-skills packages tested engineering workflows for coding agents",
-      "sourceUrl": "https://github.com/addyosmani/agent-skills"
+      "title": "meituan-longcat/LongCat-Video: open tools for video and avatar generation",
+      "sourceUrl": "https://github.com/meituan-longcat/LongCat-Video"
     }
   ]
 }

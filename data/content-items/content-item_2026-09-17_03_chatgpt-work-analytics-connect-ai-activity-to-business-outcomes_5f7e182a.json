@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-17_03_chatgpt-work-analytics-connect-ai-activity-to-business-outcomes_5f7e182a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "canonicalUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-16T20:05:33Z",
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "title": "ChatGPT Work analytics connect AI activity to business outcomes",
+  "friendlyTitle": "Companies can measure where ChatGPT helps at work",
+  "summary": "OpenAI has expanded its admin analytics across ChatGPT Work and Codex with views for usage, spend, task categories, skills, plugins and coding outcomes. An Admin plugin and API can also feed those measures into reports and company dashboards.",
+  "friendlySummary": "New admin tools show how teams use ChatGPT and Codex, what the usage costs, and which kinds of work they support.",
+  "whyItMatters": "AI adoption is easier to govern when managers can compare usage with delivery time, quality, defects or revenue rather than counting prompts alone. The task-level visibility also makes privacy rules and transparent employee communication more important.",
+  "friendlyWhyItMatters": "A business can check whether AI is saving time or improving results instead of guessing. It should also be clear with workers about what is measured.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-17"
+  }
+}

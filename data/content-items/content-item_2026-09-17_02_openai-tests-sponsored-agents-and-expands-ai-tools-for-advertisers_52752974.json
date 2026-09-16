@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-17_02_openai-tests-sponsored-agents-and-expands-ai-tools-for-advertisers_52752974",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+  "canonicalUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-16T20:05:33Z",
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "title": "OpenAI tests Sponsored Agents and expands AI tools for advertisers",
+  "friendlyTitle": "ChatGPT ads can now open a conversation with a business",
+  "summary": "OpenAI is testing clearly labelled Sponsored Agents that people can open from ChatGPT ads, while adding campaign creation and analysis through natural-language prompts. HubSpot and Shopify integrations bring the advertising system into tools businesses already use.",
+  "friendlySummary": "OpenAI is testing sponsored business agents and simpler tools for making and managing ads. It is also connecting the system to HubSpot and Shopify.",
+  "whyItMatters": "Advertising inside assistants is moving from a static link toward a conversation with the seller. People will need to distinguish sponsored guidance from independent answers, while small businesses gain a lower-friction route to create and manage campaigns.",
+  "friendlyWhyItMatters": "Businesses may find it easier to run ads. People should notice when advice comes from a paid, sponsored agent.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-17"
+  }
+}

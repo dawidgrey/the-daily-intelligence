@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-17_12_snailsploit-claude-red-offensive-security-skills-for-authorised-testing_983f23e9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/SnailSploit/Claude-Red",
+  "canonicalUrl": "https://github.com/SnailSploit/Claude-Red",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-16T20:05:33Z",
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "title": "SnailSploit/Claude-Red: offensive-security skills for authorised testing",
+  "friendlyTitle": "Claude-Red collects AI skills for approved security testing",
+  "summary": "Claude-Red is a library of structured Claude skill files covering offensive-security methods across web, network, binary and endpoint attack surfaces. The repository has about 5,700 stars and ranked near the top of today’s AI-related Python trends.",
+  "friendlySummary": "This project gives Claude detailed guides for many offensive-security tasks. It is popular on GitHub and contains powerful material.",
+  "whyItMatters": "Security professionals can use the collection as reference material for controlled red-team work and to examine how detailed skills steer an agent. Because the content includes exploit and evasion methods, it belongs only in explicitly authorised, isolated environments with human oversight.",
+  "friendlyWhyItMatters": "Trained security teams can study it in a safe test environment. Do not use it on systems unless you have clear permission.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-17"
+  }
+}

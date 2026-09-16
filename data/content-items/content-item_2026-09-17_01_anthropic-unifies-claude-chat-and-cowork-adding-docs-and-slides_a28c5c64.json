@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-17_01_anthropic-unifies-claude-chat-and-cowork-adding-docs-and-slides_a28c5c64",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/",
+  "canonicalUrl": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-16T20:05:33Z",
+  "createdAtUtc": "2026-09-16T20:05:33Z",
+  "updatedAtUtc": "2026-09-16T20:05:33Z",
+  "title": "Anthropic unifies Claude chat and Cowork, adding Docs and Slides",
+  "friendlyTitle": "Claude puts chat, documents and slides in one place",
+  "summary": "Anthropic is combining Claude chat, Cowork and its visual design tools in one interface, while launching Claude Docs and Claude Slides in beta. Pro and Max users will get the changes first, with exports to Word, Google Docs, PowerPoint and PDF.",
+  "friendlySummary": "Claude will bring its chat and work tools together. It can also help make documents and presentations, then export them to common file formats.",
+  "whyItMatters": "AI workspaces are shifting from separate modes toward one conversation that chooses tools automatically. That may reduce friction, but users still need to check what the system created before sharing finished documents.",
+  "friendlyWhyItMatters": "You may spend less time choosing the right AI mode. You should still review the final document or presentation before using it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-17"
+  }
+}
