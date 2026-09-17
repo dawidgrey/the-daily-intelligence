@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_04_wispr-introduces-canto-for-low-latency-dictation-in-noisy-settings_c382d421",
+  "sourceKind": "product",
+  "sourceName": "Wispr Flow",
+  "sourceUrl": "https://wisprflow.ai/canto",
+  "canonicalUrl": "https://wisprflow.ai/canto",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "Wispr introduces Canto for low-latency dictation in noisy settings",
+  "friendlyTitle": "Wispr’s new speech model aims to understand everyday dictation",
+  "summary": "Wispr has introduced Canto, a real-time speech model trained for spontaneous dictation through everyday microphones and background noise. On Wispr’s own opt-in evaluation data it reported the lowest word error rate among the real-time systems tested, while Gemini 3.1 Pro led its hardest broader comparison.",
+  "friendlySummary": "Canto is built to transcribe speech from real desks, commutes and busy rooms. Wispr says it performed best among the real-time models it tested, while a larger Gemini model did better on the hardest overall test.",
+  "whyItMatters": "Better recognition of short, quiet and noisy speech can make voice input useful outside controlled demos. The results are vendor-reported, but the disclosed test sets and limits make the claim easier for buyers and researchers to assess.",
+  "friendlyWhyItMatters": "Voice tools are more useful when they work with background noise and short phrases. Because Wispr ran the tests, independent checks will still be important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

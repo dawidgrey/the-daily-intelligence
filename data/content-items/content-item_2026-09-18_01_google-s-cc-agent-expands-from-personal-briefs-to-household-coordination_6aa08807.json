@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_01_google-s-cc-agent-expands-from-personal-briefs-to-household-coordination_6aa08807",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "Google’s CC agent expands from personal briefs to household coordination",
+  "friendlyTitle": "Google tests an AI helper for family schedules and tasks",
+  "summary": "Google Labs is expanding its experimental CC agent to groups, starting with US families and households. Up to six adults can selectively share emails, calendars, tasks and files so CC can prepare shared briefs, maintain schedules and help complete forms or plans with permission.",
+  "friendlySummary": "Google’s CC agent can help up to six adults manage shared calendars, tasks, emails and forms. Each person chooses what the agent can see, and it asks permission before sharing information or acting outside the group.",
+  "whyItMatters": "This is a concrete test of whether agents can reduce everyday coordination work without collapsing everyone’s information into one account. Its separate identity and member-level sharing controls are also a useful design pattern for any multi-user business agent.",
+  "friendlyWhyItMatters": "A shared AI helper could save families time, but only if every person can control their own information. The same idea could help small teams at work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

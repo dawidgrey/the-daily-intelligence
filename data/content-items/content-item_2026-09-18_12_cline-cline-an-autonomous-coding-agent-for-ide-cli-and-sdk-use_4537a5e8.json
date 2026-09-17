@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_12_cline-cline-an-autonomous-coding-agent-for-ide-cli-and-sdk-use_4537a5e8",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/cline/cline",
+  "canonicalUrl": "https://github.com/cline/cline",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "cline/cline: an autonomous coding agent for IDE, CLI and SDK use",
+  "friendlyTitle": "Cline runs a coding agent in your editor, terminal or software",
+  "summary": "Cline packages an autonomous coding agent as an IDE extension, command-line assistant and embeddable SDK. The active Apache-licensed project supports headless automation, schedules and messaging integrations and has about 68,500 GitHub stars.",
+  "friendlySummary": "Cline is an open-source coding agent with an IDE extension, command-line tool and SDK. It can also run without a person clicking through each step.",
+  "whyItMatters": "Developers can use Cline interactively, script it in CI or embed its agent runtime in another product. Its broad interfaces make it useful for comparing how the same coding workflow behaves in a desktop editor, terminal and automation pipeline.",
+  "friendlyWhyItMatters": "You can use it for everyday coding, automated checks or as the agent inside another product. Start with a small repository and review its changes before expanding access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-18"
+  },
+  "howItsUseful": "Developers can use Cline interactively, script it in CI or embed its agent runtime in another product. Its broad interfaces make it useful for comparing how the same coding workflow behaves in a desktop editor, terminal and automation pipeline.",
+  "friendlyHowItsUseful": "You can use it for everyday coding, automated checks or as the agent inside another product. Start with a small repository and review its changes before expanding access."
+}

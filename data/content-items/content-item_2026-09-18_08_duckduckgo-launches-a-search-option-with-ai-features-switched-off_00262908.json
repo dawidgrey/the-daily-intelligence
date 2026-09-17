@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_08_duckduckgo-launches-a-search-option-with-ai-features-switched-off_00262908",
+  "sourceKind": "product",
+  "sourceName": "DuckDuckGo",
+  "sourceUrl": "https://noai.duckduckgo.com/",
+  "canonicalUrl": "https://noai.duckduckgo.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "DuckDuckGo launches a search option with AI features switched off",
+  "friendlyTitle": "DuckDuckGo now offers search without AI features",
+  "summary": "DuckDuckGo’s No-AI Search removes AI-assisted answers and AI feature suggestions while filtering AI-generated images from image results by default. It keeps the company’s private-search model and is also available through a browser extension.",
+  "friendlySummary": "DuckDuckGo has made a version of search with AI answers and suggestions turned off. It also hides AI-generated images from image results by default.",
+  "whyItMatters": "The launch makes user choice part of the AI product landscape: sometimes the useful feature is a reliable off switch. It gives people a straightforward way to separate conventional search from generated answers and synthetic imagery.",
+  "friendlyWhyItMatters": "Not every search needs an AI answer. This gives people a simple choice when they want regular links and fewer synthetic images.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

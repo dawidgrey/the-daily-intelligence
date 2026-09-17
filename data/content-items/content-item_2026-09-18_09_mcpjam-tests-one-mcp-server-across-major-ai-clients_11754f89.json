@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_09_mcpjam-tests-one-mcp-server-across-major-ai-clients_11754f89",
+  "sourceKind": "product",
+  "sourceName": "MCPJam",
+  "sourceUrl": "https://www.mcpjam.com/",
+  "canonicalUrl": "https://www.mcpjam.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "MCPJam tests one MCP server across major AI clients",
+  "friendlyTitle": "MCPJam checks whether an AI tool works in different assistants",
+  "summary": "MCPJam provides local inspection, cross-client testing, evaluations and CI gates for MCP servers. It compares how the same tool behaves across clients including Claude, ChatGPT, Cursor, Copilot, VS Code and Codex, with its inspector, CLI and SDK available as open source.",
+  "friendlySummary": "MCPJam lets developers test the same MCP server in many AI clients. It can show where a tool call, login or user journey works in one client but fails in another.",
+  "whyItMatters": "An MCP server can behave differently depending on the host model and client capabilities. Repeatable cross-client tests can catch tool-selection, argument, authentication and workflow failures before users meet them in production.",
+  "friendlyWhyItMatters": "AI tools do not always behave the same in every app. Testing across clients can find problems before customers do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

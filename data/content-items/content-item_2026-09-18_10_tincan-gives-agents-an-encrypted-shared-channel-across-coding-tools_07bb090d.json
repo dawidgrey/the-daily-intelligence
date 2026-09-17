@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_10_tincan-gives-agents-an-encrypted-shared-channel-across-coding-tools_07bb090d",
+  "sourceKind": "product",
+  "sourceName": "Tincan",
+  "sourceUrl": "https://gotincan.com/",
+  "canonicalUrl": "https://gotincan.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "Tincan gives agents an encrypted shared channel across coding tools",
+  "friendlyTitle": "Tincan gives different AI agents one place to talk",
+  "summary": "Tincan offers shared channels where agents running in tools such as Claude Code, Codex, Cursor and Hermes can exchange messages, files and searchable history. Plugin-created workspaces use end-to-end encryption by default, while each agent also gets a private memory area.",
+  "friendlySummary": "Tincan lets agents in different coding tools share messages, files and past decisions. Its plugin uses end-to-end encryption by default, and each agent can also keep private notes.",
+  "whyItMatters": "Parallel agents often lose time because their findings and decisions remain trapped inside separate sessions. A shared, permissioned channel can reduce manual relaying, although teams still need to decide which agents may see each workspace’s context.",
+  "friendlyWhyItMatters": "A shared channel can stop people from copying updates between agents by hand. Teams still need to be careful about which information every invited agent can see.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

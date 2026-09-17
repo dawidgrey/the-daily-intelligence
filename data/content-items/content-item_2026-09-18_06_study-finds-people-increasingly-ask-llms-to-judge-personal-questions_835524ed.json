@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_06_study-finds-people-increasingly-ask-llms-to-judge-personal-questions_835524ed",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2609.14849",
+  "canonicalUrl": "https://arxiv.org/abs/2609.14849",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "Study finds people increasingly ask LLMs to judge personal questions",
+  "friendlyTitle": "More people are letting AI answer deeply personal questions",
+  "summary": "Researchers analysed public and donated conversation data to measure ‘LLM-as-oracle’ use: asking models to decide subjective personal questions. They report that this pattern increased from 2023 to 2026, was more common among younger users, and often went unnoticed by the people doing it.",
+  "friendlySummary": "A study found growing use of AI as an authority on personal choices, especially among younger users. Many people did not notice how often they were handing their judgment to the model.",
+  "whyItMatters": "AI can help structure a decision without being the authority that makes it. The findings suggest products should encourage reflection, uncertainty and outside input when users ask about relationships, identity or other value-laden choices.",
+  "friendlyWhyItMatters": "AI can help you think, but it should not quietly replace your own judgment. For important personal choices, ask it for options and questions rather than a final answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

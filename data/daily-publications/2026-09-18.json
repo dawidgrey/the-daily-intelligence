@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-18",
+  "slug": "2026-09-18",
+  "status": "published",
+  "publicationDateUtc": "2026-09-17T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move into homes, codebases and shared work",
+  "friendlyHeader": "AI is taking on more real-world work",
+  "summary": "Today’s issue follows AI beyond the chat box: a household coordinator, a robot working in unfamiliar homes, production-scale agent coding, and new tools for testing and coordinating agents. It also examines the controls needed when models improvise, overreach or become too persuasive.",
+  "friendlySummary": "Today we look at AI helping families, robots working in new homes, and agents building and testing software. We also cover why people still need clear controls when AI makes decisions or takes action.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-18_01_google-s-cc-agent-expands-from-personal-briefs-to-household-coordination_6aa08807",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_02_figure-s-helix-2-5-works-across-30-unfamiliar-homes-without-retraining_a388563f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_03_github-used-copilot-agents-to-rewrite-an-800-000-line-runtime-in-rust_6b8b0b6f",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_04_wispr-introduces-canto-for-low-latency-dictation-in-noisy-settings_c382d421",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_05_openai-creates-a-formal-process-for-disclosing-model-misalignment_bbe6c30a",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_06_study-finds-people-increasingly-ask-llms-to-judge-personal-questions_835524ed",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_07_a-100-agent-research-swarm-developed-both-cheating-and-whistleblowing_7616cc6b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_08_duckduckgo-launches-a-search-option-with-ai-features-switched-off_00262908",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_09_mcpjam-tests-one-mcp-server-across-major-ai-clients_11754f89",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_10_tincan-gives-agents-an-encrypted-shared-channel-across-coding-tools_07bb090d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_11_arnegiacomo-fugleramme-a-local-ai-bird-frame-for-raspberry-pi_4e7ba9f5",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_12_cline-cline-an-autonomous-coding-agent-for-ide-cli-and-sdk-use_4537a5e8",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-18_13_anthropics-knowledge-work-plugins-reusable-claude-workflows-for-business-roles_618e8fb7",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-18.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_03_github-used-copilot-agents-to-rewrite-an-800-000-line-runtime-in-rust_6b8b0b6f",
+  "sourceKind": "article",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+  "canonicalUrl": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "GitHub used Copilot agents to rewrite an 800,000-line runtime in Rust",
+  "friendlyTitle": "GitHub used AI agents for a very large software rewrite",
+  "summary": "GitHub reports that one developer, supported by Copilot agents, led a migration of the shared Copilot agent runtime from TypeScript to more than 800,000 lines of production Rust. The work landed incrementally across 128 pull requests over several months while the runtime remained in active use.",
+  "friendlySummary": "GitHub says Copilot agents wrote most of an 800,000-line rewrite from TypeScript to Rust. One developer led the work through 128 smaller pull requests instead of making one risky change.",
+  "whyItMatters": "This is a rare, detailed account of agent-assisted engineering at production scale rather than a small benchmark. The incremental migration, test strategy and human review model offer practical lessons for teams considering AI on large refactors.",
+  "friendlyWhyItMatters": "This shows how AI can help with large software projects when people divide the work, review it and ship it in safe steps. It is more useful than a simple coding demo.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-16T20:05:33Z",
+  "generatedAtUtc": "2026-09-17T20:06:28Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-18",
+      "slug": "2026-09-18",
+      "status": "published",
+      "publicationDateUtc": "2026-09-17T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move into homes, codebases and shared work",
+      "friendlyHeader": "AI is taking on more real-world work",
+      "summary": "Today’s issue follows AI beyond the chat box: a household coordinator, a robot working in unfamiliar homes, production-scale agent coding, and new tools for testing and coordinating agents. It also examines the controls needed when models improvise, overreach or become too persuasive.",
+      "friendlySummary": "Today we look at AI helping families, robots working in new homes, and agents building and testing software. We also cover why people still need clear controls when AI makes decisions or takes action.",
+      "itemCount": 13,
+      "href": "issues/2026-09-18.html",
+      "dataUrl": "data/daily-publications/2026-09-18.json"
+    },
     {
       "id": "daily-publication_2026-09-17",
       "slug": "2026-09-17",

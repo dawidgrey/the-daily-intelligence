@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_13_anthropics-knowledge-work-plugins-reusable-claude-workflows-for-business-roles_618e8fb7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/anthropics/knowledge-work-plugins",
+  "canonicalUrl": "https://github.com/anthropics/knowledge-work-plugins",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "anthropics/knowledge-work-plugins: reusable Claude workflows for business roles",
+  "friendlyTitle": "Anthropic shares ready-made Claude workflows for office work",
+  "summary": "Anthropic’s open repository contains file-based Claude plugins for knowledge-work roles and workflows. Plugins combine skills, commands and MCP connector definitions and can be customised without building a separate application; the repository has about 24,500 GitHub stars.",
+  "friendlySummary": "This repository contains reusable Claude plugins for different jobs and business tasks. The files describe what Claude should know, which commands it can run and which tools it can connect to.",
+  "whyItMatters": "Teams can study working plugin structures, adapt role-specific procedures and connect Claude to their existing tools. Because the components are Markdown and JSON, they also provide a readable starting point for reviewing and governing agent instructions.",
+  "friendlyWhyItMatters": "Teams can copy a plugin, change it to match their own process and review the instructions as normal text. It is a useful starting point, not a replacement for checking permissions and results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-18"
+  },
+  "howItsUseful": "Teams can study working plugin structures, adapt role-specific procedures and connect Claude to their existing tools. Because the components are Markdown and JSON, they also provide a readable starting point for reviewing and governing agent instructions.",
+  "friendlyHowItsUseful": "Teams can copy a plugin, change it to match their own process and review the instructions as normal text. It is a useful starting point, not a replacement for checking permissions and results."
+}

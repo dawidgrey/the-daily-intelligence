@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-18_02_figure-s-helix-2-5-works-across-30-unfamiliar-homes-without-retraining_a388563f",
+  "sourceKind": "research",
+  "sourceName": "Figure AI",
+  "sourceUrl": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+  "canonicalUrl": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-17T20:06:28Z",
+  "createdAtUtc": "2026-09-17T20:06:28Z",
+  "updatedAtUtc": "2026-09-17T20:06:28Z",
+  "title": "Figure’s Helix 2.5 works across 30 unfamiliar homes without retraining",
+  "friendlyTitle": "Figure’s robot can try household jobs in homes it has never seen",
+  "summary": "Figure says its Helix 2.5 humanoid policy tidied rooms, folded towels and made beds in 30 homes that were absent from its training data. In the company’s blind evaluations, pretraining on broad human-behaviour data raised zero-shot task success from 9% to 56%.",
+  "friendlySummary": "Figure tested its Helix 2.5 robot in 30 new homes. It could tidy rooms, fold towels and make beds without being trained in those homes, although it did not succeed every time.",
+  "whyItMatters": "Robots become more practical when they can enter a new workplace or home without collecting site-specific training data first. The 56% result is promising rather than finished, but it offers a measurable sign of progress toward adaptable physical assistants.",
+  "friendlyWhyItMatters": "Robots will be more useful if they can adapt to new places instead of needing special training for every room. The results show progress, but the technology is not yet fully reliable.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-18"
+  }
+}
