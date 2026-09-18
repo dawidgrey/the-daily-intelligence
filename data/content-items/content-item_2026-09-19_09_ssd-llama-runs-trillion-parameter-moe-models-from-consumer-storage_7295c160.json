@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_09_ssd-llama-runs-trillion-parameter-moe-models-from-consumer-storage_7295c160",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2609.18110",
+  "canonicalUrl": "https://arxiv.org/abs/2609.18110",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "SSD-LLaMA runs trillion-parameter MoE models from consumer storage",
+  "friendlyTitle": "Researchers ran a huge AI model using an ordinary SSD and one powerful graphics card",
+  "summary": "SSD-LLaMA streams mixture-of-experts model components across SSD, RAM and GPU memory instead of requiring the whole model in expensive memory. The researchers report more than one generated token per second for a trillion-parameter model on one RTX 5090 with no more than 32GB of RAM.",
+  "friendlySummary": "SSD-LLaMA moves only the needed parts of a very large model between storage, memory and the graphics card. In tests, it ran a trillion-parameter model at just over one token each second.",
+  "whyItMatters": "The result is research rather than a ready-made consumer app, and one token per second is slow. Even so, storage-native inference could widen local access to very large open models and reduce dependence on cloud hardware for experiments that tolerate latency.",
+  "friendlyWhyItMatters": "It is slow and still experimental, but it could make very large open models easier to study without a data-centre computer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

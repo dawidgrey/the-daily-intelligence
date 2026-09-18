@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_04_anthropic-opens-a-biology-lab-for-ai-directed-physical-experiments_5a4bcd51",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+  "canonicalUrl": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Anthropic opens a biology lab for AI-directed physical experiments",
+  "friendlyTitle": "Anthropic is testing how Claude can help run real lab experiments",
+  "summary": "Anthropic has established a San Francisco Bay Area wet lab as it expands beyond computer simulations in life sciences. The company is exploring Claude-directed laboratory robotics and preclinical work while saying humans will remain involved and it does not plan to run clinical trials.",
+  "friendlySummary": "Anthropic has opened a biology lab and is exploring whether Claude can direct laboratory robots. People will still supervise the work, and the company says it will stop before human drug trials.",
+  "whyItMatters": "This moves general-purpose AI from advising scientists toward directing physical experiments. Faster laboratory iteration could help neglected research, but it also makes clear oversight, experiment logs and biological safeguards operational requirements rather than abstract policy.",
+  "friendlyWhyItMatters": "AI may help scientists test ideas faster. Because the work happens in the physical world, every step needs strong human review and safety controls.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

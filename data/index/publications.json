@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-17T20:06:28Z",
+  "generatedAtUtc": "2026-09-18T20:04:46Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-19",
+      "slug": "2026-09-19",
+      "status": "published",
+      "publicationDateUtc": "2026-09-18T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI spreads into shared code, laboratories and public systems",
+      "friendlyHeader": "AI is taking on more important jobs",
+      "summary": "Today’s issue tracks AI moving into consequential workflows: shared coding standards, biological experiments, air-traffic planning, maternal health and open-model safety. The common thread is practical control—clear instructions, human escalation and infrastructure that remains dependable when a model’s own explanation is not.",
+      "friendlySummary": "Today we look at AI helping with software, science, flights and health questions. These tools can be useful, but they still need clear rules, human checks and safe limits.",
+      "itemCount": 13,
+      "href": "issues/2026-09-19.html",
+      "dataUrl": "data/daily-publications/2026-09-19.json"
+    },
     {
       "id": "daily-publication_2026-09-18",
       "slug": "2026-09-18",

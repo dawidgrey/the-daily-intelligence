@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-19",
+  "slug": "2026-09-19",
+  "status": "published",
+  "publicationDateUtc": "2026-09-18T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI spreads into shared code, laboratories and public systems",
+  "friendlyHeader": "AI is taking on more important jobs",
+  "summary": "Today’s issue tracks AI moving into consequential workflows: shared coding standards, biological experiments, air-traffic planning, maternal health and open-model safety. The common thread is practical control—clear instructions, human escalation and infrastructure that remains dependable when a model’s own explanation is not.",
+  "friendlySummary": "Today we look at AI helping with software, science, flights and health questions. These tools can be useful, but they still need clear rules, human checks and safe limits.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-19_01_claude-code-adds-agents-md-support-for-shared-project-instructions_ff916376",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_02_security-paper-argues-an-ai-s-words-cannot-be-the-final-safety-boundary_048f2377",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_03_bug-bounty-team-used-frontier-models-to-compromise-openai-employee-accounts_50c802e9",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_04_anthropic-opens-a-biology-lab-for-ai-directed-physical-experiments_5a4bcd51",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_05_faa-narrows-the-first-rollout-of-its-ai-airspace-routing-adviser_429e1f7d",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_06_yello-connects-agents-across-people-while-keeping-approval-at-both-ends_7aeb30bf",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_07_base-labs-hugging-face-and-goodfire-form-an-open-model-safety-partnership_f81776d6",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_08_kenyan-maternal-health-chatbot-routes-urgent-sms-questions-directly-to-nurses_95b06844",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_09_ssd-llama-runs-trillion-parameter-moe-models-from-consumer-storage_7295c160",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_10_openai-cannot-inspect-x-and-apple-s-confidential-antitrust-settlement_586b80b0",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_11_unslothai-unsloth-local-training-and-inference-for-open-ai-models_b0129580",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_12_supermemoryai-supermemory-a-local-capable-memory-layer-for-ai-apps_dc61fcee",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-19_13_higgsfield-ai-higgsfield-fault-tolerant-orchestration-for-large-model-training_c9712c9f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-19.json",
+    "itemCount": 13
+  }
+}

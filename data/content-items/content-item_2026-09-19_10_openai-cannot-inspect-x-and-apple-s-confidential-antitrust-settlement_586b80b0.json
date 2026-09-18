@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_10_openai-cannot-inspect-x-and-apple-s-confidential-antitrust-settlement_586b80b0",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18/",
+  "canonicalUrl": "https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "OpenAI cannot inspect X and Apple’s confidential antitrust settlement",
+  "friendlyTitle": "A judge keeps the Apple and X settlement private from OpenAI",
+  "summary": "A US federal judge denied OpenAI access to the confidential settlement between Apple, X Corp and SpaceXAI, finding it irrelevant to the remaining antitrust case. X and SpaceXAI still allege that Apple’s ChatGPT integration unfairly restricts competition, while Apple says the arrangement is not exclusive.",
+  "friendlySummary": "OpenAI asked to see Apple’s private settlement with Elon Musk’s companies, but a judge said it was not relevant. A separate case about Apple’s ChatGPT integration will continue.",
+  "whyItMatters": "The January trial could influence how operating-system owners integrate AI assistants and how easily competing models reach users. For businesses building assistant features, distribution agreements may become as consequential as model quality.",
+  "friendlyWhyItMatters": "The case may affect whether phone and computer platforms can favour one AI assistant. That can shape which tools customers can easily choose.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

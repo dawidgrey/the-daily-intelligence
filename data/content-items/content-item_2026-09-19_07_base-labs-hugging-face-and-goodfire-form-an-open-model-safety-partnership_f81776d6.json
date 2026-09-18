@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_07_base-labs-hugging-face-and-goodfire-form-an-open-model-safety-partnership_f81776d6",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Base Labs, Hugging Face and Goodfire form an open-model safety partnership",
+  "friendlyTitle": "Three AI groups will build safety tools for open models",
+  "summary": "Baseten’s Base Labs is partnering with Hugging Face and Goodfire to develop and publish training, evaluation and monitoring methods for open-weight models. The effort is intended to make safety techniques and operational infrastructure available beyond closed frontier laboratories.",
+  "friendlySummary": "Base Labs, Hugging Face and Goodfire plan to publish ways to test and monitor open AI models. The work is meant to be useful outside the biggest AI companies.",
+  "whyItMatters": "Open models are increasingly deployed inside products and private infrastructure, where the original developer cannot monitor every use. Shared evaluation and monitoring tools could give smaller teams a more practical safety baseline before deployment.",
+  "friendlyWhyItMatters": "Smaller teams also need ways to check whether a model is safe enough for their product. Shared tools can make those checks easier to run.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

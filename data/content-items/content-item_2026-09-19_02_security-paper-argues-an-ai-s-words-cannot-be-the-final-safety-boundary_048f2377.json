@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_02_security-paper-argues-an-ai-s-words-cannot-be-the-final-safety-boundary_048f2377",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2609.02852",
+  "canonicalUrl": "https://arxiv.org/abs/2609.02852",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Security paper argues an AI’s words cannot be the final safety boundary",
+  "friendlyTitle": "AI safety cannot depend only on what a model says it is thinking",
+  "summary": "James Mickens argues that model explanations, chain-of-thought monitoring and language-based probes may not reliably describe the computation producing an action. The paper proposes stronger isolation, taint tracking and independent audits as a security floor beneath linguistic monitoring.",
+  "friendlySummary": "A paper says an AI’s written explanation may not show how it really reached a decision. It recommends technical barriers that work even when the explanation is incomplete or misleading.",
+  "whyItMatters": "As agents gain access to files, credentials and external systems, asking a model to explain or critique itself is not enough. Organisations need controls that constrain data flow and permissions regardless of what the model says it intends to do.",
+  "friendlyWhyItMatters": "If an AI can use files or online tools, safety rules should limit what it can actually reach. A reassuring explanation is not the same as a secure system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

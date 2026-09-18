@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_08_kenyan-maternal-health-chatbot-routes-urgent-sms-questions-directly-to-nurses_95b06844",
+  "sourceKind": "article",
+  "sourceName": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+  "canonicalUrl": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Kenyan maternal-health chatbot routes urgent SMS questions directly to nurses",
+  "friendlyTitle": "A pregnancy chatbot in Kenya sends urgent questions straight to nurses",
+  "summary": "Jacaranda Health’s PROMPTS service handles about 15,000 daily pregnancy and newborn questions across 24 Kenyan counties using ordinary text messages. The system flags about 7% as potentially urgent and bypasses AI responses so a nurse can review the history and contact the patient.",
+  "friendlySummary": "PROMPTS answers health questions by normal text message. When a message may be urgent, the AI steps aside and sends it to a nurse.",
+  "whyItMatters": "The service pairs broad, low-cost access with a clear human escalation path instead of presenting AI as a clinician. Its SMS design also shows that useful AI services do not have to require a smartphone, app or constant internet connection.",
+  "friendlyWhyItMatters": "This gives people with basic phones quicker access to help while keeping serious medical decisions with trained humans.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

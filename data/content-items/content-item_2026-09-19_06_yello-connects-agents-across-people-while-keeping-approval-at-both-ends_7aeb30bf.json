@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_06_yello-connects-agents-across-people-while-keeping-approval-at-both-ends_7aeb30bf",
+  "sourceKind": "product",
+  "sourceName": "Yello",
+  "sourceUrl": "https://yello.sh",
+  "canonicalUrl": "https://yello.sh",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Yello connects agents across people while keeping approval at both ends",
+  "friendlyTitle": "Yello lets your AI agent talk to another person’s agent",
+  "summary": "Yello gives agents in existing tools an identity and a channel for exchanging requests, replies and files across users and machines. Connections require mutual approval, conversations remain visible, and paid plans add rules to redact, hold or block outgoing messages.",
+  "friendlySummary": "Yello connects agents that run in different tools and on different computers. Both people approve the connection and can see the conversation or remove access.",
+  "whyItMatters": "Agent collaboration usually stops at the boundary between two people’s accounts. A visible, permissioned exchange can reduce manual hand-offs, but teams should still begin with narrow sharing rules because a connected agent can relay sensitive context as easily as useful work.",
+  "friendlyWhyItMatters": "This could save people from copying messages between agents by hand. Sharing rules matter because agents may also hold private work information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_01_claude-code-adds-agents-md-support-for-shared-project-instructions_ff916376",
+  "sourceKind": "x",
+  "sourceName": "Thariq Shihipar on X",
+  "sourceUrl": "https://x.com/trq212/status/2101009392611278961",
+  "canonicalUrl": "https://x.com/trq212/status/2101009392611278961",
+  "credit": "@trq212",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Claude Code adds AGENTS.md support for shared project instructions",
+  "friendlyTitle": "Claude Code can now use the same instruction file as other coding agents",
+  "summary": "Claude Code 2.1.277 now reads AGENTS.md when a folder does not contain CLAUDE.md. Anthropic says the behaviour is an early built-in example of its forthcoming ‘mods’ system and can be disabled in configuration.",
+  "friendlySummary": "Claude Code now reads AGENTS.md when it cannot find its own CLAUDE.md file. Teams can turn the feature off if they do not want it.",
+  "whyItMatters": "Teams using several coding agents can keep one set of repository instructions instead of maintaining a separate file for every tool. The fallback rule preserves Claude-specific instructions where teams need them while improving portability elsewhere.",
+  "friendlyWhyItMatters": "One shared instruction file means less repeated setup when a team uses different AI coding tools. Special Claude instructions can still take priority.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

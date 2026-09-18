@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_03_bug-bounty-team-used-frontier-models-to-compromise-openai-employee-accounts_50c802e9",
+  "sourceKind": "article",
+  "sourceName": "The Guardian",
+  "sourceUrl": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+  "canonicalUrl": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "Bug-bounty team used frontier models to compromise OpenAI employee accounts",
+  "friendlyTitle": "Security researchers used AI tools to find a path into OpenAI accounts",
+  "summary": "Hacktron AI researchers used Claude and GPT-5.6 Sol during an authorised security investigation that compromised several OpenAI employee ChatGPT accounts and exposed a path toward software caches and repositories. OpenAI says it fixed the vulnerabilities and paid a $6,500 bounty.",
+  "friendlySummary": "An authorised security team used Claude and an OpenAI model to break into several employee accounts. The team reported the problems, and OpenAI says it fixed them.",
+  "whyItMatters": "The test shows how capable models can compress sophisticated intrusion work from months into days. Businesses should treat employee accounts, developer forums and repository automation as one connected attack surface rather than separate systems.",
+  "friendlyWhyItMatters": "AI can make complex attacks faster. Companies need to protect staff accounts, internal discussions and software repositories as parts of the same system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

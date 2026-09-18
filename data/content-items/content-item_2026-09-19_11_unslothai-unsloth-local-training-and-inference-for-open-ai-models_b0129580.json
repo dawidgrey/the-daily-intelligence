@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_11_unslothai-unsloth-local-training-and-inference-for-open-ai-models_b0129580",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/unslothai/unsloth",
+  "canonicalUrl": "https://github.com/unslothai/unsloth",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "unslothai/unsloth: local training and inference for open AI models",
+  "friendlyTitle": "Unsloth helps you run and train open AI models locally",
+  "summary": "Unsloth provides a local interface and training stack for language, diffusion, speech and multimodal models, with support for formats and platforms including GGUF and MLX. The actively maintained project has about 76,400 GitHub stars.",
+  "friendlySummary": "Unsloth is a popular toolkit for language, image and speech models. It supports local model formats and has about 76,400 GitHub stars.",
+  "whyItMatters": "Developers can use it to run, fine-tune and export open models from one toolkit, including workflows designed for limited local hardware. Check the project’s mixed licensing and each model’s licence before choosing it for commercial work.",
+  "friendlyWhyItMatters": "You can use it to test or fine-tune models on your own hardware. Read the software and model licences before using the results in a business.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-19"
+  },
+  "howItsUseful": "Developers can use it to run, fine-tune and export open models from one toolkit, including workflows designed for limited local hardware. Check the project’s mixed licensing and each model’s licence before choosing it for commercial work.",
+  "friendlyHowItsUseful": "You can use it to test or fine-tune models on your own hardware. Read the software and model licences before using the results in a business."
+}

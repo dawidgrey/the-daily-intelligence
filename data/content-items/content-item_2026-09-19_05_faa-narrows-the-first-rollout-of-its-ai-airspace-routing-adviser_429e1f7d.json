@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_05_faa-narrows-the-first-rollout-of-its-ai-airspace-routing-adviser_429e1f7d",
+  "sourceKind": "article",
+  "sourceName": "POLITICO",
+  "sourceUrl": "https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385",
+  "canonicalUrl": "https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "FAA narrows the first rollout of its AI airspace-routing adviser",
+  "friendlyTitle": "The FAA will start small with an AI tool for flight routes",
+  "summary": "The US Federal Aviation Administration will initially use its SMART system to suggest alternative routes for flights around Washington-area airports. Following airline concerns about the scope, the 90-day test will feed advice through existing procedures rather than create new controller or airline processes.",
+  "friendlySummary": "A new AI system will suggest other routes around three Washington-area airports. Air traffic controllers will keep using their normal procedures during the first 90-day test.",
+  "whyItMatters": "A limited advisory rollout is a useful pattern for introducing AI into safety-critical infrastructure: preserve existing authority, measure the system in a bounded setting and expand only after operational evidence. Travellers could eventually see fewer weather and congestion delays if it works.",
+  "friendlyWhyItMatters": "Starting with advice instead of automatic control reduces risk. If the test works, it could later help prevent some flight delays.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-19"
+  }
+}

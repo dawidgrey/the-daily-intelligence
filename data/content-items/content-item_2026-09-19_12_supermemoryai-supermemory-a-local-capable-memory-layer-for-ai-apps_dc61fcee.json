@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-19_12_supermemoryai-supermemory-a-local-capable-memory-layer-for-ai-apps_dc61fcee",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/supermemoryai/supermemory",
+  "canonicalUrl": "https://github.com/supermemoryai/supermemory",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-18T20:04:46Z",
+  "createdAtUtc": "2026-09-18T20:04:46Z",
+  "updatedAtUtc": "2026-09-18T20:04:46Z",
+  "title": "supermemoryai/supermemory: a local-capable memory layer for AI apps",
+  "friendlyTitle": "Supermemory gives AI apps a reusable memory system",
+  "summary": "Supermemory is an MIT-licensed memory and context engine that can run as a hosted API or be self-hosted locally. It stores, searches and updates user context for assistants and includes integrations, an app and automatic handling for expired or contradictory memories; the repository has about 30,200 stars.",
+  "friendlySummary": "Supermemory stores and searches information that an AI assistant may need later. It can be used through a service or run on your own systems and has about 30,200 GitHub stars.",
+  "whyItMatters": "Builders can add persistent, searchable context to an agent without designing the entire memory pipeline themselves. Local deployment can improve data control, but teams still need retention rules and tests for incorrect or outdated memories.",
+  "friendlyWhyItMatters": "It can save developers from building AI memory from the beginning. Teams should still decide what to keep, what to delete and how to correct mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-19"
+  },
+  "howItsUseful": "Builders can add persistent, searchable context to an agent without designing the entire memory pipeline themselves. Local deployment can improve data control, but teams still need retention rules and tests for incorrect or outdated memories.",
+  "friendlyHowItsUseful": "It can save developers from building AI memory from the beginning. Teams should still decide what to keep, what to delete and how to correct mistakes."
+}
