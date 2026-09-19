@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_02_a-widely-shared-essay-argues-writing-should-remain-part-of-the-thinking_35721eb8",
+  "sourceKind": "article",
+  "sourceName": "Erich Grunewald",
+  "sourceUrl": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+  "canonicalUrl": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "A widely shared essay argues writing should remain part of the thinking",
+  "friendlyTitle": "Do not let AI replace the thinking that happens when you write",
+  "summary": "Erich Grunewald argues that delegating substantive prose to AI can bypass the reasoning that happens while a person writes and can introduce subtle inaccuracies. He still supports using AI for transcription, data analysis, brainstorming, feedback and carefully reviewed editing.",
+  "friendlySummary": "A popular essay says writing helps people test and improve their own ideas. It recommends using AI for support, such as feedback and editing, rather than handing over the whole argument.",
+  "whyItMatters": "The useful boundary is not simply ‘AI or no AI’ but whether the tool assists judgment or replaces it. For important memos, reports and arguments, drafting the core reasoning yourself can expose gaps that a fluent first draft might conceal.",
+  "friendlyWhyItMatters": "A polished AI draft can hide weak thinking or small errors. Writing the main ideas yourself helps you notice what you do not yet understand.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_09_leaked-software-shows-how-synthetic-online-identities-can-be-managed-at-scale_1be64886",
+  "sourceKind": "research",
+  "sourceName": "DomainTools Investigations",
+  "sourceUrl": "https://dti.domaintools.com/research/lemmings-russian-persona-provisioning",
+  "canonicalUrl": "https://dti.domaintools.com/research/lemmings-russian-persona-provisioning",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Leaked software shows how synthetic online identities can be managed at scale",
+  "friendlyTitle": "Leaked tools show how fake online people can be run like a factory",
+  "summary": "DomainTools analysed leaked code for ‘Lemmings’, which it attributes to Russian contractor Okenit and describes as a system for creating and maintaining synthetic personas. The software combines identity data, phone and email acquisition, CAPTCHA services, proxies, browser automation and stored sessions; the researchers say AI could amplify its content and responses.",
+  "friendlySummary": "Researchers found software that can create and manage many fake online identities using phone numbers, emails, browser tools and saved logins. AI could make those accounts easier to operate at scale.",
+  "whyItMatters": "Convincing online activity can be industrial infrastructure rather than one bot posting repeatedly. People and businesses should assess identity through account history, independent verification and transaction controls instead of trusting a realistic profile or fluent conversation.",
+  "friendlyWhyItMatters": "A realistic profile and natural messages do not prove that a person is genuine. Check important identities through another trusted channel before sharing information or money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

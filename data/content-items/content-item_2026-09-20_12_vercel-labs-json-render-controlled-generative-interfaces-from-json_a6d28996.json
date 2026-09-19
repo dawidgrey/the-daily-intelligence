@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_12_vercel-labs-json-render-controlled-generative-interfaces-from-json_a6d28996",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/vercel-labs/json-render",
+  "canonicalUrl": "https://github.com/vercel-labs/json-render",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "vercel-labs/json-render: controlled generative interfaces from JSON",
+  "friendlyTitle": "json-render lets AI build screens from approved parts",
+  "summary": "json-render is an Apache-licensed framework for turning model-produced JSON into interfaces built from an application’s approved components and actions. The actively maintained project supports web, mobile and terminal renderers and has about 16,800 GitHub stars.",
+  "friendlySummary": "json-render turns structured AI output into user interfaces using components chosen by the developer. It has about 16,800 GitHub stars.",
+  "whyItMatters": "Product teams can let an AI compose personalised forms, dashboards or agent interfaces without granting it arbitrary UI code execution. A constrained catalogue makes the output easier to validate, test and keep consistent with a design system.",
+  "friendlyWhyItMatters": "You can build flexible AI-made screens while limiting the model to safe, known building blocks. This is easier to test than letting it write any interface code it wants.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-20"
+  },
+  "howItsUseful": "Product teams can let an AI compose personalised forms, dashboards or agent interfaces without granting it arbitrary UI code execution. A constrained catalogue makes the output easier to validate, test and keep consistent with a design system.",
+  "friendlyHowItsUseful": "You can build flexible AI-made screens while limiting the model to safe, known building blocks. This is easier to test than letting it write any interface code it wants."
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_08_openai-sets-out-six-pillars-for-safer-teen-ai-use-in-australia_559b0cf1",
+  "sourceKind": "regulation",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+  "canonicalUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "OpenAI sets out six pillars for safer teen AI use in Australia",
+  "friendlyTitle": "OpenAI proposes six safety rules for young Australians using AI",
+  "summary": "OpenAI’s Australian Youth Safety Blueprint proposes AI literacy, age-appropriate safeguards, privacy-preserving age assurance, crisis-support links, parental controls and company accountability. It follows the August rollout of a default ChatGPT experience for Australian users identified as 13 to 17.",
+  "friendlySummary": "The plan covers AI education, safer settings, age checks, crisis help, parent controls and company responsibility. ChatGPT has also started using special defaults for Australian teenagers.",
+  "whyItMatters": "The blueprint offers a concrete checklist for schools, parents, policymakers and product teams evaluating teen-facing AI. Its real value will depend on measurable implementation, especially how age checks protect privacy and how reliably high-risk conversations reach human help.",
+  "friendlyWhyItMatters": "Parents and schools can use the six areas as a checklist. They should still ask how the promises work in practice and what personal data age checks require.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

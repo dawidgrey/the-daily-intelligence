@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_11_open-dev-society-openstock-an-open-market-dashboard-with-ai-insights_16db2e3f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Open-Dev-Society/OpenStock",
+  "canonicalUrl": "https://github.com/Open-Dev-Society/OpenStock",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Open-Dev-Society/OpenStock: an open market dashboard with AI insights",
+  "friendlyTitle": "OpenStock is an open-source market dashboard with AI features",
+  "summary": "OpenStock is an AGPL-licensed market dashboard for real-time prices, company information, alerts and AI-supported sentiment insights. The actively updated TypeScript project has about 15,900 GitHub stars and supports configurable AI providers.",
+  "friendlySummary": "OpenStock tracks prices, company information and alerts and includes AI-based market insights. The project has about 15,900 GitHub stars.",
+  "whyItMatters": "Developers can study or self-host a full-stack market-monitoring application and adapt its alerting or AI-insight pipeline. Review its data-provider terms and AGPL obligations before using it in a commercial product, and do not treat generated sentiment as financial advice.",
+  "friendlyWhyItMatters": "You can run it yourself or learn how a market dashboard is built. Check the data licences and AGPL rules, and do not rely on AI sentiment for investment decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-20"
+  },
+  "howItsUseful": "Developers can study or self-host a full-stack market-monitoring application and adapt its alerting or AI-insight pipeline. Review its data-provider terms and AGPL obligations before using it in a commercial product, and do not treat generated sentiment as financial advice.",
+  "friendlyHowItsUseful": "You can run it yourself or learn how a market dashboard is built. Check the data licences and AGPL rules, and do not rely on AI sentiment for investment decisions."
+}

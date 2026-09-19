@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_05_qwen3-8-omni-flash-brings-low-cost-audio-and-video-workflows-to-agents_85eb2ef0",
+  "sourceKind": "product",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+  "canonicalUrl": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Qwen3.8-Omni-Flash brings low-cost audio and video workflows to agents",
+  "friendlyTitle": "Qwen launches a cheaper AI model for text, sound and video",
+  "summary": "Qwen released Qwen3.8-Omni-Flash with text, image, audio and video input, a one-million-token context window and tool-using workflows for editing, translation and summarisation. Qwen reports audio-video benchmark results near Gemini 3.8 Flash while pricing input and output below Gemini’s introductory API rates.",
+  "friendlySummary": "Qwen3.8-Omni-Flash can work with text, pictures, audio and video and can use tools to complete tasks. Qwen says it performs close to a competing Gemini model at a lower API price.",
+  "whyItMatters": "Cheaper multimodal input makes long meetings, recordings and video libraries more practical to process with agents. Buyers should test the model on their own media and count tool calls, storage and output tokens rather than relying only on vendor benchmarks.",
+  "friendlyWhyItMatters": "Lower prices may make it affordable to analyse long recordings or videos. Test it with your own files before choosing it for regular work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

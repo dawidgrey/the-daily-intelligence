@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_10_local-llm-hardware-guide-puts-memory-capacity-and-bandwidth-ahead-of-cpu-labels_9cad1e84",
+  "sourceKind": "article",
+  "sourceName": "TerminalBytes",
+  "sourceUrl": "https://terminalbytes.com/mac-mini-alternatives-local-llm-2026/",
+  "canonicalUrl": "https://terminalbytes.com/mac-mini-alternatives-local-llm-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Local-LLM hardware guide puts memory capacity and bandwidth ahead of CPU labels",
+  "friendlyTitle": "For local AI, buy enough memory before chasing a faster CPU",
+  "summary": "A hands-on comparison of Apple M6 and M5 systems with 128GB AMD Strix Halo mini PCs argues that memory capacity determines which local models load, while memory bandwidth largely determines generation speed. The author’s M3 Ultra generated Qwen3.8 27B at 28.8 tokens per second in llama-bench, with caveats about software differences between tests.",
+  "friendlySummary": "A hardware guide compares new Macs and AMD mini PCs for running AI models at home. It says memory size controls which models fit, while memory speed strongly affects how fast answers appear.",
+  "whyItMatters": "People buying a local-AI computer can avoid paying for CPU specifications that do little for token generation. Choose first by the model size you need to fit, then by memory bandwidth, operating system and the inference software you will actually use.",
+  "friendlyWhyItMatters": "Decide which model you want to run before buying a computer. Check memory size and bandwidth, then compare results using the same software.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

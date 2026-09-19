@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_01_antitrust-lawsuit-challenges-ai-labs-coordinated-call-to-slow-development_31c51e0c",
+  "sourceKind": "regulation",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+  "canonicalUrl": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Antitrust lawsuit challenges AI labs’ coordinated call to slow development",
+  "friendlyTitle": "A lawsuit says big AI companies worked together too closely on slowing AI",
+  "summary": "A federal lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of violating antitrust law by coordinating calls to slow advanced AI development. The companies have advocated government action on AI risk, while the plaintiffs say collaboration without an antitrust exemption could suppress competition.",
+  "friendlySummary": "A US lawsuit claims four major AI companies broke competition law when they jointly called for slower AI development. The companies say government rules are needed for safety.",
+  "whyItMatters": "The dispute could help define how rival AI companies cooperate on safety without coordinating market behaviour. Businesses that depend on model access should watch whether future safety agreements change release schedules, pricing or the range of available suppliers.",
+  "friendlyWhyItMatters": "The case may set rules for when competitors can work together on AI safety. Those rules could affect when models launch and which services businesses can choose.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

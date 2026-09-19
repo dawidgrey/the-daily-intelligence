@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_07_openai-launches-a-legal-model-configuration-with-searchable-us-authority_363bbead",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/astra-for-law",
+  "canonicalUrl": "https://openai.com/index/astra-for-law",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "OpenAI launches a legal model configuration with searchable US authority",
+  "friendlyTitle": "OpenAI adds a version of Astra designed for legal work",
+  "summary": "Astra for Law combines GPT-6 Astra with legal instructions, a search index spanning US case law and regulation, and 26 integrations for specialist tools. OpenAI reports a 54% all-pass rate on a private 200-question Vals legal-research set, versus 38.7% for Astra with ordinary web search.",
+  "friendlySummary": "Astra for Law searches US legal sources and connects to tools used by law firms. OpenAI says it performed better than normal web search in its own legal research test.",
+  "whyItMatters": "Domain-specific retrieval and workflow controls may be more valuable than a general model upgrade for professional work. Lawyers still need to inspect cited authority, protect confidential material and retain responsibility for advice because the published evaluation is vendor-run and not proof of reliability in every matter.",
+  "friendlyWhyItMatters": "Special legal search may save time, but lawyers must still check every source and protect client information. The company’s own test is not a guarantee.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

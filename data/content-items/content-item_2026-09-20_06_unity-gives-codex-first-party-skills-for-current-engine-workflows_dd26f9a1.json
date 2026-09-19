@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_06_unity-gives-codex-first-party-skills-for-current-engine-workflows_dd26f9a1",
+  "sourceKind": "product",
+  "sourceName": "Unity",
+  "sourceUrl": "https://unity.com/blog/unity-plugin-codex",
+  "canonicalUrl": "https://unity.com/blog/unity-plugin-codex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Unity gives Codex first-party skills for current engine workflows",
+  "friendlyTitle": "Unity gives Codex official, up-to-date instructions",
+  "summary": "Unity’s official Codex plugin launches with 31 skills covering project setup, UI, graphics, audio, physics, multiplayer, purchases and localisation. Unity engineers maintain the guidance for Unity 6 and later, and the plugin can inspect projects, use current APIs and verify results.",
+  "friendlySummary": "Unity has released a Codex plugin with 31 skills written by its own engineering teams. It covers common game-development jobs and works with Unity 6 or newer.",
+  "whyItMatters": "First-party skills can reduce a coding agent’s dependence on stale forum posts and tutorials, a common source of plausible but broken code. The approach also gives teams a useful pattern: connect agents to versioned instructions owned by the people responsible for the underlying platform.",
+  "friendlyWhyItMatters": "Coding agents often learn from old tutorials. Official instructions can reduce mistakes caused by outdated APIs and workflows.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

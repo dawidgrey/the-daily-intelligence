@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-20",
+  "slug": "2026-09-20",
+  "status": "published",
+  "publicationDateUtc": "2026-09-19T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI gets more capable—and its operating boundaries matter more",
+  "friendlyHeader": "Better AI still needs clear limits",
+  "summary": "Today’s issue follows AI into audiovisual work, game development, legal research, online influence and multi-agent experiments. The practical lesson is consistent: stronger models are useful, but current instructions, independent checks and hard technical boundaries still determine whether that capability helps or harms.",
+  "friendlySummary": "Today we look at AI for video, games, legal work and research. The tools are improving quickly, but people still need good instructions, careful checks and strong safety barriers.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-20_01_antitrust-lawsuit-challenges-ai-labs-coordinated-call-to-slow-development_31c51e0c",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_02_a-widely-shared-essay-argues-writing-should-remain-part-of-the-thinking_35721eb8",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_03_ai-agents-exposed-cheating-and-copied-it-in-a-100-agent-experiment_c6517bed",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_04_docker-patches-a-host-filesystem-escape-affecting-agent-sandboxes-on-mac_6d07b800",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_05_qwen3-8-omni-flash-brings-low-cost-audio-and-video-workflows-to-agents_85eb2ef0",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_06_unity-gives-codex-first-party-skills-for-current-engine-workflows_dd26f9a1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_07_openai-launches-a-legal-model-configuration-with-searchable-us-authority_363bbead",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_08_openai-sets-out-six-pillars-for-safer-teen-ai-use-in-australia_559b0cf1",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_09_leaked-software-shows-how-synthetic-online-identities-can-be-managed-at-scale_1be64886",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_10_local-llm-hardware-guide-puts-memory-capacity-and-bandwidth-ahead-of-cpu-labels_9cad1e84",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_11_open-dev-society-openstock-an-open-market-dashboard-with-ai-insights_16db2e3f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_12_vercel-labs-json-render-controlled-generative-interfaces-from-json_a6d28996",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-20_13_ahmedkhaleel2004-gitdiagram-interactive-maps-of-github-repositories_5a9d819f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-20.json",
+    "itemCount": 13
+  }
+}

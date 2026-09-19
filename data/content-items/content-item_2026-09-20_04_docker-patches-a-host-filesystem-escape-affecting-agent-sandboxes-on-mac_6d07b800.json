@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_04_docker-patches-a-host-filesystem-escape-affecting-agent-sandboxes-on-mac_6d07b800",
+  "sourceKind": "article",
+  "sourceName": "Accomplish",
+  "sourceUrl": "https://accomplish.ai/blog/escaping-dockers-hypervisor/",
+  "canonicalUrl": "https://accomplish.ai/blog/escaping-dockers-hypervisor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "Docker patches a host-filesystem escape affecting agent sandboxes on Mac",
+  "friendlyTitle": "Update Docker before using it as a safety box for coding agents",
+  "summary": "Security researchers disclosed CVE-2026-77179, a path-handling flaw that let a container gain read and write access outside its mounted folder when Docker VMM was enabled. Docker fixed it in Desktop 4.88.0 and Sandboxes 0.42.0.",
+  "friendlySummary": "A Docker bug on Mac could let code inside a container read or change files elsewhere on the computer. The fix is in Docker Desktop 4.88.0 and Docker Sandboxes 0.42.0.",
+  "whyItMatters": "Coding agents routinely execute untrusted commands, so their sandbox is a security control rather than a convenience. Mac users running agents through Docker should confirm those minimum versions and avoid assuming that a container alone protects host credentials and files.",
+  "friendlyWhyItMatters": "AI coding tools run commands that may be unsafe. An old Docker version may not keep those commands away from your private files.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-20"
+  }
+}

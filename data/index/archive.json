@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-18T20:04:46Z",
+  "generatedAtUtc": "2026-09-19T20:04:45Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-20",
+      "slug": "2026-09-20",
+      "status": "published",
+      "publicationDateUtc": "2026-09-19T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI gets more capable—and its operating boundaries matter more",
+      "friendlyHeader": "Better AI still needs clear limits",
+      "summary": "Today’s issue follows AI into audiovisual work, game development, legal research, online influence and multi-agent experiments. The practical lesson is consistent: stronger models are useful, but current instructions, independent checks and hard technical boundaries still determine whether that capability helps or harms.",
+      "friendlySummary": "Today we look at AI for video, games, legal work and research. The tools are improving quickly, but people still need good instructions, careful checks and strong safety barriers.",
+      "itemCount": 13,
+      "href": "issues/2026-09-20.html",
+      "dataUrl": "data/daily-publications/2026-09-20.json"
+    },
     {
       "id": "daily-publication_2026-09-19",
       "slug": "2026-09-19",
@@ -268,20 +282,6 @@
       "itemCount": 13,
       "href": "issues/2026-09-01.html",
       "dataUrl": "data/daily-publications/2026-09-01.json"
-    },
-    {
-      "id": "daily-publication_2026-08-31",
-      "slug": "2026-08-31",
-      "status": "published",
-      "publicationDateUtc": "2026-08-30T20:00:00Z",
-      "displayTimeZone": "Australia/Sydney",
-      "header": "The agent layer becomes the real product",
-      "friendlyHeader": "AI agents need better tools, memory and safety checks",
-      "summary": "Today’s issue looks beyond model launches to the systems that make AI useful or risky: persistent skills, browser access, time awareness, voice interfaces, production deployment and the infrastructure underneath them. It also examines two concrete privacy lessons for coding-agent users and a measured test of AI search against false claims.",
-      "friendlySummary": "Today we look at how AI agents learn from past work, use websites, understand time and help with everyday tasks. We also explain privacy risks, safer ways to check information and three useful open-source projects.",
-      "itemCount": 13,
-      "href": "issues/2026-08-31.html",
-      "dataUrl": "data/daily-publications/2026-08-31.json"
     }
   ],
   "limit": 20

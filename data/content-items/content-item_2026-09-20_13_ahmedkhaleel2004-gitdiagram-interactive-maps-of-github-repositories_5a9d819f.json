@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-20_13_ahmedkhaleel2004-gitdiagram-interactive-maps-of-github-repositories_5a9d819f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "canonicalUrl": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-19T20:04:45Z",
+  "createdAtUtc": "2026-09-19T20:04:45Z",
+  "updatedAtUtc": "2026-09-19T20:04:45Z",
+  "title": "ahmedkhaleel2004/gitdiagram: interactive maps of GitHub repositories",
+  "friendlyTitle": "GitDiagram draws a map of a GitHub project",
+  "summary": "GitDiagram uses AI to turn a public or authorised private GitHub repository into an interactive architecture diagram. The MIT-licensed TypeScript project is actively maintained and has about 16,600 GitHub stars.",
+  "friendlySummary": "GitDiagram uses AI to make an interactive picture of how a code repository fits together. It has about 16,600 GitHub stars.",
+  "whyItMatters": "Developers can use it to orient themselves in an unfamiliar codebase before reading individual files, or self-host it for internal repositories. Treat the diagram as a navigation aid rather than architectural truth, and use a narrowly scoped token for private code.",
+  "friendlyWhyItMatters": "It can help you understand an unfamiliar project more quickly. Check the real code before trusting the map, and limit access when using a private repository.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-20"
+  },
+  "howItsUseful": "Developers can use it to orient themselves in an unfamiliar codebase before reading individual files, or self-host it for internal repositories. Treat the diagram as a navigation aid rather than architectural truth, and use a narrowly scoped token for private code.",
+  "friendlyHowItsUseful": "It can help you understand an unfamiliar project more quickly. Check the real code before trusting the map, and limit access when using a private repository."
+}
