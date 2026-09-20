@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_02_pirate-face-mirrors-open-ai-models-as-checksum-verified-torrents_6b0f2926",
+  "sourceKind": "product",
+  "sourceName": "Pirate Face",
+  "sourceUrl": "https://pirateface.co/",
+  "canonicalUrl": "https://pirateface.co/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Pirate Face mirrors open AI models as checksum-verified torrents",
+  "friendlyTitle": "Pirate Face helps open AI models stay available",
+  "summary": "Pirate Face is building a peer-to-peer availability layer for eligible MIT- and Apache-licensed models from Hugging Face. Its magnet links use Hugging Face as a web seed while available, then rely on other seeders if the original files disappear, with published checksums used to verify the weights.",
+  "friendlySummary": "The service turns eligible open models into peer-to-peer downloads. It checks the files against their official fingerprints so users can confirm that the weights were not changed.",
+  "whyItMatters": "Open weights are only useful while people can retrieve and verify them. A decentralised mirror could improve resilience for research and local inference, although users still need to inspect the model licence, provenance and security rather than treating continued availability as permission or safety.",
+  "friendlyWhyItMatters": "A model can disappear when one hosting service removes it. Extra copies make access more reliable, but you still need to check the licence and trust the original creator.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

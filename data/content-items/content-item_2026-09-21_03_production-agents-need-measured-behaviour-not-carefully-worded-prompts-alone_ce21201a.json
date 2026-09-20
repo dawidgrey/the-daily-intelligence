@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_03_production-agents-need-measured-behaviour-not-carefully-worded-prompts-alone_ce21201a",
+  "sourceKind": "article",
+  "sourceName": "Evaluation Club",
+  "sourceUrl": "https://evaluation.club/",
+  "canonicalUrl": "https://evaluation.club/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Production agents need measured behaviour, not carefully worded prompts alone",
+  "friendlyTitle": "Test what an AI agent does instead of trusting its prompt",
+  "summary": "A production-agent engineering talk argues that prompts are unstable components whose effects change with surrounding instructions, models and product revisions. It recommends repeated pass-to-the-k testing, adversarial scenarios, usage monitoring and optimisation against explicit measures rather than treating a prompt as a durable policy.",
+  "friendlySummary": "A prompt that works today may fail after other instructions or the model change. The author recommends running many tests and measuring the behaviour people actually need.",
+  "whyItMatters": "Teams can spend weeks polishing instructions while missing rare failures that appear only at scale. Converting desired behaviour into repeatable tests makes agent changes reviewable and helps distinguish a real improvement from a prompt that merely worked once.",
+  "friendlyWhyItMatters": "Good wording is not a safety system. Repeated tests show whether an agent remains useful and reliable across many real situations.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_08_studentsim-models-individual-learners-to-test-personalised-ai-tutors_de961fc7",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2609.01591",
+  "canonicalUrl": "https://arxiv.org/abs/2609.01591",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "StudentSim models individual learners to test personalised AI tutors",
+  "friendlyTitle": "Researchers made simulated students to test AI tutors",
+  "summary": "Microsoft and University of Illinois researchers trained individual student simulators by first learning shared patterns and then specialising on sparse records for each learner. Across 60 students in chess, English writing and mathematics, StudentSim more closely matched student behaviour and responded better to tutoring than a prompted GPT-5.4 baseline; the paper remains a preprint.",
+  "friendlySummary": "StudentSim learns the usual answers and mistakes of an individual learner, then reacts to a tutor’s guidance. It performed better than a general model acting as a student in the researchers’ tests.",
+  "whyItMatters": "Realistic simulators could let education teams test tutoring strategies before exposing learners to them. They should complement rather than replace trials with real students, because a simulator can encode incomplete records and may miss social, emotional or contextual factors that affect learning.",
+  "friendlyWhyItMatters": "A simulated learner can make early tutor testing faster and cheaper. Real students are still needed to prove that the teaching is helpful and fair.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

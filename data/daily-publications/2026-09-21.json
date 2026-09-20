@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-21",
+  "slug": "2026-09-21",
+  "status": "published",
+  "publicationDateUtc": "2026-09-20T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from clever demos into measurable, everyday systems",
+  "friendlyHeader": "Useful AI needs clear checks and limits",
+  "summary": "Today’s issue follows AI into privacy, software delivery, education, pet care and local infrastructure. The common thread is operational: useful AI increasingly depends on measurement, visible controls, trustworthy boundaries and a clear understanding of what the system does outside the chat window.",
+  "friendlySummary": "Today we look at AI in daily life, work, learning and software. The tools can do more, but people need to measure results, protect private information and keep strong safety boundaries.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-21_01_openai-s-advertising-pixel-can-connect-off-site-browsing-to-a-chatgpt-identity_81b3da03",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_02_pirate-face-mirrors-open-ai-models-as-checksum-verified-torrents_6b0f2926",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_03_production-agents-need-measured-behaviour-not-carefully-worded-prompts-alone_ce21201a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_04_a-software-factory-loop-ties-coding-agents-to-project-goals-and-live-metrics_4eb24ace",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_05_anthropic-and-accenture-plan-embedded-evaluation-inside-frontier-model-developme_47b87cc2",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_06_a-self-hosted-inference-guide-separates-single-machine-tools-from-real-orchestra_391a0976",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_07_near-daily-ai-use-among-us-adults-rose-from-8-to-19-in-six-months_fc74c5d9",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_08_studentsim-models-individual-learners-to-test-personalised-ai-tutors_de961fc7",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_09_petlibro-s-smart-feeder-uses-recognition-and-weighing-to-track-each-cat-s-meals_86ab101e",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_10_researchers-disclose-two-patched-escapes-from-the-openai-codex-sandbox_46ff3fb9",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_11_zuodaotech-everyone-can-use-english-an-ai-supported-english-practice-system_875d84ce",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_12_zhouxiaoka-autoclip-ai-assisted-video-highlights-and-social-clips_f991dd82",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-21_13_fareedkhan-dev-train-llm-from-scratch-a-plain-pytorch-path-from-tokens-to-alignm_c0728193",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-21.json",
+    "itemCount": 13
+  }
+}

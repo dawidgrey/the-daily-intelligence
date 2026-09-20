@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_12_zhouxiaoka-autoclip-ai-assisted-video-highlights-and-social-clips_f991dd82",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/zhouxiaoka/autoclip",
+  "canonicalUrl": "https://github.com/zhouxiaoka/autoclip",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "zhouxiaoka/autoclip: AI-assisted video highlights and social clips",
+  "friendlyTitle": "AutoClip turns long videos into draft highlight clips",
+  "summary": "AutoClip is an MIT-licensed Python and TypeScript application for finding highlights, aligning subtitles and exporting edited video, including vertical formats for short-video platforms. The actively updated project has about 7,850 GitHub stars and gained roughly 325 stars in the day’s trending snapshot.",
+  "friendlySummary": "AutoClip uses AI to find useful moments, line up subtitles and export videos in common formats. It has about 7,850 GitHub stars.",
+  "whyItMatters": "Creators can test a self-hosted workflow for turning long recordings into draft clips, while developers can connect it through its CLI or MCP interface and configure local-model options. Human review remains important for context, copyright, speaker consent and cuts that change meaning.",
+  "friendlyWhyItMatters": "It can reduce the first editing pass for podcasts and long recordings. Check every clip before publishing so the edit keeps the speaker’s real meaning.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-21"
+  },
+  "howItsUseful": "Creators can test a self-hosted workflow for turning long recordings into draft clips, while developers can connect it through its CLI or MCP interface and configure local-model options. Human review remains important for context, copyright, speaker consent and cuts that change meaning.",
+  "friendlyHowItsUseful": "It can reduce the first editing pass for podcasts and long recordings. Check every clip before publishing so the edit keeps the speaker’s real meaning."
+}

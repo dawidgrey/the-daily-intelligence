@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_06_a-self-hosted-inference-guide-separates-single-machine-tools-from-real-orchestra_391a0976",
+  "sourceKind": "article",
+  "sourceName": "Nexlab",
+  "sourceUrl": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+  "canonicalUrl": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "A self-hosted inference guide separates single-machine tools from real orchestrators",
+  "friendlyTitle": "A guide compares ways to run AI models on your own computers",
+  "summary": "A documented comparison maps Ollama, llama.cpp, vLLM, LiteLLM, LocalAI, exo, Xinference, GPUStack and other systems across modalities, multi-machine execution, cache-aware routing, operations and cloud bursting. Its practical recommendation is to choose by workload and hardware rather than assume every OpenAI-compatible endpoint solves orchestration.",
+  "friendlySummary": "The comparison explains which tools suit one laptop, several Macs, a shared GPU server or a larger cluster. It also separates tools that run models from tools that only route requests.",
+  "whyItMatters": "A laptop assistant, a shared GPU service and a multi-node model cluster have different operational needs. Matching the tool to those needs can avoid needless complexity, while the linked source documentation gives buyers a starting point for checking claims before deployment.",
+  "friendlyWhyItMatters": "The most popular tool may not fit your hardware or team. Start with what you need to run, how many people will use it and whether several machines must work together.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_07_near-daily-ai-use-among-us-adults-rose-from-8-to-19-in-six-months_fc74c5d9",
+  "sourceKind": "research",
+  "sourceName": "Epoch AI",
+  "sourceUrl": "https://epoch.ai/data-insights/near-daily-ai-use-doubled",
+  "canonicalUrl": "https://epoch.ai/data-insights/near-daily-ai-use-doubled",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Near-daily AI use among US adults rose from 8% to 19% in six months",
+  "friendlyTitle": "More US adults say they use AI almost every day",
+  "summary": "Two weighted Epoch AI and Ipsos surveys found that the share of US adults reporting AI use on six or seven days of the previous week rose from 8.2% in March to 18.7% in August 2026. The samples covered 2,017 and 1,016 adults respectively, but the researchers caution that the two waves asked the frequency question differently.",
+  "friendlySummary": "In two surveys, near-daily AI use rose from about 8% of US adults in March to about 19% in August. The questions were not exactly the same, so the change is an estimate rather than a perfect comparison.",
+  "whyItMatters": "AI is shifting from occasional experimentation toward a daily habit for a growing group of people. Product teams and employers should plan for routine use, while avoiding false precision because the surveys used fresh samples and changed their question design between waves.",
+  "friendlyWhyItMatters": "AI is becoming part of normal daily routines. Workplaces and services need practical rules, training and support for people who use it often.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

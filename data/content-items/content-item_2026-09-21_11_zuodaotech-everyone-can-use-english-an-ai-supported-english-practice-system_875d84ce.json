@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_11_zuodaotech-everyone-can-use-english-an-ai-supported-english-practice-system_875d84ce",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "canonicalUrl": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "ZuodaoTech/everyone-can-use-english: an AI-supported English practice system",
+  "friendlyTitle": "Everyone Can Use English combines lessons with an AI practice app",
+  "summary": "This GPL-licensed TypeScript project combines the Chinese-language ‘Everyone Can Use English’ learning materials with Enjoy, an AI-assisted language-practice application. It has about 38,100 GitHub stars and gained roughly 436 stars in the day’s trending snapshot.",
+  "friendlySummary": "The project offers Chinese-language English-learning material and an AI-assisted practice application. It has about 38,100 GitHub stars.",
+  "whyItMatters": "Chinese-speaking learners can use the materials and app as a structured self-training path, while developers can study a mature language-learning product. Most documentation is in Chinese, and GPL obligations apply when redistributing modified versions.",
+  "friendlyWhyItMatters": "Learners can follow a structured practice path, and developers can study how the learning app is built. The main material is in Chinese.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-21"
+  },
+  "howItsUseful": "Chinese-speaking learners can use the materials and app as a structured self-training path, while developers can study a mature language-learning product. Most documentation is in Chinese, and GPL obligations apply when redistributing modified versions.",
+  "friendlyHowItsUseful": "Learners can follow a structured practice path, and developers can study how the learning app is built. The main material is in Chinese."
+}

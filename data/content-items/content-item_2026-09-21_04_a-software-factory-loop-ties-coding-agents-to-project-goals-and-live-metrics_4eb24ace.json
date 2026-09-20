@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_04_a-software-factory-loop-ties-coding-agents-to-project-goals-and-live-metrics_4eb24ace",
+  "sourceKind": "article",
+  "sourceName": "Irrational Exuberance",
+  "sourceUrl": "https://lethain.com/software-factory-experiment/",
+  "canonicalUrl": "https://lethain.com/software-factory-experiment",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "A software-factory loop ties coding agents to project goals and live metrics",
+  "friendlyTitle": "Coding agents can work in a loop around a clear project goal",
+  "summary": "Will Larson describes an experimental workflow in which an agent repeatedly audits a project’s goals, measurement dashboards and task state, creates missing work, acts on unblocked tasks and returns to the goal when project context becomes stale. The loop depends on shared project state and access to operational metrics rather than an isolated coding prompt.",
+  "friendlySummary": "One team is testing an agent that checks a project’s goal and measurements, updates the task list and completes available work. It returns to the goal when the project information becomes old.",
+  "whyItMatters": "Long-running coding automation becomes more useful when it can judge progress against a business outcome instead of merely closing tickets. Teams trying this pattern should make goals and metrics explicit, keep task state authoritative and preserve human decisions around priorities and release risk.",
+  "friendlyWhyItMatters": "An agent should not confuse finishing tickets with improving the product. Clear goals and live measurements help it work on the right problems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

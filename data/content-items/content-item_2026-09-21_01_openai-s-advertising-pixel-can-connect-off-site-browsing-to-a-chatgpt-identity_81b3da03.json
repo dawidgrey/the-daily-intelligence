@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_01_openai-s-advertising-pixel-can-connect-off-site-browsing-to-a-chatgpt-identity_81b3da03",
+  "sourceKind": "article",
+  "sourceName": "Buchodi",
+  "sourceUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+  "canonicalUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "OpenAI’s advertising pixel can connect off-site browsing to a ChatGPT identity",
+  "friendlyTitle": "A ChatGPT ad cookie may link your account to websites you visit",
+  "summary": "An independent technical investigation found that OpenAI’s advertising infrastructure can set a year-long cross-site cookie tied to a ChatGPT account and receive it when participating websites load OpenAI’s measurement code. The researcher observed the identifier across multiple commercial sites and says OpenAI acknowledged the inquiry but did not answer the questions raised.",
+  "friendlySummary": "A researcher found that OpenAI’s ad tool can place a cookie connected to a ChatGPT account. Some shopping and service websites then send that cookie back to OpenAI when their pages load.",
+  "whyItMatters": "AI accounts can contain unusually sensitive conversations, so linking them to browsing and purchase behaviour creates a different privacy risk from an ordinary advertising profile. Users should review analytics and marketing consent, while businesses installing measurement pixels should understand what data the browser sends beyond their own conversion event.",
+  "friendlyWhyItMatters": "People may tell an AI assistant very private things. Connecting that account to browsing habits deserves careful consent and clear explanations.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

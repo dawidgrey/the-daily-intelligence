@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_10_researchers-disclose-two-patched-escapes-from-the-openai-codex-sandbox_46ff3fb9",
+  "sourceKind": "article",
+  "sourceName": "Accomplish",
+  "sourceUrl": "https://www.accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice/",
+  "canonicalUrl": "https://www.accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Researchers disclose two patched escapes from the OpenAI Codex sandbox",
+  "friendlyTitle": "Update Codex after two sandbox escape fixes",
+  "summary": "Accomplish researchers describe Overpatch, which abused Codex’s patch permissions to write outside the workspace, and Heapjack, which recovered a trust token from shared JavaScript heap memory to reach an unsandboxed parent process. OpenAI fixed both within eight days; the researchers recommend Codex CLI 0.149.0 and Desktop build 26.818.21641 or later.",
+  "friendlySummary": "Researchers found two ways for code inside Codex’s safety box to reach files or commands outside it. OpenAI fixed both problems in newer CLI and Desktop versions.",
+  "whyItMatters": "A coding agent may inspect hostile repositories, so its sandbox must withstand input designed to exploit the harness itself. Developers should update promptly and treat software-only sandboxing as one layer, keeping valuable credentials outside the agent environment and limiting host access.",
+  "friendlyWhyItMatters": "A harmful repository can target the coding tool that opens it. Update Codex and keep important credentials away from the agent whenever possible.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

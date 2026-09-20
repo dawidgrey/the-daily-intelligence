@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-09-19T20:04:45Z",
+  "generatedAtUtc": "2026-09-20T20:05:09Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-21",
+      "slug": "2026-09-21",
+      "status": "published",
+      "publicationDateUtc": "2026-09-20T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from clever demos into measurable, everyday systems",
+      "friendlyHeader": "Useful AI needs clear checks and limits",
+      "summary": "Today’s issue follows AI into privacy, software delivery, education, pet care and local infrastructure. The common thread is operational: useful AI increasingly depends on measurement, visible controls, trustworthy boundaries and a clear understanding of what the system does outside the chat window.",
+      "friendlySummary": "Today we look at AI in daily life, work, learning and software. The tools can do more, but people need to measure results, protect private information and keep strong safety boundaries.",
+      "itemCount": 13,
+      "href": "issues/2026-09-21.html",
+      "dataUrl": "data/daily-publications/2026-09-21.json"
+    },
     {
       "id": "daily-publication_2026-09-20",
       "slug": "2026-09-20",
@@ -268,20 +282,6 @@
       "itemCount": 13,
       "href": "issues/2026-09-02.html",
       "dataUrl": "data/daily-publications/2026-09-02.json"
-    },
-    {
-      "id": "daily-publication_2026-09-01",
-      "slug": "2026-09-01",
-      "status": "published",
-      "publicationDateUtc": "2026-08-31T20:00:00Z",
-      "displayTimeZone": "Australia/Sydney",
-      "header": "AI moves from novelty to operating infrastructure",
-      "friendlyHeader": "AI is becoming part of everyday systems",
-      "summary": "Today's issue follows a practical shift: AI is becoming part of advertising, public services, product workflows, model training and platform rules. The useful question is no longer just what a model can do, but how reliably, openly and safely it fits into real work.",
-      "friendlySummary": "Today we look at how AI is changing ads, government work, meetings, speech tools and online platforms. We also share three useful projects you can explore yourself.",
-      "itemCount": 13,
-      "href": "issues/2026-09-01.html",
-      "dataUrl": "data/daily-publications/2026-09-01.json"
     }
   ],
   "limit": 20

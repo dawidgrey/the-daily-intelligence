@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_13_fareedkhan-dev-train-llm-from-scratch-a-plain-pytorch-path-from-tokens-to-alignm_c0728193",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "canonicalUrl": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "FareedKhan-dev/train-llm-from-scratch: a plain-PyTorch path from tokens to alignment",
+  "friendlyTitle": "Train LLM from Scratch teaches the full model-building pipeline",
+  "summary": "This MIT-licensed educational repository implements a transformer and post-training pipeline in plain PyTorch, covering tokenisation, pretraining, supervised fine-tuning, reward modelling, PPO, DPO, GRPO, evaluation and chat. It has about 10,250 GitHub stars and gained roughly 196 stars in the day’s trending snapshot.",
+  "friendlySummary": "The project shows how to build and train a transformer in plain PyTorch, then add several alignment methods. It has about 10,250 GitHub stars.",
+  "whyItMatters": "Learners can trace how a language model moves from raw text to an aligned assistant without hiding the core algorithms behind high-level training libraries. The code is best treated as an educational reference; training meaningful models still requires careful data licensing, evaluation and substantial compute.",
+  "friendlyWhyItMatters": "It is useful for understanding what training libraries normally hide. Start with small examples, because large models still need expensive hardware and carefully licensed data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-21"
+  },
+  "howItsUseful": "Learners can trace how a language model moves from raw text to an aligned assistant without hiding the core algorithms behind high-level training libraries. The code is best treated as an educational reference; training meaningful models still requires careful data licensing, evaluation and substantial compute.",
+  "friendlyHowItsUseful": "It is useful for understanding what training libraries normally hide. Start with small examples, because large models still need expensive hardware and carefully licensed data."
+}

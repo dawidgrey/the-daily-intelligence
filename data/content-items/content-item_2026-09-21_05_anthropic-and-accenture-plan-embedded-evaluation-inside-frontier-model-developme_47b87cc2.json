@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_05_anthropic-and-accenture-plan-embedded-evaluation-inside-frontier-model-developme_47b87cc2",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+  "canonicalUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Anthropic and Accenture plan embedded evaluation inside frontier-model development",
+  "friendlyTitle": "Outside evaluators will work inside Anthropic’s model-development process",
+  "summary": "Anthropic and Accenture say they will each invest at least $1 billion over five years in evaluation capacity, with Accenture’s Faculty unit gaining employee-like access to observe training, decisions and safeguards. The non-exclusive arrangement is intended to support red-teaming, alignment assessment and public reporting, although standards, funding and disclosure rules remain unsettled.",
+  "friendlySummary": "Accenture’s specialist AI team will inspect models and safety work while those systems are being built. Both companies expect to invest at least $1 billion over five years.",
+  "whyItMatters": "Independent review is stronger when evaluators can inspect how a model was built rather than only test the finished API. Its credibility will depend on practical independence, transparent reporting and whether findings lead to changes despite the developer directly funding the work.",
+  "friendlyWhyItMatters": "Earlier access may reveal problems that final product tests miss. People should still ask what the evaluators can publish and how independent they are from the company paying them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}

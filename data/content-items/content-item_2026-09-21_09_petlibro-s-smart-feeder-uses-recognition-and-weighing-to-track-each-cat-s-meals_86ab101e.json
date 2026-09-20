@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-21_09_petlibro-s-smart-feeder-uses-recognition-and-weighing-to-track-each-cat-s-meals_86ab101e",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-20T20:05:09Z",
+  "createdAtUtc": "2026-09-20T20:05:09Z",
+  "updatedAtUtc": "2026-09-20T20:05:09Z",
+  "title": "Petlibro’s smart feeder uses recognition and weighing to track each cat’s meals",
+  "friendlyTitle": "A smart feeder can track which cat ate and how much",
+  "summary": "Petlibro’s Granary 2 range combines scheduled dry-food dispensing with a built-in scale, while higher-priced Vision models add camera recognition for up to ten cats and individual eating records. Prices run from US$129.99 to US$249.99, with some advanced health-monitoring features requiring a subscription.",
+  "friendlySummary": "Petlibro’s new feeders weigh the food left in the bowl. Some models also use a camera to recognise different cats and keep separate eating records.",
+  "whyItMatters": "This is a concrete household use for narrow AI: distinguishing pets so feeding records are not mixed together. Owners should treat appetite alerts as prompts to observe or contact a vet, not as diagnoses, and weigh the benefit against a camera in the home and ongoing subscription costs.",
+  "friendlyWhyItMatters": "Changes in eating can be useful warning signs, especially in a home with several cats. The device cannot replace a vet, and buyers should consider camera privacy and subscription fees.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-21"
+  }
+}
