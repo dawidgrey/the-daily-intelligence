@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_06_xai-launches-grok-4-7-for-coding-and-knowledge-work-at-lower-api-prices_81104d88",
+  "sourceKind": "product",
+  "sourceName": "xAI",
+  "sourceUrl": "https://x.ai/news/grok-4-7",
+  "canonicalUrl": "https://x.ai/news/grok-4-7",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "xAI launches Grok 4.7 for coding and knowledge work at lower API prices",
+  "friendlyTitle": "xAI releases Grok 4.7 for coding and office work",
+  "summary": "xAI has released Grok 4.7 with a larger base model, longer reinforcement-learning runs and more emphasis on self-verification during extended tasks. It is available through the Grok API, Grok Build, Cursor and other coding tools from $2 per million input tokens and $6 per million output tokens.",
+  "friendlySummary": "Grok 4.7 is designed to work longer on difficult coding and knowledge tasks and check its work more carefully. It is available through xAI’s API and several coding tools.",
+  "whyItMatters": "The pricing creates another credible option for coding and document-heavy workloads, but the launch benchmarks are vendor-selected and vary substantially by task. Buyers should compare total task cost, reliability and safety on their own evaluation set rather than ranking models by one aggregate score.",
+  "friendlyWhyItMatters": "The lower price may help teams that use many AI tokens. Test the model on your own jobs because company benchmarks do not show how well it will handle every task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

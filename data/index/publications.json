@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-20T20:05:09Z",
+  "generatedAtUtc": "2026-09-21T20:08:39Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-22",
+      "slug": "2026-09-22",
+      "status": "published",
+      "publicationDateUtc": "2026-09-21T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from impressive demos into the machinery of everyday work",
+      "friendlyHeader": "AI tools are becoming easier to use in real work",
+      "summary": "Today’s issue is about the less glamorous layer where AI becomes useful: faster validation, durable context, reliable model calls, practical training and clearer privacy controls. New models still matter, but the strongest signal is the tooling being built around them.",
+      "friendlySummary": "Today we look at tools that make AI work more reliably, safely and quickly. There is also a new model, simpler AI training and practical advice for protecting private phone data.",
+      "itemCount": 13,
+      "href": "issues/2026-09-22.html",
+      "dataUrl": "data/daily-publications/2026-09-22.json"
+    },
     {
       "id": "daily-publication_2026-09-21",
       "slug": "2026-09-21",

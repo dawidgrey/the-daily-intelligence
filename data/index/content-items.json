@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-16T20:05:33Z",
+  "generatedAtUtc": "2026-09-21T20:08:38Z",
   "items": [
     {
-      "id": "content-item_2026-09-17_01_anthropic-unifies-claude-chat-and-cowork-adding-docs-and-slides_a28c5c64",
-      "sourceKind": "product",
-      "sourceName": "Reuters",
-      "title": "Anthropic unifies Claude chat and Cowork, adding Docs and Slides",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/"
+      "id": "content-item_2026-09-22_01_linear-cuts-ci-cost-and-delay-as-ai-generated-code-multiplies-tests_015dbc4f",
+      "sourceKind": "article",
+      "sourceName": "Linear",
+      "title": "Linear cuts CI cost and delay as AI-generated code multiplies tests",
+      "sourceUrl": "https://linear.app/now/ci-bottleneck-reworked"
     },
     {
-      "id": "content-item_2026-09-17_02_openai-tests-sponsored-agents-and-expands-ai-tools-for-advertisers_52752974",
+      "id": "content-item_2026-09-22_02_anthropic-measures-how-much-of-its-own-ai-research-claude-now-leads_fb225a3b",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Anthropic measures how much of its own AI research Claude now leads",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development"
+    },
+    {
+      "id": "content-item_2026-09-22_03_eff-explains-how-to-limit-siri-ai-s-access-to-app-data-in-ios-27_6bc0c2b9",
+      "sourceKind": "article",
+      "sourceName": "Electronic Frontier Foundation",
+      "title": "EFF explains how to limit Siri AI’s access to app data in iOS 27",
+      "sourceUrl": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27"
+    },
+    {
+      "id": "content-item_2026-09-22_04_hugging-face-benchmarks-a-major-speed-up-for-tokenizers-v1_eb792e0f",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face benchmarks a major speed-up for tokenizers v1",
+      "sourceUrl": "https://huggingface.co/blog/tokenizers-v1"
+    },
+    {
+      "id": "content-item_2026-09-22_05_openai-academy-adds-role-based-paths-for-workers-developers-and-leaders_530db518",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI tests Sponsored Agents and expands AI tools for advertisers",
-      "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai"
+      "title": "OpenAI Academy adds role-based paths for workers, developers and leaders",
+      "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
     },
     {
-      "id": "content-item_2026-09-17_03_chatgpt-work-analytics-connect-ai-activity-to-business-outcomes_5f7e182a",
+      "id": "content-item_2026-09-22_06_xai-launches-grok-4-7-for-coding-and-knowledge-work-at-lower-api-prices_81104d88",
       "sourceKind": "product",
+      "sourceName": "xAI",
+      "title": "xAI launches Grok 4.7 for coding and knowledge work at lower API prices",
+      "sourceUrl": "https://x.ai/news/grok-4-7"
+    },
+    {
+      "id": "content-item_2026-09-22_07_v7-builds-source-linked-institutional-memory-for-long-running-agents_d1749ba7",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "ChatGPT Work analytics connect AI activity to business outcomes",
-      "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+      "title": "V7 builds source-linked institutional memory for long-running agents",
+      "sourceUrl": "https://openai.com/index/v7"
     },
     {
-      "id": "content-item_2026-09-17_04_openai-study-finds-ai-assisted-tasks-are-broadening-workers-roles_71646fff",
-      "sourceKind": "research",
-      "sourceName": "OpenAI Economic Research",
-      "title": "OpenAI study finds AI-assisted tasks are broadening workers’ roles",
-      "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working"
-    },
-    {
-      "id": "content-item_2026-09-17_05_novo-nordisk-partners-with-anthropic-for-drug-research-and-development_5046b696",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Novo Nordisk partners with Anthropic for drug research and development",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/novo-partners-with-anthropic-speed-up-drug-development-with-claude-2026-09-16/"
-    },
-    {
-      "id": "content-item_2026-09-17_06_bragjack-research-exposes-a-shared-weakness-in-five-ai-enabled-browsers_9402b4f1",
-      "sourceKind": "research",
-      "sourceName": "Forever Security",
-      "title": "BragJack research exposes a shared weakness in five AI-enabled browsers",
-      "sourceUrl": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/"
-    },
-    {
-      "id": "content-item_2026-09-17_07_researchers-trace-earlier-hugging-face-probing-to-openai-linked-agents_1171fe12",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Researchers trace earlier Hugging Face probing to OpenAI-linked agents",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/"
-    },
-    {
-      "id": "content-item_2026-09-17_08_google-home-opens-early-mcp-access-to-third-party-ai-agents_ffa6cd36",
+      "id": "content-item_2026-09-22_08_vernllm-adds-retries-fallback-and-rate-limits-without-a-separate-gateway_ff11f727",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Google Home opens early MCP access to third-party AI agents",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+      "sourceName": "VernLLM",
+      "title": "VernLLM adds retries, fallback and rate limits without a separate gateway",
+      "sourceUrl": "https://vernllm.dev/"
     },
     {
-      "id": "content-item_2026-09-17_09_opendocbot-brings-a-bring-your-own-model-agent-to-microsoft-office_1ad9f422",
+      "id": "content-item_2026-09-22_09_opencomputer-gives-every-managed-agent-environment-a-durable-sql-databas_3e24ef06",
       "sourceKind": "product",
-      "sourceName": "OpenDocBot",
-      "title": "OpenDocBot brings a bring-your-own-model agent to Microsoft Office",
-      "sourceUrl": "https://opendocbot.com/"
+      "sourceName": "OpenComputer",
+      "title": "OpenComputer gives every managed agent environment a durable SQL database",
+      "sourceUrl": "https://docs.opencomputer.dev/agents/database"
     },
     {
-      "id": "content-item_2026-09-17_10_tabmail-adds-confirm-before-action-ai-to-thunderbird-and-iphone_ecea342e",
+      "id": "content-item_2026-09-22_10_project-terminal-puts-coding-agents-shells-and-a-browser-in-one-mac-work_49bbfd35",
       "sourceKind": "product",
-      "sourceName": "TabMail",
-      "title": "TabMail adds confirm-before-action AI to Thunderbird and iPhone",
-      "sourceUrl": "https://tabmail.ai/"
+      "sourceName": "Project Terminal",
+      "title": "Project Terminal puts coding agents, shells and a browser in one Mac workspace",
+      "sourceUrl": "https://www.projectterminal.app/"
     },
     {
-      "id": "content-item_2026-09-17_11_tencentcloud-octop-a-self-hosted-multi-user-multi-agent-assistant_e2fd3d80",
+      "id": "content-item_2026-09-22_11_trycua-cua-open-infrastructure-for-computer-using-agents_1c712cad",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "TencentCloud/Octop: a self-hosted multi-user, multi-agent assistant",
-      "sourceUrl": "https://github.com/TencentCloud/Octop"
+      "title": "trycua/cua: open infrastructure for computer-using agents",
+      "sourceUrl": "https://github.com/trycua/cua"
     },
     {
-      "id": "content-item_2026-09-17_12_snailsploit-claude-red-offensive-security-skills-for-authorised-testing_983f23e9",
+      "id": "content-item_2026-09-22_12_coder-coder-secure-cloud-workspaces-for-developers-and-their-agents_c57da82c",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "SnailSploit/Claude-Red: offensive-security skills for authorised testing",
-      "sourceUrl": "https://github.com/SnailSploit/Claude-Red"
+      "title": "coder/coder: secure cloud workspaces for developers and their agents",
+      "sourceUrl": "https://github.com/coder/coder"
     },
     {
-      "id": "content-item_2026-09-17_13_meituan-longcat-longcat-video-open-tools-for-video-and-avatar-generation_94272189",
+      "id": "content-item_2026-09-22_13_akitaonrails-ai-memory-shared-long-term-memory-across-coding-agents_9b780e55",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "meituan-longcat/LongCat-Video: open tools for video and avatar generation",
-      "sourceUrl": "https://github.com/meituan-longcat/LongCat-Video"
+      "title": "akitaonrails/ai-memory: shared long-term memory across coding agents",
+      "sourceUrl": "https://github.com/akitaonrails/ai-memory"
     }
   ]
 }

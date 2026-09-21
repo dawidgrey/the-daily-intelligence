@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_12_coder-coder-secure-cloud-workspaces-for-developers-and-their-agents_c57da82c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/coder/coder",
+  "canonicalUrl": "https://github.com/coder/coder",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "coder/coder: secure cloud workspaces for developers and their agents",
+  "friendlyTitle": "Coder provides managed workspaces for developers and coding agents",
+  "summary": "Coder is a self-hostable platform for centrally managed development environments that can be used by people and coding agents. The actively maintained Go project has more than 16,000 stars and added 461 stars on GitHub Trending today.",
+  "friendlySummary": "Coder creates controlled development environments that people and AI coding tools can use remotely. It gained 461 stars on GitHub today.",
+  "whyItMatters": "Engineering teams can provision reproducible remote workspaces with controlled infrastructure, policies and lifecycle management instead of letting each agent run directly on a laptop. Review the AGPL and enterprise licensing options and keep production credentials outside agent workspaces.",
+  "friendlyWhyItMatters": "Teams can give agents a repeatable workspace without giving them direct access to a personal computer. Keep important production secrets somewhere else and check the licence before deployment.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

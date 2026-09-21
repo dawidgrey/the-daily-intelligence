@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_03_eff-explains-how-to-limit-siri-ai-s-access-to-app-data-in-ios-27_6bc0c2b9",
+  "sourceKind": "article",
+  "sourceName": "Electronic Frontier Foundation",
+  "sourceUrl": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+  "canonicalUrl": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "EFF explains how to limit Siri AI’s access to app data in iOS 27",
+  "friendlyTitle": "You can choose which apps the new Siri is allowed to search",
+  "summary": "EFF documents how the new Siri can search content from Messages, Notes, Mail and supported third-party apps, sometimes using Apple’s Private Cloud Compute. Its guide shows users how to disable content indexing for selected apps and reviews the separate controls for app access and on-screen awareness.",
+  "friendlySummary": "The new Siri can look through information in Apple apps and some other apps. EFF explains where to turn off access for apps that contain private information.",
+  "whyItMatters": "More useful assistants need broader access to personal context. iPhone users should review sensitive apps individually rather than treating Siri as one all-or-nothing setting, especially where health, financial, legal or encrypted communications are involved.",
+  "friendlyWhyItMatters": "A smarter assistant may see more of your personal data. Check each sensitive app and block access when the convenience is not worth the privacy risk.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

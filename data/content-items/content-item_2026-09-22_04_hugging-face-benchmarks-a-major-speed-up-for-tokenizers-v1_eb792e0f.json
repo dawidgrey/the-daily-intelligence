@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_04_hugging-face-benchmarks-a-major-speed-up-for-tokenizers-v1_eb792e0f",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/tokenizers-v1",
+  "canonicalUrl": "https://huggingface.co/blog/tokenizers-v1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "Hugging Face benchmarks a major speed-up for tokenizers v1",
+  "friendlyTitle": "Hugging Face makes the text step before an AI answer much faster",
+  "summary": "Hugging Face’s tokenizers v1 release candidate preserves existing token IDs and APIs while reporting three-to-30-fold single-thread gains over version 0.23, lower tail latency and better multilingual performance. The team published the tokbench harness and commands needed to reproduce the tests on other hardware.",
+  "friendlySummary": "AI models first turn text into tokens. Hugging Face says its new tokenizer does this several times faster while keeping the same results, and it provides a test that others can repeat.",
+  "whyItMatters": "Tokenisation happens before a model can return its first token, so faster preprocessing can noticeably improve long-context agents and high-volume services without changing the model. Teams should rerun the open benchmark on their own languages, models and machines before estimating savings.",
+  "friendlyWhyItMatters": "Faster token processing can make long AI requests respond sooner and cost less to operate. Test it with your own text and computers before relying on the headline numbers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

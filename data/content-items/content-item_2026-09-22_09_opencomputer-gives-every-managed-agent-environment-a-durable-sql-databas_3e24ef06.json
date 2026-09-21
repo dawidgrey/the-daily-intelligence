@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_09_opencomputer-gives-every-managed-agent-environment-a-durable-sql-databas_3e24ef06",
+  "sourceKind": "product",
+  "sourceName": "OpenComputer",
+  "sourceUrl": "https://docs.opencomputer.dev/agents/database",
+  "canonicalUrl": "https://docs.opencomputer.dev/agents/database",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "OpenComputer gives every managed agent environment a durable SQL database",
+  "friendlyTitle": "OpenComputer agents can now share a lasting SQL database",
+  "summary": "OpenComputer now provisions one durable SQL database for every project environment, shared across its agents and sessions while keeping development and production isolated. Schemas are managed through ordered migrations, and bounded MCP tools separate read queries from parameterised writes.",
+  "friendlySummary": "Agents in one OpenComputer project can save structured information in a database and read it in later sessions. Database structure stays in source-controlled migration files.",
+  "whyItMatters": "Persistent structured state lets agents remember monitor results, jobs and workflow data without hiding everything in conversation history. The migration-only schema and restricted query tools are sensible boundaries, but applications still need tenant identifiers and careful permission design for shared data.",
+  "friendlyWhyItMatters": "Agents can remember useful facts without placing everything in a chat. Developers still need to separate users’ data and limit what each agent is allowed to change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_01_linear-cuts-ci-cost-and-delay-as-ai-generated-code-multiplies-tests_015dbc4f",
+  "sourceKind": "article",
+  "sourceName": "Linear",
+  "sourceUrl": "https://linear.app/now/ci-bottleneck-reworked",
+  "canonicalUrl": "https://linear.app/now/ci-bottleneck-reworked",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "Linear cuts CI cost and delay as AI-generated code multiplies tests",
+  "friendlyTitle": "Linear makes software checks faster as AI creates more code",
+  "summary": "Linear says its test suite nearly quadrupled as agents accelerated software development, turning continuous integration into a bottleneck. Faster runners, a native TypeScript compiler, leaner checkout jobs and lower setup overhead cut runner time per test roughly in half while reducing pull-request waits.",
+  "friendlySummary": "AI coding tools helped Linear produce many more tests, but checking every change became slow and expensive. The company improved its computers, tools and test setup to reduce waiting and cost.",
+  "whyItMatters": "AI coding shifts the constraint from producing code to validating it. Engineering teams adopting agents should measure queue time, setup cost and critical-path jobs before simply adding more test shards or accepting a larger cloud bill.",
+  "friendlyWhyItMatters": "AI can write code faster than teams can check it. Companies should improve their testing system so speed does not reduce quality or create a much larger bill.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-22",
+  "slug": "2026-09-22",
+  "status": "published",
+  "publicationDateUtc": "2026-09-21T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from impressive demos into the machinery of everyday work",
+  "friendlyHeader": "AI tools are becoming easier to use in real work",
+  "summary": "Today’s issue is about the less glamorous layer where AI becomes useful: faster validation, durable context, reliable model calls, practical training and clearer privacy controls. New models still matter, but the strongest signal is the tooling being built around them.",
+  "friendlySummary": "Today we look at tools that make AI work more reliably, safely and quickly. There is also a new model, simpler AI training and practical advice for protecting private phone data.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-22_01_linear-cuts-ci-cost-and-delay-as-ai-generated-code-multiplies-tests_015dbc4f",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_02_anthropic-measures-how-much-of-its-own-ai-research-claude-now-leads_fb225a3b",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_03_eff-explains-how-to-limit-siri-ai-s-access-to-app-data-in-ios-27_6bc0c2b9",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_04_hugging-face-benchmarks-a-major-speed-up-for-tokenizers-v1_eb792e0f",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_05_openai-academy-adds-role-based-paths-for-workers-developers-and-leaders_530db518",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_06_xai-launches-grok-4-7-for-coding-and-knowledge-work-at-lower-api-prices_81104d88",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_07_v7-builds-source-linked-institutional-memory-for-long-running-agents_d1749ba7",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_08_vernllm-adds-retries-fallback-and-rate-limits-without-a-separate-gateway_ff11f727",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_09_opencomputer-gives-every-managed-agent-environment-a-durable-sql-databas_3e24ef06",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_10_project-terminal-puts-coding-agents-shells-and-a-browser-in-one-mac-work_49bbfd35",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_11_trycua-cua-open-infrastructure-for-computer-using-agents_1c712cad",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_12_coder-coder-secure-cloud-workspaces-for-developers-and-their-agents_c57da82c",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-22_13_akitaonrails-ai-memory-shared-long-term-memory-across-coding-agents_9b780e55",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-22.json",
+    "itemCount": 13
+  }
+}

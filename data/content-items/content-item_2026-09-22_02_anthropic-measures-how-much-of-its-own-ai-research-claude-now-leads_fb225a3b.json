@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-22_02_anthropic-measures-how-much-of-its-own-ai-research-claude-now-leads_fb225a3b",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+  "canonicalUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-21T20:08:38Z",
+  "createdAtUtc": "2026-09-21T20:08:38Z",
+  "updatedAtUtc": "2026-09-21T20:08:38Z",
+  "title": "Anthropic measures how much of its own AI research Claude now leads",
+  "friendlyTitle": "Anthropic says Claude leads part of the work used to build new AI",
+  "summary": "Anthropic reports that Claude now leads 26% of measured internal AI R&D tasks and collaborates on more than 90%, while none of the measured work is fully autonomous. It also proposes public metrics for agent oversight, review latency and compute allocation, with third-party evaluators planned.",
+  "friendlySummary": "Anthropic says Claude leads 26% of its measured AI research and development tasks. People still supervise the work, and Claude is not fully independent in any measured area.",
+  "whyItMatters": "The figures offer a rare view of AI being used to build its successors, but they are company-defined and need independent verification. The measurement framework is useful for any organisation deploying many agents: track what they do, how quickly actions are reviewed and where humans can intervene.",
+  "friendlyWhyItMatters": "Companies using many AI agents need to know what the agents do and how people can stop or correct them. Anthropic’s numbers are useful, but outside experts still need to check them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-22"
+  }
+}
