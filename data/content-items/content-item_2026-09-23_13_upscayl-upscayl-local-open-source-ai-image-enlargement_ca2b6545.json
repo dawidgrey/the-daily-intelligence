@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_13_upscayl-upscayl-local-open-source-ai-image-enlargement_ca2b6545",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/upscayl/upscayl",
+  "canonicalUrl": "https://github.com/upscayl/upscayl",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "upscayl/upscayl: local open-source AI image enlargement",
+  "friendlyTitle": "Upscayl enlarges images with AI on your own computer",
+  "summary": "Upscayl is a desktop application that uses AI models to enlarge and enhance images locally on Linux, macOS and Windows. The established open-source project has nearly 50,000 stars and gained about 177 stars in today’s GitHub Trending collection.",
+  "friendlySummary": "Upscayl is a free desktop app for making small images larger on Linux, Mac and Windows. It was among today’s most popular AI-related GitHub projects.",
+  "whyItMatters": "People can improve low-resolution scans, artwork or product images without uploading the originals to a hosted editing service. Results depend on the source and model, so compare the output at full size and keep the untouched original when factual detail matters.",
+  "friendlyWhyItMatters": "You can improve an image without sending it to an online service. Keep the original because AI enlargement can invent or change small details.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

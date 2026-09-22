@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-21T20:08:38Z",
+  "generatedAtUtc": "2026-09-22T20:06:21Z",
   "items": [
     {
-      "id": "content-item_2026-09-22_01_linear-cuts-ci-cost-and-delay-as-ai-generated-code-multiplies-tests_015dbc4f",
-      "sourceKind": "article",
-      "sourceName": "Linear",
-      "title": "Linear cuts CI cost and delay as AI-generated code multiplies tests",
-      "sourceUrl": "https://linear.app/now/ci-bottleneck-reworked"
-    },
-    {
-      "id": "content-item_2026-09-22_02_anthropic-measures-how-much-of-its-own-ai-research-claude-now-leads_fb225a3b",
-      "sourceKind": "research",
+      "id": "content-item_2026-09-23_01_claude-opus-5-5-targets-long-agent-tasks-at-40-lower-cost_0c90c73c",
+      "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Anthropic measures how much of its own AI research Claude now leads",
-      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development"
+      "title": "Claude Opus 5.5 targets long agent tasks at 40% lower cost",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
-      "id": "content-item_2026-09-22_03_eff-explains-how-to-limit-siri-ai-s-access-to-app-data-in-ios-27_6bc0c2b9",
-      "sourceKind": "article",
-      "sourceName": "Electronic Frontier Foundation",
-      "title": "EFF explains how to limit Siri AI’s access to app data in iOS 27",
-      "sourceUrl": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27"
+      "id": "content-item_2026-09-23_02_openai-halves-api-prices-for-gpt-6-sol-and-luna_3d48e529",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI halves API prices for GPT-6 Sol and Luna",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     },
     {
-      "id": "content-item_2026-09-22_04_hugging-face-benchmarks-a-major-speed-up-for-tokenizers-v1_eb792e0f",
+      "id": "content-item_2026-09-23_03_transformers-can-now-run-llama-cpp-style-gguf-models-directly_98acfe91",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Transformers can now run llama.cpp-style GGUF models directly",
+      "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+    },
+    {
+      "id": "content-item_2026-09-23_04_uk-aisi-publishes-model-evaluations-in-a-reproducible-common-format_2960c64a",
       "sourceKind": "research",
       "sourceName": "Hugging Face",
-      "title": "Hugging Face benchmarks a major speed-up for tokenizers v1",
-      "sourceUrl": "https://huggingface.co/blog/tokenizers-v1"
+      "title": "UK AISI publishes model evaluations in a reproducible common format",
+      "sourceUrl": "https://huggingface.co/blog/evaleval-aisi"
     },
     {
-      "id": "content-item_2026-09-22_05_openai-academy-adds-role-based-paths-for-workers-developers-and-leaders_530db518",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI Academy adds role-based paths for workers, developers and leaders",
-      "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+      "id": "content-item_2026-09-23_05_meta-pauses-a-human-backed-muse-calling-test-after-disclosure-concerns_c3548d19",
+      "sourceKind": "article",
+      "sourceName": "Reuters",
+      "title": "Meta pauses a human-backed Muse calling test after disclosure concerns",
+      "sourceUrl": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/"
     },
     {
-      "id": "content-item_2026-09-22_06_xai-launches-grok-4-7-for-coding-and-knowledge-work-at-lower-api-prices_81104d88",
-      "sourceKind": "product",
-      "sourceName": "xAI",
-      "title": "xAI launches Grok 4.7 for coding and knowledge work at lower API prices",
-      "sourceUrl": "https://x.ai/news/grok-4-7"
-    },
-    {
-      "id": "content-item_2026-09-22_07_v7-builds-source-linked-institutional-memory-for-long-running-agents_d1749ba7",
+      "id": "content-item_2026-09-23_06_openai-proposes-deeper-independent-checks-of-frontier-model-safety-claim_b4fb82cc",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "V7 builds source-linked institutional memory for long-running agents",
-      "sourceUrl": "https://openai.com/index/v7"
+      "title": "OpenAI proposes deeper independent checks of frontier-model safety claims",
+      "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments"
     },
     {
-      "id": "content-item_2026-09-22_08_vernllm-adds-retries-fallback-and-rate-limits-without-a-separate-gateway_ff11f727",
+      "id": "content-item_2026-09-23_07_study-finds-weaker-hiring-flows-in-work-most-exposed-to-adopted-ai_dec627dc",
+      "sourceKind": "research",
+      "sourceName": "NBER conference paper",
+      "title": "Study finds weaker hiring flows in work most exposed to adopted AI",
+      "sourceUrl": "https://conference.nber.org/conf_papers/f247923.pdf"
+    },
+    {
+      "id": "content-item_2026-09-23_08_xeno-interpretability-asks-whether-models-use-concepts-humans-cannot-nam_4e77f4a2",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Xeno-interpretability asks whether models use concepts humans cannot name",
+      "sourceUrl": "https://arxiv.org/abs/2609.20408"
+    },
+    {
+      "id": "content-item_2026-09-23_09_limite-1b-targets-competition-maths-with-a-compact-specialist-model_c6aac4cd",
       "sourceKind": "product",
-      "sourceName": "VernLLM",
-      "title": "VernLLM adds retries, fallback and rate limits without a separate gateway",
-      "sourceUrl": "https://vernllm.dev/"
+      "sourceName": "Paradigma",
+      "title": "Limite 1B targets competition maths with a compact specialist model",
+      "sourceUrl": "https://paradigma.inc/blog/limite-1b-violetto/"
     },
     {
-      "id": "content-item_2026-09-22_09_opencomputer-gives-every-managed-agent-environment-a-durable-sql-databas_3e24ef06",
+      "id": "content-item_2026-09-23_10_agent-manager-adds-mouse-control-without-losing-terminal-behaviour_5cedaa63",
       "sourceKind": "product",
-      "sourceName": "OpenComputer",
-      "title": "OpenComputer gives every managed agent environment a durable SQL database",
-      "sourceUrl": "https://docs.opencomputer.dev/agents/database"
+      "sourceName": "Agent Manager",
+      "title": "Agent Manager adds mouse control without losing terminal behaviour",
+      "sourceUrl": "https://agent-manager.dev/writing/mouse-support/"
     },
     {
-      "id": "content-item_2026-09-22_10_project-terminal-puts-coding-agents-shells-and-a-browser-in-one-mac-work_49bbfd35",
-      "sourceKind": "product",
-      "sourceName": "Project Terminal",
-      "title": "Project Terminal puts coding agents, shells and a browser in one Mac workspace",
-      "sourceUrl": "https://www.projectterminal.app/"
-    },
-    {
-      "id": "content-item_2026-09-22_11_trycua-cua-open-infrastructure-for-computer-using-agents_1c712cad",
+      "id": "content-item_2026-09-23_11_dream-num-univer-an-office-document-runtime-for-ai-agents_404dff4b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "trycua/cua: open infrastructure for computer-using agents",
-      "sourceUrl": "https://github.com/trycua/cua"
+      "title": "dream-num/univer: an office-document runtime for AI agents",
+      "sourceUrl": "https://github.com/dream-num/univer"
     },
     {
-      "id": "content-item_2026-09-22_12_coder-coder-secure-cloud-workspaces-for-developers-and-their-agents_c57da82c",
+      "id": "content-item_2026-09-23_12_superdesigndev-treg-a-routing-layer-for-agent-tools_e535a2f5",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "coder/coder: secure cloud workspaces for developers and their agents",
-      "sourceUrl": "https://github.com/coder/coder"
+      "title": "superdesigndev/treg: a routing layer for agent tools",
+      "sourceUrl": "https://github.com/superdesigndev/treg"
     },
     {
-      "id": "content-item_2026-09-22_13_akitaonrails-ai-memory-shared-long-term-memory-across-coding-agents_9b780e55",
+      "id": "content-item_2026-09-23_13_upscayl-upscayl-local-open-source-ai-image-enlargement_ca2b6545",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "akitaonrails/ai-memory: shared long-term memory across coding agents",
-      "sourceUrl": "https://github.com/akitaonrails/ai-memory"
+      "title": "upscayl/upscayl: local open-source AI image enlargement",
+      "sourceUrl": "https://github.com/upscayl/upscayl"
     }
   ]
 }

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-21T20:08:39Z",
+  "generatedAtUtc": "2026-09-22T20:06:21Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-23",
+      "slug": "2026-09-23",
+      "status": "published",
+      "publicationDateUtc": "2026-09-22T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Frontier models get cheaper while the work around them becomes more accountable",
+      "friendlyHeader": "Powerful AI is getting cheaper and easier to check",
+      "summary": "Today’s strongest signals are not just higher benchmark scores. New flagship models compete on price and efficiency, local model tooling becomes easier to use, and researchers are asking harder questions about evaluation, labour effects, privacy and what model internals may contain.",
+      "friendlySummary": "Today brings less expensive AI models, simpler local AI tools and better ways to check model claims. We also look at jobs, privacy, mathematical AI and useful open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-09-23.html",
+      "dataUrl": "data/daily-publications/2026-09-23.json"
+    },
     {
       "id": "daily-publication_2026-09-22",
       "slug": "2026-09-22",

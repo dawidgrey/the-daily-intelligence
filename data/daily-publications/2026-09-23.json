@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-23",
+  "slug": "2026-09-23",
+  "status": "published",
+  "publicationDateUtc": "2026-09-22T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Frontier models get cheaper while the work around them becomes more accountable",
+  "friendlyHeader": "Powerful AI is getting cheaper and easier to check",
+  "summary": "Today’s strongest signals are not just higher benchmark scores. New flagship models compete on price and efficiency, local model tooling becomes easier to use, and researchers are asking harder questions about evaluation, labour effects, privacy and what model internals may contain.",
+  "friendlySummary": "Today brings less expensive AI models, simpler local AI tools and better ways to check model claims. We also look at jobs, privacy, mathematical AI and useful open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-23_01_claude-opus-5-5-targets-long-agent-tasks-at-40-lower-cost_0c90c73c",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_02_openai-halves-api-prices-for-gpt-6-sol-and-luna_3d48e529",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_03_transformers-can-now-run-llama-cpp-style-gguf-models-directly_98acfe91",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_04_uk-aisi-publishes-model-evaluations-in-a-reproducible-common-format_2960c64a",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_05_meta-pauses-a-human-backed-muse-calling-test-after-disclosure-concerns_c3548d19",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_06_openai-proposes-deeper-independent-checks-of-frontier-model-safety-claim_b4fb82cc",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_07_study-finds-weaker-hiring-flows-in-work-most-exposed-to-adopted-ai_dec627dc",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_08_xeno-interpretability-asks-whether-models-use-concepts-humans-cannot-nam_4e77f4a2",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_09_limite-1b-targets-competition-maths-with-a-compact-specialist-model_c6aac4cd",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_10_agent-manager-adds-mouse-control-without-losing-terminal-behaviour_5cedaa63",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_11_dream-num-univer-an-office-document-runtime-for-ai-agents_404dff4b",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_12_superdesigndev-treg-a-routing-layer-for-agent-tools_e535a2f5",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-23_13_upscayl-upscayl-local-open-source-ai-image-enlargement_ca2b6545",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-23.json",
+    "itemCount": 13
+  }
+}

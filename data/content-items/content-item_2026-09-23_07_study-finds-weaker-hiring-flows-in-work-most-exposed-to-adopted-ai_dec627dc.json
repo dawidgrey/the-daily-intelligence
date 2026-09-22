@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_07_study-finds-weaker-hiring-flows-in-work-most-exposed-to-adopted-ai_dec627dc",
+  "sourceKind": "research",
+  "sourceName": "NBER conference paper",
+  "sourceUrl": "https://conference.nber.org/conf_papers/f247923.pdf",
+  "canonicalUrl": "https://conference.nber.org/conf_papers/f247923.pdf",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "Study finds weaker hiring flows in work most exposed to adopted AI",
+  "friendlyTitle": "New research links AI adoption with slower hiring in exposed jobs",
+  "summary": "A Federal Reserve research paper combining US labour surveys, job openings and measures of AI exposure and adoption finds larger post-LLM declines in job-finding and job-switching rates among highly exposed workers in industries actively adopting AI. The authors estimate a 0.1–0.2 percentage-point rise in the natural unemployment rate, while stressing considerable uncertainty.",
+  "friendlySummary": "A US study finds that people in jobs strongly affected by AI have recently found and changed jobs less often, especially in industries using AI heavily. The estimates are still uncertain and do not show a simple story of mass layoffs.",
+  "whyItMatters": "The early signal is more about slower hiring and task reorganisation than a simple wave of layoffs. Workers can respond by showing how they supervise, verify and redesign AI-assisted work, while employers should monitor entry paths and internal mobility rather than treating productivity gains as the whole labour story.",
+  "friendlyWhyItMatters": "AI may change tasks inside a job before it removes the job itself. Workers need skills for checking and directing AI, and employers should protect ways for new people to enter and grow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

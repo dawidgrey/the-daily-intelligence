@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_02_openai-halves-api-prices-for-gpt-6-sol-and-luna_3d48e529",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "canonicalUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "OpenAI halves API prices for GPT-6 Sol and Luna",
+  "friendlyTitle": "OpenAI releases two cheaper GPT-6 models",
+  "summary": "OpenAI has launched GPT-6 Sol and GPT-6 Luna as faster, lower-cost companions to GPT-6 Astra, cutting their API prices by 50% from the GPT-5.6 promotional rates. Both are available in the API and selected ChatGPT Work and Codex plans, with Luna also reaching Free and Go users in the desktop app.",
+  "friendlySummary": "GPT-6 Sol and Luna bring parts of OpenAI’s newest model generation to faster and less expensive options. Their API prices are half the earlier GPT-5.6 promotional prices.",
+  "whyItMatters": "Cheaper capable models make high-volume classification, coding and business automation more practical, and may let teams reserve a frontier model for the hardest steps. Model routing still needs measured quality thresholds: a low token price is not a saving if retries or human correction erase it.",
+  "friendlyWhyItMatters": "Businesses can use a cheaper model for ordinary tasks and save the most powerful model for difficult work. Check the results carefully because a lower price does not help if people must fix more mistakes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_04_uk-aisi-publishes-model-evaluations-in-a-reproducible-common-format_2960c64a",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/evaleval-aisi",
+  "canonicalUrl": "https://huggingface.co/blog/evaleval-aisi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "UK AISI publishes model evaluations in a reproducible common format",
+  "friendlyTitle": "UK researchers make AI test results easier to inspect",
+  "summary": "The UK AI Security Institute is using EvalEval’s Evaluation Cards to publish verified methods, configurations and results for five widely used benchmarks across six frontier models, plus two cyber evaluations. The shared format is intended to make expensive model tests easier to inspect, compare and reproduce.",
+  "friendlySummary": "The UK AI Security Institute is sharing detailed model test results in a common public format. The records include the setup and context needed to understand the scores.",
+  "whyItMatters": "Benchmark headlines often hide differences in prompts, tools and inference budgets. Structured evaluation records help buyers and researchers see what was actually tested, while the project’s own cautions reinforce that results produced with expanded budgets or oracle feedback should not be compared casually with standard scores.",
+  "friendlyWhyItMatters": "Two models can receive different scores because they were tested in different ways. Clear test records help people make fairer comparisons and notice important limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_01_claude-opus-5-5-targets-long-agent-tasks-at-40-lower-cost_0c90c73c",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+  "canonicalUrl": "https://www.anthropic.com/claude-opus-5-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "Claude Opus 5.5 targets long agent tasks at 40% lower cost",
+  "friendlyTitle": "Claude Opus 5.5 aims to do long jobs faster and for less money",
+  "summary": "Anthropic has released Claude Opus 5.5, reporting performance near Claude Fable 5.1 on most work, more than 30% faster output and roughly 40% lower typical workload cost than Opus 5. The model also adds stronger prompt-injection resistance, broader long-task evaluations and lower cache-read pricing.",
+  "friendlySummary": "Anthropic says Claude Opus 5.5 performs close to its strongest recent model on most work. It produces answers faster, costs less than Opus 5 and has stronger safety checks for long tasks.",
+  "whyItMatters": "The useful shift is not a single benchmark lead but a lower cost for long coding, research and computer-use sessions. Teams should compare complete task cost and review quality on their own workflows, because Anthropic notes that small benchmark margins are becoming less reliable guides to real-world differences.",
+  "friendlyWhyItMatters": "Long AI jobs can use many tokens, so lower total cost matters. Test the model on your own work because one benchmark score cannot show whether it is the best choice for every job.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

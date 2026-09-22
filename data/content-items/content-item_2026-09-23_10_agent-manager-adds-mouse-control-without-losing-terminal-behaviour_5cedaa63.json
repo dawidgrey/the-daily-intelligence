@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_10_agent-manager-adds-mouse-control-without-losing-terminal-behaviour_5cedaa63",
+  "sourceKind": "product",
+  "sourceName": "Agent Manager",
+  "sourceUrl": "https://agent-manager.dev/writing/mouse-support/",
+  "canonicalUrl": "https://agent-manager.dev/writing/mouse-support/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "Agent Manager adds mouse control without losing terminal behaviour",
+  "friendlyTitle": "Agent Manager makes many coding-agent sessions easier to control",
+  "summary": "Agent Manager 0.38.0 adds clicking, double-click focus, scrolling, split resizing, text selection and link opening to its tmux-based interface for multiple agent sessions. Its implementation records the geometry actually drawn on each frame and lets users disable mouse reporting when they prefer native terminal selection.",
+  "friendlySummary": "Agent Manager now supports clicking, scrolling, resizing and text selection in its terminal interface. Users can turn the mouse support off if they prefer normal terminal behaviour.",
+  "whyItMatters": "Running several coding agents is increasingly an interface and supervision problem, not merely a model problem. Small controls that keep focus, selection and session identity predictable can reduce accidental input to the wrong agent, while the opt-out preserves established keyboard and terminal workflows.",
+  "friendlyWhyItMatters": "When several AI agents run at once, it is easy to send a command to the wrong session. Clear controls help people supervise the work more safely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_03_transformers-can-now-run-llama-cpp-style-gguf-models-directly_98acfe91",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "canonicalUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "Transformers can now run llama.cpp-style GGUF models directly",
+  "friendlyTitle": "Hugging Face makes small local AI models easier to run",
+  "summary": "Hugging Face is adding direct GGUF support to Transformers, initially optimised for Qwen3.5 on Apple Silicon using llama.cpp’s underlying ggml kernels. Developers can load a quantised Hub checkpoint through the familiar Transformers API or serve it behind an OpenAI-compatible endpoint.",
+  "friendlySummary": "Transformers can now load GGUF model files, which are designed to fit large models into less memory. The first fast path focuses on Apple Silicon Macs and Qwen3.5 models.",
+  "whyItMatters": "This reduces the gap between the large GGUF ecosystem used for local AI and the Python tools many developers already know. The first release has a narrow hardware and architecture focus, so users should verify memory use, speed and output quality on the exact model and machine they intend to run.",
+  "friendlyWhyItMatters": "People can use familiar Python tools to run more AI work on their own computer. Check that your model and hardware are supported before expecting the fastest results.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

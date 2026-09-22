@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_05_meta-pauses-a-human-backed-muse-calling-test-after-disclosure-concerns_c3548d19",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+  "canonicalUrl": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "Meta pauses a human-backed Muse calling test after disclosure concerns",
+  "friendlyTitle": "Meta stops a test where people helped its AI make calls",
+  "summary": "Reuters reports that Meta tested human contractors quietly handling some business calls placed through its Muse assistant, raising internal privacy and disclosure concerns. Meta rolled the feature back for now and says any public release would include proper disclosures and protections.",
+  "friendlySummary": "Some calls made through Meta’s Muse assistant were secretly completed by human contractors during an internal test. Meta stopped the test after workers raised privacy and disclosure concerns.",
+  "whyItMatters": "An apparently automated service may still pass sensitive requests to people behind the scenes. Before asking an agent to make appointments, obtain quotes or discuss personal matters, users and businesses need clear notice of who can hear the call, what is retained and how consent is handled.",
+  "friendlyWhyItMatters": "A task that looks fully automatic may still involve another person. Users should be told who can hear private information before an AI assistant makes a call for them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

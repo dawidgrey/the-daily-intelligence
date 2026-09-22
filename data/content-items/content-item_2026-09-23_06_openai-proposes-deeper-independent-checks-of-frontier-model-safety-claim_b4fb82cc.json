@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_06_openai-proposes-deeper-independent-checks-of-frontier-model-safety-claim_b4fb82cc",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "canonicalUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "OpenAI proposes deeper independent checks of frontier-model safety claims",
+  "friendlyTitle": "OpenAI describes how outside experts should check AI safety claims",
+  "summary": "OpenAI has outlined principles for independent organisations to assess model safety cases, critical safeguards, capability evaluations and monitoring systems across training and deployment. It says effective reviews require meaningful access, assessor independence, scientific rigour, secure handling of sensitive information and clear public communication.",
+  "friendlySummary": "OpenAI says independent experts should be able to test safety evidence, safeguards and monitoring systems with enough access to reach their own conclusions.",
+  "whyItMatters": "Independent review can be more useful than another company-authored benchmark when organisations must judge whether a model is safe for consequential work. The proposal is not itself an audit, however; its value will depend on which assessors gain access, what they can publish and whether findings change deployment decisions.",
+  "friendlyWhyItMatters": "Companies should not be the only judges of their own powerful AI systems. The plan will matter only if outside reviewers receive real access and can report useful findings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}

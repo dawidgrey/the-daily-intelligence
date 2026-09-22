@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-23_11_dream-num-univer-an-office-document-runtime-for-ai-agents_404dff4b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/dream-num/univer",
+  "canonicalUrl": "https://github.com/dream-num/univer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-22T20:06:21Z",
+  "createdAtUtc": "2026-09-22T20:06:21Z",
+  "updatedAtUtc": "2026-09-22T20:06:21Z",
+  "title": "dream-num/univer: an office-document runtime for AI agents",
+  "friendlyTitle": "Univer gives AI agents tools for spreadsheets, documents and slides",
+  "summary": "Univer is a TypeScript office runtime covering spreadsheets, documents, slides, canvas, relational tables and PDFs, with interfaces intended for both people and AI agents. The active project has more than 15,000 stars and gained about 202 stars in today’s GitHub Trending collection.",
+  "friendlySummary": "Univer is an open office toolkit for spreadsheets, text documents, presentations, tables and PDFs. It was one of today’s most popular AI-related projects on GitHub Trending.",
+  "whyItMatters": "Developers can embed familiar office surfaces in an application and give agents structured ways to read or change business documents instead of relying on screen coordinates alone. Review its AGPL and commercial licensing choices before integrating it into a product.",
+  "friendlyWhyItMatters": "Developers can use it to build apps where people and AI agents work on the same office files. Check the licence before using it in a commercial product.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-23"
+  }
+}
