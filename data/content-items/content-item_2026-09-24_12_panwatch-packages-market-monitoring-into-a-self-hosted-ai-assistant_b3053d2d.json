@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_12_panwatch-packages-market-monitoring-into-a-self-hosted-ai-assistant_b3053d2d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/TNT-Likely/PanWatch",
+  "canonicalUrl": "https://github.com/TNT-Likely/PanWatch",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "PanWatch packages market monitoring into a self-hosted AI assistant",
+  "friendlyTitle": "PanWatch is a self-hosted AI market monitor",
+  "summary": "PanWatch is a self-hosted market-monitoring project for Chinese, Hong Kong and US equities, combining portfolio tracking, alerts and multi-agent analysis. The MIT-licensed repository has about 1,500 stars and recent development activity.",
+  "friendlySummary": "PanWatch combines stock tracking, alerts, portfolio tools and AI analysis in software you can run yourself. It covers several major markets.",
+  "whyItMatters": "Technically inclined users can inspect or run a private dashboard that combines market data, scheduled reports and configurable AI analysis. It should be treated as an information tool, not as verified financial advice or an autonomous trading authority.",
+  "friendlyWhyItMatters": "Use it to explore market-monitoring workflows while keeping the system under your control. Do not treat its AI output as guaranteed financial advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

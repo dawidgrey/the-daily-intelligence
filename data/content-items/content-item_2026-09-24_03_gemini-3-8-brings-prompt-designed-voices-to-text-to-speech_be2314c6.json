@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_03_gemini-3-8-brings-prompt-designed-voices-to-text-to-speech_be2314c6",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+  "canonicalUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Gemini 3.8 brings prompt-designed voices to text-to-speech",
+  "friendlyTitle": "Gemini can create and direct custom voices",
+  "summary": "Google introduced Gemini 3.8 Flash TTS and Flash-Lite TTS for custom voice design, line-by-line performance direction and high-volume generation across more than 100 languages and dialects. The release includes consent checks for voice replication, SynthID watermarking and C2PA credentials.",
+  "friendlySummary": "Google’s new speech models can make voices from written descriptions and control how each line sounds. They support many languages and include tools to mark AI-made audio.",
+  "whyItMatters": "Creators and businesses can produce narration, dubbing and voice-agent audio with finer control and fewer recording steps. The consent and provenance controls are equally important as synthetic voices become easier to make and scale.",
+  "friendlyWhyItMatters": "This can make podcasts, audiobooks, games and voice assistants easier to produce. Clear consent and labels help reduce misuse.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

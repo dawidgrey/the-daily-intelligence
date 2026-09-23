@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_09_bearing-turns-written-coding-rules-into-checks-after-each-agent-turn_30bf2984",
+  "sourceKind": "product",
+  "sourceName": "Bearing",
+  "sourceUrl": "https://bearing-linter.com/",
+  "canonicalUrl": "https://bearing-linter.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Bearing turns written coding rules into checks after each agent turn",
+  "friendlyTitle": "Bearing checks whether coding agents follow written team rules",
+  "summary": "Bearing is a new linter that evaluates code diffs against natural-language conventions from files such as AGENTS.md and skills. It uses the Jev decision model to return structured judgments and probabilities after an agent completes a turn.",
+  "friendlySummary": "Bearing reads plain-English coding rules and checks an agent’s code changes after each step. It can look for problems that ordinary code linters do not understand.",
+  "whyItMatters": "Many important engineering rules are too contextual for traditional static analysis. Turning team guidance into frequent review checks could catch architecture, testing and user-copy drift earlier, though model-based judgments still need calibration and oversight.",
+  "friendlyWhyItMatters": "Teams can give agents clearer guardrails and catch mistakes sooner. Because the checks also use AI, people should still review important decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

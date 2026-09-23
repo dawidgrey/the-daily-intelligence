@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_04_mentalhealthbench-tests-ai-across-realistic-support-conversations_1d5a9cc2",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench",
+  "canonicalUrl": "https://openai.com/index/introducing-mentalhealthbench",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "MentalHealthBench tests AI across realistic support conversations",
+  "friendlyTitle": "A new test checks how AI handles mental-health conversations",
+  "summary": "OpenAI released an open benchmark built with more than 80 licensed mental-health experts across 22 countries. It evaluates responses across everyday stress, higher-acuity situations and emergencies, including whether models seek context, preserve agency and offer appropriate guidance.",
+  "friendlySummary": "More than 80 licensed experts helped OpenAI build a test for AI replies about stress, serious concerns and emergencies. The test checks whether answers are safe, useful and respectful.",
+  "whyItMatters": "People already bring sensitive personal questions to AI, so measuring more than crisis refusal is useful. The benchmark gives researchers a shared way to test helpfulness and safety, while OpenAI stresses that chatbots are not substitutes for professional care.",
+  "friendlyWhyItMatters": "People use AI for personal support, so these answers need careful testing. AI can help, but it does not replace a trained professional.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

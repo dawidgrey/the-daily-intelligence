@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-22T20:06:21Z",
+  "generatedAtUtc": "2026-09-23T20:06:15Z",
   "items": [
     {
-      "id": "content-item_2026-09-23_01_claude-opus-5-5-targets-long-agent-tasks-at-40-lower-cost_0c90c73c",
-      "sourceKind": "product",
+      "id": "content-item_2026-09-24_01_claude-helps-identify-a-previously-uncharacterized-enzyme-system_f82afb64",
+      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Claude Opus 5.5 targets long agent tasks at 40% lower cost",
-      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5"
+      "title": "Claude helps identify a previously uncharacterized enzyme system",
+      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
     },
     {
-      "id": "content-item_2026-09-23_02_openai-halves-api-prices-for-gpt-6-sol-and-luna_3d48e529",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI halves API prices for GPT-6 Sol and Luna",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
-    },
-    {
-      "id": "content-item_2026-09-23_03_transformers-can-now-run-llama-cpp-style-gguf-models-directly_98acfe91",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Transformers can now run llama.cpp-style GGUF models directly",
-      "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants"
-    },
-    {
-      "id": "content-item_2026-09-23_04_uk-aisi-publishes-model-evaluations-in-a-reproducible-common-format_2960c64a",
+      "id": "content-item_2026-09-24_02_google-designs-private-cloud-memory-for-personal-ai_4c4abcff",
       "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "UK AISI publishes model evaluations in a reproducible common format",
-      "sourceUrl": "https://huggingface.co/blog/evaleval-aisi"
+      "sourceName": "Google DeepMind",
+      "title": "Google designs private cloud memory for personal AI",
+      "sourceUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
     },
     {
-      "id": "content-item_2026-09-23_05_meta-pauses-a-human-backed-muse-calling-test-after-disclosure-concerns_c3548d19",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Meta pauses a human-backed Muse calling test after disclosure concerns",
-      "sourceUrl": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/"
+      "id": "content-item_2026-09-24_03_gemini-3-8-brings-prompt-designed-voices-to-text-to-speech_be2314c6",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Gemini 3.8 brings prompt-designed voices to text-to-speech",
+      "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
     },
     {
-      "id": "content-item_2026-09-23_06_openai-proposes-deeper-independent-checks-of-frontier-model-safety-claim_b4fb82cc",
+      "id": "content-item_2026-09-24_04_mentalhealthbench-tests-ai-across-realistic-support-conversations_1d5a9cc2",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "MentalHealthBench tests AI across realistic support conversations",
+      "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench"
+    },
+    {
+      "id": "content-item_2026-09-24_05_grab-and-openai-plan-practical-ai-training-for-30-000-partners_09a0c6db",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI proposes deeper independent checks of frontier-model safety claims",
-      "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments"
+      "title": "Grab and OpenAI plan practical AI training for 30,000 partners",
+      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
-      "id": "content-item_2026-09-23_07_study-finds-weaker-hiring-flows-in-work-most-exposed-to-adopted-ai_dec627dc",
-      "sourceKind": "research",
-      "sourceName": "NBER conference paper",
-      "title": "Study finds weaker hiring flows in work most exposed to adopted AI",
-      "sourceUrl": "https://conference.nber.org/conf_papers/f247923.pdf"
+      "id": "content-item_2026-09-24_06_ringg-reports-lower-costs-from-routing-customer-service-work-across-mode_7cff1964",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "Ringg reports lower costs from routing customer-service work across models",
+      "sourceUrl": "https://openai.com/index/ringg"
     },
     {
-      "id": "content-item_2026-09-23_08_xeno-interpretability-asks-whether-models-use-concepts-humans-cannot-nam_4e77f4a2",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Xeno-interpretability asks whether models use concepts humans cannot name",
-      "sourceUrl": "https://arxiv.org/abs/2609.20408"
-    },
-    {
-      "id": "content-item_2026-09-23_09_limite-1b-targets-competition-maths-with-a-compact-specialist-model_c6aac4cd",
+      "id": "content-item_2026-09-24_07_google-s-antigravity-sdk-adds-offline-local-agent-workflows_bc7ae535",
       "sourceKind": "product",
-      "sourceName": "Paradigma",
-      "title": "Limite 1B targets competition maths with a compact specialist model",
-      "sourceUrl": "https://paradigma.inc/blog/limite-1b-violetto/"
+      "sourceName": "Google Developers Blog",
+      "title": "Google’s Antigravity SDK adds offline local-agent workflows",
+      "sourceUrl": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/"
     },
     {
-      "id": "content-item_2026-09-23_10_agent-manager-adds-mouse-control-without-losing-terminal-behaviour_5cedaa63",
+      "id": "content-item_2026-09-24_08_modal-explains-the-systems-work-behind-coding-agent-inference-at-scale_572bd058",
+      "sourceKind": "article",
+      "sourceName": "Modal",
+      "title": "Modal explains the systems work behind coding-agent inference at scale",
+      "sourceUrl": "https://modal.com/blog/trillion-tokens-trillion-parameters"
+    },
+    {
+      "id": "content-item_2026-09-24_09_bearing-turns-written-coding-rules-into-checks-after-each-agent-turn_30bf2984",
       "sourceKind": "product",
-      "sourceName": "Agent Manager",
-      "title": "Agent Manager adds mouse control without losing terminal behaviour",
-      "sourceUrl": "https://agent-manager.dev/writing/mouse-support/"
+      "sourceName": "Bearing",
+      "title": "Bearing turns written coding rules into checks after each agent turn",
+      "sourceUrl": "https://bearing-linter.com/"
     },
     {
-      "id": "content-item_2026-09-23_11_dream-num-univer-an-office-document-runtime-for-ai-agents_404dff4b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "dream-num/univer: an office-document runtime for AI agents",
-      "sourceUrl": "https://github.com/dream-num/univer"
+      "id": "content-item_2026-09-24_10_amazon-opens-seller-operations-to-claude-and-its-own-ai-assistant_ea08f99a",
+      "sourceKind": "product",
+      "sourceName": "Amazon",
+      "title": "Amazon opens seller operations to Claude and its own AI assistant",
+      "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude"
     },
     {
-      "id": "content-item_2026-09-23_12_superdesigndev-treg-a-routing-layer-for-agent-tools_e535a2f5",
+      "id": "content-item_2026-09-24_11_stagehand-offers-a-browser-automation-sdk-built-for-ai-agents_9aeec529",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "superdesigndev/treg: a routing layer for agent tools",
-      "sourceUrl": "https://github.com/superdesigndev/treg"
+      "title": "Stagehand offers a browser automation SDK built for AI agents",
+      "sourceUrl": "https://github.com/browserbase/stagehand"
     },
     {
-      "id": "content-item_2026-09-23_13_upscayl-upscayl-local-open-source-ai-image-enlargement_ca2b6545",
+      "id": "content-item_2026-09-24_12_panwatch-packages-market-monitoring-into-a-self-hosted-ai-assistant_b3053d2d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "upscayl/upscayl: local open-source AI image enlargement",
-      "sourceUrl": "https://github.com/upscayl/upscayl"
+      "title": "PanWatch packages market monitoring into a self-hosted AI assistant",
+      "sourceUrl": "https://github.com/TNT-Likely/PanWatch"
+    },
+    {
+      "id": "content-item_2026-09-24_13_strands-harness-sdk-targets-production-control-for-ai-agents_955cd012",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Strands Harness SDK targets production control for AI agents",
+      "sourceUrl": "https://github.com/strands-agents/harness-sdk"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_10_amazon-opens-seller-operations-to-claude-and-its-own-ai-assistant_ea08f99a",
+  "sourceKind": "product",
+  "sourceName": "Amazon",
+  "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude",
+  "canonicalUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Amazon opens seller operations to Claude and its own AI assistant",
+  "friendlyTitle": "Amazon sellers can manage work from Claude or Amazon Quick",
+  "summary": "Amazon announced a selling-partner plugin for Amazon Quick and, in beta, Anthropic’s Claude. Sellers can bring listings, inventory and performance data into those assistants, while new Seller Assistant workflows can monitor conditions and prepare or take approved actions with audit trails and seller-set guardrails.",
+  "friendlySummary": "Amazon is connecting seller data and tools to Claude and Amazon Quick. Sellers can check inventory, study performance and approve actions without doing everything inside Seller Central.",
+  "whyItMatters": "This moves general assistants closer to real operational systems rather than browser-level workarounds. For merchants, the practical value is fewer context switches; the practical risk is broader access to pricing, inventory and account actions, making permissions and audit logs essential.",
+  "friendlyWhyItMatters": "This can save merchants time, but the assistant may reach important business data and actions. Clear permissions and activity records matter.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

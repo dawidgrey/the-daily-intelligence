@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_01_claude-helps-identify-a-previously-uncharacterized-enzyme-system_f82afb64",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "canonicalUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Claude helps identify a previously uncharacterized enzyme system",
+  "friendlyTitle": "Claude found a promising clue in DNA data",
+  "summary": "Anthropic says a group of roughly 950 Claude agents searched genomic data and identified an enzyme system associated with CRISPR-like DNA repeats. Human scientists reviewed the result and tested it in the lab, while its biological function remains under investigation.",
+  "friendlySummary": "Claude agents searched a very large DNA database and noticed an unusual enzyme system. Scientists checked the finding in a laboratory, but they still need to learn exactly what it does.",
+  "whyItMatters": "This is a concrete example of AI narrowing a huge search space and handing people a testable lead, rather than replacing experimental science. Similar human-agent workflows could shorten discovery cycles in biology and other data-heavy fields.",
+  "friendlyWhyItMatters": "AI can help scientists find good ideas to test much faster. People still need to check the evidence and run the real experiments.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

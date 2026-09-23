@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_11_stagehand-offers-a-browser-automation-sdk-built-for-ai-agents_9aeec529",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/browserbase/stagehand",
+  "canonicalUrl": "https://github.com/browserbase/stagehand",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Stagehand offers a browser automation SDK built for AI agents",
+  "friendlyTitle": "Stagehand helps AI agents use websites",
+  "summary": "Stagehand is a TypeScript-led SDK for extracting information from websites and letting AI agents interact with browser pages. The repository has about 25,000 stars and remained active this week with updates to its browser CLI.",
+  "friendlySummary": "Stagehand is an open-source toolkit for reading websites and controlling a browser with an AI agent. It is actively maintained and widely used on GitHub.",
+  "whyItMatters": "Developers can use it to build agents that navigate changing websites with higher-level instructions while retaining direct control when needed. It is relevant for research, data collection, testing and supervised browser workflows.",
+  "friendlyWhyItMatters": "Use it to build supervised agents for web research, data collection or browser testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

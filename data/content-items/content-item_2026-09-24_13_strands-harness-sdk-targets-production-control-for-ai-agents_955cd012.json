@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_13_strands-harness-sdk-targets-production-control-for-ai-agents_955cd012",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/strands-agents/harness-sdk",
+  "canonicalUrl": "https://github.com/strands-agents/harness-sdk",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Strands Harness SDK targets production control for AI agents",
+  "friendlyTitle": "Strands provides building blocks for controlled AI agents",
+  "summary": "Strands Harness SDK is an open-source Python and TypeScript toolkit for building and controlling production AI agents across models and clouds. The repository has about 7,700 stars and was receiving active fixes and documentation updates during this issue’s collection window.",
+  "friendlySummary": "Strands Harness SDK helps developers build production agents in Python or TypeScript. It is designed to work across different models and cloud services.",
+  "whyItMatters": "Teams can use it as a model-neutral foundation for agent sessions, tools, context handling and human-in-the-loop controls instead of assembling those layers from scratch. Its cross-language support is useful where Python back ends and TypeScript applications need the same operating model.",
+  "friendlyWhyItMatters": "Use it when you need reusable agent sessions, tools, context and human approval controls without building every part yourself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

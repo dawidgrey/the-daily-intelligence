@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-22T20:06:21Z",
+  "generatedAtUtc": "2026-09-23T20:06:15Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-24",
+      "slug": "2026-09-24",
+      "status": "published",
+      "publicationDateUtc": "2026-09-23T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answers to durable, supervised work",
+      "friendlyHeader": "AI is getting better at useful, ongoing work",
+      "summary": "Today’s issue tracks a practical shift: AI systems are gaining memory, local execution, repeatable workflows and access to real business tools. The useful question is no longer only what a model can say, but what it can do reliably, privately and under human oversight.",
+      "friendlySummary": "Today we look at AI that can remember, work on your device, follow repeatable steps and help with real business tasks. The main question is whether these tools can do useful work safely and with people still in control.",
+      "itemCount": 13,
+      "href": "issues/2026-09-24.html",
+      "dataUrl": "data/daily-publications/2026-09-24.json"
+    },
     {
       "id": "daily-publication_2026-09-23",
       "slug": "2026-09-23",

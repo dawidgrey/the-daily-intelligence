@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_08_modal-explains-the-systems-work-behind-coding-agent-inference-at-scale_572bd058",
+  "sourceKind": "article",
+  "sourceName": "Modal",
+  "sourceUrl": "https://modal.com/blog/trillion-tokens-trillion-parameters",
+  "canonicalUrl": "https://modal.com/blog/trillion-tokens-trillion-parameters",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Modal explains the systems work behind coding-agent inference at scale",
+  "friendlyTitle": "How Modal makes large coding agents faster and cheaper",
+  "summary": "Modal published a detailed engineering account of serving coding-agent workloads at trillions of tokens, covering prefill, decode, batching, caching and deployment. It reports 2.8-times better per-user performance and 5.6-times higher aggregate replica performance after optimization.",
+  "friendlySummary": "Modal explains how it serves very large AI models for coding agents. The article covers ways to share work, reuse saved calculations and balance speed for each user against total system cost.",
+  "whyItMatters": "For teams building coding products, model quality is only one part of the cost and user experience. Cache behaviour, concurrency and workload shape can decide whether an agent feels responsive and whether its economics work in production.",
+  "friendlyWhyItMatters": "A strong model can still be slow or too expensive if the serving system is poor. These engineering choices affect the tools people use every day.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

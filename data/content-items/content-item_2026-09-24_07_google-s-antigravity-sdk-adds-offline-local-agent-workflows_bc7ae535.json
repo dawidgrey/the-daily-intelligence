@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_07_google-s-antigravity-sdk-adds-offline-local-agent-workflows_bc7ae535",
+  "sourceKind": "product",
+  "sourceName": "Google Developers Blog",
+  "sourceUrl": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+  "canonicalUrl": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Google’s Antigravity SDK adds offline local-agent workflows",
+  "friendlyTitle": "Google adds agents that can work offline on your computer",
+  "summary": "Google’s Antigravity SDK now supports local agent workflows, initially optimized for Gemma 4 26B A4B with LiteRT. It can also connect to OpenAI-compatible local servers such as Ollama, LM Studio and vLLM, while allowing hybrid cloud-and-device orchestration.",
+  "friendlySummary": "The Antigravity SDK can now run AI-agent tasks with local models instead of sending everything to the cloud. It also supports mixed workflows where a cloud model plans and local models handle private files.",
+  "whyItMatters": "Local agents can keep code and requests on the machine, avoid per-call API costs and continue offline. The trade-off is hardware: Google recommends more than 24 GB of VRAM or unified memory for the featured setup.",
+  "friendlyWhyItMatters": "Local AI can improve privacy, reduce API costs and work without internet access. You will need a powerful enough computer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_02_google-designs-private-cloud-memory-for-personal-ai_4c4abcff",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+  "canonicalUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Google designs private cloud memory for personal AI",
+  "friendlyTitle": "Google wants AI memory to stay private",
+  "summary": "Google has detailed a Private AI Compute architecture for persistent, cross-device assistant memory. It combines encrypted per-user storage, device-held keys and secure cloud enclaves, with software verification and an independent security audit.",
+  "friendlySummary": "Google described a way for an AI assistant to remember information across your devices. Your devices would keep the keys, while protected cloud computers would briefly open the data only when needed.",
+  "whyItMatters": "Long-term memory could make assistants far more useful, but it also concentrates sensitive context. Google’s design shows the technical direction to watch: continuity across devices without giving the service operator routine access to the stored data.",
+  "friendlyWhyItMatters": "A helpful assistant may need memory, but personal information needs strong protection. This design tries to provide both.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}

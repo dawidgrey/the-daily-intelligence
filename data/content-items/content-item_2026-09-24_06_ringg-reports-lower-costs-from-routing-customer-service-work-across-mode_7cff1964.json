@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-24_06_ringg-reports-lower-costs-from-routing-customer-service-work-across-mode_7cff1964",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/ringg",
+  "canonicalUrl": "https://openai.com/index/ringg",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-23T20:06:15Z",
+  "createdAtUtc": "2026-09-23T20:06:15Z",
+  "updatedAtUtc": "2026-09-23T20:06:15Z",
+  "title": "Ringg reports lower costs from routing customer-service work across models",
+  "friendlyTitle": "Ringg shows how customer-service AI works at scale",
+  "summary": "In an OpenAI customer case study, Ringg says its multilingual voice and chat agents handle more than seven million connected calls a month and resolve up to 65% of routine requests. The platform routes different tasks to different models, evaluates changes offline and escalates cases to people with context.",
+  "friendlySummary": "Ringg says its AI handles millions of calls and chats each month. It uses different models for different jobs, tests changes before release and sends difficult cases to people.",
+  "whyItMatters": "The useful lesson is architectural rather than promotional: production agents need model routing, evaluations, health monitoring, summaries and explicit human escalation. Businesses assessing service automation should examine the full operating system around the model, not just a demo.",
+  "friendlyWhyItMatters": "A reliable AI service needs checks, backups and a clear way to involve a human. The model alone is not the whole solution.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-24"
+  }
+}
