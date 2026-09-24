@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-23T20:06:15Z",
+  "generatedAtUtc": "2026-09-24T20:03:41Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-25",
+      "slug": "2026-09-25",
+      "status": "published",
+      "publicationDateUtc": "2026-09-24T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answers to systems that act",
+      "friendlyHeader": "AI is starting to do more than answer questions",
+      "summary": "Today’s issue follows a practical shift: AI is being organised into research teams, coding harnesses and real-world agents. That brings useful gains in cost and capability, but also sharper questions about security, privacy and how people keep their own judgement engaged.",
+      "friendlySummary": "Today we look at AI teams, coding tools and useful ways to work with AI. We also cover important risks, including security, privacy and keeping your own thinking skills strong.",
+      "itemCount": 13,
+      "href": "issues/2026-09-25.html",
+      "dataUrl": "data/daily-publications/2026-09-25.json"
+    },
     {
       "id": "daily-publication_2026-09-24",
       "slug": "2026-09-24",

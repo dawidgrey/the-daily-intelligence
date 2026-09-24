@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_11_vectorize-io-hindsight-long-term-memory-that-learns-from-agent-experience_4260c244",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/vectorize-io/hindsight",
+  "canonicalUrl": "https://github.com/vectorize-io/hindsight",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "vectorize-io/hindsight: long-term memory that learns from agent experience",
+  "friendlyTitle": "Hindsight gives AI agents long-term memory",
+  "summary": "Hindsight is an open-source memory system for agents that stores experience, recalls relevant information and updates higher-level knowledge over time. The active project supports multiple agent and coding-tool integrations.",
+  "friendlySummary": "Hindsight helps an AI agent remember useful facts and lessons across different sessions. It can connect with several agent tools.",
+  "whyItMatters": "Developers can add durable memory to assistants that must carry preferences, decisions and lessons across sessions. Test retrieval quality and deletion boundaries carefully before storing sensitive material.",
+  "friendlyWhyItMatters": "Use it when an assistant needs to remember choices or past work. Check privacy, deletion and recall quality before adding sensitive information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-25"
+  },
+  "howItsUseful": "Developers can add durable memory to assistants that must carry preferences, decisions and lessons across sessions. Test retrieval quality and deletion boundaries carefully before storing sensitive material.",
+  "friendlyHowItsUseful": "Use it when an assistant needs to remember choices or past work. Check privacy, deletion and recall quality before adding sensitive information."
+}

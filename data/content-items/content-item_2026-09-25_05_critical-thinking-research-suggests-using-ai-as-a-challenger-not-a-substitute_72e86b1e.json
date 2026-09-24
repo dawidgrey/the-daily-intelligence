@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_05_critical-thinking-research-suggests-using-ai-as-a-challenger-not-a-substitute_72e86b1e",
+  "sourceKind": "article",
+  "sourceName": "Nature",
+  "sourceUrl": "https://www.nature.com/articles/d41586-026-02930-6",
+  "canonicalUrl": "https://www.nature.com/articles/d41586-026-02930-6",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "Critical-thinking research suggests using AI as a challenger, not a substitute",
+  "friendlyTitle": "Use AI to test your thinking, not replace it",
+  "summary": "Nature reviews mixed early evidence on whether generative AI weakens learning and critical thinking. Researchers say durable reasoning still requires domain knowledge, effort, alternative explanations and active engagement rather than simply accepting generated answers.",
+  "friendlySummary": "Researchers are still learning how AI affects thinking skills. They agree that people need to stay active, learn the subject and consider other possible answers.",
+  "whyItMatters": "A useful daily habit is to form an initial view before asking AI, then use the model to challenge assumptions or present alternatives. That preserves the mental work that builds judgement while still gaining speed and breadth.",
+  "friendlyWhyItMatters": "Try making your own first answer before asking AI. Then ask AI to find problems or show another view, so you still practise thinking.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

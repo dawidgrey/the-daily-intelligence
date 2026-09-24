@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_09_a-privacy-lawsuit-challenges-how-clearly-chatgpt-discloses-human-review_eb3213a4",
+  "sourceKind": "regulation",
+  "sourceName": "Open Class Actions",
+  "sourceUrl": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+  "canonicalUrl": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "A privacy lawsuit challenges how clearly ChatGPT discloses human review",
+  "friendlyTitle": "A lawsuit asks whether ChatGPT clearly explains human review",
+  "summary": "A US class-action complaint alleges that consumer ChatGPT conversations were sent to outside reviewers without sufficiently clear disclosure. The allegations are unproven; OpenAI’s help material says authorised personnel and trusted providers may access content for model improvement unless users opt out.",
+  "friendlySummary": "A new US lawsuit says OpenAI did not clearly tell users that outside reviewers might read some chats. The claims have not been proven in court.",
+  "whyItMatters": "People should avoid placing sensitive personal or business material into consumer AI chats without checking data controls and service terms. Organisations should use products with suitable contractual protections and train staff on what must never be pasted into a model.",
+  "friendlyWhyItMatters": "Do not put private or sensitive information into a consumer AI chat unless you understand its settings and rules. Businesses should give staff clear guidance.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

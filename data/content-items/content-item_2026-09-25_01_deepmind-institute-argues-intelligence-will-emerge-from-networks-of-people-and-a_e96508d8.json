@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_01_deepmind-institute-argues-intelligence-will-emerge-from-networks-of-people-and-a_e96508d8",
+  "sourceKind": "article",
+  "sourceName": "DeepMind Institute",
+  "sourceUrl": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
+  "canonicalUrl": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "DeepMind Institute argues intelligence will emerge from networks of people and agents",
+  "friendlyTitle": "Future AI may work as a team, not as one giant brain",
+  "summary": "A new essay argues that advanced AI may emerge through coordinated systems of models, tools, institutions and people rather than one all-purpose model. It says the difficult work will be designing roles, rules and accountability for these mixed networks.",
+  "friendlySummary": "DeepMind Institute says powerful AI may come from many people, models and tools working together. The rules for how they cooperate will be very important.",
+  "whyItMatters": "For organisations adopting agents, the system around the model may matter as much as model intelligence. Clear boundaries, review points and responsibility become operational design requirements, not optional governance paperwork.",
+  "friendlyWhyItMatters": "When you use AI agents, you need clear jobs, checks and responsibility. A smart model alone is not enough to make a safe and useful system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

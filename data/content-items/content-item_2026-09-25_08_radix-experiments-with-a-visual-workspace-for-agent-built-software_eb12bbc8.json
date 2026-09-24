@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_08_radix-experiments-with-a-visual-workspace-for-agent-built-software_eb12bbc8",
+  "sourceKind": "product",
+  "sourceName": "Radix",
+  "sourceUrl": "https://radix-os.com",
+  "canonicalUrl": "https://radix-os.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "Radix experiments with a visual workspace for agent-built software",
+  "friendlyTitle": "Radix gives coding agents a visual workspace",
+  "summary": "Radix presents an agentic development interface where the agent creates persistent, flexible visual artefacts as it works. The product is an early attempt to make agent activity inspectable beyond a scrolling terminal conversation.",
+  "friendlySummary": "Radix is a new interface that shows lasting visual parts of an agent’s work instead of only terminal text. It aims to make agent projects easier to follow.",
+  "whyItMatters": "Persistent visual state could make long agent sessions easier to understand, steer and review. Treat the current release as an experiment and evaluate its export, security and recovery behaviour before relying on it for important work.",
+  "friendlyWhyItMatters": "Seeing the agent’s work may help you review and guide it. Because the product is early, test how it saves, exports and protects your work first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

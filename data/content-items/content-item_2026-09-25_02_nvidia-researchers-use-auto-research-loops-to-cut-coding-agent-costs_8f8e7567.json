@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_02_nvidia-researchers-use-auto-research-loops-to-cut-coding-agent-costs_8f8e7567",
+  "sourceKind": "research",
+  "sourceName": "NVIDIA Research",
+  "sourceUrl": "https://nvlabs.github.io/SoL-Pi/",
+  "canonicalUrl": "https://nvlabs.github.io/SoL-Pi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "NVIDIA researchers use auto-research loops to cut coding-agent costs",
+  "friendlyTitle": "NVIDIA finds ways to make coding agents use fewer tokens",
+  "summary": "SoL-Pi sends proposed agent-harness improvements through automated research and validation loops, retaining four mechanisms from 152 ideas. NVIDIA reports lower token costs while preserving capability on a held-out suite of long-running agent tasks.",
+  "friendlySummary": "Researchers let AI test many ideas for improving a coding-agent system. Four ideas worked well enough to keep and reduced running costs in their tests.",
+  "whyItMatters": "Agent economics depend heavily on the harness, not only the underlying model. Teams can reduce waste by managing context pressure, preserving verified state and requiring evidence before escalating work to costlier paths.",
+  "friendlyWhyItMatters": "Better agent design can save money without changing the AI model. Keeping useful context and checking progress carefully can reduce wasted work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

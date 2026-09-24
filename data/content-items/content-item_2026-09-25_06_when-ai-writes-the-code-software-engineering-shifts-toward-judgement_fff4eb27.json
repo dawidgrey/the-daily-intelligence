@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_06_when-ai-writes-the-code-software-engineering-shifts-toward-judgement_fff4eb27",
+  "sourceKind": "article",
+  "sourceName": "The Pragmatic Engineer",
+  "sourceUrl": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+  "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "When AI writes the code, software engineering shifts toward judgement",
+  "friendlyTitle": "AI can write more code, but people still own the result",
+  "summary": "A previously paid analysis, reopened after renewed industry discussion, argues that AI is rapidly taking over code production while leaving engineering responsibility intact. Product judgement, architecture, testing, review and operational discipline become more valuable as generating code gets cheaper.",
+  "friendlySummary": "AI is producing more software code. Engineers still need to choose the right design, test the work and make sure the product is reliable.",
+  "whyItMatters": "Teams should measure delivered reliability rather than lines written by people. Faster generation increases the need for strong specifications, automated checks and engineers who can judge whether a system solves the right problem.",
+  "friendlyWhyItMatters": "Creating code faster does not remove responsibility. Clear requirements and good tests become even more important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

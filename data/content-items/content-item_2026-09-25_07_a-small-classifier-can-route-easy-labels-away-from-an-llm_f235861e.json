@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_07_a-small-classifier-can-route-easy-labels-away-from-an-llm_f235861e",
+  "sourceKind": "article",
+  "sourceName": "Entropic Thoughts",
+  "sourceUrl": "https://entropicthoughts.com/cheaper-llm-labeling",
+  "canonicalUrl": "https://entropicthoughts.com/cheaper-llm-labeling",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "A small classifier can route easy labels away from an LLM",
+  "friendlyTitle": "Use a simple tool first and call the LLM only for hard cases",
+  "summary": "A practical experiment uses a streaming logistic-regression classifier for easy cases and sends only uncertain labels to an LLM. The expensive answers train the cheaper classifier over time, with caching and confidence thresholds controlling cost and error.",
+  "friendlySummary": "A developer used a small, fast classifier for easy labels. Only uncertain examples went to the more expensive AI model.",
+  "whyItMatters": "Many business classification tasks do not need an LLM on every record. A simple routing layer can reserve model calls for ambiguous cases, reducing latency and spend while retaining human-audited quality targets.",
+  "friendlyWhyItMatters": "This pattern can make repeated AI work faster and cheaper. It is useful for sorting messages, documents or records when many cases are simple.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

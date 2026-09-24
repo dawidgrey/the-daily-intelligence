@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_04_ai-leaders-take-competing-safety-and-control-proposals-to-the-un_2261e033",
+  "sourceKind": "regulation",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+  "canonicalUrl": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "AI leaders take competing safety and control proposals to the UN",
+  "friendlyTitle": "AI companies ask countries to work together on safety",
+  "summary": "AI executives urged the UN Security Council to support international cooperation on advanced-system risks, while governments remain divided over how much control is appropriate. The discussion included incident notification and the challenge of coordinating national and regional rules.",
+  "friendlySummary": "AI leaders told the United Nations that countries should cooperate on serious AI risks. Governments still disagree about how strong the rules should be.",
+  "whyItMatters": "Businesses operating across borders should expect fragmented AI obligations before any global framework settles. Keeping model inventories, incident records and auditable controls now will make later compliance less disruptive.",
+  "friendlyWhyItMatters": "AI rules will probably differ between countries for some time. Businesses should keep clear records of their AI systems and any problems they cause.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

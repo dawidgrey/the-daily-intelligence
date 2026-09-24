@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_10_a-historian-tests-frontier-models-on-traceable-research-problems_b28faeb3",
+  "sourceKind": "article",
+  "sourceName": "Res Obscura",
+  "sourceUrl": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+  "canonicalUrl": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "A historian tests frontier models on traceable research problems",
+  "friendlyTitle": "A historian uses AI on questions that experts can check",
+  "summary": "Historian Benjamin Breen describes using frontier models to trace translated passages, connect scattered evidence and investigate coded historical documents. He stresses that promising problems need accessible source material and conclusions that experts can prove or disprove.",
+  "friendlySummary": "A historian tested new AI models on old texts, translations and codes. The best tasks had clear source material and answers that people could verify.",
+  "whyItMatters": "The workflow generalises beyond history: give AI bounded questions, primary evidence and a clear verification test. It is more useful than asking for a broad answer that cannot be traced back to sources.",
+  "friendlyWhyItMatters": "AI works better on research when the question is specific and every important claim can be checked against evidence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-25"
+  }
+}

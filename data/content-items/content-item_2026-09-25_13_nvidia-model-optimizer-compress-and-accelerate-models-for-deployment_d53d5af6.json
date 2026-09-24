@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-25_13_nvidia-model-optimizer-compress-and-accelerate-models-for-deployment_d53d5af6",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NVIDIA/Model-Optimizer",
+  "canonicalUrl": "https://github.com/NVIDIA/Model-Optimizer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-24T20:03:41Z",
+  "createdAtUtc": "2026-09-24T20:03:41Z",
+  "updatedAtUtc": "2026-09-24T20:03:41Z",
+  "title": "NVIDIA/Model-Optimizer: compress and accelerate models for deployment",
+  "friendlyTitle": "NVIDIA Model Optimizer makes AI models smaller and faster",
+  "summary": "NVIDIA Model Optimizer combines quantisation, distillation, pruning, speculative decoding and related deployment techniques in one library. It targets inference stacks including TensorRT, TensorRT-LLM and vLLM.",
+  "friendlySummary": "This library provides several ways to reduce model size and speed up model responses. It works with common NVIDIA and open inference systems.",
+  "whyItMatters": "Teams deploying their own models can use it to test smaller or faster variants against quality and latency requirements. Benchmark on the real workload: compression gains and accuracy losses vary by model, hardware and task.",
+  "friendlyWhyItMatters": "Use it to test whether a model can run faster or more cheaply. Always check the result on your own tasks because quality may change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-25"
+  },
+  "howItsUseful": "Teams deploying their own models can use it to test smaller or faster variants against quality and latency requirements. Benchmark on the real workload: compression gains and accuracy losses vary by model, hardware and task.",
+  "friendlyHowItsUseful": "Use it to test whether a model can run faster or more cheaply. Always check the result on your own tasks because quality may change."
+}
