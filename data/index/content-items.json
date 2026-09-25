@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-23T20:06:15Z",
+  "generatedAtUtc": "2026-09-25T20:03:17Z",
   "items": [
     {
-      "id": "content-item_2026-09-24_01_claude-helps-identify-a-previously-uncharacterized-enzyme-system_f82afb64",
+      "id": "content-item_2026-09-26_01_claude-completes-a-nine-loop-theoretical-physics-calculation_cd57170e",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Claude helps identify a previously uncharacterized enzyme system",
-      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      "title": "Claude completes a nine-loop theoretical-physics calculation",
+      "sourceUrl": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
     },
     {
-      "id": "content-item_2026-09-24_02_google-designs-private-cloud-memory-for-personal-ai_4c4abcff",
-      "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "Google designs private cloud memory for personal AI",
-      "sourceUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+      "id": "content-item_2026-09-26_02_claude-shortens-ebola-situation-report-work-from-a-day-to-under-an-hour_65dfdba9",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Claude shortens Ebola situation-report work from a day to under an hour",
+      "sourceUrl": "https://www.anthropic.com/features/ebola-response"
     },
     {
-      "id": "content-item_2026-09-24_03_gemini-3-8-brings-prompt-designed-voices-to-text-to-speech_be2314c6",
+      "id": "content-item_2026-09-26_03_gemini-3-8-live-adds-real-time-visual-avatars-for-enterprise-agents_e7107d9a",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Gemini 3.8 brings prompt-designed voices to text-to-speech",
-      "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+      "title": "Gemini 3.8 Live adds real-time visual avatars for enterprise agents",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     },
     {
-      "id": "content-item_2026-09-24_04_mentalhealthbench-tests-ai-across-realistic-support-conversations_1d5a9cc2",
+      "id": "content-item_2026-09-26_04_proaction-uses-codex-to-turn-sales-calls-into-tailored-product-demos_d2d497e5",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "Proaction uses Codex to turn sales calls into tailored product demos",
+      "sourceUrl": "https://openai.com/index/proaction"
+    },
+    {
+      "id": "content-item_2026-09-26_05_esa-and-mistral-deepen-work-on-sovereign-ai-for-space_334adff1",
+      "sourceKind": "article",
+      "sourceName": "European Space Agency",
+      "title": "ESA and Mistral deepen work on sovereign AI for space",
+      "sourceUrl": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence"
+    },
+    {
+      "id": "content-item_2026-09-26_06_hugging-face-backs-full-time-maintenance-of-local-ai-server-omlx_fb8ad85c",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face backs full-time maintenance of local-AI server oMLX",
+      "sourceUrl": "https://huggingface.co/blog/omlx"
+    },
+    {
+      "id": "content-item_2026-09-26_07_liquid-ai-speeds-up-a-small-vision-language-model-with-speculative-decod_c2a53f23",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "MentalHealthBench tests AI across realistic support conversations",
-      "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench"
+      "sourceName": "Liquid AI on Hugging Face",
+      "title": "Liquid AI speeds up a small vision-language model with speculative decoding",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
     },
     {
-      "id": "content-item_2026-09-24_05_grab-and-openai-plan-practical-ai-training-for-30-000-partners_09a0c6db",
+      "id": "content-item_2026-09-26_08_nvidia-publishes-a-practical-path-to-gpu-scale-robot-simulation_a70f8ac6",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "Grab and OpenAI plan practical AI training for 30,000 partners",
-      "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA publishes a practical path to GPU-scale robot simulation",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
     },
     {
-      "id": "content-item_2026-09-24_06_ringg-reports-lower-costs-from-routing-customer-service-work-across-mode_7cff1964",
+      "id": "content-item_2026-09-26_09_u-s-appeals-court-upholds-pentagon-s-anthropic-supply-chain-designation_5e8bd66c",
+      "sourceKind": "regulation",
+      "sourceName": "CNBC",
+      "title": "U.S. appeals court upholds Pentagon’s Anthropic supply-chain designation",
+      "sourceUrl": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+    },
+    {
+      "id": "content-item_2026-09-26_10_a-changing-system-prompt-drove-up-one-data-agent-s-costs_c33f87eb",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "Ringg reports lower costs from routing customer-service work across models",
-      "sourceUrl": "https://openai.com/index/ringg"
+      "sourceName": "Revefi",
+      "title": "A changing system prompt drove up one data agent’s costs",
+      "sourceUrl": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend"
     },
     {
-      "id": "content-item_2026-09-24_07_google-s-antigravity-sdk-adds-offline-local-agent-workflows_bc7ae535",
-      "sourceKind": "product",
-      "sourceName": "Google Developers Blog",
-      "title": "Google’s Antigravity SDK adds offline local-agent workflows",
-      "sourceUrl": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/"
-    },
-    {
-      "id": "content-item_2026-09-24_08_modal-explains-the-systems-work-behind-coding-agent-inference-at-scale_572bd058",
-      "sourceKind": "article",
-      "sourceName": "Modal",
-      "title": "Modal explains the systems work behind coding-agent inference at scale",
-      "sourceUrl": "https://modal.com/blog/trillion-tokens-trillion-parameters"
-    },
-    {
-      "id": "content-item_2026-09-24_09_bearing-turns-written-coding-rules-into-checks-after-each-agent-turn_30bf2984",
-      "sourceKind": "product",
-      "sourceName": "Bearing",
-      "title": "Bearing turns written coding rules into checks after each agent turn",
-      "sourceUrl": "https://bearing-linter.com/"
-    },
-    {
-      "id": "content-item_2026-09-24_10_amazon-opens-seller-operations-to-claude-and-its-own-ai-assistant_ea08f99a",
-      "sourceKind": "product",
-      "sourceName": "Amazon",
-      "title": "Amazon opens seller operations to Claude and its own AI assistant",
-      "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude"
-    },
-    {
-      "id": "content-item_2026-09-24_11_stagehand-offers-a-browser-automation-sdk-built-for-ai-agents_9aeec529",
+      "id": "content-item_2026-09-26_11_paperclip-provides-an-open-control-plane-for-workplace-agents_0c600aca",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Stagehand offers a browser automation SDK built for AI agents",
-      "sourceUrl": "https://github.com/browserbase/stagehand"
+      "title": "Paperclip provides an open control plane for workplace agents",
+      "sourceUrl": "https://github.com/paperclipai/paperclip"
     },
     {
-      "id": "content-item_2026-09-24_12_panwatch-packages-market-monitoring-into-a-self-hosted-ai-assistant_b3053d2d",
+      "id": "content-item_2026-09-26_12_openrig-runs-claude-code-and-codex-as-one-multi-agent-system_b32771b7",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "PanWatch packages market monitoring into a self-hosted AI assistant",
-      "sourceUrl": "https://github.com/TNT-Likely/PanWatch"
+      "title": "OpenRig runs Claude Code and Codex as one multi-agent system",
+      "sourceUrl": "https://github.com/mvschwarz/openrig"
     },
     {
-      "id": "content-item_2026-09-24_13_strands-harness-sdk-targets-production-control-for-ai-agents_955cd012",
+      "id": "content-item_2026-09-26_13_openai-cookbook-collects-practical-api-patterns-and-examples_da8b0c8b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Strands Harness SDK targets production control for AI agents",
-      "sourceUrl": "https://github.com/strands-agents/harness-sdk"
+      "title": "OpenAI Cookbook collects practical API patterns and examples",
+      "sourceUrl": "https://github.com/openai/openai-cookbook"
     }
   ]
 }

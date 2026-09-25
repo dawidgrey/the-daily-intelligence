@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_13_openai-cookbook-collects-practical-api-patterns-and-examples_da8b0c8b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/openai/openai-cookbook",
+  "canonicalUrl": "https://github.com/openai/openai-cookbook",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "OpenAI Cookbook collects practical API patterns and examples",
+  "friendlyTitle": "OpenAI Cookbook offers ready-to-study API examples",
+  "summary": "OpenAI Cookbook is an MIT-licensed collection of examples and guides for the OpenAI API, covering common application and agent patterns. The repository has more than 76,000 stars and recent additions include sandbox, voice-agent evaluation and spending-control examples.",
+  "friendlySummary": "This popular open-source repository contains code and guides for building with the OpenAI API. Recent examples cover sandboxes, voice-agent testing and cost controls.",
+  "whyItMatters": "Builders can start from tested notebooks and implementation patterns instead of translating product documentation into code from scratch. The examples are especially useful for comparing approaches to evaluations, tool use, cost control and deployment.",
+  "friendlyWhyItMatters": "Use it to learn from working examples before building your own AI application or agent workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_06_hugging-face-backs-full-time-maintenance-of-local-ai-server-omlx_fb8ad85c",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/omlx",
+  "canonicalUrl": "https://huggingface.co/blog/omlx",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Hugging Face backs full-time maintenance of local-AI server oMLX",
+  "friendlyTitle": "Hugging Face is funding better local AI on Macs",
+  "summary": "Hugging Face has hired oMLX creator Jun Kim to maintain the Apache-2.0 project full time and support the wider Apple MLX ecosystem. Planned work includes making new Transformers model definitions easier to move into MLX implementations used by local inference engines.",
+  "friendlySummary": "The creator of oMLX has joined Hugging Face to work on the open-source project full time. The goal is to make more AI models easier to run on Apple computers.",
+  "whyItMatters": "Sustained maintenance can make local AI on Apple Silicon more dependable and help new open models reach Mac users sooner. That gives individuals and small teams more options to run models privately without sending every request to a cloud service.",
+  "friendlyWhyItMatters": "Better local tools can improve privacy, reduce cloud costs and make new models available on personal computers sooner.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

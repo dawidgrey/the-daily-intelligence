@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_04_proaction-uses-codex-to-turn-sales-calls-into-tailored-product-demos_d2d497e5",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/proaction",
+  "canonicalUrl": "https://openai.com/index/proaction",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Proaction uses Codex to turn sales calls into tailored product demos",
+  "friendlyTitle": "A startup builds customer demos from sales conversations",
+  "summary": "In an OpenAI customer case study, fleet-software startup Proaction says a non-technical founder uses Codex to turn call recordings, emails and spreadsheets into four to six customized demos each month. The company estimates this saves 40–60 engineering hours monthly and improves progression from initial contact to solution development by 50–60%.",
+  "friendlySummary": "Proaction says its founder uses Codex to turn customer calls and files into working demonstrations. This lets prospects see their own vehicles and workflows before engineers build the final product.",
+  "whyItMatters": "The practical pattern is to use AI for disposable, customer-specific prototypes that clarify requirements before scarce engineering time is committed. The figures are company-reported, but the workflow is directly testable by other small software teams.",
+  "friendlyWhyItMatters": "A quick, tailored demo can help customers explain what they need and save engineers from building the wrong thing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

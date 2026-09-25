@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_10_a-changing-system-prompt-drove-up-one-data-agent-s-costs_c33f87eb",
+  "sourceKind": "article",
+  "sourceName": "Revefi",
+  "sourceUrl": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend",
+  "canonicalUrl": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "A changing system prompt drove up one data agent’s costs",
+  "friendlyTitle": "One prompt mistake made an AI agent much more expensive",
+  "summary": "Revefi says timestamps and changing user context near the front of its system prompt prevented prefix caching across long agent sessions. After restructuring stable and volatile context, the company reports cutting that agent’s model spend by 90% and finding a similar pattern in customer systems.",
+  "friendlySummary": "Revefi put changing information, including the current time, in a place that stopped its agent from reusing cached work. Moving stable instructions before changing details cut the company’s reported model cost by 90%.",
+  "whyItMatters": "Small prompt-layout decisions can decide whether repeated context is billed at full price or served from a cheaper cache. Teams operating agents should track cache-hit rates and keep stable instructions before frequently changing data, then verify savings against their own provider and workload.",
+  "friendlyWhyItMatters": "AI bills can grow because of prompt structure, not only usage. Teams should measure cache use and test costs after every major prompt change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

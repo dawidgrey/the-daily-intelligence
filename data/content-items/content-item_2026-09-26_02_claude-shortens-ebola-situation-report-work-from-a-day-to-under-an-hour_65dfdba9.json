@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_02_claude-shortens-ebola-situation-report-work-from-a-day-to-under-an-hour_65dfdba9",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/features/ebola-response",
+  "canonicalUrl": "https://www.anthropic.com/features/ebola-response",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Claude shortens Ebola situation-report work from a day to under an hour",
+  "friendlyTitle": "Claude helps health teams prepare Ebola reports faster",
+  "summary": "Anthropic says WHO Africa, CEPI and laboratories in the Democratic Republic of the Congo are using Claude to compile field reports, compare daily case data, organize vaccine evidence and assist bioinformatics work during a Bundibugyo Ebola outbreak. A situation report that previously took all day can now be prepared in under an hour.",
+  "friendlySummary": "Health teams are using Claude to collect daily case information, compare changes and organize research. A report that took a full day can now take less than one hour.",
+  "whyItMatters": "This is a useful pattern for high-pressure operations: automate collection and comparison while leaving scientific and public-health judgments to specialists. Faster reporting can give response teams a more current picture of where help is needed.",
+  "friendlyWhyItMatters": "Faster reports can help people send staff and supplies where they are needed. Health experts still make the important decisions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

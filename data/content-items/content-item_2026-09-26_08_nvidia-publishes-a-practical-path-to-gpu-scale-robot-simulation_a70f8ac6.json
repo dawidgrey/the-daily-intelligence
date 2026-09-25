@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_08_nvidia-publishes-a-practical-path-to-gpu-scale-robot-simulation_a70f8ac6",
+  "sourceKind": "article",
+  "sourceName": "NVIDIA on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "NVIDIA publishes a practical path to GPU-scale robot simulation",
+  "friendlyTitle": "NVIDIA explains how to run many robot simulations on a GPU",
+  "summary": "NVIDIA’s tutorial shows how Warp and MJWarp can move MuJoCo-based robotics simulations from CPU execution to batched GPU workloads. It explains the stack, code structure and decision points for teams preparing many parallel simulated environments before training a policy.",
+  "friendlySummary": "The tutorial shows developers how to move familiar robot simulations onto NVIDIA GPUs and run many copies at once. It covers setup and preparation before training the robot’s control system.",
+  "whyItMatters": "Robot-learning teams often need to run many simulated worlds, not merely one world faster. The guide gives developers a concrete way to scale familiar MuJoCo assets while retaining Python-based workflows and interoperability with training frameworks.",
+  "friendlyWhyItMatters": "Running more simulations can help teams test robot behaviour faster and reduce expensive trial-and-error with physical machines.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

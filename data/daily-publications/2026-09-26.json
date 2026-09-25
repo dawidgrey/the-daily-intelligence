@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-26",
+  "slug": "2026-09-26",
+  "status": "published",
+  "publicationDateUtc": "2026-09-25T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves into science, operations and higher-stakes systems",
+  "friendlyHeader": "AI is doing more real work, so careful checks matter",
+  "summary": "Today’s issue follows AI beyond the chat window: into physics calculations, outbreak reporting, sales workflows, local inference, robotics and public infrastructure. The common lesson is practical—capability matters, but so do cost, control, security and human verification.",
+  "friendlySummary": "Today we look at AI helping with science, health reports, business tasks, local models and robots. These tools are becoming more useful, but people still need to watch costs, protect data and check important results.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-26_01_claude-completes-a-nine-loop-theoretical-physics-calculation_cd57170e",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_02_claude-shortens-ebola-situation-report-work-from-a-day-to-under-an-hour_65dfdba9",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_03_gemini-3-8-live-adds-real-time-visual-avatars-for-enterprise-agents_e7107d9a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_04_proaction-uses-codex-to-turn-sales-calls-into-tailored-product-demos_d2d497e5",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_05_esa-and-mistral-deepen-work-on-sovereign-ai-for-space_334adff1",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_06_hugging-face-backs-full-time-maintenance-of-local-ai-server-omlx_fb8ad85c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_07_liquid-ai-speeds-up-a-small-vision-language-model-with-speculative-decod_c2a53f23",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_08_nvidia-publishes-a-practical-path-to-gpu-scale-robot-simulation_a70f8ac6",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_09_u-s-appeals-court-upholds-pentagon-s-anthropic-supply-chain-designation_5e8bd66c",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_10_a-changing-system-prompt-drove-up-one-data-agent-s-costs_c33f87eb",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_11_paperclip-provides-an-open-control-plane-for-workplace-agents_0c600aca",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_12_openrig-runs-claude-code-and-codex-as-one-multi-agent-system_b32771b7",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-26_13_openai-cookbook-collects-practical-api-patterns-and-examples_da8b0c8b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-26.json",
+    "itemCount": 13
+  }
+}

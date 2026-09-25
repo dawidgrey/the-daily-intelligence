@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_11_paperclip-provides-an-open-control-plane-for-workplace-agents_0c600aca",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/paperclipai/paperclip",
+  "canonicalUrl": "https://github.com/paperclipai/paperclip",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Paperclip provides an open control plane for workplace agents",
+  "friendlyTitle": "Paperclip helps teams organize many AI agents",
+  "summary": "Paperclip is a heavily trending TypeScript project for organizing AI agents, tasks, budgets and approvals in one workplace-style application. The MIT-licensed repository has more than 84,000 stars and was receiving active updates during this issue’s collection window.",
+  "friendlySummary": "Paperclip is a popular open-source app for managing agents, tasks, budgets and approvals in one place. It has more than 84,000 GitHub stars and is actively maintained.",
+  "whyItMatters": "Teams can study or self-host it as an operating layer for multiple agents rather than managing each agent in a separate terminal. Its dashboards and controls are useful for testing clearer ownership, spending limits and human oversight.",
+  "friendlyWhyItMatters": "Use it to explore a shared workspace where people can see what agents are doing and control their work and spending.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

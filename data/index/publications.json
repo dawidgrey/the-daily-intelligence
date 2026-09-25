@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-24T20:03:41Z",
+  "generatedAtUtc": "2026-09-25T20:03:17Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-26",
+      "slug": "2026-09-26",
+      "status": "published",
+      "publicationDateUtc": "2026-09-25T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves into science, operations and higher-stakes systems",
+      "friendlyHeader": "AI is doing more real work, so careful checks matter",
+      "summary": "Today’s issue follows AI beyond the chat window: into physics calculations, outbreak reporting, sales workflows, local inference, robotics and public infrastructure. The common lesson is practical—capability matters, but so do cost, control, security and human verification.",
+      "friendlySummary": "Today we look at AI helping with science, health reports, business tasks, local models and robots. These tools are becoming more useful, but people still need to watch costs, protect data and check important results.",
+      "itemCount": 13,
+      "href": "issues/2026-09-26.html",
+      "dataUrl": "data/daily-publications/2026-09-26.json"
+    },
     {
       "id": "daily-publication_2026-09-25",
       "slug": "2026-09-25",

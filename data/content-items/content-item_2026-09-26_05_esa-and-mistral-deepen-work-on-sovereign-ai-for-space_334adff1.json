@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_05_esa-and-mistral-deepen-work-on-sovereign-ai-for-space_334adff1",
+  "sourceKind": "article",
+  "sourceName": "European Space Agency",
+  "sourceUrl": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
+  "canonicalUrl": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "ESA and Mistral deepen work on sovereign AI for space",
+  "friendlyTitle": "ESA and Mistral plan secure AI tools for space work",
+  "summary": "The European Space Agency and Mistral signed a letter of intent covering AI for Earth observation, engineering, mission support and skills development. They will also examine European infrastructure with safeguards for security, traceability, auditability and sensitive information.",
+  "friendlySummary": "ESA and Mistral will explore AI for Earth data, engineering and mission decisions. They also want the systems to run on European infrastructure with clear security and audit records.",
+  "whyItMatters": "The agreement shows where institutional AI procurement is heading: practical models paired with explicit control over infrastructure, data and audit trails. Those requirements are relevant well beyond space whenever organizations handle sensitive operational knowledge.",
+  "friendlyWhyItMatters": "Important organizations need AI that is useful and also controlled, traceable and safe for sensitive information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_01_claude-completes-a-nine-loop-theoretical-physics-calculation_cd57170e",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+  "canonicalUrl": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Claude completes a nine-loop theoretical-physics calculation",
+  "friendlyTitle": "Claude finished a very hard physics calculation",
+  "summary": "Anthropic reports that Claude organized the code and computation needed to produce a nine-loop result in a simplified particle-physics theory. Physicist Lance Dixon independently validated the result, while a separate research group produced a concurrent result.",
+  "friendlySummary": "Claude organized the steps and computer work for a physics calculation that had not been completed before. An independent physicist checked the result, and another research team reached the same answer separately.",
+  "whyItMatters": "The result shows an AI system coordinating a difficult, multi-step scientific computation within ordinary academic computing constraints. It is evidence for AI as a research collaborator, but expert validation remains central to the claim.",
+  "friendlyWhyItMatters": "AI may help researchers complete difficult calculations faster. Experts still need to check the method and the answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}

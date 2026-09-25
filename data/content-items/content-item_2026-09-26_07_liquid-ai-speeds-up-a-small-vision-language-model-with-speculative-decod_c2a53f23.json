@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-26_07_liquid-ai-speeds-up-a-small-vision-language-model-with-speculative-decod_c2a53f23",
+  "sourceKind": "research",
+  "sourceName": "Liquid AI on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "canonicalUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-25T20:03:17Z",
+  "createdAtUtc": "2026-09-25T20:03:17Z",
+  "updatedAtUtc": "2026-09-25T20:03:17Z",
+  "title": "Liquid AI speeds up a small vision-language model with speculative decoding",
+  "friendlyTitle": "A small model can look at images and answer faster",
+  "summary": "Liquid AI released an experimental DSpark draft model for LFM2.5-VL-3B that proposes candidate tokens for the main model to verify. The company reports decoding gains of up to 3.13 times on device and 2.66 times on an H100, with support for llama.cpp, MLX-VLM and SGLang.",
+  "friendlySummary": "Liquid AI added a helper model that guesses the next pieces of an answer for the main model to check. Its tests show faster results on both personal devices and data-centre GPUs.",
+  "whyItMatters": "Faster small vision-language models can make image understanding and document workflows more responsive on local hardware without changing the main model’s output. Developers should benchmark their own tasks because speedups vary by device and workload.",
+  "friendlyWhyItMatters": "Faster local image AI can make private document and visual tools feel more useful. Real speed will depend on your computer and task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-26"
+  }
+}
