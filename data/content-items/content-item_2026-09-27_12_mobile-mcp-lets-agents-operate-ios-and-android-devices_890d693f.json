@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_12_mobile-mcp-lets-agents-operate-ios-and-android-devices_890d693f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/mobile-next/mobile-mcp",
+  "canonicalUrl": "https://github.com/mobile-next/mobile-mcp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Mobile MCP lets agents operate iOS and Android devices",
+  "friendlyTitle": "Mobile MCP helps AI agents test phone apps",
+  "summary": "Mobile MCP is an Apache-2.0 Model Context Protocol server for automating and scraping iOS and Android apps across simulators, emulators and physical devices. The actively maintained TypeScript repository has about 7,300 stars and runs locally with connected devices.",
+  "friendlySummary": "This open-source MCP server lets an agent control apps on iPhones, Android phones, simulators and emulators. It runs locally and has about 7,300 GitHub stars.",
+  "whyItMatters": "Developers can connect an MCP-capable agent to mobile interfaces for testing, navigation and data collection without building a custom device-control layer. Because it can act on real devices, use dedicated test accounts, narrow permissions and review destructive or privacy-sensitive actions.",
+  "friendlyWhyItMatters": "Use it to automate mobile app tests and repeated device tasks. Start with test devices and accounts because the agent can press buttons and change real data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_09_grabbit-offers-screenshots-as-an-agent-ready-api-and-mcp-tool_e3a44f59",
+  "sourceKind": "product",
+  "sourceName": "Grabbit",
+  "sourceUrl": "https://www.grabbit.live",
+  "canonicalUrl": "https://www.grabbit.live",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Grabbit offers screenshots as an agent-ready API and MCP tool",
+  "friendlyTitle": "Grabbit gives AI agents a simple way to take website screenshots",
+  "summary": "Grabbit has launched a hosted screenshot service with a REST API, command-line interface and MCP connection for AI agents. It supports full-page or targeted captures, multiple formats, asynchronous webhooks, audit listings and private-IP blocking, with published pricing of US$0.002 per capture.",
+  "friendlySummary": "An agent can send a web address to Grabbit and receive an image of the page. The service works through an API, command line or MCP connection and keeps a list of captures for review.",
+  "whyItMatters": "Screenshots give coding and browser agents a visual check of what a person would actually see, not only the page’s HTML. That can support interface verification and action receipts, though teams should still assess privacy, retention and the risk of sending sensitive pages to a hosted service.",
+  "friendlyWhyItMatters": "A screenshot can help an agent check whether a web page really looks right or prove that an online action finished. Do not send private pages until you understand how the service handles data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

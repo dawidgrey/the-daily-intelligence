@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_05_starskirmish-tests-coding-agents-by-giving-them-an-hour-to-build-a-starc_1cc1002c",
+  "sourceKind": "research",
+  "sourceName": "StarSkirmish",
+  "sourceUrl": "https://starskirmish.com/bench/",
+  "canonicalUrl": "https://starskirmish.com/bench/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "StarSkirmish tests coding agents by giving them an hour to build a StarCraft bot",
+  "friendlyTitle": "A new test asks AI models to build and improve a StarCraft bot",
+  "summary": "StarSkirmish Bench gives each language model one hour to write and improve a C++ bot for StarCraft: Brood War, then scores it against model-built and established human-written bots. Its published runs test whether agents can compile code, learn from practice games and revise strategy over a longer workflow.",
+  "friendlySummary": "Each AI model gets one hour to write a game-playing program, test it and make it better. The finished bots then play against programs written by other models and people.",
+  "whyItMatters": "The benchmark measures iterative engineering rather than a single answer, which is closer to how coding agents are used in practice. Its detailed game records also reveal differences in cost, consistency and willingness to test rather than merely how much code a model produces.",
+  "friendlyWhyItMatters": "This tests whether an AI can learn from results and improve working code over time, not just answer one coding question. That is closer to real software work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

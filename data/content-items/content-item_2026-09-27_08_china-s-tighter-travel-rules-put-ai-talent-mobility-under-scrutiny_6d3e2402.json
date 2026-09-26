@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_08_china-s-tighter-travel-rules-put-ai-talent-mobility-under-scrutiny_6d3e2402",
+  "sourceKind": "regulation",
+  "sourceName": "Deutsche Welle",
+  "sourceUrl": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
+  "canonicalUrl": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "China’s tighter travel rules put AI talent mobility under scrutiny",
+  "friendlyTitle": "New Chinese rules may limit travel for some AI and technology experts",
+  "summary": "Deutsche Welle reports that new Chinese entry-exit rules can restrict specialists from leaving when their expertise in areas including AI, batteries and rare earths is judged relevant to industrial or technological security. The report places the measure alongside tighter oversight of outbound investment, offshore wealth and overseas technical postings.",
+  "friendlySummary": "China can now stop some specialists from leaving the country if officials believe their knowledge affects important technology or industrial security. AI is one of the areas named in the rules.",
+  "whyItMatters": "AI competition is increasingly about the movement of skilled people as well as chips, models and capital. International employers, founders and researchers may need more careful travel, staffing and continuity planning when work touches technologies a government considers strategically sensitive.",
+  "friendlyWhyItMatters": "Technology companies depend on people moving between offices, laboratories and countries. Travel limits can affect hiring, projects and plans for keeping important work running.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

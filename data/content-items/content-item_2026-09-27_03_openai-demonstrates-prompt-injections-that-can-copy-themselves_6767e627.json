@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_03_openai-demonstrates-prompt-injections-that-can-copy-themselves_6767e627",
+  "sourceKind": "research",
+  "sourceName": "OpenAI Alignment",
+  "sourceUrl": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist/",
+  "canonicalUrl": "https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "OpenAI demonstrates prompt injections that can copy themselves",
+  "friendlyTitle": "A harmful AI instruction can copy itself into new messages and files",
+  "summary": "OpenAI researchers trained attacker models to create prompt injections that both trigger an unwanted action and reproduce themselves through outputs such as email replies, files, code comments or Slack messages. The demonstrations used simulated tool calls in training and evaluation, with no reported impact outside those environments.",
+  "friendlySummary": "OpenAI created test attacks that made an agent follow a hidden instruction and then copy that instruction into an email, file, code comment or Slack message. The tests stayed inside research environments.",
+  "whyItMatters": "Connected agents can turn one malicious instruction into a propagation path across tools and people. Defences should treat retrieved messages and files as untrusted data, limit write permissions and test whether an agent repeats hidden instructions into new channels.",
+  "friendlyWhyItMatters": "An unsafe instruction could spread when agents read and write across many tools. Give agents only the access they need and do not treat text from emails or files as trusted commands.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

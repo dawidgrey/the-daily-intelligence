@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_13_agents-collects-a-cross-platform-marketplace-of-agent-skills-and-plugins_30905c34",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/wshobson/agents",
+  "canonicalUrl": "https://github.com/wshobson/agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Agents collects a cross-platform marketplace of agent skills and plugins",
+  "friendlyTitle": "Agents shares reusable skills for many coding assistants",
+  "summary": "The Agents repository is a rapidly updated, MIT-licensed marketplace of agent plugins and skills for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity and Pi. It has about 40,000 stars and includes specialist workflows, multi-agent patterns and evaluation tooling.",
+  "friendlySummary": "This popular repository collects plugins and specialist instructions that work across several coding-agent tools. It has about 40,000 GitHub stars and is being updated actively.",
+  "whyItMatters": "Builders can study reusable skill structures or adapt reviewed components across several coding-agent harnesses instead of maintaining separate collections. Plugins expand an agent’s instructions and capabilities, so inspect sources and permissions before installing them in sensitive repositories.",
+  "friendlyWhyItMatters": "Use it to learn how agent skills are organized or reuse a suitable workflow. Read the files first, because a plugin can change what an agent is allowed or instructed to do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

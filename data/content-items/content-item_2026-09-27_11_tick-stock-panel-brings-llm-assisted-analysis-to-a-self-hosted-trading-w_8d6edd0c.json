@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_11_tick-stock-panel-brings-llm-assisted-analysis-to-a-self-hosted-trading-w_8d6edd0c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/shy3130/tick-stock-panel",
+  "canonicalUrl": "https://github.com/shy3130/tick-stock-panel",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Tick Stock Panel brings LLM-assisted analysis to a self-hosted trading workbench",
+  "friendlyTitle": "Tick Stock Panel is a self-hosted workspace for market research",
+  "summary": "Tick Stock Panel is a trending, MIT-licensed Python and TypeScript workbench for Chinese A-share screening, monitoring, backtesting and paper trading. It has about 5,200 stars, active development and features for connecting language models to strategy customization, stock analysis and review.",
+  "friendlySummary": "This popular open-source project combines Chinese stock screening, monitoring, backtesting and practice trading. It can connect AI models to help customize and review analysis.",
+  "whyItMatters": "Quantitative hobbyists and developers can self-host it to study an end-to-end research workflow and extend data sources or analysis modules. Treat model-generated market analysis as exploratory input rather than financial advice, and validate strategies against realistic costs and out-of-sample data.",
+  "friendlyWhyItMatters": "Use it to study or build a private market-research workflow. Test every strategy carefully and do not treat an AI-generated view as financial advice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

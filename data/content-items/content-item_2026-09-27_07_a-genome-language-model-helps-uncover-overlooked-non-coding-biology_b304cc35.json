@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_07_a-genome-language-model-helps-uncover-overlooked-non-coding-biology_b304cc35",
+  "sourceKind": "research",
+  "sourceName": "bioRxiv",
+  "sourceUrl": "https://www.biorxiv.org/content/10.64898/2026.09.22.753630v1",
+  "canonicalUrl": "https://www.biorxiv.org/content/10.64898/2026.09.22.753630v1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "A genome language model helps uncover overlooked non-coding biology",
+  "friendlyTitle": "An AI model found new clues in parts of genomes people often overlook",
+  "summary": "Researchers introduced Minerva, a genome-language-model framework that predicts local biological interactions directly from sequence. Across 150 bacterial genomes, it recovered known systems and highlighted unannotated non-coding interactions and conserved RNA structures associated with reverse-transcriptase systems; the work is a preprint and has not been peer reviewed.",
+  "friendlySummary": "Researchers used a genome language model to look for relationships in non-coding DNA and RNA across 150 bacterial genomes. It found known patterns and several possible new ones, but the paper has not yet been peer reviewed.",
+  "whyItMatters": "Language-model techniques can help scientists search genomic data beyond the protein-focused annotations used by many existing pipelines. The findings remain leads for experimental validation, illustrating how AI can narrow a huge search space without replacing laboratory work.",
+  "friendlyWhyItMatters": "AI can help scientists choose promising places to investigate in very large datasets. Real experiments are still needed to show what the newly found patterns actually do.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_04_pythos-pairs-an-ai-maths-tutor-with-deterministic-checking-tools_6a4d1af5",
+  "sourceKind": "product",
+  "sourceName": "Pythos",
+  "sourceUrl": "https://pythos.lanzar.me/",
+  "canonicalUrl": "https://pythos.lanzar.me/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Pythos pairs an AI maths tutor with deterministic checking tools",
+  "friendlyTitle": "Pythos explains maths and also checks the working",
+  "summary": "Pythos is a free mathematics and physics tutor that combines conversational explanations with a step verifier, scientific calculator, graphing, unit conversion and matrix tools. It also publishes a mathematical validation record and tells users to double-check important results.",
+  "friendlySummary": "Pythos is a free AI tutor for maths and physics. It includes normal calculation tools that can check answers, draw graphs and convert units alongside the chat.",
+  "whyItMatters": "The design separates explanation from verification instead of asking a language model to be both teacher and final authority. Students can use the conversational layer to understand a method, then use deterministic tools to check concrete calculations.",
+  "friendlyWhyItMatters": "AI can help explain an idea, while a separate calculator checks the exact result. Using both is safer than trusting a confident answer from chat alone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

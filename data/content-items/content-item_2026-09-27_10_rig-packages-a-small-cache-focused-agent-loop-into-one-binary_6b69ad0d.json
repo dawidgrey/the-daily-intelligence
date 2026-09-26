@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_10_rig-packages-a-small-cache-focused-agent-loop-into-one-binary_6b69ad0d",
+  "sourceKind": "product",
+  "sourceName": "Rig",
+  "sourceUrl": "https://tryrig.ai/",
+  "canonicalUrl": "https://tryrig.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Rig packages a small, cache-focused agent loop into one binary",
+  "friendlyTitle": "Rig is a small coding agent that works with your choice of model",
+  "summary": "Rig is an MIT-licensed terminal agent distributed as a single binary for Linux and macOS. It connects to local or hosted OpenAI-compatible models and includes concurrent tool calls, resumable sessions, plugins, scheduled work, sandboxed workers and a repository-local task board.",
+  "friendlySummary": "Rig is one program that can read code, edit files, run tests and remember work. It can connect to a model on your own computer or to a hosted service that uses the OpenAI API format.",
+  "whyItMatters": "A compact, readable runtime can make it easier for technical users to inspect the control loop and connect models they already operate. Its emphasis on stable prompts and caching also highlights that agent economics depend heavily on orchestration, not only model price.",
+  "friendlyWhyItMatters": "Technical users can inspect a smaller agent more easily and choose where the model runs. Reusing cached instructions may also reduce repeated work and cost.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

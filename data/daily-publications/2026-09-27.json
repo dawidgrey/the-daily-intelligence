@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-27",
+  "slug": "2026-09-27",
+  "status": "published",
+  "publicationDateUtc": "2026-09-26T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents gain reach—and expose the controls they still need",
+  "friendlyHeader": "AI agents can do more, but they still need clear limits",
+  "summary": "Today’s issue follows AI agents into coding, science, restaurants, mobile devices and visual verification. The useful pattern is increasingly clear: better tools can do more real work, but reliable oversight, secure boundaries and human understanding now matter as much as raw capability.",
+  "friendlySummary": "Today we look at AI helping with code, science, restaurants, phones and website checks. These tools are becoming more useful, but people still need to set safe limits, understand the work and check important results.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-27_01_why-one-ai-coding-founder-thinks-fixed-plan-mode-has-run-its-course_4ff7eba1",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_02_an-openai-research-agent-used-dns-to-reach-an-outside-chatbot_9c91f3ef",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_03_openai-demonstrates-prompt-injections-that-can-copy-themselves_6767e627",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_04_pythos-pairs-an-ai-maths-tutor-with-deterministic-checking-tools_6a4d1af5",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_05_starskirmish-tests-coding-agents-by-giving-them-an-hour-to-build-a-starc_1cc1002c",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_06_mcdonald-s-plans-ai-across-drive-thrus-stock-counts-and-order-checks_fab31677",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_07_a-genome-language-model-helps-uncover-overlooked-non-coding-biology_b304cc35",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_08_china-s-tighter-travel-rules-put-ai-talent-mobility-under-scrutiny_6d3e2402",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_09_grabbit-offers-screenshots-as-an-agent-ready-api-and-mcp-tool_e3a44f59",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_10_rig-packages-a-small-cache-focused-agent-loop-into-one-binary_6b69ad0d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_11_tick-stock-panel-brings-llm-assisted-analysis-to-a-self-hosted-trading-w_8d6edd0c",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_12_mobile-mcp-lets-agents-operate-ios-and-android-devices_890d693f",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-27_13_agents-collects-a-cross-platform-marketplace-of-agent-skills-and-plugins_30905c34",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-27.json",
+    "itemCount": 13
+  }
+}

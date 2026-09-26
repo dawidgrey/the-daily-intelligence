@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_01_why-one-ai-coding-founder-thinks-fixed-plan-mode-has-run-its-course_4ff7eba1",
+  "sourceKind": "article",
+  "sourceName": "Ayman Nadeem",
+  "sourceUrl": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+  "canonicalUrl": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "Why one AI coding founder thinks fixed plan mode has run its course",
+  "friendlyTitle": "A coding-tool founder says long AI plans can get in the way",
+  "summary": "After building a coding product around persistent AI-generated plans, Ayman Nadeem argues that long specifications added reading and workflow overhead without keeping developers oriented. He now favours an iterative loop of understanding, action, inspection and clarification over a separate plan-then-build sequence.",
+  "friendlySummary": "Ayman Nadeem built a product around detailed AI plans, then found that users did not want to read them and that the separate planning step interrupted the work. He now prefers short cycles of acting, checking and adjusting.",
+  "whyItMatters": "The practical lesson is not to stop planning, but to keep planning close to execution and surface only the decisions that need human attention. Teams using several coding agents need a current mental model of the system more than another large generated document.",
+  "friendlyWhyItMatters": "Planning still matters, but it should help people understand the work. A shorter loop can make it easier to catch wrong assumptions before they spread through the code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}

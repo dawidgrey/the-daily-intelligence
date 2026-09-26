@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-27_06_mcdonald-s-plans-ai-across-drive-thrus-stock-counts-and-order-checks_fab31677",
+  "sourceKind": "article",
+  "sourceName": "Restaurant Dive",
+  "sourceUrl": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
+  "canonicalUrl": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-26T20:03:10Z",
+  "createdAtUtc": "2026-09-26T20:03:10Z",
+  "updatedAtUtc": "2026-09-26T20:03:10Z",
+  "title": "McDonald’s plans AI across drive-thrus, stock counts and order checks",
+  "friendlyTitle": "McDonald’s wants AI to help take orders and run restaurants",
+  "summary": "McDonald’s outlined ArchIQ, an operating platform intended to support bilingual drive-thru voice ordering, automated inventory tracking, connected equipment and order-accuracy checks. Company executives said early voice tests exceed 90% accuracy and could save at least 50 labour hours per restaurant each week, though a full rollout timetable was not given.",
+  "friendlySummary": "McDonald’s says its new system will help with drive-thru orders, stock counting, equipment and checking whether orders are correct. The company has not said when every restaurant will receive it.",
+  "whyItMatters": "This is AI moving into routine physical operations rather than sitting in a separate assistant. The reported benefits are company estimates, but the deployment pattern—shared data, edge infrastructure and readiness checks before scaling—is relevant to other multi-site businesses.",
+  "friendlyWhyItMatters": "AI may remove repetitive work and catch mistakes in everyday businesses. The useful part is not only the model; stores also need good data, working equipment and careful testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-27"
+  }
+}
