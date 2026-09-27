@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_11_yetone-magpie-switch-models-across-coding-agents-from-one-place_0365ec89",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending / X discovery",
+  "sourceUrl": "https://github.com/yetone/magpie",
+  "canonicalUrl": "https://github.com/yetone/magpie",
+  "credit": "@itsGrizai",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "yetone/magpie: switch models across coding agents from one place",
+  "friendlyTitle": "Magpie makes it easier to change the model behind a coding agent",
+  "summary": "Magpie is an actively developed menu-bar and command-line tool for routing coding agents such as Codex, Claude Code and Gemini CLI through different model providers. The repository reached about 1,200 stars while shipping frequent updates.",
+  "friendlySummary": "Magpie puts model settings for several coding agents in one place. The project is growing quickly and has about 1,200 GitHub stars.",
+  "whyItMatters": "Developers can compare models without repeatedly rewriting each agent’s provider configuration. It is especially useful for testing whether an agent workflow depends on one model’s behaviour or can move across providers.",
+  "friendlyWhyItMatters": "Use it to try the same coding task with different models. This can help you compare cost, speed and quality without changing many settings by hand.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

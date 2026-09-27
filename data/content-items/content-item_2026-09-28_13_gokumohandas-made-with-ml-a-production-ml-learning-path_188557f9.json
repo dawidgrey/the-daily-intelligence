@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_13_gokumohandas-made-with-ml-a-production-ml-learning-path_188557f9",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Jupyter Notebook",
+  "sourceUrl": "https://github.com/GokuMohandas/Made-With-ML",
+  "canonicalUrl": "https://github.com/GokuMohandas/Made-With-ML",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "GokuMohandas/Made-With-ML: a production ML learning path",
+  "friendlyTitle": "Made-With-ML teaches how to build and run real ML systems",
+  "summary": "Made-With-ML is a practical, open repository covering how to develop, deploy, test and iterate on production-grade machine-learning applications. It has about 49,600 stars and includes notebooks, datasets, deployment examples and tests.",
+  "friendlySummary": "This popular open course goes beyond training a model. It also covers testing, deployment, data quality and improving a system after launch.",
+  "whyItMatters": "The project gives practitioners a structured path from modelling into data quality, testing, serving and operational iteration. Teams can also use its examples as a checklist for the engineering work that a notebook-only prototype leaves out.",
+  "friendlyWhyItMatters": "Use it as a learning path or as a checklist for an ML project. It helps show what is needed to turn a notebook into a dependable service.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

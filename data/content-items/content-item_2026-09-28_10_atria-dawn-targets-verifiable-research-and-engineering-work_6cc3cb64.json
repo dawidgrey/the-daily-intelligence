@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_10_atria-dawn-targets-verifiable-research-and-engineering-work_6cc3cb64",
+  "sourceKind": "research",
+  "sourceName": "Shanghai AI Laboratory on Hugging Face",
+  "sourceUrl": "https://huggingface.co/internlm/Atria-Dawn-Preview",
+  "canonicalUrl": "https://huggingface.co/internlm/Atria-Dawn-Preview",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Atria Dawn targets verifiable research and engineering work",
+  "friendlyTitle": "Atria Dawn is built to produce work that people can check",
+  "summary": "Shanghai AI Laboratory has released Atria Dawn Preview, a 744B-parameter mixture-of-experts agentic model with a 256K context window. It is designed to move from research questions to executable, reproducible results across discovery, software creation, document delivery and authorised cybersecurity tasks.",
+  "friendlySummary": "The new open model can use tools for research, coding, documents and approved cyber-safety work. Its goal is to create results that can be tested and repeated.",
+  "whyItMatters": "The release reflects a shift from models that produce plausible answers toward systems expected to produce inspectable work products and evidence. Its published benchmark results are promising, but organisations should reproduce the tests relevant to their own workflows before adopting it.",
+  "friendlyWhyItMatters": "Checkable results are more useful than confident answers. Teams should still run their own tests because the published scores come from the model’s creators.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

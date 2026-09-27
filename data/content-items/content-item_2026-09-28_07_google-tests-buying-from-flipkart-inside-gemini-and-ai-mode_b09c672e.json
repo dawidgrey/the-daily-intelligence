@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_07_google-tests-buying-from-flipkart-inside-gemini-and-ai-mode_b09c672e",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+  "canonicalUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Google tests buying from Flipkart inside Gemini and AI Mode",
+  "friendlyTitle": "Google is testing shopping inside Gemini",
+  "summary": "Google is testing a Buy button for selected Flipkart products inside Gemini and AI Mode with a limited group of users in India. The flow moves shoppers from AI-assisted discovery into Flipkart checkout without leaving the AI interface.",
+  "friendlySummary": "Some people in India can now find a Flipkart product in Gemini or AI Mode and move straight to checkout with a Buy button.",
+  "whyItMatters": "AI assistants are moving closer to transactions, which can reduce shopping friction while increasing the influence of ranking and recommendation systems. Shoppers and merchants will need transparency about sponsored placement, comparison coverage and who owns the customer relationship.",
+  "friendlyWhyItMatters": "Buying may become faster, but the AI may shape which products people see. Users should still compare prices, sellers and return rules before paying.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

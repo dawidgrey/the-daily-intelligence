@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_05_xiaomi-releases-7-780-agent-training-environments-across-five-domains_824d9327",
+  "sourceKind": "research",
+  "sourceName": "XiaomiMiMo on Hugging Face",
+  "sourceUrl": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+  "canonicalUrl": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Xiaomi releases 7,780 agent-training environments across five domains",
+  "friendlyTitle": "Xiaomi shares practice tasks for training AI agents",
+  "summary": "XiaomiMiMo has published a 12.1 GB dataset of reinforcement-learning environments for software engineering, cybersecurity, general knowledge work, visual web development and symbolic music. The release includes task prompts, verification methods, Docker images and linked training code.",
+  "friendlySummary": "The new dataset gives AI agents thousands of tasks in coding, cyber safety, office work, web design and music. Many tasks include automatic ways to check the result.",
+  "whyItMatters": "Open, executable environments can help researchers train and compare agents on tasks with checkable outcomes instead of relying only on subjective ratings. Teams can also inspect the task design before deciding whether the data fits their own agent work.",
+  "friendlyWhyItMatters": "Researchers can use these tasks to train agents and see whether they really completed the job. The open files also make it easier to inspect how the tests work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

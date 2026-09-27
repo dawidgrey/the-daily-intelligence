@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_08_blue-cross-analysis-links-ai-assisted-coding-to-942-million-in-added-cla_f44a1d48",
+  "sourceKind": "research",
+  "sourceName": "Blue Cross Blue Shield Association",
+  "sourceUrl": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
+  "canonicalUrl": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Blue Cross analysis links AI-assisted coding to $942 million in added claims costs",
+  "friendlyTitle": "AI hospital coding may be raising bills without changing care",
+  "summary": "A Blue Cross Blue Shield Association analysis says increased coding of medically complex conditions added an estimated $942 million to claims spending from 2023 to 2025, without evidence of a matching change in care delivered. The insurer group argues that AI coding tools may be identifying more billable secondary diagnoses.",
+  "friendlySummary": "Blue Cross says hospitals recorded more patients as medically complex after using AI coding tools. It estimates this added $942 million in claims costs, even though treatment did not clearly increase.",
+  "whyItMatters": "Automation can optimize a billing process without improving the underlying service—and can raise costs at scale. Healthcare buyers and regulators need outcome checks that compare coded severity with actual treatment, not just faster documentation.",
+  "friendlyWhyItMatters": "A faster billing system is not automatically a better health system. Organisations should check whether AI changes real care or only changes how much is charged.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

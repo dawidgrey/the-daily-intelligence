@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_02_meta-s-muse-turns-forgotten-subscriptions-into-an-agent-task_ca6c0248",
+  "sourceKind": "article",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Meta’s Muse turns forgotten subscriptions into an agent task",
+  "friendlyTitle": "Meta’s AI helper can find subscriptions you no longer need",
+  "summary": "Meta’s Muse personal agent is being used to review bank and card statements, identify recurring charges and help users cancel unwanted subscriptions. The early use case shows how agents can convert passive financial data into concrete consumer actions.",
+  "friendlySummary": "Muse can look through bank and card statements, find regular payments and help people cancel services they do not use.",
+  "whyItMatters": "Subscription cleanup is a narrow, measurable job where an agent can save money without requiring broad autonomy. Users should still review every proposed cancellation and limit access to the minimum financial data required.",
+  "friendlyWhyItMatters": "This could save money with little effort. Check each cancellation yourself and give the tool access only to the information it needs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

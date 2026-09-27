@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_12_microsoft-data-formulator-ai-assisted-data-exploration-and-visualisation_deb1176f",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/microsoft/data-formulator",
+  "canonicalUrl": "https://github.com/microsoft/data-formulator",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "microsoft/data-formulator: AI-assisted data exploration and visualisation",
+  "friendlyTitle": "Microsoft Data Formulator helps turn data questions into charts",
+  "summary": "Microsoft’s Data Formulator is an interactive system for connecting, transforming, exploring and visualising data with AI assistance. The MIT-licensed project has roughly 17,400 stars and was among the day’s strongest AI-related GitHub Trending entries.",
+  "friendlySummary": "This open-source tool uses AI to help people explore data, reshape it and create visualisations. It has about 17,400 GitHub stars.",
+  "whyItMatters": "Analysts can use it to move from a question to a transformed dataset and chart while keeping the intermediate data work visible. It is a practical option for prototyping analysis before translating the workflow into a governed production pipeline.",
+  "friendlyWhyItMatters": "Try it when you need to understand a dataset or quickly test a chart idea. Keep the steps visible so you can check that the AI changed the data correctly.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}

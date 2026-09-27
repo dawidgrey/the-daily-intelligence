@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-28_04_squint-brings-visual-ai-help-directly-onto-the-desktop_7ec8f5d7",
+  "sourceKind": "product",
+  "sourceName": "Squint",
+  "sourceUrl": "https://heysquint.com/",
+  "canonicalUrl": "https://heysquint.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-27T20:04:41Z",
+  "createdAtUtc": "2026-09-27T20:04:41Z",
+  "updatedAtUtc": "2026-09-27T20:04:41Z",
+  "title": "Squint brings visual AI help directly onto the desktop",
+  "friendlyTitle": "Draw a box on your screen and ask AI what it means",
+  "summary": "Squint is a Windows and Linux desktop app that lets users draw a box around part of the screen and ask an AI about it without switching applications or uploading a screenshot manually. It supports follow-up questions and stores chat history locally, while model answers require a network connection.",
+  "friendlySummary": "Squint lets you select part of your screen and get an explanation beside it. It works on Windows and Linux, with macOS planned later.",
+  "whyItMatters": "The product removes enough friction to make visual assistance useful during ordinary work, from interpreting charts to choosing downloads. Sensitive screens remain a reason to pause: the selected image region is still sent to an online model for an answer.",
+  "friendlyWhyItMatters": "It can save time when a chart, picture or download option is confusing. Do not select private information, because the answer comes from an online AI service.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-28"
+  }
+}
