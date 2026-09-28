@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-29",
+  "slug": "2026-09-29",
+  "status": "published",
+  "publicationDateUtc": "2026-09-28T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Faster models meet firmer boundaries",
+  "friendlyHeader": "AI is getting faster, but it still needs clear limits",
+  "summary": "Today’s issue follows AI systems becoming faster, cheaper and more capable of acting across software, shopping and business workflows. The useful counterweight is just as visible: structured interfaces, independent controls and evidence people can inspect before trusting the result.",
+  "friendlySummary": "Today we look at faster AI models, agents that can use software and shops, and tools that help keep them under control. The main lesson is simple: AI is most useful when people can check what it did and limit what it may do.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-29_01_claude-sonnet-5-5-targets-faster-lower-cost-everyday-work_50e18c54",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_02_nvidia-adds-software-and-hardware-boundaries-for-autonomous-agents_7bbfa754",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_03_holo4-agents-work-across-screens-code-apis-and-mcp-tools_9552195c",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_04_openai-doubles-support-for-embedded-ai-engineers-in-local-newsrooms_216d56bb",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_05_shopify-gives-browser-agents-structured-checkout-tools_83878c93",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_06_meta-creates-an-enterprise-business-for-muse-and-its-ai-stack_97405e79",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_07_netflix-tests-an-llm-backed-recommendation-ranker-with-fewer-engineered_b5229a87",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_08_microllm-lab-runs-seven-tiny-language-models-entirely-in-the-browser_09231f3d",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_09_openappa-proposes-deterministic-data-flow-controls-for-agents_554f0a73",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_10_a-practitioner-s-2026-llm-review-finds-coding-agents-crossed-a-usability_55884185",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_11_ashhart-tensorfold-exact-local-llm-decoding-behind-an-openai-compatible_21eb099d",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_12_samugit83-redamon-an-agentic-framework-for-authorised-security-testing_73e440f8",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-29_13_helpcode-ai-anythingmcp-turn-business-apis-and-databases-into-mcp-tools_168e7c85",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-29.json",
+    "itemCount": 13
+  }
+}

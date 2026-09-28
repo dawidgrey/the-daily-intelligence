@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_02_nvidia-adds-software-and-hardware-boundaries-for-autonomous-agents_7bbfa754",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA",
+  "sourceUrl": "https://www.nvidia.com/en-us/solutions/ai/agent-safety/",
+  "canonicalUrl": "https://www.nvidia.com/en-us/solutions/ai/agent-safety/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "NVIDIA adds software and hardware boundaries for autonomous agents",
+  "friendlyTitle": "NVIDIA wants stronger walls around AI agents",
+  "summary": "NVIDIA’s Open Agent Safety Platform combines the open-source OpenShell runtime with Sentry monitoring and policy enforcement outside the agent’s host process. It is designed to control access to files, networks, tools and credentials, with optional hardware-backed monitoring that can quarantine an agent.",
+  "friendlySummary": "NVIDIA has introduced tools that limit what an AI agent can see and do. A separate monitoring layer can watch activity and isolate an agent if it breaks the rules.",
+  "whyItMatters": "Agent safety is moving from prompt instructions into enforceable infrastructure. Organisations deploying agents can use this layered approach as a design pattern: give each agent minimal permissions, log decisions and keep critical enforcement outside the system being supervised.",
+  "friendlyWhyItMatters": "Written instructions alone are not enough for powerful agents. Businesses should also use technical limits, small permissions and clear activity logs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

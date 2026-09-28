@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_09_openappa-proposes-deterministic-data-flow-controls-for-agents_554f0a73",
+  "sourceKind": "product",
+  "sourceName": "OpenAPPA",
+  "sourceUrl": "https://www.openappa.com/",
+  "canonicalUrl": "https://www.openappa.com/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "OpenAPPA proposes deterministic data-flow controls for agents",
+  "friendlyTitle": "OpenAPPA gives AI agents rules that prompts cannot change",
+  "summary": "OpenAPPA is an MIT-licensed guardrail engine that labels data by audience, trust and authority, then applies deterministic rules as information moves between agent tools. It can return remedy plans such as redaction, approval or isolated subagents instead of simply blocking a task.",
+  "friendlySummary": "OpenAPPA watches where data came from and where it is allowed to go. If an action is unsafe, it can suggest a safer path such as hiding private details or asking a person to approve it.",
+  "whyItMatters": "Tracking data flow outside the model is a promising way to reduce prompt-injection and exfiltration risk without relying on another probabilistic model. OpenAPPA’s security and task-completion figures are self-published, so teams should independently test its guarantees and integration coverage before deployment.",
+  "friendlyWhyItMatters": "Rules outside the AI can be stronger than asking the AI to police itself. The project’s claims still need independent testing before it protects important information.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

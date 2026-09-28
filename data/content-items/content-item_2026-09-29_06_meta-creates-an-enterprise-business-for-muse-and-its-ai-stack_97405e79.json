@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_06_meta-creates-an-enterprise-business-for-muse-and-its-ai-stack_97405e79",
+  "sourceKind": "product",
+  "sourceName": "Meta",
+  "sourceUrl": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+  "canonicalUrl": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "Meta creates an enterprise business for Muse and its AI stack",
+  "friendlyTitle": "Meta is building a new AI platform for businesses",
+  "summary": "Meta has launched Meta Enterprise Platform to package Muse, Meta Business Agent, Muse API, Muse Code and related infrastructure for companies and developers. Former MongoDB CEO Chirantan “CJ” Desai will lead the new unit as chief enterprise platform officer.",
+  "friendlySummary": "Meta plans to offer Muse, coding tools, business agents and related services to companies. Former MongoDB chief executive CJ Desai will lead the work.",
+  "whyItMatters": "Meta is moving from consumer assistants and advertising tools toward a broader enterprise platform, increasing competition for business AI workloads. Buyers should wait for concrete product, pricing, data-governance and integration details before treating the announcement as a deployment plan.",
+  "friendlyWhyItMatters": "Businesses may get another major AI platform to compare. The announcement is still broad, so wait for clear details about price, privacy, security and how the products connect to existing systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

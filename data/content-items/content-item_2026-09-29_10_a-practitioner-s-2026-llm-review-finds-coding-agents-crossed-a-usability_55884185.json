@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_10_a-practitioner-s-2026-llm-review-finds-coding-agents-crossed-a-usability_55884185",
+  "sourceKind": "article",
+  "sourceName": "Simon Willison’s Weblog",
+  "sourceUrl": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "canonicalUrl": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "A practitioner’s 2026 LLM review finds coding agents crossed a usability threshold",
+  "friendlyTitle": "A clear guide to what changed in AI during 2026",
+  "summary": "Simon Willison’s annotated keynote traces the year’s model, coding-agent, security and tool-use developments. His central practical observation is that late-2025 model improvements made coding agents reliable enough for daily use, while 2026 exposed both their wider usefulness and their security limits.",
+  "friendlySummary": "Developer Simon Willison reviews the year’s important models, coding agents and security lessons. He argues that coding agents became dependable enough for everyday work, but still need careful limits.",
+  "whyItMatters": "The review is a useful map for deciding what changed materially rather than chasing every release. Its working method is equally valuable: use agents ambitiously, sandbox them, inspect their output and learn their limits through real projects.",
+  "friendlyWhyItMatters": "The guide helps separate important changes from launch noise. Its practical advice is to try agents on real work while checking their output and keeping them inside safe boundaries.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

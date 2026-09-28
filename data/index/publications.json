@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-27T20:04:41Z",
+  "generatedAtUtc": "2026-09-28T20:05:34Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-29",
+      "slug": "2026-09-29",
+      "status": "published",
+      "publicationDateUtc": "2026-09-28T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Faster models meet firmer boundaries",
+      "friendlyHeader": "AI is getting faster, but it still needs clear limits",
+      "summary": "Today’s issue follows AI systems becoming faster, cheaper and more capable of acting across software, shopping and business workflows. The useful counterweight is just as visible: structured interfaces, independent controls and evidence people can inspect before trusting the result.",
+      "friendlySummary": "Today we look at faster AI models, agents that can use software and shops, and tools that help keep them under control. The main lesson is simple: AI is most useful when people can check what it did and limit what it may do.",
+      "itemCount": 13,
+      "href": "issues/2026-09-29.html",
+      "dataUrl": "data/daily-publications/2026-09-29.json"
+    },
     {
       "id": "daily-publication_2026-09-28",
       "slug": "2026-09-28",

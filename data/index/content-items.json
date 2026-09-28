@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-27T20:04:41Z",
+  "generatedAtUtc": "2026-09-28T20:05:34Z",
   "items": [
     {
-      "id": "content-item_2026-09-28_01_ai-labs-safety-warnings-also-shape-who-controls-the-rules_d1e1bbec",
+      "id": "content-item_2026-09-29_01_claude-sonnet-5-5-targets-faster-lower-cost-everyday-work_50e18c54",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude Sonnet 5.5 targets faster, lower-cost everyday work",
+      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5"
+    },
+    {
+      "id": "content-item_2026-09-29_02_nvidia-adds-software-and-hardware-boundaries-for-autonomous-agents_7bbfa754",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA",
+      "title": "NVIDIA adds software and hardware boundaries for autonomous agents",
+      "sourceUrl": "https://www.nvidia.com/en-us/solutions/ai/agent-safety/"
+    },
+    {
+      "id": "content-item_2026-09-29_03_holo4-agents-work-across-screens-code-apis-and-mcp-tools_9552195c",
+      "sourceKind": "research",
+      "sourceName": "H Company on Hugging Face",
+      "title": "Holo4 agents work across screens, code, APIs and MCP tools",
+      "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4"
+    },
+    {
+      "id": "content-item_2026-09-29_04_openai-doubles-support-for-embedded-ai-engineers-in-local-newsrooms_216d56bb",
       "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "AI labs’ safety warnings also shape who controls the rules",
-      "sourceUrl": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e"
+      "sourceName": "OpenAI and the Lenfest Institute",
+      "title": "OpenAI doubles support for embedded AI engineers in local newsrooms",
+      "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion"
     },
     {
-      "id": "content-item_2026-09-28_02_meta-s-muse-turns-forgotten-subscriptions-into-an-agent-task_ca6c0248",
+      "id": "content-item_2026-09-29_05_shopify-gives-browser-agents-structured-checkout-tools_83878c93",
+      "sourceKind": "x",
+      "sourceName": "Shopify product announcement on X",
+      "title": "Shopify gives browser agents structured checkout tools",
+      "sourceUrl": "https://x.com/gilgNYC/status/2104583942728822998"
+    },
+    {
+      "id": "content-item_2026-09-29_06_meta-creates-an-enterprise-business-for-muse-and-its-ai-stack_97405e79",
+      "sourceKind": "product",
+      "sourceName": "Meta",
+      "title": "Meta creates an enterprise business for Muse and its AI stack",
+      "sourceUrl": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
+    },
+    {
+      "id": "content-item_2026-09-29_07_netflix-tests-an-llm-backed-recommendation-ranker-with-fewer-engineered_b5229a87",
+      "sourceKind": "research",
+      "sourceName": "Netflix researchers via arXiv",
+      "title": "Netflix tests an LLM-backed recommendation ranker with fewer engineered features",
+      "sourceUrl": "https://arxiv.org/abs/2608.10257"
+    },
+    {
+      "id": "content-item_2026-09-29_08_microllm-lab-runs-seven-tiny-language-models-entirely-in-the-browser_09231f3d",
+      "sourceKind": "product",
+      "sourceName": "MicroLLM Lab",
+      "title": "MicroLLM Lab runs seven tiny language models entirely in the browser",
+      "sourceUrl": "https://stateofutopia.com/experiments/microllmlab/"
+    },
+    {
+      "id": "content-item_2026-09-29_09_openappa-proposes-deterministic-data-flow-controls-for-agents_554f0a73",
+      "sourceKind": "product",
+      "sourceName": "OpenAPPA",
+      "title": "OpenAPPA proposes deterministic data-flow controls for agents",
+      "sourceUrl": "https://www.openappa.com/"
+    },
+    {
+      "id": "content-item_2026-09-29_10_a-practitioner-s-2026-llm-review-finds-coding-agents-crossed-a-usability_55884185",
       "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "Meta’s Muse turns forgotten subscriptions into an agent task",
-      "sourceUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html"
+      "sourceName": "Simon Willison’s Weblog",
+      "title": "A practitioner’s 2026 LLM review finds coding agents crossed a usability threshold",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
     },
     {
-      "id": "content-item_2026-09-28_03_dspy-3-4-reframes-ai-systems-as-programs-not-prompt-collections_49896206",
-      "sourceKind": "product",
-      "sourceName": "DSPy",
-      "title": "DSPy 3.4 reframes AI systems as programs, not prompt collections",
-      "sourceUrl": "https://dspy.ai/current/"
-    },
-    {
-      "id": "content-item_2026-09-28_04_squint-brings-visual-ai-help-directly-onto-the-desktop_7ec8f5d7",
-      "sourceKind": "product",
-      "sourceName": "Squint",
-      "title": "Squint brings visual AI help directly onto the desktop",
-      "sourceUrl": "https://heysquint.com/"
-    },
-    {
-      "id": "content-item_2026-09-28_05_xiaomi-releases-7-780-agent-training-environments-across-five-domains_824d9327",
-      "sourceKind": "research",
-      "sourceName": "XiaomiMiMo on Hugging Face",
-      "title": "Xiaomi releases 7,780 agent-training environments across five domains",
-      "sourceUrl": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss"
-    },
-    {
-      "id": "content-item_2026-09-28_06_openai-extends-its-daybreak-cyber-defence-program-to-ukraine_1d77064c",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI extends its Daybreak cyber-defence program to Ukraine",
-      "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-    },
-    {
-      "id": "content-item_2026-09-28_07_google-tests-buying-from-flipkart-inside-gemini-and-ai-mode_b09c672e",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Google tests buying from Flipkart inside Gemini and AI Mode",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-    },
-    {
-      "id": "content-item_2026-09-28_08_blue-cross-analysis-links-ai-assisted-coding-to-942-million-in-added-cla_f44a1d48",
-      "sourceKind": "research",
-      "sourceName": "Blue Cross Blue Shield Association",
-      "title": "Blue Cross analysis links AI-assisted coding to $942 million in added claims costs",
-      "sourceUrl": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs"
-    },
-    {
-      "id": "content-item_2026-09-28_09_nvidia-opens-a-100m-parameter-model-for-real-time-speaker-tracking_a4dec257",
-      "sourceKind": "research",
-      "sourceName": "NVIDIA on Hugging Face",
-      "title": "NVIDIA opens a 100M-parameter model for real-time speaker tracking",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-diarization"
-    },
-    {
-      "id": "content-item_2026-09-28_10_atria-dawn-targets-verifiable-research-and-engineering-work_6cc3cb64",
-      "sourceKind": "research",
-      "sourceName": "Shanghai AI Laboratory on Hugging Face",
-      "title": "Atria Dawn targets verifiable research and engineering work",
-      "sourceUrl": "https://huggingface.co/internlm/Atria-Dawn-Preview"
-    },
-    {
-      "id": "content-item_2026-09-28_11_yetone-magpie-switch-models-across-coding-agents-from-one-place_0365ec89",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending / X discovery",
-      "title": "yetone/magpie: switch models across coding agents from one place",
-      "sourceUrl": "https://github.com/yetone/magpie"
-    },
-    {
-      "id": "content-item_2026-09-28_12_microsoft-data-formulator-ai-assisted-data-exploration-and-visualisation_deb1176f",
+      "id": "content-item_2026-09-29_11_ashhart-tensorfold-exact-local-llm-decoding-behind-an-openai-compatible_21eb099d",
       "sourceKind": "github",
       "sourceName": "GitHub Trending Python",
-      "title": "microsoft/data-formulator: AI-assisted data exploration and visualisation",
-      "sourceUrl": "https://github.com/microsoft/data-formulator"
+      "title": "ashhart/TensorFold: exact local LLM decoding behind an OpenAI-compatible API",
+      "sourceUrl": "https://github.com/ashhart/TensorFold"
     },
     {
-      "id": "content-item_2026-09-28_13_gokumohandas-made-with-ml-a-production-ml-learning-path_188557f9",
+      "id": "content-item_2026-09-29_12_samugit83-redamon-an-agentic-framework-for-authorised-security-testing_73e440f8",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Jupyter Notebook",
-      "title": "GokuMohandas/Made-With-ML: a production ML learning path",
-      "sourceUrl": "https://github.com/GokuMohandas/Made-With-ML"
+      "sourceName": "GitHub Trending Python",
+      "title": "samugit83/redamon: an agentic framework for authorised security testing",
+      "sourceUrl": "https://github.com/samugit83/redamon"
+    },
+    {
+      "id": "content-item_2026-09-29_13_helpcode-ai-anythingmcp-turn-business-apis-and-databases-into-mcp-tools_168e7c85",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending TypeScript",
+      "title": "HelpCode-ai/anythingmcp: turn business APIs and databases into MCP tools",
+      "sourceUrl": "https://github.com/HelpCode-ai/anythingmcp"
     }
   ]
 }

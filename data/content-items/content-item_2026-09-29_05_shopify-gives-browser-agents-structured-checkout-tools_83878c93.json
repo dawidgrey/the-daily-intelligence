@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_05_shopify-gives-browser-agents-structured-checkout-tools_83878c93",
+  "sourceKind": "x",
+  "sourceName": "Shopify product announcement on X",
+  "sourceUrl": "https://x.com/gilgNYC/status/2104583942728822998",
+  "canonicalUrl": "https://x.com/gilgNYC/status/2104583942728822998",
+  "credit": "@gilgNYC",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "Shopify gives browser agents structured checkout tools",
+  "friendlyTitle": "Shopify now lets browser agents help finish a purchase",
+  "summary": "Shopify has extended WebMCP support to checkout and Shop Pay for eligible merchants. Browser agents can now read and update checkout state through structured tools and submit an order only after the buyer authorises the purchase, with handoff when human action is required.",
+  "friendlySummary": "Shopify agents can use clear software tools to read and update a checkout instead of guessing from a webpage. The buyer must approve before the order is placed.",
+  "whyItMatters": "Structured checkout tools can be more reliable than agents interpreting screenshots and clicking through pages. Buyers still need a clear final confirmation, while merchants and agent builders need controls for payment fraud, incorrect addresses and other high-impact errors.",
+  "friendlyWhyItMatters": "Shopping agents may become faster and make fewer clicking mistakes. People should still see and approve the final price, address, delivery choice and payment before buying.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

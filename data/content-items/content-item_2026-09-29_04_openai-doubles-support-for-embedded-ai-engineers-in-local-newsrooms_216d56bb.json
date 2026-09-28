@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_04_openai-doubles-support-for-embedded-ai-engineers-in-local-newsrooms_216d56bb",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and the Lenfest Institute",
+  "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+  "canonicalUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "OpenAI doubles support for embedded AI engineers in local newsrooms",
+  "friendlyTitle": "More local newsrooms will get their own AI engineers",
+  "summary": "OpenAI is committing another $5 million, plus up to $5 million in software credits and engineering support, to expand the Lenfest AI Collaborative and Fellowship. The program places full-time AI engineers inside news organisations and plans to turn successful projects into reusable tools and playbooks.",
+  "friendlySummary": "OpenAI and the Lenfest Institute are expanding a program that places AI engineers inside news organisations. The engineers build tools with journalists and business teams instead of bringing in a fixed solution.",
+  "whyItMatters": "The program offers a practical adoption lesson beyond journalism: embedded specialists who understand the work can identify better problems than outside teams pushing generic AI. Its early projects also show value in narrow workflows such as archive search, public-meeting monitoring and translation.",
+  "friendlyWhyItMatters": "AI projects work better when the builder understands the people and the daily work. Other organisations can copy this approach: start with a real problem and build with the people who will use the tool.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

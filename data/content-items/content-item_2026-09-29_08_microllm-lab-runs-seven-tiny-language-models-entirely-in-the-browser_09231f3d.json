@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_08_microllm-lab-runs-seven-tiny-language-models-entirely-in-the-browser_09231f3d",
+  "sourceKind": "product",
+  "sourceName": "MicroLLM Lab",
+  "sourceUrl": "https://stateofutopia.com/experiments/microllmlab/",
+  "canonicalUrl": "https://stateofutopia.com/experiments/microllmlab/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "MicroLLM Lab runs seven tiny language models entirely in the browser",
+  "friendlyTitle": "Try seven small AI models in your web browser",
+  "summary": "MicroLLM Lab is an interactive WebGPU experiment for loading, running and comparing seven models from 25.8 million to 362 million parameters locally in a browser. It includes objective prompt tests, speed measurements and downloadable benchmark certificates, with model data cached on the device.",
+  "friendlySummary": "MicroLLM Lab lets you download and compare tiny language models on your own device. You can test their answers and measure how quickly they run.",
+  "whyItMatters": "The lab makes model size, speed and capability trade-offs tangible without requiring a cloud account or code setup. It is useful for learning and lightweight experiments, but these tiny models are expected to fail many tasks and should not be mistaken for frontier assistants.",
+  "friendlyWhyItMatters": "It is an easy way to learn why model size and computer speed matter. The models are very small, so mistakes are part of the experiment rather than a surprise.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

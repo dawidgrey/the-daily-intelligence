@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_11_ashhart-tensorfold-exact-local-llm-decoding-behind-an-openai-compatible_21eb099d",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending Python",
+  "sourceUrl": "https://github.com/ashhart/TensorFold",
+  "canonicalUrl": "https://github.com/ashhart/TensorFold",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "ashhart/TensorFold: exact local LLM decoding behind an OpenAI-compatible API",
+  "friendlyTitle": "TensorFold helps run language models faster on local hardware",
+  "summary": "TensorFold serves supported language models locally through an OpenAI-compatible endpoint, with exact speculative decoding on Apple Silicon and support for selected NVIDIA DGX Spark configurations. The MIT-licensed project had 548 stars and active releases when checked today.",
+  "friendlySummary": "TensorFold provides a local server that works with software built for the OpenAI API. It focuses on fast, exact model output on supported Apple and NVIDIA hardware.",
+  "whyItMatters": "Developers can point existing OpenAI-compatible clients at a local server and experiment with faster inference while retaining deterministic output equivalence to serial decoding. Hardware and model-family support are specific, so check the project’s recipes before planning a deployment.",
+  "friendlyWhyItMatters": "Use it to test local AI without rewriting an OpenAI-compatible app. First check that your model and computer are supported.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

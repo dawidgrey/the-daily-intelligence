@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_13_helpcode-ai-anythingmcp-turn-business-apis-and-databases-into-mcp-tools_168e7c85",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending TypeScript",
+  "sourceUrl": "https://github.com/HelpCode-ai/anythingmcp",
+  "canonicalUrl": "https://github.com/HelpCode-ai/anythingmcp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "HelpCode-ai/anythingmcp: turn business APIs and databases into MCP tools",
+  "friendlyTitle": "AnythingMCP connects AI assistants to existing business systems",
+  "summary": "AnythingMCP is a self-hosted gateway that converts REST, SOAP, GraphQL, OData and SQL interfaces into MCP tools for AI assistants. The AGPL-licensed project advertises 265 connectors and had 550 stars with frequent updates when checked today.",
+  "friendlySummary": "AnythingMCP can turn many kinds of APIs and databases into tools that Claude, ChatGPT and other MCP clients can use. It is self-hosted and includes a large connector catalogue.",
+  "whyItMatters": "Teams can expose existing ERP, commerce and internal systems to agents through one tool layer rather than building every MCP integration from scratch. Start read-only, review generated tool descriptions and disable raw-response fallbacks where sensitive data could reach a model.",
+  "friendlyWhyItMatters": "Use it to test agent access to an existing system without building every connector yourself. Begin with read-only access and carefully check what data each tool returns.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-29_03_holo4-agents-work-across-screens-code-apis-and-mcp-tools_9552195c",
+  "sourceKind": "research",
+  "sourceName": "H Company on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+  "canonicalUrl": "https://huggingface.co/blog/Hcompany/holo4",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-28T20:05:34Z",
+  "createdAtUtc": "2026-09-28T20:05:34Z",
+  "updatedAtUtc": "2026-09-28T20:05:34Z",
+  "title": "Holo4 agents work across screens, code, APIs and MCP tools",
+  "friendlyTitle": "Holo4 can use screens, code and software tools together",
+  "summary": "H Company has released Holo4 in 27B dense and 35B-A3B mixture-of-experts versions, plus Holotron4 Nano. The models can combine GUI actions, code execution, APIs and MCP tools, and the company has published weights, benchmark trajectories and a dataset for inspection.",
+  "friendlySummary": "H Company’s new open models can click and type, run code, and call APIs or MCP tools. The company also shared model files and step-by-step benchmark records.",
+  "whyItMatters": "A single agent that can choose between a screen and a structured interface better reflects real business work than a GUI-only system. Open trajectories make it easier to examine failures, though benchmark comparisons still use different harnesses and task subsets.",
+  "friendlyWhyItMatters": "Real tasks often move between several kinds of software. The shared records help developers check how the agent reached a result instead of trusting only a score.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-29"
+  }
+}
