@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-28T20:05:34Z",
+  "generatedAtUtc": "2026-09-29T20:03:57Z",
   "items": [
+    {
+      "id": "daily-publication_2026-09-30",
+      "slug": "2026-09-30",
+      "status": "published",
+      "publicationDateUtc": "2026-09-29T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from demos into operating systems",
+      "friendlyHeader": "AI agents are becoming everyday work tools",
+      "summary": "Today’s issue tracks a broad shift from isolated model gains to the systems around them: persistent agents, safer cyber boundaries, source-aware verification, realistic evaluation, and infrastructure that can control cost and performance. The practical message is simple: capable AI matters, but the harness, evidence and oversight increasingly determine whether it is useful.",
+      "friendlySummary": "Today we look at AI agents that keep working, lower-cost models, safer systems, and practical tools for checking results. The model matters, but good controls and clear evidence matter just as much.",
+      "itemCount": 13,
+      "href": "issues/2026-09-30.html",
+      "dataUrl": "data/daily-publications/2026-09-30.json"
+    },
     {
       "id": "daily-publication_2026-09-29",
       "slug": "2026-09-29",

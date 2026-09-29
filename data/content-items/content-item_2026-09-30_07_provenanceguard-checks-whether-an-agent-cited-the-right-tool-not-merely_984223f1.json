@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_07_provenanceguard-checks-whether-an-agent-cited-the-right-tool-not-merely_984223f1",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "canonicalUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "ProvenanceGuard checks whether an agent cited the right tool, not merely a true fact",
+  "friendlyTitle": "This checker asks whether an AI used the correct source",
+  "summary": "Researchers describe ProvenanceGuard, a post-generation verification layer for MCP agents that keeps tool identities attached to evidence. It breaks an answer into claims, checks support and attribution source by source, and can block or repair answers where a fact is true but credited to the wrong record or tool.",
+  "friendlySummary": "ProvenanceGuard checks each claim against the tool or document the AI says it came from. It can catch answers that use a true fact but credit the wrong source.",
+  "whyItMatters": "Multi-tool agents can produce convincing answers that blur policy documents, customer records and external research. Source-aware checks provide a stronger release gate for healthcare, finance and support workflows where the origin of a fact is part of its meaning.",
+  "friendlyWhyItMatters": "Knowing where a fact came from matters when records have different meanings or permissions. This can make AI answers easier and safer to review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_08_nvidia-releases-a-foundation-model-for-predictions-on-tables_493cf3fc",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "NVIDIA releases a foundation model for predictions on tables",
+  "friendlyTitle": "NVIDIA’s new model makes predictions from ordinary tables",
+  "summary": "NVIDIA introduced Kumo Tabular, an open foundation model that predicts labels for new rows from a table of examples without task-specific training, tuning or feature engineering. The model comes in three sizes from 28 million to 215 million parameters, supports classification and regression, and is released with code and commercial-use terms.",
+  "friendlySummary": "Kumo Tabular can look at labelled rows and predict values for new rows without being trained again for each job. NVIDIA provides several model sizes, code and weights.",
+  "whyItMatters": "Many business predictions concern ordinary tables rather than text, and reducing per-task model development could make forecasting and classification more accessible. Teams should still compare it with strong tree-based baselines on their own data and review licensing, bias and failure costs before deployment.",
+  "friendlyWhyItMatters": "This may make common business prediction tasks quicker to try. Always compare it with simpler methods and test it on your own data before relying on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

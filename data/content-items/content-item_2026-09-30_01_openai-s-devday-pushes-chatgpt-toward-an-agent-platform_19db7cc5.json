@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_01_openai-s-devday-pushes-chatgpt-toward-an-agent-platform_19db7cc5",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/devday-2026-recap",
+  "canonicalUrl": "https://openai.com/index/devday-2026-recap",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "OpenAI’s DevDay pushes ChatGPT toward an agent platform",
+  "friendlyTitle": "ChatGPT is becoming a place where people and agents work together",
+  "summary": "OpenAI announced more than 20 updates spanning persistent Dots agents, GPT-6.1 Sol, reusable Codex cloud environments, computer use in the Agents API, richer plugins and third-party access to ChatGPT plan usage. Availability varies by product and plan, with several enterprise controls and developer features rolling out in stages.",
+  "friendlySummary": "OpenAI announced many updates, including agents that keep working, a cheaper model, cloud tools for Codex, stronger plugins, and ways to use a ChatGPT plan in other apps. Some features are only on certain plans or are still being released.",
+  "whyItMatters": "The announcements make ChatGPT less like a single conversation and more like a work surface where agents, apps and people share context. Teams should evaluate the new capabilities as a connected platform, while setting explicit permissions, review points and spending limits before handing agents ongoing responsibilities.",
+  "friendlyWhyItMatters": "This could reduce the need to move between separate AI tools. Before giving an agent regular work, decide what it may access, what a person must approve, and how much it may spend.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

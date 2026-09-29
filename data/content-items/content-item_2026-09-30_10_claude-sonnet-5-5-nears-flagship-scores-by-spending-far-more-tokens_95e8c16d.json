@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_10_claude-sonnet-5-5-nears-flagship-scores-by-spending-far-more-tokens_95e8c16d",
+  "sourceKind": "research",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "Claude Sonnet 5.5 nears flagship scores by spending far more tokens",
+  "friendlyTitle": "Claude Sonnet 5.5 gets strong scores but uses many more tokens",
+  "summary": "Artificial Analysis places Claude Sonnet 5.5 at number two on its Intelligence Index at maximum effort, two points behind Opus 5.5, with particularly strong terminal and knowledge-work results. That setting also used about 193,000 output tokens per index task—the highest the evaluator has measured—and cost roughly 50% more per task than Sonnet 5 despite unchanged per-token pricing.",
+  "friendlySummary": "Independent tests put Sonnet 5.5 close to the leading model at its highest effort setting. It reached that result by producing more tokens, which raised the cost of each task.",
+  "whyItMatters": "Per-token prices and headline benchmark scores can conceal the real cost of a completed job. Buyers should compare quality, latency and total tokens at the effort setting they will actually use, then reserve expensive maximum-effort runs for tasks that justify them.",
+  "friendlyWhyItMatters": "A low price per token does not always mean a cheap result. Measure the full cost and time of your real tasks at the settings you plan to use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

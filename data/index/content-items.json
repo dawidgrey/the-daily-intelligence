@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-09-28T20:05:34Z",
+  "generatedAtUtc": "2026-09-29T20:03:57Z",
   "items": [
     {
-      "id": "content-item_2026-09-29_01_claude-sonnet-5-5-targets-faster-lower-cost-everyday-work_50e18c54",
+      "id": "content-item_2026-09-30_01_openai-s-devday-pushes-chatgpt-toward-an-agent-platform_19db7cc5",
       "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI’s DevDay pushes ChatGPT toward an agent platform",
+      "sourceUrl": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "id": "content-item_2026-09-30_02_anthropic-finds-advanced-cyber-capability-in-an-openly-available-model_80e4ef84",
+      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Claude Sonnet 5.5 targets faster, lower-cost everyday work",
-      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5"
+      "title": "Anthropic finds advanced cyber capability in an openly available model",
+      "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
     },
     {
-      "id": "content-item_2026-09-29_02_nvidia-adds-software-and-hardware-boundaries-for-autonomous-agents_7bbfa754",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA",
-      "title": "NVIDIA adds software and hardware boundaries for autonomous agents",
-      "sourceUrl": "https://www.nvidia.com/en-us/solutions/ai/agent-safety/"
+      "id": "content-item_2026-09-30_03_openai-details-unauthorised-agent-activity-against-australian-government_cfe8e900",
+      "sourceKind": "regulation",
+      "sourceName": "OpenAI",
+      "title": "OpenAI details unauthorised agent activity against Australian government systems",
+      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia"
     },
     {
-      "id": "content-item_2026-09-29_03_holo4-agents-work-across-screens-code-apis-and-mcp-tools_9552195c",
-      "sourceKind": "research",
-      "sourceName": "H Company on Hugging Face",
-      "title": "Holo4 agents work across screens, code, APIs and MCP tools",
-      "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4"
-    },
-    {
-      "id": "content-item_2026-09-29_04_openai-doubles-support-for-embedded-ai-engineers-in-local-newsrooms_216d56bb",
+      "id": "content-item_2026-09-30_04_microsoft-argues-coding-benchmarks-cannot-choose-the-best-model-for-your_770fca46",
       "sourceKind": "article",
-      "sourceName": "OpenAI and the Lenfest Institute",
-      "title": "OpenAI doubles support for embedded AI engineers in local newsrooms",
-      "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+      "sourceName": "Microsoft for Developers",
+      "title": "Microsoft argues coding benchmarks cannot choose the best model for your stack",
+      "sourceUrl": "https://developer.microsoft.com/blog/what-ai-benchmarks-are-not-telling-you/"
     },
     {
-      "id": "content-item_2026-09-29_05_shopify-gives-browser-agents-structured-checkout-tools_83878c93",
-      "sourceKind": "x",
-      "sourceName": "Shopify product announcement on X",
-      "title": "Shopify gives browser agents structured checkout tools",
-      "sourceUrl": "https://x.com/gilgNYC/status/2104583942728822998"
-    },
-    {
-      "id": "content-item_2026-09-29_06_meta-creates-an-enterprise-business-for-muse-and-its-ai-stack_97405e79",
-      "sourceKind": "product",
-      "sourceName": "Meta",
-      "title": "Meta creates an enterprise business for Muse and its AI stack",
-      "sourceUrl": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
-    },
-    {
-      "id": "content-item_2026-09-29_07_netflix-tests-an-llm-backed-recommendation-ranker-with-fewer-engineered_b5229a87",
+      "id": "content-item_2026-09-30_05_llm-workflow-audits-4-452-published-economics-replication-packages_bbe49531",
       "sourceKind": "research",
-      "sourceName": "Netflix researchers via arXiv",
-      "title": "Netflix tests an LLM-backed recommendation ranker with fewer engineered features",
-      "sourceUrl": "https://arxiv.org/abs/2608.10257"
+      "sourceName": "National Bureau of Economic Research",
+      "title": "LLM workflow audits 4,452 published economics replication packages",
+      "sourceUrl": "https://www.nber.org/papers/w35782"
     },
     {
-      "id": "content-item_2026-09-29_08_microllm-lab-runs-seven-tiny-language-models-entirely-in-the-browser_09231f3d",
+      "id": "content-item_2026-09-30_06_tirx-harness-gives-coding-agents-a-controlled-route-to-faster-gpu-kernel_4737e80c",
+      "sourceKind": "research",
+      "sourceName": "MLC Community",
+      "title": "TIRx Harness gives coding agents a controlled route to faster GPU kernels",
+      "sourceUrl": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming"
+    },
+    {
+      "id": "content-item_2026-09-30_07_provenanceguard-checks-whether-an-agent-cited-the-right-tool-not-merely_984223f1",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face",
+      "title": "ProvenanceGuard checks whether an agent cited the right tool, not merely a true fact",
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
+    {
+      "id": "content-item_2026-09-30_08_nvidia-releases-a-foundation-model-for-predictions-on-tables_493cf3fc",
       "sourceKind": "product",
-      "sourceName": "MicroLLM Lab",
-      "title": "MicroLLM Lab runs seven tiny language models entirely in the browser",
-      "sourceUrl": "https://stateofutopia.com/experiments/microllmlab/"
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA releases a foundation model for predictions on tables",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular"
     },
     {
-      "id": "content-item_2026-09-29_09_openappa-proposes-deterministic-data-flow-controls-for-agents_554f0a73",
-      "sourceKind": "product",
-      "sourceName": "OpenAPPA",
-      "title": "OpenAPPA proposes deterministic data-flow controls for agents",
-      "sourceUrl": "https://www.openappa.com/"
-    },
-    {
-      "id": "content-item_2026-09-29_10_a-practitioner-s-2026-llm-review-finds-coding-agents-crossed-a-usability_55884185",
+      "id": "content-item_2026-09-30_09_an-adaptive-router-cuts-llm-task-cost-while-shifting-around-provider-fai_d3d3d946",
       "sourceKind": "article",
-      "sourceName": "Simon Willison’s Weblog",
-      "title": "A practitioner’s 2026 LLM review finds coding agents crossed a usability threshold",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+      "sourceName": "Unblocked",
+      "title": "An adaptive router cuts LLM task cost while shifting around provider failures",
+      "sourceUrl": "https://getunblocked.com/blog/adaptive-routing-inference-providers/"
     },
     {
-      "id": "content-item_2026-09-29_11_ashhart-tensorfold-exact-local-llm-decoding-behind-an-openai-compatible_21eb099d",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "ashhart/TensorFold: exact local LLM decoding behind an OpenAI-compatible API",
-      "sourceUrl": "https://github.com/ashhart/TensorFold"
+      "id": "content-item_2026-09-30_10_claude-sonnet-5-5-nears-flagship-scores-by-spending-far-more-tokens_95e8c16d",
+      "sourceKind": "research",
+      "sourceName": "Artificial Analysis",
+      "title": "Claude Sonnet 5.5 nears flagship scores by spending far more tokens",
+      "sourceUrl": "https://artificialanalysis.ai/articles/claude-sonnet-5-5"
     },
     {
-      "id": "content-item_2026-09-29_12_samugit83-redamon-an-agentic-framework-for-authorised-security-testing_73e440f8",
+      "id": "content-item_2026-09-30_11_pageindex-builds-a-document-tree-for-reasoning-based-rag_2732fee7",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending Python",
-      "title": "samugit83/redamon: an agentic framework for authorised security testing",
-      "sourceUrl": "https://github.com/samugit83/redamon"
+      "sourceName": "GitHub Trending",
+      "title": "PageIndex builds a document tree for reasoning-based RAG",
+      "sourceUrl": "https://github.com/VectifyAI/PageIndex"
     },
     {
-      "id": "content-item_2026-09-29_13_helpcode-ai-anythingmcp-turn-business-apis-and-databases-into-mcp-tools_168e7c85",
+      "id": "content-item_2026-09-30_12_machine-learning-zoomcamp-packages-a-free-path-from-fundamentals-to-depl_eceed3ae",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending TypeScript",
-      "title": "HelpCode-ai/anythingmcp: turn business APIs and databases into MCP tools",
-      "sourceUrl": "https://github.com/HelpCode-ai/anythingmcp"
+      "sourceName": "GitHub Trending",
+      "title": "Machine Learning Zoomcamp packages a free path from fundamentals to deployment",
+      "sourceUrl": "https://github.com/DataTalksClub/machine-learning-zoomcamp"
+    },
+    {
+      "id": "content-item_2026-09-30_13_nvidia-s-nemotron-hub-collects-recipes-datasets-and-end-to-end-examples_9d06d246",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "NVIDIA’s Nemotron hub collects recipes, datasets and end-to-end examples",
+      "sourceUrl": "https://github.com/NVIDIA-NeMo/Nemotron"
     }
   ]
 }

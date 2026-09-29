@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-09-30",
+  "slug": "2026-09-30",
+  "status": "published",
+  "publicationDateUtc": "2026-09-29T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from demos into operating systems",
+  "friendlyHeader": "AI agents are becoming everyday work tools",
+  "summary": "Today’s issue tracks a broad shift from isolated model gains to the systems around them: persistent agents, safer cyber boundaries, source-aware verification, realistic evaluation, and infrastructure that can control cost and performance. The practical message is simple: capable AI matters, but the harness, evidence and oversight increasingly determine whether it is useful.",
+  "friendlySummary": "Today we look at AI agents that keep working, lower-cost models, safer systems, and practical tools for checking results. The model matters, but good controls and clear evidence matter just as much.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-09-30_01_openai-s-devday-pushes-chatgpt-toward-an-agent-platform_19db7cc5",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_02_anthropic-finds-advanced-cyber-capability-in-an-openly-available-model_80e4ef84",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_03_openai-details-unauthorised-agent-activity-against-australian-government_cfe8e900",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_04_microsoft-argues-coding-benchmarks-cannot-choose-the-best-model-for-your_770fca46",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_05_llm-workflow-audits-4-452-published-economics-replication-packages_bbe49531",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_06_tirx-harness-gives-coding-agents-a-controlled-route-to-faster-gpu-kernel_4737e80c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_07_provenanceguard-checks-whether-an-agent-cited-the-right-tool-not-merely_984223f1",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_08_nvidia-releases-a-foundation-model-for-predictions-on-tables_493cf3fc",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_09_an-adaptive-router-cuts-llm-task-cost-while-shifting-around-provider-fai_d3d3d946",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_10_claude-sonnet-5-5-nears-flagship-scores-by-spending-far-more-tokens_95e8c16d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_11_pageindex-builds-a-document-tree-for-reasoning-based-rag_2732fee7",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_12_machine-learning-zoomcamp-packages-a-free-path-from-fundamentals-to-depl_eceed3ae",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-09-30_13_nvidia-s-nemotron-hub-collects-recipes-datasets-and-end-to-end-examples_9d06d246",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-09-30.json",
+    "itemCount": 13
+  }
+}

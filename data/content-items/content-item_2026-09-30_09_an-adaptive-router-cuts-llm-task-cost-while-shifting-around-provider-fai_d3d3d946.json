@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_09_an-adaptive-router-cuts-llm-task-cost-while-shifting-around-provider-fai_d3d3d946",
+  "sourceKind": "article",
+  "sourceName": "Unblocked",
+  "sourceUrl": "https://getunblocked.com/blog/adaptive-routing-inference-providers/",
+  "canonicalUrl": "https://getunblocked.com/blog/adaptive-routing-inference-providers/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "An adaptive router cuts LLM task cost while shifting around provider failures",
+  "friendlyTitle": "A smart router chooses a cheaper or faster AI provider automatically",
+  "summary": "Unblocked describes a production router that sends the same open-weight model across providers according to measured task cost, speed and health, with controlled exploration and rate adjustment. The company reports 14% lower cost than round-robin routing and a 55% fall in median task time when a faster provider was available during its first four weeks.",
+  "friendlySummary": "Unblocked built a system that measures the full cost, speed and health of providers serving the same model. It then moves work when another provider is better or when one starts failing.",
+  "whyItMatters": "Open-model hosting is becoming a competitive commodity, so a fixed provider choice can leave money and reliability on the table. The useful design lesson is to measure complete task outcomes, keep errors separate from price scoring, preserve fallbacks and build a manual off switch before automating traffic decisions.",
+  "friendlyWhyItMatters": "Businesses using open models can reduce cost and outages without changing the model. They still need safe fallback rules and a way for a person to turn the router off.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_02_anthropic-finds-advanced-cyber-capability-in-an-openly-available-model_80e4ef84",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "canonicalUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "Anthropic finds advanced cyber capability in an openly available model",
+  "friendlyTitle": "A downloadable AI model can now build serious cyber exploits",
+  "summary": "Anthropic reports that Z.ai’s open-weight GLM-5.3 built end-to-end exploits at rates close to Claude Mythos Preview in its sandboxed tests, while simple techniques bypassed the model’s safeguards in 64% to 100% of simulated attempts. Anthropic’s capability and safeguard findings are company research, though its broad capability assessment aligns with a recent NIST CAISI evaluation.",
+  "friendlySummary": "Anthropic says GLM-5.3 could build working exploits in controlled tests and that its safety limits were often easy to bypass. A US government evaluation also found that the model has strong cyber skills.",
+  "whyItMatters": "Powerful cyber assistance is becoming easier to obtain, raising the baseline threat for software owners while also giving defenders stronger tools. Organisations should shorten patch cycles, improve monitoring and restrict AI agents’ network and credential access rather than relying on model refusals alone.",
+  "friendlyWhyItMatters": "Better AI can help defenders find weaknesses, but attackers can use it too. Keep software updated, watch systems closely, and do not give AI tools more access than they need.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

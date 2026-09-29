@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_13_nvidia-s-nemotron-hub-collects-recipes-datasets-and-end-to-end-examples_9d06d246",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NVIDIA-NeMo/Nemotron",
+  "canonicalUrl": "https://github.com/NVIDIA-NeMo/Nemotron",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "NVIDIA’s Nemotron hub collects recipes, datasets and end-to-end examples",
+  "friendlyTitle": "NVIDIA’s Nemotron hub puts model-building examples in one place",
+  "summary": "The Nemotron repository is NVIDIA’s developer asset hub for its model family, bringing together training and customisation recipes, datasets, evaluation material, skills and full reference workflows. Its notebook-heavy layout is designed to move developers from model exploration to repeatable implementations.",
+  "friendlySummary": "This repository collects notebooks, datasets, training guides and complete examples for NVIDIA’s Nemotron models. It is meant to help developers move from testing a model to building with it.",
+  "whyItMatters": "Use it when evaluating or customising Nemotron models and you want maintained examples instead of assembling a workflow from scattered documentation. The included journeys can also serve as reference designs for data curation, fine-tuning and evaluation pipelines.",
+  "friendlyWhyItMatters": "Start here if you want to customise or evaluate a Nemotron model. The examples can save time and show the main steps of a complete workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}

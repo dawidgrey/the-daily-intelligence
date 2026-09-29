@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-09-30_05_llm-workflow-audits-4-452-published-economics-replication-packages_bbe49531",
+  "sourceKind": "research",
+  "sourceName": "National Bureau of Economic Research",
+  "sourceUrl": "https://www.nber.org/papers/w35782",
+  "canonicalUrl": "https://www.nber.org/papers/w35782",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-29T20:03:57Z",
+  "createdAtUtc": "2026-09-29T20:03:57Z",
+  "updatedAtUtc": "2026-09-29T20:03:57Z",
+  "title": "LLM workflow audits 4,452 published economics replication packages",
+  "friendlyTitle": "AI agents checked thousands of economics studies",
+  "summary": "An NBER working paper presents an open-source LLM workflow that reproduces, checks, improves and extends published economics analyses from their replication packages. Across 4,452 packages, it flagged discrepancies in 3,460 articles or appendices, found major computation-time improvements in 496, and proposed aligned extensions in 923.",
+  "friendlySummary": "Researchers built an open workflow that reruns published economics work, looks for differences, finds faster calculations, and suggests extra analysis. It found many items that need closer human review.",
+  "whyItMatters": "The study offers a concrete pattern for using agents as tireless research auditors rather than unquestioned authors. Similar workflows could help analysts validate inherited models and calculations, provided every flag and proposed improvement remains reviewable by a domain expert.",
+  "friendlyWhyItMatters": "AI can help people check large amounts of research, but a warning is not proof of an error. Experts still need to review the evidence and decide what it means.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-09-30"
+  }
+}
