@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-29T20:03:57Z",
+  "generatedAtUtc": "2026-09-30T20:07:00Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-01",
+      "slug": "2026-10-01",
+      "status": "published",
+      "publicationDateUtc": "2026-09-30T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents move from conversation to continuous work",
+      "friendlyHeader": "AI agents are starting to work all the time",
+      "summary": "Today’s issue follows AI agents as they become persistent workplace systems—and the controls, costs and infrastructure arriving around them. It also covers a new chip-design model, biological watermarking, faster AI-SQL, voice-agent growth and three open-source projects drawing strong developer interest.",
+      "friendlySummary": "Today we look at AI agents that can keep working across your apps, plus new ways to check their work and control their costs. We also cover AI for chip design, safer AI-made proteins, faster data tools, voice agents and three popular open-source projects.",
+      "itemCount": 13,
+      "href": "issues/2026-10-01.html",
+      "dataUrl": "data/daily-publications/2026-10-01.json"
+    },
     {
       "id": "daily-publication_2026-09-30",
       "slug": "2026-09-30",

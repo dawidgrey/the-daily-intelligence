@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_09_kyno-gives-running-agent-workflows-versioned-human-direction_48a549f2",
+  "sourceKind": "product",
+  "sourceName": "Kyno",
+  "sourceUrl": "https://cizambra.github.io/kyno/",
+  "canonicalUrl": "https://cizambra.github.io/kyno",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "Kyno gives running agent workflows versioned human direction",
+  "friendlyTitle": "Kyno helps agents follow your latest goals",
+  "summary": "Kyno 1.0 provides a versioned store for an organization’s mission and operating principles, which agents retrieve through MCP at workflow step boundaries. Operators can update direction while a workflow continues and later inspect which version guided each step.",
+  "friendlySummary": "Kyno stores your mission and rules in versions. Agents check for the newest version before their next step, and you can see which rules they used.",
+  "whyItMatters": "Long-running agents can keep following yesterday’s priorities after the business changes course. Versioned direction offers a concrete way to update policy without restarting everything and to reconstruct why an agent made a decision.",
+  "friendlyWhyItMatters": "This can stop a long-running agent from following an old goal. It also makes the agent’s decisions easier to review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

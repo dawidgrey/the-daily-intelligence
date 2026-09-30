@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_06_elevenlabs-valuation-doubles-as-voice-agents-handle-15-million-weekly-calls_0617c540",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/transactional/elevenlabs-valuation-doubles-22-billion-surging-ai-voice-agent-demand-2026-09-30/",
+  "canonicalUrl": "https://www.reuters.com/legal/transactional/elevenlabs-valuation-doubles-22-billion-surging-ai-voice-agent-demand-2026-09-30",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "ElevenLabs valuation doubles as voice agents handle 15 million weekly calls",
+  "friendlyTitle": "Voice agents are now handling millions of customer calls",
+  "summary": "An employee tender offer valued ElevenLabs at $22 billion, double its February valuation. The company says its voice agents now handle more than 15 million conversations each week across tasks including refunds, insurance renewals and appointment booking.",
+  "friendlySummary": "ElevenLabs says its AI voice agents manage more than 15 million conversations each week. They help with tasks such as refunds, insurance and appointments.",
+  "whyItMatters": "Voice agents are moving from demonstrations into routine customer operations. Their scale makes call disclosure, escalation to people, language quality and measurable resolution rates increasingly important purchasing criteria.",
+  "friendlyWhyItMatters": "More people will speak with AI when they contact a business. Companies should make this clear and provide an easy way to reach a person.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

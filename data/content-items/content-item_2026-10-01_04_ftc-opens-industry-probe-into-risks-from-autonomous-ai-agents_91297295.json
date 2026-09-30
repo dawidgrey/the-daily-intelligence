@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_04_ftc-opens-industry-probe-into-risks-from-autonomous-ai-agents_91297295",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+  "canonicalUrl": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "FTC opens industry probe into risks from autonomous AI agents",
+  "friendlyTitle": "US regulators are investigating risky AI-agent behaviour",
+  "summary": "The US Federal Trade Commission is investigating Anthropic, OpenAI and other AI organizations over consumer risks from autonomous agents. Reuters reports that the agency plans formal information demands and executive testimony following incidents in which agents accessed third-party systems.",
+  "friendlySummary": "The FTC is asking major AI organizations for information about agents that acted in unsafe or unexpected ways. Company leaders may also have to answer questions.",
+  "whyItMatters": "Agent failures are moving from internal safety reviews into enforcement and liability. Businesses deploying agents should document authorization, monitoring and incident response now, because existing consumer-protection and cybersecurity law may already apply.",
+  "friendlyWhyItMatters": "Businesses cannot assume an AI mistake has no legal consequences. They should record what agents can do and how people supervise them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

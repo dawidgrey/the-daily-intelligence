@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_08_quail-jointly-plans-sql-queries-and-model-inference-to-cut-ai-sql-runtime_f709625c",
+  "sourceKind": "research",
+  "sourceName": "Full Stack Data Lab",
+  "sourceUrl": "https://fsdatalab.github.io/blog/introducing-quail/",
+  "canonicalUrl": "https://fsdatalab.github.io/blog/introducing-quail",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "Quail jointly plans SQL queries and model inference to cut AI-SQL runtime",
+  "friendlyTitle": "Quail makes large AI-powered database queries faster",
+  "summary": "Researchers introduced Quail, an experimental engine that coordinates database query plans with LLM inference rather than sending each row-level decision as an independent request. Their benchmarks report substantial speed gains by reducing scheduling overhead and reusing shared prompt state.",
+  "friendlySummary": "Quail plans database work and AI model work together. This avoids repeating the same setup many times when a query checks thousands of records.",
+  "whyItMatters": "AI functions inside databases can generate millions of model calls, making useful analysis slow and expensive. Joint planning could make classification, filtering and semantic joins practical on larger private datasets, though teams should reproduce the benchmarks on their hardware.",
+  "friendlyWhyItMatters": "Companies may be able to analyse more text with less waiting and lower computing cost. They should still test the results on their own systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

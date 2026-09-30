@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_05_openai-and-synopsys-plan-a-specialist-model-for-chip-design_a9657fef",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30/",
+  "canonicalUrl": "https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "OpenAI and Synopsys plan a specialist model for chip design",
+  "friendlyTitle": "OpenAI and Synopsys are building AI for chip design",
+  "summary": "OpenAI and electronic-design-automation company Synopsys are developing GPT-Synopsys, a model trained to use chip-design tools and optimize circuit layouts. Conventional Synopsys software will verify the model’s proposed designs against physical constraints.",
+  "friendlySummary": "The companies are creating a model to help engineers design computer chips. Normal engineering software will still check whether each design can really work.",
+  "whyItMatters": "The partnership illustrates a practical pattern for high-stakes AI: a specialist model proposes work while deterministic tools check it. That combination may shorten engineering cycles without treating probabilistic output as ground truth.",
+  "friendlyWhyItMatters": "This shows a safer way to use AI in serious work: let AI suggest ideas, then use trusted tools to check them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

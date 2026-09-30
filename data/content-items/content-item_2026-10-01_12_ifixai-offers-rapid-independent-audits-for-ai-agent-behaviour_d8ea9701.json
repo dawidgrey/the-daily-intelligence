@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_12_ifixai-offers-rapid-independent-audits-for-ai-agent-behaviour_d8ea9701",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/ifixai-ai/iFixAi",
+  "canonicalUrl": "https://github.com/ifixai-ai/iFixAi",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "iFixAi offers rapid independent audits for AI-agent behaviour",
+  "friendlyTitle": "iFixAi checks whether an AI agent follows its job",
+  "summary": "iFixAi is an Apache-licensed toolkit for checking whether an AI agent behaves as intended, with tests covering areas such as prompt injection, hallucination and risk controls. The actively maintained project has attracted roughly 17,300 GitHub stars.",
+  "friendlySummary": "iFixAi is an open-source tool for testing AI agents for problems such as prompt attacks, made-up answers and weak controls. It has about 17,300 GitHub stars.",
+  "whyItMatters": "Developers and risk teams can use it as a starting point for repeatable agent audits before and after deployment. Its checks should complement domain-specific tests, permission limits and human review rather than replace them.",
+  "friendlyWhyItMatters": "Use it to add quick, repeatable checks to an agent project. Keep your own task tests and human review as well.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-01"
+  },
+  "howItsUseful": "Developers and risk teams can use it as a starting point for repeatable agent audits before and after deployment. Its checks should complement domain-specific tests, permission limits and human review rather than replace them.",
+  "friendlyHowItsUseful": "Use it to add quick, repeatable checks to an agent project. Keep your own task tests and human review as well."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-01",
+  "slug": "2026-10-01",
+  "status": "published",
+  "publicationDateUtc": "2026-09-30T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents move from conversation to continuous work",
+  "friendlyHeader": "AI agents are starting to work all the time",
+  "summary": "Today’s issue follows AI agents as they become persistent workplace systems—and the controls, costs and infrastructure arriving around them. It also covers a new chip-design model, biological watermarking, faster AI-SQL, voice-agent growth and three open-source projects drawing strong developer interest.",
+  "friendlySummary": "Today we look at AI agents that can keep working across your apps, plus new ways to check their work and control their costs. We also cover AI for chip design, safer AI-made proteins, faster data tools, voice agents and three popular open-source projects.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-01_01_openai-launches-always-on-dots-agents-for-work-across-apps_86bfa35b",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_02_gpt-6-1-sol-approaches-astra-benchmark-scores-at-a-fraction-of-the-cost_3e9b576d",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_03_google-deepmind-develops-watermarks-for-ai-designed-proteins_396b95f3",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_04_ftc-opens-industry-probe-into-risks-from-autonomous-ai-agents_91297295",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_05_openai-and-synopsys-plan-a-specialist-model-for-chip-design_a9657fef",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_06_elevenlabs-valuation-doubles-as-voice-agents-handle-15-million-weekly-calls_0617c540",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_07_us-ai-companies-sign-voluntary-accord-on-controls-and-agent-audits_0039df2e",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_08_quail-jointly-plans-sql-queries-and-model-inference-to-cut-ai-sql-runtime_f709625c",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_09_kyno-gives-running-agent-workflows-versioned-human-direction_48a549f2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_10_halv-reports-lower-coding-agent-cost-with-important-benchmark-caveats_beee412b",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_11_openship-trends-as-a-self-hosted-platform-for-deploying-apps-and-agents_a4c5e98e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_12_ifixai-offers-rapid-independent-audits-for-ai-agent-behaviour_d8ea9701",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-01_13_finrl-provides-an-active-framework-for-financial-reinforcement-learning_e5b6cf32",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-01.json",
+    "itemCount": 13
+  }
+}

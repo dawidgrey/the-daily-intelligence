@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_11_openship-trends-as-a-self-hosted-platform-for-deploying-apps-and-agents_a4c5e98e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/oblien/openship",
+  "canonicalUrl": "https://github.com/oblien/openship",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "OpenShip trends as a self-hosted platform for deploying apps and agents",
+  "friendlyTitle": "OpenShip helps you host apps and AI services yourself",
+  "summary": "OpenShip is an Apache-licensed self-hosted deployment platform with active development and roughly 14,200 GitHub stars. Its repository includes application, infrastructure and operational components for running services on infrastructure you control.",
+  "friendlySummary": "OpenShip is a popular open-source platform for deploying services on your own infrastructure. It is actively developed and has about 14,200 GitHub stars.",
+  "whyItMatters": "Teams building AI services can use it to explore a self-managed alternative to hosted deployment platforms, especially when data location or infrastructure control matters. Review its security and licensing boundaries before production use.",
+  "friendlyWhyItMatters": "It may suit teams that want more control over where their AI apps run. Check its security setup carefully before using it for real customers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-01"
+  },
+  "howItsUseful": "Teams building AI services can use it to explore a self-managed alternative to hosted deployment platforms, especially when data location or infrastructure control matters. Review its security and licensing boundaries before production use.",
+  "friendlyHowItsUseful": "It may suit teams that want more control over where their AI apps run. Check its security setup carefully before using it for real customers."
+}

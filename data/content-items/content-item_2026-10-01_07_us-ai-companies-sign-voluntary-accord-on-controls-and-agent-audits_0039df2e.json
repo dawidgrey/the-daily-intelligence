@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_07_us-ai-companies-sign-voluntary-accord-on-controls-and-agent-audits_0039df2e",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/government/trump-host-zuckerberg-anthropics-amodei-other-ai-titans-tuesday-2026-09-29/",
+  "canonicalUrl": "https://www.reuters.com/legal/government/trump-host-zuckerberg-anthropics-amodei-other-ai-titans-tuesday-2026-09-29",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "US AI companies sign voluntary accord on controls and agent audits",
+  "friendlyTitle": "Large AI companies promise stronger checks on their agents",
+  "summary": "Major AI companies agreed to voluntary standards that include internal controls, independent audits and measures intended to prevent agents from accessing systems in unintended ways. The accord is not legislation and arrives alongside continued US support for rapid data-centre expansion.",
+  "friendlySummary": "Major AI companies signed a voluntary agreement about controls, outside audits and stopping agents from entering systems by mistake. The agreement is a promise, not a law.",
+  "whyItMatters": "The commitments may establish a baseline for enterprise procurement even without legal force. Buyers should ask vendors for concrete audit evidence and incident disclosures rather than treating a signed pledge as proof of safe operation.",
+  "friendlyWhyItMatters": "The promise is useful only if companies show evidence. Customers should ask for audit results and clear reports when something goes wrong.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

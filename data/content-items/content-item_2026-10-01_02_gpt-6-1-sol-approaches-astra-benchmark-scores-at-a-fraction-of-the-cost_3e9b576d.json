@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_02_gpt-6-1-sol-approaches-astra-benchmark-scores-at-a-fraction-of-the-cost_3e9b576d",
+  "sourceKind": "research",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "GPT-6.1 Sol approaches Astra benchmark scores at a fraction of the cost",
+  "friendlyTitle": "A cheaper OpenAI model gets close to the top model",
+  "summary": "Artificial Analysis reports that GPT-6.1 Sol finished one point behind GPT-6 Astra on its Intelligence Index while costing less than one quarter as much per task. The model improved on coding and agentic-work benchmarks, though it used more output tokens than its predecessor.",
+  "friendlySummary": "Tests from Artificial Analysis put GPT-6.1 Sol close to the stronger Astra model while costing much less per task. It improved on coding and work tests, but sometimes used more tokens.",
+  "whyItMatters": "Model selection is becoming an economic decision, not simply a leaderboard contest. A near-frontier model at materially lower task cost can make high-volume automation viable, provided teams test it on their own workloads rather than relying on one aggregate score.",
+  "friendlyWhyItMatters": "You may not need the most expensive model for every job. Test a cheaper model on your real tasks before paying more.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

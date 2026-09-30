@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_10_halv-reports-lower-coding-agent-cost-with-important-benchmark-caveats_beee412b",
+  "sourceKind": "research",
+  "sourceName": "Halv",
+  "sourceUrl": "https://halv.ai/blog/halv-swe-rebench-astra-42-pairs/",
+  "canonicalUrl": "https://halv.ai/blog/halv-swe-rebench-astra-42-pairs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "Halv reports lower coding-agent cost, with important benchmark caveats",
+  "friendlyTitle": "A coding-agent workflow cost less, but the result needs care",
+  "summary": "Halv reports 57.1% lower recorded model cost than a vanilla Codex workflow across 42 paired SWE-rebench runs, with both sides passing 25 verifiers. The routed workflow used 3.49 times more tokens, performed worse on some tasks and excludes invalid attempts and a rolled-back experiment.",
+  "friendlySummary": "Halv’s test recorded lower model costs while passing the same total number of checks as a normal Codex workflow. It used many more tokens and did worse on some individual tasks.",
+  "whyItMatters": "Cheaper models and delegated investigation can reduce measured agent costs, but aggregate pass counts can hide task-level regressions. The useful lesson is to measure complete workflows—including failed runs, orchestration and review—against your own acceptance tests.",
+  "friendlyWhyItMatters": "A lower bill does not always mean better work. Measure cost, correct results and failed attempts together before changing your workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

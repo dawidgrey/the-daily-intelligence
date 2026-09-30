@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_01_openai-launches-always-on-dots-agents-for-work-across-apps_86bfa35b",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
+  "canonicalUrl": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "OpenAI launches always-on Dots agents for work across apps",
+  "friendlyTitle": "OpenAI’s new agents can keep working across your apps",
+  "summary": "OpenAI unveiled Dots, persistent agents powered by GPT-6 Astra that can pursue goals across Slack, Teams and other workplace tools. OpenAI says sensitive actions require explicit consent, although live demonstrations also exposed reliability glitches.",
+  "friendlySummary": "OpenAI introduced Dots, AI helpers that can continue working on a goal in tools such as Slack and Teams. Important actions need your approval, but the launch also showed that the technology can still fail.",
+  "whyItMatters": "Persistent agents could reduce routine coordination and document work, but they also widen the consequences of a mistaken action. Teams should treat permissions, audit trails and human approval points as core deployment requirements rather than optional safeguards.",
+  "friendlyWhyItMatters": "These agents may save time on everyday work. They also need clear limits and checks because one mistake can spread across several apps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}

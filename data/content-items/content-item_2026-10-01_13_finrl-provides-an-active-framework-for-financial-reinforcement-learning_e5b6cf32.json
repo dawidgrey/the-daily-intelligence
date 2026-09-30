@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_13_finrl-provides-an-active-framework-for-financial-reinforcement-learning_e5b6cf32",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/AI4Finance-Foundation/FinRL",
+  "canonicalUrl": "https://github.com/AI4Finance-Foundation/FinRL",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "FinRL provides an active framework for financial reinforcement learning",
+  "friendlyTitle": "FinRL is a toolkit for learning about AI trading agents",
+  "summary": "FinRL is an MIT-licensed framework and collection of examples for applying deep reinforcement learning to financial markets. The long-running project has roughly 16,500 GitHub stars and received code and documentation updates this week.",
+  "friendlySummary": "FinRL provides code and examples for testing reinforcement-learning methods on financial-market data. The project has about 16,500 GitHub stars and remains active.",
+  "whyItMatters": "Researchers can use FinRL to reproduce experiments, compare trading-agent approaches and learn the mechanics of financial reinforcement learning. It is an academic toolkit, not financial advice, and live-money use requires rigorous out-of-sample testing and risk controls.",
+  "friendlyWhyItMatters": "It is useful for research and learning. Do not treat an experiment as a safe trading strategy without strong testing and risk limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-01"
+  },
+  "howItsUseful": "Researchers can use FinRL to reproduce experiments, compare trading-agent approaches and learn the mechanics of financial reinforcement learning. It is an academic toolkit, not financial advice, and live-money use requires rigorous out-of-sample testing and risk controls.",
+  "friendlyHowItsUseful": "It is useful for research and learning. Do not treat an experiment as a safe trading strategy without strong testing and risk limits."
+}

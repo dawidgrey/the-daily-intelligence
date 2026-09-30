@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-01_03_google-deepmind-develops-watermarks-for-ai-designed-proteins_396b95f3",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-synthid-bio",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-09-30T20:07:00Z",
+  "createdAtUtc": "2026-09-30T20:07:00Z",
+  "updatedAtUtc": "2026-09-30T20:07:00Z",
+  "title": "Google DeepMind develops watermarks for AI-designed proteins",
+  "friendlyTitle": "DeepMind can mark proteins designed by AI",
+  "summary": "DeepMind introduced SynthID Bio, a proof-of-concept system that embeds detectable signatures in AI-generated protein sequences and structures. Its laboratory tests found that watermarked binders retained biological function, while AlphaFold 3 structures remained accurate and detectable.",
+  "friendlySummary": "DeepMind tested a hidden mark for proteins created with AI. The mark could still be found while the tested proteins continued to work normally.",
+  "whyItMatters": "Reliable provenance could help DNA synthesis providers screen unfamiliar designs and help scientific databases distinguish synthetic entries from natural ones. The work is early and not tamper-proof, but it adds a practical verification layer as generative biology expands.",
+  "friendlyWhyItMatters": "This could help laboratories and safety teams check where a new protein design came from. It is an early safety tool, not a complete solution.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-01"
+  }
+}
