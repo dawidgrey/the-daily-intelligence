@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_11_friedrich-m-unimate_c87c6615",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Friedrich-M/UniMate",
+  "canonicalUrl": "https://github.com/Friedrich-M/UniMate",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "Friedrich-M/UniMate",
+  "friendlyTitle": "UniMate animates different kinds of character skeletons",
+  "summary": "UniMate is an MIT-licensed research implementation of a unified model for animating characters with different skeletal structures. It supports text-to-motion, in-betweening, guided editing and motion expansion, with training and inference code available.",
+  "friendlySummary": "This open project turns text into motion and can edit or extend movement for characters with different body structures.",
+  "whyItMatters": "Animation and graphics researchers can test one motion system across varied rigs instead of maintaining a separate model for each skeleton type. Dataset licences still need to be checked independently before commercial use.",
+  "friendlyWhyItMatters": "Researchers and animation developers can study or test one motion model across many character rigs. Check the licence for each dataset before using it commercially.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

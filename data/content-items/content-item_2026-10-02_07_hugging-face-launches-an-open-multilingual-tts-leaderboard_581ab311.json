@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_07_hugging-face-launches-an-open-multilingual-tts-leaderboard_581ab311",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/open-tts-leaderboard",
+  "canonicalUrl": "https://huggingface.co/blog/open-tts-leaderboard",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "Hugging Face launches an open multilingual TTS leaderboard",
+  "friendlyTitle": "A new leaderboard compares open AI voice models",
+  "summary": "Hugging Face has introduced a leaderboard for evaluating open text-to-speech and voice-cloning models across languages. The project responds to a catalogue that has grown beyond 8,000 TTS models and aims to make comparisons more systematic and scalable.",
+  "friendlySummary": "Hugging Face now offers a public way to compare text-to-speech and voice-cloning models in several languages.",
+  "whyItMatters": "A shared evaluation can help developers choose voice models on evidence rather than demos alone. Multilingual testing is especially important for accessibility, localisation and avoiding systems that work well only in heavily represented languages.",
+  "friendlyWhyItMatters": "Developers can make better choices for voice assistants, reading tools and translated content instead of relying only on polished demos.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

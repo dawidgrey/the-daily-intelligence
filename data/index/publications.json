@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-09-30T20:07:00Z",
+  "generatedAtUtc": "2026-10-01T20:03:54Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-02",
+      "slug": "2026-10-02",
+      "status": "published",
+      "publicationDateUtc": "2026-10-01T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from spectacle to systems",
+      "friendlyHeader": "AI is becoming more useful in real work",
+      "summary": "Today’s issue follows AI into the less glamorous work that determines whether it is useful: safety oversight, secure model operations, small-business training, retail workflows, better evaluation and faster infrastructure. We also look at practical tools for image control, data cleaning and open model development.",
+      "friendlySummary": "Today we look at AI tools and changes that can help with work, shopping, safety and building new products. The main theme is simple: good AI needs reliable systems around it, not just a clever model.",
+      "itemCount": 13,
+      "href": "issues/2026-10-02.html",
+      "dataUrl": "data/daily-publications/2026-10-02.json"
+    },
     {
       "id": "daily-publication_2026-10-01",
       "slug": "2026-10-01",

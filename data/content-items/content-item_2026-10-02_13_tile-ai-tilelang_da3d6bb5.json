@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_13_tile-ai-tilelang_da3d6bb5",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/tile-ai/tilelang",
+  "canonicalUrl": "https://github.com/tile-ai/tilelang",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "tile-ai/tilelang",
+  "friendlyTitle": "TileLang helps developers write fast AI hardware code",
+  "summary": "TileLang is a domain-specific language for writing high-performance kernels across GPUs, CPUs and other accelerators. The project has more than 8,000 stars and continues to add hardware backends and optimization support.",
+  "friendlySummary": "TileLang is a special programming language for creating fast operations on GPUs, CPUs and other AI chips.",
+  "whyItMatters": "AI infrastructure engineers can express and tune low-level operations with a higher-level language instead of writing every kernel directly in vendor-specific code. It is most relevant to teams optimizing model training or inference performance.",
+  "friendlyWhyItMatters": "It can help experienced engineers speed up model training or inference without writing every low-level operation from scratch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

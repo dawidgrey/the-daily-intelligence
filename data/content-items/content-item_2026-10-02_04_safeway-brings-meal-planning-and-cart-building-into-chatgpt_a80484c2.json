@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_04_safeway-brings-meal-planning-and-cart-building-into-chatgpt_a80484c2",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
+  "canonicalUrl": "https://openai.com/index/albertsons-reimagining-retail",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "Safeway brings meal planning and cart building into ChatGPT",
+  "friendlyTitle": "ChatGPT can help Safeway shoppers build a grocery cart",
+  "summary": "Albertsons is expanding its OpenAI partnership with a Safeway experience that can turn recipes, photos, lists or meal requests into a shopping cart before sending customers to Safeway for checkout. The retailer is also applying AI to employee workflows, recommendations and promotional analysis.",
+  "friendlySummary": "Shoppers can describe a meal or share a list, and ChatGPT can suggest Safeway products and prepare a cart for checkout.",
+  "whyItMatters": "This is a concrete example of conversational software moving from advice to transaction preparation. It may save shoppers time, while retailers will need to make recommendations transparent and preserve user control over substitutions, prices and checkout.",
+  "friendlyWhyItMatters": "This could make weekly shopping quicker. People should still check prices, choices and substitutions before they buy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_02_paradedb-closes-a-postgres-search-performance-gap_d270242d",
+  "sourceKind": "article",
+  "sourceName": "ParadeDB",
+  "sourceUrl": "https://www.paradedb.com/blog/opening-a-closed-tin",
+  "canonicalUrl": "https://www.paradedb.com/blog/opening-a-closed-tin",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "ParadeDB closes a Postgres search performance gap",
+  "friendlyTitle": "ParadeDB makes Postgres text search much faster",
+  "summary": "After PlanetScale published benchmarks showing its TIN extension ahead of ParadeDB, ParadeDB reworked its BM25 search path and reports substantially higher throughput on the same workload. Its engineering account explains the optimizations and also identifies benchmark settings that can affect result quality.",
+  "friendlySummary": "ParadeDB improved its search engine after a competitor published faster results. The company explains what it changed and how benchmark settings can change the outcome.",
+  "whyItMatters": "Teams building retrieval and search systems can improve performance without immediately replacing their database architecture. The post is also a useful reminder to examine relevance trade-offs and benchmark configuration, not just headline speed.",
+  "friendlyWhyItMatters": "If your AI product searches documents in Postgres, these improvements may reduce waiting time and infrastructure cost.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_05_openai-details-a-coordinated-attempt-to-extract-hidden-model-reasoning_6a91381a",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "canonicalUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "OpenAI details a coordinated attempt to extract hidden model reasoning",
+  "friendlyTitle": "OpenAI says attackers tried to copy hidden model reasoning",
+  "summary": "OpenAI says it disrupted a coordinated adversarial-distillation campaign involving extraction patterns across more than 15,000 users, attributing a core cluster to people associated with Moonshot AI. The company says attackers manipulated model interactions rather than breaching databases or stored conversations.",
+  "friendlySummary": "OpenAI found a large campaign that tried to make its models reveal protected reasoning. It says no database or stored user chats were broken into.",
+  "whyItMatters": "Model security now includes protecting generated reasoning artifacts across accounts, tools and cloud partners. Organisations building agent systems should treat replayable outputs, conversation compaction and third-party hosting as parts of the same threat model.",
+  "friendlyWhyItMatters": "AI security is not only about passwords and databases. Teams must also protect model outputs when they move between users, tools and cloud services.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

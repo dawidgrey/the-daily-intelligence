@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_01_ftc-opens-investigation-into-risks-from-leading-ai-products_ce92721a",
+  "sourceKind": "regulation",
+  "sourceName": "CNBC",
+  "sourceUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+  "canonicalUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "FTC opens investigation into risks from leading AI products",
+  "friendlyTitle": "US regulator investigates risks from major AI products",
+  "summary": "The US Federal Trade Commission has opened an investigation into OpenAI, Anthropic and other unnamed AI companies over potential product risks. The inquiry adds formal regulatory scrutiny to an industry already debating how advanced agents should be tested and controlled.",
+  "friendlySummary": "The FTC is investigating OpenAI, Anthropic and other AI companies to understand possible dangers from their products.",
+  "whyItMatters": "An FTC investigation can influence disclosure duties, safety practices and the terms under which businesses deploy AI. Buyers should expect more questions about testing, incident handling and accountability when selecting AI vendors.",
+  "friendlyWhyItMatters": "This may lead to clearer safety rules. Businesses may need better records showing how they test and supervise AI tools.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

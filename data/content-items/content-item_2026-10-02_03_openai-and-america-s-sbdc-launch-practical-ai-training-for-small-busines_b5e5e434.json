@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_03_openai-and-america-s-sbdc-launch-practical-ai-training-for-small-busines_b5e5e434",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+  "canonicalUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "OpenAI and America’s SBDC launch practical AI training for small businesses",
+  "friendlyTitle": "Small businesses get hands-on help with AI",
+  "summary": "OpenAI is partnering with America’s Small Business Development Centers to train about 150 advisers and initially reach at least 1,000 businesses through workshops and follow-up support. A companion report describes small firms using AI for finance, supply chains, compliance and marketing.",
+  "friendlySummary": "OpenAI and America’s SBDC will train local advisers and run workshops to help small businesses use AI on real work.",
+  "whyItMatters": "The program puts guided experimentation closer to owners who lack dedicated AI staff. Its best lesson travels beyond the US: start with a real task, measure whether the tool helps, and keep a trusted human adviser in the loop.",
+  "friendlyWhyItMatters": "Owners can get practical support instead of trying every AI tool alone. The useful approach is to begin with one clear business problem.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

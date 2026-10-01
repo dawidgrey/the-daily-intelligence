@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_10_scrubbed-combines-web-data-cleaning-pii-scanning-and-deduplication_ddd5f2bb",
+  "sourceKind": "product",
+  "sourceName": "Scrubbed",
+  "sourceUrl": "https://schancel.github.io/scrubbed/",
+  "canonicalUrl": "https://schancel.github.io/scrubbed/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "Scrubbed combines web-data cleaning, PII scanning and deduplication",
+  "friendlyTitle": "Scrubbed cleans web data before it reaches an AI system",
+  "summary": "Scrubbed is a native command-line tool that repairs encoding, extracts main content, scans or masks common personal information and supports duplicate detection for AI training data. Its published benchmark reports much lower CPU time than a matched multi-tool Python pipeline, while clearly limiting the claim to that workload.",
+  "friendlySummary": "The tool can fix broken text, remove page clutter, find common personal information and detect repeated content.",
+  "whyItMatters": "Cleaner data can improve retrieval and training while reducing accidental exposure of personal information. A single local binary may also make small and repeatable corpus pipelines easier to deploy, though distributed-scale operation remains unproven.",
+  "friendlyWhyItMatters": "Cleaner input can improve AI results and reduce privacy mistakes. It is ready for local jobs, but large distributed use still needs testing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}

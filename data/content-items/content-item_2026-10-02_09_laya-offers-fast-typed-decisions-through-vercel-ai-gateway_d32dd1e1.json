@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-02_09_laya-offers-fast-typed-decisions-through-vercel-ai-gateway_d32dd1e1",
+  "sourceKind": "product",
+  "sourceName": "Vercel AI Gateway",
+  "sourceUrl": "https://vercel.com/ai-gateway/models/laya",
+  "canonicalUrl": "https://vercel.com/ai-gateway/models/laya",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-01T20:03:53Z",
+  "createdAtUtc": "2026-10-01T20:03:53Z",
+  "updatedAtUtc": "2026-10-01T20:03:53Z",
+  "title": "Laya offers fast typed decisions through Vercel AI Gateway",
+  "friendlyTitle": "Laya is an AI model made for quick decisions",
+  "summary": "Vercel AI Gateway has added Laya, a decision model that answers choice, score and yes-or-no questions with typed outputs and probabilities in one forward pass. It is positioned for routing, classification, guardrails and rubric-based evaluation rather than free-form writing.",
+  "friendlySummary": "Laya returns clear choices, scores or yes-and-no answers instead of writing long text. It can help route tasks and check rules.",
+  "whyItMatters": "Many workflows need a dependable decision, not another paragraph. A specialised model with structured output can simplify application logic, although teams should still calibrate thresholds and test errors against their own data.",
+  "friendlyWhyItMatters": "This may make automated workflows simpler and faster, but each business should test how often its decisions are wrong.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-02"
+  }
+}
