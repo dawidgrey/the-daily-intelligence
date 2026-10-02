@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-03",
+  "slug": "2026-10-03",
+  "status": "published",
+  "publicationDateUtc": "2026-10-02T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Frontier models meet the realities of access, control and deployment",
+  "friendlyHeader": "More capable AI also needs better controls",
+  "summary": "Today’s issue follows Gemini 4 Argon into long-horizon work, practical lessons from AI-assisted science, and a growing set of controls around models and agents. It also covers local inference, enterprise training, synthetic agent data, multi-model coding, realtime voice systems and three open-source learning projects trending with developers.",
+  "friendlySummary": "Today we look at Google’s new model, a practical way to use AI in science, and stronger controls for AI agents. We also cover local AI, model changes, staff training, voice tools and three popular learning projects on GitHub.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-03_01_gemini-4-argon-targets-long-horizon-coding-and-enterprise-work_311e0950",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_02_claude-shaped-science-starts-with-tasks-that-suit-today-s-ai_1eadfb1c",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_03_openai-sets-retirement-dates-for-codex-tts-and-other-api-models_6a26c9ef",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_04_anthropic-commits-100-million-to-train-10-000-deployed-ai-engineers_9f2dde65",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_05_autosynthdata-turns-agent-failures-into-verified-training-tasks_a885ed61",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_06_dwarfstar-4-brings-large-open-models-to-high-memory-local-machines_c307e472",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_07_openai-warns-more-than-100-organizations-about-unauthorized-agent-activity_de77dbc0",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_08_apple-plans-tighter-full-disk-access-controls-as-desktop-agents-spread_39b9fbb5",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_09_baseten-brings-open-models-into-codex-and-openai-s-responses-api_bca2d1af",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_10_a-production-voice-agent-separates-live-conversation-from-consequential-decision_4d14544f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_11_aimlinterviews-trends-as-a-structured-guide-to-ai-and-ml-hiring_b60ceb82",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_12_agentic-ai-course-repository-collects-runnable-multi-framework-examples_e83f207e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-03_13_zero-to-mastery-ml-offers-notebooks-for-end-to-end-machine-learning-practice_4846dbde",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-03.json",
+    "itemCount": 13
+  }
+}

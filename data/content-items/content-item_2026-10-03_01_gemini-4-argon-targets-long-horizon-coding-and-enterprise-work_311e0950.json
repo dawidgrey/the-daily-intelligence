@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_01_gemini-4-argon-targets-long-horizon-coding-and-enterprise-work_311e0950",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+  "canonicalUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Gemini 4 Argon targets long-horizon coding and enterprise work",
+  "friendlyTitle": "Google’s Gemini 4 Argon is built for long, difficult jobs",
+  "summary": "Google announced Gemini 4 Argon, a frontier model for complex coding, finance, legal and cybersecurity workflows, with a one-million-token output limit and phased access beginning with trusted cyber defenders. Google reports leading results on several third-party and internal evaluations, but the broader developer and consumer release is still pending safety testing.",
+  "friendlySummary": "Google announced a powerful model for coding, finance, legal work and cybersecurity. A small group of cyber defenders gets access first while Google continues safety testing.",
+  "whyItMatters": "Argon’s unusually long output capacity could support deeper autonomous work, while its staged release is a reminder that benchmark strength does not equal production readiness. Teams should wait for access details, independent testing and stable pricing before redesigning workflows around it.",
+  "friendlyWhyItMatters": "The model may handle longer jobs with fewer stops. Businesses should still wait for independent tests and clear access details before depending on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_11_aimlinterviews-trends-as-a-structured-guide-to-ai-and-ml-hiring_b60ceb82",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/alirezadir/AIMLInterviews",
+  "canonicalUrl": "https://github.com/alirezadir/AIMLInterviews",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "AIMLInterviews trends as a structured guide to AI and ML hiring",
+  "friendlyTitle": "AIMLInterviews helps people prepare for AI job interviews",
+  "summary": "AIMLInterviews is an MIT-licensed collection covering machine-learning fundamentals, deep learning, system design, scalable AI and agent-related interview topics. The repository has about 9,800 stars and appeared among today’s trending AI and machine-learning projects.",
+  "friendlySummary": "This popular open-source guide covers machine learning, deep learning, AI systems and interview practice. It has about 9,800 GitHub stars.",
+  "whyItMatters": "Candidates can use its topic map to identify knowledge gaps and organize practice for AI engineering, applied-science and technical-lead interviews. Treat it as a study index and validate rapidly changing implementation details against current documentation.",
+  "friendlyWhyItMatters": "Use its topic list to plan your study and find weak areas. Check current product documents for details that may have changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-03"
+  },
+  "howItsUseful": "Candidates can use its topic map to identify knowledge gaps and organize practice for AI engineering, applied-science and technical-lead interviews. Treat it as a study index and validate rapidly changing implementation details against current documentation.",
+  "friendlyHowItsUseful": "Use its topic list to plan your study and find weak areas. Check current product documents for details that may have changed."
+}

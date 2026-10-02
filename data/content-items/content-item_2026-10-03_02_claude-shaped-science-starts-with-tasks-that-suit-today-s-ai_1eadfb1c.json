@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_02_claude-shaped-science-starts-with-tasks-that-suit-today-s-ai_1eadfb1c",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/claude-shaped-science",
+  "canonicalUrl": "https://www.anthropic.com/research/claude-shaped-science",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Claude-shaped science starts with tasks that suit today’s AI",
+  "friendlyTitle": "Use AI for the kind of science it can do well today",
+  "summary": "Physicist Matthew Schwartz describes building BootLoops, an open-source harness that directs language models toward broad, code-heavy and verifiable scientific problems rather than asking them to imitate an independent scientist. Work with domain experts then helped distinguish technically correct connections from scientifically useful ones.",
+  "friendlySummary": "A physicist built an open-source system that gives AI broad, code-heavy problems with answers that people can check. Experts then decide whether the results are truly useful.",
+  "whyItMatters": "The practical lesson reaches beyond research: redesign work around what a model can reliably do, make outputs checkable and keep experts responsible for relevance. That is more useful than forcing AI into a human-shaped role and hoping fluency will cover the mismatch.",
+  "friendlyWhyItMatters": "AI works better when the task fits its strengths. Give it checkable work and keep a person responsible for meaning and quality.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

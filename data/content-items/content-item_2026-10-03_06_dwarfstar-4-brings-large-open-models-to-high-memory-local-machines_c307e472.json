@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_06_dwarfstar-4-brings-large-open-models-to-high-memory-local-machines_c307e472",
+  "sourceKind": "product",
+  "sourceName": "DwarfStar",
+  "sourceUrl": "https://dwarfstar.sh/",
+  "canonicalUrl": "https://dwarfstar.sh/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "DwarfStar 4 brings large open models to high-memory local machines",
+  "friendlyTitle": "DwarfStar runs large AI models on powerful computers you control",
+  "summary": "DwarfStar 4 is an MIT-licensed C inference engine for running supported DeepSeek, GLM and Qwen models on high-memory Apple Silicon, CUDA and ROCm systems. It combines asymmetric quantization, reusable disk-backed KV caches, local APIs and a native coding agent in one stack.",
+  "friendlySummary": "DwarfStar is an open-source engine for running selected DeepSeek, GLM and Qwen models locally. It offers a command line, local APIs and a coding agent.",
+  "whyItMatters": "Local inference can keep sensitive prompts and code under the operator’s control and reduce dependence on a hosted API. The trade-off is substantial hardware, model-format constraints and operational responsibility, so its published compatibility and benchmark tables matter more than the local-AI label alone.",
+  "friendlyWhyItMatters": "Local AI can improve privacy and control. You still need enough memory, supported model files and someone to maintain the system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

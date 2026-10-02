@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_10_a-production-voice-agent-separates-live-conversation-from-consequential-decision_4d14544f",
+  "sourceKind": "article",
+  "sourceName": "Nick Khami",
+  "sourceUrl": "https://www.skeptrune.com/posts/stt-llm-tts-voice-stack-is-dead/",
+  "canonicalUrl": "https://www.skeptrune.com/posts/stt-llm-tts-voice-stack-is-dead",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "A production voice agent separates live conversation from consequential decisions",
+  "friendlyTitle": "This phone agent keeps conversation and important actions separate",
+  "summary": "Call4me’s builder describes relaying telephone audio directly to a realtime speech model, while a separate text model handles tools such as ending calls, pressing keys and asking the user for missing information. The system gathers required details before dialing, verifies promised actions and can bring the user into a live call.",
+  "friendlySummary": "Call4me uses one AI model to speak naturally and another to make decisions or use tools. It collects missing details before calling and can connect the user when needed.",
+  "whyItMatters": "The architecture offers a practical pattern for agent design: use a fast model for natural interaction and a more controlled path for side effects. It also shows that real reliability comes from codecs, recovery, preflight checks and human handoff—not the conversation demo alone.",
+  "friendlyWhyItMatters": "A fast voice can feel natural, but important actions need stronger checks. This split can make voice agents safer and easier to control.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

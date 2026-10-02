@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_08_apple-plans-tighter-full-disk-access-controls-as-desktop-agents-spread_39b9fbb5",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Apple plans tighter Full Disk Access controls as desktop agents spread",
+  "friendlyTitle": "Apple will make broad Mac access safer for AI agents",
+  "summary": "Apple says it will add controls around macOS Full Disk Access because desktop AI agents make broad access to files, mail, messages and browsing history riskier. The change follows reports about agent access and a separate flaw that could have exposed sensitive data through the ChatGPT Mac app.",
+  "friendlySummary": "Apple says AI agents make the Mac’s Full Disk Access permission more risky. That permission can expose files, email, messages and browser history to an app.",
+  "whyItMatters": "A single operating-system permission designed for backup software is too coarse for agents that read context and take actions. Mac users should review which applications have Full Disk Access now, while developers should design for narrower permissions rather than treating unrestricted access as normal.",
+  "friendlyWhyItMatters": "Check which apps have this powerful permission. AI tools should ask only for the information they truly need.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_09_baseten-brings-open-models-into-codex-and-openai-s-responses-api_bca2d1af",
+  "sourceKind": "product",
+  "sourceName": "Baseten",
+  "sourceUrl": "https://www.baseten.co/blog/baseten-openai-partnership/",
+  "canonicalUrl": "https://www.baseten.co/blog/baseten-openai-partnership",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Baseten brings open models into Codex and OpenAI’s Responses API",
+  "friendlyTitle": "Codex will be able to use open models served by Baseten",
+  "summary": "Baseten is joining OpenAI’s business marketplace as an inference provider for open models, with access planned through Codex and the Responses API. Enterprise customers will be able to use existing OpenAI commitments while routing selected coding work to open models served by Baseten.",
+  "friendlySummary": "OpenAI business customers will be able to use some open models through Baseten inside Codex and the Responses API. The cost can use their existing OpenAI agreement.",
+  "whyItMatters": "The integration lowers the administrative friction of mixing closed and open models inside one coding workflow. Teams should still measure quality, latency, data handling and total task cost per model rather than assuming that more routing choices automatically improve a system.",
+  "friendlyWhyItMatters": "Teams can choose a cheaper or better-fit model for each coding task without building a separate connection. They still need to test quality and privacy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

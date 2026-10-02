@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_13_zero-to-mastery-ml-offers-notebooks-for-end-to-end-machine-learning-practice_4846dbde",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/mrdbourke/zero-to-mastery-ml",
+  "canonicalUrl": "https://github.com/mrdbourke/zero-to-mastery-ml",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Zero to Mastery ML offers notebooks for end-to-end machine-learning practice",
+  "friendlyTitle": "Zero to Mastery ML provides practical machine-learning notebooks",
+  "summary": "Zero to Mastery ML provides course notebooks, datasets and projects covering pandas, NumPy, scikit-learn, TensorFlow, structured data and deep learning. The repository has about 7,100 stars and can be opened through Binder or Google Colab.",
+  "friendlySummary": "This open repository teaches data tools, machine learning and deep learning through notebooks and projects. It has about 7,100 GitHub stars.",
+  "whyItMatters": "New practitioners can follow a project-based path from data preparation through model building and communication without assembling a curriculum from scratch. Because some material reflects established rather than newest tooling, pair it with current library documentation.",
+  "friendlyWhyItMatters": "Use it for a clear learning path and hands-on practice. Check the latest library documents when commands or tools have changed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-03"
+  },
+  "howItsUseful": "New practitioners can follow a project-based path from data preparation through model building and communication without assembling a curriculum from scratch. Because some material reflects established rather than newest tooling, pair it with current library documentation.",
+  "friendlyHowItsUseful": "Use it for a clear learning path and hands-on practice. Check the latest library documents when commands or tools have changed."
+}

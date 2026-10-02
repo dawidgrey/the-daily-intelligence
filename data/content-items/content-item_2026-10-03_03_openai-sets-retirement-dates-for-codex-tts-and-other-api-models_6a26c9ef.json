@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_03_openai-sets-retirement-dates-for-codex-tts-and-other-api-models_6a26c9ef",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://developers.openai.com/api/docs/deprecations",
+  "canonicalUrl": "https://developers.openai.com/api/docs/deprecations",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "OpenAI sets retirement dates for Codex, TTS and other API models",
+  "friendlyTitle": "Several OpenAI models now have shutdown dates",
+  "summary": "OpenAI will remove GPT-5.3-Codex, GPT-5.4-Nano and GPT-5.1 from its API on April 1, 2027, and several text-to-speech models on January 6, 2027. The company recommends GPT-6 Sol or Luna for the text models and GPT Realtime 2.1 Mini for the retiring speech models.",
+  "friendlySummary": "OpenAI will remove some Codex, general AI and voice models in early 2027. It has listed replacement models for developers to test.",
+  "whyItMatters": "Applications tied to model names can fail on a fixed date even when their own code has not changed. Owners should inventory production dependencies, test replacements against real acceptance criteria and schedule migrations well before shutdown.",
+  "friendlyWhyItMatters": "An app can stop working when its model disappears. Check which models you use and test replacements before the final date.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_05_autosynthdata-turns-agent-failures-into-verified-training-tasks_a885ed61",
+  "sourceKind": "research",
+  "sourceName": "ServiceNow AI on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "canonicalUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "AutoSynthData turns agent failures into verified training tasks",
+  "friendlyTitle": "AutoSynthData creates training examples from an agent’s mistakes",
+  "summary": "ServiceNow researchers introduced AutoSynthData, a pipeline that finds where an enterprise agent fails, uses a stronger teacher to characterize the gap, and generates new tasks with executable verifiers. The curriculum changes as the target model improves, while generated tasks must remain feasible, realistic and independently checkable.",
+  "friendlySummary": "ServiceNow built a process that studies where an agent fails and creates more realistic tasks to practise that skill. Each task includes a way to check whether the agent succeeded.",
+  "whyItMatters": "Organizations often have too few examples of their most important agent failures to improve a model safely. A verified synthetic-data loop can expand those examples without merely copying evaluation prompts, though weak verifiers can still train the wrong behaviour.",
+  "friendlyWhyItMatters": "A business can improve an agent on its own difficult work. The checks must be strong, because a bad check can reward a wrong answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-03"
+  }
+}

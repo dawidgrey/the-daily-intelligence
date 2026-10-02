@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-01T20:03:54Z",
+  "generatedAtUtc": "2026-10-02T20:06:17Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-03",
+      "slug": "2026-10-03",
+      "status": "published",
+      "publicationDateUtc": "2026-10-02T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Frontier models meet the realities of access, control and deployment",
+      "friendlyHeader": "More capable AI also needs better controls",
+      "summary": "Today’s issue follows Gemini 4 Argon into long-horizon work, practical lessons from AI-assisted science, and a growing set of controls around models and agents. It also covers local inference, enterprise training, synthetic agent data, multi-model coding, realtime voice systems and three open-source learning projects trending with developers.",
+      "friendlySummary": "Today we look at Google’s new model, a practical way to use AI in science, and stronger controls for AI agents. We also cover local AI, model changes, staff training, voice tools and three popular learning projects on GitHub.",
+      "itemCount": 13,
+      "href": "issues/2026-10-03.html",
+      "dataUrl": "data/daily-publications/2026-10-03.json"
+    },
     {
       "id": "daily-publication_2026-10-02",
       "slug": "2026-10-02",

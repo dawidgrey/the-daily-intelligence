@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-03_12_agentic-ai-course-repository-collects-runnable-multi-framework-examples_e83f207e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/ed-donner/agents",
+  "canonicalUrl": "https://github.com/ed-donner/agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-02T20:06:17Z",
+  "createdAtUtc": "2026-10-02T20:06:17Z",
+  "updatedAtUtc": "2026-10-02T20:06:17Z",
+  "title": "Agentic AI course repository collects runnable multi-framework examples",
+  "friendlyTitle": "This course repo teaches several ways to build AI agents",
+  "summary": "Ed Donner’s MIT-licensed course repository contains notebooks and projects spanning OpenAI tools, CrewAI, LangGraph, MCP and multi-agent patterns, including options for local models through Ollama. The active project has about 6,300 stars and 5,500 forks.",
+  "friendlySummary": "The repository has practical lessons for OpenAI tools, CrewAI, LangGraph, MCP and local models. It has about 6,300 stars and many community forks.",
+  "whyItMatters": "Learners can compare several agent frameworks through working examples instead of committing to one abstraction too early. Run examples in an isolated environment, monitor API spending and use the code as teaching material rather than a production security baseline.",
+  "friendlyWhyItMatters": "Use it to compare agent frameworks by building examples. Watch API costs and review security before copying code into a real product.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-03"
+  },
+  "howItsUseful": "Learners can compare several agent frameworks through working examples instead of committing to one abstraction too early. Run examples in an isolated environment, monitor API spending and use the code as teaching material rather than a production security baseline.",
+  "friendlyHowItsUseful": "Use it to compare agent frameworks by building examples. Watch API costs and review security before copying code into a real product."
+}
