@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_10_a-new-journal-creates-a-dedicated-home-for-research-on-writing-and-ai_22e94e6a",
+  "sourceKind": "article",
+  "sourceName": "The Journal of Writing and Artificial Intelligence",
+  "sourceUrl": "https://www.jwai.org",
+  "canonicalUrl": "https://www.jwai.org",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "A new journal creates a dedicated home for research on writing and AI",
+  "friendlyTitle": "A new journal will study how AI changes writing",
+  "summary": "The Journal of Writing and Artificial Intelligence has opened as a publication focused on the intersection of AI with academic and professional writing. It is inviting submissions for a field now spanning authorship, teaching, assessment, workplace practice and tool design.",
+  "friendlySummary": "The Journal of Writing and Artificial Intelligence is accepting work about AI in academic and professional writing.",
+  "whyItMatters": "Writing tools are changing faster than shared standards for evidence, disclosure and evaluation. A specialist venue can help practitioners follow sustained research rather than relying on product demonstrations, although its editorial record will need to establish itself over time.",
+  "friendlyWhyItMatters": "We need evidence about how AI affects writing, learning and work. This journal could collect that research, but readers should judge its quality as it develops.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

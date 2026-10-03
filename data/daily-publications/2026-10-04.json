@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-04",
+  "slug": "2026-10-04",
+  "status": "published",
+  "publicationDateUtc": "2026-10-03T20:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Access, evidence and control shape the next phase of AI",
+  "friendlyHeader": "New AI tools bring useful choices and new checks",
+  "summary": "Today’s issue covers a new open-weight European model, changing Gemini access, a grounded estimate of where robots can compete, and fresh scrutiny of model security. It also looks at AI-assisted medicine, writing, code review and vulnerability research, plus three popular open-source projects for agent memory, production RAG and agent platforms.",
+  "friendlySummary": "Today we look at a new open AI model, changes to Gemini, what robots can really do, and stronger checks on AI security. We also cover health questions, writing, code review and three popular AI projects on GitHub.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-04_01_aleph-alpha-releases-kolibri-a-bilingual-open-weight-reasoning-model_2b2041c9",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_02_anthropic-finds-robots-can-do-many-physical-tasks-but-rarely-beat-human-cost_fb6067b5",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_03_google-changes-which-gemini-models-personal-accounts-can-access_5b4c0c36",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_04_california-subpoenas-openai-over-cybersecurity-incidents-and-model-risks_6b789557",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_05_researchers-examine-whether-automated-ai-development-could-compress-years-of-pro_e8563f20",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_06_university-of-chicago-sets-out-a-case-for-practising-writing-without-ai_47542ba8",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_07_a-family-s-ai-assisted-fertility-story-shows-both-value-and-danger-in-persistent_7d102ed4",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_08_ai-security-agent-finds-a-root-access-flaw-hidden-behind-a-403-response_3aba74bd",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_09_vetoo-launches-multi-model-code-review-focused-on-fewer-higher-confidence-findin_12e257be",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_10_a-new-journal-creates-a-dedicated-home-for-research-on-writing-and-ai_22e94e6a",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_11_claude-mem-brings-persistent-searchable-context-to-coding-agents_b8da1063",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_12_production-agentic-rag-course-packages-a-seven-week-retrieval-stack_2df8df67",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-04_13_agno-provides-an-open-framework-for-building-and-operating-agent-platforms_44378d00",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-04.json",
+    "itemCount": 13
+  }
+}

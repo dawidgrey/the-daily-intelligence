@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-02T20:06:17Z",
+  "generatedAtUtc": "2026-10-03T20:06:23Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-04",
+      "slug": "2026-10-04",
+      "status": "published",
+      "publicationDateUtc": "2026-10-03T20:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Access, evidence and control shape the next phase of AI",
+      "friendlyHeader": "New AI tools bring useful choices and new checks",
+      "summary": "Today’s issue covers a new open-weight European model, changing Gemini access, a grounded estimate of where robots can compete, and fresh scrutiny of model security. It also looks at AI-assisted medicine, writing, code review and vulnerability research, plus three popular open-source projects for agent memory, production RAG and agent platforms.",
+      "friendlySummary": "Today we look at a new open AI model, changes to Gemini, what robots can really do, and stronger checks on AI security. We also cover health questions, writing, code review and three popular AI projects on GitHub.",
+      "itemCount": 13,
+      "href": "issues/2026-10-04.html",
+      "dataUrl": "data/daily-publications/2026-10-04.json"
+    },
     {
       "id": "daily-publication_2026-10-03",
       "slug": "2026-10-03",

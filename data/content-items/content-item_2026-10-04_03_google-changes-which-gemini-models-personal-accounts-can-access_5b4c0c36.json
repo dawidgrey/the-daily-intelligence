@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_03_google-changes-which-gemini-models-personal-accounts-can-access_5b4c0c36",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://support.google.com/gemini/answer/17004136?hl=en",
+  "canonicalUrl": "https://support.google.com/gemini/answer/17004136",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Google changes which Gemini models personal accounts can access",
+  "friendlyTitle": "Free and paid Gemini users will get different models",
+  "summary": "From October 9, personal Gemini users without a paid plan will have Flash-Lite but not Flash or Pro; AI Plus adds Flash, while AI Pro and Ultra retain all three. Available models also gain low, medium and high effort settings, with higher effort consuming more of a user’s allowance.",
+  "friendlySummary": "Google is changing Gemini access from October 9. Free users get Flash-Lite, while higher paid plans unlock Flash, Pro and stronger reasoning options.",
+  "whyItMatters": "People who rely on a particular Gemini model for routine work may see its availability change even though the app remains the same. Check the model shown in the interface, and compare the cost of a plan with the value of the workflows that need the more capable tiers.",
+  "friendlyWhyItMatters": "Your usual Gemini results may change if the app moves you to another model. Check which model you have before paying or changing an important workflow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_02_anthropic-finds-robots-can-do-many-physical-tasks-but-rarely-beat-human-cost_fb6067b5",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+  "canonicalUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Anthropic finds robots can do many physical tasks but rarely beat human cost",
+  "friendlyTitle": "Robots can do many tasks, but people are still cheaper for almost all of them",
+  "summary": "Anthropic’s robot exposure index estimates that current robots can perform 74% of physical US job tasks, usually in controlled settings, but are cost-competitive for only 0.3% of tasks. Driving and warehouse work rank as more exposed than nursing and general repair, where unpredictable environments and dexterity remain major barriers.",
+  "friendlySummary": "Anthropic estimates that robots can perform many physical tasks in the right setting. Today, they cost less than people for only a very small share of work.",
+  "whyItMatters": "Capability demos do not tell a business whether automation is economical in its real workplace. Teams evaluating robotics should model the environment, reliability and full operating cost task by task rather than treating a technically possible action as a deployable replacement.",
+  "friendlyWhyItMatters": "A robot demo is not a business case. Check the real workplace, reliability and total cost before deciding to automate a task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

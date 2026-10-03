@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_08_ai-security-agent-finds-a-root-access-flaw-hidden-behind-a-403-response_3aba74bd",
+  "sourceKind": "article",
+  "sourceName": "Vulnetic",
+  "sourceUrl": "https://www.vulnetic.ai/blog/groovygate-rce-root-access-despite-a-403",
+  "canonicalUrl": "https://www.vulnetic.ai/blog/groovygate-rce-root-access-despite-a-403",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "AI security agent finds a root-access flaw hidden behind a 403 response",
+  "friendlyTitle": "An AI security tool found that a rejected request could still run code as root",
+  "summary": "Vulnetic reports that its Sable agent found a OneDev vulnerability where server-side validation compiled attacker-controlled Groovy before an administrator check ran. A low-privilege request received a 403 response yet could still execute code as root, and the researchers say they reported the issue to maintainers.",
+  "friendlySummary": "Vulnetic’s agent found a flaw in OneDev. The server said access was denied, but it had already processed dangerous code before checking permission.",
+  "whyItMatters": "A rejected HTTP response does not prove that nothing happened behind it. Security reviews should trace validation and deserialization that run before authorization, while AI-generated findings still need controlled reproduction and coordinated disclosure by people.",
+  "friendlyWhyItMatters": "Security teams should check what a server does before it rejects a request. AI can help find the path, but people must verify and report the flaw safely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

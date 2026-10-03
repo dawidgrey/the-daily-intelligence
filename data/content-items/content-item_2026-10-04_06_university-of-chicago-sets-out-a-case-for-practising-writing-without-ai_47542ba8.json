@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_06_university-of-chicago-sets-out-a-case-for-practising-writing-without-ai_47542ba8",
+  "sourceKind": "research",
+  "sourceName": "University of Chicago",
+  "sourceUrl": "https://provost.uchicago.edu/sites/default/files/2026-09/WritingWithoutAIPrinciplesandRecommendations.pdf",
+  "canonicalUrl": "https://provost.uchicago.edu/sites/default/files/2026-09/WritingWithoutAIPrinciplesandRecommendations.pdf",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "University of Chicago sets out a case for practising writing without AI",
+  "friendlyTitle": "The University of Chicago says people still need to write without AI",
+  "summary": "A University of Chicago advisory group published principles and recommendations for writing without artificial intelligence after the university made Claude Enterprise available. The document places deliberate unaided writing alongside institutional access to AI rather than treating adoption as an all-or-nothing choice.",
+  "friendlySummary": "A university group published advice about protecting unaided writing even while students and staff can use Claude Enterprise.",
+  "whyItMatters": "AI can improve drafting while quietly reducing the practice that develops reasoning, memory and an individual voice. A practical workflow can reserve some first drafts, reflection and assessment for unaided writing, then use AI for clearly bounded feedback or revision.",
+  "friendlyWhyItMatters": "AI can help with a draft, but writing also helps us think. Keep some writing for yourself and give AI a clear, limited role.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

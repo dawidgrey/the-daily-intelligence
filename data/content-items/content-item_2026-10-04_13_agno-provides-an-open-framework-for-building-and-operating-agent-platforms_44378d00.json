@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_13_agno-provides-an-open-framework-for-building-and-operating-agent-platforms_44378d00",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/agno-agi/agno",
+  "canonicalUrl": "https://github.com/agno-agi/agno",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Agno provides an open framework for building and operating agent platforms",
+  "friendlyTitle": "Agno helps teams build and run AI agent systems",
+  "summary": "Agno is an Apache-2.0 Python framework for agents, teams and workflows with memory, knowledge, guardrails, evaluation, monitoring and deployment features. The actively developed project is one of today’s prominent AI repositories and has about 42,500 stars and 6,100 forks.",
+  "friendlySummary": "Agno is an open Python framework for agents, workflows, memory, testing and monitoring. It has about 42,500 GitHub stars.",
+  "whyItMatters": "Teams can prototype an agent and carry more of the same structure into a monitored service rather than stitching every operational layer together. Its broad surface area makes a small proof of concept, explicit tool permissions and framework-upgrade tests more sensible than adopting every feature at once.",
+  "friendlyWhyItMatters": "Use it to test an agent platform without building every part yourself. Start small, limit tool permissions and test upgrades carefully.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-04"
+  },
+  "howItsUseful": "Teams can prototype an agent and carry more of the same structure into a monitored service rather than stitching every operational layer together. Its broad surface area makes a small proof of concept, explicit tool permissions and framework-upgrade tests more sensible than adopting every feature at once.",
+  "friendlyHowItsUseful": "Use it to test an agent platform without building every part yourself. Start small, limit tool permissions and test upgrades carefully."
+}

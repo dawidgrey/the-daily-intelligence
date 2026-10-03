@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_12_production-agentic-rag-course-packages-a-seven-week-retrieval-stack_2df8df67",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/jamwithai/production-agentic-rag-course",
+  "canonicalUrl": "https://github.com/jamwithai/production-agentic-rag-course",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Production Agentic RAG course packages a seven-week retrieval stack",
+  "friendlyTitle": "This course teaches how to build a serious RAG system",
+  "summary": "This MIT-licensed course repository builds from document ingestion and hybrid search to evaluation, observability and LangGraph-based agentic retrieval, with notebooks, services and tests. It is among today’s trending AI repositories and has about 9,400 stars and 2,100 forks.",
+  "friendlySummary": "The open course covers document search, evaluation, monitoring and agent-based retrieval with working notebooks and code. It has about 9,400 GitHub stars.",
+  "whyItMatters": "Learners can follow one connected implementation instead of assembling isolated RAG tutorials, while experienced teams can inspect its component choices and tests as a reference architecture. Run it in an isolated environment and update dependencies before treating course code as a production baseline.",
+  "friendlyWhyItMatters": "Use it as a guided project or architecture example. Update and secure the code before using it with real business data.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-04"
+  },
+  "howItsUseful": "Learners can follow one connected implementation instead of assembling isolated RAG tutorials, while experienced teams can inspect its component choices and tests as a reference architecture. Run it in an isolated environment and update dependencies before treating course code as a production baseline.",
+  "friendlyHowItsUseful": "Use it as a guided project or architecture example. Update and secure the code before using it with real business data."
+}

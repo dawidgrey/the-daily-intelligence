@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_01_aleph-alpha-releases-kolibri-a-bilingual-open-weight-reasoning-model_2b2041c9",
+  "sourceKind": "product",
+  "sourceName": "Aleph Alpha on Hugging Face",
+  "sourceUrl": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+  "canonicalUrl": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Aleph Alpha releases Kolibri, a bilingual open-weight reasoning model",
+  "friendlyTitle": "Kolibri is a new open AI model for German and English",
+  "summary": "Aleph Alpha released Kolibri 1 under Apache 2.0, a 78-billion-parameter mixture-of-experts model that activates 3.46 billion parameters per token. It supports German and English, reasoning, tool calling and contexts up to one million tokens, although the model card recommends 262,144 tokens or less for efficient and complex work.",
+  "friendlySummary": "Aleph Alpha released a model that can reason, use tools and read very long documents. Its weights are open under the Apache 2.0 licence.",
+  "whyItMatters": "Kolibri gives organizations another option for running long-context and agent workflows on infrastructure they control, particularly for German-language work. Its roughly 78 GB weight footprint and substantial accelerator requirements mean this is an enterprise deployment choice, not a casual local model.",
+  "friendlyWhyItMatters": "Organizations can run it on their own systems for more control. It needs powerful and expensive hardware, so it is mainly suited to serious deployments.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

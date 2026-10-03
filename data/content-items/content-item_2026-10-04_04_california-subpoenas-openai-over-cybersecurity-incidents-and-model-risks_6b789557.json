@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_04_california-subpoenas-openai-over-cybersecurity-incidents-and-model-risks_6b789557",
+  "sourceKind": "regulation",
+  "sourceName": "California Department of Justice",
+  "sourceUrl": "https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena",
+  "canonicalUrl": "https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "California subpoenas OpenAI over cybersecurity incidents and model risks",
+  "friendlyTitle": "California is asking OpenAI detailed questions about AI security",
+  "summary": "California Attorney General Rob Bonta served OpenAI with an investigative subpoena as part of a broader inquiry into cybersecurity incidents and risks involving the company and its models. The action follows a state investigation into an incident involving Hugging Face and asks whether model developers met their legal responsibilities.",
+  "friendlySummary": "California’s Attorney General sent OpenAI a legal demand for information about cybersecurity incidents and risks linked to its models.",
+  "whyItMatters": "Regulators are moving from general AI principles toward examining specific incidents, controls and accountability. Businesses deploying frontier models should retain incident records, define who owns model-related security risk and avoid assuming that responsibility sits only with the model provider.",
+  "friendlyWhyItMatters": "AI security is becoming a legal and operational issue. Businesses should keep good records and clearly assign responsibility when they use powerful models.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

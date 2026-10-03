@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_07_a-family-s-ai-assisted-fertility-story-shows-both-value-and-danger-in-persistent_7d102ed4",
+  "sourceKind": "article",
+  "sourceName": "Astral Codex Ten",
+  "sourceUrl": "https://www.astralcodexten.com/p/our-ai-midwife",
+  "canonicalUrl": "https://www.astralcodexten.com/p/our-ai-midwife",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "A family’s AI-assisted fertility story shows both value and danger in persistent questioning",
+  "friendlyTitle": "One family used AI to ask better fertility questions—but it also made mistakes",
+  "summary": "In a guest essay, Drew Housman recounts using ChatGPT to explore questions during years of infertility treatment; a suggestion to discuss an MRI with clinicians led to the discovery of a fibroid. The account also describes false statements from the model and is one family’s experience, not clinical evidence that a chatbot can diagnose safely.",
+  "friendlySummary": "A family says ChatGPT suggested a question that helped doctors find a fibroid after years of treatment. The chatbot also gave wrong answers, and this is one personal story.",
+  "whyItMatters": "AI can help patients prepare questions and navigate limited appointment time, but a compelling success story can hide false positives, unnecessary testing and unequal access. Use it to organize concerns and ask a qualified clinician, not to interpret a scan or make a medical decision on its own.",
+  "friendlyWhyItMatters": "AI can help you prepare questions for a doctor. Do not let it diagnose you or make an important health decision by itself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}

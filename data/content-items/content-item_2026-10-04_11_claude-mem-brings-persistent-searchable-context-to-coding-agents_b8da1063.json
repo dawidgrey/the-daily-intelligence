@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_11_claude-mem-brings-persistent-searchable-context-to-coding-agents_b8da1063",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/thedotmack/claude-mem",
+  "canonicalUrl": "https://github.com/thedotmack/claude-mem",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Claude-Mem brings persistent, searchable context to coding agents",
+  "friendlyTitle": "Claude-Mem helps coding agents remember work between sessions",
+  "summary": "Claude-Mem is an Apache-2.0 project that captures agent activity, compresses it and retrieves relevant context in later sessions across tools including Claude Code, Codex, Gemini, Hermes and Copilot. It leads today’s AI-related trending candidates with about 95,500 stars and 8,500 forks.",
+  "friendlySummary": "This popular open-source project saves and searches useful context for many coding agents. It has about 95,500 GitHub stars.",
+  "whyItMatters": "Developers can use it to reduce repeated explanations and make long-running coding work easier to resume. Because persistent memory can retain sensitive prompts, code and mistakes, review its storage, retention and retrieval behaviour before connecting important repositories.",
+  "friendlyWhyItMatters": "Use it when you are tired of explaining the same project again. Check what it stores and protect private code before turning it on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-04"
+  },
+  "howItsUseful": "Developers can use it to reduce repeated explanations and make long-running coding work easier to resume. Because persistent memory can retain sensitive prompts, code and mistakes, review its storage, retention and retrieval behaviour before connecting important repositories.",
+  "friendlyHowItsUseful": "Use it when you are tired of explaining the same project again. Check what it stores and protect private code before turning it on."
+}

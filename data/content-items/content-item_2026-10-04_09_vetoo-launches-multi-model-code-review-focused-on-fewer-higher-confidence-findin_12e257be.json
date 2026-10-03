@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-04_09_vetoo-launches-multi-model-code-review-focused-on-fewer-higher-confidence-findin_12e257be",
+  "sourceKind": "product",
+  "sourceName": "Vetoo",
+  "sourceUrl": "https://vetoo.dev",
+  "canonicalUrl": "https://vetoo.dev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-03T20:06:23Z",
+  "createdAtUtc": "2026-10-03T20:06:23Z",
+  "updatedAtUtc": "2026-10-03T20:06:23Z",
+  "title": "Vetoo launches multi-model code review focused on fewer, higher-confidence findings",
+  "friendlyTitle": "Vetoo uses several AI models to review pull requests",
+  "summary": "Vetoo is an AI code-review service for GitHub and GitLab that runs pull requests through several models, consolidates their findings and comments inline. It can draw context from related repositories, Notion and Linear, and says review code is deleted when the review ends.",
+  "friendlySummary": "Vetoo reviews GitHub and GitLab changes, combines several model opinions and leaves bug or security comments inside the pull request.",
+  "whyItMatters": "As coding agents increase pull-request volume, review quality and queue time become the constraint. Teams testing Vetoo or similar tools should measure confirmed defect yield, false-positive burden, data handling and whether human reviewers still understand the changes they approve.",
+  "friendlyWhyItMatters": "AI can reduce a growing review queue, but teams should count useful findings and false alarms. A person should still understand the code before approving it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-04"
+  }
+}
