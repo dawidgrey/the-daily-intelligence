@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_02_ai2-open-sources-astabrief-for-faster-cited-research-reports_d599f0a2",
+  "sourceKind": "research",
+  "sourceName": "Allen Institute for AI",
+  "sourceUrl": "https://huggingface.co/blog/allenai/astabrief",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/astabrief",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "Ai2 open-sources AstaBrief for faster cited research reports",
+  "friendlyTitle": "A smaller open model writes cited research reports",
+  "summary": "Ai2 released AstaBrief 8B, an open-weights model that turns research questions and retrieved literature into cited reports. Built from Qwen3-8B, it powers Asta’s Fast mode and is released with training data and an example workflow for reports from local PDFs.",
+  "friendlySummary": "AstaBrief 8B can turn a question and research papers into a report with citations. Ai2 has shared the model, training data and a workflow for using your own PDF files.",
+  "whyItMatters": "The release offers researchers a smaller model they can run on their own infrastructure when questions or source documents are sensitive. Ai2 reports a 51.1-second average for Fast mode versus 178.5 seconds for its Claude-powered Thinking mode, while noting that its comparisons reflect the models available during evaluation.",
+  "friendlyWhyItMatters": "Researchers can make reports faster and keep sensitive work on their own computers or servers. The citations also make the result easier to check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}

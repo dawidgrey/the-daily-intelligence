@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_08_anchor-terminal-ranks-tools-by-how-usable-they-are-for-agents_e582d5ec",
+  "sourceKind": "product",
+  "sourceName": "Anchor Terminal",
+  "sourceUrl": "https://www.anchorterminal.com/tools/",
+  "canonicalUrl": "https://www.anchorterminal.com/tools/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "Anchor Terminal ranks tools by how usable they are for agents",
+  "friendlyTitle": "A directory compares tools that AI agents can use",
+  "summary": "Anchor Terminal published a searchable directory covering 462 agent-facing tools across models, sandboxes, data, payments, communications and business software. Its rankings draw on public evidence about documentation, pricing, authentication, security and service history, with performance testing still incomplete.",
+  "friendlySummary": "Anchor Terminal lists and scores hundreds of tools for AI agents. It compares things such as setup, security, price, documentation and reliability history.",
+  "whyItMatters": "Choosing an agent tool involves more than feature lists: authentication, schemas, status history and context cost can decide whether automation works reliably. The directory is a useful shortlist, provided readers treat its methodology and unfinished probe data as part of the result.",
+  "friendlyWhyItMatters": "The directory can help builders make a shorter list before testing tools themselves. Some performance tests are not finished yet, so the scores are a guide, not a final answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}

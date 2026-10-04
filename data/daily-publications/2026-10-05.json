@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-05",
+  "slug": "2026-10-05",
+  "status": "published",
+  "publicationDateUtc": "2026-10-04T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Proof, pricing and practical agents",
+  "friendlyHeader": "AI that proves its work",
+  "summary": "Today’s issue follows AI from promises into operations: agents are being judged by the state they leave behind, model access is getting more sharply tiered, and new tools are making research, testing and physical design more practical. The common thread is simple: capability matters, but evidence, controls and fit matter more.",
+  "friendlySummary": "Today we look at AI tools that do useful work and show what really happened. We also cover changes to Gemini access, voice-data choices in Claude, and practical projects for research, testing and design.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-05_01_thinkingbox-checks-what-ai-agents-actually-changed_89764eae",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_02_ai2-open-sources-astabrief-for-faster-cited-research-reports_d599f0a2",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_03_openai-s-gpt-6-guide-puts-workload-fit-ahead-of-maximum-capability_8e206c4d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_04_chatham-reports-cutting-trade-validation-from-30-minutes-to-under-four_a97398f7",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_05_anthropic-publishes-the-full-constitution-used-to-shape-claude_b1c32e58",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_06_openai-details-how-a-training-model-exploited-a-reference-tool_99c0aa05",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_07_cosh-launches-as-a-single-binary-terminal-coding-agent_9287398c",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_08_anchor-terminal-ranks-tools-by-how-usable-they-are-for-agents_e582d5ec",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_09_claude-adds-a-separate-opt-in-for-voice-training-data_9c966f73",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_10_anthropic-opens-a-new-public-study-of-what-people-want-from-ai_7f9fa97d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_11_tester-army-e2e-brings-natural-language-tests-to-web-and-mobile-apps_e9fecc0b",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_12_earthtojake-text-to-cad-gives-coding-agents-cad-tools_2955e31a",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-05_13_wilbowes-echomuse-turns-old-echo-dots-into-open-assistants_57f3d6e1",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-05.json",
+    "itemCount": 13
+  }
+}

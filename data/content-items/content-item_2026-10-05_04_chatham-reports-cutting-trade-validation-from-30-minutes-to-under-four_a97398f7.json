@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_04_chatham-reports-cutting-trade-validation-from-30-minutes-to-under-four_a97398f7",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and Chatham Financial",
+  "sourceUrl": "https://openai.com/index/chatham-financial",
+  "canonicalUrl": "https://openai.com/index/chatham-financial",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "Chatham reports cutting trade validation from 30 minutes to under four",
+  "friendlyTitle": "AI helps experts check trades much faster",
+  "summary": "Chatham Financial says a Codex-built application gathers transaction evidence, compares key terms and flags discrepancies, reducing early trade-validation reviews from about 30 minutes to under four. The firm is comparing results with experienced reviewers before expanding the automation.",
+  "friendlySummary": "Chatham Financial built a tool that collects evidence and checks trade details. The company says an early review now takes under four minutes instead of about 30.",
+  "whyItMatters": "This is a useful pattern for high-stakes office work: automate evidence gathering and structured comparison while keeping expert review and auditability. The reported time saving is meaningful, but it is a company case study rather than an independent evaluation.",
+  "friendlyWhyItMatters": "AI can remove slow preparation work while people still review important financial decisions. The company is testing the tool against experienced staff before using it more widely.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}

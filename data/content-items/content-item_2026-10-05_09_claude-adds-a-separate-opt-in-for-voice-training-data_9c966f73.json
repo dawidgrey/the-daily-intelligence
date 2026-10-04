@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_09_claude-adds-a-separate-opt-in-for-voice-training-data_9c966f73",
+  "sourceKind": "article",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+  "credit": "@testingcatalog",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "Claude adds a separate opt-in for voice-training data",
+  "friendlyTitle": "Claude asks separately before using voice chats for training",
+  "summary": "Claude users are seeing a separate privacy prompt asking whether Anthropic may use audio recordings and voice-chat data to improve its models. The option is reported as off by default, independent of chat and coding-session training, and can be changed or deleted through privacy settings.",
+  "friendlySummary": "Claude now has a separate choice for sharing voice recordings to improve AI models. Reports say the setting starts off and can be changed later.",
+  "whyItMatters": "Voice recordings can contain more personal context than typed prompts, so a separate consent control is useful. Claude voice users should check Settings > Privacy and make an explicit choice rather than assuming their text-data preference also covers audio.",
+  "friendlyWhyItMatters": "Voice can contain very personal information. If you use Claude voice, check the privacy setting and choose what you are comfortable sharing.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}

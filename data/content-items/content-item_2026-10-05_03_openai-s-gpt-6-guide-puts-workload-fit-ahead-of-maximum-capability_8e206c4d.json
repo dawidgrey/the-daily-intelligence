@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_03_openai-s-gpt-6-guide-puts-workload-fit-ahead-of-maximum-capability_8e206c4d",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+  "canonicalUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "OpenAI’s GPT-6 guide puts workload fit ahead of maximum capability",
+  "friendlyTitle": "How to choose the right GPT-6 model for a job",
+  "summary": "OpenAI published a production guide for choosing among GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, with advice on reasoning effort, latency, prompt caching, compaction and long-running agent workflows. The guide recommends measuring task success, latency and cost per successful task rather than defaulting to the largest model.",
+  "friendlySummary": "OpenAI explains when to use its strongest, middle and faster GPT-6 models. It also covers ways to reduce cost and keep long AI jobs on track.",
+  "whyItMatters": "For builders, model selection is now an operating decision rather than a leaderboard decision. Matching capability and reasoning effort to the job can reduce cost and delay while keeping stronger models available for the work that needs them.",
+  "friendlyWhyItMatters": "The biggest model is not always the best choice. A smaller model can be quicker and cheaper for clear, repeated tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-01T20:03:53Z",
+  "generatedAtUtc": "2026-10-04T20:03:17Z",
   "items": [
     {
-      "id": "content-item_2026-10-02_01_ftc-opens-investigation-into-risks-from-leading-ai-products_ce92721a",
-      "sourceKind": "regulation",
-      "sourceName": "CNBC",
-      "title": "FTC opens investigation into risks from leading AI products",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+      "id": "content-item_2026-10-05_01_thinkingbox-checks-what-ai-agents-actually-changed_89764eae",
+      "sourceKind": "research",
+      "sourceName": "Microsoft and Hugging Face",
+      "title": "ThinkingBox checks what AI agents actually changed",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox"
     },
     {
-      "id": "content-item_2026-10-02_02_paradedb-closes-a-postgres-search-performance-gap_d270242d",
+      "id": "content-item_2026-10-05_02_ai2-open-sources-astabrief-for-faster-cited-research-reports_d599f0a2",
+      "sourceKind": "research",
+      "sourceName": "Allen Institute for AI",
+      "title": "Ai2 open-sources AstaBrief for faster cited research reports",
+      "sourceUrl": "https://huggingface.co/blog/allenai/astabrief"
+    },
+    {
+      "id": "content-item_2026-10-05_03_openai-s-gpt-6-guide-puts-workload-fit-ahead-of-maximum-capability_8e206c4d",
       "sourceKind": "article",
-      "sourceName": "ParadeDB",
-      "title": "ParadeDB closes a Postgres search performance gap",
-      "sourceUrl": "https://www.paradedb.com/blog/opening-a-closed-tin"
+      "sourceName": "OpenAI",
+      "title": "OpenAI’s GPT-6 guide puts workload fit ahead of maximum capability",
+      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6"
     },
     {
-      "id": "content-item_2026-10-02_03_openai-and-america-s-sbdc-launch-practical-ai-training-for-small-busines_b5e5e434",
+      "id": "content-item_2026-10-05_04_chatham-reports-cutting-trade-validation-from-30-minutes-to-under-four_a97398f7",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI and America’s SBDC launch practical AI training for small businesses",
-      "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      "sourceName": "OpenAI and Chatham Financial",
+      "title": "Chatham reports cutting trade validation from 30 minutes to under four",
+      "sourceUrl": "https://openai.com/index/chatham-financial"
     },
     {
-      "id": "content-item_2026-10-02_04_safeway-brings-meal-planning-and-cart-building-into-chatgpt_a80484c2",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "Safeway brings meal planning and cart building into ChatGPT",
-      "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail"
+      "id": "content-item_2026-10-05_05_anthropic-publishes-the-full-constitution-used-to-shape-claude_b1c32e58",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic publishes the full constitution used to shape Claude",
+      "sourceUrl": "https://www.anthropic.com/constitution"
     },
     {
-      "id": "content-item_2026-10-02_05_openai-details-a-coordinated-attempt-to-extract-hidden-model-reasoning_6a91381a",
+      "id": "content-item_2026-10-05_06_openai-details-how-a-training-model-exploited-a-reference-tool_99c0aa05",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI details a coordinated attempt to extract hidden model reasoning",
-      "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      "sourceName": "OpenAI Alignment",
+      "title": "OpenAI details how a training model exploited a reference tool",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/"
     },
     {
-      "id": "content-item_2026-10-02_06_ai2-releases-olmo-core-3-for-scaling-open-mixture-of-experts-training_0bf00b70",
+      "id": "content-item_2026-10-05_07_cosh-launches-as-a-single-binary-terminal-coding-agent_9287398c",
+      "sourceKind": "product",
+      "sourceName": "Cosh",
+      "title": "Cosh launches as a single-binary terminal coding agent",
+      "sourceUrl": "https://www.co-sh.com"
+    },
+    {
+      "id": "content-item_2026-10-05_08_anchor-terminal-ranks-tools-by-how-usable-they-are-for-agents_e582d5ec",
+      "sourceKind": "product",
+      "sourceName": "Anchor Terminal",
+      "title": "Anchor Terminal ranks tools by how usable they are for agents",
+      "sourceUrl": "https://www.anchorterminal.com/tools/"
+    },
+    {
+      "id": "content-item_2026-10-05_09_claude-adds-a-separate-opt-in-for-voice-training-data_9c966f73",
+      "sourceKind": "article",
+      "sourceName": "BleepingComputer",
+      "title": "Claude adds a separate opt-in for voice-training data",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
+    },
+    {
+      "id": "content-item_2026-10-05_10_anthropic-opens-a-new-public-study-of-what-people-want-from-ai_7f9fa97d",
       "sourceKind": "research",
-      "sourceName": "Ai2 via Hugging Face",
-      "title": "Ai2 releases Olmo-core 3 for scaling open mixture-of-experts training",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmocore3"
+      "sourceName": "Anthropic",
+      "title": "Anthropic opens a new public study of what people want from AI",
+      "sourceUrl": "https://www.anthropic.com/research/your-thoughts-on-ai"
     },
     {
-      "id": "content-item_2026-10-02_07_hugging-face-launches-an-open-multilingual-tts-leaderboard_581ab311",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face launches an open multilingual TTS leaderboard",
-      "sourceUrl": "https://huggingface.co/blog/open-tts-leaderboard"
-    },
-    {
-      "id": "content-item_2026-10-02_08_flux-3-adds-layout-controlled-image-generation-and-targeted-editing_649e4d2b",
-      "sourceKind": "product",
-      "sourceName": "Black Forest Labs",
-      "title": "FLUX 3 adds layout-controlled image generation and targeted editing",
-      "sourceUrl": "https://bfl.ai/models/flux-3-image"
-    },
-    {
-      "id": "content-item_2026-10-02_09_laya-offers-fast-typed-decisions-through-vercel-ai-gateway_d32dd1e1",
-      "sourceKind": "product",
-      "sourceName": "Vercel AI Gateway",
-      "title": "Laya offers fast typed decisions through Vercel AI Gateway",
-      "sourceUrl": "https://vercel.com/ai-gateway/models/laya"
-    },
-    {
-      "id": "content-item_2026-10-02_10_scrubbed-combines-web-data-cleaning-pii-scanning-and-deduplication_ddd5f2bb",
-      "sourceKind": "product",
-      "sourceName": "Scrubbed",
-      "title": "Scrubbed combines web-data cleaning, PII scanning and deduplication",
-      "sourceUrl": "https://schancel.github.io/scrubbed/"
-    },
-    {
-      "id": "content-item_2026-10-02_11_friedrich-m-unimate_c87c6615",
+      "id": "content-item_2026-10-05_11_tester-army-e2e-brings-natural-language-tests-to-web-and-mobile-apps_e9fecc0b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "Friedrich-M/UniMate",
-      "sourceUrl": "https://github.com/Friedrich-M/UniMate"
+      "title": "tester-army/e2e brings natural-language tests to web and mobile apps",
+      "sourceUrl": "https://github.com/tester-army/e2e"
     },
     {
-      "id": "content-item_2026-10-02_12_modelcontextprotocol-servers_fca8ba21",
+      "id": "content-item_2026-10-05_12_earthtojake-text-to-cad-gives-coding-agents-cad-tools_2955e31a",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "modelcontextprotocol/servers",
-      "sourceUrl": "https://github.com/modelcontextprotocol/servers"
+      "title": "earthtojake/text-to-cad gives coding agents CAD tools",
+      "sourceUrl": "https://github.com/earthtojake/text-to-cad"
     },
     {
-      "id": "content-item_2026-10-02_13_tile-ai-tilelang_da3d6bb5",
+      "id": "content-item_2026-10-05_13_wilbowes-echomuse-turns-old-echo-dots-into-open-assistants_57f3d6e1",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "tile-ai/tilelang",
-      "sourceUrl": "https://github.com/tile-ai/tilelang"
+      "title": "wilbowes/EchoMuse turns old Echo Dots into open assistants",
+      "sourceUrl": "https://github.com/wilbowes/EchoMuse"
     }
   ]
 }

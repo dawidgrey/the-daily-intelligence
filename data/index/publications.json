@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-03T20:06:23Z",
+  "generatedAtUtc": "2026-10-04T20:03:18Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-05",
+      "slug": "2026-10-05",
+      "status": "published",
+      "publicationDateUtc": "2026-10-04T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Proof, pricing and practical agents",
+      "friendlyHeader": "AI that proves its work",
+      "summary": "Today’s issue follows AI from promises into operations: agents are being judged by the state they leave behind, model access is getting more sharply tiered, and new tools are making research, testing and physical design more practical. The common thread is simple: capability matters, but evidence, controls and fit matter more.",
+      "friendlySummary": "Today we look at AI tools that do useful work and show what really happened. We also cover changes to Gemini access, voice-data choices in Claude, and practical projects for research, testing and design.",
+      "itemCount": 13,
+      "href": "issues/2026-10-05.html",
+      "dataUrl": "data/daily-publications/2026-10-05.json"
+    },
     {
       "id": "daily-publication_2026-10-04",
       "slug": "2026-10-04",

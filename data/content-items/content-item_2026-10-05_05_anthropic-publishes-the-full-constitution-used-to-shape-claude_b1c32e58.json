@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-05_05_anthropic-publishes-the-full-constitution-used-to-shape-claude_b1c32e58",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/constitution",
+  "canonicalUrl": "https://www.anthropic.com/constitution",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-04T20:03:17Z",
+  "createdAtUtc": "2026-10-04T20:03:17Z",
+  "updatedAtUtc": "2026-10-04T20:03:17Z",
+  "title": "Anthropic publishes the full constitution used to shape Claude",
+  "friendlyTitle": "Anthropic shares the rules meant to guide Claude",
+  "summary": "Anthropic published Claude’s constitution in full under a CC0 licence, describing the intended priorities behind the model’s behaviour: broad safety, ethics, compliance with guidelines and genuine helpfulness. Anthropic says the document directly informs training while acknowledging that model behaviour may not always match those intentions.",
+  "friendlySummary": "Claude’s constitution explains the values and priorities Anthropic wants the model to follow. The full document is free for anyone to read and reuse.",
+  "whyItMatters": "Users and developers now have a primary reference for the values and trade-offs Anthropic intends Claude to follow. It does not prove how Claude behaves in every case, but it makes the design target open to inspection and comparison with actual outcomes.",
+  "friendlyWhyItMatters": "People can compare Claude’s real behaviour with the company’s stated goals. This makes the model’s intended rules easier to understand and question.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-05"
+  }
+}
