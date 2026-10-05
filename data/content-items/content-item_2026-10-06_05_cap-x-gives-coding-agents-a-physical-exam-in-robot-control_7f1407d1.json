@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-06_05_cap-x-gives-coding-agents-a-physical-exam-in-robot-control_7f1407d1",
+  "sourceKind": "research",
+  "sourceName": "NVIDIA, UC Berkeley, Stanford and CMU researchers",
+  "sourceUrl": "https://capgym.github.io/",
+  "canonicalUrl": "https://capgym.github.io/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-05T23:42:44Z",
+  "createdAtUtc": "2026-10-05T23:42:44Z",
+  "updatedAtUtc": "2026-10-05T23:42:44Z",
+  "title": "CaP-X gives coding agents a physical exam in robot control",
+  "friendlyTitle": "A new test measures how well AI can control robots",
+  "summary": "CaP-X is an open framework for testing language-model agents that write executable robot-control code across more than 100 manipulation tasks. Its published results put the strongest tested frontier model at 32.3% average success against an 88.5% human baseline, while post-training a 7B coding model substantially improved selected simulation and real-robot tasks.",
+  "friendlySummary": "CaP-X asks AI models to write code for more than 100 robot tasks. The best tested model completed far fewer tasks than people, showing both real progress and a large gap.",
+  "whyItMatters": "The benchmark makes progress in embodied AI measurable instead of relying on impressive demonstrations. It also suggests a practical architecture: let language models plan at a higher level while specialized control systems handle precise physical movement.",
+  "friendlyWhyItMatters": "Reliable tests help teams see what robot agents can really do. The results also show that AI still needs careful limits and specialist control systems around physical work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-06_07_a-domain-specific-language-can-give-agents-less-room-to-fail_22155c74",
+  "sourceKind": "article",
+  "sourceName": "Modeloptic",
+  "sourceUrl": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
+  "canonicalUrl": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-05T23:42:44Z",
+  "createdAtUtc": "2026-10-05T23:42:44Z",
+  "updatedAtUtc": "2026-10-05T23:42:44Z",
+  "title": "A domain-specific language can give agents less room to fail",
+  "friendlyTitle": "Give an AI agent a small language for its job",
+  "summary": "Modeloptic argues that complex agents become more dependable when they operate through a small domain-specific language rather than manipulating low-level systems directly. Its financial-modeling example replaces a long sequence of spreadsheet decisions with one structured operation, leaving deterministic formatting and formula work to conventional code.",
+  "friendlySummary": "Instead of letting an agent control every small detail, give it a few clear actions made for the task. Normal software can then handle the exact steps safely and consistently.",
+  "whyItMatters": "This is a useful design rule for business automation: give the model a narrow set of meaningful operations and keep mechanical execution outside the model. That can reduce context use, simplify testing and produce a clearer record of what the agent asked the system to do.",
+  "friendlyWhyItMatters": "A simpler job gives the AI fewer chances to make mistakes. It also makes the agent’s actions easier for people to test and review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-06"
+  }
+}

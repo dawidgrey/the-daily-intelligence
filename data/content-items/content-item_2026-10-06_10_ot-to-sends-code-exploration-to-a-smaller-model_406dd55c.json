@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-06_10_ot-to-sends-code-exploration-to-a-smaller-model_406dd55c",
+  "sourceKind": "product",
+  "sourceName": "Otōto",
+  "sourceUrl": "https://ototo.dev/",
+  "canonicalUrl": "https://ototo.dev/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-05T23:42:44Z",
+  "createdAtUtc": "2026-10-05T23:42:44Z",
+  "updatedAtUtc": "2026-10-05T23:42:44Z",
+  "title": "Otōto sends code exploration to a smaller model",
+  "friendlyTitle": "A smaller AI model can do the code searching",
+  "summary": "Otōto is an open-source MCP server that lets Claude Code or OpenCode delegate repository exploration to a smaller model on a user-selected server. It returns concise answers with checked file-and-line citations, while discarding the exploratory context after each call; the project reports lower model spending in its own small benchmarks.",
+  "friendlySummary": "Otōto lets a coding agent ask a smaller model to explore a software project. It sends back a short answer with the exact code lines that support it.",
+  "whyItMatters": "Delegating searches can preserve the main agent’s context for the actual task and reduce use of an expensive model. The approach is most useful when teams verify the cited lines and benchmark savings and answer quality on their own repositories rather than relying on vendor figures.",
+  "friendlyWhyItMatters": "This can leave more space for the main AI to solve the real problem and may lower costs. Developers should still check the quoted code and test the tool on their own work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-06"
+  }
+}

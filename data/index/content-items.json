@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-04T20:03:17Z",
+  "generatedAtUtc": "2026-10-05T23:42:44Z",
   "items": [
     {
-      "id": "content-item_2026-10-05_01_thinkingbox-checks-what-ai-agents-actually-changed_89764eae",
+      "id": "content-item_2026-10-06_01_ai-agents-identify-two-candidate-materials-for-spin-based-memory_ec9915c4",
       "sourceKind": "research",
-      "sourceName": "Microsoft and Hugging Face",
-      "title": "ThinkingBox checks what AI agents actually changed",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "sourceName": "Vals AI",
+      "title": "AI agents identify two candidate materials for spin-based memory",
+      "sourceUrl": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
     },
     {
-      "id": "content-item_2026-10-05_02_ai2-open-sources-astabrief-for-faster-cited-research-reports_d599f0a2",
-      "sourceKind": "research",
-      "sourceName": "Allen Institute for AI",
-      "title": "Ai2 open-sources AstaBrief for faster cited research reports",
-      "sourceUrl": "https://huggingface.co/blog/allenai/astabrief"
-    },
-    {
-      "id": "content-item_2026-10-05_03_openai-s-gpt-6-guide-puts-workload-fit-ahead-of-maximum-capability_8e206c4d",
-      "sourceKind": "article",
+      "id": "content-item_2026-10-06_02_chatgpt-will-test-visual-ads-during-image-generation_3cbec84d",
+      "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI’s GPT-6 guide puts workload fit ahead of maximum capability",
-      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6"
+      "title": "ChatGPT will test visual ads during image generation",
+      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     },
     {
-      "id": "content-item_2026-10-05_04_chatham-reports-cutting-trade-validation-from-30-minutes-to-under-four_a97398f7",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and Chatham Financial",
-      "title": "Chatham reports cutting trade validation from 30 minutes to under four",
-      "sourceUrl": "https://openai.com/index/chatham-financial"
+      "id": "content-item_2026-10-06_03_openai-prepares-invisible-text-watermarks-for-chatgpt-and-codex-in-the-e_78ad5381",
+      "sourceKind": "regulation",
+      "sourceName": "OpenAI",
+      "title": "OpenAI prepares invisible text watermarks for ChatGPT and Codex in the EU",
+      "sourceUrl": "https://openai.com/index/eu-text-provenance"
     },
     {
-      "id": "content-item_2026-10-05_05_anthropic-publishes-the-full-constitution-used-to-shape-claude_b1c32e58",
-      "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic publishes the full constitution used to shape Claude",
-      "sourceUrl": "https://www.anthropic.com/constitution"
-    },
-    {
-      "id": "content-item_2026-10-05_06_openai-details-how-a-training-model-exploited-a-reference-tool_99c0aa05",
-      "sourceKind": "research",
-      "sourceName": "OpenAI Alignment",
-      "title": "OpenAI details how a training model exploited a reference tool",
-      "sourceUrl": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/"
-    },
-    {
-      "id": "content-item_2026-10-05_07_cosh-launches-as-a-single-binary-terminal-coding-agent_9287398c",
+      "id": "content-item_2026-10-06_04_claude-moves-new-pro-and-max-cowork-tasks-to-the-cloud_4bf69086",
       "sourceKind": "product",
-      "sourceName": "Cosh",
-      "title": "Cosh launches as a single-binary terminal coding agent",
-      "sourceUrl": "https://www.co-sh.com"
-    },
-    {
-      "id": "content-item_2026-10-05_08_anchor-terminal-ranks-tools-by-how-usable-they-are-for-agents_e582d5ec",
-      "sourceKind": "product",
-      "sourceName": "Anchor Terminal",
-      "title": "Anchor Terminal ranks tools by how usable they are for agents",
-      "sourceUrl": "https://www.anchorterminal.com/tools/"
-    },
-    {
-      "id": "content-item_2026-10-05_09_claude-adds-a-separate-opt-in-for-voice-training-data_9c966f73",
-      "sourceKind": "article",
-      "sourceName": "BleepingComputer",
-      "title": "Claude adds a separate opt-in for voice-training data",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
-    },
-    {
-      "id": "content-item_2026-10-05_10_anthropic-opens-a-new-public-study-of-what-people-want-from-ai_7f9fa97d",
-      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic opens a new public study of what people want from AI",
-      "sourceUrl": "https://www.anthropic.com/research/your-thoughts-on-ai"
+      "title": "Claude moves new Pro and Max Cowork tasks to the cloud",
+      "sourceUrl": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile"
     },
     {
-      "id": "content-item_2026-10-05_11_tester-army-e2e-brings-natural-language-tests-to-web-and-mobile-apps_e9fecc0b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "tester-army/e2e brings natural-language tests to web and mobile apps",
-      "sourceUrl": "https://github.com/tester-army/e2e"
+      "id": "content-item_2026-10-06_05_cap-x-gives-coding-agents-a-physical-exam-in-robot-control_7f1407d1",
+      "sourceKind": "research",
+      "sourceName": "NVIDIA, UC Berkeley, Stanford and CMU researchers",
+      "title": "CaP-X gives coding agents a physical exam in robot control",
+      "sourceUrl": "https://capgym.github.io/"
     },
     {
-      "id": "content-item_2026-10-05_12_earthtojake-text-to-cad-gives-coding-agents-cad-tools_2955e31a",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "earthtojake/text-to-cad gives coding agents CAD tools",
-      "sourceUrl": "https://github.com/earthtojake/text-to-cad"
+      "id": "content-item_2026-10-06_06_openclaw-publishes-lessons-from-a-24-vulnerability-security-review_0972e0b9",
+      "sourceKind": "article",
+      "sourceName": "OpenClaw",
+      "title": "OpenClaw publishes lessons from a 24-vulnerability security review",
+      "sourceUrl": "https://openclaw.ai/blog/openclaw-trail-of-bits-engagement-recap"
     },
     {
-      "id": "content-item_2026-10-05_13_wilbowes-echomuse-turns-old-echo-dots-into-open-assistants_57f3d6e1",
+      "id": "content-item_2026-10-06_07_a-domain-specific-language-can-give-agents-less-room-to-fail_22155c74",
+      "sourceKind": "article",
+      "sourceName": "Modeloptic",
+      "title": "A domain-specific language can give agents less room to fail",
+      "sourceUrl": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl"
+    },
+    {
+      "id": "content-item_2026-10-06_08_cognition-proposes-git-repositories-as-portable-agent-memory_0a7b9f5e",
+      "sourceKind": "product",
+      "sourceName": "Cognition",
+      "title": "Cognition proposes Git repositories as portable agent memory",
+      "sourceUrl": "https://cognition.com/agent-memory-repo"
+    },
+    {
+      "id": "content-item_2026-10-06_09_harbor-packages-agent-evaluations-into-repeatable-sandboxes_1917e5e2",
+      "sourceKind": "product",
+      "sourceName": "Harbor",
+      "title": "Harbor packages agent evaluations into repeatable sandboxes",
+      "sourceUrl": "https://www.harborframework.com/"
+    },
+    {
+      "id": "content-item_2026-10-06_10_ot-to-sends-code-exploration-to-a-smaller-model_406dd55c",
+      "sourceKind": "product",
+      "sourceName": "Otōto",
+      "title": "Otōto sends code exploration to a smaller model",
+      "sourceUrl": "https://ototo.dev/"
+    },
+    {
+      "id": "content-item_2026-10-06_11_victortaelin-optmem-keeps-agent-memory-in-an-append-only-local-log_ddb95146",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "wilbowes/EchoMuse turns old Echo Dots into open assistants",
-      "sourceUrl": "https://github.com/wilbowes/EchoMuse"
+      "title": "VictorTaelin/OptMem keeps agent memory in an append-only local log",
+      "sourceUrl": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "id": "content-item_2026-10-06_12_harshuljain13-llm-inference-at-scale-maps-the-production-serving-stack_f6cbde5a",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "harshuljain13/llm-inference-at-scale maps the production serving stack",
+      "sourceUrl": "https://github.com/harshuljain13/llm-inference-at-scale"
+    },
+    {
+      "id": "content-item_2026-10-06_13_ai4finance-foundation-fingpt-provides-open-financial-model-building-bloc_4a34fe45",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "AI4Finance-Foundation/FinGPT provides open financial-model building blocks",
+      "sourceUrl": "https://github.com/AI4Finance-Foundation/FinGPT"
     }
   ]
 }
