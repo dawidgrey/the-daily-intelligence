@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-07_11_morluto-rea-gives-agents-a-structured-reverse-engineering-toolkit_92705331",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/morluto/rea",
+  "canonicalUrl": "https://github.com/morluto/rea",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-06T20:03:22Z",
+  "createdAtUtc": "2026-10-06T20:03:22Z",
+  "updatedAtUtc": "2026-10-06T20:03:22Z",
+  "title": "morluto/rea gives agents a structured reverse-engineering toolkit",
+  "friendlyTitle": "rea helps AI agents study how software works",
+  "summary": "rea is an MIT-licensed toolkit for using agents to investigate systems from application behavior down to native binaries, with about 8,000 GitHub stars at publication. Its components include a reverse-engineering skill and integrations for specialist tools such as Ghidra and IDA.",
+  "friendlySummary": "rea connects agents with tools for examining app behavior and compiled programs. The open-source project has about 8,000 GitHub stars.",
+  "whyItMatters": "Security researchers and developers can use rea to organize evidence gathering and analysis across unfamiliar applications and binaries. Because reverse engineering can touch sensitive software and powerful tools, use it only on systems you are authorized to inspect and review agent actions rather than granting unrestricted execution.",
+  "friendlyWhyItMatters": "It can help authorized researchers understand unfamiliar software in a structured way. Use it only where you have permission, and closely check what the agent does.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-07"
+  }
+}

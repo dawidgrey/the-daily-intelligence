@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-07_10_gridcore-schedules-several-local-models-on-one-gpu_fc2ef46c",
+  "sourceKind": "product",
+  "sourceName": "Alexey Blokhin",
+  "sourceUrl": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
+  "canonicalUrl": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-06T20:03:22Z",
+  "createdAtUtc": "2026-10-06T20:03:22Z",
+  "updatedAtUtc": "2026-10-06T20:03:22Z",
+  "title": "GridCore schedules several local models on one GPU",
+  "friendlyTitle": "GridCore helps several local AI models share one graphics card",
+  "summary": "GridCore is an open-source control plane that places priority queues, VRAM accounting and model-residency decisions in front of separate llama.cpp servers. Applications keep using an OpenAI-compatible API, while the scheduler can favor interactive work, pin selected models and evict lower-value residents when memory is tight.",
+  "friendlySummary": "GridCore decides which local model can use the GPU and which models should wait or leave memory. Existing apps can connect through a familiar OpenAI-style interface.",
+  "whyItMatters": "A single local GPU can support chat, coding and background indexing more predictably when those workloads share an explicit scheduler instead of competing independently. The project is most relevant to technically capable self-hosters, who should validate its memory estimates, security boundaries and failure behavior on their own hardware.",
+  "friendlyWhyItMatters": "This can make one computer serve chat, coding and background AI jobs more smoothly. It still needs technical setup and careful testing before important work depends on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-07"
+  }
+}

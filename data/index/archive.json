@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-10-05T23:42:45Z",
+  "generatedAtUtc": "2026-10-06T20:03:23Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-10-07",
+      "slug": "2026-10-07",
+      "status": "published",
+      "publicationDateUtc": "2026-10-06T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents meet real work—and real limits",
+      "friendlyHeader": "AI gets practical, but still needs careful checks",
+      "summary": "Today’s issue follows AI into practical systems: contracts, workplace knowledge, cybersecurity, voice calls and local GPUs. The common lesson is that useful agents need context, measurements and clear boundaries—not merely a stronger model.",
+      "friendlySummary": "Today we look at AI for contracts, workplace tools, security, phone calls and local computers. These examples show that better AI still needs good information, fair tests and clear limits.",
+      "itemCount": 13,
+      "href": "issues/2026-10-07.html",
+      "dataUrl": "data/daily-publications/2026-10-07.json"
+    },
     {
       "id": "daily-publication_2026-10-06",
       "slug": "2026-10-06",

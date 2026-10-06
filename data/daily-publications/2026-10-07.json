@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-07",
+  "slug": "2026-10-07",
+  "status": "published",
+  "publicationDateUtc": "2026-10-06T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents meet real work—and real limits",
+  "friendlyHeader": "AI gets practical, but still needs careful checks",
+  "summary": "Today’s issue follows AI into practical systems: contracts, workplace knowledge, cybersecurity, voice calls and local GPUs. The common lesson is that useful agents need context, measurements and clear boundaries—not merely a stronger model.",
+  "friendlySummary": "Today we look at AI for contracts, workplace tools, security, phone calls and local computers. These examples show that better AI still needs good information, fair tests and clear limits.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-07_01_anthropic-turns-qualitative-interviews-into-an-ai-assisted-research-work_1ded94a2",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_02_anthropic-creates-three-access-tiers-for-advanced-cyber-work_a22a6ca9",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_03_burn-0-22-cuts-rebuild-times-and-simplifies-multi-backend-ai-code_33d77590",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_04_semantic-turn-detection-sharply-reduces-interruptions-in-one-voice-agent_7ae969da",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_05_openai-and-ironclad-train-agents-on-complete-contracting-workflows_9964af80",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_06_atlassian-will-put-openai-models-deeper-into-rovo-and-its-teamwork-graph_60ef2af3",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_07_falcon-emirati-adapts-a-7b-model-for-dialect-and-cultural-context_085f7195",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_08_hiddencontent-scans-documents-for-text-an-agent-can-read-but-a-person-ma_9c6570b3",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_09_hieraticbench-exposes-a-blind-spot-in-reading-ancient-handwriting_05fa1331",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_10_gridcore-schedules-several-local-models-on-one-gpu_fc2ef46c",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_11_morluto-rea-gives-agents-a-structured-reverse-engineering-toolkit_92705331",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_12_ed-donner-llm-engineering-packages-an-eight-week-practical-ai-course_25627b06",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-07_13_raullenchai-rapid-mlx-serves-local-coding-models-on-apple-silicon_4c7a6919",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-06T20:03:22Z",
+  "updatedAtUtc": "2026-10-06T20:03:22Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-07.json",
+    "itemCount": 13
+  }
+}
