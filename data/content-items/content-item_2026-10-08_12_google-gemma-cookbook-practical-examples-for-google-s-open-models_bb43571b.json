@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_12_google-gemma-cookbook-practical-examples-for-google-s-open-models_bb43571b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/google-gemma/cookbook",
+  "canonicalUrl": "https://github.com/google-gemma/cookbook",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "google-gemma/cookbook: practical examples for Google’s open models",
+  "friendlyTitle": "The Gemma Cookbook offers working examples for Google’s open AI models",
+  "summary": "The Gemma Cookbook collects tested notebooks, full applications, experiments and responsible-AI examples for Google’s Gemma family. The repository has more than 4,000 stars and received new tutorial notebooks this week.",
+  "friendlySummary": "This repository contains notebooks, apps and guides for using the Gemma model family.",
+  "whyItMatters": "Developers can use the notebooks as starting points for running, adapting and evaluating Gemma models across local, research and application workflows. The examples also make it easier to compare model variants without assembling every integration from separate documentation pages.",
+  "friendlyWhyItMatters": "It gives developers practical examples they can run and change for their own projects.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

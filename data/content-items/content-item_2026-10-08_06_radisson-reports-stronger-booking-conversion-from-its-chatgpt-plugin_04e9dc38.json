@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_06_radisson-reports-stronger-booking-conversion-from-its-chatgpt-plugin_04e9dc38",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and Radisson Hotel Group",
+  "sourceUrl": "https://openai.com/index/radisson",
+  "canonicalUrl": "https://openai.com/index/radisson",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Radisson reports stronger booking conversion from its ChatGPT plugin",
+  "friendlyTitle": "Radisson is turning ChatGPT travel searches into hotel bookings",
+  "summary": "Radisson says its ChatGPT plugin, built with Accenture, lets travellers compare hotels on maps and continue to direct booking. The company reports that early visit-to-booking conversion was about 1.5 times its organic-search rate during July and August 2026, though the figures are company-reported rather than independently audited.",
+  "friendlySummary": "Radisson built a ChatGPT tool for finding and comparing its hotels. The company says early visitors booked at a higher rate than people arriving from normal search.",
+  "whyItMatters": "Conversational assistants are becoming a new discovery and sales channel, not merely a place to ask questions. Businesses need to make their inventory and services usable inside AI interfaces while measuring whether recommendations, ads and conversions remain transparent.",
+  "friendlyWhyItMatters": "People may start shopping inside AI chats more often. Businesses should measure the results and make paid suggestions clear.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

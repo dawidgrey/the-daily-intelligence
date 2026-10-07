@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_03_liquid-ai-opens-small-multimodal-decision-models-for-edge-devices_0825a489",
+  "sourceKind": "research",
+  "sourceName": "Liquid AI on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "canonicalUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Liquid AI opens small multimodal decision models for edge devices",
+  "friendlyTitle": "Small open AI models make fast decisions on local devices",
+  "summary": "Liquid AI has released d1-3B and an experimental d1-omni-600M, open models that make structured decisions in a single forward pass rather than generating prose token by token. The models accept combinations of text, images and audio and are designed for low-latency use on edge hardware.",
+  "friendlySummary": "Liquid AI released two models that can quickly classify information or choose between options. They can work with text, pictures and, in one model, audio.",
+  "whyItMatters": "Many business workflows need a fast classification, choice or score rather than a conversational answer. Small local decision models can lower latency and cloud cost while keeping more inputs on the device, although the published benchmarks still need independent testing.",
+  "friendlyWhyItMatters": "These models may help devices make quick decisions without sending every request to the cloud. Independent testing is still important.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

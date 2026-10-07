@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_09_panolayer-adds-deterministic-code-maps-around-coding-agents_75dabcfb",
+  "sourceKind": "product",
+  "sourceName": "Panolayer",
+  "sourceUrl": "https://panolayer.com",
+  "canonicalUrl": "https://panolayer.com",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Panolayer adds deterministic code maps around coding agents",
+  "friendlyTitle": "Panolayer helps teams check code written by AI agents",
+  "summary": "Panolayer has opened a macOS public beta that maps a codebase from source, runs coding agents in separate Git worktrees and checks changes against functions, callers and documented expectations. It supports a range of existing coding agents and keeps its code index local unless the user chooses to sync or share it.",
+  "friendlySummary": "Panolayer maps how a codebase fits together and gives each coding agent a separate work area. It then looks for changes that may break other parts of the software.",
+  "whyItMatters": "As agents produce more code, review capacity and system understanding become the bottleneck. Deterministic dependency maps and isolated worktrees can make agent changes easier to inspect, though teams should evaluate the product’s regression claims on their own repositories.",
+  "friendlyWhyItMatters": "This could make large AI-written changes easier to review. Teams should test how well its checks work on their own code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

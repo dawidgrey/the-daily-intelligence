@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_10_agent-picks-tests-which-developer-tools-coding-agents-actually-choose_560e413d",
+  "sourceKind": "product",
+  "sourceName": "Agent Picks",
+  "sourceUrl": "https://agentpicks.io",
+  "canonicalUrl": "https://agentpicks.io",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Agent Picks tests which developer tools coding agents actually choose",
+  "friendlyTitle": "A test shows which tools coding agents choose by themselves",
+  "summary": "Agent Picks runs neutral developer requests across five coding models in isolated computers, then records which vendor each agent selects, installs and uses. Tool makers can edit the generated requests before a run and inspect the session evidence behind each choice.",
+  "friendlySummary": "Agent Picks gives the same software task to several coding models and watches which product each one installs. It keeps a record of what the agents did.",
+  "whyItMatters": "Software discovery is beginning to happen through agents as well as search engines and human recommendations. Reproducible task-based tests can show whether documentation and installation paths are legible to agents, although a small model set is not a complete market measure.",
+  "friendlyWhyItMatters": "Tool makers can see whether AI agents understand and use their product. The results are useful evidence, but they do not represent every model or user.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

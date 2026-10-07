@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-08",
+  "slug": "2026-10-08",
+  "status": "published",
+  "publicationDateUtc": "2026-10-07T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Cheaper intelligence meets more adaptive software",
+  "friendlyHeader": "AI is getting cheaper and easier to use",
+  "summary": "Today’s issue tracks a practical shift: capable AI is becoming cheaper, more local, and more deeply embedded in the interfaces and decisions people use every day. It also looks at the controls needed when those systems influence prices, private data, travel choices, and production code.",
+  "friendlySummary": "Today we look at faster and cheaper AI, new tools that run on your own device, and software that changes to fit the task. We also cover why people still need clear checks when AI affects prices, privacy, travel, and code.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-08_01_claude-haiku-5-5-cuts-the-cost-of-high-volume-ai-work_4bb428a0",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_02_gpt-6-brings-interactive-answers-to-more-chatgpt-users_0ca14509",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_03_liquid-ai-opens-small-multimodal-decision-models-for-edge-devices_0825a489",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_04_windows-ml-adds-experimental-gguf-and-llama-cpp-support_ae4bc5e9",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_05_openai-publishes-hundreds-of-ai-produced-mathematics-manuscripts_47b9255d",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_06_radisson-reports-stronger-booking-conversion-from-its-chatgpt-plugin_04e9dc38",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_07_mcdonald-s-faces-a-lawsuit-over-ai-assisted-pricing-guidance_bc9a84bb",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_08_smart-blur-uses-local-ai-to-hide-personal-data-during-screen-sharing_ac9d3c7f",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_09_panolayer-adds-deterministic-code-maps-around-coding-agents_75dabcfb",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_10_agent-picks-tests-which-developer-tools-coding-agents-actually-choose_560e413d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_11_garrytan-gbrain-an-opinionated-operating-layer-for-personal-agents_4c1a7c57",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_12_google-gemma-cookbook-practical-examples-for-google-s-open-models_bb43571b",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-08_13_vercel-eve-an-open-framework-for-building-and-deploying-agents_52e8ee8b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-08.json",
+    "itemCount": 13
+  }
+}

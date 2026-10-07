@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-06T20:03:22Z",
+  "generatedAtUtc": "2026-10-07T20:03:48Z",
   "items": [
     {
-      "id": "content-item_2026-10-07_01_anthropic-turns-qualitative-interviews-into-an-ai-assisted-research-work_1ded94a2",
+      "id": "content-item_2026-10-08_01_claude-haiku-5-5-cuts-the-cost-of-high-volume-ai-work_4bb428a0",
       "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Anthropic turns qualitative interviews into an AI-assisted research workflow",
-      "sourceUrl": "https://www.anthropic.com/about-anthropic-interviewer"
+      "title": "Claude Haiku 5.5 cuts the cost of high-volume AI work",
+      "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5"
     },
     {
-      "id": "content-item_2026-10-07_02_anthropic-creates-three-access-tiers-for-advanced-cyber-work_a22a6ca9",
+      "id": "content-item_2026-10-08_02_gpt-6-brings-interactive-answers-to-more-chatgpt-users_0ca14509",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic creates three access tiers for advanced cyber work",
-      "sourceUrl": "https://www.anthropic.com/news/cyber-verification-program"
+      "sourceName": "OpenAI",
+      "title": "GPT-6 brings interactive answers to more ChatGPT users",
+      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone"
     },
     {
-      "id": "content-item_2026-10-07_03_burn-0-22-cuts-rebuild-times-and-simplifies-multi-backend-ai-code_33d77590",
-      "sourceKind": "product",
-      "sourceName": "Tracel",
-      "title": "Burn 0.22 cuts rebuild times and simplifies multi-backend AI code",
-      "sourceUrl": "https://tracel.ai/blog/release-0.22.0/"
-    },
-    {
-      "id": "content-item_2026-10-07_04_semantic-turn-detection-sharply-reduces-interruptions-in-one-voice-agent_7ae969da",
+      "id": "content-item_2026-10-08_03_liquid-ai-opens-small-multimodal-decision-models-for-edge-devices_0825a489",
       "sourceKind": "research",
-      "sourceName": "Veris AI",
-      "title": "Semantic turn detection sharply reduces interruptions in one voice-agent test",
-      "sourceUrl": "https://veris.ai/blog/jev-turn-detection"
+      "sourceName": "Liquid AI on Hugging Face",
+      "title": "Liquid AI opens small multimodal decision models for edge devices",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1"
     },
     {
-      "id": "content-item_2026-10-07_05_openai-and-ironclad-train-agents-on-complete-contracting-workflows_9964af80",
+      "id": "content-item_2026-10-08_04_windows-ml-adds-experimental-gguf-and-llama-cpp-support_ae4bc5e9",
+      "sourceKind": "product",
+      "sourceName": "Microsoft Foundry on Windows",
+      "title": "Windows ML adds experimental GGUF and llama.cpp support",
+      "sourceUrl": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/"
+    },
+    {
+      "id": "content-item_2026-10-08_05_openai-publishes-hundreds-of-ai-produced-mathematics-manuscripts_47b9255d",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "OpenAI and Ironclad train agents on complete contracting workflows",
-      "sourceUrl": "https://openai.com/index/advancing-computer-use-with-ironclad"
+      "title": "OpenAI publishes hundreds of AI-produced mathematics manuscripts",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
     {
-      "id": "content-item_2026-10-07_06_atlassian-will-put-openai-models-deeper-into-rovo-and-its-teamwork-graph_60ef2af3",
+      "id": "content-item_2026-10-08_06_radisson-reports-stronger-booking-conversion-from-its-chatgpt-plugin_04e9dc38",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and Radisson Hotel Group",
+      "title": "Radisson reports stronger booking conversion from its ChatGPT plugin",
+      "sourceUrl": "https://openai.com/index/radisson"
+    },
+    {
+      "id": "content-item_2026-10-08_07_mcdonald-s-faces-a-lawsuit-over-ai-assisted-pricing-guidance_bc9a84bb",
+      "sourceKind": "article",
+      "sourceName": "Associated Press",
+      "title": "McDonald’s faces a lawsuit over AI-assisted pricing guidance",
+      "sourceUrl": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe"
+    },
+    {
+      "id": "content-item_2026-10-08_08_smart-blur-uses-local-ai-to-hide-personal-data-during-screen-sharing_ac9d3c7f",
       "sourceKind": "product",
-      "sourceName": "OpenAI and Atlassian",
-      "title": "Atlassian will put OpenAI models deeper into Rovo and its Teamwork Graph",
-      "sourceUrl": "https://openai.com/index/atlassian-partnership"
+      "sourceName": "Smart Build Labs",
+      "title": "Smart Blur uses local AI to hide personal data during screen sharing",
+      "sourceUrl": "https://smartbuildlabs.com/apps/smart-blur/"
     },
     {
-      "id": "content-item_2026-10-07_07_falcon-emirati-adapts-a-7b-model-for-dialect-and-cultural-context_085f7195",
-      "sourceKind": "research",
-      "sourceName": "Technology Innovation Institute",
-      "title": "Falcon-Emirati adapts a 7B model for dialect and cultural context",
-      "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-emirati"
-    },
-    {
-      "id": "content-item_2026-10-07_08_hiddencontent-scans-documents-for-text-an-agent-can-read-but-a-person-ma_9c6570b3",
+      "id": "content-item_2026-10-08_09_panolayer-adds-deterministic-code-maps-around-coding-agents_75dabcfb",
       "sourceKind": "product",
-      "sourceName": "HiddenContent.ai",
-      "title": "HiddenContent scans documents for text an agent can read but a person may miss",
-      "sourceUrl": "https://hiddencontent.ai/start/"
+      "sourceName": "Panolayer",
+      "title": "Panolayer adds deterministic code maps around coding agents",
+      "sourceUrl": "https://panolayer.com"
     },
     {
-      "id": "content-item_2026-10-07_09_hieraticbench-exposes-a-blind-spot-in-reading-ancient-handwriting_05fa1331",
-      "sourceKind": "research",
-      "sourceName": "HieraticBench",
-      "title": "HieraticBench exposes a blind spot in reading ancient handwriting",
-      "sourceUrl": "https://hieraticbench.vercel.app/"
-    },
-    {
-      "id": "content-item_2026-10-07_10_gridcore-schedules-several-local-models-on-one-gpu_fc2ef46c",
+      "id": "content-item_2026-10-08_10_agent-picks-tests-which-developer-tools-coding-agents-actually-choose_560e413d",
       "sourceKind": "product",
-      "sourceName": "Alexey Blokhin",
-      "title": "GridCore schedules several local models on one GPU",
-      "sourceUrl": "https://blokhin.us/notes/gridcore-gpu-scheduler/"
+      "sourceName": "Agent Picks",
+      "title": "Agent Picks tests which developer tools coding agents actually choose",
+      "sourceUrl": "https://agentpicks.io"
     },
     {
-      "id": "content-item_2026-10-07_11_morluto-rea-gives-agents-a-structured-reverse-engineering-toolkit_92705331",
+      "id": "content-item_2026-10-08_11_garrytan-gbrain-an-opinionated-operating-layer-for-personal-agents_4c1a7c57",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "morluto/rea gives agents a structured reverse-engineering toolkit",
-      "sourceUrl": "https://github.com/morluto/rea"
+      "title": "garrytan/gbrain: an opinionated operating layer for personal agents",
+      "sourceUrl": "https://github.com/garrytan/gbrain"
     },
     {
-      "id": "content-item_2026-10-07_12_ed-donner-llm-engineering-packages-an-eight-week-practical-ai-course_25627b06",
+      "id": "content-item_2026-10-08_12_google-gemma-cookbook-practical-examples-for-google-s-open-models_bb43571b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "ed-donner/llm_engineering packages an eight-week practical AI course",
-      "sourceUrl": "https://github.com/ed-donner/llm_engineering"
+      "title": "google-gemma/cookbook: practical examples for Google’s open models",
+      "sourceUrl": "https://github.com/google-gemma/cookbook"
     },
     {
-      "id": "content-item_2026-10-07_13_raullenchai-rapid-mlx-serves-local-coding-models-on-apple-silicon_4c7a6919",
+      "id": "content-item_2026-10-08_13_vercel-eve-an-open-framework-for-building-and-deploying-agents_52e8ee8b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "raullenchai/Rapid-MLX serves local coding models on Apple Silicon",
-      "sourceUrl": "https://github.com/raullenchai/Rapid-MLX"
+      "title": "vercel/eve: an open framework for building and deploying agents",
+      "sourceUrl": "https://github.com/vercel/eve"
     }
   ]
 }

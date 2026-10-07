@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_04_windows-ml-adds-experimental-gguf-and-llama-cpp-support_ae4bc5e9",
+  "sourceKind": "product",
+  "sourceName": "Microsoft Foundry on Windows",
+  "sourceUrl": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+  "canonicalUrl": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Windows ML adds experimental GGUF and llama.cpp support",
+  "friendlyTitle": "Windows gets an easier way to run local AI models",
+  "summary": "Microsoft has added experimental llama.cpp support to Windows ML, allowing developers to run GGUF models locally through new text-generation APIs and an OpenAI-compatible endpoint. A preview Windows-native runtime also adds finer control over ONNX and GGUF pipelines across CPUs, GPUs and NPUs.",
+  "friendlySummary": "Windows ML can now test GGUF models through llama.cpp and a familiar OpenAI-style connection. It can use different parts of a PC, including the CPU, GPU and NPU.",
+  "whyItMatters": "Developers can prototype local AI with familiar model formats and SDKs while reducing cloud charges and keeping sensitive workloads on the PC. The integration is experimental, so production adopters should expect changing APIs and test hardware compatibility carefully.",
+  "friendlyWhyItMatters": "Apps may be able to run more AI work on the computer instead of in the cloud. The feature is still experimental, so it is not ready for every production system.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_07_mcdonald-s-faces-a-lawsuit-over-ai-assisted-pricing-guidance_bc9a84bb",
+  "sourceKind": "article",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
+  "canonicalUrl": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "McDonald’s faces a lawsuit over AI-assisted pricing guidance",
+  "friendlyTitle": "A lawsuit asks who really controls AI price suggestions",
+  "summary": "A proposed US class action alleges that McDonald’s AI-enhanced pricing tool and related franchise rules reduce competition among independently owned restaurants. McDonald’s says the system provides recommendations and context, while franchisees retain control of their menu prices.",
+  "friendlySummary": "McDonald’s is being sued over a tool that suggests prices to franchise owners. McDonald’s says owners still decide what to charge.",
+  "whyItMatters": "AI recommendations can still carry legal and commercial consequences when a powerful platform shapes decisions made by nominally independent businesses. Organisations using optimisation tools should document who controls the final decision, what constraints are applied and how recommendations are audited.",
+  "friendlyWhyItMatters": "An AI suggestion can strongly influence a business even when a person makes the final choice. Companies should be clear about who controls the decision.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

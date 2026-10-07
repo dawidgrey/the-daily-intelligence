@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_08_smart-blur-uses-local-ai-to-hide-personal-data-during-screen-sharing_ac9d3c7f",
+  "sourceKind": "product",
+  "sourceName": "Smart Build Labs",
+  "sourceUrl": "https://smartbuildlabs.com/apps/smart-blur/",
+  "canonicalUrl": "https://smartbuildlabs.com/apps/smart-blur/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "Smart Blur uses local AI to hide personal data during screen sharing",
+  "friendlyTitle": "Local AI can hide private details before you share your screen",
+  "summary": "Smart Blur is a browser extension that detects and obscures emails, phone numbers, card details, names and addresses before they appear in a screen share or screenshot. Its AI processing runs locally through WebGPU, and the free tier covers pattern detection and manual blur controls.",
+  "friendlySummary": "Smart Blur covers personal information in browser pages during screen sharing and screenshots. It says the AI runs on your device instead of sending the page to the cloud.",
+  "whyItMatters": "Accidental disclosure during demos and support calls is a common, mundane privacy failure. On-device redaction can add a useful guardrail without uploading the page to another service, but users should still verify that sensitive fields were actually covered before sharing.",
+  "friendlyWhyItMatters": "This can prevent simple privacy mistakes in meetings. Always look over the screen yourself because automatic detection can miss things.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

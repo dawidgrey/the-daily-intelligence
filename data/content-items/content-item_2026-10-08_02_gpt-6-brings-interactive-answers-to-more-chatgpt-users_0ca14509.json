@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_02_gpt-6-brings-interactive-answers-to-more-chatgpt-users_0ca14509",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/gpt-6-for-everyone",
+  "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "GPT-6 brings interactive answers to more ChatGPT users",
+  "friendlyTitle": "ChatGPT can now build interactive answers",
+  "summary": "OpenAI is rolling GPT-6 out across paid and free ChatGPT tiers with Intelligent UI, which can compose answers using charts, forms, buttons and interactive diagrams as well as text. Paid tiers use GPT-6 Sol, while Free and Go users receive GPT-6 Luna.",
+  "friendlySummary": "GPT-6 can answer with useful controls, charts and simple tools instead of only text. The update is coming to both paid and free ChatGPT users.",
+  "whyItMatters": "The useful unit of an AI response is moving beyond a block of prose toward a small interface built for the immediate task. That can reduce the work of turning an answer into a plan, comparison or simple tool, while making interface accuracy another thing users must check.",
+  "friendlyWhyItMatters": "Some tasks may become easier because you can use the answer directly. You should still check the facts and the controls it creates.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}

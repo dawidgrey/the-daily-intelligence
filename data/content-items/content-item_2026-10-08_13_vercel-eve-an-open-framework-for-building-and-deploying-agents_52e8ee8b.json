@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-08_13_vercel-eve-an-open-framework-for-building-and-deploying-agents_52e8ee8b",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/vercel/eve",
+  "canonicalUrl": "https://github.com/vercel/eve",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-07T20:03:48Z",
+  "createdAtUtc": "2026-10-07T20:03:48Z",
+  "updatedAtUtc": "2026-10-07T20:03:48Z",
+  "title": "vercel/eve: an open framework for building and deploying agents",
+  "friendlyTitle": "Eve is an open toolkit for building AI agents",
+  "summary": "Eve is Vercel’s open TypeScript framework for building agents with tools, workflows, sandboxes and web-chat deployment. The beta project has more than 5,000 stars and remains under active development.",
+  "friendlySummary": "Vercel’s Eve project helps TypeScript developers create agents with tools, workflows and web chat.",
+  "whyItMatters": "Teams building JavaScript or TypeScript agents can use Eve as a structured starting point for tool execution, stateful workflows and deployment rather than wiring each part together independently. Its beta status means APIs and behaviour may still change.",
+  "friendlyWhyItMatters": "It can save setup work when building an agent application. Expect changes because the project is still in beta.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-08"
+  }
+}
