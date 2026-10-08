@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-09",
+  "slug": "2026-10-09",
+  "status": "published",
+  "publicationDateUtc": "2026-10-08T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "AI moves from answering to doing — with new controls close behind",
+  "friendlyHeader": "AI tools can now do more of the work",
+  "summary": "Today’s issue follows AI into everyday work: a universal workplace agent, creative software control, local multimodal search, automated security review and specialist reasoning. The common thread is practical execution, along with the policies, monitoring and human checks needed when models can act rather than merely answer.",
+  "friendlySummary": "Today we look at AI that can complete work tasks, use creative software, search private files on your device and help find security problems. We also cover the rules and safety checks that become more important when AI can take action.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-09_01_google-introduces-a-universal-gemini-agent-for-work_16da57f9",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_02_voyager-brings-ai-agents-into-professional-creative-software_a973434a",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_03_embeddinggemma-2-brings-multimodal-search-to-local-devices_4dd29007",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_04_anthropic-rewrites-claude-s-rules-for-agents-and-high-risk-work_7a238471",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_05_anthropic-opens-a-free-ai-vulnerability-scanner-to-eligible-projects_ecaa8054",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_06_nvidia-adapts-one-nemotron-family-to-gold-level-maths-and-coding_5bdd694c",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_07_goodfire-monitors-ai-agents-by-reading-signals-inside-the-model_e9412c80",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_08_claude-adds-live-dashboards-and-editable-animations_8e330312",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_09_oracle-shows-how-structured-context-turns-ai-into-repeatable-work_112b5f00",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_10_openai-details-influence-operations-built-behind-convincing-false-fronts_077dea1e",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_11_tracer-cloud-opensre-build-agents-for-production-reliability-work_a9bca652",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_12_vincentwei1021-video-shotcraft-a-recipe-library-for-agent-made-product-v_998b1a58",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-09_13_bmad-code-org-bmad-method-structured-workflows-for-ai-driven-development_f950ed2c",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-09.json",
+    "itemCount": 13
+  }
+}

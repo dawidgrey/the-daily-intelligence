@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_13_bmad-code-org-bmad-method-structured-workflows-for-ai-driven-development_f950ed2c",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "canonicalUrl": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "bmad-code-org/BMAD-METHOD: structured workflows for AI-driven development",
+  "friendlyTitle": "BMAD Method adds structure to AI-assisted software work",
+  "summary": "BMAD Method is a large, active collection of agents, skills and process guidance for planning and delivering software with AI coding tools. Its recent work includes tooling to build and evaluate reusable skills as well as structured project and agent workflows.",
+  "friendlySummary": "BMAD Method provides agents, skills and step-by-step processes for planning and building software with AI tools.",
+  "whyItMatters": "Software teams can borrow defined roles, planning artefacts and review steps to make agent-assisted development less ad hoc. It is a substantial and opinionated system, so trial a narrow workflow and compare its overhead and outcomes with the team’s existing process before adopting the whole method.",
+  "friendlyWhyItMatters": "Teams can borrow one workflow to make AI coding work more organised. Test a small part first because the full system is large.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

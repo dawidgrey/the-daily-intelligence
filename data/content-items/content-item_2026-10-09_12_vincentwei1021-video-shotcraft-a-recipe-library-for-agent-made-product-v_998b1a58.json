@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_12_vincentwei1021-video-shotcraft-a-recipe-library-for-agent-made-product-v_998b1a58",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Vincentwei1021/video-shotcraft",
+  "canonicalUrl": "https://github.com/Vincentwei1021/video-shotcraft",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Vincentwei1021/video-shotcraft: a recipe library for agent-made product videos",
+  "friendlyTitle": "Video Shotcraft gives coding agents ready-made video patterns",
+  "summary": "Video Shotcraft packages 152 shot recipes, 209 motion previews and a production-ready Remotion template as a skill for Claude Code and Codex. The Apache-2.0 project has about 10,900 stars and includes smoke tests for runnable demos.",
+  "friendlySummary": "This project contains many shot ideas, motion previews and a Remotion template for making product videos with Claude Code or Codex.",
+  "whyItMatters": "Developers and marketers can give coding agents concrete motion-design patterns instead of asking them to invent every product-video sequence from scratch. The templates are most useful as editable production scaffolding; teams should still review branding, claims, accessibility and final renders.",
+  "friendlyWhyItMatters": "It can speed up the first version of a product video. People should still edit the design, check the message and review the final render.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

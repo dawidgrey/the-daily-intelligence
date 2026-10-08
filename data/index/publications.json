@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-07T20:03:49Z",
+  "generatedAtUtc": "2026-10-08T20:04:25Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-09",
+      "slug": "2026-10-09",
+      "status": "published",
+      "publicationDateUtc": "2026-10-08T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answering to doing — with new controls close behind",
+      "friendlyHeader": "AI tools can now do more of the work",
+      "summary": "Today’s issue follows AI into everyday work: a universal workplace agent, creative software control, local multimodal search, automated security review and specialist reasoning. The common thread is practical execution, along with the policies, monitoring and human checks needed when models can act rather than merely answer.",
+      "friendlySummary": "Today we look at AI that can complete work tasks, use creative software, search private files on your device and help find security problems. We also cover the rules and safety checks that become more important when AI can take action.",
+      "itemCount": 13,
+      "href": "issues/2026-10-09.html",
+      "dataUrl": "data/daily-publications/2026-10-09.json"
+    },
     {
       "id": "daily-publication_2026-10-08",
       "slug": "2026-10-08",

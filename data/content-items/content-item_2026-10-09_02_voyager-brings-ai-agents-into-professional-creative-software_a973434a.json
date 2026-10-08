@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_02_voyager-brings-ai-agents-into-professional-creative-software_a973434a",
+  "sourceKind": "product",
+  "sourceName": "Voyager",
+  "sourceUrl": "https://voyager.so",
+  "canonicalUrl": "https://voyager.so",
+  "credit": "@anvisha",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Voyager brings AI agents into professional creative software",
+  "friendlyTitle": "Voyager lets AI work inside creative apps",
+  "summary": "Voyager has launched an open creative-work harness that lets frontier and open models work with applications such as Blender, DaVinci Resolve, After Effects, Ableton and Unity. It supports reusable skills and memory intended to help agents learn a creator’s working style.",
+  "friendlySummary": "Voyager connects AI models to tools for video, music, design and 3D work. It can remember workflows and use skills made for repeated creative tasks.",
+  "whyItMatters": "Creative agents are moving beyond generating isolated images or clips toward operating the software professionals already use. That could shorten repetitive production work, but creators still need to direct taste, verify edits and understand what project data a connected model can access.",
+  "friendlyWhyItMatters": "It may save time on repetitive production steps while leaving creative choices to people. Check what files and accounts the agent is allowed to use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

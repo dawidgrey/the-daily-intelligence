@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_03_embeddinggemma-2-brings-multimodal-search-to-local-devices_4dd29007",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "canonicalUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "EmbeddingGemma 2 brings multimodal search to local devices",
+  "friendlyTitle": "A small Google model can search text, pictures, audio and video",
+  "summary": "Google has released EmbeddingGemma 2, a 740-million-parameter open model that maps text, code, images, audio and video into a shared embedding space. Google says quantized versions can run on consumer devices with under 600MB of active memory for the full multimodal model.",
+  "friendlySummary": "EmbeddingGemma 2 helps apps find related information across different kinds of files. It is small enough to run on some phones and computers.",
+  "whyItMatters": "Developers can build private, offline search across mixed personal or business media without sending every file to a cloud service. The small footprint also makes local retrieval practical for mobile apps and coding tools, although Google’s benchmark claims still need testing on real workloads.",
+  "friendlyWhyItMatters": "Apps may search private files locally instead of uploading them to the cloud. Developers should test its speed and accuracy on their own devices.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

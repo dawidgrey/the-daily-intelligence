@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_08_claude-adds-live-dashboards-and-editable-animations_8e330312",
+  "sourceKind": "product",
+  "sourceName": "Reuters via CNA",
+  "sourceUrl": "https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
+  "canonicalUrl": "https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Claude adds live dashboards and editable animations",
+  "friendlyTitle": "Claude can build dashboards and simple animations",
+  "summary": "Anthropic has introduced beta tools that build live data dashboards from connected business systems and create editable animations from prompts. Dashboards is available on paid plans, while Motion is initially limited to Team and Enterprise customers; Docs, Slides and Design are now broadly available.",
+  "friendlySummary": "Claude can now turn connected business data into live dashboards and prompts into editable animations. Some features are still in beta or limited to business plans.",
+  "whyItMatters": "AI work products are shifting from static prose to editable, connected artefacts that colleagues can keep using. Before relying on generated dashboards, teams should verify metrics, access permissions and refresh logic, because polished visual output can conceal a faulty query.",
+  "friendlyWhyItMatters": "This can turn an answer into something a team can use and update. Always check the numbers behind a polished chart.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

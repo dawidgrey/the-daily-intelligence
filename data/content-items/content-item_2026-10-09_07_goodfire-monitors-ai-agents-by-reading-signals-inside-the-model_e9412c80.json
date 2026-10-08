@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_07_goodfire-monitors-ai-agents-by-reading-signals-inside-the-model_e9412c80",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Goodfire monitors AI agents by reading signals inside the model",
+  "friendlyTitle": "Goodfire watches what an AI model is doing inside",
+  "summary": "Goodfire has launched internal-activation monitors for Kimi K3 deployments hosted by Baseten. Small probes watch model signals for risks such as offensive hacking or reward manipulation, then call a separate reviewer model only when something appears suspicious; company tests reported lower monitoring costs and modest latency overhead.",
+  "friendlySummary": "Goodfire’s new monitors look at internal model signals while an agent works. A second AI checks the session only when the small monitor sees a possible risk.",
+  "whyItMatters": "Continuous oversight can become expensive when agents work for hours, so cheaper monitoring may make controls practical for more deployments. The published detection and false-alarm figures are vendor tests on one model, however, and should not be treated as proof that an agent is safe.",
+  "friendlyWhyItMatters": "This may make long-running agents cheaper to supervise. It is one safety layer, not a guarantee that the agent cannot cause harm.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

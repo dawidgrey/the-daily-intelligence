@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_01_google-introduces-a-universal-gemini-agent-for-work_16da57f9",
+  "sourceKind": "product",
+  "sourceName": "Google Cloud",
+  "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+  "canonicalUrl": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Google introduces a universal Gemini agent for work",
+  "friendlyTitle": "Google launches one Gemini agent for many work tasks",
+  "summary": "Google has announced a single Gemini agent that can answer questions, create content, run code and complete longer tasks across workplace systems. It can create subagents, keep working in the cloud, use Gemini or Claude models, and operate through services including Workspace, Microsoft 365 and Slack.",
+  "friendlySummary": "The new Gemini agent can answer questions, make content, write code and keep working on longer jobs. It can connect to common workplace apps and ask smaller agents to help.",
+  "whyItMatters": "The workplace assistant is becoming an operational identity with memory, permissions, tools and an audit trail rather than a separate chat window. Businesses should treat its access like a staff account: grant only the data and actions needed, require approvals for consequential steps and review the resulting logs.",
+  "friendlyWhyItMatters": "This may reduce switching between different AI tools. Companies should limit what the agent can access and check important actions before they happen.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_09_oracle-shows-how-structured-context-turns-ai-into-repeatable-work_112b5f00",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and Oracle",
+  "sourceUrl": "https://openai.com/index/oracle",
+  "canonicalUrl": "https://openai.com/index/oracle",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Oracle shows how structured context turns AI into repeatable work",
+  "friendlyTitle": "Oracle connects AI to clear business processes",
+  "summary": "Oracle says more than 130,000 employees actively use ChatGPT and over 95,000 use Codex across recruiting, analytics and engineering. Its examples include a recruiting-research workflow, a business ontology that grounds generated SQL and incident tools that retrieve the right operational playbook.",
+  "friendlySummary": "Oracle says many employees use ChatGPT and Codex for recruiting, reports and engineering. Its tools connect AI to company rules, data and playbooks.",
+  "whyItMatters": "The useful lesson is not simply broad access to a chatbot: Oracle paired models with structured organisational knowledge, repeatable workflows and accountable owners. Smaller teams can apply the same pattern to one well-defined process before attempting an organisation-wide rollout; the performance figures remain company-reported.",
+  "friendlyWhyItMatters": "AI becomes more useful when it has trusted information and a clear job. Start with one process and keep a person responsible for the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}

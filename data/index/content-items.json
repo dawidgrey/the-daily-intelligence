@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-07T20:03:48Z",
+  "generatedAtUtc": "2026-10-08T20:04:25Z",
   "items": [
     {
-      "id": "content-item_2026-10-08_01_claude-haiku-5-5-cuts-the-cost-of-high-volume-ai-work_4bb428a0",
+      "id": "content-item_2026-10-09_01_google-introduces-a-universal-gemini-agent-for-work_16da57f9",
+      "sourceKind": "product",
+      "sourceName": "Google Cloud",
+      "title": "Google introduces a universal Gemini agent for work",
+      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+    },
+    {
+      "id": "content-item_2026-10-09_02_voyager-brings-ai-agents-into-professional-creative-software_a973434a",
+      "sourceKind": "product",
+      "sourceName": "Voyager",
+      "title": "Voyager brings AI agents into professional creative software",
+      "sourceUrl": "https://voyager.so"
+    },
+    {
+      "id": "content-item_2026-10-09_03_embeddinggemma-2-brings-multimodal-search-to-local-devices_4dd29007",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "EmbeddingGemma 2 brings multimodal search to local devices",
+      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+    },
+    {
+      "id": "content-item_2026-10-09_04_anthropic-rewrites-claude-s-rules-for-agents-and-high-risk-work_7a238471",
+      "sourceKind": "regulation",
+      "sourceName": "Anthropic",
+      "title": "Anthropic rewrites Claude’s rules for agents and high-risk work",
+      "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update"
+    },
+    {
+      "id": "content-item_2026-10-09_05_anthropic-opens-a-free-ai-vulnerability-scanner-to-eligible-projects_ecaa8054",
       "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Claude Haiku 5.5 cuts the cost of high-volume AI work",
-      "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5"
+      "title": "Anthropic opens a free AI vulnerability scanner to eligible projects",
+      "sourceUrl": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
     },
     {
-      "id": "content-item_2026-10-08_02_gpt-6-brings-interactive-answers-to-more-chatgpt-users_0ca14509",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-6 brings interactive answers to more ChatGPT users",
-      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone"
-    },
-    {
-      "id": "content-item_2026-10-08_03_liquid-ai-opens-small-multimodal-decision-models-for-edge-devices_0825a489",
+      "id": "content-item_2026-10-09_06_nvidia-adapts-one-nemotron-family-to-gold-level-maths-and-coding_5bdd694c",
       "sourceKind": "research",
-      "sourceName": "Liquid AI on Hugging Face",
-      "title": "Liquid AI opens small multimodal decision models for edge devices",
-      "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1"
+      "sourceName": "NVIDIA on Hugging Face",
+      "title": "NVIDIA adapts one Nemotron family to gold-level maths and coding",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
     },
     {
-      "id": "content-item_2026-10-08_04_windows-ml-adds-experimental-gguf-and-llama-cpp-support_ae4bc5e9",
+      "id": "content-item_2026-10-09_07_goodfire-monitors-ai-agents-by-reading-signals-inside-the-model_e9412c80",
       "sourceKind": "product",
-      "sourceName": "Microsoft Foundry on Windows",
-      "title": "Windows ML adds experimental GGUF and llama.cpp support",
-      "sourceUrl": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/"
+      "sourceName": "TechCrunch",
+      "title": "Goodfire monitors AI agents by reading signals inside the model",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
     },
     {
-      "id": "content-item_2026-10-08_05_openai-publishes-hundreds-of-ai-produced-mathematics-manuscripts_47b9255d",
+      "id": "content-item_2026-10-09_08_claude-adds-live-dashboards-and-editable-animations_8e330312",
+      "sourceKind": "product",
+      "sourceName": "Reuters via CNA",
+      "title": "Claude adds live dashboards and editable animations",
+      "sourceUrl": "https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391"
+    },
+    {
+      "id": "content-item_2026-10-09_09_oracle-shows-how-structured-context-turns-ai-into-repeatable-work_112b5f00",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and Oracle",
+      "title": "Oracle shows how structured context turns AI into repeatable work",
+      "sourceUrl": "https://openai.com/index/oracle"
+    },
+    {
+      "id": "content-item_2026-10-09_10_openai-details-influence-operations-built-behind-convincing-false-fronts_077dea1e",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "OpenAI publishes hundreds of AI-produced mathematics manuscripts",
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+      "title": "OpenAI details influence operations built behind convincing false fronts",
+      "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
     },
     {
-      "id": "content-item_2026-10-08_06_radisson-reports-stronger-booking-conversion-from-its-chatgpt-plugin_04e9dc38",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and Radisson Hotel Group",
-      "title": "Radisson reports stronger booking conversion from its ChatGPT plugin",
-      "sourceUrl": "https://openai.com/index/radisson"
-    },
-    {
-      "id": "content-item_2026-10-08_07_mcdonald-s-faces-a-lawsuit-over-ai-assisted-pricing-guidance_bc9a84bb",
-      "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "McDonald’s faces a lawsuit over AI-assisted pricing guidance",
-      "sourceUrl": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe"
-    },
-    {
-      "id": "content-item_2026-10-08_08_smart-blur-uses-local-ai-to-hide-personal-data-during-screen-sharing_ac9d3c7f",
-      "sourceKind": "product",
-      "sourceName": "Smart Build Labs",
-      "title": "Smart Blur uses local AI to hide personal data during screen sharing",
-      "sourceUrl": "https://smartbuildlabs.com/apps/smart-blur/"
-    },
-    {
-      "id": "content-item_2026-10-08_09_panolayer-adds-deterministic-code-maps-around-coding-agents_75dabcfb",
-      "sourceKind": "product",
-      "sourceName": "Panolayer",
-      "title": "Panolayer adds deterministic code maps around coding agents",
-      "sourceUrl": "https://panolayer.com"
-    },
-    {
-      "id": "content-item_2026-10-08_10_agent-picks-tests-which-developer-tools-coding-agents-actually-choose_560e413d",
-      "sourceKind": "product",
-      "sourceName": "Agent Picks",
-      "title": "Agent Picks tests which developer tools coding agents actually choose",
-      "sourceUrl": "https://agentpicks.io"
-    },
-    {
-      "id": "content-item_2026-10-08_11_garrytan-gbrain-an-opinionated-operating-layer-for-personal-agents_4c1a7c57",
+      "id": "content-item_2026-10-09_11_tracer-cloud-opensre-build-agents-for-production-reliability-work_a9bca652",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "garrytan/gbrain: an opinionated operating layer for personal agents",
-      "sourceUrl": "https://github.com/garrytan/gbrain"
+      "title": "Tracer-Cloud/opensre: build agents for production reliability work",
+      "sourceUrl": "https://github.com/Tracer-Cloud/opensre"
     },
     {
-      "id": "content-item_2026-10-08_12_google-gemma-cookbook-practical-examples-for-google-s-open-models_bb43571b",
+      "id": "content-item_2026-10-09_12_vincentwei1021-video-shotcraft-a-recipe-library-for-agent-made-product-v_998b1a58",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "google-gemma/cookbook: practical examples for Google’s open models",
-      "sourceUrl": "https://github.com/google-gemma/cookbook"
+      "title": "Vincentwei1021/video-shotcraft: a recipe library for agent-made product videos",
+      "sourceUrl": "https://github.com/Vincentwei1021/video-shotcraft"
     },
     {
-      "id": "content-item_2026-10-08_13_vercel-eve-an-open-framework-for-building-and-deploying-agents_52e8ee8b",
+      "id": "content-item_2026-10-09_13_bmad-code-org-bmad-method-structured-workflows-for-ai-driven-development_f950ed2c",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "vercel/eve: an open framework for building and deploying agents",
-      "sourceUrl": "https://github.com/vercel/eve"
+      "title": "bmad-code-org/BMAD-METHOD: structured workflows for AI-driven development",
+      "sourceUrl": "https://github.com/bmad-code-org/BMAD-METHOD"
     }
   ]
 }

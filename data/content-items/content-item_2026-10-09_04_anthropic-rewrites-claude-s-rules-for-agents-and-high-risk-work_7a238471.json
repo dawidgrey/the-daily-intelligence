@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-09_04_anthropic-rewrites-claude-s-rules-for-agents-and-high-risk-work_7a238471",
+  "sourceKind": "regulation",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "canonicalUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-08T20:04:25Z",
+  "createdAtUtc": "2026-10-08T20:04:25Z",
+  "updatedAtUtc": "2026-10-08T20:04:25Z",
+  "title": "Anthropic rewrites Claude’s rules for agents and high-risk work",
+  "friendlyTitle": "Anthropic updates the rules for using Claude",
+  "summary": "Anthropic’s updated Usage Policy, effective November 12, clarifies restrictions on deceptive campaigns, surveillance, weapons software and autonomous physical actions. It also restates human-review and disclosure requirements for high-risk decisions in areas such as health and finance, and adds a narrow rule against sustained, purposeless abuse of Claude.",
+  "friendlySummary": "The new policy explains how Claude may be used in sensitive areas such as health, money, surveillance, weapons and machines that can move. It starts on November 12.",
+  "whyItMatters": "Organisations using Claude in sensitive workflows have a clear deadline to review controls, disclosures and operator responsibilities. The operational changes around human oversight and physical systems are more consequential than the attention-grabbing model-abuse clause.",
+  "friendlyWhyItMatters": "Teams using Claude for important decisions should check their safeguards and tell affected people when AI is involved.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-09"
+  }
+}
