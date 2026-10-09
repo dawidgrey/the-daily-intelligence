@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_13_headroomlabs-ai-headroom-compress-agent-context-before-it-reaches-the-mo_9a75aafc",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/headroomlabs-ai/headroom",
+  "canonicalUrl": "https://github.com/headroomlabs-ai/headroom",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "headroomlabs-ai/headroom: compress agent context before it reaches the model",
+  "friendlyTitle": "Headroom trims large tool results before an AI reads them",
+  "summary": "Headroom is an Apache-2.0 toolkit, proxy and MCP server that compresses tool output, logs, files and retrieval chunks before sending them to an LLM. The active project gained 120 stars in the collected daily Trending data and supports common agent and model frameworks.",
+  "friendlySummary": "Headroom compresses logs, files and other tool output so an agent uses fewer tokens and keeps more room in its context window.",
+  "whyItMatters": "Teams can place Headroom in front of noisy agent tools to reduce context use and keep longer jobs within model limits. Compression can remove a detail that later matters, so compare answers on representative tasks, retain access to original evidence and measure failures as well as token savings.",
+  "friendlyWhyItMatters": "It can reduce cost and context overload in long agent jobs. Keep the original data and test that important details are not removed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

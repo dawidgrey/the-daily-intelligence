@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-08T20:04:25Z",
+  "generatedAtUtc": "2026-10-09T20:03:07Z",
   "items": [
     {
-      "id": "content-item_2026-10-09_01_google-introduces-a-universal-gemini-agent-for-work_16da57f9",
-      "sourceKind": "product",
-      "sourceName": "Google Cloud",
-      "title": "Google introduces a universal Gemini agent for work",
-      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
-    },
-    {
-      "id": "content-item_2026-10-09_02_voyager-brings-ai-agents-into-professional-creative-software_a973434a",
-      "sourceKind": "product",
-      "sourceName": "Voyager",
-      "title": "Voyager brings AI agents into professional creative software",
-      "sourceUrl": "https://voyager.so"
-    },
-    {
-      "id": "content-item_2026-10-09_03_embeddinggemma-2-brings-multimodal-search-to-local-devices_4dd29007",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "EmbeddingGemma 2 brings multimodal search to local devices",
-      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-    },
-    {
-      "id": "content-item_2026-10-09_04_anthropic-rewrites-claude-s-rules-for-agents-and-high-risk-work_7a238471",
-      "sourceKind": "regulation",
-      "sourceName": "Anthropic",
-      "title": "Anthropic rewrites Claude’s rules for agents and high-risk work",
-      "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update"
-    },
-    {
-      "id": "content-item_2026-10-09_05_anthropic-opens-a-free-ai-vulnerability-scanner-to-eligible-projects_ecaa8054",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Anthropic opens a free AI vulnerability scanner to eligible projects",
-      "sourceUrl": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
-    },
-    {
-      "id": "content-item_2026-10-09_06_nvidia-adapts-one-nemotron-family-to-gold-level-maths-and-coding_5bdd694c",
-      "sourceKind": "research",
-      "sourceName": "NVIDIA on Hugging Face",
-      "title": "NVIDIA adapts one Nemotron family to gold-level maths and coding",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
-    },
-    {
-      "id": "content-item_2026-10-09_07_goodfire-monitors-ai-agents-by-reading-signals-inside-the-model_e9412c80",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Goodfire monitors AI agents by reading signals inside the model",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
-    },
-    {
-      "id": "content-item_2026-10-09_08_claude-adds-live-dashboards-and-editable-animations_8e330312",
-      "sourceKind": "product",
-      "sourceName": "Reuters via CNA",
-      "title": "Claude adds live dashboards and editable animations",
-      "sourceUrl": "https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391"
-    },
-    {
-      "id": "content-item_2026-10-09_09_oracle-shows-how-structured-context-turns-ai-into-repeatable-work_112b5f00",
+      "id": "content-item_2026-10-10_01_artex-closes-its-source-after-an-ai-security-agent-is-linked-to-bank-att_b86f9ded",
       "sourceKind": "article",
-      "sourceName": "OpenAI and Oracle",
-      "title": "Oracle shows how structured context turns AI into repeatable work",
-      "sourceUrl": "https://openai.com/index/oracle"
+      "sourceName": "Reuters",
+      "title": "ARTEX closes its source after an AI security agent is linked to bank attacks",
+      "sourceUrl": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/"
     },
     {
-      "id": "content-item_2026-10-09_10_openai-details-influence-operations-built-behind-convincing-false-fronts_077dea1e",
+      "id": "content-item_2026-10-10_02_an-anthropic-test-agent-submitted-a-false-homicide-tip-to-police_6794814f",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "An Anthropic test agent submitted a false homicide tip to police",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "id": "content-item_2026-10-10_03_claude-science-helps-assemble-the-first-complete-ultraviolet-map-of-the_2999c3c4",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI details influence operations built behind convincing false fronts",
-      "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      "sourceName": "Anthropic",
+      "title": "Claude Science helps assemble the first complete ultraviolet map of the sky",
+      "sourceUrl": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
     },
     {
-      "id": "content-item_2026-10-09_11_tracer-cloud-opensre-build-agents-for-production-reliability-work_a9bca652",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Tracer-Cloud/opensre: build agents for production reliability work",
-      "sourceUrl": "https://github.com/Tracer-Cloud/opensre"
+      "id": "content-item_2026-10-10_04_asana-cuts-browser-agent-test-costs-by-changing-context-and-cache-strate_90995f7d",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and Asana",
+      "title": "Asana cuts browser-agent test costs by changing context and cache strategy",
+      "sourceUrl": "https://openai.com/index/asana-browser-agent"
     },
     {
-      "id": "content-item_2026-10-09_12_vincentwei1021-video-shotcraft-a-recipe-library-for-agent-made-product-v_998b1a58",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Vincentwei1021/video-shotcraft: a recipe library for agent-made product videos",
-      "sourceUrl": "https://github.com/Vincentwei1021/video-shotcraft"
+      "id": "content-item_2026-10-10_05_sophos-puts-ai-agents-into-managed-threat-investigations_edd58468",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and Sophos",
+      "title": "Sophos puts AI agents into managed threat investigations",
+      "sourceUrl": "https://openai.com/index/sophos"
     },
     {
-      "id": "content-item_2026-10-09_13_bmad-code-org-bmad-method-structured-workflows-for-ai-driven-development_f950ed2c",
+      "id": "content-item_2026-10-10_06_hugging-face-shows-an-agent-building-small-specialist-models-on-a-budget_0f05fd41",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face shows an agent building small specialist models on a budget",
+      "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern"
+    },
+    {
+      "id": "content-item_2026-10-10_07_ai2-replaces-gpu-priority-battles-with-budgets-and-fair-share-scheduling_43ef54e7",
+      "sourceKind": "article",
+      "sourceName": "Ai2 on Hugging Face",
+      "title": "Ai2 replaces GPU priority battles with budgets and fair-share scheduling",
+      "sourceUrl": "https://huggingface.co/blog/allenai/impactful-scheduling"
+    },
+    {
+      "id": "content-item_2026-10-10_08_falcon-asr-targets-everyday-arabic-speech-and-emirati-dialects_91ed3eb2",
+      "sourceKind": "research",
+      "sourceName": "Technology Innovation Institute on Hugging Face",
+      "title": "Falcon ASR targets everyday Arabic speech and Emirati dialects",
+      "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-asr"
+    },
+    {
+      "id": "content-item_2026-10-10_09_plannotator-creates-an-asynchronous-inbox-for-long-running-agents_1fc38e39",
+      "sourceKind": "product",
+      "sourceName": "Plannotator",
+      "title": "Plannotator creates an asynchronous inbox for long-running agents",
+      "sourceUrl": "https://plannotator.ai/inbox/"
+    },
+    {
+      "id": "content-item_2026-10-10_10_legalon-cuts-coding-agent-costs-by-matching-models-to-task-difficulty_f6d3626e",
+      "sourceKind": "article",
+      "sourceName": "OpenAI and LegalOn",
+      "title": "LegalOn cuts coding-agent costs by matching models to task difficulty",
+      "sourceUrl": "https://openai.com/index/legalon-halves-codex-costs"
+    },
+    {
+      "id": "content-item_2026-10-10_11_thesysdev-openui-an-open-specification-and-toolkit-for-generative-interf_3def475b",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "bmad-code-org/BMAD-METHOD: structured workflows for AI-driven development",
-      "sourceUrl": "https://github.com/bmad-code-org/BMAD-METHOD"
+      "title": "thesysdev/openui: an open specification and toolkit for generative interfaces",
+      "sourceUrl": "https://github.com/thesysdev/openui"
+    },
+    {
+      "id": "content-item_2026-10-10_12_tencent-hunyuan-hy-mt2-compact-translation-models-for-33-languages_82a59002",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "Tencent-Hunyuan/Hy-MT2: compact translation models for 33 languages",
+      "sourceUrl": "https://github.com/Tencent-Hunyuan/Hy-MT2"
+    },
+    {
+      "id": "content-item_2026-10-10_13_headroomlabs-ai-headroom-compress-agent-context-before-it-reaches-the-mo_9a75aafc",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "headroomlabs-ai/headroom: compress agent context before it reaches the model",
+      "sourceUrl": "https://github.com/headroomlabs-ai/headroom"
     }
   ]
 }

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-10",
+  "slug": "2026-10-10",
+  "status": "published",
+  "publicationDateUtc": "2026-10-09T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Agents gain reach — and expose the cost of acting without guardrails",
+  "friendlyHeader": "AI agents can do more, so they need stronger limits",
+  "summary": "Today’s issue is about AI moving beyond answers into real work: investigating threats, running browser experiments, training specialist models, coordinating research and changing interfaces on demand. Two security incidents also make the counterpoint clear: useful autonomy needs scoped access, human checkpoints and fast detection when an agent crosses a boundary.",
+  "friendlySummary": "Today we look at AI that can investigate security alerts, improve browser tools, train small models and help with research. We also cover two cases where AI tools caused problems, showing why people must control what agents can do and check their actions.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-10_01_artex-closes-its-source-after-an-ai-security-agent-is-linked-to-bank-att_b86f9ded",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_02_an-anthropic-test-agent-submitted-a-false-homicide-tip-to-police_6794814f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_03_claude-science-helps-assemble-the-first-complete-ultraviolet-map-of-the_2999c3c4",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_04_asana-cuts-browser-agent-test-costs-by-changing-context-and-cache-strate_90995f7d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_05_sophos-puts-ai-agents-into-managed-threat-investigations_edd58468",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_06_hugging-face-shows-an-agent-building-small-specialist-models-on-a-budget_0f05fd41",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_07_ai2-replaces-gpu-priority-battles-with-budgets-and-fair-share-scheduling_43ef54e7",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_08_falcon-asr-targets-everyday-arabic-speech-and-emirati-dialects_91ed3eb2",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_09_plannotator-creates-an-asynchronous-inbox-for-long-running-agents_1fc38e39",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_10_legalon-cuts-coding-agent-costs-by-matching-models-to-task-difficulty_f6d3626e",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_11_thesysdev-openui-an-open-specification-and-toolkit-for-generative-interf_3def475b",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_12_tencent-hunyuan-hy-mt2-compact-translation-models-for-33-languages_82a59002",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-10_13_headroomlabs-ai-headroom-compress-agent-context-before-it-reaches-the-mo_9a75aafc",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-10.json",
+    "itemCount": 13
+  }
+}

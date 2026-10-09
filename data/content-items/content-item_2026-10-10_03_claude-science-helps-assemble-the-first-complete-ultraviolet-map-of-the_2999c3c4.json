@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_03_claude-science-helps-assemble-the-first-complete-ultraviolet-map-of-the_2999c3c4",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+  "canonicalUrl": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Claude Science helps assemble the first complete ultraviolet map of the sky",
+  "friendlyTitle": "AI helps finish a missing map of the sky",
+  "summary": "Astrophysicist Brice Ménard used Claude Science agents to gather, calibrate and combine ultraviolet observations from several space missions, then estimate the unobserved third of the sky using data at other wavelengths. Anthropic says tests on hidden measured regions put the estimates within about 10% of the real ultraviolet measurements and the public map marks predicted areas with uncertainty information.",
+  "friendlySummary": "Claude agents combined data from several space missions to make a full ultraviolet map of the sky. About one third is estimated from other measurements, and the map shows which parts are predictions.",
+  "whyItMatters": "This is a practical example of agents doing the patient integration work that often leaves valuable scientific resources unfinished. The map also models good disclosure: measured and predicted data remain distinguishable, and uncertainty is part of the output rather than hidden behind a seamless image.",
+  "friendlyWhyItMatters": "AI can help complete useful research work that takes a long time. It is important to show which results were measured and which were estimated.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

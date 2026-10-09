@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_06_hugging-face-shows-an-agent-building-small-specialist-models-on-a-budget_0f05fd41",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern",
+  "canonicalUrl": "https://huggingface.co/blog/building-with-ml-intern",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Hugging Face shows an agent building small specialist models on a budget",
+  "friendlyTitle": "An AI agent can help train a small model for a specific job",
+  "summary": "A Hugging Face team used ML Intern to plan, train, evaluate and publish six specialist models from detailed chat briefs. One project distilled a 9-billion-parameter prompt rewriter into a 0.8-billion-parameter CPU model for a reported $16 of compute; another improved citrus-disease image classification from a 14.9% baseline to 52.8% on its test set for about $1.90.",
+  "friendlySummary": "Hugging Face used ML Intern to create several small models from written instructions. The agent planned jobs, asked for a budget, tested the setup, trained the models and published the results.",
+  "whyItMatters": "Model training is becoming an agent workflow rather than a specialist-only command line exercise. The most reusable lesson is procedural: establish a baseline, run a cheap smoke test, verify that training changed the weights, define deliverables and set a hard spending cap before scaling up.",
+  "friendlyWhyItMatters": "This can make custom models easier to build. Start with a baseline and a small test, and set a clear cost limit before the full training run.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

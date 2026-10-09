@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_12_tencent-hunyuan-hy-mt2-compact-translation-models-for-33-languages_82a59002",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+  "canonicalUrl": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Tencent-Hunyuan/Hy-MT2: compact translation models for 33 languages",
+  "friendlyTitle": "Hy-MT2 offers translation models for 33 languages",
+  "summary": "Hy-MT2 is a family of 1.8-billion, 7-billion and mixture-of-experts translation models supporting 33 languages and instruction-following translation. The repository gained 147 stars in the day’s GitHub Trending snapshot, and Tencent says extreme quantisation can reduce the smallest model to about 440MB for on-device use.",
+  "friendlySummary": "Hy-MT2 includes several model sizes for translation and can follow extra instructions about the result. A compressed version of the smallest model may fit on local devices.",
+  "whyItMatters": "Developers can evaluate Hy-MT2 for local or private translation, including subtitles and domain-specific instructions, without routing every document to a commercial API. Check the model licence, benchmark claims and quality for the exact language pair and terminology before production use.",
+  "friendlyWhyItMatters": "It may help apps translate private text locally. Test it with the languages and specialist words your users actually need.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_04_asana-cuts-browser-agent-test-costs-by-changing-context-and-cache-strate_90995f7d",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and Asana",
+  "sourceUrl": "https://openai.com/index/asana-browser-agent",
+  "canonicalUrl": "https://openai.com/index/asana-browser-agent",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Asana cuts browser-agent test costs by changing context and cache strategy",
+  "friendlyTitle": "Asana makes a browser agent much cheaper and faster",
+  "summary": "Asana reports that a 144-run study reduced the estimated model cost of a browser workflow from at least $36.21 to $0.47 and cut runtime from at least 22.5 minutes to about four. The winning setup retained more page history, cached it and removed old screenshots in batches instead of rewriting the context at every step.",
+  "friendlySummary": "Asana changed how its agent stores page history and screenshots. In its tests, the same browser task became much cheaper and faster while still returning the correct answer.",
+  "whyItMatters": "Agent economics depend heavily on harness design, not only model prices. Teams can often improve cost and reliability by preserving stable context for caching, retaining enough history to avoid repeated browsing and testing each configuration against the same task; the headline figures are company-reported and workload-specific.",
+  "friendlyWhyItMatters": "Before choosing a cheaper model, improve how the agent manages its memory and cache. Test the changes on your own real tasks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

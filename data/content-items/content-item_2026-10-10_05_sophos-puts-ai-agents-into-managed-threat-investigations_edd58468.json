@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_05_sophos-puts-ai-agents-into-managed-threat-investigations_edd58468",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and Sophos",
+  "sourceUrl": "https://openai.com/index/sophos",
+  "canonicalUrl": "https://openai.com/index/sophos",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Sophos puts AI agents into managed threat investigations",
+  "friendlyTitle": "Sophos uses agents to investigate security alerts faster",
+  "summary": "Sophos says agents built through OpenAI Daybreak collect evidence, plan investigations and recommend responses across its managed detection service. For cases using the agents, the company reports an average response time of 89 seconds versus about 38 minutes previously, with 52% resolved end to end inside boundaries set by security analysts.",
+  "friendlySummary": "Sophos says AI agents gather evidence and plan responses for security cases. About half of the covered cases are completed by agents, while difficult or risky decisions go to people.",
+  "whyItMatters": "Security operations are a strong fit for bounded agents because the work is evidence-heavy and time-sensitive, but response actions can also be destructive. Sophos’s notify, collaborate and authorise modes offer a useful pattern: match automation authority to risk, customer preference and analyst confidence rather than making autonomy all-or-nothing.",
+  "friendlyWhyItMatters": "Security agents can save time when their permissions match the risk. Keep human approval for actions that could damage systems or interrupt work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

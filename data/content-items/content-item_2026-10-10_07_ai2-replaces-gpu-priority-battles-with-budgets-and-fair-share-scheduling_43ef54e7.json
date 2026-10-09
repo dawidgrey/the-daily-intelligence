@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_07_ai2-replaces-gpu-priority-battles-with-budgets-and-fair-share-scheduling_43ef54e7",
+  "sourceKind": "article",
+  "sourceName": "Ai2 on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Ai2 replaces GPU priority battles with budgets and fair-share scheduling",
+  "friendlyTitle": "Ai2 uses clear budgets to share scarce GPUs",
+  "summary": "Ai2 has replaced a priority-based scheduler for thousands of research GPUs with a hierarchy of time budgets, fair-share allocation and protected time slices. The institute says its previous system encouraged priority inflation, idle resource hoarding and costly negotiations over jobs that could not be interrupted.",
+  "friendlySummary": "Ai2 stopped letting every research job claim high priority. Teams now receive a share of GPU time, while the scheduler uses spare capacity where it is needed.",
+  "whyItMatters": "Scarce AI compute is as much a governance problem as a technical one. Allocating time according to strategy, then letting a scheduler share unused capacity, gives teams clearer expectations and reduces incentives to game priority labels—a pattern that also applies to internal model quotas and agent budgets.",
+  "friendlyWhyItMatters": "Clear budgets can be fairer and easier to manage than constant priority arguments. The same idea can help companies share AI spending across teams.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

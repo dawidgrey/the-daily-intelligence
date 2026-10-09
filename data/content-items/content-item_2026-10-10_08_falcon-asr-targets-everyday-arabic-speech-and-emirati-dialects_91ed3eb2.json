@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_08_falcon-asr-targets-everyday-arabic-speech-and-emirati-dialects_91ed3eb2",
+  "sourceKind": "research",
+  "sourceName": "Technology Innovation Institute on Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "canonicalUrl": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "Falcon ASR targets everyday Arabic speech and Emirati dialects",
+  "friendlyTitle": "Falcon ASR improves speech recognition for Arabic and Emirati voices",
+  "summary": "The Technology Innovation Institute has released Falcon ASR, a 1.6-billion-parameter speech-recognition model focused on Arabic and Emirati speech, with support for English, French, Spanish and Portuguese. TII reports a 20.92% average word error rate across six public Arabic test sets, word-level timestamps and improved results on its internal Emirati evaluation.",
+  "friendlySummary": "Falcon ASR turns speech into text in Arabic and four other languages. It was trained for dialects and difficult conditions such as phone audio, noise and overlapping voices.",
+  "whyItMatters": "Speech tools work poorly when dialects and everyday recording conditions are missing from training and evaluation. Falcon ASR gives developers another option for meetings, calls and transcription in under-served language settings, though its vendor-reported results should be tested on the accents, noise and vocabulary of the intended users.",
+  "friendlyWhyItMatters": "More people may get useful transcription in the language and dialect they actually speak. Test it with your own recordings before depending on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

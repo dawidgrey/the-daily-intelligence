@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-10_10_legalon-cuts-coding-agent-costs-by-matching-models-to-task-difficulty_f6d3626e",
+  "sourceKind": "article",
+  "sourceName": "OpenAI and LegalOn",
+  "sourceUrl": "https://openai.com/index/legalon-halves-codex-costs",
+  "canonicalUrl": "https://openai.com/index/legalon-halves-codex-costs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-09T20:03:07Z",
+  "createdAtUtc": "2026-10-09T20:03:07Z",
+  "updatedAtUtc": "2026-10-09T20:03:07Z",
+  "title": "LegalOn cuts coding-agent costs by matching models to task difficulty",
+  "friendlyTitle": "LegalOn chooses different AI models for easy and hard coding work",
+  "summary": "LegalOn says it reduced estimated daily Codex costs by about 65% without slowing development by assigning lightweight, standard and frontier models to different levels of work. It also introduced department and individual budgets, restricted fast mode by default and allowed larger budgets for newer business areas where speed mattered more.",
+  "friendlySummary": "LegalOn uses lighter models for clear implementation tasks and stronger models for difficult design and coordination. It says this cut daily AI costs while keeping development speed.",
+  "whyItMatters": "Giving every task the strongest model is simple but expensive. A tiered routing policy, visible budgets and exceptions based on business stage can preserve experimentation while containing spend; the next useful step is LegalOn’s proposed measurement of AI cost per feature release against customer value.",
+  "friendlyWhyItMatters": "Use the least expensive model that can do the job well. Track spending by team and connect it to useful work, not just the number of AI requests.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-10"
+  }
+}

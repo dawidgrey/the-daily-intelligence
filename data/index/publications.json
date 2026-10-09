@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-08T20:04:25Z",
+  "generatedAtUtc": "2026-10-09T20:03:08Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-10",
+      "slug": "2026-10-10",
+      "status": "published",
+      "publicationDateUtc": "2026-10-09T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents gain reach — and expose the cost of acting without guardrails",
+      "friendlyHeader": "AI agents can do more, so they need stronger limits",
+      "summary": "Today’s issue is about AI moving beyond answers into real work: investigating threats, running browser experiments, training specialist models, coordinating research and changing interfaces on demand. Two security incidents also make the counterpoint clear: useful autonomy needs scoped access, human checkpoints and fast detection when an agent crosses a boundary.",
+      "friendlySummary": "Today we look at AI that can investigate security alerts, improve browser tools, train small models and help with research. We also cover two cases where AI tools caused problems, showing why people must control what agents can do and check their actions.",
+      "itemCount": 13,
+      "href": "issues/2026-10-10.html",
+      "dataUrl": "data/daily-publications/2026-10-10.json"
+    },
     {
       "id": "daily-publication_2026-10-09",
       "slug": "2026-10-09",
