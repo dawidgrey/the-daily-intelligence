@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-10-09T20:03:08Z",
+  "generatedAtUtc": "2026-10-10T20:05:49Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-10-11",
+      "slug": "2026-10-11",
+      "status": "published",
+      "publicationDateUtc": "2026-10-10T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Small models, stronger controls and the work around AI",
+      "friendlyHeader": "Useful AI needs the right tool and good checks",
+      "summary": "Today’s issue looks beyond headline capability to the systems that make AI useful: fast decision models, security programs, measurable review bottlenecks and safer agent infrastructure. The practical lesson is consistent—better results come from matching the tool to the task and checking what happened afterwards.",
+      "friendlySummary": "Today we look at faster AI models, safer software, cloud phones for agents and new research about AI at work. The main lesson is simple: choose the right tool, set clear limits and check the final result.",
+      "itemCount": 13,
+      "href": "issues/2026-10-11.html",
+      "dataUrl": "data/daily-publications/2026-10-11.json"
+    },
     {
       "id": "daily-publication_2026-10-10",
       "slug": "2026-10-10",

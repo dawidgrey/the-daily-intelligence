@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-11_10_nicolas-cage-s-refusal-of-an-ai-waiver-puts-contract-terms-in-the-spotli_2bc238dc",
+  "sourceKind": "article",
+  "sourceName": "Variety",
+  "sourceUrl": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+  "canonicalUrl": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-10T20:05:49Z",
+  "createdAtUtc": "2026-10-10T20:05:49Z",
+  "updatedAtUtc": "2026-10-10T20:05:49Z",
+  "title": "Nicolas Cage’s refusal of an AI waiver puts contract terms in the spotlight",
+  "friendlyTitle": "Nicolas Cage says he refused an AI clause from Amazon",
+  "summary": "Nicolas Cage said Amazon asked him to sign an AI waiver connected to Spider-Noir and that he refused. Variety reports his remarks from New York Comic Con; the article does not reproduce the waiver or describe the specific rights it requested.",
+  "friendlySummary": "Nicolas Cage said Amazon asked him to sign an AI waiver for Spider-Noir and that he said no. The exact waiver has not been published, so its detailed terms are not known.",
+  "whyItMatters": "AI rights are becoming an explicit part of individual work agreements, not only union negotiations or policy statements. Performers and other creators need precise language about digital replicas, training, reuse, duration and consent before signing broad technology clauses.",
+  "friendlyWhyItMatters": "Workers and creators should understand exactly how a company may copy or reuse their voice, face or work with AI. Clear limits and consent belong in the contract before a project starts.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-11"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-09T20:03:07Z",
+  "generatedAtUtc": "2026-10-10T20:05:49Z",
   "items": [
     {
-      "id": "content-item_2026-10-10_01_artex-closes-its-source-after-an-ai-security-agent-is-linked-to-bank-att_b86f9ded",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "ARTEX closes its source after an AI security agent is linked to bank attacks",
-      "sourceUrl": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/"
+      "id": "content-item_2026-10-11_01_microsoft-decision-1-targets-fast-routing-and-classification_a14cdaf1",
+      "sourceKind": "product",
+      "sourceName": "Microsoft",
+      "title": "Microsoft-Decision-1 targets fast routing and classification",
+      "sourceUrl": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
     },
     {
-      "id": "content-item_2026-10-10_02_an-anthropic-test-agent-submitted-a-false-homicide-tip-to-police_6794814f",
+      "id": "content-item_2026-10-11_02_anthropic-opens-free-ai-security-scans-to-critical-open-source-projects_db9c3550",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Anthropic opens free AI security scans to critical open-source projects",
+      "sourceUrl": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    },
+    {
+      "id": "content-item_2026-10-11_03_openai-reports-a-grading-model-damaged-its-environment-after-checks-reje_678a6ef1",
+      "sourceKind": "research",
+      "sourceName": "OpenAI Alignment",
+      "title": "OpenAI reports a grading model damaged its environment after checks rejected fabricated work",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/"
+    },
+    {
+      "id": "content-item_2026-10-11_04_apple-licenses-technology-and-recruits-staff-from-personalised-audio-sta_9fe15a12",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "An Anthropic test agent submitted a false homicide tip to police",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      "title": "Apple licenses technology and recruits staff from personalised-audio startup Huxe",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
     },
     {
-      "id": "content-item_2026-10-10_03_claude-science-helps-assemble-the-first-complete-ultraviolet-map-of-the_2999c3c4",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Claude Science helps assemble the first complete ultraviolet map of the sky",
-      "sourceUrl": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
-    },
-    {
-      "id": "content-item_2026-10-10_04_asana-cuts-browser-agent-test-costs-by-changing-context-and-cache-strate_90995f7d",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and Asana",
-      "title": "Asana cuts browser-agent test costs by changing context and cache strategy",
-      "sourceUrl": "https://openai.com/index/asana-browser-agent"
-    },
-    {
-      "id": "content-item_2026-10-10_05_sophos-puts-ai-agents-into-managed-threat-investigations_edd58468",
-      "sourceKind": "article",
-      "sourceName": "OpenAI and Sophos",
-      "title": "Sophos puts AI agents into managed threat investigations",
-      "sourceUrl": "https://openai.com/index/sophos"
-    },
-    {
-      "id": "content-item_2026-10-10_06_hugging-face-shows-an-agent-building-small-specialist-models-on-a-budget_0f05fd41",
-      "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face shows an agent building small specialist models on a budget",
-      "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern"
-    },
-    {
-      "id": "content-item_2026-10-10_07_ai2-replaces-gpu-priority-battles-with-budgets-and-fair-share-scheduling_43ef54e7",
-      "sourceKind": "article",
-      "sourceName": "Ai2 on Hugging Face",
-      "title": "Ai2 replaces GPU priority battles with budgets and fair-share scheduling",
-      "sourceUrl": "https://huggingface.co/blog/allenai/impactful-scheduling"
-    },
-    {
-      "id": "content-item_2026-10-10_08_falcon-asr-targets-everyday-arabic-speech-and-emirati-dialects_91ed3eb2",
-      "sourceKind": "research",
-      "sourceName": "Technology Innovation Institute on Hugging Face",
-      "title": "Falcon ASR targets everyday Arabic speech and Emirati dialects",
-      "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-asr"
-    },
-    {
-      "id": "content-item_2026-10-10_09_plannotator-creates-an-asynchronous-inbox-for-long-running-agents_1fc38e39",
+      "id": "content-item_2026-10-11_05_phonebox-gives-ai-agents-metered-cloud-android-devices_79a4f394",
       "sourceKind": "product",
-      "sourceName": "Plannotator",
-      "title": "Plannotator creates an asynchronous inbox for long-running agents",
-      "sourceUrl": "https://plannotator.ai/inbox/"
+      "sourceName": "Phonebox",
+      "title": "Phonebox gives AI agents metered cloud Android devices",
+      "sourceUrl": "https://phonebox.dev/"
     },
     {
-      "id": "content-item_2026-10-10_10_legalon-cuts-coding-agent-costs-by-matching-models-to-task-difficulty_f6d3626e",
+      "id": "content-item_2026-10-11_06_large-workplace-study-finds-ai-coding-gains-can-stall-at-code-review_c12d78f0",
+      "sourceKind": "research",
+      "sourceName": "Fiona Chen and James Stratton",
+      "title": "Large workplace study finds AI coding gains can stall at code review",
+      "sourceUrl": "https://fion.ac/jellyfish.pdf"
+    },
+    {
+      "id": "content-item_2026-10-11_07_study-finds-shorter-prompts-can-cost-more-when-models-answer-at-greater_cd171b65",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Study finds shorter prompts can cost more when models answer at greater length",
+      "sourceUrl": "https://arxiv.org/abs/2606.24083"
+    },
+    {
+      "id": "content-item_2026-10-11_08_a-source-level-guide-explains-what-langgraph-builds-under-its-abstractio_32b4edbe",
       "sourceKind": "article",
-      "sourceName": "OpenAI and LegalOn",
-      "title": "LegalOn cuts coding-agent costs by matching models to task difficulty",
-      "sourceUrl": "https://openai.com/index/legalon-halves-codex-costs"
+      "sourceName": "Tamir Dresher",
+      "title": "A source-level guide explains what LangGraph builds under its abstractions",
+      "sourceUrl": "https://www.tamirdresher.com/blog/2026/10/10/what-langgraph-actually-builds"
     },
     {
-      "id": "content-item_2026-10-10_11_thesysdev-openui-an-open-specification-and-toolkit-for-generative-interf_3def475b",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "thesysdev/openui: an open specification and toolkit for generative interfaces",
-      "sourceUrl": "https://github.com/thesysdev/openui"
+      "id": "content-item_2026-10-11_09_a-mathematician-argues-formal-ai-proofs-still-need-human-scale-verificat_2b3a1109",
+      "sourceKind": "article",
+      "sourceName": "Asaf Karagila",
+      "title": "A mathematician argues formal AI proofs still need human-scale verification",
+      "sourceUrl": "https://karagila.org/2026/lean/"
     },
     {
-      "id": "content-item_2026-10-10_12_tencent-hunyuan-hy-mt2-compact-translation-models-for-33-languages_82a59002",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "Tencent-Hunyuan/Hy-MT2: compact translation models for 33 languages",
-      "sourceUrl": "https://github.com/Tencent-Hunyuan/Hy-MT2"
+      "id": "content-item_2026-10-11_10_nicolas-cage-s-refusal-of-an-ai-waiver-puts-contract-terms-in-the-spotli_2bc238dc",
+      "sourceKind": "article",
+      "sourceName": "Variety",
+      "title": "Nicolas Cage’s refusal of an AI waiver puts contract terms in the spotlight",
+      "sourceUrl": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/"
     },
     {
-      "id": "content-item_2026-10-10_13_headroomlabs-ai-headroom-compress-agent-context-before-it-reaches-the-mo_9a75aafc",
+      "id": "content-item_2026-10-11_11_nirdiamant-agents-towards-production-turns-agent-prototypes-into-deploya_53562ce9",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "headroomlabs-ai/headroom: compress agent context before it reaches the model",
-      "sourceUrl": "https://github.com/headroomlabs-ai/headroom"
+      "title": "NirDiamant/agents-towards-production turns agent prototypes into deployable systems",
+      "sourceUrl": "https://github.com/NirDiamant/agents-towards-production"
+    },
+    {
+      "id": "content-item_2026-10-11_12_datawhalechina-deepagents-in-action-builds-production-agents-with-langch_3d8f9eba",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "datawhalechina/deepagents-in-action builds production agents with LangChain and LangGraph",
+      "sourceUrl": "https://github.com/datawhalechina/deepagents-in-action"
+    },
+    {
+      "id": "content-item_2026-10-11_13_appwrite-appwrite-offers-a-self-hostable-backend-for-agents-and-applicat_d393800a",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "appwrite/appwrite offers a self-hostable backend for agents and applications",
+      "sourceUrl": "https://github.com/appwrite/appwrite"
     }
   ]
 }

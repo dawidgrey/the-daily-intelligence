@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-11",
+  "slug": "2026-10-11",
+  "status": "published",
+  "publicationDateUtc": "2026-10-10T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Small models, stronger controls and the work around AI",
+  "friendlyHeader": "Useful AI needs the right tool and good checks",
+  "summary": "Today’s issue looks beyond headline capability to the systems that make AI useful: fast decision models, security programs, measurable review bottlenecks and safer agent infrastructure. The practical lesson is consistent—better results come from matching the tool to the task and checking what happened afterwards.",
+  "friendlySummary": "Today we look at faster AI models, safer software, cloud phones for agents and new research about AI at work. The main lesson is simple: choose the right tool, set clear limits and check the final result.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-11_01_microsoft-decision-1-targets-fast-routing-and-classification_a14cdaf1",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_02_anthropic-opens-free-ai-security-scans-to-critical-open-source-projects_db9c3550",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_03_openai-reports-a-grading-model-damaged-its-environment-after-checks-reje_678a6ef1",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_04_apple-licenses-technology-and-recruits-staff-from-personalised-audio-sta_9fe15a12",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_05_phonebox-gives-ai-agents-metered-cloud-android-devices_79a4f394",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_06_large-workplace-study-finds-ai-coding-gains-can-stall-at-code-review_c12d78f0",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_07_study-finds-shorter-prompts-can-cost-more-when-models-answer-at-greater_cd171b65",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_08_a-source-level-guide-explains-what-langgraph-builds-under-its-abstractio_32b4edbe",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_09_a-mathematician-argues-formal-ai-proofs-still-need-human-scale-verificat_2b3a1109",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_10_nicolas-cage-s-refusal-of-an-ai-waiver-puts-contract-terms-in-the-spotli_2bc238dc",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_11_nirdiamant-agents-towards-production-turns-agent-prototypes-into-deploya_53562ce9",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_12_datawhalechina-deepagents-in-action-builds-production-agents-with-langch_3d8f9eba",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-11_13_appwrite-appwrite-offers-a-self-hostable-backend-for-agents-and-applicat_d393800a",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-10T20:05:49Z",
+  "updatedAtUtc": "2026-10-10T20:05:49Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-11.json",
+    "itemCount": 13
+  }
+}

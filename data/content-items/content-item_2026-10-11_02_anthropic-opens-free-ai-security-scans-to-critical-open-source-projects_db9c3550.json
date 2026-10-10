@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-11_02_anthropic-opens-free-ai-security-scans-to-critical-open-source-projects_db9c3550",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "canonicalUrl": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-10T20:05:49Z",
+  "createdAtUtc": "2026-10-10T20:05:49Z",
+  "updatedAtUtc": "2026-10-10T20:05:49Z",
+  "title": "Anthropic opens free AI security scans to critical open-source projects",
+  "friendlyTitle": "Anthropic offers free security scans for important open-source software",
+  "summary": "Anthropic launched its Cyber Mission, combining a critical-infrastructure defence program with a free, opt-in OSS Scanner for established open-source projects. Enrolled maintainers can receive regular model-generated vulnerability reports and suggested patches, with clear warnings that fast-track reports may not have human review.",
+  "friendlySummary": "Maintainers of widely used open-source projects can apply for regular AI security scans at no cost. The scanner can report possible bugs and suggest fixes, but some reports may not be checked by a person first.",
+  "whyItMatters": "Small maintainer teams often protect software used by millions of people. Free scanning could help them find important flaws earlier, but unvalidated reports still require triage, reproducible evidence and careful patch review rather than automatic acceptance.",
+  "friendlyWhyItMatters": "Open-source teams often have limited time even when many products depend on their code. The scans may help, but maintainers still need to confirm each problem and review every fix.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-11"
+  }
+}
