@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-12_07_pollo-ai-combines-model-routing-with-guided-ad-creation_ca1ec6c6",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/pollo-ai",
+  "canonicalUrl": "https://openai.com/index/pollo-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-11T20:05:00Z",
+  "createdAtUtc": "2026-10-11T20:05:00Z",
+  "updatedAtUtc": "2026-10-11T20:05:00Z",
+  "title": "Pollo AI combines model routing with guided ad creation",
+  "friendlyTitle": "Pollo AI turns rough ideas into guided video and ad workflows",
+  "summary": "Pollo AI uses different OpenAI models for routing, narrative planning and image generation inside a guided workflow for videos and campaigns. The company says users spend less time choosing and switching models.",
+  "friendlySummary": "Pollo AI uses different AI models for different parts of creative work, such as planning a story, making images and building a short ad.",
+  "whyItMatters": "The useful pattern is orchestration, not merely generation: match cheaper models to routine steps and stronger models to harder creative decisions. Small teams can apply the same approach to control cost and reduce tool friction.",
+  "friendlyWhyItMatters": "Using the right model for each step can save time and money instead of using the most powerful model for everything.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-12"
+  }
+}

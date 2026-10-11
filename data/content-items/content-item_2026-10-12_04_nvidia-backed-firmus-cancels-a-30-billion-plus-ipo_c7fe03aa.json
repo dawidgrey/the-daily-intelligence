@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-12_04_nvidia-backed-firmus-cancels-a-30-billion-plus-ipo_c7fe03aa",
+  "sourceKind": "article",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+  "canonicalUrl": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-11T20:05:00Z",
+  "createdAtUtc": "2026-10-11T20:05:00Z",
+  "updatedAtUtc": "2026-10-11T20:05:00Z",
+  "title": "Nvidia-backed Firmus cancels a $30 billion-plus IPO",
+  "friendlyTitle": "A large AI data-centre company has cancelled its stock listing",
+  "summary": "Australian AI data-centre operator Firmus has withdrawn its planned public listing, citing market conditions. One large investor told the BBC that the company’s valuation and likely need for more debt made the offer unattractive.",
+  "friendlySummary": "Firmus decided not to sell shares to the public after investors raised concerns about its price and future borrowing needs.",
+  "whyItMatters": "AI infrastructure demand remains strong, but public markets are becoming more selective about price, debt and credible returns. Businesses should expect funding discipline to matter alongside growth stories.",
+  "friendlyWhyItMatters": "Investors still like AI infrastructure, but they are asking harder questions about cost, debt and how the business will make money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-12"
+  }
+}

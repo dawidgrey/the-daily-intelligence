@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-12_05_pubmed-pilots-a-visual-map-of-connected-biomedical-research_3001d6bb",
+  "sourceKind": "product",
+  "sourceName": "U.S. National Library of Medicine",
+  "sourceUrl": "https://linkeddiscoveries.ncbi.nlm.nih.gov",
+  "canonicalUrl": "https://linkeddiscoveries.ncbi.nlm.nih.gov",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-11T20:05:00Z",
+  "createdAtUtc": "2026-10-11T20:05:00Z",
+  "updatedAtUtc": "2026-10-11T20:05:00Z",
+  "title": "PubMed pilots a visual map of connected biomedical research",
+  "friendlyTitle": "PubMed has a new way to explore related medical research",
+  "summary": "Linked Discoveries is an early-stage NLM pilot that builds neighborhoods around PubMed articles, surfacing related papers, shared genes, chemicals and conditions, plus citations, funding, reviews and retractions.",
+  "friendlySummary": "Linked Discoveries shows papers connected to a PubMed article and adds useful details such as shared topics, funding, reviews and retractions.",
+  "whyItMatters": "Researchers and curious readers can explore the evidence around a paper instead of reading it in isolation. The pilot may make contradictory findings, retractions and less prominent related work easier to spot.",
+  "friendlyWhyItMatters": "It can help you understand the wider evidence around one study and notice important papers you might otherwise miss.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-12"
+  }
+}

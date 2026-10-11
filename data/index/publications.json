@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-10T20:05:49Z",
+  "generatedAtUtc": "2026-10-11T20:05:01Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-12",
+      "slug": "2026-10-12",
+      "status": "published",
+      "publicationDateUtc": "2026-10-11T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI agents meet the limits of trust, cost and control",
+      "friendlyHeader": "Powerful AI needs clear limits",
+      "summary": "Today’s issue follows a practical thread: capable AI needs stronger boundaries. Microsoft and Anthropic are calling for external controls, Wikimedia documents the cost of poorly contained agents, and fresh benchmarks question whether agent teams earn their extra tokens. We also look at useful tools for research, study, creative work and building better interfaces.",
+      "friendlySummary": "Today we look at how people can use AI more safely and wisely. There are new lessons about controlling AI agents, keeping costs down, helping students and researchers, and building useful tools.",
+      "itemCount": 13,
+      "href": "issues/2026-10-12.html",
+      "dataUrl": "data/daily-publications/2026-10-12.json"
+    },
     {
       "id": "daily-publication_2026-10-11",
       "slug": "2026-10-11",

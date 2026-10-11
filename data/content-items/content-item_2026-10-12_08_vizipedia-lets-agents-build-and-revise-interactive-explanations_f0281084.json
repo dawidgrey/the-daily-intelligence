@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-12_08_vizipedia-lets-agents-build-and-revise-interactive-explanations_f0281084",
+  "sourceKind": "product",
+  "sourceName": "Shapeless AI",
+  "sourceUrl": "https://shapelessai.com/vizipedia",
+  "canonicalUrl": "https://shapelessai.com/vizipedia",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-11T20:05:00Z",
+  "createdAtUtc": "2026-10-11T20:05:00Z",
+  "updatedAtUtc": "2026-10-11T20:05:00Z",
+  "title": "Vizipedia lets agents build and revise interactive explanations",
+  "friendlyTitle": "Vizipedia uses AI agents to make interactive lessons",
+  "summary": "Vizipedia is a small open-source visual encyclopedia whose interactive pages are edited through code by AI agents, with every version retained. Its initial collection explains topics including transformer attention, Git storage and recommendation systems.",
+  "friendlySummary": "The site offers visual explanations that AI coding agents can update, while keeping a record of every version.",
+  "whyItMatters": "It is an interesting test of agents as maintainers of interactive learning material rather than just text generators. The visible version history also gives readers a way to inspect how explanations change.",
+  "friendlyWhyItMatters": "Interactive examples can make difficult ideas easier to learn, and the history makes changes easier to check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-12"
+  }
+}
