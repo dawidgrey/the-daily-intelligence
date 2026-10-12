@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_09_fresh-context-helps-long-running-agents-escape-unproductive-ideas_eb9a1340",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2610.07447",
+  "canonicalUrl": "https://arxiv.org/abs/2610.07447",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "Fresh context helps long-running agents escape unproductive ideas",
+  "friendlyTitle": "Starting a fresh chat can help an AI find a better answer",
+  "summary": "Microsoft researchers found that long-running research agents can become trapped in local “idea basins” even when given more compute. Their Fork-and-Flush method keeps the workspace, starts parallel branches with empty chat histories and continues from the best result, outperforming single-run and best-of-N baselines across 13 tasks under equal compute budgets.",
+  "friendlySummary": "Researchers kept the AI’s files but cleared its conversation and let several fresh attempts continue. This helped the system escape ideas that were going nowhere.",
+  "whyItMatters": "More conversation history is not always helpful. For difficult coding or research work, saving verified artifacts and restarting the reasoning context may produce more diverse approaches than endlessly extending one thread.",
+  "friendlyWhyItMatters": "For a hard task, save the useful work and try a clean conversation instead of carrying every old thought forward.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}

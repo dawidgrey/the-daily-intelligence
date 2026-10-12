@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_07_blueprints-ai-targets-permit-ready-construction-drawings-from-rough-inpu_6ecbcc7a",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "Blueprints AI targets permit-ready construction drawings from rough inputs",
+  "friendlyTitle": "AI can turn a sketch into a first set of building plans",
+  "summary": "Blueprints AI says its software can turn a photo, PDF or sketch into construction drawings designed to comply with local codes. The company is starting with repeatable commercial projects, where faster first drafts could remove a costly administrative bottleneck.",
+  "friendlySummary": "Blueprints AI makes construction drawings from photos, PDFs or sketches and aims to include local building rules.",
+  "whyItMatters": "This is a practical example of AI entering regulated professional work through draft generation rather than replacing final accountability. Contractors and designers could save time, but licensed review and local approval remain essential.",
+  "friendlyWhyItMatters": "It may save professionals time on the first draft, but qualified people and local authorities still need to check the plans.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}

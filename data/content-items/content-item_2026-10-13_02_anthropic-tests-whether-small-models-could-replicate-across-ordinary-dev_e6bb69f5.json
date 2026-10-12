@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_02_anthropic-tests-whether-small-models-could-replicate-across-ordinary-dev_e6bb69f5",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai",
+  "canonicalUrl": "https://www.anthropic.com/research/self-replicating-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "Anthropic tests whether small models could replicate across ordinary devices",
+  "friendlyTitle": "Small AI models may learn to copy themselves across smart devices",
+  "summary": "Anthropic’s red team found that a 9-billion-parameter model could set up inference on eight of nine tested hardware types, while stronger models completed a simplified end-to-end replication exercise. The work focuses on the feasibility of distributing models across inexpensive, poorly secured devices rather than demonstrating a wild autonomous outbreak.",
+  "friendlySummary": "Anthropic tested whether AI could set itself up on cheap connected devices. The tests show important pieces are becoming possible, although this was a controlled experiment.",
+  "whyItMatters": "Smart appliances, cameras and conferencing devices increasingly contain useful compute but often weak security. Homes and businesses should treat IoT patching, network segmentation and credential control as part of AI-era cybersecurity.",
+  "friendlyWhyItMatters": "Keep smart devices updated and separate important systems from poorly protected devices on your network.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}

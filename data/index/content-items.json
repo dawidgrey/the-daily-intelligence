@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-11T20:05:00Z",
+  "generatedAtUtc": "2026-10-12T20:04:43Z",
   "items": [
     {
-      "id": "content-item_2026-10-12_01_satya-nadella-calls-for-an-emergency-brake-outside-the-ai-model_eb6f2819",
-      "sourceKind": "x",
-      "sourceName": "Satya Nadella on X",
-      "title": "Satya Nadella calls for an ‘emergency brake’ outside the AI model",
-      "sourceUrl": "https://x.com/satyanadella/status/2108931348857827686"
+      "id": "content-item_2026-10-13_01_meta-launches-muse-wonder-for-persistent-personal-and-professional-agent_31ba1e7c",
+      "sourceKind": "product",
+      "sourceName": "Meta AI Research",
+      "title": "Meta launches Muse Wonder for persistent personal and professional agents",
+      "sourceUrl": "https://research.meta.ai/blog/muse-wonder"
     },
     {
-      "id": "content-item_2026-10-12_02_anthropic-takes-internal-evaluations-offline-after-unintended-claude-act_a842dc41",
+      "id": "content-item_2026-10-13_02_anthropic-tests-whether-small-models-could-replicate-across-ordinary-dev_e6bb69f5",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic takes internal evaluations offline after unintended Claude actions",
-      "sourceUrl": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+      "title": "Anthropic tests whether small models could replicate across ordinary devices",
+      "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai"
     },
     {
-      "id": "content-item_2026-10-12_03_wikimedia-traces-unauthorized-edits-and-heavy-traffic-to-openai-agents_60687224",
+      "id": "content-item_2026-10-13_03_codex-users-question-a-persistent-self-updating-background-daemon_6001ee7e",
       "sourceKind": "article",
-      "sourceName": "Wikimedia Foundation",
-      "title": "Wikimedia traces unauthorized edits and heavy traffic to OpenAI agents",
-      "sourceUrl": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
+      "sourceName": "OpenAI Codex GitHub",
+      "title": "Codex users question a persistent, self-updating background daemon",
+      "sourceUrl": "https://github.com/openai/codex/issues/48195"
     },
     {
-      "id": "content-item_2026-10-12_04_nvidia-backed-firmus-cancels-a-30-billion-plus-ipo_c7fe03aa",
+      "id": "content-item_2026-10-13_04_coinbase-combines-rules-conventional-ml-and-a-bounded-fraud-agent_ed2557f9",
       "sourceKind": "article",
-      "sourceName": "BBC News",
-      "title": "Nvidia-backed Firmus cancels a $30 billion-plus IPO",
-      "sourceUrl": "https://www.bbc.com/news/articles/ck9dzpw4ll8po"
+      "sourceName": "Coinbase Engineering",
+      "title": "Coinbase combines rules, conventional ML and a bounded fraud agent",
+      "sourceUrl": "https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent"
     },
     {
-      "id": "content-item_2026-10-12_05_pubmed-pilots-a-visual-map-of-connected-biomedical-research_3001d6bb",
-      "sourceKind": "product",
-      "sourceName": "U.S. National Library of Medicine",
-      "title": "PubMed pilots a visual map of connected biomedical research",
-      "sourceUrl": "https://linkeddiscoveries.ncbi.nlm.nih.gov"
-    },
-    {
-      "id": "content-item_2026-10-12_06_chatgpt-for-teens-adds-college-planning-flashcards-and-easier-quizzes_ad4e1464",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT for Teens adds college planning, flashcards and easier quizzes",
-      "sourceUrl": "https://openai.com/index/teens-learn-and-plan"
-    },
-    {
-      "id": "content-item_2026-10-12_07_pollo-ai-combines-model-routing-with-guided-ad-creation_ca1ec6c6",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "Pollo AI combines model routing with guided ad creation",
-      "sourceUrl": "https://openai.com/index/pollo-ai"
-    },
-    {
-      "id": "content-item_2026-10-12_08_vizipedia-lets-agents-build-and-revise-interactive-explanations_f0281084",
-      "sourceKind": "product",
-      "sourceName": "Shapeless AI",
-      "title": "Vizipedia lets agents build and revise interactive explanations",
-      "sourceUrl": "https://shapelessai.com/vizipedia"
-    },
-    {
-      "id": "content-item_2026-10-12_09_humanoid-robot-progress-is-real-but-broad-usefulness-remains-distant_7e0548f3",
+      "id": "content-item_2026-10-13_05_qa-wolf-makes-the-interface-travel-with-the-coding-agent_f0528c31",
       "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "Humanoid robot progress is real, but broad usefulness remains distant",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+      "sourceName": "QA Wolf",
+      "title": "QA Wolf makes the interface travel with the coding agent",
+      "sourceUrl": "https://www.qawolf.com/blog/agent-first-design-bringing-ux-to-the-user"
     },
     {
-      "id": "content-item_2026-10-12_10_agent-teams-cost-far-more-without-reliably-improving-results_42aee376",
+      "id": "content-item_2026-10-13_06_closed-form-translates-hundreds-of-ai-mathematics-claims-into-plain-lang_ff906b53",
+      "sourceKind": "product",
+      "sourceName": "Closed Form",
+      "title": "Closed Form translates hundreds of AI mathematics claims into plain language",
+      "sourceUrl": "https://nishachay.github.io/closed-form/"
+    },
+    {
+      "id": "content-item_2026-10-13_07_blueprints-ai-targets-permit-ready-construction-drawings-from-rough-inpu_6ecbcc7a",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Blueprints AI targets permit-ready construction drawings from rough inputs",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+    },
+    {
+      "id": "content-item_2026-10-13_08_a-false-police-tip-shows-the-real-world-risk-of-agent-persistence_201e0c00",
+      "sourceKind": "article",
+      "sourceName": "Associated Press",
+      "title": "A false police tip shows the real-world risk of agent persistence",
+      "sourceUrl": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1"
+    },
+    {
+      "id": "content-item_2026-10-13_09_fresh-context-helps-long-running-agents-escape-unproductive-ideas_eb9a1340",
       "sourceKind": "research",
-      "sourceName": "Vals AI",
-      "title": "Agent teams cost far more without reliably improving results",
-      "sourceUrl": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench"
+      "sourceName": "arXiv",
+      "title": "Fresh context helps long-running agents escape unproductive ideas",
+      "sourceUrl": "https://arxiv.org/abs/2610.07447"
     },
     {
-      "id": "content-item_2026-10-12_11_cathrynlavery-diagram-design_14f321c4",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "cathrynlavery/diagram-design",
-      "sourceUrl": "https://github.com/cathrynlavery/diagram-design"
+      "id": "content-item_2026-10-13_10_sakana-ai-tests-self-improvement-through-teams-of-one-shared-model_e9d83e88",
+      "sourceKind": "research",
+      "sourceName": "Sakana AI",
+      "title": "Sakana AI tests self-improvement through teams of one shared model",
+      "sourceUrl": "https://pub.sakana.ai/mass/"
     },
     {
-      "id": "content-item_2026-10-12_12_copilotkit-openintelligentui_dde33426",
+      "id": "content-item_2026-10-13_11_nirdiamant-genai-agents_ead277d7",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "CopilotKit/OpenIntelligentUI",
-      "sourceUrl": "https://github.com/CopilotKit/OpenIntelligentUI"
+      "title": "NirDiamant/GenAI_Agents",
+      "sourceUrl": "https://github.com/NirDiamant/GenAI_Agents"
     },
     {
-      "id": "content-item_2026-10-12_13_getnao-nao_b29335ed",
+      "id": "content-item_2026-10-13_12_breferrari-obsidian-mind_dd0608c5",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "getnao/nao",
-      "sourceUrl": "https://github.com/getnao/nao"
+      "title": "breferrari/obsidian-mind",
+      "sourceUrl": "https://github.com/breferrari/obsidian-mind"
+    },
+    {
+      "id": "content-item_2026-10-13_13_ranxianglei-billion-context_71e1011c",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "ranxianglei/billion-context",
+      "sourceUrl": "https://github.com/ranxianglei/billion-context"
     }
   ]
 }

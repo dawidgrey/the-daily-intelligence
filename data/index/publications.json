@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-11T20:05:01Z",
+  "generatedAtUtc": "2026-10-12T20:04:43Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-13",
+      "slug": "2026-10-13",
+      "status": "published",
+      "publicationDateUtc": "2026-10-12T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Agents get stronger—and the operating rules get clearer",
+      "friendlyHeader": "AI agents can do more, but they still need clear rules",
+      "summary": "Today’s issue is about AI moving from chat into sustained action. Meta is aiming at persistent personal and professional agents, while new research shows why fresh context, bounded roles and independent checks matter. We also cover practical changes in coding tools, fraud detection, design workflows and three fast-moving open-source projects.",
+      "friendlySummary": "Today we look at AI systems that remember more, work for longer and take more actions. We also explain simple ways to keep them useful and safer, plus three open-source tools you can try.",
+      "itemCount": 13,
+      "href": "issues/2026-10-13.html",
+      "dataUrl": "data/daily-publications/2026-10-13.json"
+    },
     {
       "id": "daily-publication_2026-10-12",
       "slug": "2026-10-12",

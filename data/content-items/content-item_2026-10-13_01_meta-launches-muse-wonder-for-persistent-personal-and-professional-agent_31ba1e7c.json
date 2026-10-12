@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_01_meta-launches-muse-wonder-for-persistent-personal-and-professional-agent_31ba1e7c",
+  "sourceKind": "product",
+  "sourceName": "Meta AI Research",
+  "sourceUrl": "https://research.meta.ai/blog/muse-wonder",
+  "canonicalUrl": "https://research.meta.ai/blog/muse-wonder",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "Meta launches Muse Wonder for persistent personal and professional agents",
+  "friendlyTitle": "Meta has a new AI model made for longer tasks",
+  "summary": "Meta has released Muse Wonder and Muse Wonder Full, frontier models built around long-term memory, sustained task execution and coding. Muse Wonder is available through Meta’s model API and Muse Code, while the Full model is initially limited to Muse Code subscribers.",
+  "friendlySummary": "Muse Wonder is designed to remember useful details, keep trying when a task is difficult and help with coding and professional work.",
+  "whyItMatters": "The model race is shifting from isolated answers to agents that remember context and keep working through obstacles. Teams evaluating the models should test real workflows, confirmation behavior and total task cost—not rely only on Meta’s benchmark claims.",
+  "friendlyWhyItMatters": "AI assistants may become more useful across many sessions, but you should still test their work and control important actions.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}

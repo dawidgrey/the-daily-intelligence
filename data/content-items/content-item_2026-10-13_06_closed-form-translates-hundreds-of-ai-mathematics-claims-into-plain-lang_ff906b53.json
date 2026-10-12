@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_06_closed-form-translates-hundreds-of-ai-mathematics-claims-into-plain-lang_ff906b53",
+  "sourceKind": "product",
+  "sourceName": "Closed Form",
+  "sourceUrl": "https://nishachay.github.io/closed-form/",
+  "canonicalUrl": "https://nishachay.github.io/closed-form/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "Closed Form translates hundreds of AI mathematics claims into plain language",
+  "friendlyTitle": "Closed Form explains AI mathematics in everyday words",
+  "summary": "Closed Form catalogs 372 consolidated results from an OpenAI mathematics release and is writing accessible explanations of what each result claims, why it matters and how much verification is available. At publication time, 128 entries had plain-language explanations and the archive clearly separated formal proofs from unchecked claims.",
+  "friendlySummary": "The site organizes hundreds of AI-made mathematics results and shows which ones have formal proofs, partial checks or no check yet.",
+  "whyItMatters": "Large AI-generated research dumps are difficult for specialists—and nearly impossible for everyone else—to assess. Visible trust labels and readable explanations are a useful model for making machine-generated scholarship inspectable rather than merely abundant.",
+  "friendlyWhyItMatters": "It helps readers understand what an AI result says without pretending that every claim has already been proven correct.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}

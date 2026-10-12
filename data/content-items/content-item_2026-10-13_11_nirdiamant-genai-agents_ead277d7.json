@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-13_11_nirdiamant-genai-agents_ead277d7",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/NirDiamant/GenAI_Agents",
+  "canonicalUrl": "https://github.com/NirDiamant/GenAI_Agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-12T20:04:43Z",
+  "createdAtUtc": "2026-10-12T20:04:43Z",
+  "updatedAtUtc": "2026-10-12T20:04:43Z",
+  "title": "NirDiamant/GenAI_Agents",
+  "friendlyTitle": "GenAI Agents is a large library of agent examples",
+  "summary": "A popular collection of more than 50 notebooks and implementations covering generative-AI agent patterns, from conversational systems and RAG to multi-agent workflows and evaluation.",
+  "friendlySummary": "This open-source project contains more than 50 lessons and working examples for building different kinds of AI agents.",
+  "whyItMatters": "Use it as a practical learning library or as reference implementations when testing an agent technique. The repository’s breadth makes it useful for comparing patterns before committing to a framework.",
+  "friendlyWhyItMatters": "Use it to learn an agent technique or find a starting example before building your own version.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-13"
+  }
+}
