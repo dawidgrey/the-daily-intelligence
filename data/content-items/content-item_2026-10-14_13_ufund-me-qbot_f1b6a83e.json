@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_13_ufund-me-qbot_f1b6a83e",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/UFund-Me/Qbot",
+  "canonicalUrl": "https://github.com/UFund-Me/Qbot",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "UFund-Me/Qbot",
+  "friendlyTitle": "Qbot is an open toolkit for investment research",
+  "summary": "Qbot is a local-deployment quantitative investment research platform with modules for data, backtesting, strategy research and trading experiments. The repository had about 18,600 stars when reviewed and was the third-strongest AI-related repository in today’s collected GitHub trend ranking.",
+  "friendlySummary": "Qbot provides local tools for market data, strategy testing and quantitative trading experiments.",
+  "whyItMatters": "It can serve as a learning and research environment for testing quantitative strategies without sending all work to a hosted platform. It is not evidence that a strategy will make money; use historical testing carefully and keep experiments separate from live funds.",
+  "friendlyWhyItMatters": "Use it to learn and test ideas, not as a promise of profit. Keep experiments away from real money until risks are understood.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

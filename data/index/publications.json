@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-12T20:04:43Z",
+  "generatedAtUtc": "2026-10-13T20:05:09Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-14",
+      "slug": "2026-10-14",
+      "status": "published",
+      "publicationDateUtc": "2026-10-13T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "AI moves from answers into infrastructure, devices and physical systems",
+      "friendlyHeader": "AI is moving into the tools and systems around us",
+      "summary": "Today’s issue follows AI into the less visible layers of daily life: source control built for coding agents, private models running on local hardware, personalised social feeds, private Android apps, and safety tests for both software and machines. The common thread is practical control — over cost, data, reliability and what automated systems are allowed to do.",
+      "friendlySummary": "Today we look at AI behind everyday products and work. This includes coding systems, private AI on your own device, better control of social feeds, personal Android apps, and safer robots.",
+      "itemCount": 13,
+      "href": "issues/2026-10-14.html",
+      "dataUrl": "data/daily-publications/2026-10-14.json"
+    },
     {
       "id": "daily-publication_2026-10-13",
       "slug": "2026-10-13",

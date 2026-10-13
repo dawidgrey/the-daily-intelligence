@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_07_flox-uses-edge-ai-to-steer-wildlife-away-from-transport-routes_ec248a8b",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Flox uses edge AI to steer wildlife away from transport routes",
+  "friendlyTitle": "Flox uses local AI to keep animals away from trains and roads",
+  "summary": "Flox Intelligence is developing solar-powered edge devices that identify animals near railways, airports and roads, then play species-specific sounds intended to move them away. The approach aims to reduce collisions without relying only on fences, generic alarms or lethal control.",
+  "friendlySummary": "Flox devices recognise nearby animals and play sounds chosen for that species. The goal is to move wildlife away before a collision happens.",
+  "whyItMatters": "This is a practical example of small, local AI systems acting on sensor data where cloud connectivity may be poor. For operators, the important evidence will be sustained collision reduction, low false alarms and animal behaviour that does not simply adapt to the deterrent.",
+  "friendlyWhyItMatters": "Local AI can work in remote places and protect animals and transport. Operators still need proof that it works safely over time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

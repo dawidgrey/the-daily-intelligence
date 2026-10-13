@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_02_character-ai-enters-chapter-11-and-seeks-a-buyer_3c04da4c",
+  "sourceKind": "article",
+  "sourceName": "Character.AI",
+  "sourceUrl": "https://blog.character.ai/an-update-on-character-ai/",
+  "canonicalUrl": "https://blog.character.ai/an-update-on-character-ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Character.AI enters Chapter 11 and seeks a buyer",
+  "friendlyTitle": "Character.AI is looking for a buyer after filing for bankruptcy",
+  "summary": "Character.AI has begun a voluntary Chapter 11 process to pursue a court-supervised sale. Its service and paid subscriptions remain active for now, but the company says the platform will be wound down if no workable bid emerges.",
+  "friendlySummary": "Character.AI has started a Chapter 11 sale process. The service is still working, but it may close if the company cannot find a suitable buyer.",
+  "whyItMatters": "People who rely on hosted AI companions or store meaningful conversations in them should treat continuity as a business risk, not a guarantee. Character.AI points users to its data-export and account-deletion controls, which are worth reviewing before the sale process concludes.",
+  "friendlyWhyItMatters": "Online AI services can change or close. If your chats matter to you, check whether you can export them and review your subscription.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

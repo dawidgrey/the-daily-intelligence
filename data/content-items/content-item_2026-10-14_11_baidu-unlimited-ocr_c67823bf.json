@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_11_baidu-unlimited-ocr_c67823bf",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/baidu/Unlimited-OCR",
+  "canonicalUrl": "https://github.com/baidu/Unlimited-OCR",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "baidu/Unlimited-OCR",
+  "friendlyTitle": "Unlimited-OCR reads long documents in one pass",
+  "summary": "Unlimited-OCR is Baidu’s open-source system for parsing long documents in one pass, with model weights, inference code and an SGLang serving path. The repository had about 27,300 stars when reviewed and led today’s collected AI repository trend signal.",
+  "friendlySummary": "Baidu’s open-source OCR project includes a model and code for turning long documents into usable text and structure.",
+  "whyItMatters": "Developers can test extraction from long PDFs and document images without stitching together many page-level OCR calls. Review its hardware needs and accuracy on your own layouts, languages and tables before using it in a production document workflow.",
+  "friendlyWhyItMatters": "Try it on long PDFs or scanned documents. Check its accuracy and computer requirements with your own files first.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

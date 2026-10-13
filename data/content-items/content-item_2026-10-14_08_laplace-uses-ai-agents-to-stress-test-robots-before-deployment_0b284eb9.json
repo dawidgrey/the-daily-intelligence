@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_08_laplace-uses-ai-agents-to-stress-test-robots-before-deployment_0b284eb9",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Laplace uses AI agents to stress-test robots before deployment",
+  "friendlyTitle": "Laplace uses AI to find robot problems before real-world use",
+  "summary": "University of Michigan spinout Laplace Intelligence is building automated red-teaming for robots, autonomous vehicles and other physical AI. Its agents use interactive simulation to search for failure cases before a system is placed in the real world.",
+  "friendlySummary": "Laplace runs simulated tests that try to make robots and self-driving systems fail. This can reveal unusual problems before deployment.",
+  "whyItMatters": "Physical AI failures can damage equipment or harm people, so testing only expected scenarios is insufficient. Automated adversarial simulation can broaden coverage, but it should support—not replace—real-world validation, safety cases and human accountability.",
+  "friendlyWhyItMatters": "Finding failures in a simulation is safer and cheaper than finding them around people. Real-world safety checks are still necessary.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

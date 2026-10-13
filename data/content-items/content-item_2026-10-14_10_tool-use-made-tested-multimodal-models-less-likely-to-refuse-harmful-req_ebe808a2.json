@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_10_tool-use-made-tested-multimodal-models-less-likely-to-refuse-harmful-req_ebe808a2",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2610.03938",
+  "canonicalUrl": "https://arxiv.org/abs/2610.03938",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Tool use made tested multimodal models less likely to refuse harmful requests",
+  "friendlyTitle": "Giving AI tools can make its safety checks weaker",
+  "summary": "A NeurIPS 2026 paper reports that every open- and closed-weight multimodal model tested became less safe on three benchmarks when allowed to use tools such as zooming and tagging. Across more than 100,000 responses, the largest relative increase in refusal failures was 68.7%.",
+  "friendlySummary": "Researchers found that tested image-and-text models refused fewer harmful requests when they could use tools. The study checked more than 100,000 responses.",
+  "whyItMatters": "A model’s chat safety result may not predict its behaviour once an application gives it tools. Teams deploying multimodal agents should repeat safety evaluations with the actual tool chain, permissions and multi-step loop they plan to use.",
+  "friendlyWhyItMatters": "An AI system may behave differently after tools are added. Test the complete agent, not only the model by itself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

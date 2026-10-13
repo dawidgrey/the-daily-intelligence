@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-12T20:04:43Z",
+  "generatedAtUtc": "2026-10-13T20:05:08Z",
   "items": [
     {
-      "id": "content-item_2026-10-13_01_meta-launches-muse-wonder-for-persistent-personal-and-professional-agent_31ba1e7c",
-      "sourceKind": "product",
-      "sourceName": "Meta AI Research",
-      "title": "Meta launches Muse Wonder for persistent personal and professional agents",
-      "sourceUrl": "https://research.meta.ai/blog/muse-wonder"
-    },
-    {
-      "id": "content-item_2026-10-13_02_anthropic-tests-whether-small-models-could-replicate-across-ordinary-dev_e6bb69f5",
-      "sourceKind": "research",
+      "id": "content-item_2026-10-14_01_anthropic-replaces-git-for-an-agent-scale-monorepo_8c17f1f1",
+      "sourceKind": "article",
       "sourceName": "Anthropic",
-      "title": "Anthropic tests whether small models could replicate across ordinary devices",
-      "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai"
+      "title": "Anthropic replaces Git for an agent-scale monorepo",
+      "sourceUrl": "https://www.anthropic.com/engineering/redesigning-source-control"
     },
     {
-      "id": "content-item_2026-10-13_03_codex-users-question-a-persistent-self-updating-background-daemon_6001ee7e",
+      "id": "content-item_2026-10-14_02_character-ai-enters-chapter-11-and-seeks-a-buyer_3c04da4c",
       "sourceKind": "article",
-      "sourceName": "OpenAI Codex GitHub",
-      "title": "Codex users question a persistent, self-updating background daemon",
-      "sourceUrl": "https://github.com/openai/codex/issues/48195"
+      "sourceName": "Character.AI",
+      "title": "Character.AI enters Chapter 11 and seeks a buyer",
+      "sourceUrl": "https://blog.character.ai/an-update-on-character-ai/"
     },
     {
-      "id": "content-item_2026-10-13_04_coinbase-combines-rules-conventional-ml-and-a-bounded-fraud-agent_ed2557f9",
-      "sourceKind": "article",
-      "sourceName": "Coinbase Engineering",
-      "title": "Coinbase combines rules, conventional ML and a bounded fraud agent",
-      "sourceUrl": "https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent"
-    },
-    {
-      "id": "content-item_2026-10-13_05_qa-wolf-makes-the-interface-travel-with-the-coding-agent_f0528c31",
-      "sourceKind": "article",
-      "sourceName": "QA Wolf",
-      "title": "QA Wolf makes the interface travel with the coding agent",
-      "sourceUrl": "https://www.qawolf.com/blog/agent-first-design-bringing-ux-to-the-user"
-    },
-    {
-      "id": "content-item_2026-10-13_06_closed-form-translates-hundreds-of-ai-mathematics-claims-into-plain-lang_ff906b53",
+      "id": "content-item_2026-10-14_03_google-launches-gemini-4-argon-worldwide_f1747161",
       "sourceKind": "product",
-      "sourceName": "Closed Form",
-      "title": "Closed Form translates hundreds of AI mathematics claims into plain language",
-      "sourceUrl": "https://nishachay.github.io/closed-form/"
+      "sourceName": "Google",
+      "title": "Google launches Gemini 4 Argon worldwide",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-argon/"
     },
     {
-      "id": "content-item_2026-10-13_07_blueprints-ai-targets-permit-ready-construction-drawings-from-rough-inpu_6ecbcc7a",
+      "id": "content-item_2026-10-14_04_liquid-ai-releases-a-24b-model-for-private-on-device-agents_550c4c02",
+      "sourceKind": "product",
+      "sourceName": "Liquid AI on Hugging Face",
+      "title": "Liquid AI releases a 24B model for private on-device agents",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+    },
+    {
+      "id": "content-item_2026-10-14_05_facebook-lets-users-describe-the-feed-they-want_687470ca",
+      "sourceKind": "product",
+      "sourceName": "Meta",
+      "title": "Facebook lets users describe the feed they want",
+      "sourceUrl": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+    },
+    {
+      "id": "content-item_2026-10-14_06_google-play-adds-private-ai-built-android-apps_303c8b8b",
       "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Blueprints AI targets permit-ready construction drawings from rough inputs",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+      "title": "Google Play adds private, AI-built Android apps",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
     },
     {
-      "id": "content-item_2026-10-13_08_a-false-police-tip-shows-the-real-world-risk-of-agent-persistence_201e0c00",
+      "id": "content-item_2026-10-14_07_flox-uses-edge-ai-to-steer-wildlife-away-from-transport-routes_ec248a8b",
       "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "A false police tip shows the real-world risk of agent persistence",
-      "sourceUrl": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1"
+      "sourceName": "TechCrunch",
+      "title": "Flox uses edge AI to steer wildlife away from transport routes",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
     },
     {
-      "id": "content-item_2026-10-13_09_fresh-context-helps-long-running-agents-escape-unproductive-ideas_eb9a1340",
+      "id": "content-item_2026-10-14_08_laplace-uses-ai-agents-to-stress-test-robots-before-deployment_0b284eb9",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Laplace uses AI agents to stress-test robots before deployment",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
+      "id": "content-item_2026-10-14_09_github-now-blocks-anthropic-api-keys-during-protected-pushes_8e7a66cd",
+      "sourceKind": "product",
+      "sourceName": "GitHub",
+      "title": "GitHub now blocks Anthropic API keys during protected pushes",
+      "sourceUrl": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce/"
+    },
+    {
+      "id": "content-item_2026-10-14_10_tool-use-made-tested-multimodal-models-less-likely-to-refuse-harmful-req_ebe808a2",
       "sourceKind": "research",
       "sourceName": "arXiv",
-      "title": "Fresh context helps long-running agents escape unproductive ideas",
-      "sourceUrl": "https://arxiv.org/abs/2610.07447"
+      "title": "Tool use made tested multimodal models less likely to refuse harmful requests",
+      "sourceUrl": "https://arxiv.org/abs/2610.03938"
     },
     {
-      "id": "content-item_2026-10-13_10_sakana-ai-tests-self-improvement-through-teams-of-one-shared-model_e9d83e88",
-      "sourceKind": "research",
-      "sourceName": "Sakana AI",
-      "title": "Sakana AI tests self-improvement through teams of one shared model",
-      "sourceUrl": "https://pub.sakana.ai/mass/"
-    },
-    {
-      "id": "content-item_2026-10-13_11_nirdiamant-genai-agents_ead277d7",
+      "id": "content-item_2026-10-14_11_baidu-unlimited-ocr_c67823bf",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "NirDiamant/GenAI_Agents",
-      "sourceUrl": "https://github.com/NirDiamant/GenAI_Agents"
+      "title": "baidu/Unlimited-OCR",
+      "sourceUrl": "https://github.com/baidu/Unlimited-OCR"
     },
     {
-      "id": "content-item_2026-10-13_12_breferrari-obsidian-mind_dd0608c5",
+      "id": "content-item_2026-10-14_12_krillinai-opencreator_b391bd4a",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "breferrari/obsidian-mind",
-      "sourceUrl": "https://github.com/breferrari/obsidian-mind"
+      "title": "krillinai/OpenCreator",
+      "sourceUrl": "https://github.com/krillinai/OpenCreator"
     },
     {
-      "id": "content-item_2026-10-13_13_ranxianglei-billion-context_71e1011c",
+      "id": "content-item_2026-10-14_13_ufund-me-qbot_f1b6a83e",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "ranxianglei/billion-context",
-      "sourceUrl": "https://github.com/ranxianglei/billion-context"
+      "title": "UFund-Me/Qbot",
+      "sourceUrl": "https://github.com/UFund-Me/Qbot"
     }
   ]
 }

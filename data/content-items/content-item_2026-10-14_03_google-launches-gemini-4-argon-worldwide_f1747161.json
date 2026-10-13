@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_03_google-launches-gemini-4-argon-worldwide_f1747161",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Google launches Gemini 4 Argon worldwide",
+  "friendlyTitle": "Google’s Gemini 4 Argon is now widely available",
+  "summary": "Google has made Gemini 4 Argon available through its API, AI Studio, Gemini platform, Gemini app, AI Mode and Antigravity, with access varying by product and plan. Introductory API pricing is $2 per million input tokens and $10 per million output tokens until November 30, after which Google says both rates will double.",
+  "friendlySummary": "Google has released Gemini 4 Argon across developer and consumer products. Its lower launch price ends after November 30, when the listed API price will double.",
+  "whyItMatters": "Argon is positioned for long, multi-step work across coding, finance, legal, cybersecurity and science rather than quick chat alone. Developers evaluating it should separate launch-period pricing from steady-state cost and test Google’s performance claims on their own workflows.",
+  "friendlyWhyItMatters": "The model is designed for difficult, multi-step work. Test it on your real tasks and calculate the later price before building around it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}

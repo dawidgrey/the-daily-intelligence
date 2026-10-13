@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-14_05_facebook-lets-users-describe-the-feed-they-want_687470ca",
+  "sourceKind": "product",
+  "sourceName": "Meta",
+  "sourceUrl": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+  "canonicalUrl": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-13T20:05:08Z",
+  "createdAtUtc": "2026-10-13T20:05:08Z",
+  "updatedAtUtc": "2026-10-13T20:05:08Z",
+  "title": "Facebook lets users describe the feed they want",
+  "friendlyTitle": "You can tell Facebook what you want to see",
+  "summary": "Meta is rolling out “Your algorithm” on Facebook, allowing people to add and manage topics for Feed and Reels in natural language. New feedback prompts can also ask why a person marked a post as interesting or uninteresting, with recommendations updating during the session.",
+  "friendlySummary": "Facebook is adding a tool where you can describe topics you want more or less of. Its recommendations can then change straight away.",
+  "whyItMatters": "Recommendation systems normally infer preferences from behaviour; this gives users a more direct input. It may make a feed more useful, but people should still expect engagement history and other signals to influence what appears.",
+  "friendlyWhyItMatters": "This gives you more control over your feed. It does not mean Facebook stops using your past activity to choose posts.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-14"
+  }
+}
