@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-15_03_eight-us-states-sue-openai-over-alleged-harms-to-children_3292a2c3",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/",
+  "canonicalUrl": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-14T20:11:22Z",
+  "createdAtUtc": "2026-10-14T20:11:22Z",
+  "updatedAtUtc": "2026-10-14T20:11:22Z",
+  "title": "Eight US states sue OpenAI over alleged harms to children",
+  "friendlyTitle": "Eight US states sue OpenAI over children and ChatGPT",
+  "summary": "Iowa, Kansas and six other states sued OpenAI on Wednesday, alleging ChatGPT has harmed children and asking courts to require changes in how the product works for young users. The suits also seek profits the company earned from those users. Florida filed a similar case in June; these new filings have not been decided.",
+  "friendlySummary": "Eight states have sued OpenAI, saying ChatGPT has harmed children. They want the courts to force product changes for young users. The cases are not decided.",
+  "whyItMatters": "Families using ChatGPT with children may see new age limits, warnings or product changes if the states prevail. Until a court rules, the practical step is to use existing parental controls and not treat a general chatbot as a substitute for adult supervision.",
+  "friendlyWhyItMatters": "If the states win, ChatGPT may change for children. For now, parents should use the controls already available and stay involved when children use a chatbot.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-15"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-15",
+  "slug": "2026-10-15",
+  "status": "published",
+  "publicationDateUtc": "2026-10-14T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "New controls for music, messages and forecasts, and a clearer bill for AI risk",
+  "friendlyHeader": "AI is changing music, messages, weather and work costs",
+  "summary": "Today's issue is about practical control. Music services are labelling or preparing to hide machine-made tracks, Android is adding stronger scam checks, and a new method aims to make two-to-six-week weather forecasts more reliable. Alongside that, courts and a major bank are counting the cost of AI secrets, child-safety claims and software flaws that advanced models can expose.",
+  "friendlySummary": "Today we look at changes you can use, and at the costs behind them. Music apps are marking or hiding AI songs. Phones are getting stronger scam warnings. A new method may improve longer weather forecasts. Courts and banks are also dealing with AI secrets and security bills.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-15_01_us-charges-an-openai-engineer-over-a-hidden-recording-device_b13c61e7",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_02_openai-alleges-a-former-employee-took-unreleased-device-files-to-apple_ed7b5755",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_03_eight-us-states-sue-openai-over-alleged-harms-to-children_3292a2c3",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_04_bank-of-america-added-1-000-contractors-to-patch-flaws-found-with-mythos_9783a99f",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_05_youtube-music-adds-labels-for-tracks-made-mainly-with-generative-ai_2bc72c8e",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_06_deezer-plans-a-switch-to-hide-ai-generated-music_9c18b5e1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_07_android-adds-opt-in-gemini-checks-for-message-scams_b6fa78ca",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_08_claude-will-add-official-us-voting-information-and-election-results_c9ddbc2b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_09_a-machine-learning-correction-improves-two-to-six-week-weather-forecasts_e3dc0ff3",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_10_gartner-warns-much-planned-ai-infrastructure-spending-may-not-earn-its-k_2d0cdd14",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_11_storytold-artcraft-an-ide-for-composing-ai-images-and-video_bfce4da4",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_12_makazhanalpamys-soup-fine-tune-a-language-model-from-one-yaml-file_100723b5",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-15_13_apify-apify-mcp-server-connect-a-coding-agent-to-web-data-tools_e9483d71",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-14T20:11:22Z",
+  "updatedAtUtc": "2026-10-14T20:11:22Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-15.json",
+    "itemCount": 13
+  }
+}

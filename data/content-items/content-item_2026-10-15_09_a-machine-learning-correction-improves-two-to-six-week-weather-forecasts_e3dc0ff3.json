@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-15_09_a-machine-learning-correction-improves-two-to-six-week-weather-forecasts_e3dc0ff3",
+  "sourceKind": "research",
+  "sourceName": "Nature",
+  "sourceUrl": "https://www.nature.com/articles/s41586-026-11126-x",
+  "canonicalUrl": "https://www.nature.com/articles/s41586-026-11126-x",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-14T20:11:22Z",
+  "createdAtUtc": "2026-10-14T20:11:22Z",
+  "updatedAtUtc": "2026-10-14T20:11:22Z",
+  "title": "A machine-learning correction improves two-to-six-week weather forecasts",
+  "friendlyTitle": "A new method may make longer weather forecasts more accurate",
+  "summary": "A Nature paper published on 14 October describes probabilistic bias correction, a method that learns to fix systematic errors in existing weather models rather than replacing them. Applied to European Centre for Medium-Range Weather Forecasts systems, the authors report better skill for most temperature and precipitation targets at the two-to-six-week range.",
+  "friendlySummary": "Researchers published a way to correct known errors in existing weather models. They report better forecasts for many temperature and rain targets two to six weeks ahead.",
+  "whyItMatters": "Forecasts that far ahead matter for planting, energy and storm preparation, where today's models often fade. The paper is open access, but turning a research result into a local operational forecast is still a separate step.",
+  "friendlyWhyItMatters": "Longer forecasts help farmers, energy planners and emergency teams. This is a research result, not yet a new forecast app on your phone.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-15"
+  }
+}

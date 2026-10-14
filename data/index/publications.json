@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-13T20:05:09Z",
+  "generatedAtUtc": "2026-10-14T20:11:22Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-15",
+      "slug": "2026-10-15",
+      "status": "published",
+      "publicationDateUtc": "2026-10-14T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "New controls for music, messages and forecasts, and a clearer bill for AI risk",
+      "friendlyHeader": "AI is changing music, messages, weather and work costs",
+      "summary": "Today's issue is about practical control. Music services are labelling or preparing to hide machine-made tracks, Android is adding stronger scam checks, and a new method aims to make two-to-six-week weather forecasts more reliable. Alongside that, courts and a major bank are counting the cost of AI secrets, child-safety claims and software flaws that advanced models can expose.",
+      "friendlySummary": "Today we look at changes you can use, and at the costs behind them. Music apps are marking or hiding AI songs. Phones are getting stronger scam warnings. A new method may improve longer weather forecasts. Courts and banks are also dealing with AI secrets and security bills.",
+      "itemCount": 13,
+      "href": "issues/2026-10-15.html",
+      "dataUrl": "data/daily-publications/2026-10-15.json"
+    },
     {
       "id": "daily-publication_2026-10-14",
       "slug": "2026-10-14",

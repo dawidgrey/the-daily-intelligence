@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-15_13_apify-apify-mcp-server-connect-a-coding-agent-to-web-data-tools_e9483d71",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/apify/apify-mcp-server",
+  "canonicalUrl": "https://github.com/apify/apify-mcp-server",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-14T20:11:22Z",
+  "createdAtUtc": "2026-10-14T20:11:22Z",
+  "updatedAtUtc": "2026-10-14T20:11:22Z",
+  "title": "apify/apify-mcp-server: connect a coding agent to web data tools",
+  "friendlyTitle": "Apify's MCP server lets agents collect public web data",
+  "summary": "Apify's MCP server lets coding agents call the company's library of web extractors for sources such as search, maps and public web pages. It was the third-highest new AI-related repository on today's trending list, with about 233 stars today and roughly 11,200 overall.",
+  "friendlySummary": "This official connector lets a coding agent use Apify's web data tools. It gained about 233 stars today.",
+  "whyItMatters": "A developer can give an agent a structured way to collect public web data instead of writing a one-off crawler. It is not permission to ignore a site's terms, login walls or rate limits.",
+  "friendlyWhyItMatters": "Use it to pull public information into an agent workflow. Still follow each website's rules and limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-15"
+  }
+}

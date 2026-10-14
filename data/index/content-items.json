@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-13T20:05:08Z",
+  "generatedAtUtc": "2026-10-14T20:11:22Z",
   "items": [
     {
-      "id": "content-item_2026-10-14_01_anthropic-replaces-git-for-an-agent-scale-monorepo_8c17f1f1",
+      "id": "content-item_2026-10-15_01_us-charges-an-openai-engineer-over-a-hidden-recording-device_b13c61e7",
       "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic replaces Git for an agent-scale monorepo",
-      "sourceUrl": "https://www.anthropic.com/engineering/redesigning-source-control"
+      "sourceName": "US Department of Justice",
+      "title": "US charges an OpenAI engineer over a hidden recording device",
+      "sourceUrl": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
     },
     {
-      "id": "content-item_2026-10-14_02_character-ai-enters-chapter-11-and-seeks-a-buyer_3c04da4c",
+      "id": "content-item_2026-10-15_02_openai-alleges-a-former-employee-took-unreleased-device-files-to-apple_ed7b5755",
       "sourceKind": "article",
-      "sourceName": "Character.AI",
-      "title": "Character.AI enters Chapter 11 and seeks a buyer",
-      "sourceUrl": "https://blog.character.ai/an-update-on-character-ai/"
+      "sourceName": "Reuters",
+      "title": "OpenAI alleges a former employee took unreleased device files to Apple",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
     },
     {
-      "id": "content-item_2026-10-14_03_google-launches-gemini-4-argon-worldwide_f1747161",
+      "id": "content-item_2026-10-15_03_eight-us-states-sue-openai-over-alleged-harms-to-children_3292a2c3",
+      "sourceKind": "regulation",
+      "sourceName": "Reuters",
+      "title": "Eight US states sue OpenAI over alleged harms to children",
+      "sourceUrl": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/"
+    },
+    {
+      "id": "content-item_2026-10-15_04_bank-of-america-added-1-000-contractors-to-patch-flaws-found-with-mythos_9783a99f",
+      "sourceKind": "article",
+      "sourceName": "CNBC",
+      "title": "Bank of America added 1,000 contractors to patch flaws found with Mythos",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+    },
+    {
+      "id": "content-item_2026-10-15_05_youtube-music-adds-labels-for-tracks-made-mainly-with-generative-ai_2bc72c8e",
+      "sourceKind": "product",
+      "sourceName": "YouTube",
+      "title": "YouTube Music adds labels for tracks made mainly with generative AI",
+      "sourceUrl": "https://blog.youtube/news-and-events/youtube-music-ai-labels/"
+    },
+    {
+      "id": "content-item_2026-10-15_06_deezer-plans-a-switch-to-hide-ai-generated-music_9c18b5e1",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Deezer plans a switch to hide AI-generated music",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+    },
+    {
+      "id": "content-item_2026-10-15_07_android-adds-opt-in-gemini-checks-for-message-scams_b6fa78ca",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Google launches Gemini 4 Argon worldwide",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+      "title": "Android adds opt-in Gemini checks for message scams",
+      "sourceUrl": "https://blog.google/security/new-android-scam-protections/"
     },
     {
-      "id": "content-item_2026-10-14_04_liquid-ai-releases-a-24b-model-for-private-on-device-agents_550c4c02",
+      "id": "content-item_2026-10-15_08_claude-will-add-official-us-voting-information-and-election-results_c9ddbc2b",
       "sourceKind": "product",
-      "sourceName": "Liquid AI on Hugging Face",
-      "title": "Liquid AI releases a 24B model for private on-device agents",
-      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      "sourceName": "Anthropic",
+      "title": "Claude will add official US voting information and election results",
+      "sourceUrl": "https://www.anthropic.com/news/2026-us-midterms"
     },
     {
-      "id": "content-item_2026-10-14_05_facebook-lets-users-describe-the-feed-they-want_687470ca",
-      "sourceKind": "product",
-      "sourceName": "Meta",
-      "title": "Facebook lets users describe the feed they want",
-      "sourceUrl": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
-    },
-    {
-      "id": "content-item_2026-10-14_06_google-play-adds-private-ai-built-android-apps_303c8b8b",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Google Play adds private, AI-built Android apps",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
-    },
-    {
-      "id": "content-item_2026-10-14_07_flox-uses-edge-ai-to-steer-wildlife-away-from-transport-routes_ec248a8b",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Flox uses edge AI to steer wildlife away from transport routes",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
-    },
-    {
-      "id": "content-item_2026-10-14_08_laplace-uses-ai-agents-to-stress-test-robots-before-deployment_0b284eb9",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Laplace uses AI agents to stress-test robots before deployment",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
-    },
-    {
-      "id": "content-item_2026-10-14_09_github-now-blocks-anthropic-api-keys-during-protected-pushes_8e7a66cd",
-      "sourceKind": "product",
-      "sourceName": "GitHub",
-      "title": "GitHub now blocks Anthropic API keys during protected pushes",
-      "sourceUrl": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce/"
-    },
-    {
-      "id": "content-item_2026-10-14_10_tool-use-made-tested-multimodal-models-less-likely-to-refuse-harmful-req_ebe808a2",
+      "id": "content-item_2026-10-15_09_a-machine-learning-correction-improves-two-to-six-week-weather-forecasts_e3dc0ff3",
       "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "Tool use made tested multimodal models less likely to refuse harmful requests",
-      "sourceUrl": "https://arxiv.org/abs/2610.03938"
+      "sourceName": "Nature",
+      "title": "A machine-learning correction improves two-to-six-week weather forecasts",
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-11126-x"
     },
     {
-      "id": "content-item_2026-10-14_11_baidu-unlimited-ocr_c67823bf",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "baidu/Unlimited-OCR",
-      "sourceUrl": "https://github.com/baidu/Unlimited-OCR"
+      "id": "content-item_2026-10-15_10_gartner-warns-much-planned-ai-infrastructure-spending-may-not-earn-its-k_2d0cdd14",
+      "sourceKind": "article",
+      "sourceName": "Gartner",
+      "title": "Gartner warns much planned AI infrastructure spending may not earn its keep",
+      "sourceUrl": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030"
     },
     {
-      "id": "content-item_2026-10-14_12_krillinai-opencreator_b391bd4a",
+      "id": "content-item_2026-10-15_11_storytold-artcraft-an-ide-for-composing-ai-images-and-video_bfce4da4",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "krillinai/OpenCreator",
-      "sourceUrl": "https://github.com/krillinai/OpenCreator"
+      "title": "storytold/artcraft: an IDE for composing AI images and video",
+      "sourceUrl": "https://github.com/storytold/artcraft"
     },
     {
-      "id": "content-item_2026-10-14_13_ufund-me-qbot_f1b6a83e",
+      "id": "content-item_2026-10-15_12_makazhanalpamys-soup-fine-tune-a-language-model-from-one-yaml-file_100723b5",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "UFund-Me/Qbot",
-      "sourceUrl": "https://github.com/UFund-Me/Qbot"
+      "title": "MakazhanAlpamys/Soup: fine-tune a language model from one YAML file",
+      "sourceUrl": "https://github.com/MakazhanAlpamys/Soup"
+    },
+    {
+      "id": "content-item_2026-10-15_13_apify-apify-mcp-server-connect-a-coding-agent-to-web-data-tools_e9483d71",
+      "sourceKind": "github",
+      "sourceName": "GitHub Trending",
+      "title": "apify/apify-mcp-server: connect a coding agent to web data tools",
+      "sourceUrl": "https://github.com/apify/apify-mcp-server"
     }
   ]
 }
