@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_09_perplexity-open-sources-space-the-sandbox-behind-its-computer-agent_6d8a951e",
+  "sourceKind": "product",
+  "sourceName": "Perplexity",
+  "sourceUrl": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+  "canonicalUrl": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "Perplexity open-sources SPACE, the sandbox behind its Computer agent",
+  "friendlyTitle": "Perplexity shares the sandbox it uses to cage its agents",
+  "summary": "Perplexity open-sourced SPACE, the virtual-machine sandbox it has used for its Computer agent since July. Each sandbox has its own operating system; network access and credentials are managed outside it, and sessions can be paused, snapshotted and branched. Perplexity says a published test found no escape from the virtual machine to the host in 108 attempts, after it fixed earlier ways around network limits.",
+  "friendlySummary": "Perplexity has open-sourced SPACE, the sealed workspace where its Computer agent runs code. Each workspace has its own small computer. Login details stay outside it, and work can be paused or copied. Perplexity says its tests did not find a way out of that computer into the host.",
+  "whyItMatters": "Teams building agents that run code can start from a sandbox that has already handled production traffic, instead of trusting the model to stay inside its permissions. The security results are Perplexity's own tests, so review the isolation model before you depend on it.",
+  "friendlyWhyItMatters": "If you build agents that run code, you can start from a sandbox that is already used in production. Read the security notes before you rely on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

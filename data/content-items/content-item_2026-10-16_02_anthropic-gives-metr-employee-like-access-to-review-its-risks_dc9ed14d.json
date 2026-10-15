@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_02_anthropic-gives-metr-employee-like-access-to-review-its-risks_dc9ed14d",
+  "sourceKind": "article",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "canonicalUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "Anthropic gives METR employee-like access to review its risks",
+  "friendlyTitle": "Anthropic is letting outside testers work inside the company",
+  "summary": "Anthropic said on 15 October that it has onboarded six staff from the nonprofit METR with company hardware, office space and access roughly matching its own risk teams. METR can publish its findings; Anthropic cannot veto publication, but it can require redaction of narrow categories such as customer data, privileged legal material and model architectures.",
+  "friendlySummary": "Anthropic has given six people from the nonprofit METR company computers, office space and deep access to its risk work. METR can publish what it finds. Anthropic can ask for a few kinds of secrets to be removed, but it cannot block the report.",
+  "whyItMatters": "People using Claude have a clearer path to outside assessments that the company itself cannot simply block. The arrangement is voluntary, covers a small team, and does not by itself make other labs open their systems the same way.",
+  "friendlyWhyItMatters": "Users may get safety reports that the company cannot simply stop. This is voluntary, and it covers only a small team.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

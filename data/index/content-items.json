@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-14T20:11:22Z",
+  "generatedAtUtc": "2026-10-15T20:09:21Z",
   "items": [
     {
-      "id": "content-item_2026-10-15_01_us-charges-an-openai-engineer-over-a-hidden-recording-device_b13c61e7",
-      "sourceKind": "article",
-      "sourceName": "US Department of Justice",
-      "title": "US charges an OpenAI engineer over a hidden recording device",
-      "sourceUrl": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
-    },
-    {
-      "id": "content-item_2026-10-15_02_openai-alleges-a-former-employee-took-unreleased-device-files-to-apple_ed7b5755",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "OpenAI alleges a former employee took unreleased device files to Apple",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
-    },
-    {
-      "id": "content-item_2026-10-15_03_eight-us-states-sue-openai-over-alleged-harms-to-children_3292a2c3",
-      "sourceKind": "regulation",
-      "sourceName": "Reuters",
-      "title": "Eight US states sue OpenAI over alleged harms to children",
-      "sourceUrl": "https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/"
-    },
-    {
-      "id": "content-item_2026-10-15_04_bank-of-america-added-1-000-contractors-to-patch-flaws-found-with-mythos_9783a99f",
-      "sourceKind": "article",
-      "sourceName": "CNBC",
-      "title": "Bank of America added 1,000 contractors to patch flaws found with Mythos",
-      "sourceUrl": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
-    },
-    {
-      "id": "content-item_2026-10-15_05_youtube-music-adds-labels-for-tracks-made-mainly-with-generative-ai_2bc72c8e",
+      "id": "content-item_2026-10-16_01_meta-releases-muse-spark-open-an-816-billion-parameter-open-weight-model_9d251ac6",
       "sourceKind": "product",
-      "sourceName": "YouTube",
-      "title": "YouTube Music adds labels for tracks made mainly with generative AI",
-      "sourceUrl": "https://blog.youtube/news-and-events/youtube-music-ai-labels/"
+      "sourceName": "Hugging Face",
+      "title": "Meta releases Muse Spark Open, an 816-billion-parameter open-weight model",
+      "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open"
     },
     {
-      "id": "content-item_2026-10-15_06_deezer-plans-a-switch-to-hide-ai-generated-music_9c18b5e1",
+      "id": "content-item_2026-10-16_02_anthropic-gives-metr-employee-like-access-to-review-its-risks_dc9ed14d",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic gives METR employee-like access to review its risks",
+      "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    },
+    {
+      "id": "content-item_2026-10-16_03_axios-reports-the-ftc-sent-investigative-demands-to-openai-and-anthropic_706ad4e6",
+      "sourceKind": "regulation",
+      "sourceName": "Axios",
+      "title": "Axios reports the FTC sent investigative demands to OpenAI and Anthropic",
+      "sourceUrl": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+    },
+    {
+      "id": "content-item_2026-10-16_04_amazon-s-bee-launches-a-75-wearable-and-a-phone-mounted-recorder_a3fa54bb",
       "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Deezer plans a switch to hide AI-generated music",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+      "title": "Amazon's Bee launches a $75 wearable and a phone-mounted recorder",
+      "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
     },
     {
-      "id": "content-item_2026-10-15_07_android-adds-opt-in-gemini-checks-for-message-scams_b6fa78ca",
+      "id": "content-item_2026-10-16_05_google-s-universal-cart-launches-in-us-search-and-the-gemini-app_18caff74",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Android adds opt-in Gemini checks for message scams",
-      "sourceUrl": "https://blog.google/security/new-android-scam-protections/"
+      "title": "Google's Universal Cart launches in US Search and the Gemini app",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/"
     },
     {
-      "id": "content-item_2026-10-15_08_claude-will-add-official-us-voting-information-and-election-results_c9ddbc2b",
+      "id": "content-item_2026-10-16_06_brave-leo-adds-end-to-end-encryption-for-one-open-weight-chat-model_41cf8406",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude will add official US voting information and election results",
-      "sourceUrl": "https://www.anthropic.com/news/2026-us-midterms"
+      "sourceName": "Brave",
+      "title": "Brave Leo adds end-to-end encryption for one open-weight chat model",
+      "sourceUrl": "https://brave.com/blog/browser-ai-e2ee/"
     },
     {
-      "id": "content-item_2026-10-15_09_a-machine-learning-correction-improves-two-to-six-week-weather-forecasts_e3dc0ff3",
-      "sourceKind": "research",
-      "sourceName": "Nature",
-      "title": "A machine-learning correction improves two-to-six-week weather forecasts",
-      "sourceUrl": "https://www.nature.com/articles/s41586-026-11126-x"
+      "id": "content-item_2026-10-16_07_bluesky-s-attie-can-now-build-small-sites-games-and-quizzes_00b9e408",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Bluesky's Attie can now build small sites, games and quizzes",
+      "sourceUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
     },
     {
-      "id": "content-item_2026-10-15_10_gartner-warns-much-planned-ai-infrastructure-spending-may-not-earn-its-k_2d0cdd14",
+      "id": "content-item_2026-10-16_08_flux-3-image-klein-checkpoints-are-now-available-in-diffusers_3733c75a",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "FLUX.3 Image Klein checkpoints are now available in Diffusers",
+      "sourceUrl": "https://huggingface.co/blog/flux-3"
+    },
+    {
+      "id": "content-item_2026-10-16_09_perplexity-open-sources-space-the-sandbox-behind-its-computer-agent_6d8a951e",
+      "sourceKind": "product",
+      "sourceName": "Perplexity",
+      "title": "Perplexity open-sources SPACE, the sandbox behind its Computer agent",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/open-sourcing-space"
+    },
+    {
+      "id": "content-item_2026-10-16_10_a-former-meta-engineer-says-anthropic-s-scion-should-credit-mononoke_4072f3aa",
       "sourceKind": "article",
-      "sourceName": "Gartner",
-      "title": "Gartner warns much planned AI infrastructure spending may not earn its keep",
-      "sourceUrl": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030"
+      "sourceName": "sunshowers",
+      "title": "A former Meta engineer says Anthropic's Scion should credit Mononoke",
+      "sourceUrl": "https://sunshowers.io/posts/anthropic-mononoke-2/"
     },
     {
-      "id": "content-item_2026-10-15_11_storytold-artcraft-an-ide-for-composing-ai-images-and-video_bfce4da4",
+      "id": "content-item_2026-10-16_11_affaan-m-ecc-a-shared-harness-for-coding-agents_3429c721",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "storytold/artcraft: an IDE for composing AI images and video",
-      "sourceUrl": "https://github.com/storytold/artcraft"
+      "title": "affaan-m/ECC: a shared harness for coding agents",
+      "sourceUrl": "https://github.com/affaan-m/ECC"
     },
     {
-      "id": "content-item_2026-10-15_12_makazhanalpamys-soup-fine-tune-a-language-model-from-one-yaml-file_100723b5",
+      "id": "content-item_2026-10-16_12_xerj-org-xerj-an-index-so-agents-search-files-with-fewer-tokens_0b6937fb",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "MakazhanAlpamys/Soup: fine-tune a language model from one YAML file",
-      "sourceUrl": "https://github.com/MakazhanAlpamys/Soup"
+      "title": "xerj-org/xerj: an index so agents search files with fewer tokens",
+      "sourceUrl": "https://github.com/xerj-org/xerj"
     },
     {
-      "id": "content-item_2026-10-15_13_apify-apify-mcp-server-connect-a-coding-agent-to-web-data-tools_e9483d71",
+      "id": "content-item_2026-10-16_13_obra-superpowers-a-skills-workflow-that-makes-coding-agents-plan-first_2046f5e5",
       "sourceKind": "github",
       "sourceName": "GitHub Trending",
-      "title": "apify/apify-mcp-server: connect a coding agent to web data tools",
-      "sourceUrl": "https://github.com/apify/apify-mcp-server"
+      "title": "obra/superpowers: a skills workflow that makes coding agents plan first",
+      "sourceUrl": "https://github.com/obra/superpowers"
     }
   ]
 }

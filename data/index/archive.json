@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-10-14T20:11:22Z",
+  "generatedAtUtc": "2026-10-15T20:09:21Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-10-16",
+      "slug": "2026-10-16",
+      "status": "published",
+      "publicationDateUtc": "2026-10-15T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Open weights, private chats, and closer checks on the labs",
+      "friendlyHeader": "New AI tools, and a closer look at the companies",
+      "summary": "Today's issue is about tools you can use, and about checking the stories around them. Meta has published a very large open-weight model for coding agents. Amazon, Google, Bluesky and Brave are shipping products for notes, shopping, small social projects and encrypted browser chats. Anthropic is embedding outside evaluators, a US regulator has asked two labs for incident files, and a former Meta engineer says one of Anthropic's new systems should have credited an older design.",
+      "friendlySummary": "Today we look at tools you can try, and at checks on the companies behind them. Meta released a very large open model for coding. Amazon, Google, Bluesky and Brave added tools for notes, shopping, small projects and private chats. Outside testers are going inside Anthropic. A US regulator has asked two labs for safety files. A former engineer also says one new system should have named the older design it resembles.",
+      "itemCount": 13,
+      "href": "issues/2026-10-16.html",
+      "dataUrl": "data/daily-publications/2026-10-16.json"
+    },
     {
       "id": "daily-publication_2026-10-15",
       "slug": "2026-10-15",

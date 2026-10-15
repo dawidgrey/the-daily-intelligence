@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_11_affaan-m-ecc-a-shared-harness-for-coding-agents_3429c721",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/affaan-m/ECC",
+  "canonicalUrl": "https://github.com/affaan-m/ECC",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "affaan-m/ECC: a shared harness for coding agents",
+  "friendlyTitle": "ECC adds shared skills and checks to coding agents",
+  "summary": "ECC is an agent harness that packages skills, memory, security checks and a research-first workflow for Claude Code, Codex, OpenCode, Cursor and similar tools. It was the highest new AI-related repository on today's GitHub trending list that this publication has not already covered, with about 1,015 stars today and about 280,200 overall.",
+  "friendlySummary": "ECC is an open set of skills, memory and security checks for tools such as Claude Code, Codex and Cursor. It gained about 1,015 stars today, the most of any new AI repository on today's trending list.",
+  "whyItMatters": "People who already use a coding agent can add a shared set of skills and guardrails instead of maintaining a separate setup for each tool. A large star count is not a security audit; read what the harness is allowed to change before you install it.",
+  "friendlyWhyItMatters": "You can use the same working method across more than one coding agent. A lot of stars does not mean it has been independently audited.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

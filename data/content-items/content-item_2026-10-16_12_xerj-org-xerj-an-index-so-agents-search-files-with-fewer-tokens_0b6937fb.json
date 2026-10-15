@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_12_xerj-org-xerj-an-index-so-agents-search-files-with-fewer-tokens_0b6937fb",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/xerj-org/xerj",
+  "canonicalUrl": "https://github.com/xerj-org/xerj",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "xerj-org/xerj: an index so agents search files with fewer tokens",
+  "friendlyTitle": "Xerj lets agents search your files without reading everything",
+  "summary": "Xerj indexes code, documents, logs and PDFs so agents can search them, including for retrieval and agent memory, through an Elasticsearch-compatible interface. It was the second-highest new AI-related repository on today's trending list, with about 725 stars today and about 5,500 overall. The project says this uses about 40 times fewer tokens than grep.",
+  "friendlySummary": "Xerj builds a search index for code, documents, logs and PDFs so an agent can look things up. It gained about 725 stars today. The project says this uses far fewer tokens than plain text search.",
+  "whyItMatters": "A coding agent can look up a local corpus without pasting whole files into the prompt. Treat the token-saving figure as the project's claim and check it on your own files before you plan a workflow around it.",
+  "friendlyWhyItMatters": "Use it when an agent needs to find something in your own files. Test the token-saving claim on your files before you depend on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

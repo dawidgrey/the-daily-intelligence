@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_07_bluesky-s-attie-can-now-build-small-sites-games-and-quizzes_00b9e408",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "Bluesky's Attie can now build small sites, games and quizzes",
+  "friendlyTitle": "Bluesky's Attie can now make small sites, games and quizzes",
+  "summary": "At TechCrunch Disrupt, Bluesky CEO Toni Schneider said Attie, previously a tool for custom feeds, can now create websites, games, polls and quizzes on the same AT Protocol as Bluesky. Creators can bring their own model or use open-weight options, and the results can be shared to Bluesky's audience.",
+  "friendlySummary": "Bluesky says Attie can now build websites, games, polls and quizzes, not only custom feeds. You can use your own AI model or an open one. The results can be shared with Bluesky users.",
+  "whyItMatters": "It is a way to make a small social project without writing the software yourself, with a place to share it. Attie is still an experimental product, so review what it generates before you publish it.",
+  "friendlyWhyItMatters": "You can make a small project for friends without writing the code yourself. Check the result before you share it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

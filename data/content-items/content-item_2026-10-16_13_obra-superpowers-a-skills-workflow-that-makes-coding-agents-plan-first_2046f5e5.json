@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_13_obra-superpowers-a-skills-workflow-that-makes-coding-agents-plan-first_2046f5e5",
+  "sourceKind": "github",
+  "sourceName": "GitHub Trending",
+  "sourceUrl": "https://github.com/obra/superpowers",
+  "canonicalUrl": "https://github.com/obra/superpowers",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "obra/superpowers: a skills workflow that makes coding agents plan first",
+  "friendlyTitle": "Superpowers makes coding agents plan before they write code",
+  "summary": "Superpowers is a skills framework that tells a coding agent to agree a design, write a plan, and then work through tasks with review, including test-first development. It supports Claude Code, Codex, Cursor, Gemini, Hermes and other agents. It was the third-highest new AI-related repository on today's trending list, with about 688 stars today and about 299,700 overall.",
+  "friendlySummary": "Superpowers is a set of skills that asks a coding agent to agree a design and a plan before it builds. It works with several coding agents. It gained about 688 stars today.",
+  "whyItMatters": "You can use it to stop an agent from writing code before you have approved a short plan. An optional visual companion loads a logo that reports the Superpowers version; set SUPERPOWERS_DISABLE_TELEMETRY if you do not want that.",
+  "friendlyWhyItMatters": "Use it when you want a plan you can read before the agent starts coding. You can turn off its optional version check if you do not want that request.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

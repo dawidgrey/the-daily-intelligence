@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-16",
+  "slug": "2026-10-16",
+  "status": "published",
+  "publicationDateUtc": "2026-10-15T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Open weights, private chats, and closer checks on the labs",
+  "friendlyHeader": "New AI tools, and a closer look at the companies",
+  "summary": "Today's issue is about tools you can use, and about checking the stories around them. Meta has published a very large open-weight model for coding agents. Amazon, Google, Bluesky and Brave are shipping products for notes, shopping, small social projects and encrypted browser chats. Anthropic is embedding outside evaluators, a US regulator has asked two labs for incident files, and a former Meta engineer says one of Anthropic's new systems should have credited an older design.",
+  "friendlySummary": "Today we look at tools you can try, and at checks on the companies behind them. Meta released a very large open model for coding. Amazon, Google, Bluesky and Brave added tools for notes, shopping, small projects and private chats. Outside testers are going inside Anthropic. A US regulator has asked two labs for safety files. A former engineer also says one new system should have named the older design it resembles.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-16_01_meta-releases-muse-spark-open-an-816-billion-parameter-open-weight-model_9d251ac6",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_02_anthropic-gives-metr-employee-like-access-to-review-its-risks_dc9ed14d",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_03_axios-reports-the-ftc-sent-investigative-demands-to-openai-and-anthropic_706ad4e6",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_04_amazon-s-bee-launches-a-75-wearable-and-a-phone-mounted-recorder_a3fa54bb",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_05_google-s-universal-cart-launches-in-us-search-and-the-gemini-app_18caff74",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_06_brave-leo-adds-end-to-end-encryption-for-one-open-weight-chat-model_41cf8406",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_07_bluesky-s-attie-can-now-build-small-sites-games-and-quizzes_00b9e408",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_08_flux-3-image-klein-checkpoints-are-now-available-in-diffusers_3733c75a",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_09_perplexity-open-sources-space-the-sandbox-behind-its-computer-agent_6d8a951e",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_10_a-former-meta-engineer-says-anthropic-s-scion-should-credit-mononoke_4072f3aa",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_11_affaan-m-ecc-a-shared-harness-for-coding-agents_3429c721",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_12_xerj-org-xerj-an-index-so-agents-search-files-with-fewer-tokens_0b6937fb",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-16_13_obra-superpowers-a-skills-workflow-that-makes-coding-agents-plan-first_2046f5e5",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-16.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_04_amazon-s-bee-launches-a-75-wearable-and-a-phone-mounted-recorder_a3fa54bb",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "Amazon's Bee launches a $75 wearable and a phone-mounted recorder",
+  "friendlyTitle": "Amazon's Bee adds two cheaper devices that record and summarise talk",
+  "summary": "Amazon's Bee introduced the Bee Frontier, a $74.99 wrist or clip-on recorder available now, and the Bee Eclipse, a $99.99 card-sized device that attaches to a phone and is due soon. Free use includes conversation summaries and 14 days of memory; a $11.99 monthly plan adds unlimited summaries, to-dos and links to Alexa and Amazon shopping. Amazon says raw audio is processed and deleted, and that transcripts are encrypted with keys the device controls.",
+  "friendlySummary": "Bee Frontier is a $74.99 wearable you can buy now. Bee Eclipse is a $99.99 card that sticks to a phone and is coming soon. Free use covers summaries and 14 days of memory. A $11.99 monthly plan adds more notes and Amazon links. Amazon says it deletes the raw audio and encrypts the transcript.",
+  "whyItMatters": "A cheaper recorder can turn meetings, classes and errands into notes without a separate app. It also records the people around you, and the optional Alexa voice link can capture conversations through an Echo, so the useful step is to tell others when it is on and to review what gets saved.",
+  "friendlyWhyItMatters": "These can turn a conversation into notes. They also record other people, so tell them when a device is on and check what is saved.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

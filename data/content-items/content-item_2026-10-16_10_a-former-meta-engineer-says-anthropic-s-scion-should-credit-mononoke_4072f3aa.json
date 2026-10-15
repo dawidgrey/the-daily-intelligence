@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_10_a-former-meta-engineer-says-anthropic-s-scion-should-credit-mononoke_4072f3aa",
+  "sourceKind": "article",
+  "sourceName": "sunshowers",
+  "sourceUrl": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+  "canonicalUrl": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "A former Meta engineer says Anthropic's Scion should credit Mononoke",
+  "friendlyTitle": "A former Meta engineer says a new Anthropic system copied an older design",
+  "summary": "In a follow-up that led Hacker News, a former Meta source-control engineer compared Anthropic's public description of Scion changesets with his 2022 description of Mononoke's Bonsai changesets and said the data models match. He argues that crediting Sapling is not the same as crediting Mononoke. He also says he later received private confirmation of intentional copying and staff overlap; that confirmation is not public, and he said Anthropic had not updated its post.",
+  "friendlySummary": "A former Meta engineer says Anthropic's Scion version-control design matches Mononoke, a system he helped build, more closely than Anthropic's credit suggests. He also says he was privately told the copying was intentional. That private claim is not public, and Anthropic had not updated its post when he wrote.",
+  "whyItMatters": "When a lab says a model built a production system quickly, the practical question is whether an existing design was the template. Copying a published system can still be useful engineering; the dispute here is about credit, not about whether the code runs.",
+  "friendlyWhyItMatters": "If a company says an AI built a system from scratch, check whether an older public design was the starting point. The argument here is about credit, not about whether the software works.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}

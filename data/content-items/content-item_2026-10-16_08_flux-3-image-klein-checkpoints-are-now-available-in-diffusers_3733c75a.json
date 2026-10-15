@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-16_08_flux-3-image-klein-checkpoints-are-now-available-in-diffusers_3733c75a",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/flux-3",
+  "canonicalUrl": "https://huggingface.co/blog/flux-3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-15T20:09:21Z",
+  "createdAtUtc": "2026-10-15T20:09:21Z",
+  "updatedAtUtc": "2026-10-15T20:09:21Z",
+  "title": "FLUX.3 Image Klein checkpoints are now available in Diffusers",
+  "friendlyTitle": "An open FLUX image model now works in Diffusers",
+  "summary": "Hugging Face said Black Forest Labs' open FLUX.3 Image Klein models are in Diffusers, covering text-to-image, edits from reference images, and layout control with bounding boxes. A distilled checkpoint is set up for faster inference, and NVFP4 and FP8 weights are offered for smaller GPUs. The two-second example Hugging Face cites is for a 1024-pixel image on an H100, not a laptop.",
+  "friendlySummary": "Black Forest Labs' open FLUX.3 Image Klein models can make images, edit from reference pictures, and place objects with boxes. They now run in the Diffusers library. A faster version is included, plus smaller files for less powerful graphics cards.",
+  "whyItMatters": "People who generate images can try an open checkpoint inside a common Python library instead of a closed API. Check the licence and your own hardware before assuming it will run locally at that speed.",
+  "friendlyWhyItMatters": "You can try an open image model in a common tool instead of a closed service. The very fast example was measured on a large data-centre chip, so test it on your own computer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-16"
+  }
+}
