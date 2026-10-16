@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_06_vercel-s-gateway-report-open-weight-models-take-most-tokens-little-of-th_2447ad21",
+  "sourceKind": "article",
+  "sourceName": "Vercel",
+  "sourceUrl": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+  "canonicalUrl": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "Vercel's gateway report: open-weight models take most tokens, little of the spend",
+  "friendlyTitle": "Open models handle most tokens, but not most of the bill",
+  "summary": "Vercel's October AI Gateway index says open-weight models processed 71.5% of tokens and 23% of spend in the latest month it reports. Jev, a small decision model, reached 35% of paid teams within two weeks of launch but only 0.27% of gateway spend in that window. September gateway spend was about 13 times December's, while the average price per token was 47% lower, and almost one in three paid teams changed their most-used lab.",
+  "friendlySummary": "On Vercel's shared AI gateway, open models handled 71.5% of the tokens and 23% of the money. A new small model, Jev, was used by 35% of paying teams within two weeks, but it was only 0.27% of spending. Teams are also changing which lab they use most.",
+  "whyItMatters": "If you buy model access, the useful split is volume versus money: cheap open models can dominate token counts without dominating the bill. This is one gateway, and Vercel says it undercounts labs that customers call directly. Spend is estimated at list prices.",
+  "friendlyWhyItMatters": "A cheap model can do a lot of the work without being most of the invoice. These numbers are from one gateway, not every AI product, and they use list prices.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

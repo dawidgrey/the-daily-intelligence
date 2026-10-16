@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_12_google-artemis_563f8ee1",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/google/artemis",
+  "canonicalUrl": "https://github.com/google/artemis",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "google/artemis",
+  "friendlyTitle": "ARTEMIS, a Google tool that drives Android apps from text",
+  "summary": "ARTEMIS is Google's Apache-2.0 project for turning plain-language instructions into Android automation. It runs end-to-end phone workflows, captures logs, and connects to coding assistants such as Antigravity, Codex and Claude Code. It gained 221 stars on today's Python trending list and has about 12,000 stars. Google says it reaches above 99% on the AndroidWorld benchmark.",
+  "friendlySummary": "ARTEMIS lets you describe an Android task in plain language and have an agent carry it out. It can record logs and work with coding assistants. It gained 221 stars on GitHub's Python trending list today. Google says it succeeds on more than 99% of one public phone-task test.",
+  "whyItMatters": "A developer can ask an agent to exercise an Android app, record what happened, and keep the logs, instead of tapping through the same flow by hand. You still need a device or emulator, and the benchmark figure is Google's claim.",
+  "friendlyWhyItMatters": "Use it to test an Android app without tapping every screen yourself. You still need a phone or an emulator, and the success number is Google's own claim.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

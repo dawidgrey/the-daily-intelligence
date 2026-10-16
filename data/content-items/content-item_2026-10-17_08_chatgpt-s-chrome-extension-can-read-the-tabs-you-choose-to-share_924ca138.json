@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_08_chatgpt-s-chrome-extension-can-read-the-tabs-you-choose-to-share_924ca138",
+  "sourceKind": "product",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+  "credit": "OpenAI (@ChatGPT)",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "ChatGPT's Chrome extension can read the tabs you choose to share",
+  "friendlyTitle": "ChatGPT can look at Chrome tabs if you install the add-on",
+  "summary": "The Verge reports that OpenAI's ChatGPT Chrome extension can now read browser tabs you tag from the ChatGPT web or desktop app, and can sit in the Chrome sidebar with conversation history. OpenAI's sample tasks include comparing open product tabs, copying vendor details into a sheet, and filling a form while stopping before submit. The sidebar can also send messages, fill forms or download files when you ask it to.",
+  "friendlySummary": "The Verge reports that OpenAI's Chrome add-on can read tabs you point it to. You can ask it to compare open pages, copy details into a sheet, or fill a form and stop before sending it. A sidebar can also act on the page you are viewing.",
+  "whyItMatters": "It can turn a pile of open tabs into a comparison or a draft without copying each page by hand. It only works if the extension is installed, and a tagged tab is content you are choosing to show the model, so review what it fills in before you send or pay.",
+  "friendlyWhyItMatters": "This can save copying between tabs. It works only if you install the add-on, and you should check what it writes before you send or pay.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

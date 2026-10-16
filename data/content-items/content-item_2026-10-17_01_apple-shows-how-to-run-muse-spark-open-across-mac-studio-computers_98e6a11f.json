@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_01_apple-shows-how-to-run-muse-spark-open-across-mac-studio-computers_98e6a11f",
+  "sourceKind": "research",
+  "sourceName": "Apple Machine Learning Research",
+  "sourceUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "canonicalUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "Apple shows how to run Muse Spark Open across Mac Studio computers",
+  "friendlyTitle": "Apple shows how to run a huge open model on Mac computers",
+  "summary": "Apple's 15 October MLX post shows Muse Spark Open, the 816-billion-parameter open model, generating more than 36 tokens per second on four Mac Studio computers with M5 Ultra chips, at an 8,192-token context. In 4-bit form the weights are about 493GB, so the model does not fit on one 512GB machine once inference memory is included. Smaller models in the same post, including Qwen 3.8 27B and Mistral Medium 3.5 128B, do fit on a single Mac Studio.",
+  "friendlySummary": "Apple says four high-end Mac Studio computers can run Meta's very large open model at more than 36 words a second. The compressed model is about 493GB, so it does not fit on one machine. Smaller models in the same test do fit on a single Mac Studio.",
+  "whyItMatters": "People who want a private coding agent can now point tools such as OpenCode at a local MLX server instead of a cloud API. The frontier-size setup needs several expensive desktops and macOS 26.2's Thunderbolt link, so this is a lab or office cluster, not a laptop download.",
+  "friendlyWhyItMatters": "You can keep a coding assistant on your own computers instead of sending the work to a cloud service. The biggest setup needs several expensive Macs, not a laptop.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

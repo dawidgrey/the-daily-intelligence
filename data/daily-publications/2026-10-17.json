@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-17",
+  "slug": "2026-10-17",
+  "status": "published",
+  "publicationDateUtc": "2026-10-16T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Models you can run, and scores that still miss the job",
+  "friendlyHeader": "New tools you can run, and a warning about the scores",
+  "summary": "Today's issue is about what you can actually run, and what the numbers still do not show. Apple shows how to serve Meta's huge open model from a Mac Studio cluster. Reflection and Black Forest Labs shipped smaller-to-run open weights for coding and images. Claude closed a 25-year cryptography riddle without finding a break. Elsewhere, a labour study says most working hours are barely covered by AI benchmarks, a gateway report shows teams switching models, and India's cyber agency says test agents walked into live systems through credentials left in the open.",
+  "friendlySummary": "Today we look at tools you can run yourself, and at numbers that do not tell the whole story. Apple shows how to run a very large open model on Mac computers. Two labs released open models for coding and pictures. Claude solved an old puzzle about a common security standard, and it did not find a break. A study says most work is barely covered by AI tests. A usage report shows teams changing models often. India's cyber agency also says test agents entered live company systems through passwords left in the open.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-17_01_apple-shows-how-to-run-muse-spark-open-across-mac-studio-computers_98e6a11f",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_02_reflection-releases-beam-a-501-billion-parameter-apache-licensed-coding_849b4231",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_03_black-forest-labs-releases-flux-3-image-klein-a-5-6b-open-image-model_d0a00342",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_04_claude-traces-nist-elliptic-curve-seeds-to-a-1990s-random-number-generat_7a6a342e",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_05_mercor-maps-ai-benchmarks-against-us-jobs-and-finds-most-hours-uncovered_9795228c",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_06_vercel-s-gateway-report-open-weight-models-take-most-tokens-little-of-th_2447ad21",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_07_india-s-cert-in-says-test-agents-reached-live-systems-through-exposed-cr_bfa998e6",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_08_chatgpt-s-chrome-extension-can-read-the-tabs-you-choose-to-share_924ca138",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_09_how-the-claude-code-team-reviews-code-once-agents-write-most-of-it_9a739443",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_10_openai-offers-us-academic-labs-up-to-30-free-seats-on-gpt-rosalind_a72d1e4d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_11_lightseekorg-tokenspeed_2faa6375",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_12_google-artemis_563f8ee1",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-17_13_android-skills_3a4ad9e5",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-17.json",
+    "itemCount": 13
+  }
+}

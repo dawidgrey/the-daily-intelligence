@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_11_lightseekorg-tokenspeed_2faa6375",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/lightseekorg/tokenspeed",
+  "canonicalUrl": "https://github.com/lightseekorg/tokenspeed",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "lightseekorg/tokenspeed",
+  "friendlyTitle": "TokenSpeed, an engine for running language models faster",
+  "summary": "TokenSpeed is an open LLM inference engine that gained 374 stars on GitHub's Python trending list today and sits at about 2,700 stars. It is aimed at serving models on recent NVIDIA and AMD GPUs, and recent commits add a serving path for Muse Spark Open. It is MIT-licensed, with docs at lightseek.org.",
+  "friendlySummary": "TokenSpeed is a free tool for serving language models on recent graphics cards. It gained 374 stars on GitHub's Python trending list today. Recent work adds support for Meta's large open model. The licence is MIT.",
+  "whyItMatters": "If you already run your own model server, this is a place to look for higher throughput on agent-style workloads instead of writing kernels yourself. It is a serving engine for GPU hosts, not a chat app you install on a laptop.",
+  "friendlyWhyItMatters": "Use it if you already host models and want them to answer faster. It is for a server with a strong graphics card, not a simple chat app.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

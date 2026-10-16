@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_10_openai-offers-us-academic-labs-up-to-30-free-seats-on-gpt-rosalind_a72d1e4d",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "canonicalUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "OpenAI offers US academic labs up to 30 free seats on GPT-Rosalind",
+  "friendlyTitle": "US university labs can apply for a year of free research seats",
+  "summary": "OpenAI's Rosalind Academic Plan, announced 15 October, gives eligible US university labs up to 30 Business Standard seats at no cost for up to 12 months. Access to GPT-Rosalind, its life-sciences model, still needs a separate trusted-access review. OpenAI says research data shared on the plan is not used to train its models by default, and that API access is not included.",
+  "friendlySummary": "OpenAI is offering eligible US university labs up to 30 free seats for up to a year. The special life-sciences model still needs a separate approval. OpenAI says it does not use this research data to train its models unless you opt in, and the programming interface is not included.",
+  "whyItMatters": "A lab that already does biological research can try the specialised model without paying for a year of seats, after OpenAI checks the institution and the lab lead. It is not open to every researcher, it is limited to US universities, and the lab lead remains responsible for who uses it.",
+  "friendlyWhyItMatters": "A lab can try the tool without paying for seats, after OpenAI checks the university and the lab lead. It is only for US universities, and the lab lead decides who may use it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}

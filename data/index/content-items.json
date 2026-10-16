@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-15T20:09:21Z",
+  "generatedAtUtc": "2026-10-16T20:08:15Z",
   "items": [
     {
-      "id": "content-item_2026-10-16_01_meta-releases-muse-spark-open-an-816-billion-parameter-open-weight-model_9d251ac6",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Meta releases Muse Spark Open, an 816-billion-parameter open-weight model",
-      "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open"
+      "id": "content-item_2026-10-17_01_apple-shows-how-to-run-muse-spark-open-across-mac-studio-computers_98e6a11f",
+      "sourceKind": "research",
+      "sourceName": "Apple Machine Learning Research",
+      "title": "Apple shows how to run Muse Spark Open across Mac Studio computers",
+      "sourceUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference"
     },
     {
-      "id": "content-item_2026-10-16_02_anthropic-gives-metr-employee-like-access-to-review-its-risks_dc9ed14d",
-      "sourceKind": "article",
+      "id": "content-item_2026-10-17_02_reflection-releases-beam-a-501-billion-parameter-apache-licensed-coding_849b4231",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Reflection releases Beam, a 501-billion-parameter Apache-licensed coding model",
+      "sourceUrl": "https://huggingface.co/blog/reflection-beam"
+    },
+    {
+      "id": "content-item_2026-10-17_03_black-forest-labs-releases-flux-3-image-klein-a-5-6b-open-image-model_d0a00342",
+      "sourceKind": "product",
+      "sourceName": "Black Forest Labs",
+      "title": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B open image model",
+      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein"
+    },
+    {
+      "id": "content-item_2026-10-17_04_claude-traces-nist-elliptic-curve-seeds-to-a-1990s-random-number-generat_7a6a342e",
+      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic gives METR employee-like access to review its risks",
-      "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+      "title": "Claude traces NIST elliptic-curve seeds to a 1990s random-number generator",
+      "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins"
     },
     {
-      "id": "content-item_2026-10-16_03_axios-reports-the-ftc-sent-investigative-demands-to-openai-and-anthropic_706ad4e6",
-      "sourceKind": "regulation",
-      "sourceName": "Axios",
-      "title": "Axios reports the FTC sent investigative demands to OpenAI and Anthropic",
-      "sourceUrl": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+      "id": "content-item_2026-10-17_05_mercor-maps-ai-benchmarks-against-us-jobs-and-finds-most-hours-uncovered_9795228c",
+      "sourceKind": "research",
+      "sourceName": "Mercor",
+      "title": "Mercor maps AI benchmarks against US jobs and finds most hours uncovered",
+      "sourceUrl": "https://www.mercor.com/research/labor-index/benchmark-map/"
     },
     {
-      "id": "content-item_2026-10-16_04_amazon-s-bee-launches-a-75-wearable-and-a-phone-mounted-recorder_a3fa54bb",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Amazon's Bee launches a $75 wearable and a phone-mounted recorder",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-    },
-    {
-      "id": "content-item_2026-10-16_05_google-s-universal-cart-launches-in-us-search-and-the-gemini-app_18caff74",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google's Universal Cart launches in US Search and the Gemini app",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/"
-    },
-    {
-      "id": "content-item_2026-10-16_06_brave-leo-adds-end-to-end-encryption-for-one-open-weight-chat-model_41cf8406",
-      "sourceKind": "product",
-      "sourceName": "Brave",
-      "title": "Brave Leo adds end-to-end encryption for one open-weight chat model",
-      "sourceUrl": "https://brave.com/blog/browser-ai-e2ee/"
-    },
-    {
-      "id": "content-item_2026-10-16_07_bluesky-s-attie-can-now-build-small-sites-games-and-quizzes_00b9e408",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Bluesky's Attie can now build small sites, games and quizzes",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
-    },
-    {
-      "id": "content-item_2026-10-16_08_flux-3-image-klein-checkpoints-are-now-available-in-diffusers_3733c75a",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "FLUX.3 Image Klein checkpoints are now available in Diffusers",
-      "sourceUrl": "https://huggingface.co/blog/flux-3"
-    },
-    {
-      "id": "content-item_2026-10-16_09_perplexity-open-sources-space-the-sandbox-behind-its-computer-agent_6d8a951e",
-      "sourceKind": "product",
-      "sourceName": "Perplexity",
-      "title": "Perplexity open-sources SPACE, the sandbox behind its Computer agent",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/open-sourcing-space"
-    },
-    {
-      "id": "content-item_2026-10-16_10_a-former-meta-engineer-says-anthropic-s-scion-should-credit-mononoke_4072f3aa",
+      "id": "content-item_2026-10-17_06_vercel-s-gateway-report-open-weight-models-take-most-tokens-little-of-th_2447ad21",
       "sourceKind": "article",
-      "sourceName": "sunshowers",
-      "title": "A former Meta engineer says Anthropic's Scion should credit Mononoke",
-      "sourceUrl": "https://sunshowers.io/posts/anthropic-mononoke-2/"
+      "sourceName": "Vercel",
+      "title": "Vercel's gateway report: open-weight models take most tokens, little of the spend",
+      "sourceUrl": "https://vercel.com/blog/ai-gateway-production-index-october-2026"
     },
     {
-      "id": "content-item_2026-10-16_11_affaan-m-ecc-a-shared-harness-for-coding-agents_3429c721",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "affaan-m/ECC: a shared harness for coding agents",
-      "sourceUrl": "https://github.com/affaan-m/ECC"
+      "id": "content-item_2026-10-17_07_india-s-cert-in-says-test-agents-reached-live-systems-through-exposed-cr_bfa998e6",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "India's CERT-In says test agents reached live systems through exposed credentials",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
     },
     {
-      "id": "content-item_2026-10-16_12_xerj-org-xerj-an-index-so-agents-search-files-with-fewer-tokens_0b6937fb",
-      "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "xerj-org/xerj: an index so agents search files with fewer tokens",
-      "sourceUrl": "https://github.com/xerj-org/xerj"
+      "id": "content-item_2026-10-17_08_chatgpt-s-chrome-extension-can-read-the-tabs-you-choose-to-share_924ca138",
+      "sourceKind": "product",
+      "sourceName": "The Verge",
+      "title": "ChatGPT's Chrome extension can read the tabs you choose to share",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
     },
     {
-      "id": "content-item_2026-10-16_13_obra-superpowers-a-skills-workflow-that-makes-coding-agents-plan-first_2046f5e5",
+      "id": "content-item_2026-10-17_09_how-the-claude-code-team-reviews-code-once-agents-write-most-of-it_9a739443",
+      "sourceKind": "article",
+      "sourceName": "Claude",
+      "title": "How the Claude Code team reviews code once agents write most of it",
+      "sourceUrl": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    {
+      "id": "content-item_2026-10-17_10_openai-offers-us-academic-labs-up-to-30-free-seats-on-gpt-rosalind_a72d1e4d",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI offers US academic labs up to 30 free seats on GPT-Rosalind",
+      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
+    {
+      "id": "content-item_2026-10-17_11_lightseekorg-tokenspeed_2faa6375",
       "sourceKind": "github",
-      "sourceName": "GitHub Trending",
-      "title": "obra/superpowers: a skills workflow that makes coding agents plan first",
-      "sourceUrl": "https://github.com/obra/superpowers"
+      "sourceName": "GitHub",
+      "title": "lightseekorg/tokenspeed",
+      "sourceUrl": "https://github.com/lightseekorg/tokenspeed"
+    },
+    {
+      "id": "content-item_2026-10-17_12_google-artemis_563f8ee1",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "google/artemis",
+      "sourceUrl": "https://github.com/google/artemis"
+    },
+    {
+      "id": "content-item_2026-10-17_13_android-skills_3a4ad9e5",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "android/skills",
+      "sourceUrl": "https://github.com/android/skills"
     }
   ]
 }

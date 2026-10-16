@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_13_android-skills_3a4ad9e5",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/android/skills",
+  "canonicalUrl": "https://github.com/android/skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:15Z",
+  "createdAtUtc": "2026-10-16T20:08:15Z",
+  "updatedAtUtc": "2026-10-16T20:08:15Z",
+  "title": "android/skills",
+  "friendlyTitle": "Android Skills, Google's instructions for coding agents",
+  "summary": "Android Skills is Google's official pack of agent skills for Android development, on GitHub's daily trending list with 35 stars today and about 8,000 overall. You install it as a plugin in Claude Code or Codex, and the agent is meant to load the relevant skill when the task matches, from Compose and CameraX to on-device AI. It is Apache-2.0 licensed, and the latest plugin bump was 14 October.",
+  "friendlySummary": "Android Skills is Google's official set of instructions for AI coding tools that work on Android apps. It is on GitHub's trending list today, with 35 new stars and about 8,000 in total. You add it to Claude Code or Codex, and the agent is supposed to use the matching guide for the task.",
+  "whyItMatters": "If a coding agent is changing an Android app, these skills give it Google's current project guidance instead of a generic guess. Google says the agent can still be wrong, so the change still needs a human check.",
+  "friendlyWhyItMatters": "Use it when an agent is editing an Android app, so it follows Google's current steps. Google says the agent can still be wrong, so check the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}
