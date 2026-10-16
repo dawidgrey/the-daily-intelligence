@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-16T20:08:15Z",
+  "generatedAtUtc": "2026-10-16T20:08:54Z",
   "items": [
     {
       "id": "content-item_2026-10-17_01_apple-shows-how-to-run-muse-spark-open-across-mac-studio-computers_98e6a11f",
@@ -18,11 +18,11 @@
       "sourceUrl": "https://huggingface.co/blog/reflection-beam"
     },
     {
-      "id": "content-item_2026-10-17_03_black-forest-labs-releases-flux-3-image-klein-a-5-6b-open-image-model_d0a00342",
+      "id": "content-item_2026-10-17_03_singapore-and-deepmind-test-an-on-device-scam-detector-that-does-not-upl_58e4191f",
       "sourceKind": "product",
-      "sourceName": "Black Forest Labs",
-      "title": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B open image model",
-      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein"
+      "sourceName": "Google DeepMind",
+      "title": "Singapore and DeepMind test an on-device scam detector that does not upload the chat",
+      "sourceUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
     },
     {
       "id": "content-item_2026-10-17_04_claude-traces-nist-elliptic-curve-seeds-to-a-1990s-random-number-generat_7a6a342e",

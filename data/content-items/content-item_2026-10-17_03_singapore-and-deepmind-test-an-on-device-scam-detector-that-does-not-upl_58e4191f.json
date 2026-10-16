@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-17_03_singapore-and-deepmind-test-an-on-device-scam-detector-that-does-not-upl_58e4191f",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "canonicalUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-16T20:08:54Z",
+  "createdAtUtc": "2026-10-16T20:08:54Z",
+  "updatedAtUtc": "2026-10-16T20:08:54Z",
+  "title": "Singapore and DeepMind test an on-device scam detector that does not upload the chat",
+  "friendlyTitle": "Singapore is testing scam warnings that stay on the phone",
+  "summary": "Google DeepMind and GovTech Singapore said on 14 October that they have fine-tuned a small Gemma model on local scam conversations, from fake officials and banks to regional schemes. A light on-device filter screens messages first; only suspicious threads go to the larger model, which can warn the person to pause before sending money or credentials. The agencies say training used anonymised scam reports, not private citizen chats, and that a deployed app would need consent and would not send the conversation to Google or the government.",
+  "friendlySummary": "Google DeepMind and Singapore's government tech agency have trained a small model to spot local scam chats, such as fake officials or banks. A light check runs first. Only suspicious chats go to a second check, which can warn you to pause. They say the training did not use private citizen messages, and a finished app would need your permission.",
+  "whyItMatters": "Most scam losses now come from a convincing conversation, not a bad link, and cloud scanning fights that by reading the chat. This design keeps the check on the phone. It is not in citizen apps yet: rollout is phased, and a warning is not the same as blocking a payment.",
+  "friendlyWhyItMatters": "The warning is meant to stay on your phone, so the chat is not sent to Google or the government. It is not in public apps yet, and a warning does not stop a payment by itself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-17"
+  }
+}
