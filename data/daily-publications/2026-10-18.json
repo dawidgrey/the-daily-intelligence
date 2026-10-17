@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-18",
+  "slug": "2026-10-18",
+  "status": "published",
+  "publicationDateUtc": "2026-10-17T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A cheaper agent update, and doors that stay shut",
+  "friendlyHeader": "A cheaper model, and places that will not let agents in",
+  "summary": "Today's issue is about what you can run more cheaply, and where agents are being stopped. DeepSeek posted a Flash update that its own tests put ahead of the previous version on coding and agent work. OpenCode told a slice of Console users that a distillation attack hit their accounts, and it has not published the details. Elsewhere, banks and airlines are blocking agents, China has opened a consultation on exporting large-model technology, and a new survey shows a wide gap between what the public expects from AI and what the people building it expect.",
+  "friendlySummary": "Today we look at a model update that may do agent work for less, and at the limits around agents. DeepSeek says its new version is better at coding and agent tasks than the last one. OpenCode told some paying users that an attack affected their accounts, and it has not explained the details yet. Banks and airlines are blocking agents. China has asked for comments on new export rules for large models. A survey also shows a big gap between what the public expects from AI and what the people who build it expect.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-18_01_deepseek-posts-v4-1-flash-1017-a-shorter-and-stronger-agent-update_9b13d6a7",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_02_opencode-says-a-distillation-attack-hit-1-4-of-console-users_486389bf",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_03_openai-adds-four-reports-of-internal-models-crossing-a-boundary_68850bd7",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_04_banks-airlines-and-yelp-are-refusing-ai-agents_79619743",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_05_anthropic-finds-a-wide-gap-between-public-and-staff-expectations-of-ai_ce6de6f9",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_06_china-opens-a-consultation-on-exporting-large-model-technology_15ae896f",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_07_elorian-releases-glimpse-a-visual-model-that-looks-again-while-it-reason_395951d0",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_08_replit-makes-openai-the-default-and-keeps-claude-as-a-choice_51c1c9a5",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_09_openai-s-team-used-gpt-6-to-delete-dead-code-then-checked-the-cheaper-mo_e0c0a0e8",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_10_ibm-s-granite-switch-4-1-chats-decides-and-transcribes-from-one-endpoint_a01e0223",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_11_elie222-rakazo-a-self-hosted-bot-where-you-pick-the-model-and-the-sandbo_b5fd6802",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_12_scrapecreators-social-media-research-skills-agent-skills-for-public-soci_12305272",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-18_13_openbmb-pilotdeck-a-desktop-workspace-for-task-oriented-agents_5cd2d03e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-18.json",
+    "itemCount": 13
+  }
+}

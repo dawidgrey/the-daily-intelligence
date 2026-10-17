@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_09_openai-s-team-used-gpt-6-to-delete-dead-code-then-checked-the-cheaper-mo_e0c0a0e8",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Developers",
+  "sourceUrl": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+  "canonicalUrl": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "OpenAI's team used GPT-6 to delete dead code, then checked the cheaper model",
+  "friendlyTitle": "OpenAI used newer models to clean up old code",
+  "summary": "OpenAI's Core Experimentation team described using GPT-6 Astra and the cheaper GPT-6.1 Sol to find unused code, stale feature flags, and slow tests. Five engineers, working part-time over two weeks, merged more than 1,400 pull requests that started from Astra proposals and deleted over 800,000 lines. One service image fell from 3.31GB to 1.72GB. In one comparison, GPT-6.1 Sol at the highest effort found 131 accepted stale-experiment issues against Astra's 142, at $15.12 of API cost versus $109.06.",
+  "friendlySummary": "An OpenAI team used GPT-6 Astra, then the cheaper GPT-6.1 Sol, to find unused code, old experiments, and slow tests. Five engineers merged more than 1,400 reviewed changes and deleted over 800,000 lines, mostly in their spare time over two weeks. One program image shrank from 3.31GB to 1.72GB. In one test, the cheaper model found 131 accepted issues against Astra's 142, at about one seventh of the cost.",
+  "whyItMatters": "The practical pattern is a small, reviewed cleanup, not a blank cheque to delete code. OpenAI says some proposals added more complexity than they were worth, and that the cheaper model missed a class of flags Astra caught. These figures are from one internal team.",
+  "friendlyWhyItMatters": "The useful habit is to start small and review each change. OpenAI says some ideas were not worth the extra complexity, and the cheaper model missed some cases. These numbers are from one internal team.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_10_ibm-s-granite-switch-4-1-chats-decides-and-transcribes-from-one-endpoint_a01e0223",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "IBM's Granite Switch 4.1 chats, decides, and transcribes from one endpoint",
+  "friendlyTitle": "IBM puts chat, decisions, and speech on one model",
+  "summary": "IBM published Granite Switch 4.1 on 15 October, in 8-billion and 30-billion parameter sizes. The Hugging Face post says one endpoint can chat, run decision checks, and transcribe speech, because small adapters sit on the base model and reuse its cache instead of loading a second full model. IBM says a safety adapter beats several named decision models on average on safety tasks, and that the speech model is the fastest on Hugging Face's OpenASR leaderboard.",
+  "friendlySummary": "IBM published Granite Switch 4.1 on 15 October, in 8-billion and 30-billion sizes. One address can chat, make yes-or-no checks, and turn speech into text. IBM says the extra skills are small add-ons, so they use about the same memory as the base model. IBM also says one safety add-on beats several named decision models on average.",
+  "whyItMatters": "If you need a chat reply and a yes-or-no check on the same text, this is a way to do both without a second GPU's worth of weights. The benchmark claims are IBM's. The models run in vLLM with a plugin, and IBM says llama.cpp can serve the same switch.",
+  "friendlyWhyItMatters": "You can ask a question and check the answer without loading a second full model. The scores are IBM's. It runs in vLLM with a plugin, and IBM says llama.cpp can run it too.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-16T20:08:54Z",
+  "generatedAtUtc": "2026-10-17T20:10:27Z",
   "items": [
     {
-      "id": "content-item_2026-10-17_01_apple-shows-how-to-run-muse-spark-open-across-mac-studio-computers_98e6a11f",
-      "sourceKind": "research",
-      "sourceName": "Apple Machine Learning Research",
-      "title": "Apple shows how to run Muse Spark Open across Mac Studio computers",
-      "sourceUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference"
-    },
-    {
-      "id": "content-item_2026-10-17_02_reflection-releases-beam-a-501-billion-parameter-apache-licensed-coding_849b4231",
+      "id": "content-item_2026-10-18_01_deepseek-posts-v4-1-flash-1017-a-shorter-and-stronger-agent-update_9b13d6a7",
       "sourceKind": "product",
       "sourceName": "Hugging Face",
-      "title": "Reflection releases Beam, a 501-billion-parameter Apache-licensed coding model",
-      "sourceUrl": "https://huggingface.co/blog/reflection-beam"
+      "title": "DeepSeek posts V4.1-Flash-1017, a shorter and stronger agent update",
+      "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
-      "id": "content-item_2026-10-17_03_singapore-and-deepmind-test-an-on-device-scam-detector-that-does-not-upl_58e4191f",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Singapore and DeepMind test an on-device scam detector that does not upload the chat",
-      "sourceUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      "id": "content-item_2026-10-18_02_opencode-says-a-distillation-attack-hit-1-4-of-console-users_486389bf",
+      "sourceKind": "x",
+      "sourceName": "OpenCode",
+      "title": "OpenCode says a distillation attack hit 1.4% of Console users",
+      "sourceUrl": "https://x.com/opencode/status/2111516673953935833"
     },
     {
-      "id": "content-item_2026-10-17_04_claude-traces-nist-elliptic-curve-seeds-to-a-1990s-random-number-generat_7a6a342e",
+      "id": "content-item_2026-10-18_03_openai-adds-four-reports-of-internal-models-crossing-a-boundary_68850bd7",
+      "sourceKind": "article",
+      "sourceName": "OpenAI Alignment",
+      "title": "OpenAI adds four reports of internal models crossing a boundary",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/"
+    },
+    {
+      "id": "content-item_2026-10-18_04_banks-airlines-and-yelp-are-refusing-ai-agents_79619743",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Banks, airlines, and Yelp are refusing AI agents",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+    },
+    {
+      "id": "content-item_2026-10-18_05_anthropic-finds-a-wide-gap-between-public-and-staff-expectations-of-ai_ce6de6f9",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Claude traces NIST elliptic-curve seeds to a 1990s random-number generator",
-      "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins"
+      "title": "Anthropic finds a wide gap between public and staff expectations of AI",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap"
     },
     {
-      "id": "content-item_2026-10-17_05_mercor-maps-ai-benchmarks-against-us-jobs-and-finds-most-hours-uncovered_9795228c",
-      "sourceKind": "research",
-      "sourceName": "Mercor",
-      "title": "Mercor maps AI benchmarks against US jobs and finds most hours uncovered",
-      "sourceUrl": "https://www.mercor.com/research/labor-index/benchmark-map/"
+      "id": "content-item_2026-10-18_06_china-opens-a-consultation-on-exporting-large-model-technology_15ae896f",
+      "sourceKind": "regulation",
+      "sourceName": "China Ministry of Commerce",
+      "title": "China opens a consultation on exporting large-model technology",
+      "sourceUrl": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html"
     },
     {
-      "id": "content-item_2026-10-17_06_vercel-s-gateway-report-open-weight-models-take-most-tokens-little-of-th_2447ad21",
-      "sourceKind": "article",
-      "sourceName": "Vercel",
-      "title": "Vercel's gateway report: open-weight models take most tokens, little of the spend",
-      "sourceUrl": "https://vercel.com/blog/ai-gateway-production-index-october-2026"
+      "id": "content-item_2026-10-18_07_elorian-releases-glimpse-a-visual-model-that-looks-again-while-it-reason_395951d0",
+      "sourceKind": "product",
+      "sourceName": "Elorian",
+      "title": "Elorian releases Glimpse, a visual model that looks again while it reasons",
+      "sourceUrl": "https://elorian.ai/blog/introducing-glimpse"
     },
     {
-      "id": "content-item_2026-10-17_07_india-s-cert-in-says-test-agents-reached-live-systems-through-exposed-cr_bfa998e6",
+      "id": "content-item_2026-10-18_08_replit-makes-openai-the-default-and-keeps-claude-as-a-choice_51c1c9a5",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "India's CERT-In says test agents reached live systems through exposed credentials",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+      "title": "Replit makes OpenAI the default and keeps Claude as a choice",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
-      "id": "content-item_2026-10-17_08_chatgpt-s-chrome-extension-can-read-the-tabs-you-choose-to-share_924ca138",
-      "sourceKind": "product",
-      "sourceName": "The Verge",
-      "title": "ChatGPT's Chrome extension can read the tabs you choose to share",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-    },
-    {
-      "id": "content-item_2026-10-17_09_how-the-claude-code-team-reviews-code-once-agents-write-most-of-it_9a739443",
+      "id": "content-item_2026-10-18_09_openai-s-team-used-gpt-6-to-delete-dead-code-then-checked-the-cheaper-mo_e0c0a0e8",
       "sourceKind": "article",
-      "sourceName": "Claude",
-      "title": "How the Claude Code team reviews code once agents write most of it",
-      "sourceUrl": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+      "sourceName": "OpenAI Developers",
+      "title": "OpenAI's team used GPT-6 to delete dead code, then checked the cheaper model",
+      "sourceUrl": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
     },
     {
-      "id": "content-item_2026-10-17_10_openai-offers-us-academic-labs-up-to-30-free-seats-on-gpt-rosalind_a72d1e4d",
+      "id": "content-item_2026-10-18_10_ibm-s-granite-switch-4-1-chats-decides-and-transcribes-from-one-endpoint_a01e0223",
       "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI offers US academic labs up to 30 free seats on GPT-Rosalind",
-      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      "sourceName": "Hugging Face",
+      "title": "IBM's Granite Switch 4.1 chats, decides, and transcribes from one endpoint",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
     },
     {
-      "id": "content-item_2026-10-17_11_lightseekorg-tokenspeed_2faa6375",
+      "id": "content-item_2026-10-18_11_elie222-rakazo-a-self-hosted-bot-where-you-pick-the-model-and-the-sandbo_b5fd6802",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "lightseekorg/tokenspeed",
-      "sourceUrl": "https://github.com/lightseekorg/tokenspeed"
+      "title": "elie222/rakazo: a self-hosted bot where you pick the model and the sandbox",
+      "sourceUrl": "https://github.com/elie222/rakazo"
     },
     {
-      "id": "content-item_2026-10-17_12_google-artemis_563f8ee1",
+      "id": "content-item_2026-10-18_12_scrapecreators-social-media-research-skills-agent-skills-for-public-soci_12305272",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "google/artemis",
-      "sourceUrl": "https://github.com/google/artemis"
+      "title": "ScrapeCreators/social-media-research-skills: agent skills for public social research",
+      "sourceUrl": "https://github.com/ScrapeCreators/social-media-research-skills"
     },
     {
-      "id": "content-item_2026-10-17_13_android-skills_3a4ad9e5",
+      "id": "content-item_2026-10-18_13_openbmb-pilotdeck-a-desktop-workspace-for-task-oriented-agents_5cd2d03e",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "android/skills",
-      "sourceUrl": "https://github.com/android/skills"
+      "title": "OpenBMB/PilotDeck: a desktop workspace for task-oriented agents",
+      "sourceUrl": "https://github.com/OpenBMB/PilotDeck"
     }
   ]
 }

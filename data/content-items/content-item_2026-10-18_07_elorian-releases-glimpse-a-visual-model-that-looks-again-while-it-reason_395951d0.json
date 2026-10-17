@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_07_elorian-releases-glimpse-a-visual-model-that-looks-again-while-it-reason_395951d0",
+  "sourceKind": "product",
+  "sourceName": "Elorian",
+  "sourceUrl": "https://elorian.ai/blog/introducing-glimpse",
+  "canonicalUrl": "https://elorian.ai/blog/introducing-glimpse",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "Elorian releases Glimpse, a visual model that looks again while it reasons",
+  "friendlyTitle": "A new model that looks again while it thinks",
+  "summary": "Elorian released Glimpse on 16 October as a research preview, with an API and a chat interface. The company says the model keeps a visual scratch space: while it reasons, it can crop a region, pull frames from a video, or run code against what it sees, instead of describing an image once and then working only in text. Elorian says a small team post-trained it on an open-weight base using a few hundred GPUs. Input is priced at $0.60 per million tokens and output at $3, which the company says is 94% below GPT-6 Astra.",
+  "friendlySummary": "Elorian released Glimpse on 16 October as a research preview. The company says the model can zoom in, pull video frames, or run code while it is still thinking, instead of describing a picture once. A small team trained it on an open base model. Elorian prices it at $0.60 per million input tokens and $3 per million output tokens.",
+  "whyItMatters": "If your work is charts, short video, or robot footage, a smaller visual model may be worth a test against a general frontier model. The comparison table is Elorian's. The company says Glimpse leads Astra on some of those tests and trails it on others, and that looking more carefully also uses more tokens.",
+  "friendlyWhyItMatters": "It may be useful for charts, short videos, or robot footage. The test scores are Elorian's, and the model does not win every comparison. Looking more carefully also costs more tokens.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

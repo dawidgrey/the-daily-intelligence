@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_04_banks-airlines-and-yelp-are-refusing-ai-agents_79619743",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "Banks, airlines, and Yelp are refusing AI agents",
+  "friendlyTitle": "Some websites are blocking AI agents",
+  "summary": "The Verge reports that popular sites are refusing the agents labs want to send onto the web. Yelp told TechCrunch it allows only agents that pay for its data licence. Delta is blocking agents from booking flights. JPMorgan Chase and Charles Schwab have said they block agents from customer accounts for security reasons. Amazon is still in court with Perplexity over agent shopping; an appeals court lifted an earlier ban in August, and Amazon has filed an amended complaint.",
+  "friendlySummary": "The Verge says popular sites are refusing AI agents. Yelp allows only agents that pay for its data. Delta is blocking flight bookings by agents. JPMorgan Chase and Charles Schwab block agents from customer accounts. Amazon is still in a court fight with Perplexity over shopping agents.",
+  "whyItMatters": "A booking or banking task that worked in a demo can fail on the real site, even when you asked the agent to act for you. Meta has answered by partnering with retailers such as Walmart, Gap, Sephora, and Best Buy, rather than by getting every site to open the door.",
+  "friendlyWhyItMatters": "An agent that can book a table in a demo may fail at a bank, an airline, or a shop. Some companies are making deals with selected retailers instead of opening every site.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

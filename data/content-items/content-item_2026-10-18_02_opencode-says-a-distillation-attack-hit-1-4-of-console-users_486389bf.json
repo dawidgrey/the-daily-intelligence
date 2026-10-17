@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_02_opencode-says-a-distillation-attack-hit-1-4-of-console-users_486389bf",
+  "sourceKind": "x",
+  "sourceName": "OpenCode",
+  "sourceUrl": "https://x.com/opencode/status/2111516673953935833",
+  "canonicalUrl": "https://x.com/opencode/status/2111516673953935833",
+  "credit": "@opencode",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "OpenCode says a distillation attack hit 1.4% of Console users",
+  "friendlyTitle": "OpenCode says an attack affected some paying users",
+  "summary": "OpenCode said on 17 October that a security breach the night before, tied to a large-scale distillation attack, affected 1.4% of OpenCode Console users. The company said it emailed those users that morning and is working with Anthropic, OpenAI, and Google. It also said the incident is ongoing and that it cannot share more yet.",
+  "friendlySummary": "OpenCode said a security breach last night affected 1.4% of people who use OpenCode Console. It emailed those users and is working with Anthropic, OpenAI, and Google. It said the incident is still going on, so it cannot share more yet.",
+  "whyItMatters": "If you pay for models through OpenCode Console, check that email before assuming your account was untouched. The public post does not say what was taken, so this is a notice to watch, not a finished incident report.",
+  "friendlyWhyItMatters": "If you pay for models through OpenCode, check your email. The public post does not say what was taken. Do not treat silence as proof that your account is fine.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "x",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

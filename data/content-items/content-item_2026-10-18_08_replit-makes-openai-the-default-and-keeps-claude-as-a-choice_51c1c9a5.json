@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_08_replit-makes-openai-the-default-and-keeps-claude-as-a-choice_51c1c9a5",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "Replit makes OpenAI the default and keeps Claude as a choice",
+  "friendlyTitle": "Replit now uses OpenAI unless you choose another model",
+  "summary": "Replit chief executive Amjad Masad said the coding platform is no longer treating Anthropic as its preferred model partner. TechCrunch reports that OpenAI is now the default for Replit Agent, chosen on cost, the partnership, and Replit's own tests of building applications from scratch. Masad later said customers can still select Claude. He also said Replit had recently been a top-five Anthropic customer, and that a person familiar with the relationship disputed the idea that the partnership had ended.",
+  "friendlySummary": "Replit's chief executive said OpenAI is now the preferred partner for its coding agent. He cited cost, the partnership, and Replit's own tests. Customers can still choose Claude. He said Replit had recently been one of Anthropic's largest customers. Someone familiar with the deal said the partnership had not fully ended.",
+  "whyItMatters": "If you build in Replit and never change the model picker, your agent traffic is now pointed at OpenAI, not Claude. That can change quality, price, and which lab sees the prompts. The default is a product setting, not a ban on Anthropic models.",
+  "friendlyWhyItMatters": "If you leave the model setting alone, your Replit work now goes to OpenAI. That can change the price, the quality, and which company sees the prompts. Claude is still available if you select it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

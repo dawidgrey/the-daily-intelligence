@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_13_openbmb-pilotdeck-a-desktop-workspace-for-task-oriented-agents_5cd2d03e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/OpenBMB/PilotDeck",
+  "canonicalUrl": "https://github.com/OpenBMB/PilotDeck",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "OpenBMB/PilotDeck: a desktop workspace for task-oriented agents",
+  "friendlyTitle": "PilotDeck is a desktop app for agent tasks",
+  "summary": "PilotDeck, from OpenBMB, is an AGPL-3.0 desktop platform for task-oriented agent work. The project describes itself as a workspace-centric agent operating system, and it shipped release v2026.10.17 on 16 October. It has about 4,600 stars and gained 60 stars on GitHub's TypeScript trending list today.",
+  "friendlySummary": "PilotDeck is an open-source desktop app for running agent work as tasks. OpenBMB calls it a workspace for agents. A new release landed on 16 October. It has about 4,600 stars and gained 60 stars on GitHub today.",
+  "whyItMatters": "If you want agent work organized as tasks in a desktop app, rather than only as a terminal session, PilotDeck is a current open-source place to try that. The AGPL licence has sharing duties if you run a modified copy as a service, so read it before you build a product on top.",
+  "friendlyWhyItMatters": "Use it if you want agent work in a desktop app instead of only in a terminal. The licence asks you to share changes if you offer a modified copy as a service, so read that before you build on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

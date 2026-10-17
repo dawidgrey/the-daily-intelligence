@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_11_elie222-rakazo-a-self-hosted-bot-where-you-pick-the-model-and-the-sandbo_b5fd6802",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/elie222/rakazo",
+  "canonicalUrl": "https://github.com/elie222/rakazo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "elie222/rakazo: a self-hosted bot where you pick the model and the sandbox",
+  "friendlyTitle": "Rakazo lets you run your own bot and choose the model",
+  "summary": "Rakazo is an Apache-2.0 project billed as an open-source alternative to Grok Bot. You choose the model and the sandbox. It ships web, desktop, and mobile apps, and the repository was still taking commits on 17 October. It has about 4,400 stars and gained 146 stars on GitHub's TypeScript trending list today.",
+  "friendlySummary": "Rakazo is a free, open-source alternative to Grok Bot. You choose the model and the sandbox. It has web, desktop, and phone apps. It has about 4,400 stars and gained 146 stars on GitHub today.",
+  "whyItMatters": "If you want a personal or team bot without locking the agent to one lab's app, Rakazo is a place to run your own model choice inside a sandbox you control. It is a full product to self-host, not a single script, so read the deployment guide before treating a laptop install as the production setup.",
+  "friendlyWhyItMatters": "Use it if you want a bot that is not tied to one company's app. It is a full system to host yourself, so read the setup guide before you rely on it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

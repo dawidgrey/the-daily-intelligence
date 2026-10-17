@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-18_05_anthropic-finds-a-wide-gap-between-public-and-staff-expectations-of-ai_ce6de6f9",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+  "canonicalUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-17T20:10:27Z",
+  "createdAtUtc": "2026-10-17T20:10:27Z",
+  "updatedAtUtc": "2026-10-17T20:10:27Z",
+  "title": "Anthropic finds a wide gap between public and staff expectations of AI",
+  "friendlyTitle": "The public and AI builders expect very different speeds",
+  "summary": "Anthropic's 16 October note compares an August survey of 10,980 US adults with a survey of its own staff. The groups roughly agree on what AI can do today and disagree on the pace. By 2030, 39% of US adults and 91% of staff expect AI to make a Nobel-level discovery. Staff on average expect AI to be able to do 75% of their current work by 2030, compared with 28% for US workers. Among people who already use AI at work, 26% say a well-suited task takes a quarter of the time or less; 59% of staff say that.",
+  "friendlySummary": "Anthropic compared a survey of 10,980 US adults with a survey of its own staff. They roughly agree on what AI can do now. They do not agree on how fast it will improve. By 2030, 39% of adults and 91% of staff expect AI to make a Nobel-level discovery. Staff also expect AI to do much more of their own jobs.",
+  "whyItMatters": "If you are planning hiring, tooling, or your own job around AI, the disagreement is not only about model scores. It is about how fast capability becomes actual use. Anthropic also reports that the public's most-named obstacles are customers wanting a person, privacy, reliability, and liability rules.",
+  "friendlyWhyItMatters": "A plan for hiring or tools can go wrong if it assumes the builder's timeline. Anthropic says the public's biggest worries are customers wanting a person, privacy, reliability, and legal risk.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-18"
+  }
+}

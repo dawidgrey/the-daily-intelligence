@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-16T20:08:54Z",
+  "generatedAtUtc": "2026-10-17T20:10:28Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-18",
+      "slug": "2026-10-18",
+      "status": "published",
+      "publicationDateUtc": "2026-10-17T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A cheaper agent update, and doors that stay shut",
+      "friendlyHeader": "A cheaper model, and places that will not let agents in",
+      "summary": "Today's issue is about what you can run more cheaply, and where agents are being stopped. DeepSeek posted a Flash update that its own tests put ahead of the previous version on coding and agent work. OpenCode told a slice of Console users that a distillation attack hit their accounts, and it has not published the details. Elsewhere, banks and airlines are blocking agents, China has opened a consultation on exporting large-model technology, and a new survey shows a wide gap between what the public expects from AI and what the people building it expect.",
+      "friendlySummary": "Today we look at a model update that may do agent work for less, and at the limits around agents. DeepSeek says its new version is better at coding and agent tasks than the last one. OpenCode told some paying users that an attack affected their accounts, and it has not explained the details yet. Banks and airlines are blocking agents. China has asked for comments on new export rules for large models. A survey also shows a big gap between what the public expects from AI and what the people who build it expect.",
+      "itemCount": 13,
+      "href": "issues/2026-10-18.html",
+      "dataUrl": "data/daily-publications/2026-10-18.json"
+    },
     {
       "id": "daily-publication_2026-10-17",
       "slug": "2026-10-17",
