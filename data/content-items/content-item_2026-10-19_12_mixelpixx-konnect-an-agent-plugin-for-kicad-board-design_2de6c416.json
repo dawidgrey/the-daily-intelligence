@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_12_mixelpixx-konnect-an-agent-plugin-for-kicad-board-design_2de6c416",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/mixelpixx/Konnect",
+  "canonicalUrl": "https://github.com/mixelpixx/Konnect",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "mixelpixx/Konnect: an agent plugin for KiCad board design",
+  "friendlyTitle": "A plugin that lets an agent work in KiCad",
+  "summary": "Konnect is the next unpublished AI repo on today's trending lists, with about 230 stars today and 1,300 in total. It is a native KiCad 10 plugin: one Rust program that exposes 217 tools for schematics, placement, routing, design review, and manufacturing files to Claude or another model. The public licence is AGPL-3.0, with a separate commercial option.",
+  "friendlySummary": "Konnect is the next unpublished AI project on today's trending lists, with about 230 new stars and 1,300 in total. It is a plugin for KiCad 10. One program gives a model 217 tools for circuit drawings, part placement, routing, review, and manufacturing files. The public licence is AGPL-3.0.",
+  "whyItMatters": "A hardware designer can ask an agent to inspect or edit a board instead of clicking through every KiCad command. Most board tools need KiCad open with that board loaded. The agent can still place a part in the wrong spot, so the board file needs a human review before it goes to a manufacturer.",
+  "friendlyWhyItMatters": "You can ask an agent to inspect or change a circuit board instead of clicking every KiCad command yourself. Most tools need KiCad open with that board loaded. Check the file yourself before you send it to be made.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

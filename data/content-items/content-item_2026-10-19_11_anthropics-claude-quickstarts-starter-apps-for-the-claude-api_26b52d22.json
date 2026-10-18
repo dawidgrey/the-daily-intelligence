@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_11_anthropics-claude-quickstarts-starter-apps-for-the-claude-api_26b52d22",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/anthropics/claude-quickstarts",
+  "canonicalUrl": "https://github.com/anthropics/claude-quickstarts",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "anthropics/claude-quickstarts: starter apps for the Claude API",
+  "friendlyTitle": "Starter projects for building apps with Claude",
+  "summary": "Anthropic's quickstart collection is the highest-trending unpublished AI repo on today's GitHub lists, with about 450 stars today and 18,600 in total. It is a set of small, deployable projects for the Claude API, including agent examples, an autonomous-coding starter, and managed-agent bridges such as a Slack bot. The licence is MIT. A commit this month moved the samples onto current SDK and model releases.",
+  "friendlySummary": "Anthropic's starter-project repo is the top unpublished AI project on today's GitHub trending lists, with about 450 new stars and 18,600 in total. It holds small apps you can deploy, including agent examples, a coding starter, and a Slack bot. The licence is MIT. It was updated this month for current models.",
+  "whyItMatters": "If you are wiring Claude into an app, you can copy one working project instead of assembling the first session, tool call, and deploy step from the docs. Each folder has its own setup. You still need your own API key, and a quickstart is a starting point, not a production security review.",
+  "friendlyWhyItMatters": "You can copy one working project instead of building the first version from the documentation. Each folder has its own setup. You still need your own API key. A starter is not a finished security review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_06_meta-removes-terms-that-looked-like-permission-to-train-on-publisher-sit_568162b9",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "Meta removes terms that looked like permission to train on publisher sites",
+  "friendlyTitle": "Meta removes wording that looked like a right to train on publisher sites",
+  "summary": "Meta's updated commercial terms said the company could use content from a business account's domains to develop, research, and train Meta products. Legal experts told Nieman Lab that the wording looked like permission to scrape the sites of publishers with a Meta business account and use that material for training. Meta said the clause did not change how it crawls the web. TechCrunch reports the provision has now been removed. Meta's statement says the consolidated crawling terms applied only to ads and business products, and that the edit does not change how its web crawlers work.",
+  "friendlySummary": "Meta's business terms briefly said it could use content from a business account's websites to train its products. Lawyers told Nieman Lab that this looked like permission to copy publisher sites and use them for AI training. Meta said the wording did not change how it crawls the web. The sentence has now been removed.",
+  "whyItMatters": "If you publish on the web and also run a Meta business account, the alarming sentence is gone. Meta's position is that the crawl itself did not change. The episode is a reason to read the terms attached to a business account, not only the consumer privacy policy.",
+  "friendlyWhyItMatters": "If you publish online and also have a Meta business account, the worrying sentence is gone. Meta says the crawl itself did not change. It is still worth reading the terms on a business account, not only the consumer privacy page.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_08_world-bank-urges-small-ai-that-runs-on-a-phone-in-a-local-language_d0947540",
+  "sourceKind": "article",
+  "sourceName": "The Guardian",
+  "sourceUrl": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+  "canonicalUrl": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "World Bank urges 'small AI' that runs on a phone in a local language",
+  "friendlyTitle": "The World Bank wants small AI that works on a phone",
+  "summary": "At the World Bank and IMF meetings in Bangkok, chief knowledge officer Paschal Donohoe argued for small, specialised models that run on a phone with weak connectivity and answer in the local language. His example is an Indian farmer in the Bank's AgriConnect scheme who needs soil advice without a scientist on every farm. He said development that might have taken centuries could, in potential, happen within decades. IMF managing director Kristalina Georgieva said that over time 40% of jobs worldwide were likely to be augmented or eliminated, with the first pressure on young people entering routine work. The Bank's August development report noted that almost a third of rural schools in sub-Saharan Africa lacked electricity.",
+  "friendlySummary": "The World Bank's chief knowledge officer said developing countries should build small models for one job, in the local language, on a phone with a weak connection. His example is an Indian farmer who needs soil advice without a scientist on every farm. He said development that might have taken centuries could happen in decades. The IMF's chief said that over time AI is likely to change or remove 40% of jobs worldwide, with young people hit first.",
+  "whyItMatters": "The useful version of this is not a bigger chatbot. It is a narrow tool that works offline enough to answer a local question. The same meetings also underline the constraint: no power and no connection, and the model does not arrive.",
+  "friendlyWhyItMatters": "A useful tool here is not a bigger chatbot. It is a small one that answers a local question when the connection is poor. The Bank also notes the limit: many rural schools still have no electricity, and no power means no model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

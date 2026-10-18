@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_02_anthropic-s-junior-technical-hiring-falls-as-agent-hours-pass-staff-hour_f1073754",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+  "canonicalUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "Anthropic's junior technical hiring falls as agent hours pass staff hours",
+  "friendlyTitle": "Anthropic is hiring fewer junior technical staff",
+  "summary": "Anthropic's 16 October note uses its own employment, calendar, and agent-session data. The share of junior employees in technical departments fell from 21% to 14% since early 2025, and the share of junior technical hires fell from 27% to 9%. By August, interactive agent hours outnumbered employee hours six to one. The same people produced more code, closed more sales, and processed more contracts after adopting the tools. Hiring managers surveyed in April increasingly asked for autonomy and judgment rather than narrow technical implementation.",
+  "friendlySummary": "Anthropic looked at its own hiring and agent-use records. Since early 2025, junior staff have become a smaller share of technical teams, and a much smaller share of new technical hires. By August, the agents people directed had worked six times as many hours as the staff. Output rose after people adopted the tools. Hiring managers now ask more often for judgment than for narrow technical skill.",
+  "whyItMatters": "This is one lab's account of its own workplace, not a national jobs survey. It is still a concrete picture of the shift: less entry-level technical hiring, and more time spent checking what agents produce. Anthropic says reading an employee's full agent output would take about half a non-technical work week.",
+  "friendlyWhyItMatters": "This is one company's own data, not a picture of every job market. It does show a real shift: fewer junior technical openings, and more time spent checking what agents produce.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

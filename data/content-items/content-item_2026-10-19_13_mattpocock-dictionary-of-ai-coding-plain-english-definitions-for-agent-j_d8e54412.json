@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_13_mattpocock-dictionary-of-ai-coding-plain-english-definitions-for-agent-j_d8e54412",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "canonicalUrl": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "mattpocock/dictionary-of-ai-coding: plain-English definitions for agent jargon",
+  "friendlyTitle": "A plain-English dictionary for AI coding words",
+  "summary": "Matt Pocock's dictionary is third among unpublished AI repos on today's trending lists, with about 210 stars today and 5,200 in total. It defines the working vocabulary of AI coding in plain English: tokens, context, agents, sessions, review, and the newer factory terms. The README is generated from the dictionary files so the public page stays in step with the entries.",
+  "friendlySummary": "This dictionary is the third unpublished AI project on today's trending lists, with about 210 new stars and 5,200 in total. It explains AI coding words in plain English, including tokens, context, agents, sessions, and review. The public page is built from the dictionary files so the two stay matched.",
+  "whyItMatters": "When a bill, a failed run, or a colleague's note uses a term you cannot pin down, you can look up the word before you change a workflow. It is a glossary, not a benchmark, and it does not tell you which model to buy.",
+  "friendlyWhyItMatters": "When a bill, a failed run, or a colleague uses a word you cannot pin down, look it up before you change how you work. It is a glossary. It does not tell you which model to buy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

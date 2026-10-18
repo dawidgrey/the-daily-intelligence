@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_09_a-mathematician-asks-who-will-still-understand-the-proofs-machines-write_93bd88cc",
+  "sourceKind": "research",
+  "sourceName": "Terence Tao",
+  "sourceUrl": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+  "canonicalUrl": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "A mathematician asks who will still understand the proofs machines write",
+  "friendlyTitle": "A mathematician asks who will understand the proofs machines write",
+  "summary": "Terence Tao published a guest essay on 18 October by mathematician Francesco Maggi. Maggi treats recent machine proofs as real, including a forced Navier–Stokes blow-up and a proposed quasi-Riemann result, and says the hard ones often arrive as enormous Lean proofs whose plain-language versions are messy. His split is practical: a golden age if the tools let more people do original scientific work, and a dark age if correct output piles up in fewer hands that can no longer explain it. He reads OpenAI's 6 October note as reporting success on some hundreds of about 4,000 tried problems, after the lab's own aggregation, and says the failures may matter as much as the successes.",
+  "friendlySummary": "Terence Tao published an essay by mathematician Francesco Maggi on 18 October. Maggi says recent machine proofs are real, but the hard ones can be huge computer-checked files that people cannot easily read. He describes two paths. One is more scientists using the tools and still understanding the work. The other is correct output piling up in a few hands that can no longer explain it.",
+  "whyItMatters": "If you use a model to draft a proof, a calculation, or a technical memo, the essay's test is whether a person can still check and explain it. A correct file that nobody can read is not yet a result you can teach, audit, or build on.",
+  "friendlyWhyItMatters": "If a model drafts a proof or a technical note, the test is whether a person can still check it and explain it. A correct file that nobody can read is not yet something you can teach, audit, or build on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

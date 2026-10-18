@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_10_apertus-1-5-adds-images-audio-and-a-262-000-token-window-to-an-open-mode_e3c36d44",
+  "sourceKind": "product",
+  "sourceName": "Swiss AI Initiative",
+  "sourceUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "canonicalUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "Apertus 1.5 adds images, audio, and a 262,000-token window to an open model",
+  "friendlyTitle": "Apertus 1.5 can read images and hear audio, and it stays open",
+  "summary": "The Swiss AI Initiative's 15 October notes describe Apertus 1.5, an Apache-2.0 update to the 8-billion and 70-billion-parameter Apertus models. The weights reached Hugging Face on 24 July. The models can read images and, experimentally, audio, but they still write only text. Context grows to 262,144 tokens. A thinking mode is optional. The project says the 8-billion model now beats similarly sized open models on its instruction-following and multilingual tests, while still trailing frontier open-weight models overall.",
+  "friendlySummary": "The Swiss AI Initiative published notes on 15 October for Apertus 1.5. The 8-billion and 70-billion models use an Apache licence. The files went on Hugging Face on 24 July. They can take images and, as an experiment, audio, but they still answer in text. The context window is now about 262,000 tokens. A thinking mode is optional.",
+  "whyItMatters": "If you want a model you can inspect, the draw is the licence plus the published data list and training steps, not a claim that it matches the largest labs. The weights are not new this week. The notes and technical report are what let you judge whether the July release is worth running.",
+  "friendlyWhyItMatters": "If you want a model you can inspect, the useful part is the open licence and the published training details. The files are not new this week. The notes help you decide whether the July release is worth running.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

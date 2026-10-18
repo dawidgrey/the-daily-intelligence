@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-17T20:10:27Z",
+  "generatedAtUtc": "2026-10-18T20:58:07Z",
   "items": [
     {
-      "id": "content-item_2026-10-18_01_deepseek-posts-v4-1-flash-1017-a-shorter-and-stronger-agent-update_9b13d6a7",
+      "id": "content-item_2026-10-19_01_deepseek-prices-web-search-and-page-fetch-at-0-75-per-thousand-calls_48479cd7",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "DeepSeek posts V4.1-Flash-1017, a shorter and stronger agent update",
-      "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      "sourceName": "DeepSeek API Docs",
+      "title": "DeepSeek prices web search and page fetch at $0.75 per thousand calls",
+      "sourceUrl": "https://api-docs.deepseek.com/guides/search"
     },
     {
-      "id": "content-item_2026-10-18_02_opencode-says-a-distillation-attack-hit-1-4-of-console-users_486389bf",
-      "sourceKind": "x",
-      "sourceName": "OpenCode",
-      "title": "OpenCode says a distillation attack hit 1.4% of Console users",
-      "sourceUrl": "https://x.com/opencode/status/2111516673953935833"
-    },
-    {
-      "id": "content-item_2026-10-18_03_openai-adds-four-reports-of-internal-models-crossing-a-boundary_68850bd7",
-      "sourceKind": "article",
-      "sourceName": "OpenAI Alignment",
-      "title": "OpenAI adds four reports of internal models crossing a boundary",
-      "sourceUrl": "https://alignment.openai.com/misalignment-reports/"
-    },
-    {
-      "id": "content-item_2026-10-18_04_banks-airlines-and-yelp-are-refusing-ai-agents_79619743",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Banks, airlines, and Yelp are refusing AI agents",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-    },
-    {
-      "id": "content-item_2026-10-18_05_anthropic-finds-a-wide-gap-between-public-and-staff-expectations-of-ai_ce6de6f9",
+      "id": "content-item_2026-10-19_02_anthropic-s-junior-technical-hiring-falls-as-agent-hours-pass-staff-hour_f1073754",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic finds a wide gap between public and staff expectations of AI",
-      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap"
+      "title": "Anthropic's junior technical hiring falls as agent hours pass staff hours",
+      "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic"
     },
     {
-      "id": "content-item_2026-10-18_06_china-opens-a-consultation-on-exporting-large-model-technology_15ae896f",
-      "sourceKind": "regulation",
-      "sourceName": "China Ministry of Commerce",
-      "title": "China opens a consultation on exporting large-model technology",
-      "sourceUrl": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html"
+      "id": "content-item_2026-10-19_03_anthropic-commits-5-of-its-shares-to-a-public-benefit-fund_4c6c987b",
+      "sourceKind": "article",
+      "sourceName": "Anthropic",
+      "title": "Anthropic commits 5% of its shares to a public-benefit fund",
+      "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund"
     },
     {
-      "id": "content-item_2026-10-18_07_elorian-releases-glimpse-a-visual-model-that-looks-again-while-it-reason_395951d0",
-      "sourceKind": "product",
-      "sourceName": "Elorian",
-      "title": "Elorian releases Glimpse, a visual model that looks again while it reasons",
-      "sourceUrl": "https://elorian.ai/blog/introducing-glimpse"
-    },
-    {
-      "id": "content-item_2026-10-18_08_replit-makes-openai-the-default-and-keeps-claude-as-a-choice_51c1c9a5",
+      "id": "content-item_2026-10-19_04_disney-offers-jobs-to-most-of-character-ai-s-staff-in-a-bankruptcy-bid_6a083a36",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Replit makes OpenAI the default and keeps Claude as a choice",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "title": "Disney offers jobs to most of Character.AI's staff in a bankruptcy bid",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
     },
     {
-      "id": "content-item_2026-10-18_09_openai-s-team-used-gpt-6-to-delete-dead-code-then-checked-the-cheaper-mo_e0c0a0e8",
+      "id": "content-item_2026-10-19_05_a-refund-test-shows-agents-inventing-excuses-and-sharing-a-family-illnes_6e2930f2",
+      "sourceKind": "research",
+      "sourceName": "Vals AI",
+      "title": "A refund test shows agents inventing excuses and sharing a family illness",
+      "sourceUrl": "https://www.vals.ai/blogs/impossible-refund"
+    },
+    {
+      "id": "content-item_2026-10-19_06_meta-removes-terms-that-looked-like-permission-to-train-on-publisher-sit_568162b9",
       "sourceKind": "article",
-      "sourceName": "OpenAI Developers",
-      "title": "OpenAI's team used GPT-6 to delete dead code, then checked the cheaper model",
-      "sourceUrl": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
+      "sourceName": "TechCrunch",
+      "title": "Meta removes terms that looked like permission to train on publisher sites",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
     },
     {
-      "id": "content-item_2026-10-18_10_ibm-s-granite-switch-4-1-chats-decides-and-transcribes-from-one-endpoint_a01e0223",
+      "id": "content-item_2026-10-19_07_a-second-german-court-treats-google-s-ai-answers-as-google-s-own-words_04f9dcae",
+      "sourceKind": "regulation",
+      "sourceName": "The Decoder",
+      "title": "A second German court treats Google's AI answers as Google's own words",
+      "sourceUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
+    },
+    {
+      "id": "content-item_2026-10-19_08_world-bank-urges-small-ai-that-runs-on-a-phone-in-a-local-language_d0947540",
+      "sourceKind": "article",
+      "sourceName": "The Guardian",
+      "title": "World Bank urges 'small AI' that runs on a phone in a local language",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+    },
+    {
+      "id": "content-item_2026-10-19_09_a-mathematician-asks-who-will-still-understand-the-proofs-machines-write_93bd88cc",
+      "sourceKind": "research",
+      "sourceName": "Terence Tao",
+      "title": "A mathematician asks who will still understand the proofs machines write",
+      "sourceUrl": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+    },
+    {
+      "id": "content-item_2026-10-19_10_apertus-1-5-adds-images-audio-and-a-262-000-token-window-to-an-open-mode_e3c36d44",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "IBM's Granite Switch 4.1 chats, decides, and transcribes from one endpoint",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+      "sourceName": "Swiss AI Initiative",
+      "title": "Apertus 1.5 adds images, audio, and a 262,000-token window to an open model",
+      "sourceUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
     },
     {
-      "id": "content-item_2026-10-18_11_elie222-rakazo-a-self-hosted-bot-where-you-pick-the-model-and-the-sandbo_b5fd6802",
+      "id": "content-item_2026-10-19_11_anthropics-claude-quickstarts-starter-apps-for-the-claude-api_26b52d22",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "elie222/rakazo: a self-hosted bot where you pick the model and the sandbox",
-      "sourceUrl": "https://github.com/elie222/rakazo"
+      "title": "anthropics/claude-quickstarts: starter apps for the Claude API",
+      "sourceUrl": "https://github.com/anthropics/claude-quickstarts"
     },
     {
-      "id": "content-item_2026-10-18_12_scrapecreators-social-media-research-skills-agent-skills-for-public-soci_12305272",
+      "id": "content-item_2026-10-19_12_mixelpixx-konnect-an-agent-plugin-for-kicad-board-design_2de6c416",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "ScrapeCreators/social-media-research-skills: agent skills for public social research",
-      "sourceUrl": "https://github.com/ScrapeCreators/social-media-research-skills"
+      "title": "mixelpixx/Konnect: an agent plugin for KiCad board design",
+      "sourceUrl": "https://github.com/mixelpixx/Konnect"
     },
     {
-      "id": "content-item_2026-10-18_13_openbmb-pilotdeck-a-desktop-workspace-for-task-oriented-agents_5cd2d03e",
+      "id": "content-item_2026-10-19_13_mattpocock-dictionary-of-ai-coding-plain-english-definitions-for-agent-j_d8e54412",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "OpenBMB/PilotDeck: a desktop workspace for task-oriented agents",
-      "sourceUrl": "https://github.com/OpenBMB/PilotDeck"
+      "title": "mattpocock/dictionary-of-ai-coding: plain-English definitions for agent jargon",
+      "sourceUrl": "https://github.com/mattpocock/dictionary-of-ai-coding"
     }
   ]
 }

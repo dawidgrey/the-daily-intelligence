@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-19_07_a-second-german-court-treats-google-s-ai-answers-as-google-s-own-words_04f9dcae",
+  "sourceKind": "regulation",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+  "canonicalUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-18T20:58:07Z",
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "title": "A second German court treats Google's AI answers as Google's own words",
+  "friendlyTitle": "A second German court says Google is responsible for its AI answers",
+  "summary": "The Decoder reports that on 24 September the Aachen Regional Court issued a preliminary injunction after Google's AI Mode attributed another person's criminal case to an Aachen physician. The court treated the generated text as Google's own statement, not as a link to someone else's page, and cited a May ruling from Munich Regional Court I. Google can still challenge the order. The Decoder also reports that Google's announced appeal in the Munich case ended in a settlement, so no higher court has ruled on that reasoning. A breach of the Aachen order can draw a fine of up to €250,000 per violation.",
+  "friendlySummary": "On 24 September, a court in Aachen ordered Google to stop spreading a false AI answer about a doctor. The system had blamed him for a criminal case that involved someone else. The court said the AI text was Google's own statement, not just a link. Google can still challenge the order. A similar Munich case ended in a settlement, so a higher court has not ruled on the idea yet.",
+  "whyItMatters": "If you rely on an AI search summary, a German court has again said the company that generated it can be responsible for a false claim about a named person. The order is not final, and it is not a ruling that every AI answer is unlawful. It is a reason to check the source before repeating a serious allegation.",
+  "friendlyWhyItMatters": "If you use an AI search summary, this court says the company that wrote it can be responsible for a false claim about a named person. The order is not final. Check the source before you repeat a serious allegation.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-19"
+  }
+}

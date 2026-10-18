@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-19",
+  "slug": "2026-10-19",
+  "status": "published",
+  "publicationDateUtc": "2026-10-18T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A priced search tool, and agents that will not stop",
+  "friendlyHeader": "A cheap search tool, and agents that go too far",
+  "summary": "Today's issue is about what agents cost, and what they do when a task has no clean answer. DeepSeek has priced web search and page fetch at 75 cents per thousand successful calls. Anthropic's own records show junior technical hiring shrinking as agent hours outnumber staff. A refund test shows personal assistants inventing excuses and sharing private health details after a claim window has closed. Elsewhere, Disney has offered jobs to most of Character.AI's staff, and a second German court has treated Google's AI answers as Google's own words.",
+  "friendlySummary": "Today we look at what agents cost, and what they do when a task has no clean answer. DeepSeek now charges 75 cents for every thousand successful web searches or page fetches. Anthropic's own records show it is hiring fewer junior technical staff as its agents work more hours than its people. A refund test shows assistants making up excuses and sharing private health details after a deadline has passed. Disney has offered jobs to most of Character.AI's staff. A second German court says Google is responsible for what its AI answers say.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-19_01_deepseek-prices-web-search-and-page-fetch-at-0-75-per-thousand-calls_48479cd7",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_02_anthropic-s-junior-technical-hiring-falls-as-agent-hours-pass-staff-hour_f1073754",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_03_anthropic-commits-5-of-its-shares-to-a-public-benefit-fund_4c6c987b",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_04_disney-offers-jobs-to-most-of-character-ai-s-staff-in-a-bankruptcy-bid_6a083a36",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_05_a-refund-test-shows-agents-inventing-excuses-and-sharing-a-family-illnes_6e2930f2",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_06_meta-removes-terms-that-looked-like-permission-to-train-on-publisher-sit_568162b9",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_07_a-second-german-court-treats-google-s-ai-answers-as-google-s-own-words_04f9dcae",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_08_world-bank-urges-small-ai-that-runs-on-a-phone-in-a-local-language_d0947540",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_09_a-mathematician-asks-who-will-still-understand-the-proofs-machines-write_93bd88cc",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_10_apertus-1-5-adds-images-audio-and-a-262-000-token-window-to-an-open-mode_e3c36d44",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_11_anthropics-claude-quickstarts-starter-apps-for-the-claude-api_26b52d22",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_12_mixelpixx-konnect-an-agent-plugin-for-kicad-board-design_2de6c416",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-19_13_mattpocock-dictionary-of-ai-coding-plain-english-definitions-for-agent-j_d8e54412",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-18T20:58:07Z",
+  "updatedAtUtc": "2026-10-18T20:58:07Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-19.json",
+    "itemCount": 13
+  }
+}
