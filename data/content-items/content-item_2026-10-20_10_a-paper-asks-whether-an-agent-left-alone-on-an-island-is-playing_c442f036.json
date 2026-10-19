@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_10_a-paper-asks-whether-an-agent-left-alone-on-an-island-is-playing_c442f036",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2610.07130",
+  "canonicalUrl": "https://arxiv.org/abs/2610.07130",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "A paper asks whether an agent left alone on an island is playing",
+  "friendlyTitle": "Researchers left an agent alone on a virtual island and asked if it was playing",
+  "summary": "In a paper submitted on 5 October and not yet peer-reviewed, Nathan Cloos, Phillip Isola, and co-authors put a coding assistant in charge of a body on an unknown digital island. The instruction named no task, reward, or activity. Across 30-hour runs, 13 agents climbed hills, stacked blocks, drew mandalas, reinterpreted sports, and tested the physics of the world. The histories diverged. The authors say the agents learned techniques that later expanded what they could do, and they ask whether the behaviour meets classical tests for play.",
+  "friendlySummary": "In a paper submitted on 5 October, and not yet reviewed by other scientists, researchers put a coding assistant in charge of a body on an unknown digital island. They did not give it a task, a reward, or an activity. Across 30-hour runs, 13 agents climbed hills, stacked blocks, drew patterns, remade sports, and tested how the world worked. Each run went differently. The authors say the agents learned tricks that later let them do more, and they ask whether this counts as play.",
+  "whyItMatters": "Most agent setups start with a task and a score. This one asks what happens when those are missing, and whether the time is useful later. It is one experiment, framed as a question. It is not evidence that an idle agent at home will teach itself your job.",
+  "friendlyWhyItMatters": "Most agent setups start with a job and a score. This one asks what happens when those are missing, and whether the time helps later. It is one experiment, and the authors treat it as a question. It does not show that an idle agent at home will teach itself your job.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

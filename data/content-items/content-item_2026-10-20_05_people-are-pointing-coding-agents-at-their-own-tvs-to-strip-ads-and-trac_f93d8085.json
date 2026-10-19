@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_05_people-are-pointing-coding-agents-at-their-own-tvs-to-strip-ads-and-trac_f93d8085",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "credit": "@gathint",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "People are pointing coding agents at their own TVs to strip ads and tracking",
+  "friendlyTitle": "People are using coding agents to remove ads from their own TVs",
+  "summary": "TechCrunch reports that developers are using coding agents to remove ads, tracking, and extra software from their own smart TVs. Gathin T. said he gave Claude Code his parents' Xiaomi model number, had it remove 25 packages over Wi-Fi, and replace the home screen with a simple launcher. He says a few thousand people then did similar work on Xiaomi, TCL, Sony, Fire TV, LG, and a projector or two. His project, cleanyourtv, says it does not need root access and can be returned to the factory state. A second project, dumbtv, says it has been tested on Fire TV and on Android or Google TV sets from several brands. Modern sets use automatic content recognition, which fingerprints what is on screen for advertising.",
+  "friendlySummary": "TechCrunch reports that people are using coding agents to strip ads, tracking, and extra software from their own smart TVs. One developer said he gave Claude Code his parents' Xiaomi model number. The agent removed 25 packages over Wi-Fi and built a simple home screen. He says a few thousand people then did similar work on Xiaomi, TCL, Sony, Fire TV, LG, and a projector or two. His project says it does not need special root access and can be put back to the factory state. Another project says it has been tested on Fire TV and on several Android or Google TV brands. Many sets fingerprint what is playing so they can sell ads.",
+  "whyItMatters": "This is a real daily-life use of an agent: take a sluggish, ad-filled TV and put the apps back in front. It is also a new place to hand an agent a device on the home network. Removing the maker's software can break updates, and the viewing-data business depends on the tracking these projects try to switch off.",
+  "friendlyWhyItMatters": "This is a plain use of an agent: make a slow, ad-filled TV show your apps again. It also means giving an agent a device on your home network. Removing the maker's software can break updates. The TV ad business depends on the tracking these projects try to turn off.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-18T20:58:07Z",
+  "generatedAtUtc": "2026-10-19T20:11:50Z",
   "items": [
     {
-      "id": "content-item_2026-10-19_01_deepseek-prices-web-search-and-page-fetch-at-0-75-per-thousand-calls_48479cd7",
+      "id": "content-item_2026-10-20_01_nvidia-releases-an-open-120b-agent-model-plus-a-version-that-fits-in-24g_902189e1",
       "sourceKind": "product",
-      "sourceName": "DeepSeek API Docs",
-      "title": "DeepSeek prices web search and page fetch at $0.75 per thousand calls",
-      "sourceUrl": "https://api-docs.deepseek.com/guides/search"
+      "sourceName": "NVIDIA Blog",
+      "title": "Nvidia releases an open 120B agent model, plus a version that fits in 24GB",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
     },
     {
-      "id": "content-item_2026-10-19_02_anthropic-s-junior-technical-hiring-falls-as-agent-hours-pass-staff-hour_f1073754",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic's junior technical hiring falls as agent hours pass staff hours",
-      "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic"
-    },
-    {
-      "id": "content-item_2026-10-19_03_anthropic-commits-5-of-its-shares-to-a-public-benefit-fund_4c6c987b",
+      "id": "content-item_2026-10-20_02_meta-s-muse-shared-a-home-address-and-greeted-a-buyer-at-the-door_8e9a0a33",
       "sourceKind": "article",
-      "sourceName": "Anthropic",
-      "title": "Anthropic commits 5% of its shares to a public-benefit fund",
-      "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund"
+      "sourceName": "Associated Press",
+      "title": "Meta's Muse shared a home address and greeted a buyer at the door",
+      "sourceUrl": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9"
     },
     {
-      "id": "content-item_2026-10-19_04_disney-offers-jobs-to-most-of-character-ai-s-staff-in-a-bankruptcy-bid_6a083a36",
+      "id": "content-item_2026-10-20_03_opencode-says-attackers-reached-api-keys-and-ran-up-charges-on-1-4-of-co_039a8485",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Disney offers jobs to most of Character.AI's staff in a bankruptcy bid",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      "title": "OpenCode says attackers reached API keys and ran up charges on 1.4% of Console users",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
     },
     {
-      "id": "content-item_2026-10-19_05_a-refund-test-shows-agents-inventing-excuses-and-sharing-a-family-illnes_6e2930f2",
-      "sourceKind": "research",
-      "sourceName": "Vals AI",
-      "title": "A refund test shows agents inventing excuses and sharing a family illness",
-      "sourceUrl": "https://www.vals.ai/blogs/impossible-refund"
+      "id": "content-item_2026-10-20_04_microsoft-says-an-agent-should-have-its-own-identity-not-the-user-s-keys_cd30eb68",
+      "sourceKind": "article",
+      "sourceName": "Microsoft Security Blog",
+      "title": "Microsoft says an agent should have its own identity, not the user's keys",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/"
     },
     {
-      "id": "content-item_2026-10-19_06_meta-removes-terms-that-looked-like-permission-to-train-on-publisher-sit_568162b9",
+      "id": "content-item_2026-10-20_05_people-are-pointing-coding-agents-at-their-own-tvs-to-strip-ads-and-trac_f93d8085",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Meta removes terms that looked like permission to train on publisher sites",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      "title": "People are pointing coding agents at their own TVs to strip ads and tracking",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
     },
     {
-      "id": "content-item_2026-10-19_07_a-second-german-court-treats-google-s-ai-answers-as-google-s-own-words_04f9dcae",
-      "sourceKind": "regulation",
-      "sourceName": "The Decoder",
-      "title": "A second German court treats Google's AI answers as Google's own words",
-      "sourceUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
-    },
-    {
-      "id": "content-item_2026-10-19_08_world-bank-urges-small-ai-that-runs-on-a-phone-in-a-local-language_d0947540",
-      "sourceKind": "article",
-      "sourceName": "The Guardian",
-      "title": "World Bank urges 'small AI' that runs on a phone in a local language",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
-    },
-    {
-      "id": "content-item_2026-10-19_09_a-mathematician-asks-who-will-still-understand-the-proofs-machines-write_93bd88cc",
-      "sourceKind": "research",
-      "sourceName": "Terence Tao",
-      "title": "A mathematician asks who will still understand the proofs machines write",
-      "sourceUrl": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
-    },
-    {
-      "id": "content-item_2026-10-19_10_apertus-1-5-adds-images-audio-and-a-262-000-token-window-to-an-open-mode_e3c36d44",
+      "id": "content-item_2026-10-20_06_minimax-prices-m3-1-flash-at-0-15-per-million-input-tokens_98f4bf40",
       "sourceKind": "product",
-      "sourceName": "Swiss AI Initiative",
-      "title": "Apertus 1.5 adds images, audio, and a 262,000-token window to an open model",
-      "sourceUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+      "sourceName": "MiniMax",
+      "title": "MiniMax prices M3.1 Flash at $0.15 per million input tokens",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f"
     },
     {
-      "id": "content-item_2026-10-19_11_anthropics-claude-quickstarts-starter-apps-for-the-claude-api_26b52d22",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "anthropics/claude-quickstarts: starter apps for the Claude API",
-      "sourceUrl": "https://github.com/anthropics/claude-quickstarts"
+      "id": "content-item_2026-10-20_07_kling-4-0-adds-30-second-clips-stereo-sound-and-up-to-10-keyframes_1d8c76b8",
+      "sourceKind": "product",
+      "sourceName": "Kling AI",
+      "title": "Kling 4.0 adds 30-second clips, stereo sound, and up to 10 keyframes",
+      "sourceUrl": "https://kling.ai/release-note/release-notes/Kling_4?type=dialog"
     },
     {
-      "id": "content-item_2026-10-19_12_mixelpixx-konnect-an-agent-plugin-for-kicad-board-design_2de6c416",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "mixelpixx/Konnect: an agent plugin for KiCad board design",
-      "sourceUrl": "https://github.com/mixelpixx/Konnect"
+      "id": "content-item_2026-10-20_08_nvidia-and-ai4bharat-prepare-2-8-trillion-tokens-for-22-indian-languages_ba4e7337",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face Blog",
+      "title": "Nvidia and AI4Bharat prepare 2.8 trillion tokens for 22 Indian languages",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
-      "id": "content-item_2026-10-19_13_mattpocock-dictionary-of-ai-coding-plain-english-definitions-for-agent-j_d8e54412",
+      "id": "content-item_2026-10-20_09_tenstorrent-raises-1-5-billion-to-scale-chips-for-open-weight-models_36c2a794",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Tenstorrent raises $1.5 billion to scale chips for open-weight models",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+    },
+    {
+      "id": "content-item_2026-10-20_10_a-paper-asks-whether-an-agent-left-alone-on-an-island-is-playing_c442f036",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "A paper asks whether an agent left alone on an island is playing",
+      "sourceUrl": "https://arxiv.org/abs/2610.07130"
+    },
+    {
+      "id": "content-item_2026-10-20_11_kruk2-jasna-local-ai-restoration-for-mosaic-blocks-in-video_23c35d0f",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "mattpocock/dictionary-of-ai-coding: plain-English definitions for agent jargon",
-      "sourceUrl": "https://github.com/mattpocock/dictionary-of-ai-coding"
+      "title": "Kruk2/jasna: local AI restoration for mosaic blocks in video",
+      "sourceUrl": "https://github.com/Kruk2/jasna"
+    },
+    {
+      "id": "content-item_2026-10-20_12_microsoft-ai-engineering-coach-a-local-review-of-your-agent-sessions_6debe7de",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "microsoft/AI-Engineering-Coach: a local review of your agent sessions",
+      "sourceUrl": "https://github.com/microsoft/AI-Engineering-Coach"
+    },
+    {
+      "id": "content-item_2026-10-20_13_gcwing-openbitfun-a-rust-agent-runtime-with-a-desktop-app_303cb574",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "GCWing/OpenBitFun: a Rust agent runtime with a desktop app",
+      "sourceUrl": "https://github.com/GCWing/OpenBitFun"
     }
   ]
 }

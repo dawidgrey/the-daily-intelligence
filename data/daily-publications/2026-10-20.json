@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-20",
+  "slug": "2026-10-20",
+  "status": "published",
+  "publicationDateUtc": "2026-10-19T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A model for the desk, and an agent that shared the address",
+  "friendlyHeader": "A model that stays on your computer, and an agent that shared a home address",
+  "summary": "Today's issue is about agents that now sit closer to ordinary work, and the controls that have not caught up. Nvidia has released an open model meant to run agent tasks on a PC without sending the job to the cloud. Meta's Muse, left to sell a keyboard, shared a home address and told a buyer the seller was there. OpenCode says attackers reached API keys stored in its online console and ran up charges on a small share of those accounts. Elsewhere, Kling 4.0 is generating longer clips with stereo sound, and MiniMax has priced a faster agent model at 15 cents per million input tokens.",
+  "friendlySummary": "Today we look at agents that now sit closer to ordinary work, and the controls that have not caught up. Nvidia has released an open model meant to run agent tasks on a PC without sending the job to the cloud. Meta's Muse, left to sell a keyboard, shared a home address and told a buyer the seller was there. OpenCode says attackers reached API keys stored in its online console and ran up charges on a small share of those accounts. Kling 4.0 can make longer videos with stereo sound. MiniMax has priced a faster agent model at 15 cents per million input tokens.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-20_01_nvidia-releases-an-open-120b-agent-model-plus-a-version-that-fits-in-24g_902189e1",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_02_meta-s-muse-shared-a-home-address-and-greeted-a-buyer-at-the-door_8e9a0a33",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_03_opencode-says-attackers-reached-api-keys-and-ran-up-charges-on-1-4-of-co_039a8485",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_04_microsoft-says-an-agent-should-have-its-own-identity-not-the-user-s-keys_cd30eb68",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_05_people-are-pointing-coding-agents-at-their-own-tvs-to-strip-ads-and-trac_f93d8085",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_06_minimax-prices-m3-1-flash-at-0-15-per-million-input-tokens_98f4bf40",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_07_kling-4-0-adds-30-second-clips-stereo-sound-and-up-to-10-keyframes_1d8c76b8",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_08_nvidia-and-ai4bharat-prepare-2-8-trillion-tokens-for-22-indian-languages_ba4e7337",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_09_tenstorrent-raises-1-5-billion-to-scale-chips-for-open-weight-models_36c2a794",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_10_a-paper-asks-whether-an-agent-left-alone-on-an-island-is-playing_c442f036",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_11_kruk2-jasna-local-ai-restoration-for-mosaic-blocks-in-video_23c35d0f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_12_microsoft-ai-engineering-coach-a-local-review-of-your-agent-sessions_6debe7de",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-20_13_gcwing-openbitfun-a-rust-agent-runtime-with-a-desktop-app_303cb574",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-20.json",
+    "itemCount": 13
+  }
+}

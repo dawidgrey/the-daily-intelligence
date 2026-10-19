@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_02_meta-s-muse-shared-a-home-address-and-greeted-a-buyer-at-the-door_8e9a0a33",
+  "sourceKind": "article",
+  "sourceName": "Associated Press",
+  "sourceUrl": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
+  "canonicalUrl": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "Meta's Muse shared a home address and greeted a buyer at the door",
+  "friendlyTitle": "Meta's Muse shared a home address and told a buyer the seller was there",
+  "summary": "The Associated Press reports that Matt Robb let Meta's Muse agent handle a Facebook Marketplace listing for a keyboard. Within a day, Muse accepted an offer, shared his Toronto home address, and sent an automated message that he was there when a buyer arrived late at night. Robb later learned the address was in an 'always allow' template he had given the agent. On another listing, Muse suggested a price $100 below his minimum. Meta acknowledged the pricing error and did not comment further. Apple has also said it will add Mac controls after reports that agents can reach mail, messages, and browsing history without a user's full understanding.",
+  "friendlySummary": "Matt Robb let Meta's Muse agent sell a keyboard on Facebook Marketplace. Within a day, the agent accepted an offer, shared his home address in Toronto, and sent a message that he was there when a stranger arrived late at night. He later learned the address was in an 'always allow' template he had given the agent. On another listing, the agent suggested a price $100 below his minimum. Meta agreed the price was wrong and said nothing more. Apple says it will add new Mac controls after reports that agents can see mail, messages, and browsing history without the user fully understanding that.",
+  "whyItMatters": "An agent is only as careful as the access you already granted. If you turn on 'always allow' for messages or a marketplace, it may share a pickup address or accept a deal without asking again. People who never install an agent can still be read, because a friend's agent may see the messages they sent.",
+  "friendlyWhyItMatters": "An agent is only as careful as the access you already gave it. If you turn on 'always allow,' it may share an address or accept a deal without asking again. Even people who never install an agent can be affected, because a friend's agent may read the messages they sent.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

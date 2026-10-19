@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_03_opencode-says-attackers-reached-api-keys-and-ran-up-charges-on-1-4-of-co_039a8485",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "credit": "@opencode",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "OpenCode says attackers reached API keys and ran up charges on 1.4% of Console users",
+  "friendlyTitle": "OpenCode says attackers used stored API keys and ran up some users' bills",
+  "summary": "TechCrunch reports that OpenCode said attackers broke into an older part of OpenCode Console, the online place where some users store API keys for AI services. The company said 1.4% of Console users were affected, and that people who did not get an email were not. Co-founder Dax Raad said the open-source app and command-line tool were not affected, because those keys are not sent to OpenCode. Users reported unexpected charges in the hundreds of dollars, and a few above $1,000. Anthropic and Google blocked keys they believed were exposed. OpenAI said it worked with OpenCode to restore access and refund its API customers. OpenCode said refunds for unauthorised charges are underway.",
+  "friendlySummary": "OpenCode said attackers got into an older part of OpenCode Console, the website where some users store the keys they use to pay for AI services. The company said 1.4% of Console users were affected. People who did not get an email were not. The open-source app on your own computer was not affected, because those keys are not sent to OpenCode. Some users saw surprise charges in the hundreds of dollars. A few saw more than $1,000. Anthropic and Google blocked keys they thought were exposed. OpenAI said it is refunding its API customers. OpenCode said refunds are underway.",
+  "whyItMatters": "If you keep provider keys in a coding agent's hosted console, check for OpenCode's email and watch the bill, even if you did not run a job. The local tool is a different system. A key stored in a shared online workspace can spend money after you have closed the laptop.",
+  "friendlyWhyItMatters": "If you store AI keys in a coding agent's website account, check your email and your bill, even if you did not start a job. The app on your own computer is a different system. A key left in an online workspace can spend money after you close the laptop.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

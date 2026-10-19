@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_09_tenstorrent-raises-1-5-billion-to-scale-chips-for-open-weight-models_36c2a794",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "Tenstorrent raises $1.5 billion to scale chips for open-weight models",
+  "friendlyTitle": "Tenstorrent raises $1.5 billion for chips that serve open models",
+  "summary": "Tenstorrent, a 10-year-old inference-chip company led by Jim Keller, has raised $1.5 billion at a $6.2 billion valuation. TechCrunch says the round was led by Trace Capital and Innovation X, with Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price also in. The valuation is more than double the $2.6 billion from late 2024. Keller told Bloomberg the company stayed independent after showing that its Galaxy servers could run DeepSeek models. The new capital is for chips aimed at serving open-weight models and video generation.",
+  "friendlySummary": "Tenstorrent, a 10-year-old chip company led by Jim Keller, has raised $1.5 billion at a $6.2 billion valuation. TechCrunch says Trace Capital and Innovation X led the round. Other backers include Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price. The valuation is more than double the $2.6 billion from late 2024. Keller said the company stayed independent after its Galaxy servers ran DeepSeek models. The money is for chips that serve open-weight models and video generation.",
+  "whyItMatters": "Open models only help if someone other than Nvidia can serve them at a price a company will pay. This round does not put a new chip on your desk. It does say investors are still funding that alternative, after acquisition interest earlier this year did not end in a sale.",
+  "friendlyWhyItMatters": "Open models only help if someone other than Nvidia can run them at a price a company will pay. This round does not put a new chip on your desk. It does show investors are still paying for that alternative, after earlier takeover interest did not end in a sale.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

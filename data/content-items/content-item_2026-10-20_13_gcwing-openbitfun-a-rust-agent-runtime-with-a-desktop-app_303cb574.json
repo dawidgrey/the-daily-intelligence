@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_13_gcwing-openbitfun-a-rust-agent-runtime-with-a-desktop-app_303cb574",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/GCWing/OpenBitFun",
+  "canonicalUrl": "https://github.com/GCWing/OpenBitFun",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "GCWing/OpenBitFun: a Rust agent runtime with a desktop app",
+  "friendlyTitle": "OpenBitFun: a desktop agent app with a Rust runtime",
+  "summary": "GCWing/OpenBitFun gained about 151 stars on GitHub's daily trending list and now has about 2,900. It pairs a Rust agent runtime with a desktop app for coding and for work beyond code. The project says you can start a task on the desktop, continue it from a phone or browser, and run the agent over SSH on a remote host, through a jump host, or inside a container. Core code is MIT. Installers are published for Windows, macOS, and Linux.",
+  "friendlySummary": "OpenBitFun gained about 151 stars on GitHub's daily trending list and now has about 2,900. It combines a fast agent runtime written in Rust with a desktop app for coding and for other work. The project says you can start a task on the desktop and continue it from a phone or a browser. It can also run the agent over SSH on another computer, through a jump host, or inside a container. The core code is MIT. Installers exist for Windows, macOS, and Linux.",
+  "whyItMatters": "Use it when you want one local agent app that can keep a long task moving after you leave the desk, instead of a chat window tied to one computer. You still configure your own model. The desktop app and the command-line tool share the core execution path.",
+  "friendlyWhyItMatters": "Use it when you want one agent app on your computer that can keep a long task going after you leave the desk, instead of a chat window stuck on one machine. You still choose and configure your own model. The desktop app and the command-line tool share the same core.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

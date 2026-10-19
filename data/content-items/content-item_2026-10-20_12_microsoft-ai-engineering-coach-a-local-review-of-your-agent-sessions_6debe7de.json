@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_12_microsoft-ai-engineering-coach-a-local-review-of-your-agent-sessions_6debe7de",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/microsoft/AI-Engineering-Coach",
+  "canonicalUrl": "https://github.com/microsoft/AI-Engineering-Coach",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "microsoft/AI-Engineering-Coach: a local review of your agent sessions",
+  "friendlyTitle": "AI-Engineering-Coach: a local review of how you use coding agents",
+  "summary": "microsoft/AI-Engineering-Coach gained about 184 stars on GitHub's daily trending list and now has about 4,300. It is an MIT-licensed VS Code extension, also available as a GitHub Copilot canvas, that reads local AI session logs and flags anti-patterns. The repo lists 45 rules across prompt quality, session hygiene, code review, tool use, and context management. Analysis stays on the machine. The project says it is a community effort by Microsoft employees, not an official Microsoft product.",
+  "friendlySummary": "AI-Engineering-Coach gained about 184 stars on GitHub's daily trending list and now has about 4,300. It is a free VS Code extension, also available inside the GitHub Copilot app. It reads the AI session logs already on your computer and flags bad habits. The project lists 45 rules, covering prompts, session cleanup, code review, tool use, and context. The analysis stays on your machine. Microsoft employees built it, but it is not an official Microsoft product.",
+  "whyItMatters": "If you already use Copilot, Claude, or another coding agent inside VS Code, this is a way to see where sessions get messy without sending the logs out. Optional features, such as a skill finder, call the local VS Code language model only when you invoke them. It does not change the session files.",
+  "friendlyWhyItMatters": "If you already use Copilot, Claude, or another coding agent in VS Code, this shows where your sessions get messy without sending the logs away. A few extra features use the language model built into VS Code, and only when you ask. It does not change the session files.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

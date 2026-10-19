@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_01_nvidia-releases-an-open-120b-agent-model-plus-a-version-that-fits-in-24g_902189e1",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA Blog",
+  "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "canonicalUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "Nvidia releases an open 120B agent model, plus a version that fits in 24GB",
+  "friendlyTitle": "Nvidia releases an open agent model, including one that fits on a PC",
+  "summary": "Nvidia has released Nemotron 3.5 Super VL, an open 120-billion-parameter model aimed at always-on agent work, with open weights, datasets, and training recipes. It also released Nemotron 3.5 Bolt 74B-A9B, a 2-bit build meant to fit in 24GB and run local agent tasks on RTX and DGX Spark machines. A smaller Bolt E4B, for conversational agents in 4GB, is scheduled for 23 October. Nvidia says Super VL matches the accuracy of its largest reasoning model at about one-fifth the parameter count, and that organisations can post-train it on their own data and keep it on their own infrastructure.",
+  "friendlySummary": "Nvidia has released Nemotron 3.5 Super VL, an open model with 120 billion parameters, for always-on agent work. The weights, training data, and recipes are open. It also released a smaller Bolt model that is meant to fit in 24GB of memory and run agent tasks on a local PC. A still smaller Bolt model, for conversation in 4GB, is due on 23 October. Nvidia says the large model is about as accurate as its biggest reasoning model, at about one-fifth the size, and that companies can train it further on their own data.",
+  "whyItMatters": "If you want an agent that reads documents, calls tools, and browses without sending the job to a closed lab, this is a concrete option you can download now. The speed and accuracy claims are Nvidia's. The practical change is that the local and on-premises tiers now have a named open model, not only a cloud API.",
+  "friendlyWhyItMatters": "If you want an agent that reads documents and uses tools without sending the job to a closed cloud service, you can download one now. Nvidia's speed claims are still Nvidia's claims. The useful change is that a local or office machine now has a named open model, not only a cloud login.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-20_04_microsoft-says-an-agent-should-have-its-own-identity-not-the-user-s-keys_cd30eb68",
+  "sourceKind": "article",
+  "sourceName": "Microsoft Security Blog",
+  "sourceUrl": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+  "canonicalUrl": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-19T20:11:50Z",
+  "createdAtUtc": "2026-10-19T20:11:50Z",
+  "updatedAtUtc": "2026-10-19T20:11:50Z",
+  "title": "Microsoft says an agent should have its own identity, not the user's keys",
+  "friendlyTitle": "Microsoft says an agent should have its own login, not yours",
+  "summary": "Microsoft's 19 October security note treats agents as a new kind of insider: not malicious by default, but able to reach company data, tools, and other agents, and able to be mistaken or misled. It is expanding discovery to 60 types of local agents, including Claude Code, OpenAI Codex, and GitHub Copilot, and extending Entra Agent ID so a local or previously unknown agent can still be a policy target. The control it describes is separate from the model: an agent should not inherit the standing access of the person who started it. Permissions should be limited to the task, limited in time, and able to require a person for a high-impact step.",
+  "friendlySummary": "Microsoft says agents are a new kind of insider. They are not hostile by default, but they can reach company data and tools, and they can be wrong or misled. Microsoft is expanding discovery to 60 kinds of local agents, including Claude Code, OpenAI Codex, and GitHub Copilot. It also wants each agent to have its own identity, even if it was found on a laptop rather than installed by IT. The rule it describes: an agent should not automatically get every permission of the person who started it. Access should match the task, expire, and sometimes wait for a person.",
+  "whyItMatters": "If an agent at work can read mail, approve expenses, or call tools, the useful question is what it is allowed to do, not which model it uses. A personal coding agent on a laptop can now be inventoried. That does not by itself stop a bad action. It does make the agent a thing the company can name, own, and limit.",
+  "friendlyWhyItMatters": "If an agent at work can read mail or approve spending, the useful question is what it is allowed to do, not which model it uses. A coding agent on a laptop can now be listed. That does not by itself stop a bad action. It does mean the company can name the agent and limit it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-20"
+  }
+}
