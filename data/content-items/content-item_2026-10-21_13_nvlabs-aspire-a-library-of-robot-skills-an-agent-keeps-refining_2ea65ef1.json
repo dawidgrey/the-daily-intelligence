@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_13_nvlabs-aspire-a-library-of-robot-skills-an-agent-keeps-refining_2ea65ef1",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/NVlabs/ASPIRE",
+  "canonicalUrl": "https://github.com/NVlabs/ASPIRE",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "NVlabs/ASPIRE: a library of robot skills an agent keeps refining",
+  "friendlyTitle": "ASPIRE: a library of robot skills that an agent keeps improving",
+  "summary": "NVIDIA and university collaborators have released ASPIRE v1.0, a robotics project that treats learning as a growing library of skills rather than a weight update. It is on today's Python trending list, with about 750 stars and 65 today. The October note says it can solve a Rubik's Cube and reports 99% success on 80 selected simulation tasks. The authors say generated code runs with full import access and is not a security sandbox.",
+  "friendlySummary": "NVIDIA and university researchers have released ASPIRE version 1.0. It treats robot learning as a growing library of skills, not as a change to model weights. It is on today's Python trending list, with about 750 stars and 65 today. The October note says it can solve a Rubik's Cube, and it reports 99% success on 80 selected simulation tasks. The authors say the code an agent writes can import anything, and that this is not a secure sandbox.",
+  "whyItMatters": "Use it to study or reproduce agent-written robot skills in simulation, including tasks such as stacking cups or closing a bottle. Do not point it at a real robot, or at a machine with credentials, unless you have a separate isolated setup and a person who can stop it.",
+  "friendlyWhyItMatters": "Use it to study or repeat agent-written robot skills in a simulation, such as stacking cups or closing a bottle. Do not point it at a real robot, or at a computer that holds passwords, unless the machine is isolated and a person can stop it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

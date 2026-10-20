@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_05_chatgpt-can-hide-a-saved-chat-behind-a-pin_da42fcf4",
+  "sourceKind": "product",
+  "sourceName": "OpenAI Help Center",
+  "sourceUrl": "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt",
+  "canonicalUrl": "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "ChatGPT can hide a saved chat behind a PIN",
+  "friendlyTitle": "ChatGPT can hide a saved chat behind a PIN",
+  "summary": "OpenAI is rolling out locked chats in ChatGPT. A locked conversation leaves regular history, pinned chats, and regular search, and opening it requires a four-digit account PIN, or Face ID, Touch ID, or device unlock on supported phones. OpenAI says locking does not create end-to-end encryption, does not change how long the chat is retained, and does not change the setting that allows chats to improve the model. Memories created after a chat is locked stay inside locked chats. Resetting a forgotten PIN permanently deletes every locked chat and the files protected only by that PIN. The feature is not available on ChatGPT for Healthcare, and it is still rolling out.",
+  "friendlySummary": "OpenAI is slowly adding locked chats to ChatGPT. A locked conversation leaves your normal history, pinned chats, and normal search. Opening it needs a four-digit PIN, or Face ID, Touch ID, or your phone's unlock method on supported phones. OpenAI says locking does not encrypt the chat, does not change how long OpenAI keeps it, and does not change the setting that lets chats be used to improve the model. New memories from a locked chat stay inside locked chats. If you reset a forgotten PIN, every locked chat and the files protected only by that PIN are deleted for good. The feature is not available in ChatGPT for Healthcare, and not every account has it yet.",
+  "whyItMatters": "If you hand someone your phone to show one chat, a PIN can keep another conversation out of the sidebar. It does not make that conversation invisible to OpenAI, and it does not undo memories the model already saved. Forgetting the PIN is a delete button, not a recovery flow.",
+  "friendlyWhyItMatters": "If you hand someone your phone to show one chat, a PIN can keep another conversation out of the list. It does not hide that conversation from OpenAI, and it does not erase memories the model already saved. If you forget the PIN, resetting it deletes the locked chats. It does not recover them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

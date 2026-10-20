@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_10_ibm-s-learned-playbook-lifts-an-older-model-on-a-customer-service-test_94e7f4f5",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face Blog",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "IBM's learned playbook lifts an older model on a customer-service test",
+  "friendlyTitle": "IBM says a written playbook beat newer setups on one service test",
+  "summary": "IBM Research says ALTK-Evolve, using GPT-4.1, distilled an agent's own successes and failures into short rules and appended them to the prompt. On the retail half of τ²-bench, a stock customer-service agent with those rules scored 67.5% Pass^4, which IBM says beat every retail entry in its 12 October leaderboard snapshot. No weights were updated. The same model wrote the rules and ran the agent. The score is on one customer-service benchmark, with a simulated customer.",
+  "friendlySummary": "IBM Research says its ALTK-Evolve method used GPT-4.1, an older model, to turn an agent's own successes and failures into short rules, then added those rules to the prompt. On the retail part of a customer-service test called tau-squared bench, a basic agent with those rules solved 67.5% of tasks on all four tries. IBM says that beat every retail entry in its 12 October leaderboard snapshot. No model weights were changed. The same model wrote the rules and ran the agent. The customer in the test was also simulated.",
+  "whyItMatters": "Before you pay to swap in a newer model, a written playbook of what worked last time may move the result on a narrow job. This is one lab's number on one test. It does not show that a prompt file replaces a better model at every task.",
+  "friendlyWhyItMatters": "Before you pay to switch to a newer model, a written list of what worked last time may improve a narrow job. This is one lab's number on one test. It does not show that a prompt file replaces a better model for every task.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-19T20:11:51Z",
+  "generatedAtUtc": "2026-10-20T20:07:38Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-21",
+      "slug": "2026-10-21",
+      "status": "published",
+      "publicationDateUtc": "2026-10-20T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The serving stack is open, and the agency laptop is not",
+      "friendlyHeader": "DeepSeek opens its serving software, and US agencies are told to remove it",
+      "summary": "Today's issue is about where a model is allowed to run. DeepSeek has published the inference framework behind its production service, on the same day the US Department of Homeland Security ordered civilian agencies to remove DeepSeek products from their systems. Mistral has shipped a voice-agent stack that can take a call in more than 50 languages. Perplexity Computer can now plan and finish a task on a Mac without sending the work to the cloud. ChatGPT can hide a saved chat behind a PIN, which is not the same as encrypting it.",
+      "friendlySummary": "Today we look at where a model is allowed to run. DeepSeek has published the software it uses to serve its own models. On the same day, the US Department of Homeland Security ordered civilian government agencies to remove DeepSeek products from their systems. Mistral has released voice tools that can take a phone call in more than 50 languages. Perplexity's Computer can now finish a task on a Mac without sending the work to the cloud. ChatGPT can hide a saved chat behind a PIN. That is not the same as encrypting it.",
+      "itemCount": 13,
+      "href": "issues/2026-10-21.html",
+      "dataUrl": "data/daily-publications/2026-10-21.json"
+    },
     {
       "id": "daily-publication_2026-10-20",
       "slug": "2026-10-20",

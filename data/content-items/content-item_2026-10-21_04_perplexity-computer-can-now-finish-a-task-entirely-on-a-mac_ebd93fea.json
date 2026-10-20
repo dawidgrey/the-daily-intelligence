@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_04_perplexity-computer-can-now-finish-a-task-entirely-on-a-mac_ebd93fea",
+  "sourceKind": "product",
+  "sourceName": "Perplexity",
+  "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+  "canonicalUrl": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "Perplexity Computer can now finish a task entirely on a Mac",
+  "friendlyTitle": "Perplexity Computer can now finish a whole task on a Mac",
+  "summary": "Perplexity says Computer can now run the model, the harness, and the task on an Apple silicon Mac, without sending the work to the cloud. It uses Qwen 3.6 or PPLX Pro, a post-trained version of Qwen, and recommends 36GB of memory or more. With permission, it can work across local files and apps including Notes, Messages, Mail, and Numbers. Users can still send a step to the cloud for current information, a browser, or a connected app. It is available to Pro, Max, and Enterprise subscribers in the Mac app.",
+  "friendlySummary": "Perplexity says Computer can now run the model, the agent, and the task on an Apple silicon Mac, without sending the work to the cloud. It uses Qwen 3.6, or PPLX Pro, which is a version of Qwen that Perplexity trained further. Perplexity recommends 36GB of memory or more. If you allow it, Computer can work across files and apps such as Notes, Messages, Mail, and Numbers. You can still send one step to the cloud when you need current information, a browser, or a connected app. It is available to Pro, Max, and Enterprise subscribers in the Mac app.",
+  "whyItMatters": "A portfolio review or a client draft that should not leave the machine can now stay on the Mac for the whole task, not only for the private files. The cloud option remains when the job needs a live web page. The memory requirement means this is a high-end Mac, not every laptop.",
+  "friendlyWhyItMatters": "A private review or a client draft can now stay on the Mac for the whole job, not only for the private files. You can still use the cloud when the job needs a live web page. The memory requirement means this is a powerful Mac, not every laptop.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

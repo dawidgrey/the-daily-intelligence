@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-19T20:11:50Z",
+  "generatedAtUtc": "2026-10-20T20:07:37Z",
   "items": [
     {
-      "id": "content-item_2026-10-20_01_nvidia-releases-an-open-120b-agent-model-plus-a-version-that-fits-in-24g_902189e1",
+      "id": "content-item_2026-10-21_01_deepseek-open-sources-deepinfer-the-framework-behind-its-production-serv_79e072c5",
       "sourceKind": "product",
-      "sourceName": "NVIDIA Blog",
-      "title": "Nvidia releases an open 120B agent model, plus a version that fits in 24GB",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
+      "sourceName": "DeepSeek",
+      "title": "DeepSeek open-sources DeepInfer, the framework behind its production service",
+      "sourceUrl": "https://github.com/deepseek-ai/DeepInfer"
     },
     {
-      "id": "content-item_2026-10-20_02_meta-s-muse-shared-a-home-address-and-greeted-a-buyer-at-the-door_8e9a0a33",
-      "sourceKind": "article",
-      "sourceName": "Associated Press",
-      "title": "Meta's Muse shared a home address and greeted a buyer at the door",
-      "sourceUrl": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9"
+      "id": "content-item_2026-10-21_02_homeland-security-orders-civilian-agencies-to-remove-deepseek-products_16bcd6bc",
+      "sourceKind": "regulation",
+      "sourceName": "Federal Register",
+      "title": "Homeland Security orders civilian agencies to remove DeepSeek products",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive"
     },
     {
-      "id": "content-item_2026-10-20_03_opencode-says-attackers-reached-api-keys-and-ran-up-charges-on-1-4-of-co_039a8485",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "OpenCode says attackers reached API keys and ran up charges on 1.4% of Console users",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
-    },
-    {
-      "id": "content-item_2026-10-20_04_microsoft-says-an-agent-should-have-its-own-identity-not-the-user-s-keys_cd30eb68",
-      "sourceKind": "article",
-      "sourceName": "Microsoft Security Blog",
-      "title": "Microsoft says an agent should have its own identity, not the user's keys",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/"
-    },
-    {
-      "id": "content-item_2026-10-20_05_people-are-pointing-coding-agents-at-their-own-tvs-to-strip-ads-and-trac_f93d8085",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "People are pointing coding agents at their own TVs to strip ads and tracking",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
-    },
-    {
-      "id": "content-item_2026-10-20_06_minimax-prices-m3-1-flash-at-0-15-per-million-input-tokens_98f4bf40",
+      "id": "content-item_2026-10-21_03_mistral-ships-voxtral-3-a-voice-agent-stack-for-calls-in-50-plus-languag_afe5d96a",
       "sourceKind": "product",
-      "sourceName": "MiniMax",
-      "title": "MiniMax prices M3.1 Flash at $0.15 per million input tokens",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f"
+      "sourceName": "Mistral AI",
+      "title": "Mistral ships Voxtral 3, a voice-agent stack for calls in 50-plus languages",
+      "sourceUrl": "https://mistral.ai/news/voxtral-3"
     },
     {
-      "id": "content-item_2026-10-20_07_kling-4-0-adds-30-second-clips-stereo-sound-and-up-to-10-keyframes_1d8c76b8",
+      "id": "content-item_2026-10-21_04_perplexity-computer-can-now-finish-a-task-entirely-on-a-mac_ebd93fea",
       "sourceKind": "product",
-      "sourceName": "Kling AI",
-      "title": "Kling 4.0 adds 30-second clips, stereo sound, and up to 10 keyframes",
-      "sourceUrl": "https://kling.ai/release-note/release-notes/Kling_4?type=dialog"
+      "sourceName": "Perplexity",
+      "title": "Perplexity Computer can now finish a task entirely on a Mac",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac"
     },
     {
-      "id": "content-item_2026-10-20_08_nvidia-and-ai4bharat-prepare-2-8-trillion-tokens-for-22-indian-languages_ba4e7337",
+      "id": "content-item_2026-10-21_05_chatgpt-can-hide-a-saved-chat-behind-a-pin_da42fcf4",
+      "sourceKind": "product",
+      "sourceName": "OpenAI Help Center",
+      "title": "ChatGPT can hide a saved chat behind a PIN",
+      "sourceUrl": "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt"
+    },
+    {
+      "id": "content-item_2026-10-21_06_yelp-s-new-agent-will-call-a-restaurant-and-text-you-the-wait_fdcc7430",
+      "sourceKind": "product",
+      "sourceName": "Yelp Blog",
+      "title": "Yelp's new agent will call a restaurant and text you the wait",
+      "sourceUrl": "https://blog.yelp.com/news/fall-product-release-2026"
+    },
+    {
+      "id": "content-item_2026-10-21_07_spotify-says-it-pulled-50-million-ai-slop-tracks-out-of-recommendations_126d3395",
+      "sourceKind": "article",
+      "sourceName": "Spotify Newsroom",
+      "title": "Spotify says it pulled 50 million AI slop tracks out of recommendations",
+      "sourceUrl": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/"
+    },
+    {
+      "id": "content-item_2026-10-21_08_hugging-face-models-can-now-load-on-a-tpu-with-one-device-setting_84cd8d44",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face Blog",
+      "title": "Hugging Face models can now load on a TPU with one device setting",
+      "sourceUrl": "https://huggingface.co/blog/hf-torchtpu"
+    },
+    {
+      "id": "content-item_2026-10-21_09_a-site-of-invented-statistics-is-still-being-retrieved-by-chatgpt_6a01ce2d",
+      "sourceKind": "article",
+      "sourceName": "Peec AI",
+      "title": "A site of invented statistics is still being retrieved by ChatGPT",
+      "sourceUrl": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+    },
+    {
+      "id": "content-item_2026-10-21_10_ibm-s-learned-playbook-lifts-an-older-model-on-a-customer-service-test_94e7f4f5",
       "sourceKind": "research",
       "sourceName": "Hugging Face Blog",
-      "title": "Nvidia and AI4Bharat prepare 2.8 trillion tokens for 22 Indian languages",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      "title": "IBM's learned playbook lifts an older model on a customer-service test",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
     },
     {
-      "id": "content-item_2026-10-20_09_tenstorrent-raises-1-5-billion-to-scale-chips-for-open-weight-models_36c2a794",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Tenstorrent raises $1.5 billion to scale chips for open-weight models",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
-    },
-    {
-      "id": "content-item_2026-10-20_10_a-paper-asks-whether-an-agent-left-alone-on-an-island-is-playing_c442f036",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "A paper asks whether an agent left alone on an island is playing",
-      "sourceUrl": "https://arxiv.org/abs/2610.07130"
-    },
-    {
-      "id": "content-item_2026-10-20_11_kruk2-jasna-local-ai-restoration-for-mosaic-blocks-in-video_23c35d0f",
+      "id": "content-item_2026-10-21_11_vllm-project-vllm-serve-an-open-model-behind-an-api-you-run_65e32dab",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "Kruk2/jasna: local AI restoration for mosaic blocks in video",
-      "sourceUrl": "https://github.com/Kruk2/jasna"
+      "sourceName": "GitHub trending Python",
+      "title": "vllm-project/vllm: serve an open model behind an API you run",
+      "sourceUrl": "https://github.com/vllm-project/vllm"
     },
     {
-      "id": "content-item_2026-10-20_12_microsoft-ai-engineering-coach-a-local-review-of-your-agent-sessions_6debe7de",
+      "id": "content-item_2026-10-21_12_croffasia-itsaplan-a-self-hosted-board-where-agents-take-tickets_5f10b82b",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "microsoft/AI-Engineering-Coach: a local review of your agent sessions",
-      "sourceUrl": "https://github.com/microsoft/AI-Engineering-Coach"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "croffasia/itsaplan: a self-hosted board where agents take tickets",
+      "sourceUrl": "https://github.com/croffasia/itsaplan"
     },
     {
-      "id": "content-item_2026-10-20_13_gcwing-openbitfun-a-rust-agent-runtime-with-a-desktop-app_303cb574",
+      "id": "content-item_2026-10-21_13_nvlabs-aspire-a-library-of-robot-skills-an-agent-keeps-refining_2ea65ef1",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "GCWing/OpenBitFun: a Rust agent runtime with a desktop app",
-      "sourceUrl": "https://github.com/GCWing/OpenBitFun"
+      "sourceName": "GitHub trending Python",
+      "title": "NVlabs/ASPIRE: a library of robot skills an agent keeps refining",
+      "sourceUrl": "https://github.com/NVlabs/ASPIRE"
     }
   ]
 }

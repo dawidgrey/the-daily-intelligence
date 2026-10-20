@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_07_spotify-says-it-pulled-50-million-ai-slop-tracks-out-of-recommendations_126d3395",
+  "sourceKind": "article",
+  "sourceName": "Spotify Newsroom",
+  "sourceUrl": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/",
+  "canonicalUrl": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "Spotify says it pulled 50 million AI slop tracks out of recommendations",
+  "friendlyTitle": "Spotify says it removed 50 million AI spam tracks from recommendations",
+  "summary": "Spotify says that this year it has taken more than 50 million tracks it classifies as AI-generated slop or spam out of recommendations, on top of more than 75 million spam tracks removed from the service for rule violations. It says recommendation and editorial programming now favour music it identifies as made by human artists, and that listener complaints about this content have fallen since the change. AI Persona profiles, where the artist identity itself is generated, are labeled and kept out of recommendations unless a listener follows them. Spotify says no single detector is enough, and that detection will get harder as the generators improve.",
+  "friendlySummary": "Spotify says that this year it has taken more than 50 million tracks it calls AI slop or spam out of recommendations. That is on top of more than 75 million spam tracks it says it removed from the service for breaking the rules. Spotify says its recommendations and human editors now favour music it identifies as made by people, and that fewer listeners have complained since the change. Profiles whose artist identity is itself generated get an AI Persona label and stay out of recommendations unless you follow them. Spotify says no single detector is enough, and that spotting this music will get harder as the generators improve.",
+  "whyItMatters": "If a playlist has been filling with tracks you skip, this is the company's account of what it changed, not a promise that every AI-assisted track is gone. A song made with AI tools can still be on the service. The filter is aimed at spam and unlabeled AI personas, and Spotify says the tools for spotting them are imperfect.",
+  "friendlyWhyItMatters": "If a playlist has been filling with tracks you skip, this is Spotify's account of what it changed. It is not a promise that every song made with AI tools is gone. The filter is aimed at spam and at artists who are not real people. Spotify says the tools for spotting them are imperfect.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_02_homeland-security-orders-civilian-agencies-to-remove-deepseek-products_16bcd6bc",
+  "sourceKind": "regulation",
+  "sourceName": "Federal Register",
+  "sourceUrl": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+  "canonicalUrl": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "Homeland Security orders civilian agencies to remove DeepSeek products",
+  "friendlyTitle": "US Homeland Security tells civilian agencies to remove DeepSeek",
+  "summary": "The Department of Homeland Security has published an order excluding information-technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd., and affiliated entities, from federal civilian agency procurements. It also orders removal of DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology. The notice is Docket No. DHS-2026-0628, published 20 October 2026. It applies to federal civilian executive-branch systems, not to a personal account.",
+  "friendlySummary": "The US Department of Homeland Security has published an order that stops civilian federal agencies from buying products and services made by DeepSeek and its affiliated companies. It also tells those agencies to remove DeepSeek products from their computer systems, including third-party tools built using DeepSeek implementations. The notice was published on 20 October 2026. It covers federal civilian government systems, not a personal account.",
+  "whyItMatters": "If you work in or sell to a US civilian agency, a tool that embeds DeepSeek is now a procurement and removal question, not only a question of model quality. The order does not, by its own summary, ban a private person from reading the open-source repository. It does tell agencies to take the products off their systems.",
+  "friendlyWhyItMatters": "If you work for a US civilian agency, or you sell software to one, a tool that includes DeepSeek is now a purchasing and removal question, not only a question of which model is better. The order's own summary does not ban a private person from reading the open-source code. It does tell agencies to take the products off their systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

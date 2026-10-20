@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-21_01_deepseek-open-sources-deepinfer-the-framework-behind-its-production-serv_79e072c5",
+  "sourceKind": "product",
+  "sourceName": "DeepSeek",
+  "sourceUrl": "https://github.com/deepseek-ai/DeepInfer",
+  "canonicalUrl": "https://github.com/deepseek-ai/DeepInfer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-20T20:07:37Z",
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "title": "DeepSeek open-sources DeepInfer, the framework behind its production service",
+  "friendlyTitle": "DeepSeek publishes the software it uses to run its own models",
+  "summary": "DeepSeek has published DeepInfer, the inference framework it says powers its large-scale production services. The Apache-2.0 release supports offline inference for DeepSeek-V4.1-Flash, including the 17 October checkpoint, with optimized kernels, expert parallelism, and structured outputs. DeepSeek says the project was originally built primarily on vLLM. The repository reached about 11,300 stars within a day of the first commit, and the Hacker News thread passed 1,900 points.",
+  "friendlySummary": "DeepSeek has published DeepInfer, the software it says it uses to run its models for customers at large scale. The licence is Apache 2.0. The first supported model is DeepSeek-V4.1-Flash, including the 17 October version. DeepSeek says the project started from vLLM, another open serving tool. The repository reached about 11,300 stars in a day, and the Hacker News discussion passed 1,900 points.",
+  "whyItMatters": "If you already run DeepSeek-V4.1-Flash, this is the serving code the lab says it uses, not a new model and not a hosted API. It is a large-GPU stack, not a laptop download. The open release does not change the separate US order, published the same day, that tells civilian agencies to remove DeepSeek products from their systems.",
+  "friendlyWhyItMatters": "If you already run that DeepSeek model, this is the serving code the lab says it uses. It is not a new model, and it is not a website you log into. It needs a large bank of GPUs, not a laptop. Publishing the code does not cancel the separate US order, issued the same day, that tells civilian agencies to remove DeepSeek products from their systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-21"
+  }
+}

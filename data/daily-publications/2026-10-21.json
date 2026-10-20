@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-21",
+  "slug": "2026-10-21",
+  "status": "published",
+  "publicationDateUtc": "2026-10-20T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The serving stack is open, and the agency laptop is not",
+  "friendlyHeader": "DeepSeek opens its serving software, and US agencies are told to remove it",
+  "summary": "Today's issue is about where a model is allowed to run. DeepSeek has published the inference framework behind its production service, on the same day the US Department of Homeland Security ordered civilian agencies to remove DeepSeek products from their systems. Mistral has shipped a voice-agent stack that can take a call in more than 50 languages. Perplexity Computer can now plan and finish a task on a Mac without sending the work to the cloud. ChatGPT can hide a saved chat behind a PIN, which is not the same as encrypting it.",
+  "friendlySummary": "Today we look at where a model is allowed to run. DeepSeek has published the software it uses to serve its own models. On the same day, the US Department of Homeland Security ordered civilian government agencies to remove DeepSeek products from their systems. Mistral has released voice tools that can take a phone call in more than 50 languages. Perplexity's Computer can now finish a task on a Mac without sending the work to the cloud. ChatGPT can hide a saved chat behind a PIN. That is not the same as encrypting it.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-21_01_deepseek-open-sources-deepinfer-the-framework-behind-its-production-serv_79e072c5",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_02_homeland-security-orders-civilian-agencies-to-remove-deepseek-products_16bcd6bc",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_03_mistral-ships-voxtral-3-a-voice-agent-stack-for-calls-in-50-plus-languag_afe5d96a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_04_perplexity-computer-can-now-finish-a-task-entirely-on-a-mac_ebd93fea",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_05_chatgpt-can-hide-a-saved-chat-behind-a-pin_da42fcf4",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_06_yelp-s-new-agent-will-call-a-restaurant-and-text-you-the-wait_fdcc7430",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_07_spotify-says-it-pulled-50-million-ai-slop-tracks-out-of-recommendations_126d3395",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_08_hugging-face-models-can-now-load-on-a-tpu-with-one-device-setting_84cd8d44",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_09_a-site-of-invented-statistics-is-still-being-retrieved-by-chatgpt_6a01ce2d",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_10_ibm-s-learned-playbook-lifts-an-older-model-on-a-customer-service-test_94e7f4f5",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_11_vllm-project-vllm-serve-an-open-model-behind-an-api-you-run_65e32dab",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_12_croffasia-itsaplan-a-self-hosted-board-where-agents-take-tickets_5f10b82b",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-21_13_nvlabs-aspire-a-library-of-robot-skills-an-agent-keeps-refining_2ea65ef1",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-20T20:07:37Z",
+  "updatedAtUtc": "2026-10-20T20:07:37Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-21.json",
+    "itemCount": 13
+  }
+}
