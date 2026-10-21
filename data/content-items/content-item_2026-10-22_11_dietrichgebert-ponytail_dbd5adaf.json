@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_11_dietrichgebert-ponytail_dbd5adaf",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/DietrichGebert/ponytail",
+  "canonicalUrl": "https://github.com/DietrichGebert/ponytail",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "DietrichGebert/ponytail",
+  "friendlyTitle": "Ponytail tells a coding agent to write less code",
+  "summary": "Ponytail is an MIT-licensed plugin that tells a coding agent to write only the code the task needs, and not to cut validation, error handling, security, or accessibility to get there. It has intensity levels, a review that reads the code a change touches rather than only the diff, and a debt command that collects marked shortcuts. It ships adapters for Claude Code, Codex, Cursor, Hermes Agent, and several other hosts. GitHub's daily trending list showed 2,051 new stars, on a repository of about 171,000.",
+  "friendlySummary": "Ponytail is a free plugin that tells a coding agent to write only the code the job needs. It also tells the agent not to drop checks, error handling, security, or accessibility just to make the change smaller. You can set how strong the rule is. A review command looks at the code a change touches, not only the changed lines. Another command collects the shortcuts the agent marked for later. It works with Claude Code, Codex, Cursor, Hermes Agent, and several other tools. On GitHub's daily trending list it gained 2,051 stars, on a project of about 171,000.",
+  "whyItMatters": "If an agent keeps adding a library or a new component for a control the project already has, this is a ruleset that pushes it to reuse what is there. The project's own 7 October benchmark is the source of its cost and test claims. Treat those as the author's numbers, and keep the review of security-sensitive changes with a person.",
+  "friendlyWhyItMatters": "If an agent keeps adding a new library for a control the project already has, this is a rule set that pushes it to reuse what is there. The project's own 7 October test is the source of its cost and test claims. Treat those numbers as the author's, and still have a person review changes that touch security.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

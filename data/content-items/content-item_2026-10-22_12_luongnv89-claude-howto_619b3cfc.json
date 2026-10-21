@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_12_luongnv89-claude-howto_619b3cfc",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/luongnv89/claude-howto",
+  "canonicalUrl": "https://github.com/luongnv89/claude-howto",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "luongnv89/claude-howto",
+  "friendlyTitle": "A picture guide to Claude Code, with examples you can copy",
+  "summary": "claude-howto is an MIT-licensed, example-driven guide to Claude Code, from basic concepts to agents, hooks, and plugins, with copy-paste templates. The repository says it was last aligned with Claude Code 2.1.302, and a commit on 20 October made a database example read-only by default. A rendered copy is at luongnv.com/claude-howto. GitHub's Python trending list showed 429 new stars, on a repository of about 42,500.",
+  "friendlySummary": "claude-howto is a free, example-led guide to Claude Code. It goes from basic ideas to agents, hooks, and plugins, with templates you can copy. The project says it was last lined up with Claude Code version 2.1.302. A change on 20 October made a database example read-only by default. A web copy is at luongnv.com/claude-howto. On GitHub's Python trending list it gained 429 stars, on a project of about 42,500.",
+  "whyItMatters": "Use it when the official docs name a feature and you want a worked example next to the name: a hook that reads its input, a plugin layout, or an MCP server that cannot write. It is a guide maintained against the docs, not a substitute for them. Check the version note before copying a setting into a newer Claude Code.",
+  "friendlyWhyItMatters": "Use it when the official docs name a feature and you want a worked example beside the name. That might be a hook that reads its input, a plugin layout, or a database connection that cannot write. It is a guide kept in step with the docs, not a replacement for them. Check the version note before you copy a setting into a newer Claude Code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

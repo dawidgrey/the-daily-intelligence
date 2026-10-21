@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_03_openai-models-are-coming-to-google-cloud-with-microsoft-still-the-primar_a6851b08",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/openai-models-google-cloud/",
+  "canonicalUrl": "https://openai.com/index/openai-models-google-cloud/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "OpenAI models are coming to Google Cloud, with Microsoft still the primary partner",
+  "friendlyTitle": "OpenAI models are coming to Google Cloud",
+  "summary": "OpenAI says its frontier models and Codex workflows will be available in Google Cloud's Model Garden, purchased through Google Cloud Marketplace. Enterprises with a Google Cloud spending commitment will be able to draw that commitment down for the purchases. OpenAI also says the models will soon be available in Google Antigravity and the Gemini Agent. General availability is planned in the coming weeks, and access can be requested now. Microsoft remains OpenAI's primary cloud partner.",
+  "friendlySummary": "OpenAI says its strongest models, and its Codex coding workflows, will be sold inside Google Cloud's model catalog. Companies will buy them through the Google Cloud Marketplace. If a company has already promised to spend money with Google Cloud, it can use that promise to pay. OpenAI also says the models will soon be available in Google Antigravity and the Gemini Agent. General availability is planned in the coming weeks. You can ask for access now. Microsoft is still OpenAI's main cloud partner.",
+  "whyItMatters": "A team that already keeps data and spend inside Google Cloud can test an OpenAI model without opening a separate vendor account, once the listing is actually on. It is not on for general use today. The practical question is still which cloud is allowed to see the prompt, not which logo is on the model card.",
+  "friendlyWhyItMatters": "A team that already keeps its data and its cloud bill inside Google Cloud will be able to try an OpenAI model without opening a second vendor account, once the listing is actually there. It is not open to everyone today. The useful question is still which cloud is allowed to see the prompt, not which name is on the model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

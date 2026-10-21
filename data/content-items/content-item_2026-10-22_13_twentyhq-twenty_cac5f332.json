@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_13_twentyhq-twenty_cac5f332",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/twentyhq/twenty",
+  "canonicalUrl": "https://github.com/twentyhq/twenty",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "twentyhq/twenty",
+  "friendlyTitle": "Twenty is an open CRM built to work with agents",
+  "summary": "Twenty is an open-source CRM, described by its maintainers as the open alternative to Salesforce and designed for AI. The repository includes an in-app agent chat and a published set of agent skills for the product. A commit on 21 October links a company's email threads and calendar events from the company record, not only from a single contact. GitHub's daily trending list showed 105 new stars, on a repository of about 59,000.",
+  "friendlySummary": "Twenty is a free, open-source system for tracking customers and sales. Its maintainers call it an open alternative to Salesforce, designed for AI. The project includes a chat with an agent inside the app, and a published set of skills so an agent can work with the product. A change on 21 October links a company's email threads and calendar events from the company record, not only from one contact. On GitHub's daily trending list it gained 105 stars, on a project of about 59,000.",
+  "whyItMatters": "A small team that wants the contact list, the pipeline, and the email trail in a system it can run itself can start here instead of renting a closed CRM. The agent skills are for working with that system, not a replacement for deciding which lead is real. Self-hosting still means you own the backups, the login, and the mailbox connection.",
+  "friendlyWhyItMatters": "A small team that wants the contact list, the sales pipeline, and the email trail in a system it can run itself can start here, instead of renting a closed product. The agent skills help an agent work with that system. They do not decide which lead is real. If you run it yourself, you still own the backups, the login, and the mailbox connection.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

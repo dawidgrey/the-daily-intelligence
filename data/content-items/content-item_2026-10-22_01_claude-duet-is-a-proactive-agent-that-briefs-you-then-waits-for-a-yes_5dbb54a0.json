@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_01_claude-duet-is-a-proactive-agent-that-briefs-you-then-waits-for-a-yes_5dbb54a0",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/product/claude-duet",
+  "canonicalUrl": "https://claude.com/product/claude-duet",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "Claude Duet is a proactive agent that briefs you, then waits for a yes",
+  "friendlyTitle": "Claude Duet can brief you in the morning, then wait for your yes",
+  "summary": "Anthropic has opened a research preview of Claude Duet, a standalone app that messages you rather than waiting for a new chat. It is powered by Claude Opus 5.5, uses the memory, skills, and connectors already on a Claude account, and asks before sensitive steps such as sending a message or paying. Anthropic says it is on a waitlist for Pro and Max subscribers in the United States, on iOS, Android, and the web at claude.ai. Team and Enterprise plans are not included yet. During the preview it shares the plan's usage limits, and background checks count toward them.",
+  "friendlySummary": "Anthropic has opened a test of Claude Duet. It is a separate app that messages you, instead of waiting for you to start a chat. It uses Claude Opus 5.5, and it can use the memory, skills, and connected apps already on your Claude account. It asks before it sends a message or pays. Anthropic says the waitlist is for Pro and Max subscribers in the United States. The apps are for iPhone, Android, and the web at claude.ai. Team and business plans are not included yet. While it is in test, it uses the same usage limits as the rest of Claude. Checks it runs in the background count toward those limits.",
+  "whyItMatters": "A morning brief that drafts the reply and stops before it sends is a different habit from opening a chatbot and pasting the inbox in. The waitlist is US-only for now, so it is not a tool an Australian Pro account can switch on today. Anthropic also says the preview can misread what is urgent, and that a forgotten check between messages can miss something that arrived in between.",
+  "friendlyWhyItMatters": "A morning note that drafts a reply, and stops before sending it, is different from opening a chatbot and pasting your inbox. The waitlist is only in the United States for now, so an Australian Pro account cannot turn it on today. Anthropic also says the test can get urgency wrong, and that it can miss something that arrives between its checks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

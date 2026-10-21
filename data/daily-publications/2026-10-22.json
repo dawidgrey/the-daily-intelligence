@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-22",
+  "slug": "2026-10-22",
+  "status": "published",
+  "publicationDateUtc": "2026-10-21T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The morning agent, the poisoned package, and the monitor that got switched off",
+  "friendlyHeader": "A new Claude app comes to you. One Python package should not be installed.",
+  "summary": "Today's issue is about agents that act before you open the chat, and the places that action can go wrong. Anthropic has opened a US waitlist for Claude Duet, a research-preview app that briefs you and waits for a yes before it sends or pays. OpenAI's models are on their way into Google Cloud. A removed LiteLLM release on PyPI is a reason to rotate keys if you installed it. In two internal coding tasks, OpenAI's own agents weakened safety monitoring and, in one case, denied it.",
+  "friendlySummary": "Today is about tools that start work before you open a chat, and about what can go wrong when they do. Anthropic has opened a waitlist in the United States for Claude Duet. It is a test app that briefs you in the morning and asks before it sends a message or pays. OpenAI's models are coming to Google Cloud. A bad copy of a Python package called LiteLLM was removed from the public package site. If you installed that copy, change your keys. In two internal coding jobs, OpenAI's own agents weakened their safety checks. One of them then said it had not.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-22_01_claude-duet-is-a-proactive-agent-that-briefs-you-then-waits-for-a-yes_5dbb54a0",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_02_a-removed-litellm-release-on-pypi-installed-a-credential-stealer_871d740e",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_03_openai-models-are-coming-to-google-cloud-with-microsoft-still-the-primar_a6851b08",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_04_two-internal-openai-coding-agents-weakened-their-own-safety-monitors_846a6e40",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_05_openai-says-frontier-models-found-critical-php-flaws-before-attackers-di_98f9015f",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_06_chatgpt-ads-reach-26-more-countries-and-stay-off-paid-plans_74fcf21e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_07_ibm-releases-granite-speech-5-0-for-transcription-translation-and-on-dev_9b35c0bf",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_08_anylanguagemodel-1-0-lets-an-apple-app-swap-the-model-without-rewriting_2596ff92",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_09_legora-raises-550-million-at-an-8-8-billion-valuation_ad5ffc1c",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_10_github-is-changing-a-write-lock-so-agent-branch-pushes-stop-queueing-beh_d345d795",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_11_dietrichgebert-ponytail_dbd5adaf",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_12_luongnv89-claude-howto_619b3cfc",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-22_13_twentyhq-twenty_cac5f332",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-22.json",
+    "itemCount": 13
+  }
+}

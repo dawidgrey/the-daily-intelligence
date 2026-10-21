@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-22_10_github-is-changing-a-write-lock-so-agent-branch-pushes-stop-queueing-beh_d345d795",
+  "sourceKind": "article",
+  "sourceName": "GitHub Blog",
+  "sourceUrl": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+  "canonicalUrl": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-21T20:07:37Z",
+  "createdAtUtc": "2026-10-21T20:07:37Z",
+  "updatedAtUtc": "2026-10-21T20:07:37Z",
+  "title": "GitHub is changing a write lock so agent branch pushes stop queueing behind each other",
+  "friendlyTitle": "GitHub is changing a lock so agent pushes stop waiting on each other",
+  "summary": "GitHub engineers Eleanor White and Victoria Dye say 99.99999% of repositories now have copies in both GitHub's data centers and Azure. The remaining fraction, the busiest repositories, cannot absorb a cross-region write because the current quorum holds a lock on the whole repository and waits on the slowest healthy replica, about 25 milliseconds away. GitHub is narrowing that lock to a single Git reference, so pushes to different branches no longer wait on each other. In internal tests with realistic traffic, writes to different references saw 3–4x higher throughput at lower latency. The change is a step in a longer move, not a setting a user flips today.",
+  "friendlySummary": "GitHub engineers say almost every repository now has a copy in GitHub's own data centers and in Azure. The busiest ones are stuck. A write currently locks the whole repository and waits for the slowest healthy copy, about 25 milliseconds away across regions. GitHub is changing that lock so it covers one branch name at a time. Pushes to different branches would no longer wait on each other. In internal tests, writes to different branches were about 3 to 4 times faster, and the delay was lower. This is a step in a longer move. It is not a switch a user can flip today.",
+  "whyItMatters": "If several agents push to their own branches on a busy repository, they are currently standing in one queue. Per-branch locking is the difference between those pushes waiting on each other and proceeding together. It does not make a force-push to the same branch safe. Two writers on one branch still have to take turns.",
+  "friendlyWhyItMatters": "If several agents push to their own branches on a busy repository, they currently stand in one queue. A lock per branch is the difference between those pushes waiting on each other and going ahead together. It does not make a forced push to the same branch safe. Two writers on one branch still have to take turns.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-22"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-20T20:07:37Z",
+  "generatedAtUtc": "2026-10-21T20:07:37Z",
   "items": [
     {
-      "id": "content-item_2026-10-21_01_deepseek-open-sources-deepinfer-the-framework-behind-its-production-serv_79e072c5",
+      "id": "content-item_2026-10-22_01_claude-duet-is-a-proactive-agent-that-briefs-you-then-waits-for-a-yes_5dbb54a0",
       "sourceKind": "product",
-      "sourceName": "DeepSeek",
-      "title": "DeepSeek open-sources DeepInfer, the framework behind its production service",
-      "sourceUrl": "https://github.com/deepseek-ai/DeepInfer"
+      "sourceName": "Anthropic",
+      "title": "Claude Duet is a proactive agent that briefs you, then waits for a yes",
+      "sourceUrl": "https://claude.com/product/claude-duet"
     },
     {
-      "id": "content-item_2026-10-21_02_homeland-security-orders-civilian-agencies-to-remove-deepseek-products_16bcd6bc",
-      "sourceKind": "regulation",
-      "sourceName": "Federal Register",
-      "title": "Homeland Security orders civilian agencies to remove DeepSeek products",
-      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive"
-    },
-    {
-      "id": "content-item_2026-10-21_03_mistral-ships-voxtral-3-a-voice-agent-stack-for-calls-in-50-plus-languag_afe5d96a",
-      "sourceKind": "product",
-      "sourceName": "Mistral AI",
-      "title": "Mistral ships Voxtral 3, a voice-agent stack for calls in 50-plus languages",
-      "sourceUrl": "https://mistral.ai/news/voxtral-3"
-    },
-    {
-      "id": "content-item_2026-10-21_04_perplexity-computer-can-now-finish-a-task-entirely-on-a-mac_ebd93fea",
-      "sourceKind": "product",
-      "sourceName": "Perplexity",
-      "title": "Perplexity Computer can now finish a task entirely on a Mac",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac"
-    },
-    {
-      "id": "content-item_2026-10-21_05_chatgpt-can-hide-a-saved-chat-behind-a-pin_da42fcf4",
-      "sourceKind": "product",
-      "sourceName": "OpenAI Help Center",
-      "title": "ChatGPT can hide a saved chat behind a PIN",
-      "sourceUrl": "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt"
-    },
-    {
-      "id": "content-item_2026-10-21_06_yelp-s-new-agent-will-call-a-restaurant-and-text-you-the-wait_fdcc7430",
-      "sourceKind": "product",
-      "sourceName": "Yelp Blog",
-      "title": "Yelp's new agent will call a restaurant and text you the wait",
-      "sourceUrl": "https://blog.yelp.com/news/fall-product-release-2026"
-    },
-    {
-      "id": "content-item_2026-10-21_07_spotify-says-it-pulled-50-million-ai-slop-tracks-out-of-recommendations_126d3395",
+      "id": "content-item_2026-10-22_02_a-removed-litellm-release-on-pypi-installed-a-credential-stealer_871d740e",
       "sourceKind": "article",
-      "sourceName": "Spotify Newsroom",
-      "title": "Spotify says it pulled 50 million AI slop tracks out of recommendations",
-      "sourceUrl": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/"
+      "sourceName": "SafeDep",
+      "title": "A removed LiteLLM release on PyPI installed a credential stealer",
+      "sourceUrl": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
     },
     {
-      "id": "content-item_2026-10-21_08_hugging-face-models-can-now-load-on-a-tpu-with-one-device-setting_84cd8d44",
+      "id": "content-item_2026-10-22_03_openai-models-are-coming-to-google-cloud-with-microsoft-still-the-primar_a6851b08",
       "sourceKind": "product",
-      "sourceName": "Hugging Face Blog",
-      "title": "Hugging Face models can now load on a TPU with one device setting",
-      "sourceUrl": "https://huggingface.co/blog/hf-torchtpu"
+      "sourceName": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud, with Microsoft still the primary partner",
+      "sourceUrl": "https://openai.com/index/openai-models-google-cloud/"
     },
     {
-      "id": "content-item_2026-10-21_09_a-site-of-invented-statistics-is-still-being-retrieved-by-chatgpt_6a01ce2d",
-      "sourceKind": "article",
-      "sourceName": "Peec AI",
-      "title": "A site of invented statistics is still being retrieved by ChatGPT",
-      "sourceUrl": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
-    },
-    {
-      "id": "content-item_2026-10-21_10_ibm-s-learned-playbook-lifts-an-older-model-on-a-customer-service-test_94e7f4f5",
+      "id": "content-item_2026-10-22_04_two-internal-openai-coding-agents-weakened-their-own-safety-monitors_846a6e40",
       "sourceKind": "research",
-      "sourceName": "Hugging Face Blog",
-      "title": "IBM's learned playbook lifts an older model on a customer-service test",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+      "sourceName": "OpenAI Alignment",
+      "title": "Two internal OpenAI coding agents weakened their own safety monitors",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/"
     },
     {
-      "id": "content-item_2026-10-21_11_vllm-project-vllm-serve-an-open-model-behind-an-api-you-run_65e32dab",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "vllm-project/vllm: serve an open model behind an API you run",
-      "sourceUrl": "https://github.com/vllm-project/vllm"
+      "id": "content-item_2026-10-22_05_openai-says-frontier-models-found-critical-php-flaws-before-attackers-di_98f9015f",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says frontier models found critical PHP flaws before attackers did",
+      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
     },
     {
-      "id": "content-item_2026-10-21_12_croffasia-itsaplan-a-self-hosted-board-where-agents-take-tickets_5f10b82b",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending TypeScript",
-      "title": "croffasia/itsaplan: a self-hosted board where agents take tickets",
-      "sourceUrl": "https://github.com/croffasia/itsaplan"
+      "id": "content-item_2026-10-22_06_chatgpt-ads-reach-26-more-countries-and-stay-off-paid-plans_74fcf21e",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT ads reach 26 more countries, and stay off paid plans",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
     },
     {
-      "id": "content-item_2026-10-21_13_nvlabs-aspire-a-library-of-robot-skills-an-agent-keeps-refining_2ea65ef1",
+      "id": "content-item_2026-10-22_07_ibm-releases-granite-speech-5-0-for-transcription-translation-and-on-dev_9b35c0bf",
+      "sourceKind": "product",
+      "sourceName": "IBM Granite",
+      "title": "IBM releases Granite Speech 5.0 for transcription, translation, and on-device speed",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    },
+    {
+      "id": "content-item_2026-10-22_08_anylanguagemodel-1-0-lets-an-apple-app-swap-the-model-without-rewriting_2596ff92",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "AnyLanguageModel 1.0 lets an Apple app swap the model without rewriting the session",
+      "sourceUrl": "https://huggingface.co/blog/anylanguagemodel-1-0"
+    },
+    {
+      "id": "content-item_2026-10-22_09_legora-raises-550-million-at-an-8-8-billion-valuation_ad5ffc1c",
+      "sourceKind": "article",
+      "sourceName": "Legora",
+      "title": "Legora raises $550 million at an $8.8 billion valuation",
+      "sourceUrl": "https://legora.com/blog/series-e"
+    },
+    {
+      "id": "content-item_2026-10-22_10_github-is-changing-a-write-lock-so-agent-branch-pushes-stop-queueing-beh_d345d795",
+      "sourceKind": "article",
+      "sourceName": "GitHub Blog",
+      "title": "GitHub is changing a write lock so agent branch pushes stop queueing behind each other",
+      "sourceUrl": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+    },
+    {
+      "id": "content-item_2026-10-22_11_dietrichgebert-ponytail_dbd5adaf",
       "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "NVlabs/ASPIRE: a library of robot skills an agent keeps refining",
-      "sourceUrl": "https://github.com/NVlabs/ASPIRE"
+      "sourceName": "GitHub",
+      "title": "DietrichGebert/ponytail",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "id": "content-item_2026-10-22_12_luongnv89-claude-howto_619b3cfc",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "luongnv89/claude-howto",
+      "sourceUrl": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "id": "content-item_2026-10-22_13_twentyhq-twenty_cac5f332",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "twentyhq/twenty",
+      "sourceUrl": "https://github.com/twentyhq/twenty"
     }
   ]
 }
