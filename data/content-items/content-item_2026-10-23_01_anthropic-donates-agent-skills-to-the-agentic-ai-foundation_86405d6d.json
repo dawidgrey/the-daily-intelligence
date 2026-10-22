@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_01_anthropic-donates-agent-skills-to-the-agentic-ai-foundation_86405d6d",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "canonicalUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "Anthropic donates Agent Skills to the Agentic AI Foundation",
+  "friendlyTitle": "Anthropic is giving its agent skill format to a shared foundation",
+  "summary": "Anthropic is donating Agent Skills, the folder-and-SKILL.md format it published as an open standard in December 2025, to the Agentic AI Foundation under the Linux Foundation. That is the same foundation Anthropic, Block, and OpenAI set up for the Model Context Protocol. Anthropic says more than 70 platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated the format, and that 1 million skills have been published and nearly 280 million installed. The donation covers the name, logo, GitHub organization, and agentskills.io domain. People can keep using and contributing without joining the foundation.",
+  "friendlySummary": "Anthropic is giving away Agent Skills, the open format it published in December 2025. A skill is a folder with a SKILL.md file that teaches an agent one job. The new home is the Agentic AI Foundation, under the Linux Foundation. That is the same group that already looks after the Model Context Protocol. Anthropic says more than 70 tools have adopted the format, including ChatGPT, Cursor, GitHub Copilot, and VS Code. It also says 1 million skills have been published and nearly 280 million have been installed. The gift includes the name, the logo, the GitHub organization, and the agentskills.io website. You can keep using skills, and contributing to them, without joining the foundation.",
+  "whyItMatters": "A skill you write for one agent is more likely to keep working if the format is no longer owned by one vendor. Anthropic says engineers from Anthropic, Google, and OpenAI will maintain it as individuals, and has proposed versioned releases plus security guidance for people who write and install skills. The practical check is still the same: read what a skill is allowed to run before you install it.",
+  "friendlyWhyItMatters": "A skill you write for one agent is more likely to keep working if one company no longer owns the format. Anthropic says engineers from Anthropic, Google, and OpenAI will look after it as individuals. It has also proposed numbered releases, and security guidance for people who write and install skills. The useful habit does not change: read what a skill is allowed to run before you install it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

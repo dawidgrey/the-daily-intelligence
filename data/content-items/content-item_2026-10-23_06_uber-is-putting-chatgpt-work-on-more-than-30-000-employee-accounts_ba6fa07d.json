@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_06_uber-is-putting-chatgpt-work-on-more-than-30-000-employee-accounts_ba6fa07d",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "canonicalUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "Uber is putting ChatGPT Work on more than 30,000 employee accounts",
+  "friendlyTitle": "Uber is giving ChatGPT Work to more than 30,000 employees",
+  "summary": "OpenAI says Uber is expanding ChatGPT Work from a pilot of 1,000 employees to more than 30,000, starting 22 October. It is Uber's first company-wide deployment of an agent platform for knowledge work, inside ChatGPT Enterprise. The agent connects to Google Drive, Gmail, Google Calendar, and Slack, and GPT-6.1 Sol is the default model. Uber is pairing the rollout with an internal skills library, approved integrations, and employee training. Its developers will keep using Codex for software work. OpenAI says the companies plan to share adoption and outcome figures later.",
+  "friendlySummary": "OpenAI says Uber is expanding ChatGPT Work from a test with 1,000 employees to more than 30,000, starting 22 October. It is Uber's first company-wide rollout of an agent platform for knowledge work, inside ChatGPT Enterprise. The agent connects to Google Drive, Gmail, Google Calendar, and Slack. GPT-6.1 Sol is the default model. Uber is pairing the rollout with an internal skills library, approved connections, and employee training. Its developers will keep using Codex for software work. OpenAI says the companies plan to share adoption numbers, and results, later.",
+  "whyItMatters": "This is not a feature a reader can switch on. It is a picture of how a large company is actually handing an agent to every desk: a named default model, a short list of approved tools, a skills library, and training, with coding kept on a separate product. If you are deciding whether to roll an agent out at work, the missing piece in the announcement is the result. Uber has not published one yet.",
+  "friendlyWhyItMatters": "This is not a feature you can switch on. It is a picture of how a large company is actually handing an agent to every desk: a named default model, a short list of approved tools, a skills library, and training, with coding kept on a separate product. If you are deciding whether to roll an agent out at work, the missing piece in the announcement is the result. Uber has not published one yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

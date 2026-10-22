@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-21T20:07:37Z",
+  "generatedAtUtc": "2026-10-22T20:09:16Z",
   "items": [
     {
-      "id": "content-item_2026-10-22_01_claude-duet-is-a-proactive-agent-that-briefs-you-then-waits-for-a-yes_5dbb54a0",
+      "id": "content-item_2026-10-23_01_anthropic-donates-agent-skills-to-the-agentic-ai-foundation_86405d6d",
       "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Claude Duet is a proactive agent that briefs you, then waits for a yes",
-      "sourceUrl": "https://claude.com/product/claude-duet"
+      "title": "Anthropic donates Agent Skills to the Agentic AI Foundation",
+      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
     },
     {
-      "id": "content-item_2026-10-22_02_a-removed-litellm-release-on-pypi-installed-a-credential-stealer_871d740e",
+      "id": "content-item_2026-10-23_02_1password-will-fill-a-login-without-showing-the-password-to-the-agent_0bb5b0dd",
+      "sourceKind": "product",
+      "sourceName": "1Password",
+      "title": "1Password will fill a login without showing the password to the agent",
+      "sourceUrl": "https://1password.com/press/2026/october/1password-for-agents-trust-layer-personal-ai-agents"
+    },
+    {
+      "id": "content-item_2026-10-23_03_major-us-banks-are-blocking-agents-that-log-in-with-customer-credentials_d2f83690",
       "sourceKind": "article",
-      "sourceName": "SafeDep",
-      "title": "A removed LiteLLM release on PyPI installed a credential stealer",
-      "sourceUrl": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+      "sourceName": "The Decoder",
+      "title": "Major US banks are blocking agents that log in with customer credentials",
+      "sourceUrl": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/"
     },
     {
-      "id": "content-item_2026-10-22_03_openai-models-are-coming-to-google-cloud-with-microsoft-still-the-primar_a6851b08",
+      "id": "content-item_2026-10-23_04_openai-s-decisions-api-is-generally-available-for-bounded-choices_27825e30",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI models are coming to Google Cloud, with Microsoft still the primary partner",
-      "sourceUrl": "https://openai.com/index/openai-models-google-cloud/"
+      "title": "OpenAI's Decisions API is generally available for bounded choices",
+      "sourceUrl": "https://openai.com/index/decisions-api"
     },
     {
-      "id": "content-item_2026-10-22_04_two-internal-openai-coding-agents-weakened-their-own-safety-monitors_846a6e40",
+      "id": "content-item_2026-10-23_05_google-gives-each-gemini-agent-its-own-hardware-isolated-microvm_0d299af9",
+      "sourceKind": "product",
+      "sourceName": "Google Cloud",
+      "title": "Google gives each Gemini agent its own hardware-isolated microVM",
+      "sourceUrl": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance"
+    },
+    {
+      "id": "content-item_2026-10-23_06_uber-is-putting-chatgpt-work-on-more-than-30-000-employee-accounts_ba6fa07d",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "Uber is putting ChatGPT Work on more than 30,000 employee accounts",
+      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
+      "id": "content-item_2026-10-23_07_canva-releases-craft-its-own-image-model-trained-on-designs_afbb328c",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Canva releases Craft, its own image model trained on designs",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "id": "content-item_2026-10-23_08_nvidia-s-kumo-relational-predicts-from-a-database-without-a-training-run_7104bc51",
       "sourceKind": "research",
-      "sourceName": "OpenAI Alignment",
-      "title": "Two internal OpenAI coding agents weakened their own safety monitors",
-      "sourceUrl": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/"
+      "sourceName": "Nvidia",
+      "title": "Nvidia's Kumo Relational predicts from a database without a training run",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational"
     },
     {
-      "id": "content-item_2026-10-22_05_openai-says-frontier-models-found-critical-php-flaws-before-attackers-di_98f9015f",
+      "id": "content-item_2026-10-23_09_allen-institute-releases-planet-wide-satellite-embeddings-you-can-query_eaa0ebff",
+      "sourceKind": "research",
+      "sourceName": "Allen Institute for AI",
+      "title": "Allen Institute releases planet-wide satellite embeddings you can query in a browser",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    {
+      "id": "content-item_2026-10-23_10_a-french-prize-will-publish-fiction-co-written-with-an-ai-model_53855df1",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI says frontier models found critical PHP flaws before attackers did",
-      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+      "sourceName": "The Guardian",
+      "title": "A French prize will publish fiction co-written with an AI model",
+      "sourceUrl": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france"
     },
     {
-      "id": "content-item_2026-10-22_06_chatgpt-ads-reach-26-more-countries-and-stay-off-paid-plans_74fcf21e",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT ads reach 26 more countries, and stay off paid plans",
-      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-    },
-    {
-      "id": "content-item_2026-10-22_07_ibm-releases-granite-speech-5-0-for-transcription-translation-and-on-dev_9b35c0bf",
-      "sourceKind": "product",
-      "sourceName": "IBM Granite",
-      "title": "IBM releases Granite Speech 5.0 for transcription, translation, and on-device speed",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
-    },
-    {
-      "id": "content-item_2026-10-22_08_anylanguagemodel-1-0-lets-an-apple-app-swap-the-model-without-rewriting_2596ff92",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "AnyLanguageModel 1.0 lets an Apple app swap the model without rewriting the session",
-      "sourceUrl": "https://huggingface.co/blog/anylanguagemodel-1-0"
-    },
-    {
-      "id": "content-item_2026-10-22_09_legora-raises-550-million-at-an-8-8-billion-valuation_ad5ffc1c",
-      "sourceKind": "article",
-      "sourceName": "Legora",
-      "title": "Legora raises $550 million at an $8.8 billion valuation",
-      "sourceUrl": "https://legora.com/blog/series-e"
-    },
-    {
-      "id": "content-item_2026-10-22_10_github-is-changing-a-write-lock-so-agent-branch-pushes-stop-queueing-beh_d345d795",
-      "sourceKind": "article",
-      "sourceName": "GitHub Blog",
-      "title": "GitHub is changing a write lock so agent branch pushes stop queueing behind each other",
-      "sourceUrl": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-    },
-    {
-      "id": "content-item_2026-10-22_11_dietrichgebert-ponytail_dbd5adaf",
+      "id": "content-item_2026-10-23_11_bowenliang123-dsh-context-a-dashboard-for-what-a-deepseek-agent-is-carry_f650f605",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "DietrichGebert/ponytail",
-      "sourceUrl": "https://github.com/DietrichGebert/ponytail"
+      "title": "bowenliang123/dsh-context: a dashboard for what a DeepSeek agent is carrying",
+      "sourceUrl": "https://github.com/bowenliang123/dsh-context"
     },
     {
-      "id": "content-item_2026-10-22_12_luongnv89-claude-howto_619b3cfc",
+      "id": "content-item_2026-10-23_12_onyx-dot-app-onyx-self-hosted-chat-search-and-agents-for-any-model_af5f93b3",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "luongnv89/claude-howto",
-      "sourceUrl": "https://github.com/luongnv89/claude-howto"
+      "title": "onyx-dot-app/onyx: self-hosted chat, search, and agents for any model",
+      "sourceUrl": "https://github.com/onyx-dot-app/onyx"
     },
     {
-      "id": "content-item_2026-10-22_13_twentyhq-twenty_cac5f332",
+      "id": "content-item_2026-10-23_13_genspark-ai-genoffice-a-local-office-suite-a-coding-agent-can-edit_49452062",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "twentyhq/twenty",
-      "sourceUrl": "https://github.com/twentyhq/twenty"
+      "title": "genspark-ai/genoffice: a local office suite a coding agent can edit",
+      "sourceUrl": "https://github.com/genspark-ai/genoffice"
     }
   ]
 }

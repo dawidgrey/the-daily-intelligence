@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-23",
+  "slug": "2026-10-23",
+  "status": "published",
+  "publicationDateUtc": "2026-10-22T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The agent gets a computer, a sign-in it cannot see, and a bank that says no",
+  "friendlyHeader": "Agents get their own computer. Banks are closing the door.",
+  "summary": "Today's issue is about the plumbing around agents, not a new chatbot. Anthropic is handing its skill format to a shared foundation. 1Password will fill a login without giving the password to the agent. Major US banks are starting to block agents that sign in with a customer's own credentials. Google has built a separate microVM for each Gemini agent, and is opening that design later. OpenAI's Decisions API is now generally available for the small choices an app makes thousands of times a day.",
+  "friendlySummary": "Today is about the pipes around agents, not a new chatbot. Anthropic is giving its skill format to a shared group, so more tools can use the same files. 1Password can fill a login without showing the password to the agent. Big US banks are starting to block agents that sign in with a customer's own password. Google has built a small separate computer for each Gemini agent, and will open that design later. OpenAI's Decisions API is now open for the small choices an app makes many times a day.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-23_01_anthropic-donates-agent-skills-to-the-agentic-ai-foundation_86405d6d",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_02_1password-will-fill-a-login-without-showing-the-password-to-the-agent_0bb5b0dd",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_03_major-us-banks-are-blocking-agents-that-log-in-with-customer-credentials_d2f83690",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_04_openai-s-decisions-api-is-generally-available-for-bounded-choices_27825e30",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_05_google-gives-each-gemini-agent-its-own-hardware-isolated-microvm_0d299af9",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_06_uber-is-putting-chatgpt-work-on-more-than-30-000-employee-accounts_ba6fa07d",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_07_canva-releases-craft-its-own-image-model-trained-on-designs_afbb328c",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_08_nvidia-s-kumo-relational-predicts-from-a-database-without-a-training-run_7104bc51",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_09_allen-institute-releases-planet-wide-satellite-embeddings-you-can-query_eaa0ebff",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_10_a-french-prize-will-publish-fiction-co-written-with-an-ai-model_53855df1",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_11_bowenliang123-dsh-context-a-dashboard-for-what-a-deepseek-agent-is-carry_f650f605",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_12_onyx-dot-app-onyx-self-hosted-chat-search-and-agents-for-any-model_af5f93b3",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-23_13_genspark-ai-genoffice-a-local-office-suite-a-coding-agent-can-edit_49452062",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-23.json",
+    "itemCount": 13
+  }
+}

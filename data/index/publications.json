@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-21T20:07:37Z",
+  "generatedAtUtc": "2026-10-22T20:09:16Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-23",
+      "slug": "2026-10-23",
+      "status": "published",
+      "publicationDateUtc": "2026-10-22T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The agent gets a computer, a sign-in it cannot see, and a bank that says no",
+      "friendlyHeader": "Agents get their own computer. Banks are closing the door.",
+      "summary": "Today's issue is about the plumbing around agents, not a new chatbot. Anthropic is handing its skill format to a shared foundation. 1Password will fill a login without giving the password to the agent. Major US banks are starting to block agents that sign in with a customer's own credentials. Google has built a separate microVM for each Gemini agent, and is opening that design later. OpenAI's Decisions API is now generally available for the small choices an app makes thousands of times a day.",
+      "friendlySummary": "Today is about the pipes around agents, not a new chatbot. Anthropic is giving its skill format to a shared group, so more tools can use the same files. 1Password can fill a login without showing the password to the agent. Big US banks are starting to block agents that sign in with a customer's own password. Google has built a small separate computer for each Gemini agent, and will open that design later. OpenAI's Decisions API is now open for the small choices an app makes many times a day.",
+      "itemCount": 13,
+      "href": "issues/2026-10-23.html",
+      "dataUrl": "data/daily-publications/2026-10-23.json"
+    },
     {
       "id": "daily-publication_2026-10-22",
       "slug": "2026-10-22",

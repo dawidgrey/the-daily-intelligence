@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_07_canva-releases-craft-its-own-image-model-trained-on-designs_afbb328c",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "Canva releases Craft, its own image model trained on designs",
+  "friendlyTitle": "Canva releases Craft, an image model trained on designs",
+  "summary": "TechCrunch reports that Canva has released Canva Craft, an image model built by its research team, with researchers from Leonardo.ai, which Canva acquired in 2024. Canva says the model first writes a plan for layout, scale, hierarchy, and text, then generates an image at up to 2K in as many as 30 aspect ratios. It was trained on human-designed Canva templates, not photographs, so a result can be turned into a layered design with Canva Magic. TechCrunch says Craft is available to all users in the Dream Lab tab, and through the Canva API. Faster variants, Craftfast and Craft-ultrafast, are planned. Canva also plans to offer generation inside ChatGPT and Gemini through its MCP server.",
+  "friendlySummary": "TechCrunch reports that Canva has released Canva Craft, an image model built by its own research team. Researchers from Leonardo.ai, which Canva bought in 2024, contributed. Canva says the model first writes a plan for layout, scale, hierarchy, and text. It then generates an image at up to 2K resolution, in as many as 30 shapes. It was trained on human-designed Canva templates, not photographs. A result can be turned into a layered design with Canva Magic. TechCrunch says Craft is available to all users in the Dream Lab tab, and through the Canva API. Faster versions, Craftfast and Craft-ultrafast, are planned. Canva also plans to offer image generation inside ChatGPT and Gemini through its MCP server.",
+  "whyItMatters": "If you already make posters, slides, or social images in Canva, the useful test is whether the text stays readable and whether a later edit leaves the rest of the image alone. Canva's reason for building it is also practical: fewer calls to outside image models, and more control over speed and cost. A generated poster is still a draft. Check the words before you publish it.",
+  "friendlyWhyItMatters": "If you already make posters, slides, or social images in Canva, the useful test is whether the words stay readable, and whether a later edit leaves the rest of the image alone. Canva's reason for building it is also practical: fewer calls to outside image models, and more control over speed and cost. A generated poster is still a draft. Check the words before you publish it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

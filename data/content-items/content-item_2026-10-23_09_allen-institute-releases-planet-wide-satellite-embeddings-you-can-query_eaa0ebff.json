@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_09_allen-institute-releases-planet-wide-satellite-embeddings-you-can-query_eaa0ebff",
+  "sourceKind": "research",
+  "sourceName": "Allen Institute for AI",
+  "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "Allen Institute releases planet-wide satellite embeddings you can query in a browser",
+  "friendlyTitle": "Ai2 releases satellite maps of the whole planet you can query in a browser",
+  "summary": "The Allen Institute for AI has released OlmoEarth v1.3, an open satellite embedding model, plus precomputed annual embeddings for land and nearby coastal water at 10-meter resolution. A year of Sentinel-1, Sentinel-2, and Landsat observations becomes one 128-number vector per pixel, or a smaller 64-number version. The institute says the 128-dimension embeddings ranked highest on 20 of 27 evaluations against AlphaEarth Foundations and Tessera v2. Weights, pretraining data, and code are open. A browser explorer lets you compare years, find similar places, or train a small classifier from a few labels and export a GeoTIFF, with no account.",
+  "friendlySummary": "The Allen Institute for AI has released OlmoEarth v1.3, an open satellite embedding model. It also released precomputed yearly embeddings for land and nearby coastal water, at 10-meter resolution. A year of Sentinel-1, Sentinel-2, and Landsat observations becomes one vector of 128 numbers per pixel, or a smaller version of 64 numbers. The institute says the 128-number embeddings ranked highest on 20 of 27 tests against AlphaEarth Foundations and Tessera v2. The weights, the training data, and the code are open. A browser tool lets you compare years, find similar places, or train a small classifier from a few labels and export a GeoTIFF. No account is required.",
+  "whyItMatters": "Mapping crops, fire damage, or land-use change used to mean downloading imagery and training a model. For a first look, you can now click a place and ask which other places look like it, or label a handful of points and export a map. The explorer does not replace a local check on the ground. It does remove the GPU bill from the first pass.",
+  "friendlyWhyItMatters": "Mapping crops, fire damage, or how land is used used to mean downloading images and training a model. For a first look, you can now click a place and ask which other places look like it, or label a handful of points and export a map. The browser tool does not replace a check on the ground. It does remove the GPU bill from the first pass.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

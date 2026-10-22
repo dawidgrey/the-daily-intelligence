@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_05_google-gives-each-gemini-agent-its-own-hardware-isolated-microvm_0d299af9",
+  "sourceKind": "product",
+  "sourceName": "Google Cloud",
+  "sourceUrl": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+  "canonicalUrl": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "Google gives each Gemini agent its own hardware-isolated microVM",
+  "friendlyTitle": "Google gives each Gemini agent its own small, isolated computer",
+  "summary": "Google Cloud has announced Agent Compute Engine, the runtime it says already powers Gemini's agent for work. Each agent gets a hardware-isolated microVM that can pause when idle and resume from a snapshot, with short-lived credentials injected outside the guest rather than stored inside it. Customer preview is planned for the coming months, via an interest form, not a switch you can turn on today. For teams already on Kubernetes, Google is also offering Agent Substrate on GKE, an open-source runtime it says can fit up to 10 times as many agents on a server and resume in under 500 milliseconds in a 200,000-agent test. It says Agent Substrate runs on any Kubernetes cluster and works with harnesses including Claude Code, OpenClaw, and Hermes.",
+  "friendlySummary": "Google Cloud has announced Agent Compute Engine. It says this is the runtime that already powers Gemini's agent for work. Each agent gets its own small virtual machine, isolated in hardware. The machine can pause when the agent is idle, and resume from a snapshot. Short-lived credentials are added outside the guest, not stored inside it. A customer preview is planned for the coming months. You ask to join. You cannot switch it on today. For teams already on Kubernetes, Google is also offering Agent Substrate on GKE. That is an open-source runtime. Google says it can fit up to 10 times as many agents on one server, and resume in under 500 milliseconds in a test of 200,000 agents. It says Agent Substrate runs on any Kubernetes cluster, and works with harnesses including Claude Code, OpenClaw, and Hermes.",
+  "whyItMatters": "An agent that can run code needs a computer that is not your laptop and not a shared container with your cloud keys in it. Google's design is a concrete answer: isolate the hands, keep the long-lived secrets outside, and stop paying for an idle machine. It is not a product you can buy this morning. If you run agents now, the same rule still applies on whatever host you already have.",
+  "friendlyWhyItMatters": "An agent that can run code needs a computer that is not your laptop, and not a shared container that holds your cloud keys. Google's design is a concrete answer: isolate the hands, keep the long-lived secrets outside, and stop paying for a machine that is waiting. It is not a product you can buy this morning. If you run agents now, the same rule still applies on whatever computer you already use.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

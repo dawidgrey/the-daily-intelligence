@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_04_openai-s-decisions-api-is-generally-available-for-bounded-choices_27825e30",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/decisions-api",
+  "canonicalUrl": "https://openai.com/index/decisions-api",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "OpenAI's Decisions API is generally available for bounded choices",
+  "friendlyTitle": "OpenAI's Decisions API is now open for small, bounded choices",
+  "summary": "OpenAI has made the Decisions API generally available. It uses GPT-6 Luna for questions with a bounded answer: a probability, a choice from a list you supply, or a score against a rubric. OpenAI says it can be up to 10 times faster than calling GPT-6 Luna through the Responses API, and that a request can now hold up to 400 questions. Input is priced at $0.10 per million tokens, cached input at $0.01, with no output-token charge. Regional processing is available in the US and EU. Zero Data Retention is available to eligible customers. The API also connects to GPT-Live, so a voice session can pick a next action or an avatar expression without a full model turn.",
+  "friendlySummary": "OpenAI has made the Decisions API generally available. It uses GPT-6 Luna for questions with a limited answer: a probability, one choice from a list you provide, or a score against a scale. OpenAI says it can be up to 10 times faster than calling GPT-6 Luna through the normal Responses API. One request can now hold up to 400 questions. Input costs $0.10 per million tokens. Cached input costs $0.01. There is no charge for output tokens. Processing in a set region is available in the US and the EU. Eligible customers can use Zero Data Retention, which means OpenAI does not keep the request. The API also connects to GPT-Live, so a voice session can pick the next action, or a face for an avatar, without a full model turn.",
+  "whyItMatters": "Routing, classification, and 'should the agent continue or ask' are the calls that make an agent feel slow. A cheaper, bounded endpoint is a practical place to put those, if you check it on your own examples first. OpenAI's customer notes are early and self-reported: Box cites about 5 times faster routing at the same accuracy, and Datadog cites a 40 times faster p95 when scoring risky shell commands before they run. Those are not a guarantee for your workload.",
+  "friendlyWhyItMatters": "Sorting, labeling, and 'should the agent continue or ask' are the calls that make an agent feel slow. A cheaper endpoint with a fixed set of answers is a practical place to put those calls, if you test it on your own examples first. OpenAI's customer notes are early, and the customers reported them. Box says routing was about 5 times faster at the same accuracy. Datadog says scoring risky shell commands before they run was 40 times faster at the slow end. Those numbers are not a promise for your own work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}

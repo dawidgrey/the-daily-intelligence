@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-23_11_bowenliang123-dsh-context-a-dashboard-for-what-a-deepseek-agent-is-carry_f650f605",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/bowenliang123/dsh-context",
+  "canonicalUrl": "https://github.com/bowenliang123/dsh-context",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-22T20:09:16Z",
+  "createdAtUtc": "2026-10-22T20:09:16Z",
+  "updatedAtUtc": "2026-10-22T20:09:16Z",
+  "title": "bowenliang123/dsh-context: a dashboard for what a DeepSeek agent is carrying",
+  "friendlyTitle": "dsh-context shows what a DeepSeek agent is carrying",
+  "summary": "dsh-context is a plugin for DeepSeek Harness that shows how a session's context is composed, how it changes, and where commands ran. It adds a context dashboard, browser, sidebar, and command, with English and Simplified Chinese. GitHub's daily TypeScript trending list had it at 321 stars today. It supports @deepseek-ai/dsh from 0.2.0-rc.2 on the 0.2.0 and 0.2.1 lines, and is Apache-2.0.",
+  "friendlySummary": "dsh-context is a plugin for DeepSeek Harness. It shows how a session's context is built, how it changes, and where commands ran. It adds a context dashboard, a browser, a sidebar, and a command. The interface is in English and Simplified Chinese. GitHub's daily TypeScript trending list had it at 321 stars today. It supports @deepseek-ai/dsh from version 0.2.0-rc.2, on the 0.2.0 and 0.2.1 lines. The license is Apache-2.0.",
+  "whyItMatters": "If you use DeepSeek Harness, this is a way to see which parts of the prompt are using the window before you guess why the agent forgot something. Category figures are the harness's own estimates; the token card also shows the provider's billed total. It will not help on Claude Code or Codex. The version floor is real.",
+  "friendlyWhyItMatters": "If you use DeepSeek Harness, this is a way to see which parts of the prompt are filling the window, before you guess why the agent forgot something. The category figures are the harness's own estimates. The token card also shows the provider's billed total. It will not help on Claude Code or Codex. The version requirement is real.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-23"
+  }
+}
