@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-22T20:09:16Z",
+  "generatedAtUtc": "2026-10-23T20:09:46Z",
   "items": [
     {
-      "id": "content-item_2026-10-23_01_anthropic-donates-agent-skills-to-the-agentic-ai-foundation_86405d6d",
+      "id": "content-item_2026-10-24_01_moonshot-releases-kimi-k3-1-pro-with-open-weights-due-by-4-november_1fd8476b",
       "sourceKind": "product",
+      "sourceName": "Moonshot AI",
+      "title": "Moonshot releases Kimi K3.1 Pro, with open weights due by 4 November",
+      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+    },
+    {
+      "id": "content-item_2026-10-24_02_claude-writes-formal-proofs-for-123-open-source-libraries_1360bd8e",
+      "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "Anthropic donates Agent Skills to the Agentic AI Foundation",
-      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      "title": "Claude writes formal proofs for 123 open-source libraries",
+      "sourceUrl": "https://www.anthropic.com/research/formal-verification"
     },
     {
-      "id": "content-item_2026-10-23_02_1password-will-fill-a-login-without-showing-the-password-to-the-agent_0bb5b0dd",
-      "sourceKind": "product",
-      "sourceName": "1Password",
-      "title": "1Password will fill a login without showing the password to the agent",
-      "sourceUrl": "https://1password.com/press/2026/october/1password-for-agents-trust-layer-personal-ai-agents"
-    },
-    {
-      "id": "content-item_2026-10-23_03_major-us-banks-are-blocking-agents-that-log-in-with-customer-credentials_d2f83690",
-      "sourceKind": "article",
-      "sourceName": "The Decoder",
-      "title": "Major US banks are blocking agents that log in with customer credentials",
-      "sourceUrl": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/"
-    },
-    {
-      "id": "content-item_2026-10-23_04_openai-s-decisions-api-is-generally-available-for-bounded-choices_27825e30",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI's Decisions API is generally available for bounded choices",
-      "sourceUrl": "https://openai.com/index/decisions-api"
-    },
-    {
-      "id": "content-item_2026-10-23_05_google-gives-each-gemini-agent-its-own-hardware-isolated-microvm_0d299af9",
-      "sourceKind": "product",
-      "sourceName": "Google Cloud",
-      "title": "Google gives each Gemini agent its own hardware-isolated microVM",
-      "sourceUrl": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance"
-    },
-    {
-      "id": "content-item_2026-10-23_06_uber-is-putting-chatgpt-work-on-more-than-30-000-employee-accounts_ba6fa07d",
+      "id": "content-item_2026-10-24_03_openai-keeps-frontier-training-off-the-live-internet_48e2274f",
       "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "Uber is putting ChatGPT Work on more than 30,000 employee accounts",
-      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout"
+      "title": "OpenAI keeps frontier training off the live internet",
+      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
-      "id": "content-item_2026-10-23_07_canva-releases-craft-its-own-image-model-trained-on-designs_afbb328c",
+      "id": "content-item_2026-10-24_04_anthropic-reviews-the-test-run-in-which-mythos-5-pressured-a-real-mainta_bf6986b3",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Anthropic reviews the test run in which Mythos 5 pressured a real maintainer",
+      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+    },
+    {
+      "id": "content-item_2026-10-24_05_metr-says-a-summer-audit-found-gaps-in-openai-s-agent-monitoring_b30896a8",
+      "sourceKind": "research",
+      "sourceName": "METR",
+      "title": "METR says a summer audit found gaps in OpenAI's agent monitoring",
+      "sourceUrl": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"
+    },
+    {
+      "id": "content-item_2026-10-24_06_openai-acquires-orchestra-bio-and-folds-it-into-rosalind_01b1cada",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Canva releases Craft, its own image model trained on designs",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+      "sourceName": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio and folds it into Rosalind",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
     },
     {
-      "id": "content-item_2026-10-23_08_nvidia-s-kumo-relational-predicts-from-a-database-without-a-training-run_7104bc51",
+      "id": "content-item_2026-10-24_07_microsoft-s-diagnostic-agent-beats-physicians-in-a-simulation-not-in-a-c_792cc20f",
       "sourceKind": "research",
-      "sourceName": "Nvidia",
-      "title": "Nvidia's Kumo Relational predicts from a database without a training run",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational"
+      "sourceName": "Microsoft AI",
+      "title": "Microsoft's diagnostic agent beats physicians in a simulation, not in a clinic",
+      "sourceUrl": "https://microsoft.ai/news/building-medical-superintelligence/"
     },
     {
-      "id": "content-item_2026-10-23_09_allen-institute-releases-planet-wide-satellite-embeddings-you-can-query_eaa0ebff",
+      "id": "content-item_2026-10-24_08_deepmind-maps-every-10-meter-patch-of-forest-by-type-not-just-tree-cover_e66e9796",
       "sourceKind": "research",
-      "sourceName": "Allen Institute for AI",
-      "title": "Allen Institute releases planet-wide satellite embeddings you can query in a browser",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+      "sourceName": "Google DeepMind",
+      "title": "DeepMind maps every 10-meter patch of forest by type, not just tree cover",
+      "sourceUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
     },
     {
-      "id": "content-item_2026-10-23_10_a-french-prize-will-publish-fiction-co-written-with-an-ai-model_53855df1",
-      "sourceKind": "article",
-      "sourceName": "The Guardian",
-      "title": "A French prize will publish fiction co-written with an AI model",
-      "sourceUrl": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france"
+      "id": "content-item_2026-10-24_09_hugging-face-adds-a-lookup-for-which-models-actually-run-on-trainium_64309091",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face adds a lookup for which models actually run on Trainium",
+      "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support"
     },
     {
-      "id": "content-item_2026-10-23_11_bowenliang123-dsh-context-a-dashboard-for-what-a-deepseek-agent-is-carry_f650f605",
+      "id": "content-item_2026-10-24_10_a-texas-study-maps-how-data-center-power-choices-change-the-air_d0586153",
+      "sourceKind": "research",
+      "sourceName": "Houston Advanced Research Center",
+      "title": "A Texas study maps how data-center power choices change the air",
+      "sourceUrl": "https://harcresearch.org/research/texas-data-center-air-quality/"
+    },
+    {
+      "id": "content-item_2026-10-24_11_cloudflare-security-audit-skill-a-structured-security-audit-for-a-coding_6426decb",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "bowenliang123/dsh-context: a dashboard for what a DeepSeek agent is carrying",
-      "sourceUrl": "https://github.com/bowenliang123/dsh-context"
+      "title": "cloudflare/security-audit-skill: a structured security audit for a coding agent",
+      "sourceUrl": "https://github.com/cloudflare/security-audit-skill"
     },
     {
-      "id": "content-item_2026-10-23_12_onyx-dot-app-onyx-self-hosted-chat-search-and-agents-for-any-model_af5f93b3",
+      "id": "content-item_2026-10-24_12_nvidia-openshell-a-policy-runtime-for-agent-fleets_4dcdb955",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "onyx-dot-app/onyx: self-hosted chat, search, and agents for any model",
-      "sourceUrl": "https://github.com/onyx-dot-app/onyx"
+      "title": "NVIDIA/OpenShell: a policy runtime for agent fleets",
+      "sourceUrl": "https://github.com/NVIDIA/OpenShell"
     },
     {
-      "id": "content-item_2026-10-23_13_genspark-ai-genoffice-a-local-office-suite-a-coding-agent-can-edit_49452062",
+      "id": "content-item_2026-10-24_13_pbakaus-impeccable-design-rules-a-coding-agent-can-run-locally_fa436184",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "genspark-ai/genoffice: a local office suite a coding agent can edit",
-      "sourceUrl": "https://github.com/genspark-ai/genoffice"
+      "title": "pbakaus/impeccable: design rules a coding agent can run locally",
+      "sourceUrl": "https://github.com/pbakaus/impeccable"
     }
   ]
 }

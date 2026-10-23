@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_07_microsoft-s-diagnostic-agent-beats-physicians-in-a-simulation-not-in-a-c_792cc20f",
+  "sourceKind": "research",
+  "sourceName": "Microsoft AI",
+  "sourceUrl": "https://microsoft.ai/news/building-medical-superintelligence/",
+  "canonicalUrl": "https://microsoft.ai/news/building-medical-superintelligence/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "Microsoft's diagnostic agent beats physicians in a simulation, not in a clinic",
+  "friendlyTitle": "Microsoft's diagnostic agent beat doctors in a simulation, not in a clinic",
+  "summary": "Microsoft says MAI-DxO, a panel of AI agents that question, order tests, and debate a diagnosis, is more than twice as accurate as physicians using textbooks and the internet on complex cases from the New England Journal of Medicine. On emergency-department presentations from MIMIC-IV-ED, it reports 1.7 times the accuracy of physicians. The results are published in Science. A prospective study with Beth Israel Deaconess, where patients would use the system directly, is still ahead. Microsoft is also working with Mayo Clinic on a healthcare foundation model.",
+  "friendlySummary": "Microsoft says MAI-DxO, a group of AI agents that ask questions, order tests, and debate a diagnosis, was more than twice as accurate as doctors using textbooks and the internet. That comparison used hard cases from the New England Journal of Medicine. On emergency-department cases from a research dataset, Microsoft reports 1.7 times the accuracy of doctors. The results are in the journal Science. A hospital study with Beth Israel Deaconess, where patients would use the system themselves, has not happened yet. Microsoft is also working with Mayo Clinic on a healthcare model.",
+  "whyItMatters": "This is not a diagnosis you should act on. It is a simulation on hard published cases, and Microsoft's own next step is a hospital study that has not reported results. If the numbers hold with real patients, the practical change would be fewer tests to reach the same answer. Until then, it is a research result with a strong headline and no clinic behind it.",
+  "friendlyWhyItMatters": "Do not treat this as a diagnosis. It is a test on published cases, not a visit with a patient. Microsoft's next step is a hospital study that has not reported results. If the numbers hold with real patients, the useful change would be fewer tests to reach the same answer. Until then, the headline is ahead of the clinic.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

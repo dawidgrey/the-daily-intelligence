@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_09_hugging-face-adds-a-lookup-for-which-models-actually-run-on-trainium_64309091",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "canonicalUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "Hugging Face adds a lookup for which models actually run on Trainium",
+  "friendlyTitle": "You can now look up whether a model runs on AWS Trainium",
+  "summary": "Hugging Face and AWS have published a Space and a public dataset that record whether popular Transformers models run unmodified on AWS Trainium. A pass means the model loaded on a Trainium2 instance, generated 32 tokens, and passed a check. Tests so far cover text-generation and image-text-to-text models that fit on at most 16 cores. A pass says nothing about speed or longer outputs. Each row includes the script and compiler version that were used.",
+  "friendlySummary": "Hugging Face and AWS have published a lookup for whether popular Transformers models run on AWS Trainium without code changes. A pass means the model loaded on a Trainium2 machine, generated 32 tokens, and passed a check. So far the tests cover text models and image-and-text models that fit on at most 16 cores. A pass does not say the model is fast, or that a longer answer would work. Each row includes the script and compiler version used in the test.",
+  "whyItMatters": "Before you rent a Trainium instance for a model, you can look up whether that checkpoint has already generated tokens, and copy the cached graphs instead of paying for a first compile. If your model is missing, the Space says whether it was skipped or is incompatible. It will not tell you if the model is fast enough for your product.",
+  "friendlyWhyItMatters": "Before you rent a Trainium machine for a model, you can check whether that model has already produced tokens. You can also copy the compiled graphs instead of paying for the first compile. If your model is missing, the page says whether it was skipped or will not run. It will not tell you if it is fast enough for your product.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_01_moonshot-releases-kimi-k3-1-pro-with-open-weights-due-by-4-november_1fd8476b",
+  "sourceKind": "product",
+  "sourceName": "Moonshot AI",
+  "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "canonicalUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "Moonshot releases Kimi K3.1 Pro, with open weights due by 4 November",
+  "friendlyTitle": "Kimi K3.1 Pro is available now. Open weights are due by 4 November.",
+  "summary": "Moonshot has released Kimi K3.1 Pro, a post-trained version of Kimi K3 with a 1-million-token window, plus a Highspeed variant it says runs two to three times faster. Both are available now on Kimi.ai, Kimi Work, Kimi Code, and the Kimi API. Moonshot says the full weights will be released by 4 November 2026. On Terminal-Bench 4.0, it reports 65.7 percent, just behind Claude Opus 5.5 at 66.4 percent and ahead of GPT-6 Astra at 58.2 percent.",
+  "friendlySummary": "Moonshot has released Kimi K3.1 Pro, a stronger follow-up to Kimi K3. It can hold about 1 million tokens of context. A faster version, Highspeed, is supposed to run two to three times quicker. You can use both today on Kimi.ai, Kimi Work, Kimi Code, and the Kimi API. Moonshot says it will publish the full model weights by 4 November 2026. On a coding-agent test called Terminal-Bench 4.0, Moonshot reports 65.7 percent. That is just behind Claude Opus 5.5 at 66.4 percent, and ahead of GPT-6 Astra at 58.2 percent.",
+  "whyItMatters": "If you already pay for a frontier coding agent, this is a new option you can try today, with a date for when the weights are supposed to be downloadable. Those benchmark figures are Moonshot's, run at maximum reasoning effort. The open-weight release is the one to wait for if you want to run it yourself, and Moonshot says that release has cyber-related training data removed.",
+  "friendlyWhyItMatters": "If you already pay for a top coding agent, you can try this one today. If you want to run it on your own hardware, wait for the weights. Those scores are Moonshot's own, at the highest reasoning setting. Moonshot also says the open-weight version has had cyber-related training data removed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

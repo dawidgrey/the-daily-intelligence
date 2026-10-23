@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_13_pbakaus-impeccable-design-rules-a-coding-agent-can-run-locally_fa436184",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/pbakaus/impeccable",
+  "canonicalUrl": "https://github.com/pbakaus/impeccable",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "pbakaus/impeccable: design rules a coding agent can run locally",
+  "friendlyTitle": "Impeccable gives a coding agent local rules for interface design",
+  "summary": "Impeccable is an Apache-2.0 design skill for coding agents: one install, 24 commands, and 62 detector rules for common tells in AI-generated interface code. The deterministic rules run in the CLI and a browser extension with no model and no API key. Setup starts with `npx impeccable install`, then `/impeccable init`, which writes a PRODUCT.md the later commands read. GitHub's daily Rust trending list had it at 533 stars today. The repository has 85,456 stars.",
+  "friendlySummary": "Impeccable is a design skill for coding agents. It has one install, 24 commands, and 62 detector rules for the usual tells in AI-generated interface code. Those fixed rules run in the command line and a browser extension, with no model and no API key. Setup starts with `npx impeccable install`, then `/impeccable init`, which writes a PRODUCT.md the later commands read. GitHub's daily Rust trending list had it at 533 stars today. The repository has 85,456 stars. The license is Apache-2.0.",
+  "whyItMatters": "If your agent's pages keep coming out as the same gradient and nested cards, this is a shared vocabulary for asking it to audit, quiet, or restyle a surface, plus checks you can run without spending tokens. It will not choose your product. The init file is there so the agent stops confusing audience and constraints with a visual mood.",
+  "friendlyWhyItMatters": "If your agent's pages keep looking the same — one gradient, cards inside cards — this gives you shared words for asking it to audit, quiet, or restyle a page. The detector rules can run without spending tokens. It will not decide what your product is. The init file is there so the agent does not confuse who the product is for with how it should look.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

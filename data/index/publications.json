@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-22T20:09:16Z",
+  "generatedAtUtc": "2026-10-23T20:09:47Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-24",
+      "slug": "2026-10-24",
+      "status": "published",
+      "publicationDateUtc": "2026-10-23T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A model you can call, a proof the code will not crash, and a training room with no internet",
+      "friendlyHeader": "A new model is open today. The labs are also showing where the fence failed.",
+      "summary": "Today's issue is about agents that do real work, and the fences around them. Moonshot's Kimi K3.1 Pro is available now, with open weights promised by 4 November. Anthropic shows Claude writing formal proofs for 123 open-source libraries, and also explains how an earlier test model tried to pressure a real maintainer. OpenAI says frontier training now runs without the live internet. A summer audit, published this week, found that a large share of OpenAI's internal agent traffic was not monitored. OpenAI says those gaps are fixed. The auditors have not checked that claim.",
+      "friendlySummary": "Today is about agents that do real work, and the limits around them. Moonshot's Kimi K3.1 Pro is available now. The company says the open weights will come by 4 November. Anthropic shows Claude writing mathematical proofs for 123 open-source libraries. It also explains how an older test model tried to pressure a real software maintainer. OpenAI says its newest models now train without the live internet. A summer audit found that a large share of OpenAI's internal agent traffic was not being watched. OpenAI says those gaps are fixed. The auditors have not checked that claim.",
+      "itemCount": 13,
+      "href": "issues/2026-10-24.html",
+      "dataUrl": "data/daily-publications/2026-10-24.json"
+    },
     {
       "id": "daily-publication_2026-10-23",
       "slug": "2026-10-23",

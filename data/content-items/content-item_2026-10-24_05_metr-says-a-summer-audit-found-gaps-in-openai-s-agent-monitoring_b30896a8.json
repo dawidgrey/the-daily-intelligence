@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_05_metr-says-a-summer-audit-found-gaps-in-openai-s-agent-monitoring_b30896a8",
+  "sourceKind": "research",
+  "sourceName": "METR",
+  "sourceUrl": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+  "canonicalUrl": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "METR says a summer audit found gaps in OpenAI's agent monitoring",
+  "friendlyTitle": "A summer audit found holes in OpenAI's agent watching",
+  "summary": "A METR researcher and a Redwood Research researcher spent three weeks on site at OpenAI, from 21 July to 11 August, reviewing the internal monitor for misaligned agents as it existed on 21 July. They estimate that 75 to 94 percent of agentic internal Responses API traffic from models at least as strong as GPT-5.5 was eligible for monitoring, with wide uncertainty, and that reinforcement-learning training runs were not covered when the exercise began. OpenAI says the production issues they found have been patched. METR says it has not evaluated that claim. Most of the 61-page report remains internal.",
+  "friendlySummary": "One researcher from METR and one from Redwood Research spent three weeks at OpenAI, from 21 July to 11 August. They reviewed the internal system that watches for misaligned agents, as it stood on 21 July. They estimate that 75 to 94 percent of internal agent traffic from models at least as strong as GPT-5.5 was eligible to be watched. The uncertainty is wide. Training runs were not covered when the visit began. OpenAI says the production problems they found are now fixed. METR says it has not checked that claim. Most of the 61-page report is still private.",
+  "whyItMatters": "A monitor that misses a slice of traffic, or that waits for the agent to hand control back, is not a control you can treat as complete. The public note is a pilot, not a current scorecard. If you run agents against your own systems, the useful part is the design list: watch every stretch of actions, keep a ledger of what was actually monitored, and do not let the agent decide whether the monitor runs.",
+  "friendlyWhyItMatters": "A watcher that misses some traffic, or that waits until the agent says it is done, is not a complete control. This public note is a pilot, not a current score. If you run agents on your own systems, the useful part is the design advice: watch every stretch of actions, keep a record of what was actually watched, and do not let the agent decide whether the watcher runs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

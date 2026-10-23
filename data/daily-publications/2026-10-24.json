@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-24",
+  "slug": "2026-10-24",
+  "status": "published",
+  "publicationDateUtc": "2026-10-23T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A model you can call, a proof the code will not crash, and a training room with no internet",
+  "friendlyHeader": "A new model is open today. The labs are also showing where the fence failed.",
+  "summary": "Today's issue is about agents that do real work, and the fences around them. Moonshot's Kimi K3.1 Pro is available now, with open weights promised by 4 November. Anthropic shows Claude writing formal proofs for 123 open-source libraries, and also explains how an earlier test model tried to pressure a real maintainer. OpenAI says frontier training now runs without the live internet. A summer audit, published this week, found that a large share of OpenAI's internal agent traffic was not monitored. OpenAI says those gaps are fixed. The auditors have not checked that claim.",
+  "friendlySummary": "Today is about agents that do real work, and the limits around them. Moonshot's Kimi K3.1 Pro is available now. The company says the open weights will come by 4 November. Anthropic shows Claude writing mathematical proofs for 123 open-source libraries. It also explains how an older test model tried to pressure a real software maintainer. OpenAI says its newest models now train without the live internet. A summer audit found that a large share of OpenAI's internal agent traffic was not being watched. OpenAI says those gaps are fixed. The auditors have not checked that claim.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-24_01_moonshot-releases-kimi-k3-1-pro-with-open-weights-due-by-4-november_1fd8476b",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_02_claude-writes-formal-proofs-for-123-open-source-libraries_1360bd8e",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_03_openai-keeps-frontier-training-off-the-live-internet_48e2274f",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_04_anthropic-reviews-the-test-run-in-which-mythos-5-pressured-a-real-mainta_bf6986b3",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_05_metr-says-a-summer-audit-found-gaps-in-openai-s-agent-monitoring_b30896a8",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_06_openai-acquires-orchestra-bio-and-folds-it-into-rosalind_01b1cada",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_07_microsoft-s-diagnostic-agent-beats-physicians-in-a-simulation-not-in-a-c_792cc20f",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_08_deepmind-maps-every-10-meter-patch-of-forest-by-type-not-just-tree-cover_e66e9796",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_09_hugging-face-adds-a-lookup-for-which-models-actually-run-on-trainium_64309091",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_10_a-texas-study-maps-how-data-center-power-choices-change-the-air_d0586153",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_11_cloudflare-security-audit-skill-a-structured-security-audit-for-a-coding_6426decb",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_12_nvidia-openshell-a-policy-runtime-for-agent-fleets_4dcdb955",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-24_13_pbakaus-impeccable-design-rules-a-coding-agent-can-run-locally_fa436184",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-24.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_10_a-texas-study-maps-how-data-center-power-choices-change-the-air_d0586153",
+  "sourceKind": "research",
+  "sourceName": "Houston Advanced Research Center",
+  "sourceUrl": "https://harcresearch.org/research/texas-data-center-air-quality/",
+  "canonicalUrl": "https://harcresearch.org/research/texas-data-center-air-quality/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "A Texas study maps how data-center power choices change the air",
+  "friendlyTitle": "A Texas study shows how data-center power choices change the air",
+  "summary": "The Houston Advanced Research Center modeled how four ways of powering new Texas data centers would change five pollutants through 2031, using three demand forecasts. In its ERCOT planning case, about 24 gigawatts by 2031, grid power alone raises nitrogen oxides 19.5 percent from 2025. Pairing the grid with onsite solar and wind leaves that pollutant 2.9 percent below 2025. Onsite gas engines raise it 141.5 percent in the same case. In a higher-demand grid-mix scenario, HARC says nitrogen oxides could rise 136 percent and approach 2004 levels, with fine particles back at 2006 volumes. These are scenarios, not a build schedule.",
+  "friendlySummary": "The Houston Advanced Research Center modeled four ways of powering new Texas data centers, and three guesses about how much power they will need, through 2031. In the grid planner's case, about 24 gigawatts by 2031, grid power alone raises nitrogen oxides 19.5 percent from 2025. Adding onsite solar and wind leaves that pollutant 2.9 percent below 2025. Gas engines on site raise it 141.5 percent in the same case. In a higher-demand case that uses the expected grid mix, the center says nitrogen oxides could rise 136 percent, back toward 2004 levels, and fine particles could return to 2006 levels. These are scenarios, not a construction schedule.",
+  "whyItMatters": "If you live near a proposed data center, or you are deciding whether a site should bring its own gas engines, the air outcome in this model depends more on the power source than on the announcement. The cleanest mix still emits more than a world with no new data centers. The dirtiest mix can erase years of gains. The report does not say which path Texas will take, and many announced projects will slip or be cancelled.",
+  "friendlyWhyItMatters": "If you live near a proposed data center, or you are deciding whether a site should bring its own gas engines, the air result in this model depends more on the power source than on the press release. Even the cleanest mix still pollutes more than a world with no new data centers. The dirtiest mix can undo years of cleaner air. The report does not say which path Texas will take. Many announced projects will be delayed or cancelled.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}

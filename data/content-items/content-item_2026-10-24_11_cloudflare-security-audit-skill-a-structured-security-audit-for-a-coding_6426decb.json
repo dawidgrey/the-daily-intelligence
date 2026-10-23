@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-24_11_cloudflare-security-audit-skill-a-structured-security-audit-for-a-coding_6426decb",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/cloudflare/security-audit-skill",
+  "canonicalUrl": "https://github.com/cloudflare/security-audit-skill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-23T20:09:46Z",
+  "createdAtUtc": "2026-10-23T20:09:46Z",
+  "updatedAtUtc": "2026-10-23T20:09:46Z",
+  "title": "cloudflare/security-audit-skill: a structured security audit for a coding agent",
+  "friendlyTitle": "security-audit-skill makes a coding agent write a checked security report",
+  "summary": "security-audit-skill is a MIT-licensed skill that runs a coding agent through a fixed audit of a repository: map the trust boundaries, look for gaps in coverage, and write findings as structured records. A separate agent has to try to disprove a finding before it can be marked confirmed. Cloudflare says this skill is the single-repo starting point for the harness behind its vulnerability-discovery work. GitHub's daily trending list had it at 2,706 stars today. The repository has 41,800 stars.",
+  "friendlySummary": "security-audit-skill is a free skill that walks a coding agent through a fixed audit of a code repository. It maps where trust changes, looks for gaps, and writes findings as structured records. A second agent has to try to disprove a finding before it can be marked confirmed. Cloudflare says this skill is the starting point for the system it uses to find vulnerabilities. GitHub's daily trending list had it at 2,706 stars today. The repository has 41,800 stars. The license is MIT.",
+  "whyItMatters": "If you want an agent to review code you are allowed to test, this gives you a coverage ledger and a findings file instead of a chat transcript. The independent check is the useful part: a candidate is not confirmed until a fresh agent fails to knock it down. It is not a scanner you point at someone else's system.",
+  "friendlyWhyItMatters": "If you want an agent to review code you are allowed to test, this gives you a coverage record and a findings file, not just a chat. The useful part is the second check: a finding is not confirmed until a fresh agent fails to knock it down. Do not point it at a system you do not own.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-24"
+  }
+}
