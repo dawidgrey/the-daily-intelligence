@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_04_junior-patent-lawyers-get-better-drafts-with-ai-then-lose-the-gain-when_66fd61cd",
+  "sourceKind": "research",
+  "sourceName": "NBER",
+  "sourceUrl": "https://www.nber.org/papers/w35720",
+  "canonicalUrl": "https://www.nber.org/papers/w35720",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "Junior patent lawyers get better drafts with AI, then lose the gain when it is taken away",
+  "friendlyTitle": "Junior patent lawyers write better drafts with AI. The gain does not stay when the AI is removed.",
+  "summary": "A pre-registered three-month trial gave 133 patent lawyers at eleven U.S. firms access to an unreleased Google Labs drafting assistant. Blinded attorneys scored the work. AI access raised draft quality by 0.34 standard deviations at 10 days and 0.38 at 90 days, with larger gains for juniors. When everyone then redlined a draft with no AI, treated lawyers beat controls by 0.32 standard deviations, but that advantage sat entirely with seniors, at 0.45. Juniors showed no average gain. Google paid the direct costs, and several authors are Google employees.",
+  "friendlySummary": "A three-month trial gave 133 patent lawyers at eleven U.S. firms access to an unreleased Google drafting assistant. Other lawyers scored the work without knowing who had used AI. AI access raised draft quality by 0.34 standard deviations after 10 days and 0.38 after 90 days. Juniors gained more. Then everyone reviewed a draft with no AI. Lawyers who had used the assistant scored 0.32 standard deviations higher, but that advantage was only among senior lawyers, at 0.45. Juniors showed no average gain. Google paid for the experiment, and several authors work at Google.",
+  "whyItMatters": "If you are using an assistant to close the gap with a senior colleague, this trial says the draft can improve while the skill does not automatically stick. The authors' reading is that some foundation of expertise may be what lets practice with AI become judgment without it. The sample is small, the firms are not typical of every profession, and three months is short next to the years it takes to learn patent work. It is still a field experiment, not a demo.",
+  "friendlyWhyItMatters": "If you use an assistant to catch up with a more experienced colleague, this trial says the draft can get better while the skill does not automatically stay. The authors think some existing expertise may be what lets practice with AI become judgment without it. The sample is small, these firms are not every workplace, and three months is short next to the years it takes to learn this work. It is still a real field trial, not a demo.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

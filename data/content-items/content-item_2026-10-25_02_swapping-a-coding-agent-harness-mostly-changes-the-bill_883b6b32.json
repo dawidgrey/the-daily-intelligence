@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_02_swapping-a-coding-agent-harness-mostly-changes-the-bill_883b6b32",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2610.04433",
+  "canonicalUrl": "https://arxiv.org/abs/2610.04433",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "Swapping a coding-agent harness mostly changes the bill",
+  "friendlyTitle": "A fancier coding-agent wrapper mostly costs more tokens",
+  "summary": "Yangze Liu and Zhongyi Han, at Shandong University, ran five models through Claude Code, mini-SWE-agent, and OpenCode on SWE-bench Verified, then reran the same setups to see how much a score moves when nothing else changes. On 447 tasks, Claude Code and mini-SWE-agent, the heaviest and lightest harnesses, sat within five points. Swapping harnesses flipped the result on 13 percent of tasks, the same rate as a plain rerun. OpenCode trailed by up to nine points. With the same model and the same price list, cost per task differed by up to three times, mostly because of the system prompt and tool descriptions sent on every step.",
+  "friendlySummary": "Two researchers at Shandong University ran five models through three coding-agent wrappers: Claude Code, mini-SWE-agent, and OpenCode. They used SWE-bench Verified, then ran the same setups again to see how much the score moves when nothing else changes. On 447 tasks, the heaviest wrapper and the lightest one landed within five points. Changing the wrapper flipped the result on 13 percent of tasks. Running the same wrapper twice flipped 13 percent too. OpenCode scored up to nine points lower. With the same model and the same prices, one task could cost up to three times more, mostly because of the long instructions sent on every step.",
+  "whyItMatters": "If a vendor says a new agent wrapper added two points, that gap can be smaller than the noise of running the test again. The part you can budget for is the bill. A long preamble is paid on every step. The authors also threw out early web-enabled runs after some models fetched the known fix from GitHub instead of solving the task. A leaderboard that leaves the network on is not measuring the harness.",
+  "friendlyWhyItMatters": "If a company says a new agent wrapper added two points, that gap can be smaller than the noise of running the test again. The part you can plan for is the bill. A long opening prompt is paid on every step. The researchers also threw out early runs that had web access, after some models copied the known fix from GitHub instead of solving the task. A scoreboard that leaves the network on is not measuring the wrapper.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_12_makecindy-cindy-a-local-client-that-keeps-the-harness-while-the-model-ch_7c213e5a",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/makecindy/cindy",
+  "canonicalUrl": "https://github.com/makecindy/cindy",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "makecindy/cindy: a local client that keeps the harness while the model changes",
+  "friendlyTitle": "Cindy is a local app that can switch coding agents without losing the workspace",
+  "summary": "Cindy is an Apache-2.0 desktop and mobile client for an AI agent that runs on your machine. The first harnesses it supports are Claude Code and Codex. You can sign in to Cindy's hosted service, reuse a coding plan you already pay for, bring your own API keys, or use local models. Skipping sign-in runs local agents and turns off server-backed features. The cloud backend is not in this repository. Version 0.1.115 shipped on 23 October. GitHub's daily TypeScript trending list had it at 471 stars today. The repository has 4,005 stars.",
+  "friendlySummary": "Cindy is a free desktop and mobile app for an AI agent that runs on your own computer. The first wrappers it supports are Claude Code and Codex. You can sign in to Cindy's paid service, reuse a coding plan you already pay for, bring your own API keys, or use local models. If you skip sign-in, local agents still run, and the server features turn off. The cloud backend is not in this repository. Version 0.1.115 shipped on 23 October. GitHub's daily TypeScript trending list had it at 471 stars today. The repository has 4,005 stars. The license is Apache-2.0.",
+  "whyItMatters": "If you already pay for Claude Code or Codex and want one local app that can switch model or harness mid-task without losing the workspace, this is the client for that. Read the privacy note before you use an official build: signed-in desktop builds send product analytics, not chat or file contents. Building from source can strip that.",
+  "friendlyWhyItMatters": "If you already pay for Claude Code or Codex and want one local app that can switch model or wrapper in the middle of a task without losing the workspace, this is that client. Read the privacy note before you use an official build. Signed-in desktop builds send product analytics. They do not send chat or file contents. Building from source can turn that off.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

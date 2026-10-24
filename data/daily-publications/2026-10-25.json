@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-25",
+  "slug": "2026-10-25",
+  "status": "published",
+  "publicationDateUtc": "2026-10-24T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A voice you cannot download yet, a harness that mostly buys tokens, and a binder that is not a drug",
+  "friendlyHeader": "A new voice model is not for download yet. A binder is not a medicine.",
+  "summary": "Today's issue is about what you can actually use, and what the claim leaves out. Block has shown Dessa, a speech-only conversation model that runs on a high-end laptop, and is not offering it to the public yet. A study finds that swapping coding-agent harnesses moves scores about as much as running the same setup twice, while the bill can triple. The Verge reports that a widely shared drug-design experiment produced binders, not a scorpion antivenom. A patent-lawyer trial, a market chart, and a database check all point the same way: the useful question is what is still true after the model says it is done.",
+  "friendlySummary": "Today is about what you can actually use, and what the claim leaves out. Block has shown Dessa, a conversation model trained only on speech. It can run on a high-end laptop. The public cannot download it yet. A study finds that changing the wrapper around a coding agent barely moves the score, but it can triple the bill. The Verge reports that a widely shared drug experiment made proteins that stick to a toxin. That is not an antivenom. A lawyer trial, a market chart, and a database check all say the same thing. Ask what is still true after the model says it is finished.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-25_01_block-shows-dessa-a-speech-only-model-it-is-not-releasing-yet_2ca67924",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_02_swapping-a-coding-agent-harness-mostly-changes-the-bill_883b6b32",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_03_claude-did-not-invent-a-scorpion-antivenom_ff67e472",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_04_junior-patent-lawyers-get-better-drafts-with-ai-then-lose-the-gain-when_66fd61cd",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_05_apollo-s-charts-still-show-no-ai-payoff-outside-the-tech-giants_074b7d5e",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_06_microsoft-trains-an-agent-on-the-database-not-on-the-claim-that-it-is-do_95eb6975",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_07_meta-delays-new-business-terms-to-20-november-after-publisher-pushback_d34a3f37",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_08_outside-researchers-question-anthropic-s-picture-of-the-ai-workplace_320353a9",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_09_a-web-rebuilt-for-agents-can-get-worse-for-the-person-still-browsing_fbbcdbe5",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_10_mathematicians-open-a-public-edit-of-openai-s-math-write-ups_f0910db6",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_11_anthropics-sandbox-runtime-a-file-and-network-fence-without-a-container_8cd0995e",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_12_makecindy-cindy-a-local-client-that-keeps-the-harness-while-the-model-ch_7c213e5a",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-25_13_bendlang-bend-a-language-that-tries-to-reject-an-agent-s-unproven-code_41799f4b",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-25.json",
+    "itemCount": 13
+  }
+}

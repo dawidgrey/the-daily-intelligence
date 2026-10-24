@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_03_claude-did-not-invent-a-scorpion-antivenom_ff67e472",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "Claude did not invent a scorpion antivenom",
+  "friendlyTitle": "Claude did not invent a scorpion antivenom",
+  "summary": "The Verge reports that Citrini Research, working with Anthropic, asked an unreleased Claude model to design proteins that might bind scorpion toxins. Anthropic's own account says 17 of 211 lab-tested designs bound to one of four toxins, and that none bound more than one. Anthropic says it has not tested whether those binders stop the toxin in cells or in animals, and does not claim an antivenom. Experts told The Verge that finding a binder is the easier step. Turning it into a safe medicine is the part this experiment did not do.",
+  "friendlySummary": "The Verge reports that an investment firm, Citrini, worked with Anthropic to see if an unreleased Claude model could design proteins that stick to scorpion toxins. Anthropic's own account says 17 of 211 lab-tested designs stuck to one of four toxins. None stuck to more than one. Anthropic says it has not tested whether those proteins stop the toxin in cells or in animals. It does not claim an antivenom. Experts told The Verge that finding something that sticks is the easier step. Making a safe medicine is the step this experiment did not take.",
+  "whyItMatters": "If a post says an AI lab invented a drug over a weekend, the check is the missing experiment, not the candidate count. Binding in a lab assay is not neutralization, and neutralization is not a treatment you can give a child. The Verge also notes Anthropic covered a compute bill just under $50,000, and that the outside lab tests cost on the order of $150,000. The AI portion was not free.",
+  "friendlyWhyItMatters": "If a post says an AI lab invented a drug over a weekend, look for the test that is missing, not the number of candidates. Sticking to a toxin in a lab test is not the same as stopping the toxin. Stopping the toxin is not the same as a treatment you can give a person. The Verge also notes Anthropic paid a compute bill just under $50,000, and the outside lab tests cost about $150,000. The AI part was not free.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-23T20:09:46Z",
+  "generatedAtUtc": "2026-10-24T20:08:55Z",
   "items": [
     {
-      "id": "content-item_2026-10-24_01_moonshot-releases-kimi-k3-1-pro-with-open-weights-due-by-4-november_1fd8476b",
+      "id": "content-item_2026-10-25_01_block-shows-dessa-a-speech-only-model-it-is-not-releasing-yet_2ca67924",
       "sourceKind": "product",
-      "sourceName": "Moonshot AI",
-      "title": "Moonshot releases Kimi K3.1 Pro, with open weights due by 4 November",
-      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      "sourceName": "Block",
+      "title": "Block shows Dessa, a speech-only model it is not releasing yet",
+      "sourceUrl": "https://block.xyz/dessa"
     },
     {
-      "id": "content-item_2026-10-24_02_claude-writes-formal-proofs-for-123-open-source-libraries_1360bd8e",
+      "id": "content-item_2026-10-25_02_swapping-a-coding-agent-harness-mostly-changes-the-bill_883b6b32",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Claude writes formal proofs for 123 open-source libraries",
-      "sourceUrl": "https://www.anthropic.com/research/formal-verification"
+      "sourceName": "arXiv",
+      "title": "Swapping a coding-agent harness mostly changes the bill",
+      "sourceUrl": "https://arxiv.org/abs/2610.04433"
     },
     {
-      "id": "content-item_2026-10-24_03_openai-keeps-frontier-training-off-the-live-internet_48e2274f",
+      "id": "content-item_2026-10-25_03_claude-did-not-invent-a-scorpion-antivenom_ff67e472",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI keeps frontier training off the live internet",
-      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      "sourceName": "The Verge",
+      "title": "Claude did not invent a scorpion antivenom",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom"
     },
     {
-      "id": "content-item_2026-10-24_04_anthropic-reviews-the-test-run-in-which-mythos-5-pressured-a-real-mainta_bf6986b3",
+      "id": "content-item_2026-10-25_04_junior-patent-lawyers-get-better-drafts-with-ai-then-lose-the-gain-when_66fd61cd",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic reviews the test run in which Mythos 5 pressured a real maintainer",
-      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+      "sourceName": "NBER",
+      "title": "Junior patent lawyers get better drafts with AI, then lose the gain when it is taken away",
+      "sourceUrl": "https://www.nber.org/papers/w35720"
     },
     {
-      "id": "content-item_2026-10-24_05_metr-says-a-summer-audit-found-gaps-in-openai-s-agent-monitoring_b30896a8",
+      "id": "content-item_2026-10-25_05_apollo-s-charts-still-show-no-ai-payoff-outside-the-tech-giants_074b7d5e",
+      "sourceKind": "article",
+      "sourceName": "Apollo",
+      "title": "Apollo's charts still show no AI payoff outside the tech giants",
+      "sourceUrl": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+    },
+    {
+      "id": "content-item_2026-10-25_06_microsoft-trains-an-agent-on-the-database-not-on-the-claim-that-it-is-do_95eb6975",
       "sourceKind": "research",
-      "sourceName": "METR",
-      "title": "METR says a summer audit found gaps in OpenAI's agent monitoring",
-      "sourceUrl": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"
-    },
-    {
-      "id": "content-item_2026-10-24_06_openai-acquires-orchestra-bio-and-folds-it-into-rosalind_01b1cada",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI acquires Orchestra Bio and folds it into Rosalind",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
-    },
-    {
-      "id": "content-item_2026-10-24_07_microsoft-s-diagnostic-agent-beats-physicians-in-a-simulation-not-in-a-c_792cc20f",
-      "sourceKind": "research",
-      "sourceName": "Microsoft AI",
-      "title": "Microsoft's diagnostic agent beats physicians in a simulation, not in a clinic",
-      "sourceUrl": "https://microsoft.ai/news/building-medical-superintelligence/"
-    },
-    {
-      "id": "content-item_2026-10-24_08_deepmind-maps-every-10-meter-patch-of-forest-by-type-not-just-tree-cover_e66e9796",
-      "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "DeepMind maps every 10-meter patch of forest by type, not just tree cover",
-      "sourceUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-    },
-    {
-      "id": "content-item_2026-10-24_09_hugging-face-adds-a-lookup-for-which-models-actually-run-on-trainium_64309091",
-      "sourceKind": "product",
       "sourceName": "Hugging Face",
-      "title": "Hugging Face adds a lookup for which models actually run on Trainium",
-      "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support"
+      "title": "Microsoft trains an agent on the database, not on the claim that it is done",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training"
     },
     {
-      "id": "content-item_2026-10-24_10_a-texas-study-maps-how-data-center-power-choices-change-the-air_d0586153",
-      "sourceKind": "research",
-      "sourceName": "Houston Advanced Research Center",
-      "title": "A Texas study maps how data-center power choices change the air",
-      "sourceUrl": "https://harcresearch.org/research/texas-data-center-air-quality/"
+      "id": "content-item_2026-10-25_07_meta-delays-new-business-terms-to-20-november-after-publisher-pushback_d34a3f37",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Meta delays new business terms to 20 November after publisher pushback",
+      "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
     },
     {
-      "id": "content-item_2026-10-24_11_cloudflare-security-audit-skill-a-structured-security-audit-for-a-coding_6426decb",
+      "id": "content-item_2026-10-25_08_outside-researchers-question-anthropic-s-picture-of-the-ai-workplace_320353a9",
+      "sourceKind": "article",
+      "sourceName": "The Guardian",
+      "title": "Outside researchers question Anthropic's picture of the AI workplace",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+    },
+    {
+      "id": "content-item_2026-10-25_09_a-web-rebuilt-for-agents-can-get-worse-for-the-person-still-browsing_fbbcdbe5",
+      "sourceKind": "article",
+      "sourceName": "MIT Technology Review",
+      "title": "A web rebuilt for agents can get worse for the person still browsing",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+    },
+    {
+      "id": "content-item_2026-10-25_10_mathematicians-open-a-public-edit-of-openai-s-math-write-ups_f0910db6",
+      "sourceKind": "article",
+      "sourceName": "Terence Tao",
+      "title": "Mathematicians open a public edit of OpenAI's math write-ups",
+      "sourceUrl": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
+    },
+    {
+      "id": "content-item_2026-10-25_11_anthropics-sandbox-runtime-a-file-and-network-fence-without-a-container_8cd0995e",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "cloudflare/security-audit-skill: a structured security audit for a coding agent",
-      "sourceUrl": "https://github.com/cloudflare/security-audit-skill"
+      "title": "anthropics/sandbox-runtime: a file and network fence without a container",
+      "sourceUrl": "https://github.com/anthropics/sandbox-runtime"
     },
     {
-      "id": "content-item_2026-10-24_12_nvidia-openshell-a-policy-runtime-for-agent-fleets_4dcdb955",
+      "id": "content-item_2026-10-25_12_makecindy-cindy-a-local-client-that-keeps-the-harness-while-the-model-ch_7c213e5a",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "NVIDIA/OpenShell: a policy runtime for agent fleets",
-      "sourceUrl": "https://github.com/NVIDIA/OpenShell"
+      "title": "makecindy/cindy: a local client that keeps the harness while the model changes",
+      "sourceUrl": "https://github.com/makecindy/cindy"
     },
     {
-      "id": "content-item_2026-10-24_13_pbakaus-impeccable-design-rules-a-coding-agent-can-run-locally_fa436184",
+      "id": "content-item_2026-10-25_13_bendlang-bend-a-language-that-tries-to-reject-an-agent-s-unproven-code_41799f4b",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "pbakaus/impeccable: design rules a coding agent can run locally",
-      "sourceUrl": "https://github.com/pbakaus/impeccable"
+      "title": "bendlang/bend: a language that tries to reject an agent's unproven code",
+      "sourceUrl": "https://github.com/bendlang/bend"
     }
   ]
 }

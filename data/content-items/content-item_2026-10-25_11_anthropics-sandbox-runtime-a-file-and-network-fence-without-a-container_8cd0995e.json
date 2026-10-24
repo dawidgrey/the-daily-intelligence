@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_11_anthropics-sandbox-runtime-a-file-and-network-fence-without-a-container_8cd0995e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/anthropics/sandbox-runtime",
+  "canonicalUrl": "https://github.com/anthropics/sandbox-runtime",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "anthropics/sandbox-runtime: a file and network fence without a container",
+  "friendlyTitle": "sandbox-runtime limits the files and network a process can touch",
+  "summary": "sandbox-runtime is an Apache-2.0 tool that enforces filesystem and network limits on a process at the operating-system level, without requiring a container. Anthropic uses this class of fence around coding-agent commands. The repository was updated on 24 October. GitHub's daily TypeScript trending list had it at 592 stars today. The repository has 6,435 stars.",
+  "friendlySummary": "sandbox-runtime is a free tool that limits which files and network hosts a process can use. It does this at the operating-system level, without requiring a container. Anthropic uses this kind of fence around coding-agent commands. The repository was updated on 24 October. GitHub's daily TypeScript trending list had it at 592 stars today. The repository has 6,435 stars. The license is Apache-2.0.",
+  "whyItMatters": "If an agent can run commands on your machine, this is a way to say which directories and which hosts that process may touch, instead of hoping the prompt holds. You still have to write the allow and deny rules. A sandbox does not decide whether the task itself was a good idea.",
+  "friendlyWhyItMatters": "If an agent can run commands on your machine, this is a way to say which folders and which sites that process may touch, instead of hoping the instructions hold. You still have to write the allow and deny rules. A sandbox does not decide whether the task itself was a good idea.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

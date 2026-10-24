@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-25_06_microsoft-trains-an-agent-on-the-database-not-on-the-claim-that-it-is-do_95eb6975",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "canonicalUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-24T20:08:55Z",
+  "createdAtUtc": "2026-10-24T20:08:55Z",
+  "updatedAtUtc": "2026-10-24T20:08:55Z",
+  "title": "Microsoft trains an agent on the database, not on the claim that it is done",
+  "friendlyTitle": "Microsoft trained an agent on the database, not on the message that says it is done",
+  "summary": "Microsoft and Hugging Face report a follow-up to ThinkingBox, which grades an agent by the database it leaves behind rather than by the message that says the task is finished. They used those checks as rewards and fine-tuned Qwen3.8-27B for 50 steps on tasks outside the 507-task benchmark. Tasks completed correctly on all 20 attempts rose from 38 to 107. Average success rose from 51.70 percent to 60.78 percent. Tasks solved at least once fell from 453 to 446.",
+  "friendlySummary": "Microsoft and Hugging Face report a follow-up to ThinkingBox. That tool grades an agent by the database it leaves behind, not by the message that says the task is finished. They used those checks as rewards and fine-tuned Qwen3.8-27B for 50 steps on tasks outside the 507-task test. Tasks finished correctly on all 20 tries rose from 38 to 107. Average success rose from 51.70 percent to 60.78 percent. Tasks solved at least once fell from 453 to 446.",
+  "whyItMatters": "If an agent can close a ticket, change a booking, or issue a refund, the record that matters is the row it wrote, not the sentence it sent you. This run improved repeatable success and slightly narrowed coverage. A model that sometimes gets a task right is not the same as a model that gets it right every time. The training tasks were held out from the benchmark, which is the part that makes the gain worth reading.",
+  "friendlyWhyItMatters": "If an agent can close a ticket, change a booking, or issue a refund, the record that matters is the row it wrote, not the sentence it sent you. This run made success more repeatable and slightly narrowed how many tasks it could solve at least once. A model that sometimes gets a task right is not the same as a model that gets it right every time. The practice tasks were kept out of the test, which is what makes the gain worth reading.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-25"
+  }
+}

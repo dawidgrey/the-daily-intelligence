@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-23T20:09:47Z",
+  "generatedAtUtc": "2026-10-24T20:08:56Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-25",
+      "slug": "2026-10-25",
+      "status": "published",
+      "publicationDateUtc": "2026-10-24T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A voice you cannot download yet, a harness that mostly buys tokens, and a binder that is not a drug",
+      "friendlyHeader": "A new voice model is not for download yet. A binder is not a medicine.",
+      "summary": "Today's issue is about what you can actually use, and what the claim leaves out. Block has shown Dessa, a speech-only conversation model that runs on a high-end laptop, and is not offering it to the public yet. A study finds that swapping coding-agent harnesses moves scores about as much as running the same setup twice, while the bill can triple. The Verge reports that a widely shared drug-design experiment produced binders, not a scorpion antivenom. A patent-lawyer trial, a market chart, and a database check all point the same way: the useful question is what is still true after the model says it is done.",
+      "friendlySummary": "Today is about what you can actually use, and what the claim leaves out. Block has shown Dessa, a conversation model trained only on speech. It can run on a high-end laptop. The public cannot download it yet. A study finds that changing the wrapper around a coding agent barely moves the score, but it can triple the bill. The Verge reports that a widely shared drug experiment made proteins that stick to a toxin. That is not an antivenom. A lawyer trial, a market chart, and a database check all say the same thing. Ask what is still true after the model says it is finished.",
+      "itemCount": 13,
+      "href": "issues/2026-10-25.html",
+      "dataUrl": "data/daily-publications/2026-10-25.json"
+    },
     {
       "id": "daily-publication_2026-10-24",
       "slug": "2026-10-24",
