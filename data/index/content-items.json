@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-24T20:08:55Z",
+  "generatedAtUtc": "2026-10-25T20:08:30Z",
   "items": [
     {
-      "id": "content-item_2026-10-25_01_block-shows-dessa-a-speech-only-model-it-is-not-releasing-yet_2ca67924",
-      "sourceKind": "product",
-      "sourceName": "Block",
-      "title": "Block shows Dessa, a speech-only model it is not releasing yet",
-      "sourceUrl": "https://block.xyz/dessa"
+      "id": "content-item_2026-10-26_01_a-2015-image-network-beat-two-frontier-chatbots-at-naming-skin-lesions_1dc75a32",
+      "sourceKind": "research",
+      "sourceName": "Lynch Lab",
+      "title": "A 2015 image network beat two frontier chatbots at naming skin lesions",
+      "sourceUrl": "https://lynchlab.net/llm-skin-cancer"
     },
     {
-      "id": "content-item_2026-10-25_02_swapping-a-coding-agent-harness-mostly-changes-the-bill_883b6b32",
+      "id": "content-item_2026-10-26_02_anthropic-says-one-agent-with-skills-often-beats-a-fleet-of-sub-agents_6d403bbe",
+      "sourceKind": "article",
+      "sourceName": "Claude by Anthropic",
+      "title": "Anthropic says one agent with skills often beats a fleet of sub-agents",
+      "sourceUrl": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop"
+    },
+    {
+      "id": "content-item_2026-10-26_03_a-fields-medalist-at-berkeley-has-stopped-grading-homework-for-correctne_2af7003f",
+      "sourceKind": "article",
+      "sourceName": "The Daily Californian",
+      "title": "A Fields medalist at Berkeley has stopped grading homework for correctness",
+      "sourceUrl": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+    },
+    {
+      "id": "content-item_2026-10-26_04_nvidia-opens-flora-the-model-suite-it-uses-to-label-robot-video_e5f40dbd",
+      "sourceKind": "research",
+      "sourceName": "NVIDIA Research",
+      "title": "Nvidia opens Flora, the model suite it uses to label robot video",
+      "sourceUrl": "https://research.nvidia.com/labs/gear/flora/"
+    },
+    {
+      "id": "content-item_2026-10-26_05_openmobile-2-trains-phone-agents-on-more-than-110-resettable-apps_48df2440",
       "sourceKind": "research",
       "sourceName": "arXiv",
-      "title": "Swapping a coding-agent harness mostly changes the bill",
-      "sourceUrl": "https://arxiv.org/abs/2610.04433"
+      "title": "OpenMobile-2 trains phone agents on more than 110 resettable apps",
+      "sourceUrl": "https://arxiv.org/abs/2610.14157"
     },
     {
-      "id": "content-item_2026-10-25_03_claude-did-not-invent-a-scorpion-antivenom_ff67e472",
+      "id": "content-item_2026-10-26_06_coding-agents-missed-hazards-in-a-language-that-only-looked-familiar_2cfead09",
       "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Claude did not invent a scorpion antivenom",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom"
+      "sourceName": "Csongor Kiss",
+      "title": "Coding agents missed hazards in a language that only looked familiar",
+      "sourceUrl": "https://blog.csongor.co.uk/loom/"
     },
     {
-      "id": "content-item_2026-10-25_04_junior-patent-lawyers-get-better-drafts-with-ai-then-lose-the-gain-when_66fd61cd",
-      "sourceKind": "research",
-      "sourceName": "NBER",
-      "title": "Junior patent lawyers get better drafts with AI, then lose the gain when it is taken away",
-      "sourceUrl": "https://www.nber.org/papers/w35720"
-    },
-    {
-      "id": "content-item_2026-10-25_05_apollo-s-charts-still-show-no-ai-payoff-outside-the-tech-giants_074b7d5e",
-      "sourceKind": "article",
-      "sourceName": "Apollo",
-      "title": "Apollo's charts still show no AI payoff outside the tech giants",
-      "sourceUrl": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
-    },
-    {
-      "id": "content-item_2026-10-25_06_microsoft-trains-an-agent-on-the-database-not-on-the-claim-that-it-is-do_95eb6975",
-      "sourceKind": "research",
+      "id": "content-item_2026-10-26_07_hurston-1-is-an-open-text-to-speech-model-aimed-at-the-phone-line_a9e08b18",
+      "sourceKind": "product",
       "sourceName": "Hugging Face",
-      "title": "Microsoft trains an agent on the database, not on the claim that it is done",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+      "title": "Hurston-1 is an open text-to-speech model aimed at the phone line",
+      "sourceUrl": "https://huggingface.co/destined/hurston-1"
     },
     {
-      "id": "content-item_2026-10-25_07_meta-delays-new-business-terms-to-20-november-after-publisher-pushback_d34a3f37",
+      "id": "content-item_2026-10-26_08_people-are-asking-agents-to-strip-the-smart-tv-experts-say-use-the-setti_3953fd97",
+      "sourceKind": "article",
+      "sourceName": "CBC News",
+      "title": "People are asking agents to strip the smart TV. Experts say use the settings.",
+      "sourceUrl": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179"
+    },
+    {
+      "id": "content-item_2026-10-26_09_pennsylvania-will-require-a-label-on-ads-that-ai-significantly-changed_09a5dda4",
+      "sourceKind": "regulation",
+      "sourceName": "The Verge",
+      "title": "Pennsylvania will require a label on ads that AI significantly changed",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "id": "content-item_2026-10-26_10_r-opensource-s-new-rules-bar-ai-projects-new-projects-and-non-english-po_b366ba77",
       "sourceKind": "article",
       "sourceName": "The Verge",
-      "title": "Meta delays new business terms to 20 November after publisher pushback",
-      "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+      "title": "r/opensource's new rules bar AI projects, new projects, and non-English posts",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
     },
     {
-      "id": "content-item_2026-10-25_08_outside-researchers-question-anthropic-s-picture-of-the-ai-workplace_320353a9",
-      "sourceKind": "article",
-      "sourceName": "The Guardian",
-      "title": "Outside researchers question Anthropic's picture of the AI workplace",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
-    },
-    {
-      "id": "content-item_2026-10-25_09_a-web-rebuilt-for-agents-can-get-worse-for-the-person-still-browsing_fbbcdbe5",
-      "sourceKind": "article",
-      "sourceName": "MIT Technology Review",
-      "title": "A web rebuilt for agents can get worse for the person still browsing",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
-    },
-    {
-      "id": "content-item_2026-10-25_10_mathematicians-open-a-public-edit-of-openai-s-math-write-ups_f0910db6",
-      "sourceKind": "article",
-      "sourceName": "Terence Tao",
-      "title": "Mathematicians open a public edit of OpenAI's math write-ups",
-      "sourceUrl": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
-    },
-    {
-      "id": "content-item_2026-10-25_11_anthropics-sandbox-runtime-a-file-and-network-fence-without-a-container_8cd0995e",
+      "id": "content-item_2026-10-26_11_google-gemini-gemini-cli-google-s-terminal-agent-with-a-handover-note-on_9ad5ce51",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "anthropics/sandbox-runtime: a file and network fence without a container",
-      "sourceUrl": "https://github.com/anthropics/sandbox-runtime"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "google-gemini/gemini-cli: Google's terminal agent, with a handover note on the readme",
+      "sourceUrl": "https://github.com/google-gemini/gemini-cli"
     },
     {
-      "id": "content-item_2026-10-25_12_makecindy-cindy-a-local-client-that-keeps-the-harness-while-the-model-ch_7c213e5a",
+      "id": "content-item_2026-10-26_12_agricidaniel-claude-seo-a-large-seo-skill-pack-for-claude-code_117d2cb5",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "makecindy/cindy: a local client that keeps the harness while the model changes",
-      "sourceUrl": "https://github.com/makecindy/cindy"
+      "sourceName": "GitHub trending Python",
+      "title": "AgriciDaniel/claude-seo: a large SEO skill pack for Claude Code",
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo"
     },
     {
-      "id": "content-item_2026-10-25_13_bendlang-bend-a-language-that-tries-to-reject-an-agent-s-unproven-code_41799f4b",
+      "id": "content-item_2026-10-26_13_basketikun-infinite-canvas-an-open-canvas-for-image-video-and-agent-work_9356a17d",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "bendlang/bend: a language that tries to reject an agent's unproven code",
-      "sourceUrl": "https://github.com/bendlang/bend"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "basketikun/infinite-canvas: an open canvas for image, video, and agent work",
+      "sourceUrl": "https://github.com/basketikun/infinite-canvas"
     }
   ]
 }

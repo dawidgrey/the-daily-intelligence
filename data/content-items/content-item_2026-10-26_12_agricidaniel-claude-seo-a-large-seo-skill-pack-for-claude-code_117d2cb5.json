@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_12_agricidaniel-claude-seo-a-large-seo-skill-pack-for-claude-code_117d2cb5",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/AgriciDaniel/claude-seo",
+  "canonicalUrl": "https://github.com/AgriciDaniel/claude-seo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "AgriciDaniel/claude-seo: a large SEO skill pack for Claude Code",
+  "friendlyTitle": "claude-seo is a large checklist an agent can load for site SEO",
+  "summary": "claude-seo is an MIT-licensed skill pack for Claude Code, with about 20,600 stars and 179 stars today, second among AI repositories on today's Python trending list that this newsletter has not already covered. The author describes 26 sub-skills and 19 sub-agents covering technical SEO, schema, local and international SEO, agent-readable site files, and PDF or Excel reports, plus optional extensions for live SEO data.",
+  "friendlySummary": "claude-seo is an open skill pack for Claude Code. It has about 20,600 stars and gained 179 today. That puts it second, among AI repositories on today's Python trending list, that this newsletter has not already covered. The author describes 26 sub-skills and 19 sub-agents. They cover technical SEO, structured data, local and international SEO, files that agents can read, and PDF or Excel reports. Optional add-ons pull in live SEO data.",
+  "whyItMatters": "If you already use Claude Code on a site, this is a structured checklist the agent can load instead of a one-line prompt that says \"do SEO.\" It will not move a ranking by itself. Given Anthropic's note today that a crowd of sub-agents can add latency and lose context, start with the skill you actually need — schema, a technical pass, a report — rather than turning all 19 loose on one page.",
+  "friendlyWhyItMatters": "If you already use Claude Code on a website, this is a structured checklist the agent can load. It is better than a one-line prompt that says \"do SEO.\" It will not move a ranking by itself. Anthropic said today that a crowd of sub-agents can add delay and lose context. Start with the skill you actually need, such as structured data, a technical pass, or a report. Do not turn all 19 loose on one page.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

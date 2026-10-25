@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_02_anthropic-says-one-agent-with-skills-often-beats-a-fleet-of-sub-agents_6d403bbe",
+  "sourceKind": "article",
+  "sourceName": "Claude by Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+  "canonicalUrl": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "Anthropic says one agent with skills often beats a fleet of sub-agents",
+  "friendlyTitle": "One agent that loads instructions as needed often beats a crowd of specialist agents",
+  "summary": "Anthropic's Applied AI team says that, across several enterprise deployments, a single agent that loads skills and tools only when needed frequently beat both a giant system prompt and a design built from specialist sub-agents, often at lower cost and latency. One customer with about a dozen specialist sub-agents inside a customer-facing agent found the split hard to keep on-brand, and about twice as slow as a single loop. Anthropic has published a migration kit that walks a team through folding one sub-agent at a time and checking the result.",
+  "friendlySummary": "Anthropic says that in several company deployments, one agent that pulls in extra instructions only when it needs them beat both a huge system prompt and a setup made of specialist sub-agents. It was often cheaper and faster too. One company had about a dozen specialist agents inside a customer-facing agent. That made a consistent voice hard to keep, and the single-agent version ran about twice as fast. Anthropic has published a kit for folding one sub-agent in at a time and checking the result.",
+  "whyItMatters": "If your agent setup has started to look like your org chart, the extra agents may be spending tokens on handoffs rather than on the task. Anthropic still wants sub-agents when one context window is measurably degrading, when work should run in parallel and then be thrown away, or when one agent cannot pick the right tool. The check is a small end-to-end eval, not a rewrite.",
+  "friendlyWhyItMatters": "If your agent setup has started to copy your org chart, the extra agents may be spending money on passing notes, not on the job. Anthropic still wants separate agents when one memory window is getting worse, when tasks should run side by side and then be discarded, or when one agent cannot pick the right tool. The useful move is a small test of the whole task, not a rewrite.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

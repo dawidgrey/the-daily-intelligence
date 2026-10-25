@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_06_coding-agents-missed-hazards-in-a-language-that-only-looked-familiar_2cfead09",
+  "sourceKind": "article",
+  "sourceName": "Csongor Kiss",
+  "sourceUrl": "https://blog.csongor.co.uk/loom/",
+  "canonicalUrl": "https://blog.csongor.co.uk/loom/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "Coding agents missed hazards in a language that only looked familiar",
+  "friendlyTitle": "Coding agents missed traps in a language that only looked familiar",
+  "summary": "Csongor Kiss built Loom, a small smart-contract language that looks like Move and then breaks three assumptions a reader would carry over: a signer can be stored, a transaction can replace an existing interface implementation, and a panic can be deferred until the value is used. Across 75 agent runs, no submission shipped a corrected pricing formula. Asking the agent to write an assumptions log raised the share that recognised at least one hazard, from 17 of 40 baseline runs to 25 of 35. Opus 5.5 recognised all three in every reviewed assumptions-log run. Eleven agents proposed the pricing fix. None shipped it.",
+  "friendlySummary": "Csongor Kiss built a small programming language called Loom. It looks like an existing smart-contract language, then breaks three assumptions a reader would carry over. A stored identity can outlive the transaction. A transaction can swap in different code. A failure can wait until a value is actually used. Across 75 agent runs, none shipped a corrected pricing formula. Asking the agent to write down its assumptions helped. At least one hazard was recognised in 25 of 35 of those runs, against 17 of 40 without the list. Opus 5.5 recognised all three in every reviewed run that used the list. Eleven agents proposed the pricing fix. None shipped it.",
+  "whyItMatters": "If you hand a coding agent a problem it has not seen, a confident explanation is not a warning. In this test, every contract whose agent missed a hazard was drained by the grader's exploit, and the write-up did not say the miss was coming. What helped was a list of claims about the runtime that could be tested. Higher effort settings did not reliably help. The samples are small, and the models used different harnesses.",
+  "friendlyWhyItMatters": "If you give a coding agent a problem it has not seen, a confident explanation is not a warning. In this test, every contract whose agent missed a hazard was drained by the grader's attack, and the write-up did not say the miss was coming. What helped was a list of claims about how the language actually behaves, claims you can test. Turning the effort setting up did not reliably help. The samples are small, and the models used different tool setups.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-24T20:08:56Z",
+  "generatedAtUtc": "2026-10-25T20:08:30Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-26",
+      "slug": "2026-10-26",
+      "status": "published",
+      "publicationDateUtc": "2026-10-25T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The chatbot named the spot wrong. The ad may soon have to say it was made by a model.",
+      "friendlyHeader": "A chatbot got the skin spot wrong. An old image model did better. That is still not a diagnosis.",
+      "summary": "Today's issue is about tools that look general and jobs that are not. A dermatologist's test found a 2015 image network beating GPT-6 Astra and Claude Fable 5.1 at naming biopsy-proven skin lesions. That is not a reason to skip a doctor: on whether a melanoma could be sent home, the chatbots were the more cautious ones. Anthropic says a pile of specialist sub-agents is often slower, and lossier, than one agent that loads a skill when it needs it. Nvidia has opened the models it uses to label robot video. Pennsylvania will require a label on ads that AI significantly changed.",
+      "friendlySummary": "Today is about tools that look general, and jobs that are not. A skin doctor tested two top chatbots against a small image model from 2015. The old model was better at naming real skin lesions. That does not mean you should skip a doctor. On the question of sending a melanoma home, the chatbots were more cautious. Anthropic says one agent that loads extra instructions only when needed often beats a crowd of specialist agents. Nvidia has opened the models it uses to label robot video. Pennsylvania will require a label on ads that AI has significantly changed.",
+      "itemCount": 13,
+      "href": "issues/2026-10-26.html",
+      "dataUrl": "data/daily-publications/2026-10-26.json"
+    },
     {
       "id": "daily-publication_2026-10-25",
       "slug": "2026-10-25",

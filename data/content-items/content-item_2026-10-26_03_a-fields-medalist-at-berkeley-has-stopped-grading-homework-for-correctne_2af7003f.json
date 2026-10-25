@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_03_a-fields-medalist-at-berkeley-has-stopped-grading-homework-for-correctne_2af7003f",
+  "sourceKind": "article",
+  "sourceName": "The Daily Californian",
+  "sourceUrl": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "canonicalUrl": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "A Fields medalist at Berkeley has stopped grading homework for correctness",
+  "friendlyTitle": "A top Berkeley mathematician has stopped grading homework for right answers",
+  "summary": "Richard Borcherds, a UC Berkeley mathematics professor and Fields medalist, told The Daily Californian that he now grades homework on completion, because students using AI were consistently receiving top scores and he saw no point in paying readers to grade for correctness. He called the new system not a very good one, and said he has no alternative yet. Campus has tried Turnitin and Rumi and decided those detectors are not good enough to standardise. Course AI rules remain up to each faculty member.",
+  "friendlySummary": "Richard Borcherds, a UC Berkeley maths professor and Fields medalist, told the campus paper he now grades homework for handing it in, not for getting it right. Students using AI were scoring at the top, and he saw no point in paying people to mark correctness. He said the new system is not a very good one, and that he has no better option yet. The campus tried two AI detectors, Turnitin and Rumi, and decided they were not good enough to require. Each teacher still sets the AI rules for their own class.",
+  "whyItMatters": "If you teach, or you are graded, the practical change is already local: a homework mark may no longer mean the work was right, only that it was handed in. Borcherds also said he no longer knows whether to send students into mathematics. That is his forecast, not a finding. The part you can use is the detector result: Berkeley tried two and would not standardise either.",
+  "friendlyWhyItMatters": "If you teach, or if you are being graded, a homework mark may no longer mean the work was right. It may only mean it was turned in. Borcherds also said he no longer knows whether to advise students to study maths. That is his guess, not a study. The part you can use is the detector result: Berkeley tried two and would not make either the campus standard.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

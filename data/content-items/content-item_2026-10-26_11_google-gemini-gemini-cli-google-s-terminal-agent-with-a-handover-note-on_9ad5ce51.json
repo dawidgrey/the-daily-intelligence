@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_11_google-gemini-gemini-cli-google-s-terminal-agent-with-a-handover-note-on_9ad5ce51",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/google-gemini/gemini-cli",
+  "canonicalUrl": "https://github.com/google-gemini/gemini-cli",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "google-gemini/gemini-cli: Google's terminal agent, with a handover note on the readme",
+  "friendlyTitle": "Gemini CLI is still the most-starred AI repo today. Google says most people should use the newer client.",
+  "summary": "Gemini CLI is Google's open-source terminal agent for Gemini, Apache-2.0, with about 108,000 stars and 825 stars today. It is still the most-starred AI repository on today's TypeScript trending list. The readme now says unpaid and Google One users were moved to Antigravity CLI on 18 June 2026, and that Gemini CLI is not optimised for Gemini 4 Argon.",
+  "friendlySummary": "Gemini CLI is Google's open terminal agent for Gemini. It is Apache-2.0, has about 108,000 stars, and gained 825 stars today. It is still the most-starred AI repository on today's TypeScript trending list. The readme now says unpaid users and Google One users were moved to Antigravity CLI on 18 June 2026. It also says Gemini CLI is not tuned for Gemini 4 Argon.",
+  "whyItMatters": "Use it if you already have a Gemini setup that this client still serves, and you want the agent in the terminal with MCP servers and extensions rather than in a browser tab. If you are on the free tier, or you need the current flagship model, Google's own note says to start with Antigravity CLI instead. The stars today are real. The recommended path for most people has moved.",
+  "friendlyWhyItMatters": "Use it if you already have a Gemini setup that this client still serves, and you want the agent in the terminal, with extra tool servers, rather than in a browser tab. If you are on the free tier, or you need the current top model, Google's own note says to start with Antigravity CLI instead. The stars today are real. The recommended path for most people has moved.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

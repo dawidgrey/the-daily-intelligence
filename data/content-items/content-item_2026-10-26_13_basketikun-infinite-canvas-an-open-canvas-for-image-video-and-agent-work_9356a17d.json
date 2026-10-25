@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_13_basketikun-infinite-canvas-an-open-canvas-for-image-video-and-agent-work_9356a17d",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/basketikun/infinite-canvas",
+  "canonicalUrl": "https://github.com/basketikun/infinite-canvas",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "basketikun/infinite-canvas: an open canvas for image, video, and agent work",
+  "friendlyTitle": "infinite-canvas is an open board for AI images, video, and an agent",
+  "summary": "infinite-canvas is an MIT-licensed workspace for AI image generation, reference-image edits, video, a prompt library, and an on-canvas agent. It has about 9,100 stars and 148 stars today, third among AI repositories on today's trending lists that this newsletter has not already covered. It speaks an OpenAI-compatible API, so you point it at an endpoint you are allowed to use. The current release is v0.20.0. The interface and readme are primarily in Chinese.",
+  "friendlySummary": "infinite-canvas is an open workspace for AI image generation, edits that use a reference image, video, a prompt library, and an agent on the canvas. It has about 9,100 stars and gained 148 today. That puts it third among AI repositories on today's trending lists that this newsletter has not already covered. It speaks an OpenAI-compatible API, so you point it at an endpoint you are allowed to use. The current release is v0.20.0. The interface and the readme are mainly in Chinese.",
+  "whyItMatters": "If your image and video work is scattered across closed web apps, this is a local board where a generation, a reference edit, and an agent note can sit on the same canvas. Bring your own compatible API endpoint. Do not treat a third-party proxy as a free pass to someone else's model. Docker compose is in the repo if you want it off your laptop's browser tabs.",
+  "friendlyWhyItMatters": "If your image and video work is scattered across closed websites, this is a local board. A generation, a reference edit, and an agent note can sit in one place. Bring your own compatible API endpoint. Do not treat a third-party proxy as a free pass to someone else's model. The repo includes Docker files if you want it off your laptop's browser tabs.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

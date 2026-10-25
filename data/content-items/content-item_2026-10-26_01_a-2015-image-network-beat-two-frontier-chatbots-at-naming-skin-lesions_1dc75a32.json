@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_01_a-2015-image-network-beat-two-frontier-chatbots-at-naming-skin-lesions_1dc75a32",
+  "sourceKind": "research",
+  "sourceName": "Lynch Lab",
+  "sourceUrl": "https://lynchlab.net/llm-skin-cancer",
+  "canonicalUrl": "https://lynchlab.net/llm-skin-cancer",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "A 2015 image network beat two frontier chatbots at naming skin lesions",
+  "friendlyTitle": "An old image model beat two top chatbots at naming skin spots",
+  "summary": "Consultant dermatologist Magnus Lynch gave GPT-6 Astra and Claude Fable 5.1 the same 200 biopsy-proven lesions from the public MILK10k set, each with a clinical photo and a dermoscopic image, and asked for one of six diagnoses. A fine-tuned Inception v3, a 2015 convolutional network trained for about twenty minutes on public dermatology images with those cases held out, named the right diagnosis for 125 of 200. The chatbots named 84 and 85. Each chatbot was run once, at default settings.",
+  "friendlySummary": "A skin-cancer surgeon, Magnus Lynch, showed two top chatbots 200 real skin lesions that had already been biopsied. Each case had a normal photo and a magnified skin-microscope photo. He asked for one of six diagnoses. A small image model from 2015, retrained on public skin photos that did not include these cases, got 125 of 200 right. GPT-6 Astra got 84. Claude Fable 5.1 got 85. Each chatbot was tried once.",
+  "whyItMatters": "This is not a diagnosis, and it is not a reason to trust the old network with a spot on your skin. At its preset threshold the network discharged 18 of 30 melanomas, against 3 and 4 for the chatbots; matched to their caution, that fell to 1 or 2. The useful line is narrower: a general chatbot asked to name a lesion was wrong more often, and still told some melanomas they could go home. Asked only whether to see a doctor, both chatbots said yes in almost every case.",
+  "friendlyWhyItMatters": "Do not use this as a reason to check a spot yourself, with a chatbot or with the old model. At its default setting, the old model would have sent 18 of 30 melanomas home. The chatbots sent home 3 and 4. When the old model's caution was matched to theirs, that fell to 1 or 2. The practical point is narrower. A general chatbot asked to name the lesion was wrong more often, and still told some melanomas they could go home. Asked only whether to see a doctor, both chatbots said yes almost every time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}

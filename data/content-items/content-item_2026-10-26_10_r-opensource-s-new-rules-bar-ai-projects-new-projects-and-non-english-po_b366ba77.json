@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-26_10_r-opensource-s-new-rules-bar-ai-projects-new-projects-and-non-english-po_b366ba77",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-25T20:08:30Z",
+  "createdAtUtc": "2026-10-25T20:08:30Z",
+  "updatedAtUtc": "2026-10-25T20:08:30Z",
+  "title": "r/opensource's new rules bar AI projects, new projects, and non-English posts",
+  "friendlyTitle": "A large open-source forum has barred AI projects, new projects, and non-English posts",
+  "summary": "Moderators of Reddit's r/opensource posted rules that reject a project if it uses AI, was made by AI, or is intended for AI. Submissions must also be at least a year old, actively maintained, and have more than one contributor. The same post says people who do not speak English should find another community, because the moderators say they cannot tell AI translation from AI writing. A moderator later said some incidental uses, such as automatic captions, could be allowed. Commenters have started a rival forum, r/trueopensource, and have pointed out that the Linux kernel now contains some AI-generated code.",
+  "friendlySummary": "Moderators of Reddit's r/opensource posted rules that reject a project if it uses AI, was made by AI, or is meant for AI. A submission must also be at least a year old, still maintained, and have more than one contributor. The same post says people who do not speak English should find another community, because the moderators say they cannot tell an AI translation from AI writing. A moderator later said some side uses, such as automatic captions, could be allowed. Commenters have started a rival forum and have noted that the Linux kernel now contains some AI-written code.",
+  "whyItMatters": "If you were going to post a new solo project, or any project that calls a model, this forum's rules as written would turn you away. The English rule is the sharper daily-life cut: a maintainer who does not write in English is told the community cannot check a translation, so they should leave. Whether that holds in practice depends on the selective enforcement the moderator described. The post is the rule. The comments are the argument.",
+  "friendlyWhyItMatters": "If you were going to post a new one-person project, or any project that calls a model, this forum's rules as written would turn you away. The English rule is the sharper cut for daily life. A maintainer who does not write in English is told the community cannot check a translation, so they should leave. Whether that holds in practice depends on the selective enforcement the moderator described. The post is the rule. The comments are the argument.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-26"
+  }
+}
