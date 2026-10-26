@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-27_06_github-s-former-ceo-opens-a-forge-built-for-agent-review_2cc0598e",
+  "sourceKind": "product",
+  "sourceName": "Entire",
+  "sourceUrl": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+  "canonicalUrl": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-26T20:07:50Z",
+  "createdAtUtc": "2026-10-26T20:07:50Z",
+  "updatedAtUtc": "2026-10-26T20:07:50Z",
+  "title": "GitHub's former CEO opens a forge built for agent review",
+  "friendlyTitle": "GitHub's former CEO has opened a code host built for agent review",
+  "summary": "Thomas Dohmke, GitHub's former CEO, says Entire is open to any developer today. Instead of a pull-request timeline, a Trail shows eval scores that review agents recalculate on every push, including checks for security, slop, and whether a human still needs to look. The company also says its Git hosting, live in the US, EU, Australia, and India, measured pushes up to 89 times faster than GitHub and 6 times faster than Cursor Origin on its own benchmark.",
+  "friendlySummary": "Thomas Dohmke, GitHub's former chief executive, says Entire is open to any developer today. Instead of a pull-request timeline, a Trail shows scores that review agents recalculate on every push. The built-in checks include security, sloppy generated code, and whether a person still needs to look. The company also says its Git hosting, live in the US, EU, Australia, and India, measured pushes up to 89 times faster than GitHub and 6 times faster than Cursor Origin. That number is from Entire's own benchmark.",
+  "whyItMatters": "If agents are writing the commits, the review queue is no longer a conversation. It is a pile of diffs arriving faster than you can read them. Entire's bet is that you merge when the scores settle, not when the thread goes quiet. The speed figure is Entire's measurement, not an independent test. What you can use now is the review shape: a score you can send the agent back to fix, and a gate that can still require a person.",
+  "friendlyWhyItMatters": "If agents are writing the commits, the review queue is no longer a conversation. It is a pile of changes arriving faster than you can read them. Entire's bet is that you merge when the scores settle, not when the comment thread goes quiet. The speed figure is Entire's measurement, not an outside test. What you can use now is the review shape: a score you can send the agent back to fix, and a gate that can still require a person.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-27"
+  }
+}

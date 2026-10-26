@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-27_02_anthropic-files-to-list-with-founder-votes-and-a-16-3-billion-first-half_d7b6b5fc",
+  "sourceKind": "article",
+  "sourceName": "U.S. Securities and Exchange Commission",
+  "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-26T20:07:50Z",
+  "createdAtUtc": "2026-10-26T20:07:50Z",
+  "updatedAtUtc": "2026-10-26T20:07:50Z",
+  "title": "Anthropic files to list, with founder votes and a $16.3 billion first half",
+  "friendlyTitle": "Anthropic has filed to sell shares. The founders keep the vote.",
+  "summary": "Anthropic filed a Form S-1 on 26 October for Class A shares on Nasdaq under the symbol ANT. The share count and price are still blank. For the six months ended 30 June 2026, the filing reports revenue of $16.3 billion, up from $1.2 billion a year earlier, an operating loss of $693 million, down from $2.1 billion, and a net loss of $80.7 billion.",
+  "friendlySummary": "Anthropic filed its IPO papers on 26 October. It wants to list Class A shares on Nasdaq under the symbol ANT. It has not yet said the price or how many shares. For the first half of 2026, the filing reports $16.3 billion in revenue, up from $1.2 billion a year earlier. The operating loss was $693 million, down from $2.1 billion. The net loss was $80.7 billion.",
+  "whyItMatters": "Most of that net loss is an accounting mark, not cash spent on operations: the filing records a $72.4 billion change in the fair value of convertible notes and related instruments, and says the company may not become profitable. As of 30 September it had more than 11,900 customers at $100,000 or more of trailing revenue, more than 1,900 at $1 million, and about 250 at $10 million. A founder company will hold Class F stock with 50.1 percent of the general vote and no economic rights. The Long-Term Benefit Trust elects the Class T directors, a majority of the authorised board. The same filing says Anthropic agreed to spend up to $120.5 billion with SpaceX, through 2029, for Nvidia GPU compute.",
+  "friendlyWhyItMatters": "Most of that net loss is an accounting change, not cash spent running the company. The filing records a $72.4 billion change in the paper value of convertible notes and related instruments. It also says Anthropic may not become profitable. By 30 September it had more than 11,900 customers paying $100,000 or more over the prior year, more than 1,900 paying $1 million, and about 250 paying $10 million. A company owned by the seven co-founders will hold a special share class with 50.1 percent of the ordinary vote, and no right to the profits. A separate trust picks directors who are a majority of the board the company is allowed to have. The same filing says Anthropic agreed to spend up to $120.5 billion with SpaceX, through 2029, for Nvidia chips.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-27"
+  }
+}

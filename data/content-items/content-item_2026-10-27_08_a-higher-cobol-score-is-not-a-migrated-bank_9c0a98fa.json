@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-27_08_a-higher-cobol-score-is-not-a-migrated-bank_9c0a98fa",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-26T20:07:50Z",
+  "createdAtUtc": "2026-10-26T20:07:50Z",
+  "updatedAtUtc": "2026-10-26T20:07:50Z",
+  "title": "A higher COBOL score is not a migrated bank",
+  "friendlyTitle": "A better COBOL score is not a moved-over bank",
+  "summary": "The Verge looks at OpenAI's 19 October report on moving old code to newer languages. On OpenAI's tests, GPT-6.1 Sol preserved behavior on 87 percent of COBOL migrations at low reasoning effort and 98 percent at higher effort. A migration counted only if every test passed. OpenAI spokesperson Oscar Haines told The Verge that legacy code is still far from a solved problem.",
+  "friendlySummary": "The Verge looks at OpenAI's 19 October report on moving old code into newer languages. On OpenAI's tests, GPT-6.1 Sol kept the original behavior on 87 percent of COBOL moves at a low effort setting, and 98 percent at a higher setting. A move counted only if every test passed. An OpenAI spokesperson, Oscar Haines, told The Verge that old code is still far from a solved problem.",
+  "whyItMatters": "If your payroll, tax, or card system still runs on COBOL, the number that matters is not a file that compiles. Vadim Zaytsev, who studies software evolution at the University of Twente, told The Verge that rewriting code is not the same as replacing a system, and that the hard part is splitting a live system into pieces that can be swapped one at a time. IBM's figures, cited in the piece, still put COBOL under a large share of banking and cash machines. Those are IBM's numbers. The expert caution is the part you can use: do not schedule a cutover from a benchmark.",
+  "friendlyWhyItMatters": "If your pay, tax, or card system still runs on COBOL, the number that matters is not a file that compiles. Vadim Zaytsev, who studies how software changes at the University of Twente, told The Verge that rewriting code is not the same as replacing a system. The hard part is splitting a live system into pieces that can be swapped one at a time. IBM's figures, cited in the piece, still put COBOL under a large share of banking and cash machines. Those are IBM's numbers. The useful caution is this: do not plan a switchover from a benchmark.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-27"
+  }
+}

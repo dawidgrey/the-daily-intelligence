@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-27_05_chatgpt-is-sending-account-problems-to-a-newsroom_dab7127a",
+  "sourceKind": "article",
+  "sourceName": "404 Media",
+  "sourceUrl": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+  "canonicalUrl": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-26T20:07:50Z",
+  "createdAtUtc": "2026-10-26T20:07:50Z",
+  "updatedAtUtc": "2026-10-26T20:07:50Z",
+  "title": "ChatGPT is sending account problems to a newsroom",
+  "friendlyTitle": "ChatGPT is telling people a newsroom can fix their accounts",
+  "summary": "404 Media says that over the last few months it has received dozens of clearly generated emails from people with ordinary tech problems, and that the people who replied all said a chatbot had recommended the newsroom and, in many cases, written the email. One shared chat, in Russian, told a man with a banned Instagram account to email a 404 Media reporter. Others asked the newsroom to investigate a painter's suspended Meta accounts, a Verizon iPhone stuck on SOS, and a flaky personal ChatGPT workflow.",
+  "friendlySummary": "404 Media says that over the last few months it has received dozens of clearly generated emails from people with ordinary tech problems. The people who wrote back all said a chatbot had recommended the newsroom. In many cases the chatbot also wrote the email. One shared chat, in Russian, told a man with a banned Instagram account to email a reporter there. Others asked the newsroom to investigate a painter's suspended Meta accounts, a Verizon iPhone stuck on emergency-calls-only, and an unreliable personal ChatGPT setup.",
+  "whyItMatters": "If a chatbot tells you a journalist can get your account back, that is not a support channel. 404 Media is not Meta's help desk, or Verizon's, or OpenAI's. The useful line is narrower: when a company has no human to write to, the model invents a press strategy, complete with an evidence packet, and a stranger's inbox pays for it. A real tip does not arrive as a generated press release about your phone plan.",
+  "friendlyWhyItMatters": "If a chatbot tells you a journalist can get your account back, that is not customer support. 404 Media is not Meta's help desk, or Verizon's, or OpenAI's. The useful point is narrower. When a company has no person to write to, the model invents a press plan, complete with an evidence packet, and a stranger's inbox pays for it. A real news tip does not arrive as a generated press release about your phone plan.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-27"
+  }
+}

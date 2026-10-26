@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-27_01_openai-releases-gpt-6-1-terra-for-cheaper-computer-use_f108b5ce",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "canonicalUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-26T20:07:50Z",
+  "createdAtUtc": "2026-10-26T20:07:50Z",
+  "updatedAtUtc": "2026-10-26T20:07:50Z",
+  "title": "OpenAI releases GPT-6.1 Terra for cheaper computer use",
+  "friendlyTitle": "OpenAI has released a cheaper model for using a computer",
+  "summary": "GPT-6.1 Terra is available today to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and in the API as gpt-6.1-terra. Standard prices are $1 per million input tokens, $0.05 for cached input, and $5 per million output tokens, which OpenAI says is 50 percent below GPT-5.6 Terra and GPT-6.1 Sol.",
+  "friendlySummary": "GPT-6.1 Terra is available today in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu plans. Developers can also call it in the API as gpt-6.1-terra. The standard price is $1 per million input tokens, 5 cents for cached input, and $5 per million output tokens. OpenAI says that is half the price of GPT-5.6 Terra and GPT-6.1 Sol.",
+  "whyItMatters": "On OpenAI's own tests, the gain is in the workday jobs: forms, drawings, and desktop steps, not only chat. At low effort, its internal error rate on prompts built to induce mistakes fell from 53.6 percent on GPT-5.6 Terra to 16.7 percent. At maximum effort, Terminal-Bench 4.0 rose from a published 21.5 percent to 50.3 percent. OpenAI still points to GPT-6.1 Sol and GPT-6 Astra for the hardest coding, and says Terra meets the Critical cybersecurity threshold in its Preparedness Framework.",
+  "friendlyWhyItMatters": "OpenAI's own tests put the gain in ordinary work: filling forms, reading drawings, and stepping through desktop apps. On prompts built to cause mistakes, the error rate at a low effort setting fell from 53.6 percent on the older Terra model to 16.7 percent. On a command-line coding test, the score rose from 21.5 percent to 50.3 percent at the highest effort setting. OpenAI still says the larger models are better for the hardest coding. It also says Terra meets the Critical cybersecurity bar in its own safety framework.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-27"
+  }
+}
