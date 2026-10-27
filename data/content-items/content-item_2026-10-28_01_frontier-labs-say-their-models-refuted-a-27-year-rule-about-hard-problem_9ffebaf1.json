@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_01_frontier-labs-say-their-models-refuted-a-27-year-rule-about-hard-problem_9ffebaf1",
+  "sourceKind": "research",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "Frontier labs say their models refuted a 27-year rule about hard problems",
+  "friendlyTitle": "Labs say their models have knocked down a 27-year rule about hard problems",
+  "summary": "OpenAI released claimed solutions to three long-standing problems, including a rejection of the Exponential Time Hypothesis, first published in 1999 by Russell Impagliazzo and Ramamohan Paturi. Anthropic then posted its own refutation. MIT's Ryan Williams, who is organizing the computer-science response with Impagliazzo and Paturi, told TechCrunch that parts of OpenAI's proof look routine and two or three parts look alien, and that the field needs to work on those parts together.",
+  "friendlySummary": "OpenAI released claimed answers to three old problems. One of them rejects the Exponential Time Hypothesis, an assumption Russell Impagliazzo and Ramamohan Paturi published in 1999. Anthropic then posted its own rejection. MIT's Ryan Williams is organizing the computer-science response, with Impagliazzo and Paturi. He told TechCrunch that some parts of OpenAI's proof look ordinary, and two or three parts look alien. He said the field needs to work on those parts together.",
+  "whyItMatters": "The hypothesis is an assumption in a decade of papers about what cannot be solved quickly, including the intuition behind some codes and puzzles. If the claim holds, those papers have to be revisited. Williams said computer scientists should put a little more weight on the chance that P equals NP, and also that he does not think OpenAI's algorithm is the last word. Treat the proof as a claim under review, not as a finished result.",
+  "friendlyWhyItMatters": "That hypothesis sits under a decade of papers about what a computer cannot solve quickly. Some codes and puzzles rest on the same intuition. If the claim holds, those papers have to be looked at again. Williams said computer scientists should treat 'P equals NP' as a bit more plausible, and also that he does not think OpenAI's algorithm is the best one possible. Read this as a claim under review, not as a finished result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

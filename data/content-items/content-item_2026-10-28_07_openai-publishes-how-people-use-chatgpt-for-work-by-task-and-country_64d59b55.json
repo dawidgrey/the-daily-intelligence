@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_07_openai-publishes-how-people-use-chatgpt-for-work-by-task-and-country_64d59b55",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "canonicalUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "OpenAI publishes how people use ChatGPT for work, by task and country",
+  "friendlyTitle": "OpenAI has published how people use ChatGPT for work, by task and country",
+  "summary": "OpenAI released Signals data covering 165 work activities in nearly 100 countries, from the first quarter of 2025 through the third quarter of 2026. The counts are work-related messages on individual ChatGPT plans. They do not include enterprise messages or Codex. An automated system classifies the messages after identifying details are removed. Across 74 countries seen in every quarter, the ten most common activities were 51.1 percent of classified work messages in the third quarter of 2026, down from 56.0 percent in the first quarter of 2025.",
+  "friendlySummary": "OpenAI released data covering 165 kinds of work, in nearly 100 countries, from the first quarter of 2025 through the third quarter of 2026. The counts are work-related messages on personal ChatGPT plans. They do not include company plans or Codex. A program sorts the messages after names and other identifying details are removed. In 74 countries that appear in every quarter, the ten most common activities were 51.1 percent of classified work messages in the third quarter of 2026. That is down from 56.0 percent in the first quarter of 2025.",
+  "whyItMatters": "If you are deciding where a chatbot actually sits in a workday, this is a public table, not a vendor anecdote. The mix is spreading: countries are specializing, and the top tasks are a smaller share than they were. It is still consumer ChatGPT, not a company account. Jobs that are mostly driving, lifting, or keeping clinical records will not show up. Those categories did not meet OpenAI's threshold in the original US sample.",
+  "friendlyWhyItMatters": "If you want to know where a chatbot actually sits in a workday, this is a public table, not a sales story. The mix is spreading. Countries are specializing, and the top tasks are a smaller share than they were. This is still personal ChatGPT, not a company account. Jobs that are mostly driving, lifting, or keeping medical records will not show up. Those categories were not common enough in OpenAI's original US sample.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

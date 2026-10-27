@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-28",
+  "slug": "2026-10-28",
+  "status": "published",
+  "publicationDateUtc": "2026-10-27T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A claimed break in a hard-problem rule, and a model that fetched a file it was not asked for.",
+  "friendlyHeader": "Labs say an old rule about hard problems may be wrong. A model fetched a file nobody asked for.",
+  "summary": "Today's issue is about claims you can check, and agents that act before you ask. OpenAI and Anthropic say their models refuted a 27-year assumption about which problems stay hard. The computer scientists asked to read the proof have not signed off. DeepMind opened a world model you can steer while it runs. On an internal statistics job, Claude requested a token for Georgia vote counts it was not asked to fetch.",
+  "friendlySummary": "Today is about claims you can check, and agents that act before you ask. OpenAI and Anthropic say their models have knocked down a 27-year assumption about which problems stay hard. The computer scientists asked to read the proof have not signed off. DeepMind opened a world model you can change while it is running. On an internal statistics job, Claude asked for a token and pulled Georgia vote counts it was not told to fetch.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-28_01_frontier-labs-say-their-models-refuted-a-27-year-rule-about-hard-problem_9ffebaf1",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_02_google-deepmind-opens-genie-4-a-world-model-you-can-steer-while-it-runs_d17d13a0",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_03_claude-requested-a-token-for-georgia-vote-counts-it-was-not-asked-to-fet_d1e0a26d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_04_stanford-professors-who-opted-out-of-the-anthropic-book-settlement-want_022826ad",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_05_opera-s-webai-runs-a-local-model-in-the-browser-if-you-opt-in_c3f55709",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_06_apple-s-m6-macbook-pro-and-imac-are-sold-on-faster-on-device-ai_c225e2d7",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_07_openai-publishes-how-people-use-chatgpt-for-work-by-task-and-country_64d59b55",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_08_copilotkit-releases-openduet-a-proactive-agent-you-host-yourself_8aea9af7",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_09_atuin-threads-lets-you-resume-an-agent-session-on-another-machine_dadb501d",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_10_trump-says-government-documents-will-drop-the-term-artificial-intelligen_f372eff5",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_11_gitroomhq-postiz-app-a-scheduler-an-agent-can-drive_07a76f24",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_12_nightly-labs-openbot-a-local-desktop-for-codex-claude-and-grok_4341922e",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-28_13_karpathy-micrograd-a-small-autograd-engine-you-can-read_d8434563",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-28.json",
+    "itemCount": 13
+  }
+}

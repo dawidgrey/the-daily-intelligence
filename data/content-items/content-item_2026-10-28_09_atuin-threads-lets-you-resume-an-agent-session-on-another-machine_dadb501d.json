@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_09_atuin-threads-lets-you-resume-an-agent-session-on-another-machine_dadb501d",
+  "sourceKind": "product",
+  "sourceName": "Atuin",
+  "sourceUrl": "https://blog.atuin.sh/threads-agent-sessions/",
+  "canonicalUrl": "https://blog.atuin.sh/threads-agent-sessions/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "Atuin Threads lets you resume an agent session on another machine",
+  "friendlyTitle": "Atuin Threads lets you pick up an agent session on another computer",
+  "summary": "Atuin 18.24 adds Threads, a searchable history of agent sessions that can sync across machines. You can resume a session, or fork it into a different harness. The first supported agents are Claude Code, Codex, Pi, Omp, and OpenCode. Capture is opt-in. Synced history is end-to-end encrypted. You can use Atuin's server, run your own, or keep it local. An MCP server, installed with atuin mcp install, lets a later agent search prior sessions.",
+  "friendlySummary": "Atuin 18.24 adds Threads, a searchable history of agent sessions that can sync across computers. You can resume a session, or move it into a different agent. The first supported agents are Claude Code, Codex, Pi, Omp, and OpenCode. Recording is off until you turn it on. Synced history is end-to-end encrypted, so Atuin cannot read it. You can use Atuin's server, run your own, or keep everything local. A later agent can search old sessions through an MCP server, installed with atuin mcp install.",
+  "whyItMatters": "Shell history already follows you. Agent transcripts usually do not. If you start a task on a server and finish it on a laptop, Threads is a way to carry the prompt, the commands, and the dead ends without pasting them. Team sharing is not shipped. The post is the product note, not an independent review.",
+  "friendlyWhyItMatters": "Your shell history already follows you. Agent transcripts usually do not. If you start a task on a server and finish it on a laptop, Threads is a way to carry the prompt, the commands, and the dead ends without pasting them. Sharing sessions with a team is not available yet. This post is the product note, not an outside review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

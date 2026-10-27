@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_05_opera-s-webai-runs-a-local-model-in-the-browser-if-you-opt-in_c3f55709",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "Opera's WebAI runs a local model in the browser, if you opt in",
+  "friendlyTitle": "Opera is letting a web page use a model on your computer, if you opt in",
+  "summary": "Opera has opened an early preview of WebAI in Opera One. It is Opera's proposal for letting a page use a model on the device, rather than a cloud API. Opera says it is not tied to one model, names Google's Gemma as an example, and says Macs can use Apple's on-device foundation model. Opera GX and Opera Neon are due to follow. The feature is opt-in.",
+  "friendlySummary": "Opera has opened an early preview of WebAI in its Opera One browser. It is Opera's proposal for letting a web page use a model on the device, instead of sending the job to a cloud service. Opera says it is not locked to one model. It names Google's Gemma as an example, and says Macs can use Apple's on-device model. Opera GX and Opera Neon are due to get the same feature. You have to turn it on.",
+  "whyItMatters": "The practical offer is a page that can generate or classify text without a per-request bill, with the prompt staying on the machine. Opera also says speed depends on the hardware. This is Opera's preview, not a standard other browsers have adopted. The useful test is whether a site you already use can do a small job without a subscription.",
+  "friendlyWhyItMatters": "The practical offer is a page that can write or sort text without charging for each request, while the prompt stays on your computer. Opera also says the speed depends on your hardware. This is Opera's preview. Other browsers have not adopted it as a shared standard. The useful test is whether a site you already use can do a small job without a subscription.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

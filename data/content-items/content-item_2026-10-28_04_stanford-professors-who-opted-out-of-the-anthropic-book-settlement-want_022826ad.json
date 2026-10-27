@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_04_stanford-professors-who-opted-out-of-the-anthropic-book-settlement-want_022826ad",
+  "sourceKind": "article",
+  "sourceName": "The Stanford Daily",
+  "sourceUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+  "canonicalUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "Stanford professors who opted out of the Anthropic book settlement want a jury",
+  "friendlyTitle": "Stanford professors who left the Anthropic book settlement want a jury",
+  "summary": "The Stanford Daily reports that works by more than 10 Stanford professors, including Tobias Wolff, Abraham Verghese, and Chang-rae Lee, were among books Anthropic obtained from shadow libraries and used in training Claude. In Bartz v. Anthropic, Judge William Alsup barred the use of pirated copies to build a permanent library, while treating training on legally acquired books as fair use. The $1.5 billion class settlement covers nearly 500,000 registered works, at about $3,000 each. Wolff and others opted out and, in May, filed Cruz v. Anthropic, seeking a jury and up to $150,000 per work.",
+  "friendlySummary": "The Stanford Daily reports that books by more than 10 Stanford professors were among the copies Anthropic took from shadow libraries and used to train Claude. The named writers include Tobias Wolff, Abraham Verghese, and Chang-rae Lee. In the Bartz case, Judge William Alsup said Anthropic could not use pirated copies to build a permanent library. He treated training on books the company had legally acquired as fair use. The class settlement is $1.5 billion, for nearly 500,000 registered works, at about $3,000 each. Wolff and others opted out. In May they filed a separate case, Cruz v. Anthropic, and they want a jury and up to $150,000 per work.",
+  "whyItMatters": "If you write, or you use a model trained on books, the live question is licensing, not a new ban on training. A successful Cruz case would seek an injunction against using those specific works to train Claude. The Authors Guild told the Daily it is also asking Congress for a licensing rule. The precise line from Bartz is narrower than the headline: storing pirated copies as a library was the illegal act. Training on books someone bought was not.",
+  "friendlyWhyItMatters": "If you write, or you use a model trained on books, the open question is payment and permission, not a new ban on training. If Cruz succeeds, the authors want an order stopping Claude from being trained on those specific works. The Authors Guild told the Daily it is also asking Congress for a licensing rule. The precise line from the earlier case is narrower than the headline. Keeping pirated copies in a library was the illegal act. Training on books someone had bought was not.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

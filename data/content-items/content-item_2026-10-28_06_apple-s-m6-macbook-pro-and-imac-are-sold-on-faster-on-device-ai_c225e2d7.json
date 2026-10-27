@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-28_06_apple-s-m6-macbook-pro-and-imac-are-sold-on-faster-on-device-ai_c225e2d7",
+  "sourceKind": "product",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/",
+  "canonicalUrl": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-27T20:08:29Z",
+  "createdAtUtc": "2026-10-27T20:08:29Z",
+  "updatedAtUtc": "2026-10-27T20:08:29Z",
+  "title": "Apple's M6 MacBook Pro and iMac are sold on faster on-device AI",
+  "friendlyTitle": "Apple's new M6 MacBook Pro and iMac are sold on faster on-device AI",
+  "summary": "Apple unveiled a 14-inch MacBook Pro starting at $1,999 and an iMac starting at $1,499, both on the M6 chip. Pre-orders open Wednesday in 35 countries and regions, including the United States, with availability from 6 November. Apple says the MacBook Pro is up to 25 percent faster on AI tasks than the M5 model, with up to 30 percent faster graphics and up to 24 hours of battery life. It says the new iMac is up to five times faster on on-device AI than the M4 iMac.",
+  "friendlySummary": "Apple unveiled a 14-inch MacBook Pro starting at $1,999 and an iMac starting at $1,499. Both use the new M6 chip. Pre-orders open Wednesday in 35 countries and regions, including the United States. The computers are available from 6 November. Apple says the MacBook Pro is up to 25 percent faster on AI tasks than the M5 model, with up to 30 percent faster graphics and up to 24 hours of battery life. It says the new iMac is up to five times faster on on-device AI than the M4 iMac.",
+  "whyItMatters": "These are Apple's figures, not an independent test. The practical change is on the desk: local models, and Apple's own on-device features, get a faster chip at a known price from 6 November. Reuters also notes a separate Apple event on 28 October. That event is not this launch.",
+  "friendlyWhyItMatters": "Those numbers are Apple's, not an outside test. The practical change is on the desk. Local models, and Apple's own on-device features, get a faster chip at a known price from 6 November. Reuters also notes a separate Apple event on 28 October. That event is not this launch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-28"
+  }
+}

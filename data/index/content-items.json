@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-26T20:07:50Z",
+  "generatedAtUtc": "2026-10-27T20:08:29Z",
   "items": [
     {
-      "id": "content-item_2026-10-27_01_openai-releases-gpt-6-1-terra-for-cheaper-computer-use_f108b5ce",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "OpenAI releases GPT-6.1 Terra for cheaper computer use",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/"
-    },
-    {
-      "id": "content-item_2026-10-27_02_anthropic-files-to-list-with-founder-votes-and-a-16-3-billion-first-half_d7b6b5fc",
-      "sourceKind": "article",
-      "sourceName": "U.S. Securities and Exchange Commission",
-      "title": "Anthropic files to list, with founder votes and a $16.3 billion first half",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
-    },
-    {
-      "id": "content-item_2026-10-27_03_a-qwen-model-tried-to-upload-a-file-while-its-reasoning-said-it-would-no_ce5ce5fc",
+      "id": "content-item_2026-10-28_01_frontier-labs-say-their-models-refuted-a-27-year-rule-about-hard-problem_9ffebaf1",
       "sourceKind": "research",
-      "sourceName": "Cohere",
-      "title": "A Qwen model tried to upload a file while its reasoning said it would not",
-      "sourceUrl": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
-    },
-    {
-      "id": "content-item_2026-10-27_04_the-realreal-makes-it-harder-for-shopping-agents-to-hold-the-cart_2500a6aa",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "The RealReal makes it harder for shopping agents to hold the cart",
-      "sourceUrl": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
-    },
-    {
-      "id": "content-item_2026-10-27_05_chatgpt-is-sending-account-problems-to-a-newsroom_dab7127a",
-      "sourceKind": "article",
-      "sourceName": "404 Media",
-      "title": "ChatGPT is sending account problems to a newsroom",
-      "sourceUrl": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"
-    },
-    {
-      "id": "content-item_2026-10-27_06_github-s-former-ceo-opens-a-forge-built-for-agent-review_2cc0598e",
-      "sourceKind": "product",
-      "sourceName": "Entire",
-      "title": "GitHub's former CEO opens a forge built for agent review",
-      "sourceUrl": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration"
-    },
-    {
-      "id": "content-item_2026-10-27_07_a-vllm-flag-took-kimi-tool-calls-from-92-percent-schema-valid-to-100_bcce0e72",
-      "sourceKind": "article",
-      "sourceName": "Ubicloud",
-      "title": "A vLLM flag took Kimi tool calls from 92 percent schema-valid to 100",
-      "sourceUrl": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
-    },
-    {
-      "id": "content-item_2026-10-27_08_a-higher-cobol-score-is-not-a-migrated-bank_9c0a98fa",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "A higher COBOL score is not a migrated bank",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
-    },
-    {
-      "id": "content-item_2026-10-27_09_sebastian-raschka-posts-11-hours-on-building-a-reasoning-model_d1a3b4fa",
-      "sourceKind": "article",
-      "sourceName": "Ahead of AI",
-      "title": "Sebastian Raschka posts 11 hours on building a reasoning model",
-      "sourceUrl": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
-    },
-    {
-      "id": "content-item_2026-10-27_10_spacex-lines-up-a-40-billion-lease-for-ai-chips_4a24365e",
-      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "SpaceX lines up a $40 billion lease for AI chips",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+      "title": "Frontier labs say their models refuted a 27-year rule about hard problems",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
     },
     {
-      "id": "content-item_2026-10-27_11_nutlope-hallmark-a-design-skill-that-refuses-the-generated-look_e2469c92",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "Nutlope/hallmark: a design skill that refuses the generated look",
-      "sourceUrl": "https://github.com/Nutlope/hallmark"
+      "id": "content-item_2026-10-28_02_google-deepmind-opens-genie-4-a-world-model-you-can-steer-while-it-runs_d17d13a0",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Google DeepMind opens Genie 4, a world model you can steer while it runs",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     {
-      "id": "content-item_2026-10-27_12_jetbrains-thinkrail-a-small-ide-built-around-the-pi-agent_6080fb8b",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "JetBrains/thinkrail: a small IDE built around the pi agent",
-      "sourceUrl": "https://github.com/JetBrains/thinkrail"
+      "id": "content-item_2026-10-28_03_claude-requested-a-token-for-georgia-vote-counts-it-was-not-asked-to-fet_d1e0a26d",
+      "sourceKind": "article",
+      "sourceName": "Axios",
+      "title": "Claude requested a token for Georgia vote counts it was not asked to fetch",
+      "sourceUrl": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data"
     },
     {
-      "id": "content-item_2026-10-27_13_multica-ai-andrej-karpathy-skills-four-rules-against-agent-overbuilding_b6773085",
+      "id": "content-item_2026-10-28_04_stanford-professors-who-opted-out-of-the-anthropic-book-settlement-want_022826ad",
+      "sourceKind": "article",
+      "sourceName": "The Stanford Daily",
+      "title": "Stanford professors who opted out of the Anthropic book settlement want a jury",
+      "sourceUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+    },
+    {
+      "id": "content-item_2026-10-28_05_opera-s-webai-runs-a-local-model-in-the-browser-if-you-opt-in_c3f55709",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Opera's WebAI runs a local model in the browser, if you opt in",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "id": "content-item_2026-10-28_06_apple-s-m6-macbook-pro-and-imac-are-sold-on-faster-on-device-ai_c225e2d7",
+      "sourceKind": "product",
+      "sourceName": "Reuters",
+      "title": "Apple's M6 MacBook Pro and iMac are sold on faster on-device AI",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+    },
+    {
+      "id": "content-item_2026-10-28_07_openai-publishes-how-people-use-chatgpt-for-work-by-task-and-country_64d59b55",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI publishes how people use ChatGPT for work, by task and country",
+      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "id": "content-item_2026-10-28_08_copilotkit-releases-openduet-a-proactive-agent-you-host-yourself_8aea9af7",
+      "sourceKind": "product",
+      "sourceName": "CopilotKit",
+      "title": "CopilotKit releases OpenDuet, a proactive agent you host yourself",
+      "sourceUrl": "https://www.copilotkit.ai/blog/introducing-openduet"
+    },
+    {
+      "id": "content-item_2026-10-28_09_atuin-threads-lets-you-resume-an-agent-session-on-another-machine_dadb501d",
+      "sourceKind": "product",
+      "sourceName": "Atuin",
+      "title": "Atuin Threads lets you resume an agent session on another machine",
+      "sourceUrl": "https://blog.atuin.sh/threads-agent-sessions/"
+    },
+    {
+      "id": "content-item_2026-10-28_10_trump-says-government-documents-will-drop-the-term-artificial-intelligen_f372eff5",
+      "sourceKind": "regulation",
+      "sourceName": "The Hill",
+      "title": "Trump says government documents will drop the term artificial intelligence",
+      "sourceUrl": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
+    },
+    {
+      "id": "content-item_2026-10-28_11_gitroomhq-postiz-app-a-scheduler-an-agent-can-drive_07a76f24",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "multica-ai/andrej-karpathy-skills: four rules against agent overbuilding",
-      "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills"
+      "sourceName": "GitHub",
+      "title": "gitroomhq/postiz-app: a scheduler an agent can drive",
+      "sourceUrl": "https://github.com/gitroomhq/postiz-app"
+    },
+    {
+      "id": "content-item_2026-10-28_12_nightly-labs-openbot-a-local-desktop-for-codex-claude-and-grok_4341922e",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "nightly-labs/openbot: a local desktop for Codex, Claude, and Grok",
+      "sourceUrl": "https://github.com/nightly-labs/openbot"
+    },
+    {
+      "id": "content-item_2026-10-28_13_karpathy-micrograd-a-small-autograd-engine-you-can-read_d8434563",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "karpathy/micrograd: a small autograd engine you can read",
+      "sourceUrl": "https://github.com/karpathy/micrograd"
     }
   ]
 }

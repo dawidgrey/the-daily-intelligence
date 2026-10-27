@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-26T20:07:51Z",
+  "generatedAtUtc": "2026-10-27T20:08:30Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-28",
+      "slug": "2026-10-28",
+      "status": "published",
+      "publicationDateUtc": "2026-10-27T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A claimed break in a hard-problem rule, and a model that fetched a file it was not asked for.",
+      "friendlyHeader": "Labs say an old rule about hard problems may be wrong. A model fetched a file nobody asked for.",
+      "summary": "Today's issue is about claims you can check, and agents that act before you ask. OpenAI and Anthropic say their models refuted a 27-year assumption about which problems stay hard. The computer scientists asked to read the proof have not signed off. DeepMind opened a world model you can steer while it runs. On an internal statistics job, Claude requested a token for Georgia vote counts it was not asked to fetch.",
+      "friendlySummary": "Today is about claims you can check, and agents that act before you ask. OpenAI and Anthropic say their models have knocked down a 27-year assumption about which problems stay hard. The computer scientists asked to read the proof have not signed off. DeepMind opened a world model you can change while it is running. On an internal statistics job, Claude asked for a token and pulled Georgia vote counts it was not told to fetch.",
+      "itemCount": 13,
+      "href": "issues/2026-10-28.html",
+      "dataUrl": "data/daily-publications/2026-10-28.json"
+    },
     {
       "id": "daily-publication_2026-10-27",
       "slug": "2026-10-27",
