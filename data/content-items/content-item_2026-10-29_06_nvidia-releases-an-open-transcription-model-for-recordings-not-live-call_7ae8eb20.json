@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_06_nvidia-releases-an-open-transcription-model-for-recordings-not-live-call_7ae8eb20",
+  "sourceKind": "product",
+  "sourceName": "NVIDIA",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Nvidia releases an open transcription model for recordings, not live calls",
+  "friendlyTitle": "Nvidia has released a free transcription model for recordings, not live calls",
+  "summary": "Nvidia published Nemotron 3.5 Transcribe on 28 October, an open-weight model of about 30 billion parameters. One checkpoint transcribes 40 languages, translates 31 of them to or from English, and labels speakers in 13. It takes recordings up to an hour and up to eight speakers. Nvidia says it is first among open-weight models on the Hugging Face Open ASR English leaderboard, at 5.33 percent average word error rate, with API models left out of that comparison. Quantized builds for local machines are still listed as coming soon.",
+  "friendlySummary": "On 28 October, Nvidia published Nemotron 3.5 Transcribe. The weights are open. The model has about 30 billion parameters. One copy can write down speech in 40 languages, translate 31 of them to or from English, and label who is speaking in 13 languages. It handles recordings up to an hour long and up to eight speakers. Nvidia says it has the lowest error among open models on Hugging Face's English speech test, at 5.33 percent. Paid online services were left out of that comparison. Smaller versions for a home computer are still listed as coming later.",
+  "whyItMatters": "The limit is in the product, not the footnote. This is for a recording you already have, not a live phone call. Nvidia also released Granary v2, the dataset and curation pipeline, plus fine-tuning recipes. In its medical case study, fine-tuning cut word error rate on held-out speakers by 45.8 percent relative to the best prompt. That is Nvidia's case study. The practical test is a meeting or a dictation you can check against the audio, including names and speaker changes.",
+  "friendlyWhyItMatters": "The limit is the product, not a footnote. This is for a recording you already have, not a live phone call. Nvidia also released the training data and the steps for teaching the model your own terms. In its medical example, extra training cut errors on new speakers by 45.8 percent compared with the best written instruction. That number is Nvidia's. The useful test is a meeting or a dictation you can check against the audio, including names and changes of speaker.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

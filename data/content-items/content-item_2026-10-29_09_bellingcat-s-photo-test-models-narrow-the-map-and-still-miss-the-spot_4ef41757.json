@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_09_bellingcat-s-photo-test-models-narrow-the-map-and-still-miss-the-spot_4ef41757",
+  "sourceKind": "research",
+  "sourceName": "Bellingcat",
+  "sourceUrl": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+  "canonicalUrl": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Bellingcat's photo test: models narrow the map, and still miss the spot",
+  "friendlyTitle": "A photo test: models get close on a map, and still miss the exact spot",
+  "summary": "Bellingcat gave current models 52 photos that had not been published online, with metadata removed and no landmarks, and asked for one set of coordinates. Gemini 4 Argon had the best median error in the published table, 1.7 kilometres, and the highest Mean Log Score, 71.3. Claude Opus 5.5 had the highest GeoGuessr-style score, 4,734, with a median error of 4.4 kilometres. Several models placed at least 10 of the 52 photos within one kilometre. Some models refused or timed out on a photo.",
+  "friendlySummary": "Bellingcat gave current models 52 photos that had not been posted online. The hidden camera data was removed, and the photos had no famous landmarks. Each model had to give one set of coordinates. In the published table, Gemini 4 Argon had the smallest typical miss, 1.7 kilometres. Claude Opus 5.5 scored highest on a game-style measure, and its typical miss was 4.4 kilometres. Several models put at least 10 of the 52 photos within one kilometre. Some models refused a photo, or ran out of time.",
+  "whyItMatters": "A median of 1.7 kilometres is a district, not a doorway. Bellingcat's point is that the last kilometres are where an investigation, or a strike, goes wrong, and that no model in the test was close to exact on every photo. The models could use search and code tools. A fast narrowing is not a location you can publish. If you use a model to place a photo, the useful habit is the one Bellingcat states: treat the coordinate as a lead, then check it.",
+  "friendlyWhyItMatters": "A typical miss of 1.7 kilometres is a neighbourhood, not a front door. Bellingcat's point is that the last kilometres are where an investigation goes wrong, and that no model in the test was exact on every photo. The models were allowed to search and run code. A fast narrowing is not a location you can publish. If you use a model to place a photo, treat the coordinate as a lead, then check it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

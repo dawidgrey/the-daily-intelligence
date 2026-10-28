@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_03_github-copilot-fusion-routes-work-across-anthropic-and-openai-models_4295423d",
+  "sourceKind": "product",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "GitHub Copilot Fusion routes work across Anthropic and OpenAI models",
+  "friendlyTitle": "GitHub Copilot can now pick the model for each step, instead of you",
+  "summary": "Artificial Analysis benchmarked GitHub Copilot Fusion, which GitHub describes as a router that picks models and a work pattern for each task. In the Coding Agent Index, Fusion's max setting in GitHub Copilot cost $5.59 per task, against $11.42 for Claude Code with Opus 5.5 (max). It led Terminal-Bench 4.0 at 71, ranked third on FrontierCode at 51, and used 7.2 million tokens per task, about half the tokens of Opus 5.5 in Claude Code. The headline gap is two points below that Opus run, at about half the cost.",
+  "friendlySummary": "Artificial Analysis tested a GitHub feature called Copilot Fusion. GitHub says it chooses which models to use, and how they should split the work, for each task. At its highest setting, Fusion cost $5.59 per task. Claude Code with Opus 5.5, at its highest effort, cost $11.42. Fusion was slightly ahead on one coding test, third on another, and used about half as many tokens as that Opus run. The overall gap was two points, at about half the price.",
+  "whyItMatters": "GitHub's docs say Fusion is in the model picker on every Copilot plan, in VS Code, the Copilot CLI, the Copilot app, and JetBrains. You are billed for each model it actually calls, not a separate Fusion fee. Through 30 November 2026, paid plans get a 30 percent discount on those model costs. A discarded draft does not automatically undo file edits it already made. Review the diff before you commit.",
+  "friendlyWhyItMatters": "GitHub's own documentation says Fusion appears in the model list on every Copilot plan, in VS Code, the command-line tool, the Copilot app, and JetBrains. You pay for each model it actually calls. There is no separate Fusion fee. Until 30 November 2026, paid plans get 30 percent off those model costs. If Fusion throws away a draft, it does not automatically undo files that draft already changed. Read the changes before you save them into the project.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

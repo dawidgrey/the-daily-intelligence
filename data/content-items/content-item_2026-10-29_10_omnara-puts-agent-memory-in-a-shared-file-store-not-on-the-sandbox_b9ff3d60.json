@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_10_omnara-puts-agent-memory-in-a-shared-file-store-not-on-the-sandbox_b9ff3d60",
+  "sourceKind": "article",
+  "sourceName": "Omnara",
+  "sourceUrl": "https://www.omnara.com/blog/agent-memory-is-in-the-wrong-place",
+  "canonicalUrl": "https://www.omnara.com/blog/agent-memory-is-in-the-wrong-place",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Omnara puts agent memory in a shared file store, not on the sandbox",
+  "friendlyTitle": "One team says agent memory should not live on the computer the agent might lose",
+  "summary": "Omnara argues that agent memory should not live on a laptop or a sandbox the agent might lose. In its system, memory is a set of folders in the control plane, mounted by whichever worker takes the next turn. Agents list, read, search, and edit those files through four tools. A write names the version the agent last saw. If another agent changed the file, the write fails and the agent has to read it again, unless it passes force. Omnara says a crashed sandbox cannot hold a lock on that memory, because the lock sits in the control plane.",
+  "friendlySummary": "Omnara says an agent's notes should not sit on a laptop or a temporary computer the agent might lose. In its system, the notes are ordinary folders on the servers that run Omnara. Whichever worker picks up the next turn can read and edit those folders. If two agents edit the same file, the second write is refused until that agent reads the new version, unless it deliberately overwrites. Omnara says a crashed temporary computer cannot lock the notes, because the lock is on the servers, not on that computer.",
+  "whyItMatters": "This is one vendor's design, not a standard. The useful distinction is the one the post is actually about: a file on a machine the agent might delete is not a memory. Omnara also cites a study in which, when results came back inline, agents answered long-memory questions more accurately with grep than with vector search in all ten setups tested. That citation is theirs to check. If your agent notes disappear when the sandbox does, the failure is the storage location, not the prompt.",
+  "friendlyWhyItMatters": "This is one company's design, not a shared standard. The useful distinction is the one the post is about. A file on a computer the agent might delete is not a memory. Omnara also points to a study where agents answered long memory questions more accurately by searching the text directly than by using a vector index, in all ten setups tested. That study is theirs to check. If your agent's notes vanish when the temporary computer does, the failure is where you stored them, not the wording of the prompt.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

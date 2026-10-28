@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-10-27T20:08:30Z",
+  "generatedAtUtc": "2026-10-28T20:10:26Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-10-29",
+      "slug": "2026-10-29",
+      "status": "published",
+      "publicationDateUtc": "2026-10-28T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Google's newest model is held for cyber defenders. The tools you can use today show what the tokens bought.",
+      "friendlyHeader": "Google's newest model is not open to the public yet. The other tools show what the spending bought.",
+      "summary": "Gemini 4 Carbon leads a rebuilt intelligence index, and Google is not opening it to the public yet. The rest of today's issue is about work you can already do: see what a team spent, check a legal citation, transcribe a recording, fill a form from Gmail, or let a router pick a cheaper model for the easy steps.",
+      "friendlySummary": "Gemini 4 Carbon is at the top of a rebuilt scoreboard, and Google is keeping it with a small group of security teams for now. The rest of today is about work you can already do: see what a team spent, check a legal quote, turn a recording into text, fill a form from email, or let a router pick a cheaper model for the easy steps.",
+      "itemCount": 13,
+      "href": "issues/2026-10-29.html",
+      "dataUrl": "data/daily-publications/2026-10-29.json"
+    },
     {
       "id": "daily-publication_2026-10-28",
       "slug": "2026-10-28",

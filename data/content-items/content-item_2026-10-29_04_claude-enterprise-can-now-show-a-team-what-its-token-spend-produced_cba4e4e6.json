@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_04_claude-enterprise-can-now-show-a-team-what-its-token-spend-produced_cba4e4e6",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+  "canonicalUrl": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Claude Enterprise can now show a team what its token spend produced",
+  "friendlyTitle": "Claude Enterprise can now show a team what its spending produced",
+  "summary": "Anthropic made three Claude Enterprise tools generally available on 28 October: smart reports, in-app surveys, and pooled group budgets. A report takes a team, a date range, and the products to include, then samples transcripts and groups the work into workstreams. It shows spend, deliverables, and common friction, such as a missing connector or a failed tool call. Surveys ask what would break if Claude disappeared. A pooled budget is one monthly pot for a group, with a member limit still acting as a guardrail.",
+  "friendlySummary": "On 28 October, Anthropic turned on three tools for Claude Enterprise. Smart reports look at a sample of a team's chats and sort the work into streams. Each stream shows what it cost, what it produced, and where it got stuck, such as a missing connection or a failed tool. Short surveys ask people what would break if Claude went away. A pooled budget is one monthly pot for a group, so one heavy user is less likely to hit a personal limit while others leave money unused.",
+  "whyItMatters": "The useful part is the refusal to treat the report as a performance review. Anthropic says the reports are for adoption and investment planning, not for evaluating a person or making an employment decision. Availability still depends on the account. Organizations with a HIPAA setup or customer-managed encryption keys may not get every piece. If you pay for Claude by the team, this is the first built-in way to see which workflows are worth turning into a skill, and which ones are just expensive.",
+  "friendlyWhyItMatters": "The useful limit is that this is not a performance review. Anthropic says the reports are for planning, not for judging a person or making a hiring or firing decision. Not every account gets every tool. Organizations with special health-data rules, or with their own encryption keys, may be left out of some pieces. If you pay for Claude by the team, this is the first built-in way to see which repeated jobs are worth saving as a skill, and which ones are just expensive.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

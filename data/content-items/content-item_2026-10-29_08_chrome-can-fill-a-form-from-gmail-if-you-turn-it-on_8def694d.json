@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_08_chrome-can-fill-a-form-from-gmail-if-you-turn-it-on_8def694d",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Chrome can fill a form from Gmail, if you turn it on",
+  "friendlyTitle": "Chrome can fill a form from your Gmail, if you turn it on",
+  "summary": "Chrome's enhanced autofill can now suggest details pulled from Gmail while you fill a form. Google says Gemini with Personal Intelligence can surface order numbers, tracking information, and flight bookings. The rollout started on 28 October for Gemini in Chrome users in the United States who already have Personal Intelligence on, on desktop, Android, and iOS. Google says sensitive data is encrypted, and that you turn the feature on and choose what it can access in Chrome settings. A later step, not this one, would read images in Google Photos.",
+  "friendlySummary": "Chrome can now suggest details from Gmail while you fill in a form. Google says it can show order numbers, tracking numbers, and flight bookings. The rollout started on 28 October in the United States, on desktop, Android, and iOS. It is for people who already use Gemini in Chrome and have already turned on Personal Intelligence. Google says the sensitive data is encrypted. You choose whether the feature is on, and what it can see, in Chrome settings. A later update, not this one, would also look at pictures in Google Photos.",
+  "whyItMatters": "Ordinary autofill already knew a name, an address, and a saved card. The new piece is the inbox. That is useful when the confirmation number is in a mail you do not want to hunt for, and it is a wider read of your mail than a password manager. It is off unless Personal Intelligence is on, and it is U.S.-only for now. If you share a Chrome profile, check the setting before you assume the suggestion came from a form you typed yourself.",
+  "friendlyWhyItMatters": "Normal autofill already knew your name, address, and a saved card. The new part is your inbox. That helps when the confirmation number is in an email you do not want to search for. It also means the browser is reading more of your mail than a password manager does. It stays off unless Personal Intelligence is on, and it is only in the United States for now. If you share a Chrome profile with someone else, check the setting before you assume a suggestion came from a form you typed yourself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-27T20:08:29Z",
+  "generatedAtUtc": "2026-10-28T20:10:26Z",
   "items": [
     {
-      "id": "content-item_2026-10-28_01_frontier-labs-say-their-models-refuted-a-27-year-rule-about-hard-problem_9ffebaf1",
+      "id": "content-item_2026-10-29_01_gemini-4-carbon-leads-a-new-index-and-most-people-cannot-use-it-yet_185e559c",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Gemini 4 Carbon leads a new index, and most people cannot use it yet",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "id": "content-item_2026-10-29_02_artificial-analysis-rebuilt-its-index-so-most-of-the-tests-are-private_34fa11d9",
       "sourceKind": "research",
-      "sourceName": "TechCrunch",
-      "title": "Frontier labs say their models refuted a 27-year rule about hard problems",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+      "sourceName": "Artificial Analysis",
+      "title": "Artificial Analysis rebuilt its index so most of the tests are private",
+      "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
     },
     {
-      "id": "content-item_2026-10-28_02_google-deepmind-opens-genie-4-a-world-model-you-can-steer-while-it-runs_d17d13a0",
+      "id": "content-item_2026-10-29_03_github-copilot-fusion-routes-work-across-anthropic-and-openai-models_4295423d",
       "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Google DeepMind opens Genie 4, a world model you can steer while it runs",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "sourceName": "Artificial Analysis",
+      "title": "GitHub Copilot Fusion routes work across Anthropic and OpenAI models",
+      "sourceUrl": "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost"
     },
     {
-      "id": "content-item_2026-10-28_03_claude-requested-a-token-for-georgia-vote-counts-it-was-not-asked-to-fet_d1e0a26d",
-      "sourceKind": "article",
-      "sourceName": "Axios",
-      "title": "Claude requested a token for Georgia vote counts it was not asked to fetch",
-      "sourceUrl": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data"
-    },
-    {
-      "id": "content-item_2026-10-28_04_stanford-professors-who-opted-out-of-the-anthropic-book-settlement-want_022826ad",
-      "sourceKind": "article",
-      "sourceName": "The Stanford Daily",
-      "title": "Stanford professors who opted out of the Anthropic book settlement want a jury",
-      "sourceUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
-    },
-    {
-      "id": "content-item_2026-10-28_05_opera-s-webai-runs-a-local-model-in-the-browser-if-you-opt-in_c3f55709",
+      "id": "content-item_2026-10-29_04_claude-enterprise-can-now-show-a-team-what-its-token-spend-produced_cba4e4e6",
       "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Opera's WebAI runs a local model in the browser, if you opt in",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+      "sourceName": "Anthropic",
+      "title": "Claude Enterprise can now show a team what its token spend produced",
+      "sourceUrl": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets"
     },
     {
-      "id": "content-item_2026-10-28_06_apple-s-m6-macbook-pro-and-imac-are-sold-on-faster-on-device-ai_c225e2d7",
+      "id": "content-item_2026-10-29_05_claude-for-legal-adds-checklists-that-link-every-line-to-a-source_3cfd7e48",
       "sourceKind": "product",
-      "sourceName": "Reuters",
-      "title": "Apple's M6 MacBook Pro and iMac are sold on faster on-device AI",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+      "sourceName": "Anthropic",
+      "title": "Claude for Legal adds checklists that link every line to a source",
+      "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
     },
     {
-      "id": "content-item_2026-10-28_07_openai-publishes-how-people-use-chatgpt-for-work-by-task-and-country_64d59b55",
+      "id": "content-item_2026-10-29_06_nvidia-releases-an-open-transcription-model-for-recordings-not-live-call_7ae8eb20",
+      "sourceKind": "product",
+      "sourceName": "NVIDIA",
+      "title": "Nvidia releases an open transcription model for recordings, not live calls",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    },
+    {
+      "id": "content-item_2026-10-29_07_google-opens-a-console-for-apps-inside-search-and-gemini_d532f885",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google opens a console for apps inside Search and Gemini",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
+    },
+    {
+      "id": "content-item_2026-10-29_08_chrome-can-fill-a-form-from-gmail-if-you-turn-it-on_8def694d",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Chrome can fill a form from Gmail, if you turn it on",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
+    },
+    {
+      "id": "content-item_2026-10-29_09_bellingcat-s-photo-test-models-narrow-the-map-and-still-miss-the-spot_4ef41757",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI publishes how people use ChatGPT for work, by task and country",
-      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work"
+      "sourceName": "Bellingcat",
+      "title": "Bellingcat's photo test: models narrow the map, and still miss the spot",
+      "sourceUrl": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/"
     },
     {
-      "id": "content-item_2026-10-28_08_copilotkit-releases-openduet-a-proactive-agent-you-host-yourself_8aea9af7",
-      "sourceKind": "product",
-      "sourceName": "CopilotKit",
-      "title": "CopilotKit releases OpenDuet, a proactive agent you host yourself",
-      "sourceUrl": "https://www.copilotkit.ai/blog/introducing-openduet"
+      "id": "content-item_2026-10-29_10_omnara-puts-agent-memory-in-a-shared-file-store-not-on-the-sandbox_b9ff3d60",
+      "sourceKind": "article",
+      "sourceName": "Omnara",
+      "title": "Omnara puts agent memory in a shared file store, not on the sandbox",
+      "sourceUrl": "https://www.omnara.com/blog/agent-memory-is-in-the-wrong-place"
     },
     {
-      "id": "content-item_2026-10-28_09_atuin-threads-lets-you-resume-an-agent-session-on-another-machine_dadb501d",
-      "sourceKind": "product",
-      "sourceName": "Atuin",
-      "title": "Atuin Threads lets you resume an agent session on another machine",
-      "sourceUrl": "https://blog.atuin.sh/threads-agent-sessions/"
-    },
-    {
-      "id": "content-item_2026-10-28_10_trump-says-government-documents-will-drop-the-term-artificial-intelligen_f372eff5",
-      "sourceKind": "regulation",
-      "sourceName": "The Hill",
-      "title": "Trump says government documents will drop the term artificial intelligence",
-      "sourceUrl": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
-    },
-    {
-      "id": "content-item_2026-10-28_11_gitroomhq-postiz-app-a-scheduler-an-agent-can-drive_07a76f24",
+      "id": "content-item_2026-10-29_11_elayadesign-ai-design-skills-a-landing-page-skill-for-coding-agents_10439e81",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "gitroomhq/postiz-app: a scheduler an agent can drive",
-      "sourceUrl": "https://github.com/gitroomhq/postiz-app"
+      "title": "elayadesign/ai-design-skills: a landing-page skill for coding agents",
+      "sourceUrl": "https://github.com/elayadesign/ai-design-skills"
     },
     {
-      "id": "content-item_2026-10-28_12_nightly-labs-openbot-a-local-desktop-for-codex-claude-and-grok_4341922e",
+      "id": "content-item_2026-10-29_12_expo-skills-agent-skills-for-expo-apps-including-the-paid-eas-ones_50e4a04d",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "nightly-labs/openbot: a local desktop for Codex, Claude, and Grok",
-      "sourceUrl": "https://github.com/nightly-labs/openbot"
+      "title": "expo/skills: agent skills for Expo apps, including the paid EAS ones",
+      "sourceUrl": "https://github.com/expo/skills"
     },
     {
-      "id": "content-item_2026-10-28_13_karpathy-micrograd-a-small-autograd-engine-you-can-read_d8434563",
+      "id": "content-item_2026-10-29_13_beenuar-aisoc-a-self-hosted-desk-for-sorting-security-alerts_d374e5dc",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "karpathy/micrograd: a small autograd engine you can read",
-      "sourceUrl": "https://github.com/karpathy/micrograd"
+      "title": "beenuar/AiSOC: a self-hosted desk for sorting security alerts",
+      "sourceUrl": "https://github.com/beenuar/AiSOC"
     }
   ]
 }

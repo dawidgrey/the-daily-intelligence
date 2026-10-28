@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_05_claude-for-legal-adds-checklists-that-link-every-line-to-a-source_3cfd7e48",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+  "canonicalUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Claude for Legal adds checklists that link every line to a source",
+  "friendlyTitle": "Claude for Legal now starts the check, then points at the source",
+  "summary": "Anthropic added a gallery of ready-made artifacts for Claude for Legal. The six it highlights are a cite check, a jurisdiction survey, a matter board, a playbook deviation board, a regulatory timeline, and a table pulled from a stack of contracts. Each one opens with an example. A lawyer adds documents or connectors, Claude does a first pass, and every answer links back to the source language. Anthropic says it has added more than 60 legal connectors since the May launch, including Bloomberg Law.",
+  "friendlySummary": "Anthropic added ready-made tools for Claude for Legal. The six it highlights check whether a quote matches its source, compare a legal topic across places, turn a pile of matters into one board, flag contract clauses that differ from your standard terms, map upcoming rules on a timeline, and build a table from a stack of contracts. Each tool opens with an example. A lawyer adds the documents. Claude does a first pass. Every answer links back to the original words. Anthropic says it has added more than 60 legal connections since May, including Bloomberg Law.",
+  "whyItMatters": "The design is a first draft with a citation, not a finished opinion. A cite check flags quotes that do not match, wrong page numbers, and sources that do not support the claim. A person still has to read the flag. Sharing settings are meant to keep client walls in place, which is Anthropic's claim, not an audit. If your legal work is still a pile of uploads, the connector list is the part worth checking before the templates.",
+  "friendlyWhyItMatters": "This is a first draft with a citation, not a finished legal opinion. The quote check flags words that do not match, wrong page numbers, and sources that do not support the claim. A person still has to read the flag. Anthropic says the sharing settings can keep client work separated. That is the company's claim, not an outside audit. If your legal work is still a pile of uploads, the list of connections is the part worth checking before the templates.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

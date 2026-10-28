@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_07_google-opens-a-console-for-apps-inside-search-and-gemini_d532f885",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Google opens a console for apps inside Search and Gemini",
+  "friendlyTitle": "Google is letting more apps plug into Search and Gemini",
+  "summary": "Google opened a preview of the Connected Apps Platform on 28 October. A developer connects a cloud MCP server, or Android MCP through AppFunctions, then registers the app in the Google Connected Console. Before review, they choose Search, the Gemini app, or both. After it is live, the console shows traffic, latency, and errors, and the developer keeps the verified logo and the signed-in account. Google says access will be added in phases, with a signup at developers.google.com/connected-apps.",
+  "friendlySummary": "On 28 October, Google opened a preview of a platform for connected apps. A developer links their service, registers it in a Google console, and chooses whether it appears in Search, the Gemini app, or both. After it is approved, the console shows how many people use it, how slow it is, and how often it fails. The developer keeps their logo and the signed-in account. Google says it will add developers in stages. The signup page is developers.google.com/connected-apps.",
+  "whyItMatters": "More than 50 connected apps are already in Gemini, including Adobe, Experian, Localiza, and Peloton. Google says those will come to Search over the coming weeks, and that Calm will launch on both. For a person, the change is whether a task stays inside the chat. For a business, it is a new shelf: the app has to be submitted, and Google has not said when the preview leaves the waitlist. A connector you cannot get approved is not a distribution channel yet.",
+  "friendlyWhyItMatters": "More than 50 connected apps are already inside Gemini, including Adobe, Experian, Localiza, and Peloton. Google says those will come to Search over the coming weeks, and that the Calm app will launch on both. For a person, the change is whether a job stays inside the chat. For a business, it is a new shelf. The app still has to be approved, and Google has not said when the preview opens to everyone. A connection you cannot get approved is not a way to reach customers yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

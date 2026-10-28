@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_02_artificial-analysis-rebuilt-its-index-so-most-of-the-tests-are-private_34fa11d9",
+  "sourceKind": "research",
+  "sourceName": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+  "canonicalUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Artificial Analysis rebuilt its index so most of the tests are private",
+  "friendlyTitle": "A popular model scoreboard now hides most of its test questions",
+  "summary": "On 27 October, Artificial Analysis published Intelligence Index v5. Two benchmarks are new, three are revised, and 60 percent of the index now uses private test sets or held-out answers. In that snapshot, before Carbon was in the table, Claude Opus 5.5 (max) led at 58, ahead of GPT-6 Astra (max) at 57. The best open-weights model with released weights, DeepSeek V4.1 Flash 1017 (max), scored 32, tied with GLM-5.3 (max). That is 26 points behind the leader, and below Claude Haiku 5.5 (max) at 36.",
+  "friendlySummary": "On 27 October, Artificial Analysis published a new version of its Intelligence Index. Two tests are new, three are updated, and 60 percent of the score now comes from questions the public cannot see. In that first table, before Carbon was included, Claude Opus 5.5 at its highest effort led with 58. GPT-6 Astra was next at 57. The best open model whose weights anyone can download, DeepSeek V4.1 Flash, scored 32. That is 26 points behind the leader, and below Claude's smaller Haiku 5.5 model at 36.",
+  "whyItMatters": "A public exam gets memorized. A private one is harder to game, which is why the gap matters more than the headline rank. Among the ten highest-scoring models in that article, cost per task ran from $0.96 for GPT-6.1 Terra (max) to $13.04 for Claude Fable 5.1 (max). Effort settings also moved scores by a lot: Opus 5.5 went from 35 at low effort to 58 at max, at about ten times the cost. Read the 27 October ranking as the table before Carbon. Google's later claim is that Carbon then took first at 59.",
+  "friendlyWhyItMatters": "If the questions are public, a model can be trained on the answers. Hidden questions are harder to cheat. That is why the gap matters more than one day's ranking. Among the ten highest-scoring models in that article, the cost of one task ran from $0.96 to $13.04. Turning the effort up also changed the score a lot. Opus 5.5 scored 35 on low effort and 58 on maximum, at about ten times the cost. Read the 27 October ranking as the table before Carbon. Google later said Carbon took first place with 59.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}

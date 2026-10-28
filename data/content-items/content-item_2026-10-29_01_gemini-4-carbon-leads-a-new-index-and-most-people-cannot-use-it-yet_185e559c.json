@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-29_01_gemini-4-carbon-leads-a-new-index-and-most-people-cannot-use-it-yet_185e559c",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-28T20:10:26Z",
+  "createdAtUtc": "2026-10-28T20:10:26Z",
+  "updatedAtUtc": "2026-10-28T20:10:26Z",
+  "title": "Gemini 4 Carbon leads a new index, and most people cannot use it yet",
+  "friendlyTitle": "Google's newest model is first on a scoreboard, and most people cannot use it yet",
+  "summary": "Google announced Gemini 4 Carbon on 28 October, two weeks after Gemini 4 Argon. Google says Carbon scores 59 and ranks first on Artificial Analysis Intelligence Index v5. The same-day note on Artificial Analysis agrees it is the new number one. Carbon is not in the Gemini app or the public API. Starting this week it goes to a subset of cyber defenders, then to more trusted partners through DeepMind's Fairwind program, while Google takes part in the U.S. government's voluntary pre-release testing.",
+  "friendlySummary": "Google announced Gemini 4 Carbon on 28 October, two weeks after Gemini 4 Argon. Google says Carbon scores 59 and is first on the Artificial Analysis Intelligence Index, version 5. Artificial Analysis said the same day that Carbon is the new number one. You cannot use it in the Gemini app or through the public developer service yet. This week it goes to a small group of people who defend computer systems. After that, more trusted partners can get it through a program called Fairwind. Google is also in a voluntary U.S. government check before a wider release.",
+  "whyItMatters": "The introductory price matches Argon: $2 per million input tokens and $10 per million output tokens, with cached input at 95 percent off. After that period, Google says the price becomes $4 and $20. Google also reports leads on tests for finding flaws, checking whether they can be used, and writing fixes, and says those tests were run without guardrails. Those cyber scores are Google's. The practical fact is the gate: this is not a model you can switch to today.",
+  "friendlyWhyItMatters": "The opening price is the same as Argon: $2 for a million input tokens and $10 for a million output tokens. A token is a small piece of text the model reads or writes. Saved input is 95 percent cheaper. Google says that opening price will later rise to $4 and $20. Google also says Carbon is ahead on tests that find software flaws, check whether a flaw can be used, and write a fix. Google ran those tests without safety limits. Those security scores are Google's own. The useful fact is simpler: you cannot switch to this model today.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-29"
+  }
+}
