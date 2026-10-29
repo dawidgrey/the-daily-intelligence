@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_07_deepgram-buys-daily-and-says-pipecat-stays-open-and-vendor-neutral_c546a70d",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Deepgram buys Daily and says Pipecat stays open and vendor-neutral",
+  "friendlyTitle": "Deepgram is buying the company behind Pipecat, and says the open tool will stay open",
+  "summary": "Deepgram said on 29 October that it is acquiring Daily, the company behind Pipecat, an open-source framework that wires speech-to-text, a language model, and text-to-speech into a live voice or video call. The price was not disclosed. Both companies say Pipecat will stay open source, and Daily co-founder Kwindla Kramer said Deepgram committed to keeping it vendor-neutral.",
+  "friendlySummary": "On 29 October Deepgram said it is buying Daily, the company that maintains Pipecat. Pipecat is free software that connects speech-to-text, a language model, and a voice into a live call. The sale price was not published. Both sides say Pipecat will stay open source, and Daily's co-founder said Deepgram promised it will keep working with other companies' models, not only Deepgram's.",
+  "whyItMatters": "Pipecat is the piece many teams use so a voice agent is not locked to one speech vendor. Deepgram is also launching a Real-Time Context Standard with the Pipecat team, a protocol for passing audio context, model instructions, and how the reply should sound. If you already run Pipecat, the commitment that matters is the license and the neutrality, not the press release. Kramer says that commitment is both personal and commercial.",
+  "friendlyWhyItMatters": "Many teams use Pipecat so a voice agent is not stuck with one speech company. Deepgram is also publishing a shared format, built with the Pipecat team, for passing along what the audio means, what the model should do with it, and how the reply should sound. If you already run Pipecat, the promise that matters is the license and that neutrality, not the announcement. The Daily co-founder says that promise is both personal and good for the business.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

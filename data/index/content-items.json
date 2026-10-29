@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-28T20:10:26Z",
+  "generatedAtUtc": "2026-10-29T20:08:44Z",
   "items": [
     {
-      "id": "content-item_2026-10-29_01_gemini-4-carbon-leads-a-new-index-and-most-people-cannot-use-it-yet_185e559c",
+      "id": "content-item_2026-10-30_01_mistral-releases-the-weights-for-its-trillion-parameter-model_8ccea7e8",
       "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini 4 Carbon leads a new index, and most people cannot use it yet",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      "sourceName": "Mistral",
+      "title": "Mistral releases the weights for its trillion-parameter model",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss"
     },
     {
-      "id": "content-item_2026-10-29_02_artificial-analysis-rebuilt-its-index-so-most-of-the-tests-are-private_34fa11d9",
-      "sourceKind": "research",
-      "sourceName": "Artificial Analysis",
-      "title": "Artificial Analysis rebuilt its index so most of the tests are private",
-      "sourceUrl": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
-    },
-    {
-      "id": "content-item_2026-10-29_03_github-copilot-fusion-routes-work-across-anthropic-and-openai-models_4295423d",
-      "sourceKind": "product",
-      "sourceName": "Artificial Analysis",
-      "title": "GitHub Copilot Fusion routes work across Anthropic and OpenAI models",
-      "sourceUrl": "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost"
-    },
-    {
-      "id": "content-item_2026-10-29_04_claude-enterprise-can-now-show-a-team-what-its-token-spend-produced_cba4e4e6",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude Enterprise can now show a team what its token spend produced",
-      "sourceUrl": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets"
-    },
-    {
-      "id": "content-item_2026-10-29_05_claude-for-legal-adds-checklists-that-link-every-line-to-a-source_3cfd7e48",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude for Legal adds checklists that link every line to a source",
-      "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
-    },
-    {
-      "id": "content-item_2026-10-29_06_nvidia-releases-an-open-transcription-model-for-recordings-not-live-call_7ae8eb20",
-      "sourceKind": "product",
-      "sourceName": "NVIDIA",
-      "title": "Nvidia releases an open transcription model for recordings, not live calls",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
-    },
-    {
-      "id": "content-item_2026-10-29_07_google-opens-a-console-for-apps-inside-search-and-gemini_d532f885",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Google opens a console for apps inside Search and Gemini",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
-    },
-    {
-      "id": "content-item_2026-10-29_08_chrome-can-fill-a-form-from-gmail-if-you-turn-it-on_8def694d",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Chrome can fill a form from Gmail, if you turn it on",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
-    },
-    {
-      "id": "content-item_2026-10-29_09_bellingcat-s-photo-test-models-narrow-the-map-and-still-miss-the-spot_4ef41757",
-      "sourceKind": "research",
-      "sourceName": "Bellingcat",
-      "title": "Bellingcat's photo test: models narrow the map, and still miss the spot",
-      "sourceUrl": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/"
-    },
-    {
-      "id": "content-item_2026-10-29_10_omnara-puts-agent-memory-in-a-shared-file-store-not-on-the-sandbox_b9ff3d60",
+      "id": "content-item_2026-10-30_02_openai-rewrites-its-model-spec-around-five-values-and-says-models-do-not_7bf0065c",
       "sourceKind": "article",
-      "sourceName": "Omnara",
-      "title": "Omnara puts agent memory in a shared file store, not on the sandbox",
-      "sourceUrl": "https://www.omnara.com/blog/agent-memory-is-in-the-wrong-place"
+      "sourceName": "OpenAI",
+      "title": "OpenAI rewrites its Model Spec around five values, and says models do not follow it yet",
+      "sourceUrl": "https://openai.com/index/updated-model-spec"
     },
     {
-      "id": "content-item_2026-10-29_11_elayadesign-ai-design-skills-a-landing-page-skill-for-coding-agents_10439e81",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "elayadesign/ai-design-skills: a landing-page skill for coding agents",
-      "sourceUrl": "https://github.com/elayadesign/ai-design-skills"
+      "id": "content-item_2026-10-30_03_experts-followed-an-agent-s-coin-flip-preference-and-called-the-result-t_543233bf",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Experts followed an agent's coin-flip preference and called the result their own",
+      "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls"
     },
     {
-      "id": "content-item_2026-10-29_12_expo-skills-agent-skills-for-expo-apps-including-the-paid-eas-ones_50e4a04d",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "expo/skills: agent skills for Expo apps, including the paid EAS ones",
-      "sourceUrl": "https://github.com/expo/skills"
+      "id": "content-item_2026-10-30_04_openai-says-a-replay-of-its-monitors-would-have-flagged-the-hugging-face_d28967fc",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says a replay of its monitors would have flagged the Hugging Face breakout in 30 minutes",
+      "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     {
-      "id": "content-item_2026-10-29_13_beenuar-aisoc-a-self-hosted-desk-for-sorting-security-alerts_d374e5dc",
+      "id": "content-item_2026-10-30_05_android-studio-rabbit-2-lets-you-bring-claude-codex-or-another-agent_be4cd100",
+      "sourceKind": "product",
+      "sourceName": "Android Developers",
+      "title": "Android Studio Rabbit 2 lets you bring Claude, Codex, or another agent",
+      "sourceUrl": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration"
+    },
+    {
+      "id": "content-item_2026-10-30_06_granola-adds-free-dictation-on-the-mac-in-any-app_a39d2cb2",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Granola adds free dictation on the Mac, in any app",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+    },
+    {
+      "id": "content-item_2026-10-30_07_deepgram-buys-daily-and-says-pipecat-stays-open-and-vendor-neutral_c546a70d",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Deepgram buys Daily and says Pipecat stays open and vendor-neutral",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+    },
+    {
+      "id": "content-item_2026-10-30_08_dream-raises-17-million-to-design-buildings-from-permit-archives-not-fro_88294416",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Dream raises $17 million to design buildings from permit archives, not from a picture prompt",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    },
+    {
+      "id": "content-item_2026-10-30_09_ibm-ships-granite-switch-4-1-1-as-a-patch-not-a-new-model_f3538b6f",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "IBM ships Granite Switch 4.1.1 as a patch, not a new model",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "id": "content-item_2026-10-30_10_hugging-face-and-five-universities-start-a-push-to-make-public-research_e1c742c1",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face and five universities start a push to make public research usable by AI",
+      "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar"
+    },
+    {
+      "id": "content-item_2026-10-30_11_milind-soni-openmausbot-a-local-chat-app-where-each-bot-gets-a-computer_239feae3",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "beenuar/AiSOC: a self-hosted desk for sorting security alerts",
-      "sourceUrl": "https://github.com/beenuar/AiSOC"
+      "title": "milind-soni/OpenMausBot: a local chat app where each bot gets a computer",
+      "sourceUrl": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "id": "content-item_2026-10-30_12_donchitos-claude-code-game-studios-a-studio-of-agents-with-a-dial-for-ho_5661de31",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "Donchitos/Claude-Code-Game-Studios: a studio of agents, with a dial for how much process you want",
+      "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    },
+    {
+      "id": "content-item_2026-10-30_13_rlaope-oh-my-hermes-a-routing-layer-that-leaves-hermes-itself-alone_248f98dc",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "rlaope/oh-my-hermes: a routing layer that leaves Hermes itself alone",
+      "sourceUrl": "https://github.com/rlaope/oh-my-hermes"
     }
   ]
 }

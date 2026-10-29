@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_02_openai-rewrites-its-model-spec-around-five-values-and-says-models-do-not_7bf0065c",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/updated-model-spec",
+  "canonicalUrl": "https://openai.com/index/updated-model-spec",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "OpenAI rewrites its Model Spec around five values, and says models do not follow it yet",
+  "friendlyTitle": "OpenAI wrote clearer rules for how its models should behave, and says they do not follow them yet",
+  "summary": "OpenAI updated the Model Spec on 29 October, the public document that describes how it wants its models to behave. The revision organizes the guidance around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. It adds rules for context, oversight, and side effects, and retires most of the detailed style guidance.",
+  "friendlySummary": "On 29 October OpenAI updated the Model Spec, the public document that says how it wants its models to act. The new version is built around five ideas: follow what people actually want, reduce harm, be honest, help people stay in charge, and take their situation seriously. It drops most of the old rules about writing style.",
+  "whyItMatters": "Style is now supposed to follow what a person has actually preferred, not a long house style, and the model should not take a viewpoint just because it thinks that is what you want to hear. OpenAI is explicit that current models do not yet fully reflect the new Spec. Treat it as the behavior the company is training toward, not as a description of what ChatGPT already does.",
+  "friendlyWhyItMatters": "The model is supposed to match the way you like to write, not a fixed company style. It also should not take a side just because it thinks you want to hear that side. OpenAI says today's models do not fully follow the new document yet. Read it as the behavior the company is aiming for, not as a promise about what ChatGPT already does.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

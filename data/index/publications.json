@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-28T20:10:26Z",
+  "generatedAtUtc": "2026-10-29T20:08:45Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-30",
+      "slug": "2026-10-30",
+      "status": "published",
+      "publicationDateUtc": "2026-10-29T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The weights are downloadable. The judgment call may not be yours.",
+      "friendlyHeader": "You can download a very large model. The harder part is noticing who made the choice.",
+      "summary": "Mistral has released the weights for its trillion-parameter model, so a team can host the coding and security work itself. The rest of today's issue is about what happens after an agent starts helping: whose preference shapes an analysis, whether a monitor would have caught a breakout, and the smaller tools that type, talk, and review the diff.",
+      "friendlySummary": "Mistral has published the files for a huge model, so a team can run it on its own computers. The rest of today is about what happens after an agent starts helping: whose preference shapes a decision, whether a watch system would have caught a breakout, and smaller tools that type, talk, and check the changes.",
+      "itemCount": 13,
+      "href": "issues/2026-10-30.html",
+      "dataUrl": "data/daily-publications/2026-10-30.json"
+    },
     {
       "id": "daily-publication_2026-10-29",
       "slug": "2026-10-29",

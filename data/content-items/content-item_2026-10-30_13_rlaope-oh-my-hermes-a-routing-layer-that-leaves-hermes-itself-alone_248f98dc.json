@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_13_rlaope-oh-my-hermes-a-routing-layer-that-leaves-hermes-itself-alone_248f98dc",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/rlaope/oh-my-hermes",
+  "canonicalUrl": "https://github.com/rlaope/oh-my-hermes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "rlaope/oh-my-hermes: a routing layer that leaves Hermes itself alone",
+  "friendlyTitle": "A layer that picks skills and models for Hermes, without changing Hermes itself",
+  "summary": "oh-my-hermes added about 327 stars on GitHub's daily Python trending list. It is an MIT-licensed operating layer for Hermes Agent: it picks a skill and a model chain for each lane, and can run ready nodes of a /dag-ulw graph in parallel. The project says it does not patch or replace Hermes, and it does not read Hermes' own memory.",
+  "friendlySummary": "oh-my-hermes added about 327 stars on GitHub's daily Python trending list. It sits on top of Hermes Agent. It chooses a skill and a model for each piece of work, and it can run ready pieces at the same time. The project says it does not modify Hermes, and it does not read Hermes' own memory.",
+  "whyItMatters": "A run is not marked verified because an executor said it finished. The status labels distinguish a plan that has not run, code that was reported done, and a test or review that actually passed. Memory candidates are kept, refused, or deferred with a written reason, then cut to a token budget for the next session. Language-server tools are off until you enable them. After install, omh doctor is the check that the registration landed.",
+  "friendlyWhyItMatters": "Work is not called checked just because the agent said it was finished. The labels separate a plan that has not run, code the agent says is done, and a test or review that actually passed. Each memory note is kept, refused, or postponed, with a written reason, and only a short pack is sent into the next session. Language-server tools stay off until you turn them on. After you install it, omh doctor is the check that it registered.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

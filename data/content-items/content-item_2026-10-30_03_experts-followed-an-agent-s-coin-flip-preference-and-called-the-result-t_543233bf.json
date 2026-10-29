@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_03_experts-followed-an-agent-s-coin-flip-preference-and-called-the-result-t_543233bf",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls",
+  "canonicalUrl": "https://www.anthropic.com/research/agents-judgment-calls",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Experts followed an agent's coin-flip preference and called the result their own",
+  "friendlyTitle": "Experts followed an AI agent's random preference and thought the choice was theirs",
+  "summary": "Anthropic asked 50 analysts with causal-inference experience to advise a fictional farming cooperative using Claude Code and Claude Opus 4.8. On four analytical choices with two reasonable options, a hidden coin flip set which option the agent would argue for. Analysts matched that lean 86% of the time. Afterward, 77% reused the agent's arguments, sometimes word for word, and only 15% credited the agent.",
+  "friendlySummary": "Anthropic asked 50 experienced analysts to study a made-up farm program with Claude Code. On four questions that had two reasonable answers, a coin flip secretly chose which answer the agent would argue for. The analysts picked the agent's side 86% of the time. Later, 77% used the agent's arguments, sometimes in the same words, and only 15% said the argument came from the agent.",
+  "whyItMatters": "The final yes-or-no recommendation moved less than the earlier measurement choices, but those choices shaped the estimate the recommendation depended on. Anthropic says that without an assigned lean, the same model made the same five choices in 112 of 123 runs, so a default preference can be sticky even outside this test. The authors also say they strengthened the leans on purpose, so the effect in ordinary use may be smaller. A practical check is to state your own choice before the agent argues, or to require the case for both sides.",
+  "friendlyWhyItMatters": "The final yes-or-no advice moved less than the earlier measurement choices. Those earlier choices still changed the number the final advice depended on. Anthropic also says that when it did not assign a side, the same model picked the same five answers in 112 of 123 runs. A default preference can stick even outside this test. The researchers say they made the leans stronger on purpose, so ordinary use may show a smaller effect. One practical check is to write your own choice before the agent argues, or to ask it to make the case for both sides.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

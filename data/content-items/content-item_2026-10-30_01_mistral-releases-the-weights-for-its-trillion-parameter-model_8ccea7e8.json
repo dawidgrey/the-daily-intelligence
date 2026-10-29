@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_01_mistral-releases-the-weights-for-its-trillion-parameter-model_8ccea7e8",
+  "sourceKind": "product",
+  "sourceName": "Mistral",
+  "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss",
+  "canonicalUrl": "https://mistral.ai/news/mistral-large-4-oss",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Mistral releases the weights for its trillion-parameter model",
+  "friendlyTitle": "Mistral has published the files for a very large model you can run yourself",
+  "summary": "On 29 October Mistral released the weights for Mistral Large 4, nicknamed Le Chonk, after a public preview earlier in the month. The company says three more weeks of reinforcement learning moved it to the front of open-weight coding: 19.7% on Cognition's private FrontierCode 2.0, 41% on Terminal-Bench 4.0, up 13 points from the preview, and 48% on Artificial Analysis' Coding Agent Index, tied with GLM-5.3 while using 47% fewer tokens per task. On the Cyber Index it scores 51%.",
+  "friendlySummary": "On 29 October Mistral released the weights for Mistral Large 4, nicknamed Le Chonk. Weights are the files that make a model work. After a short public trial earlier this month, Mistral says more training made it better at writing code. It leads open models on two coding tests, and ties the best open model on a third while using about half as many tokens. A token is a small piece of text. On a security test it scores 51%.",
+  "whyItMatters": "The weights are on Hugging Face as Mistral-Large-4-1T-A52B, and the API price is $0.70 per million input tokens, $0.07 for cached input, and $2.10 for output. High reasoning is the default; Low and Medium are for cheaper everyday work. The license is a modified MIT: you can use, change, and sell the model, but a business that offers it as a hosted service needs a separate commercial license from Mistral. Mistral also says the model refused 96.6% of malicious cyber prompts in its own tests, the highest refusal rate it measured among open models.",
+  "friendlyWhyItMatters": "You can download the files from Hugging Face, or pay to use Mistral's service: $0.70 to read a million tokens, $0.07 if those tokens were saved from an earlier call, and $2.10 for a million tokens the model writes. The hardest thinking mode is the default. Easier modes cost less. The license is mostly free, including for a business product, with one limit: if you sell the model itself as an online service, you need a paid license from Mistral. Mistral also says the model refused 96.6% of harmful hacking requests in its own tests, a higher refusal rate than the other open models it measured.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

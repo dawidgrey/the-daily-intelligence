@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_12_donchitos-claude-code-game-studios-a-studio-of-agents-with-a-dial-for-ho_5661de31",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "canonicalUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Donchitos/Claude-Code-Game-Studios: a studio of agents, with a dial for how much process you want",
+  "friendlyTitle": "A pack of 49 agents for building a game in Claude Code, with a dial for how much paperwork you want",
+  "summary": "Claude Code Game Studios picked up about 538 stars on GitHub's daily trending list. It is an MIT-licensed template that turns one Claude Code session into 49 role agents, 74 skills, and hooks for Godot, Unity, or Unreal. You clone it, open Claude Code in the project root, and run /start.",
+  "friendlySummary": "Claude Code Game Studios picked up about 538 stars on GitHub's daily trending list. It is a free template that turns one Claude Code session into 49 role-based agents and 74 commands, with support for Godot, Unity, or Unreal. You copy the project, open Claude Code in the top folder, and type /start.",
+  "whyItMatters": "The setting that changes the cost is modes.rigor. Minimal is the default: one brief, then stories, then code. The project's own measurement built four games from one brief and found that the standard setting wrote 30 documents before the first line of game code, then ranked last with blind reviewers. A story that changes what the player sees is not closed until the game has been launched and a screenshot saved. Open it in the project root, or the hooks and permission rules do not load.",
+  "friendlyWhyItMatters": "The setting that changes the cost is called rigor. The light setting is the default: a one-page brief, then tasks, then code. The project's own test built four games from one brief. The heavier setting wrote 30 documents before the first line of game code, and blind reviewers ranked that build last. A task that changes what the player sees is not finished until the game has been launched and a screenshot saved. Open Claude Code in the top folder, or the checks and permission rules do not turn on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_10_hugging-face-and-five-universities-start-a-push-to-make-public-research_e1c742c1",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar",
+  "canonicalUrl": "https://huggingface.co/blog/announcing-project-protostar",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Hugging Face and five universities start a push to make public research usable by AI",
+  "friendlyTitle": "A new project wants publicly funded science in a form AI can actually reuse",
+  "summary": "Project ProtoStar, announced on 29 October, asks universities and research organizations to publish publicly funded datasets, models, and code in formats an AI system can actually reuse. Founding university partners are Carnegie Mellon, Purdue, Georgia Tech, Arizona State, and George Washington, with Hugging Face as the infrastructure partner. The first open challenge, hosted by Carnegie Mellon, opens on 2 November and focuses on climate-risk intelligence.",
+  "friendlySummary": "On 29 October, Hugging Face and several universities announced Project ProtoStar. It asks research groups to publish publicly funded data, models, and code in formats an AI system can reuse, not only as a PDF. The first university partners are Carnegie Mellon, Purdue, Georgia Tech, Arizona State, and George Washington. The first open challenge, run by Carnegie Mellon, opens on 2 November and is about climate risk.",
+  "whyItMatters": "A PDF in a repository is not a dataset an agent can query. Hugging Face says it already hosts more than 17,000 public datasets in core scientific domains, and that researchers shared more than three times as many new science datasets there in the first nine months of 2026 as in the same period of 2025. The practical change, if the project works, is documentation and machine-readable release, not another portal. Organizations can join by writing to protostar@orcaopen.org.",
+  "friendlyWhyItMatters": "A paper in a file is not a dataset an agent can search. Hugging Face says it already hosts more than 17,000 public science datasets, and that researchers shared more than three times as many new ones there in the first nine months of 2026 as in the same months of 2025. If this project works, the change is better documentation and files a machine can read, not another website. Groups that want to join can write to protostar@orcaopen.org.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

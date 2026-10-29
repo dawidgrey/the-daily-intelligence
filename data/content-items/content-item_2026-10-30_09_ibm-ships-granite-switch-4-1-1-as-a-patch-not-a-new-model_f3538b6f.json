@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_09_ibm-ships-granite-switch-4-1-1-as-a-patch-not-a-new-model_f3538b6f",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "IBM ships Granite Switch 4.1.1 as a patch, not a new model",
+  "friendlyTitle": "IBM updated its modular model the way you update an app",
+  "summary": "IBM released Granite Switch 4.1.1 on 29 October, a week and a half after Switch 4.1. The version number is meant literally: IBM says it is backwards compatible, needs no migration, and leaves the base model untouched. The patch updates the speech adapter and the decision adapter. The speech model covers 10 languages and now adds punctuation and capitalization, so a transcript does not need a separate formatting pass.",
+  "friendlySummary": "On 29 October IBM released Granite Switch 4.1.1, a small update to the version from a week and a half ago. IBM says it works with the old version, needs no move to a new setup, and does not change the base model. The update improves the speech piece and the decision piece. The speech model covers 10 languages and now adds punctuation and capital letters, so the transcript is ready to use.",
+  "whyItMatters": "If you already run Switch 4.1, this is an adapter swap, not a new endpoint and not a retraining job. IBM says that is the point of the architecture: a team can ship a speech or decision improvement the way it ships a software patch. The Adapter SDK for outside developers is not in this release. IBM says tutorials are still coming.",
+  "friendlyWhyItMatters": "If you already run Switch 4.1, you swap in the new add-on. You do not retrain the model or change the address your app calls. IBM says that is the point: a speech or decision improvement can ship like a software patch. A kit for other developers to build their own add-ons is not in this release. IBM says the guides are still coming.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

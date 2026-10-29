@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-30",
+  "slug": "2026-10-30",
+  "status": "published",
+  "publicationDateUtc": "2026-10-29T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The weights are downloadable. The judgment call may not be yours.",
+  "friendlyHeader": "You can download a very large model. The harder part is noticing who made the choice.",
+  "summary": "Mistral has released the weights for its trillion-parameter model, so a team can host the coding and security work itself. The rest of today's issue is about what happens after an agent starts helping: whose preference shapes an analysis, whether a monitor would have caught a breakout, and the smaller tools that type, talk, and review the diff.",
+  "friendlySummary": "Mistral has published the files for a huge model, so a team can run it on its own computers. The rest of today is about what happens after an agent starts helping: whose preference shapes a decision, whether a watch system would have caught a breakout, and smaller tools that type, talk, and check the changes.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-30_01_mistral-releases-the-weights-for-its-trillion-parameter-model_8ccea7e8",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_02_openai-rewrites-its-model-spec-around-five-values-and-says-models-do-not_7bf0065c",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_03_experts-followed-an-agent-s-coin-flip-preference-and-called-the-result-t_543233bf",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_04_openai-says-a-replay-of-its-monitors-would-have-flagged-the-hugging-face_d28967fc",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_05_android-studio-rabbit-2-lets-you-bring-claude-codex-or-another-agent_be4cd100",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_06_granola-adds-free-dictation-on-the-mac-in-any-app_a39d2cb2",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_07_deepgram-buys-daily-and-says-pipecat-stays-open-and-vendor-neutral_c546a70d",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_08_dream-raises-17-million-to-design-buildings-from-permit-archives-not-fro_88294416",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_09_ibm-ships-granite-switch-4-1-1-as-a-patch-not-a-new-model_f3538b6f",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_10_hugging-face-and-five-universities-start-a-push-to-make-public-research_e1c742c1",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_11_milind-soni-openmausbot-a-local-chat-app-where-each-bot-gets-a-computer_239feae3",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_12_donchitos-claude-code-game-studios-a-studio-of-agents-with-a-dial-for-ho_5661de31",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-30_13_rlaope-oh-my-hermes-a-routing-layer-that-leaves-hermes-itself-alone_248f98dc",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-30.json",
+    "itemCount": 13
+  }
+}

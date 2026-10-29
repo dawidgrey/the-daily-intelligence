@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_11_milind-soni-openmausbot-a-local-chat-app-where-each-bot-gets-a-computer_239feae3",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/milind-soni/OpenMausBot",
+  "canonicalUrl": "https://github.com/milind-soni/OpenMausBot",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "milind-soni/OpenMausBot: a local chat app where each bot gets a computer",
+  "friendlyTitle": "An open app that lets you chat with several AI agents, each with its own computer",
+  "summary": "OpenMausBot was the most-starred new AI repository on GitHub's daily trending list, with about 1,190 stars in that window. It is an Apache-2.0 desktop app, for Mac, Windows, and Ubuntu, that presents Claude, Codex, or Grok CLI agents as separate chats. Each bot can use a cloud Linux desktop, an isolated local virtual machine, or, after an explicit opt-in, the host computer.",
+  "friendlySummary": "OpenMausBot picked up about 1,190 stars on GitHub's daily trending list, more than any other new AI repository there. It is a free desktop app for Mac, Windows, and Ubuntu. It shows Claude, Codex, or Grok agents as separate chats. Each bot can use a cloud desktop, a separate virtual computer, or, if you turn it on, your own computer.",
+  "whyItMatters": "You bring the agent logins you already have. Transcripts and keys stay in ~/.openmausbot on your machine, and shell commands and file edits are supposed to surface as Allow or Deny cards. Host control is certified for macOS and Ubuntu Xorg only; Wayland host control is still disabled. It is not affiliated with xAI. The enterprise folder is source-available under a separate license; delete it and the rest is the open-source edition.",
+  "friendlyWhyItMatters": "You use the agent accounts you already pay for. Chats and keys stay in a folder on your machine, and commands and file edits are supposed to ask you to allow or deny them. Control of your own computer is supported on Mac and on Ubuntu with Xorg. It is not supported on Ubuntu with Wayland yet. The project is not part of xAI. One folder is under a different license; if you delete that folder, the rest is the open-source app.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

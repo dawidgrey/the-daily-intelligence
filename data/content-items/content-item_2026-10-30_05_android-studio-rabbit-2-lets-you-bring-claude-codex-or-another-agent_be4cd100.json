@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_05_android-studio-rabbit-2-lets-you-bring-claude-codex-or-another-agent_be4cd100",
+  "sourceKind": "product",
+  "sourceName": "Android Developers",
+  "sourceUrl": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+  "canonicalUrl": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Android Studio Rabbit 2 lets you bring Claude, Codex, or another agent",
+  "friendlyTitle": "Android Studio can now run Claude, Codex, or another coding agent you choose",
+  "summary": "Android Studio Rabbit 2 is now the stable release. Bring Your Own Agent lets a developer run an Agent Client Protocol agent inside the IDE, including Claude Agent, OpenAI Codex, Junie, and Google Antigravity, from a list of more than 40. Those agents can use the emulator, the build system, Logcat, and Android's published skills.",
+  "friendlySummary": "The stable version of Android Studio, called Rabbit 2, can run a coding agent inside the editor. You can pick from more than 40, including Claude, OpenAI's Codex, Junie, and Google's own agent. The agent can use the phone simulator, the build tools, the error log, and Android's written skill guides.",
+  "whyItMatters": "The practical addition is Change Review. It can start from the agent's pending edits, uncommitted files, or the git log, suggest fixes, and then group the diff into a walkthrough instead of an alphabetical file list. Google also says Gemini Enterprise in Android Studio does not retain workspace code to train global models. That is a vendor claim. The setting that matters on a team machine is which agent is authenticated, and who can approve the patch.",
+  "friendlyWhyItMatters": "The useful new piece is a review of the changes. It can start from the agent's edits, from files you have not committed, or from the git history. It suggests fixes, then groups related changes so you do not have to read files in alphabetical order. Google also says its enterprise mode does not keep your code to train its public models. That is Google's claim. On a shared computer, the setting that matters is which agent is signed in, and who is allowed to accept the patch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}

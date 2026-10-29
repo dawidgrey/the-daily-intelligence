@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-30_08_dream-raises-17-million-to-design-buildings-from-permit-archives-not-fro_88294416",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-29T20:08:44Z",
+  "createdAtUtc": "2026-10-29T20:08:44Z",
+  "updatedAtUtc": "2026-10-29T20:08:44Z",
+  "title": "Dream raises $17 million to design buildings from permit archives, not from a picture prompt",
+  "friendlyTitle": "A new startup wants AI to design buildings from permit records, not from a pretty picture",
+  "summary": "Dream, founded by two former Palantir executives, came out of stealth on 29 October with a $17 million seed round led by Andreessen Horowitz. The company says its model is trained on more than 100 million square feet of building data from U.S. permit archives, and that it generates designs that account for structure, materials, plumbing, and HVAC rather than an image of a facade. It says the product is already on 10 active projects in Texas and California.",
+  "friendlySummary": "Dream, started by two former Palantir executives, announced itself on 29 October with $17 million in seed funding led by Andreessen Horowitz. The company says its model was trained on more than 100 million square feet of building records from U.S. permits. It says the designs include structure, materials, plumbing, and heating, not just a picture of the outside. It says the tool is already in use on 10 projects in Texas and California.",
+  "whyItMatters": "A picture of a building is not a building that can be permitted. Dream's claim is that the model knows what is inside the walls. That claim is the company's, and TechCrunch notes other startups are also trying to replace AutoCAD and Revit. The useful test for an architect is not the render. It is whether the output can be checked against the code, the loads, and the cost estimate before anyone treats it as a design.",
+  "friendlyWhyItMatters": "A picture of a building is not a building a city will approve. Dream's claim is that the model knows what is inside the walls. That claim is the company's, and other startups are also trying to replace older design software. The useful test for an architect is not the picture. It is whether the output can be checked against the building rules, the weight the structure must hold, and the cost, before anyone treats it as a design.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-30"
+  }
+}
