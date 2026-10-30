@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-10-29T20:08:45Z",
+  "generatedAtUtc": "2026-10-30T20:09:15Z",
   "items": [
+    {
+      "id": "daily-publication_2026-10-31",
+      "slug": "2026-10-31",
+      "status": "published",
+      "publicationDateUtc": "2026-10-30T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A shared training opt-out is coming. It is not on yet.",
+      "friendlyHeader": "Websites may soon share one training opt-out. It is not switched on yet.",
+      "summary": "On 30 October, OpenAI and Google said they will honor one robots.txt signal for AI training, so a site does not have to write a separate rule for every crawler. Neither company has switched it on. The rest of today's issue is about the limits that already apply: a cyber-access session that can still be used for training, a renamed Claude plan, and a delivery company that has counted only a few hundred orders from outside agents.",
+      "friendlySummary": "On 30 October, OpenAI and Google said they will follow one shared file setting that tells AI companies not to train on a website. Neither company has turned that setting on. Today also covers a special ChatGPT session that can still be used for training, a renamed Claude plan, and a food-delivery company that has seen only a few hundred orders from outside AI agents.",
+      "itemCount": 13,
+      "href": "issues/2026-10-31.html",
+      "dataUrl": "data/daily-publications/2026-10-31.json"
+    },
     {
       "id": "daily-publication_2026-10-30",
       "slug": "2026-10-30",

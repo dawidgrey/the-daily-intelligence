@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_01_google-and-openai-will-honor-one-robots-txt-line-for-ai-training_f041d99d",
+  "sourceKind": "article",
+  "sourceName": "Google Search Central",
+  "sourceUrl": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+  "canonicalUrl": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Google and OpenAI will honor one robots.txt line for AI training",
+  "friendlyTitle": "Google and OpenAI plan to share one website setting for AI training",
+  "summary": "On 30 October Google said it plans to treat a shared robots.txt token, __usage_ai-training, as a training preference across participating AI providers. If a site disallows that token and does not set a separate rule for Google-Extended, Google plans to read the disallow as a block on Google-Extended, the training control it has offered since 2023. OpenAI said the same day that it will honor the signal. The draft, posted to the IETF on 30 October, is not yet a standard.",
+  "friendlySummary": "On 30 October Google said a website will be able to put one shared name in its robots.txt file to say it does not want AI companies to train on its pages. Robots.txt is the small public file sites already use to talk to crawlers. If a site uses that name and does not set a separate Google rule, Google plans to treat it like Google-Extended, the training opt-out it has offered since 2023. OpenAI said the same day that it will follow the signal too. The write-up of the signal is a draft, not a finished internet standard.",
+  "whyItMatters": "The useful part is the date, not the syntax. Google says it aims to support the control in 2027. OpenAI says it aims to implement it in the coming months, and that its existing per-crawler robots.txt rules still apply. Adding the token today records a preference. It does not yet stop either company from training. The company-specific rules you already publish are still the ones that work.",
+  "friendlyWhyItMatters": "The date matters more than the file format. Google says it aims to support the new control in 2027. OpenAI says it aims to turn it on in the coming months, and that the older per-company rules still apply. Adding the new line today records a preference. It does not yet stop either company from training. The rules you already set for each crawler are still the ones that work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

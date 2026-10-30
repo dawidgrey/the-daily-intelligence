@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_09_axiom-says-agents-produced-a-computer-checked-proof-of-the-enormous-theo_cd36ff73",
+  "sourceKind": "research",
+  "sourceName": "Axiom Math",
+  "sourceUrl": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+  "canonicalUrl": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Axiom says agents produced a computer-checked proof of the enormous theorem",
+  "friendlyTitle": "Axiom says AI agents helped produce a computer-checked proof of a huge theorem",
+  "summary": "Axiom Math says it has released the first complete computer-checked proof of the classification of finite simple groups, a result whose human write-up runs to about 15,000 pages. Over 24 days, the company says, engineers and mathematicians directed swarms of agents that produced about 43.1 million lines of Lean. The translation found 34 noteworthy gaps in the published arguments, including a substantial repair to the Unbalanced Group Theorem, and one new group-theory result.",
+  "friendlySummary": "Axiom Math says it has published the first complete computer-checked proof of a famous result in group theory, nicknamed the enormous theorem. The original human proof is about 15,000 pages. Axiom says that over 24 days, people directed groups of AI agents that wrote about 43.1 million lines in Lean, a language a computer can check. The translation found 34 important gaps in the published arguments, including one large repair, and one new result.",
+  "whyItMatters": "The proof is checkable by a computer, which is the point of Lean, and Axiom says the errata will be published with group theorists who worked on the original classification. That is a different claim from a model discovering the theorem on its own. If you rely on agent-written proofs, this project ran into the same constraint: the agents exposed mistakes, and people still had to decide which deviations mattered.",
+  "friendlyWhyItMatters": "A computer can now check the proof, which is what Lean is for. Axiom says it will publish the list of errors with mathematicians who worked on the original proof. That is not the same as a model discovering the theorem by itself. If you use an agent to write a proof, this project hit the same limit: the agents found mistakes, and people still had to decide which ones mattered.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

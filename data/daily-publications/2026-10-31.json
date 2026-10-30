@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-10-31",
+  "slug": "2026-10-31",
+  "status": "published",
+  "publicationDateUtc": "2026-10-30T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A shared training opt-out is coming. It is not on yet.",
+  "friendlyHeader": "Websites may soon share one training opt-out. It is not switched on yet.",
+  "summary": "On 30 October, OpenAI and Google said they will honor one robots.txt signal for AI training, so a site does not have to write a separate rule for every crawler. Neither company has switched it on. The rest of today's issue is about the limits that already apply: a cyber-access session that can still be used for training, a renamed Claude plan, and a delivery company that has counted only a few hundred orders from outside agents.",
+  "friendlySummary": "On 30 October, OpenAI and Google said they will follow one shared file setting that tells AI companies not to train on a website. Neither company has turned that setting on. Today also covers a special ChatGPT session that can still be used for training, a renamed Claude plan, and a food-delivery company that has seen only a few hundred orders from outside AI agents.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-10-31_01_google-and-openai-will-honor-one-robots-txt-line-for-ai-training_f041d99d",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_02_a-daybreak-session-can-still-be-used-for-training-after-you-opt-out_e48642ad",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_03_claude-s-max-20x-plan-is-now-ultra-at-the-same-200-price_8e5047be",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_04_openai-doubles-work-and-codex-allowances-on-pro-and-cancels-a-planned-cu_6db73530",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_05_chatgpt-will-say-less-about-past-mass-attacks-including-to-adults_c7606af4",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_06_doordash-has-counted-several-hundred-orders-from-outside-ai-agents_f986a412",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_07_reddit-will-test-a-logged-in-site-as-google-referrals-fall-by-a-million_6224c596",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_08_google-s-first-orbital-tpu-is-online-and-it-can-run-for-about-20-minutes_135f70cd",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_09_axiom-says-agents-produced-a-computer-checked-proof-of-the-enormous-theo_cd36ff73",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_10_smelt-is-a-terminal-coding-agent-that-reports-a-fifth-of-the-memory_f909a527",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_11_copilotkit-openbot-a-self-hosted-desk-where-each-agent-gets-a-computer_0876c9c2",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_12_mempalace-mempalace-local-memory-for-coding-agents-with-no-api-key-requi_0c42f57d",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-10-31_13_datawhalechina-diy-llm-a-chinese-cs336-with-six-code-assignments_bd6deaf7",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-10-31.json",
+    "itemCount": 13
+  }
+}

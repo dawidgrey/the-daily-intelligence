@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_13_datawhalechina-diy-llm-a-chinese-cs336-with-six-code-assignments_bd6deaf7",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/datawhalechina/diy-llm",
+  "canonicalUrl": "https://github.com/datawhalechina/diy-llm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "datawhalechina/diy-llm: a Chinese CS336, with six code assignments",
+  "friendlyTitle": "Diy-LLM is a free course for building a language model yourself",
+  "summary": "Diy-LLM is Datawhale's Chinese adaptation of Stanford's CS336, a course on building a language model rather than calling one. The chapters run from tokenizers and Transformer details through mixture-of-experts, GPU kernels, distributed training, inference, and alignment. Six code assignments are the spine. An English readme is in the repository, and the online reader is at datawhalechina.github.io/diy-llm. It is trending on GitHub.",
+  "friendlySummary": "Diy-LLM is a Chinese course, adapted from Stanford's CS336, about building a language model rather than just using one. The chapters cover tokenizers, the Transformer, mixture-of-experts, GPU programming, training across many machines, running a model, and alignment. Six coding assignments hold it together. The repository includes an English readme, and you can read the course online. It is trending on GitHub.",
+  "whyItMatters": "It is a study path if you want to see how a model is trained, not a library to drop into an app. The license is CC BY-NC-SA 4.0, so you can share and adapt it for non-commercial teaching, and you cannot sell the course materials as your own product. The stated prerequisites are Python, PyTorch, and undergraduate mathematics.",
+  "friendlyWhyItMatters": "Use it if you want to learn how a model is trained. It is not a library you add to an app. The license is CC BY-NC-SA 4.0. You may share and adapt it for teaching that is not commercial. You may not sell the course materials as your own product. The course says you should already know Python, PyTorch, and university-level math.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

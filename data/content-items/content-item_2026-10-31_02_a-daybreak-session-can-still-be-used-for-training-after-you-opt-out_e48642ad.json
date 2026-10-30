@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_02_a-daybreak-session-can-still-be-used-for-training-after-you-opt-out_e48642ad",
+  "sourceKind": "article",
+  "sourceName": "OpenAI Help Center",
+  "sourceUrl": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+  "canonicalUrl": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "A Daybreak session can still be used for training after you opt out",
+  "friendlyTitle": "A special ChatGPT security session can still be used for training after you opt out",
+  "summary": "OpenAI's data-controls page, updated on 31 October, says that during Daybreak sessions on a personal ChatGPT account, content from those interactions may be used to improve models even when \"Improve the model for everyone\" is off. OpenAI says the exception is to strengthen safeguards against cyber misuse. The same toggle still applies to other activity outside a Daybreak session.",
+  "friendlySummary": "OpenAI updated its privacy help page on 31 October. It says that if you use Daybreak on a personal ChatGPT account, those sessions may still be used to improve OpenAI's models even when you have turned off \"Improve the model for everyone.\" Daybreak is a separate program for approved cybersecurity work. OpenAI says it uses those sessions to strengthen safeguards against harmful cyber use. Your opt-out still applies to ordinary chats.",
+  "whyItMatters": "Daybreak is OpenAI's approved-access program for cybersecurity work, not the ordinary chat window. If you never turn it on, this exception does not describe your chats. If you use it on a personal account, opting out of training does not cover that session. Business, Enterprise, Edu, and healthcare workspaces are still excluded from training by default, and the help page does not extend this exception to them.",
+  "friendlyWhyItMatters": "This does not change a normal chat if you never open Daybreak. If you do use Daybreak on a personal account, turning off training does not cover that session. Work accounts on Business, Enterprise, Edu, and healthcare plans are still not used for training by default. The help page does not say this exception applies to those work accounts.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

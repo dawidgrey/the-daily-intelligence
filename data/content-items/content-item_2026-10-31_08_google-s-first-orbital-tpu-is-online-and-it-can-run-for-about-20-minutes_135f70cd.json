@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_08_google-s-first-orbital-tpu-is-online-and-it-can-run-for-about-20-minutes_135f70cd",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Google's first orbital TPU is online, and it can run for about 20 minutes",
+  "friendlyTitle": "Google's first AI chip in orbit is on, and it can run for about 20 minutes",
+  "summary": "TechCrunch reports that Google's Suncatcher prototype, launched earlier this month on a Falcon 9, answered its first prompt this week. The satellite carries four Tensor Processing Units and generates up to 1 kilowatt. Power limits mean it can run only one of those chips, for about 20 minutes at a time. The model on board is DeepMind's Gemma 4. A Google spokesperson told TechCrunch the satellite was operating as expected.",
+  "friendlySummary": "TechCrunch reports that Google's Suncatcher test satellite, launched earlier this month, answered its first prompt this week. It carries four of Google's AI chips, called TPUs, and can generate up to 1 kilowatt of power. That is only enough to run one chip, for about 20 minutes at a time. The model on board is DeepMind's Gemma 4. Google told TechCrunch the satellite was working as expected.",
+  "whyItMatters": "This is a hardware test, not a cloud you can call. The campaign is meant to see how radiation and heat affect inference, after ground tests suggested training would be the harder problem. If these chips hold up, Google's stated next step is two more satellites in 2027, with more power and links between them. A 20-minute orbital run is not a place to put a workload.",
+  "friendlyWhyItMatters": "You cannot send this satellite a job. Google is testing how radiation and heat affect the chips when they answer questions, after ground tests suggested training a model in orbit would be harder. If these chips hold up, Google says the next step is two more satellites in 2027, with more power and links between them. A 20-minute test is not a data center.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

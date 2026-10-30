@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-29T20:08:44Z",
+  "generatedAtUtc": "2026-10-30T20:09:14Z",
   "items": [
     {
-      "id": "content-item_2026-10-30_01_mistral-releases-the-weights-for-its-trillion-parameter-model_8ccea7e8",
-      "sourceKind": "product",
-      "sourceName": "Mistral",
-      "title": "Mistral releases the weights for its trillion-parameter model",
-      "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss"
-    },
-    {
-      "id": "content-item_2026-10-30_02_openai-rewrites-its-model-spec-around-five-values-and-says-models-do-not_7bf0065c",
+      "id": "content-item_2026-10-31_01_google-and-openai-will-honor-one-robots-txt-line-for-ai-training_f041d99d",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI rewrites its Model Spec around five values, and says models do not follow it yet",
-      "sourceUrl": "https://openai.com/index/updated-model-spec"
+      "sourceName": "Google Search Central",
+      "title": "Google and OpenAI will honor one robots.txt line for AI training",
+      "sourceUrl": "https://developers.google.com/search/blog/2026/10/ai-training-control"
     },
     {
-      "id": "content-item_2026-10-30_03_experts-followed-an-agent-s-coin-flip-preference-and-called-the-result-t_543233bf",
-      "sourceKind": "research",
+      "id": "content-item_2026-10-31_02_a-daybreak-session-can-still-be-used-for-training-after-you-opt-out_e48642ad",
+      "sourceKind": "article",
+      "sourceName": "OpenAI Help Center",
+      "title": "A Daybreak session can still be used for training after you opt out",
+      "sourceUrl": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt"
+    },
+    {
+      "id": "content-item_2026-10-31_03_claude-s-max-20x-plan-is-now-ultra-at-the-same-200-price_8e5047be",
+      "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Experts followed an agent's coin-flip preference and called the result their own",
-      "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls"
+      "title": "Claude's Max 20x plan is now Ultra, at the same $200 price",
+      "sourceUrl": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan"
     },
     {
-      "id": "content-item_2026-10-30_04_openai-says-a-replay-of-its-monitors-would-have-flagged-the-hugging-face_d28967fc",
-      "sourceKind": "research",
+      "id": "content-item_2026-10-31_04_openai-doubles-work-and-codex-allowances-on-pro-and-cancels-a-planned-cu_6db73530",
+      "sourceKind": "product",
+      "sourceName": "The Decoder",
+      "title": "OpenAI doubles Work and Codex allowances on Pro, and cancels a planned cut",
+      "sourceUrl": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/"
+    },
+    {
+      "id": "content-item_2026-10-31_05_chatgpt-will-say-less-about-past-mass-attacks-including-to-adults_c7606af4",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI says a replay of its monitors would have flagged the Hugging Face breakout in 30 minutes",
-      "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      "title": "ChatGPT will say less about past mass attacks, including to adults",
+      "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
     },
     {
-      "id": "content-item_2026-10-30_05_android-studio-rabbit-2-lets-you-bring-claude-codex-or-another-agent_be4cd100",
-      "sourceKind": "product",
-      "sourceName": "Android Developers",
-      "title": "Android Studio Rabbit 2 lets you bring Claude, Codex, or another agent",
-      "sourceUrl": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration"
-    },
-    {
-      "id": "content-item_2026-10-30_06_granola-adds-free-dictation-on-the-mac-in-any-app_a39d2cb2",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Granola adds free dictation on the Mac, in any app",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
-    },
-    {
-      "id": "content-item_2026-10-30_07_deepgram-buys-daily-and-says-pipecat-stays-open-and-vendor-neutral_c546a70d",
+      "id": "content-item_2026-10-31_06_doordash-has-counted-several-hundred-orders-from-outside-ai-agents_f986a412",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Deepgram buys Daily and says Pipecat stays open and vendor-neutral",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+      "title": "DoorDash has counted several hundred orders from outside AI agents",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
     },
     {
-      "id": "content-item_2026-10-30_08_dream-raises-17-million-to-design-buildings-from-permit-archives-not-fro_88294416",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Dream raises $17 million to design buildings from permit archives, not from a picture prompt",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-    },
-    {
-      "id": "content-item_2026-10-30_09_ibm-ships-granite-switch-4-1-1-as-a-patch-not-a-new-model_f3538b6f",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "IBM ships Granite Switch 4.1.1 as a patch, not a new model",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-    },
-    {
-      "id": "content-item_2026-10-30_10_hugging-face-and-five-universities-start-a-push-to-make-public-research_e1c742c1",
+      "id": "content-item_2026-10-31_07_reddit-will-test-a-logged-in-site-as-google-referrals-fall-by-a-million_6224c596",
       "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face and five universities start a push to make public research usable by AI",
-      "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar"
+      "sourceName": "TechCrunch",
+      "title": "Reddit will test a logged-in site as Google referrals fall by a million a week",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
     },
     {
-      "id": "content-item_2026-10-30_11_milind-soni-openmausbot-a-local-chat-app-where-each-bot-gets-a-computer_239feae3",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "milind-soni/OpenMausBot: a local chat app where each bot gets a computer",
-      "sourceUrl": "https://github.com/milind-soni/OpenMausBot"
+      "id": "content-item_2026-10-31_08_google-s-first-orbital-tpu-is-online-and-it-can-run-for-about-20-minutes_135f70cd",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Google's first orbital TPU is online, and it can run for about 20 minutes",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
     },
     {
-      "id": "content-item_2026-10-30_12_donchitos-claude-code-game-studios-a-studio-of-agents-with-a-dial-for-ho_5661de31",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "Donchitos/Claude-Code-Game-Studios: a studio of agents, with a dial for how much process you want",
-      "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+      "id": "content-item_2026-10-31_09_axiom-says-agents-produced-a-computer-checked-proof-of-the-enormous-theo_cd36ff73",
+      "sourceKind": "research",
+      "sourceName": "Axiom Math",
+      "title": "Axiom says agents produced a computer-checked proof of the enormous theorem",
+      "sourceUrl": "https://axiommath.ai/research/the-enormous-theorem-formalized/"
     },
     {
-      "id": "content-item_2026-10-30_13_rlaope-oh-my-hermes-a-routing-layer-that-leaves-hermes-itself-alone_248f98dc",
+      "id": "content-item_2026-10-31_10_smelt-is-a-terminal-coding-agent-that-reports-a-fifth-of-the-memory_f909a527",
+      "sourceKind": "product",
+      "sourceName": "Smelt",
+      "title": "Smelt is a terminal coding agent that reports a fifth of the memory",
+      "sourceUrl": "https://smeltagent.dev"
+    },
+    {
+      "id": "content-item_2026-10-31_11_copilotkit-openbot-a-self-hosted-desk-where-each-agent-gets-a-computer_0876c9c2",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "rlaope/oh-my-hermes: a routing layer that leaves Hermes itself alone",
-      "sourceUrl": "https://github.com/rlaope/oh-my-hermes"
+      "title": "CopilotKit/OpenBot: a self-hosted desk where each agent gets a computer",
+      "sourceUrl": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "id": "content-item_2026-10-31_12_mempalace-mempalace-local-memory-for-coding-agents-with-no-api-key-requi_0c42f57d",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "MemPalace/mempalace: local memory for coding agents, with no API key required",
+      "sourceUrl": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "id": "content-item_2026-10-31_13_datawhalechina-diy-llm-a-chinese-cs336-with-six-code-assignments_bd6deaf7",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "datawhalechina/diy-llm: a Chinese CS336, with six code assignments",
+      "sourceUrl": "https://github.com/datawhalechina/diy-llm"
     }
   ]
 }

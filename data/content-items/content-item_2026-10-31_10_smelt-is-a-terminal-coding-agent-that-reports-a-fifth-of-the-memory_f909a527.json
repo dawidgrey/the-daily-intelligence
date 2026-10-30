@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_10_smelt-is-a-terminal-coding-agent-that-reports-a-fifth-of-the-memory_f909a527",
+  "sourceKind": "product",
+  "sourceName": "Smelt",
+  "sourceUrl": "https://smeltagent.dev",
+  "canonicalUrl": "https://smeltagent.dev",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Smelt is a terminal coding agent that reports a fifth of the memory",
+  "friendlyTitle": "Smelt is a small coding agent for the terminal, and the memory number is its own",
+  "summary": "Smelt is an open-source coding agent for the terminal, written to be scripted in Lua and licensed under MIT. It is marked beta until version 1.0, with builds for Linux, macOS, and Windows. Sign-in is through a ChatGPT, GitHub Copilot, or Kimi Code account. Plugins are Lua files dropped into a config folder, and the project says they load without a restart.",
+  "friendlySummary": "Smelt is a free, open-source coding agent that runs in the terminal. You can change its behavior with small Lua scripts, and the project says a new script loads without a restart. It is still a beta. It runs on Linux, Mac, and Windows. You sign in with ChatGPT, GitHub Copilot, or Kimi Code.",
+  "whyItMatters": "The memory claim is the project's own test, not an independent audit. On Terminal-Bench 2.1, using Qwen3.8 27B across 360 runs, Smelt reports a median 0.20 GiB of memory, against 0.71 to 2.80 GiB for pi, Claude Code, mini-swe-agent, Codex, and OpenCode in the same comparison. If you already pay for ChatGPT or Copilot, the practical question is whether a lighter terminal agent is worth a second interface, not whether the benchmark settles the category.",
+  "friendlyWhyItMatters": "The low-memory claim comes from Smelt's own test, not from an outside lab. On one coding benchmark, using the same model for 360 runs, Smelt reports a typical memory use of 0.20 gibibytes. The five other agents in that comparison used 0.71 to 2.80. If you already pay for ChatGPT or Copilot, the useful question is whether you want a second, lighter terminal tool. The test does not settle which agent is best.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

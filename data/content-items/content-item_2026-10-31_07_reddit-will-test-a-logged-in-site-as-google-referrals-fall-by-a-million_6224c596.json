@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_07_reddit-will-test-a-logged-in-site-as-google-referrals-fall-by-a-million_6224c596",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Reddit will test a logged-in site as Google referrals fall by a million a week",
+  "friendlyTitle": "Reddit will test making people sign in, as Google sends fewer visitors",
+  "summary": "On its 29 October earnings call, Reddit said Google search referrals fell by more than 1 million a week on average in October, and that daily active users could fall by a low-double-digit percentage next quarter if that continues. Global daily actives were flat at 130.3 million. U.S. daily actives fell to 50.7 million, from 53.2 million the quarter before. Revenue rose 53% year over year to $895 million.",
+  "friendlySummary": "On its 29 October earnings call, Reddit said Google search sent more than 1 million fewer visitors a week, on average, in October. If that continues, daily users could fall by a low double-digit percentage next quarter. Global daily users were flat at 130.3 million. U.S. daily users fell to 50.7 million, from 53.2 million the quarter before. Revenue rose 53% from a year earlier, to $895 million.",
+  "whyItMatters": "Reddit will test a mostly logged-in experience in selected markets outside the United States this quarter. It does not have a date for a worldwide switch, and it says a logged-out front page still matters. For anyone who opens Reddit from a search result, more of the site may soon ask for an account. For anyone who publishes on the open web, a large forum is treating AI search as a reason to keep the conversation behind a login.",
+  "friendlyWhyItMatters": "Reddit will test a mostly signed-in site in some countries outside the United States this quarter. It has no date for a worldwide change, and it says a front page you can open without an account still matters. If you usually open Reddit from a search result, more of the site may soon ask you to sign in. If you publish on the open web, a large forum is treating AI search as a reason to put the conversation behind a login.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

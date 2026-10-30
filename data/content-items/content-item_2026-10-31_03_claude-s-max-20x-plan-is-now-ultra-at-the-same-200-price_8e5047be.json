@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_03_claude-s-max-20x-plan-is-now-ultra-at-the-same-200-price_8e5047be",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+  "canonicalUrl": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "Claude's Max 20x plan is now Ultra, at the same $200 price",
+  "friendlyTitle": "Claude's most expensive personal plan is now called Ultra, at the same price",
+  "summary": "Anthropic has renamed the Max 20x plan to Ultra. Existing subscribers move over automatically, and the price stays $200 a month. Ultra includes 10 times the Pro plan's usage each week. Verified accounts have no five-hour limit. Accounts that are not yet verified still have a temporary session limit until Anthropic verifies them from account and payment history.",
+  "friendlySummary": "Anthropic renamed the Max 20x plan to Ultra. If you already pay for it, you move to Ultra automatically, and the price stays $200 a month. Ultra includes 10 times as much weekly use as the Pro plan. If Anthropic has verified your account, there is no five-hour limit. If it has not, a temporary session limit still applies until verification happens on its own.",
+  "whyItMatters": "The weekly cap remains, including a separate weekly limit for Fable, and Anthropic says it may add other caps. The check is in Settings, then Usage: if there is no Current session bar, the account is verified. Confirming a phone number at checkout does not remove the session limit. Max, at $100 a month, is still the 5x plan. Ultra also includes $200 a month in API credits, up from $100 on Max.",
+  "friendlyWhyItMatters": "A weekly limit still applies, and there is a separate weekly limit for the Fable model. Anthropic also says it may add other caps. To check, open Settings, then Usage. If you do not see a Current session bar, your account is verified. Confirming a phone number at checkout does not remove the session limit. The $100 Max plan is still the smaller 5x plan. Ultra also includes $200 a month in API credits, up from $100 on Max. Those credits are a budget for the developer service, separate from the chat limit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

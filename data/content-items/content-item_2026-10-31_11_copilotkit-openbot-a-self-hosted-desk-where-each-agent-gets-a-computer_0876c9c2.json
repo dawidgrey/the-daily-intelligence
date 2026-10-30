@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_11_copilotkit-openbot-a-self-hosted-desk-where-each-agent-gets-a-computer_0876c9c2",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/CopilotKit/OpenBot",
+  "canonicalUrl": "https://github.com/CopilotKit/OpenBot",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "CopilotKit/OpenBot: a self-hosted desk where each agent gets a computer",
+  "friendlyTitle": "OpenBot lets you run AI coworkers on your own computers",
+  "summary": "OpenBot is an MIT-licensed template for running AI coworkers on your own infrastructure. Each coworker gets a browser, files, and only the tools you grant. Tool calls go through a gateway that decides the action before it runs and records it after. Agents speak AG-UI, so a LangGraph, Mastra, CrewAI, Pydantic AI, or Google ADK agent can be attached without rewriting the desk. It is trending on GitHub and is marked beta.",
+  "friendlySummary": "OpenBot is a free template for running AI coworkers on machines you control. Each coworker gets a browser, files, and only the tools you allow. Before a tool runs, a gateway decides whether it may, and then writes down what happened. You can connect agents built with several common frameworks. It is popular on GitHub this week, and the project says it is still a beta.",
+  "whyItMatters": "There is no hosted signup. You clone the repository, bring a model key, and run it with Docker. A fresh local install treats every request as one administrator until you turn sign-in on, which the project says is required before anyone else can reach it. The useful piece, if you already have agents, is the approval log and the separate computer, not another chat window.",
+  "friendlyWhyItMatters": "There is no website to sign up on. You copy the code, add a model key, and run it with Docker. A new local install treats every request as if it came from one administrator until you turn sign-in on. The project says you should do that before anyone else can reach it. If you already have agents, the useful part is the approval record and the separate computer, not another chat box.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

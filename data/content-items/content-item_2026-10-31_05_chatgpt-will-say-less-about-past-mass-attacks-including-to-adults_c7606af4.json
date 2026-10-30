@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_05_chatgpt-will-say-less-about-past-mass-attacks-including-to-adults_c7606af4",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "canonicalUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "ChatGPT will say less about past mass attacks, including to adults",
+  "friendlyTitle": "ChatGPT will give less detail about past mass attacks, including to adults",
+  "summary": "On 30 October OpenAI said ChatGPT will give less detailed answers about past mass attacks, for every user, including less reconstruction of how an attack was carried out. It is also adding further limits for accounts it predicts are under 18, even when a question looks harmless and shows no violent intent. A first Community Safety Report is promised for early 2027, covering the second half of 2026, then every six months.",
+  "friendlySummary": "On 30 October OpenAI said ChatGPT will give less detailed answers about past mass attacks, for every user. It will also add further limits for accounts it thinks belong to people under 18, even when a question looks harmless. OpenAI says its first public safety report will come in early 2027, covering the second half of 2026, and then every six months.",
+  "whyItMatters": "OpenAI says it made more than 200 law enforcement referrals in the third quarter of 2026. The new behavior is not all live: the company says the safeguards will start rolling out over the next few weeks. ChatGPT may end a chat that shows fixation on seriously harming someone, and repeated endings may pause the account. Parents with linked accounts are to be notified if a teen account is paused for that reason. An adult placed in the under-18 experience by mistake can confirm their age through Persona.",
+  "friendlyWhyItMatters": "OpenAI says it referred more than 200 cases to law enforcement in the third quarter of 2026. The new limits are not all on yet. OpenAI says they will start rolling out over the next few weeks. ChatGPT may end a chat that keeps returning to seriously harming someone, and ending several chats may pause the account. Parents who have linked a teen's account are supposed to be told if that account is paused for this reason. An adult who is put in the under-18 experience by mistake can confirm their age through Persona, OpenAI's age-check partner.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-10-31_04_openai-doubles-work-and-codex-allowances-on-pro-and-cancels-a-planned-cu_6db73530",
+  "sourceKind": "product",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+  "canonicalUrl": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-30T20:09:14Z",
+  "createdAtUtc": "2026-10-30T20:09:14Z",
+  "updatedAtUtc": "2026-10-30T20:09:14Z",
+  "title": "OpenAI doubles Work and Codex allowances on Pro, and cancels a planned cut",
+  "friendlyTitle": "OpenAI doubled some ChatGPT Pro work limits, and canceled a planned cut",
+  "summary": "OpenAI's help page for ChatGPT Pro, updated on 30 October, says Pro 100 and Pro 500 now include twice their previous Work and Codex allowance. On Pro 200, a reduction announced in a 29 September email is canceled. Subscribers who already had the higher allowance keep it. Those on the lower allowance have had it doubled to match, and the price stays $200 a month. Plus is unchanged.",
+  "friendlySummary": "OpenAI updated its Pro help page on 30 October. The $100 and $500 Pro plans now include twice as much Work and Codex use as before. Work and Codex are the parts of ChatGPT used for longer jobs and coding. On the $200 plan, a cut announced in a 29 September email is canceled. People who already had the higher limit keep it. People on the lower limit have had it doubled. The Plus plan is unchanged.",
+  "whyItMatters": "You do not need to cancel and resubscribe. Existing subscribers receive the updated allowance automatically, and a larger allowance does not guarantee twice as many finished tasks. Ultrafast, the faster mode for GPT-6 Astra and GPT-6.1 Sol, remains available only on the $500 Pro plan. Buying credits on Pro 100 or Pro 200 does not unlock it.",
+  "friendlyWhyItMatters": "You do not need to cancel and sign up again. Current subscribers get the new allowance on their own. A bigger allowance does not guarantee twice as many finished tasks, because harder models and longer jobs use more of it. The fastest mode, Ultrafast, is still only on the $500 plan. Buying extra credits on the $100 or $200 plan does not turn that mode on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-10-31"
+  }
+}
