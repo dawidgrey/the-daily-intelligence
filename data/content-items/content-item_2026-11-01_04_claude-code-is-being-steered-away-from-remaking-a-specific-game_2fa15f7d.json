@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_04_claude-code-is-being-steered-away-from-remaking-a-specific-game_2fa15f7d",
+  "sourceKind": "product",
+  "sourceName": "Game Developer",
+  "sourceUrl": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+  "canonicalUrl": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+  "credit": "Chasm on X; confirmed by Addy Osmani of Anthropic",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "Claude Code is being steered away from remaking a specific game",
+  "friendlyTitle": "Claude Code is being told not to remake a specific existing game",
+  "summary": "On 30 October Game Developer reported that Anthropic added two sentences to Claude Code's prompt on Opus 5.5, after a change spotted on 27 October. The instruction is to build original games, games in a genre, and games from the user's own designs and assets, and not to recreate a specific existing game, even under a new name. Anthropic's Addy Osmani said the change is because using Claude to infringe intellectual property is against the usage policy.",
+  "friendlySummary": "On 30 October Game Developer reported that Anthropic added two sentences to the instructions for Claude Code when it uses Opus 5.5. The change was spotted on 27 October. Claude is told to build original games, games in a style, and games from the user's own designs. It is told not to rebuild one specific existing game, even with a new name. Anthropic's Addy Osmani said this is because using Claude to copy someone else's intellectual property breaks the usage rules.",
+  "whyItMatters": "Osmani said original games, genre games, and games built from your own designs are meant to keep working, and that Anthropic will keep adjusting the balance. If Claude refuses something you own, he asked people to send it to him. The rule is a prompt on one model in Claude Code, not a ban on every coding tool. A person who spotted the change said it could not be switched off. Anthropic did not say that in the statement Game Developer published.",
+  "friendlyWhyItMatters": "Osmani said original games, games in a style, and games from your own designs are meant to keep working. If Claude refuses something you own, he asked people to send it to him. This is an instruction on one model inside Claude Code. It is not a ban on every coding tool. The person who spotted the change said it could not be turned off. Anthropic did not say that in the statement Game Developer published.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

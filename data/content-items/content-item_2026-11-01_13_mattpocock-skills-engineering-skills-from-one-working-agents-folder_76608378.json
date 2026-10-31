@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_13_mattpocock-skills-engineering-skills-from-one-working-agents-folder_76608378",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/mattpocock/skills",
+  "canonicalUrl": "https://github.com/mattpocock/skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "mattpocock/skills: engineering skills from one working .agents folder",
+  "friendlyTitle": "mattpocock/skills: ready-made instructions for a coding agent",
+  "summary": "Matt Pocock's skills repository gained 882 stars on GitHub Trending on 1 November, and has about 308,200 in total. It is the skill set from his own .agents directory, under MIT. The engineering skills include a pull-request shape and a wizard for steps only a person can do, such as creating credentials. The productivity skills include grilling a plan until the open branches are resolved, and compacting a session into a handoff another agent can continue.",
+  "friendlySummary": "Matt Pocock's skills repository gained 882 stars on GitHub Trending on 1 November, and has about 308,200 in total. It is the instruction set from his own agent folder, under the MIT license. The coding skills include how to write a pull request and a guided script for steps only a person can do, such as creating passwords for a service. The work skills include questioning a plan until the open choices are settled, and writing a handoff so another agent can continue.",
+  "whyItMatters": "Install the set into the agent you already use, rather than copying one skill into a prompt. Claude Code, Codex, and Copilot can install from the repository's marketplace. Gemini and the skills.sh route are updated by hand. The skills tell the agent how to write a pull request or interview you about a design. They do not review the code for you, and they do not replace a test.",
+  "friendlyWhyItMatters": "Install the set into the agent you already use, instead of pasting one instruction into a chat. Claude Code, Codex, and Copilot can install it from the repository's own store. Gemini, and the skills.sh route, are updated by hand. The skills tell the agent how to write a pull request or question you about a design. They do not review the code for you, and they do not replace a test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_12_lightpanda-io-browser-a-smaller-browser-for-agents-under-agpl_7e7a6ce6",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/lightpanda-io/browser",
+  "canonicalUrl": "https://github.com/lightpanda-io/browser",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "lightpanda-io/browser: a smaller browser for agents, under AGPL",
+  "friendlyTitle": "Lightpanda: a smaller browser built for agents",
+  "summary": "Lightpanda gained 929 stars on GitHub Trending on 1 November, and has about 39,100 in total. It is a headless browser written in Zig, not a Chromium fork, aimed at agents and automation. It speaks the Chrome DevTools protocol, so Puppeteer and Playwright can drive it, and it also has an MCP server with separate browsing sessions per connection. On the project's own benchmark of 100 pages, it reports 123MB peak memory against 2GB for headless Chrome, and 5 seconds against 46.",
+  "friendlySummary": "Lightpanda gained 929 stars on GitHub Trending on 1 November, and has about 39,100 in total. It is a browser without a window, written from scratch for agents and automation, not a copy of Chrome. Tools such as Puppeteer and Playwright can drive it. It also has a server so several agents can each get their own page, cookies, and memory. On the project's own test of 100 pages, it reports much less memory and a much shorter run than headless Chrome.",
+  "whyItMatters": "Use it when an agent spends its time opening pages and a full Chrome is the expensive part. The license is AGPL-3.0. Running it locally is the simple case. Offering it as a network service can require you to share your changes. The speed and memory figures are the project's own test on one Amazon instance, not a guarantee for every site. Pages that need a full Chrome feature set may still need Chrome.",
+  "friendlyWhyItMatters": "Use it when an agent spends its time opening pages and a full Chrome is the expensive part. The license is AGPL-3.0, which is stricter than a typical open-source license if you offer the browser as an online service. Running it on your own machine is the simple case. The speed and memory numbers are the project's own test on one rented computer, not a promise for every site. Pages that need a full Chrome feature may still need Chrome.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

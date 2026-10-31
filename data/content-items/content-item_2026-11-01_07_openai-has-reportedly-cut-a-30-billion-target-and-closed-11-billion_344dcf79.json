@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_07_openai-has-reportedly-cut-a-30-billion-target-and-closed-11-billion_344dcf79",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "OpenAI has reportedly cut a $30 billion target, and closed $11 billion",
+  "friendlyTitle": "OpenAI has reportedly lowered a funding target, and raised $11 billion so far",
+  "summary": "On 31 October TechCrunch reported, citing the Financial Times, that OpenAI has lowered a funding target from $30 billion to $20 billion, with a first close expected to be lower still. A Wall Street Journal follow-up, also cited by TechCrunch, said the company had secured $11 billion so far and met a tepid response from some large investors. The round is reported to be led by investors from the United Arab Emirates. TechCrunch said it had asked OpenAI for comment.",
+  "friendlySummary": "On 31 October TechCrunch reported, citing the Financial Times, that OpenAI cut a funding goal from $30 billion to $20 billion. The first close is expected to be even smaller. A Wall Street Journal report, also cited by TechCrunch, said OpenAI had secured $11 billion so far, and that some large investors were cool on the round. Investors from the United Arab Emirates are reported to be leading it. TechCrunch said it had asked OpenAI for comment.",
+  "whyItMatters": "OpenAI has not confirmed the figures in the report TechCrunch published. The practical reading is about timing, not a product change. TechCrunch ties the softer raise to investors pulling back from heavy AI infrastructure spending, and notes that Anthropic's planned listing is also facing reported credit questions. If you buy ChatGPT or the API, this article does not change a price or a limit.",
+  "friendlyWhyItMatters": "OpenAI has not confirmed these numbers in the TechCrunch report. This is about fundraising, not a change to a product. TechCrunch links the softer raise to investors stepping back from heavy spending on AI buildings and chips. It also notes reported credit questions around Anthropic's planned stock listing. If you pay for ChatGPT or the developer service, this article does not change a price or a limit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_05_apple-intelligence-reaches-china-in-december-without-the-new-siri_506bcb10",
+  "sourceKind": "product",
+  "sourceName": "Apple",
+  "sourceUrl": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
+  "canonicalUrl": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "Apple Intelligence reaches China in December, without the new Siri",
+  "friendlyTitle": "Apple Intelligence comes to China in December, without the new Siri",
+  "summary": "On 31 October Apple said the first Apple Intelligence features will reach users in China with iOS 27.3 in December. A developer beta opens on 4 November. The set includes live translation, writing tools, visual intelligence, photo cleanup, Genmoji, notification summaries, and priority mail. In some of those experiences Apple is adding Alibaba's Qwen, including in Siri, writing tools, and visual intelligence. This release does not include the newer Siri AI announced at WWDC 2026.",
+  "friendlySummary": "On 31 October Apple said the first Apple Intelligence features will reach people in China with iOS 27.3 in December. A test version for developers opens on 4 November. The set includes live translation, writing help, looking up things with the camera, cleaning up photos, custom emoji, short notification summaries, and important mail at the top of the inbox. In some of those, Apple is adding Alibaba's Qwen chatbot, including in Siri and writing tools. This release does not include the newer Siri announced earlier this year.",
+  "whyItMatters": "The supported phones are iPhone 16 and later, iPhone Duo, iPhone 15 Pro, iPhone 15 Pro Max, and iPhone Air. Siri and the device language both need to be set to English and Simplified Chinese. Other Apple platforms wait on further approvals. If you are outside China, this does not change the Apple Intelligence you already have. If you use an iPhone in China, December is the first general release, and it is the earlier feature set, not the new Siri.",
+  "friendlyWhyItMatters": "It works on iPhone 16 and later, iPhone Duo, iPhone 15 Pro, iPhone 15 Pro Max, and iPhone Air. Siri and the phone language both need to be set to English and Simplified Chinese. Other Apple devices wait for more approvals. If you are outside China, this does not change the Apple Intelligence you already have. If you use an iPhone in China, December is the first wide release, and it is the earlier set of features, not the new Siri.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_02_a-modified-claude-code-extension-sat-in-cursor-s-store-for-part-of-a-day_f5c413d7",
+  "sourceKind": "article",
+  "sourceName": "Cursor",
+  "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+  "canonicalUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "A modified Claude Code extension sat in Cursor's store for part of a day",
+  "friendlyTitle": "A fake Claude Code add-on was in Cursor's store for part of a day",
+  "summary": "Cursor says that on 29 October, between about 2:27am and 1:35pm Pacific time, versions 2.1.312 and 2.1.313 of an extension named Anthropic.claude-code were available in its VS Code marketplace for Mac and Windows. Those versions were not from Anthropic. Cursor says the extension tried to collect basic computer details and install a lasting remote-access method. The attacker server is offline. Cursor says no other marketplace extensions were tampered with.",
+  "friendlySummary": "Cursor says that on 29 October, for part of the day, two versions of a Claude Code add-on in its store were not made by Anthropic. Those versions were 2.1.312 and 2.1.313, for Mac and Windows. Cursor says the add-on tried to collect basic details about the computer and set up a way to connect to it later. The attacker's server is now offline. Cursor says no other add-ons in that store were changed.",
+  "whyItMatters": "If you did not install or update that extension from Cursor's store in that window, this notice does not describe your machine. If you did, uninstalling it may not be enough. Cursor's notice includes the check and the cleanup. On most computers the remote login step would have failed, because it needed administrator rights the extension did not have. The notice still says the unauthorized key and leftover files should be removed.",
+  "friendlyWhyItMatters": "If you did not install or update that add-on from Cursor's store during that window, this does not describe your computer. If you did, deleting the add-on may not be enough. Use Cursor's own notice for the check and the cleanup. On most computers the remote login would have failed, because it needed administrator rights the add-on did not have. Cursor still says an extra key and leftover files should be removed.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

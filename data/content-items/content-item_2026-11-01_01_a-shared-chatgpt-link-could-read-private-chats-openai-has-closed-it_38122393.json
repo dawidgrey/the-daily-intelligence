@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_01_a-shared-chatgpt-link-could-read-private-chats-openai-has-closed-it_38122393",
+  "sourceKind": "article",
+  "sourceName": "Parameter",
+  "sourceUrl": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "canonicalUrl": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "A shared ChatGPT link could read private chats. OpenAI has closed it",
+  "friendlyTitle": "A shared ChatGPT link could read private chats. OpenAI has fixed it",
+  "summary": "Parameter says that in October it found a way for a public ChatGPT share to run code inside the signed-in session of whoever opened it. The code could list that person's conversations and read a private chat that had never been shared. The person did not need to install an app or paste anything. OpenAI fixed the issue on 26 October and rated it P1, a high-severity report.",
+  "friendlySummary": "In October, researchers at Parameter found that a public ChatGPT link could run code inside the account of the person who opened it. That code could list their chats and read a private one that had never been shared. They did not need to install anything. OpenAI fixed it on 26 October and marked it as a serious bug.",
+  "whyItMatters": "This is a closed hole, not an open one. If you open a shared ChatGPT link today, this particular path should not reach your private chats. The useful habit remains: treat an unexpected share the way you treat an unexpected attachment. Parameter's write-up is a postmortem of a fixed bug, not a current way in.",
+  "friendlyWhyItMatters": "The hole is closed. Opening a shared ChatGPT link today should not use this path into your private chats. Still treat a link you were not expecting the way you treat a file you were not expecting. The research write-up describes a bug that has been fixed. It is not a current way in.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

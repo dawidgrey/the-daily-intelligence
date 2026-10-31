@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-01",
+  "slug": "2026-11-01",
+  "status": "published",
+  "publicationDateUtc": "2026-10-31T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A shared chat could open the account. That hole is closed.",
+  "friendlyHeader": "A shared ChatGPT link could open someone else's account. That hole is closed.",
+  "summary": "Researchers showed that opening a public ChatGPT share could read private chats. OpenAI fixed it on 26 October. The rest of today's issue is about the checks that are still yours: a bad extension that sat in Cursor's store for part of a day, a Claude watermark that two older models skip if a sampling setting changes, and a privacy assistant that shuts down on 6 November.",
+  "friendlySummary": "Researchers showed that opening a public ChatGPT link could read private chats. OpenAI fixed it on 26 October. Today also covers a bad add-on that was briefly in Cursor's store, a hidden Claude mark that two older models skip if a setting changes, and a privacy assistant that shuts down on 6 November.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-01_01_a-shared-chatgpt-link-could-read-private-chats-openai-has-closed-it_38122393",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_02_a-modified-claude-code-extension-sat-in-cursor-s-store-for-part-of-a-day_f5c413d7",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_03_on-two-older-claude-models-a-sampling-change-skips-the-watermark_d66aef25",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_04_claude-code-is-being-steered-away-from-remaking-a-specific-game_2fa15f7d",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_05_apple-intelligence-reaches-china-in-december-without-the-new-siri_506bcb10",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_06_altman-says-scarce-memory-is-better-used-in-a-data-center-than-in-a-pc_e6a83342",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_07_openai-has-reportedly-cut-a-30-billion-target-and-closed-11-billion_344dcf79",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_08_the-privacy-assistant-ollie-shuts-down-on-6-november_43523836",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_09_nearly-two-in-three-tweens-and-teens-have-used-a-chatbot_150aaed2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_10_zest-will-book-a-table-from-a-text-if-you-have-linked-a-card_d52c9778",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_11_orkas-ai-orkas-a-local-desktop-where-several-agents-share-one-job_24ee0d11",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_12_lightpanda-io-browser-a-smaller-browser-for-agents-under-agpl_7e7a6ce6",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-01_13_mattpocock-skills-engineering-skills-from-one-working-agents-folder_76608378",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-01.json",
+    "itemCount": 13
+  }
+}

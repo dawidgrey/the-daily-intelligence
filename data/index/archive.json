@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-10-30T20:09:15Z",
+  "generatedAtUtc": "2026-10-31T20:10:29Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-01",
+      "slug": "2026-11-01",
+      "status": "published",
+      "publicationDateUtc": "2026-10-31T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "A shared chat could open the account. That hole is closed.",
+      "friendlyHeader": "A shared ChatGPT link could open someone else's account. That hole is closed.",
+      "summary": "Researchers showed that opening a public ChatGPT share could read private chats. OpenAI fixed it on 26 October. The rest of today's issue is about the checks that are still yours: a bad extension that sat in Cursor's store for part of a day, a Claude watermark that two older models skip if a sampling setting changes, and a privacy assistant that shuts down on 6 November.",
+      "friendlySummary": "Researchers showed that opening a public ChatGPT link could read private chats. OpenAI fixed it on 26 October. Today also covers a bad add-on that was briefly in Cursor's store, a hidden Claude mark that two older models skip if a setting changes, and a privacy assistant that shuts down on 6 November.",
+      "itemCount": 13,
+      "href": "issues/2026-11-01.html",
+      "dataUrl": "data/daily-publications/2026-11-01.json"
+    },
     {
       "id": "daily-publication_2026-10-31",
       "slug": "2026-10-31",

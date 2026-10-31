@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_03_on-two-older-claude-models-a-sampling-change-skips-the-watermark_d66aef25",
+  "sourceKind": "article",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+  "canonicalUrl": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "On two older Claude models, a sampling change skips the watermark",
+  "friendlyTitle": "On two older Claude models, changing a setting skips the hidden mark",
+  "summary": "The Decoder reports that Anthropic emailed API customers to say it is adding its text watermark to Claude Mythos 5, Opus 4.7, Opus 4.6, and Sonnet 4.6. Newer models, including Opus 5.5, already carry it. On Opus 4.6 and Sonnet 4.6, The Decoder says the mark applies only when sampling settings are left at their defaults. A change to those settings skips it. The email, as reported, does not describe that exception for Mythos 5 or Opus 4.7.",
+  "friendlySummary": "The Decoder reports that Anthropic emailed developers to say it is adding a hidden mark to the text from four older Claude models: Mythos 5, Opus 4.7, Opus 4.6, and Sonnet 4.6. Newer models, including Opus 5.5, already have the mark. On Opus 4.6 and Sonnet 4.6, the mark applies only if the usual randomness settings are left alone. Changing those settings skips it. The reported email does not say that about Mythos 5 or Opus 4.7.",
+  "whyItMatters": "Anthropic's stated reason is the EU AI Act deadline in December. The Decoder says customers cannot switch the mark off, and that Anthropic told anyone relying on it for their own compliance to keep the default sampling settings on those two older models. The mark is a pattern in word choice. Anthropic says it does not identify the user, the organisation, or the conversation. Amazon Bedrock may take a few extra days.",
+  "friendlyWhyItMatters": "Anthropic is doing this for a European rule that takes effect in December. The Decoder says customers cannot turn the mark off, and that anyone who needs the mark for their own rules should leave the default settings alone on those two older models. The mark is a pattern in word choice. Anthropic says it does not name the user, the company, or the chat. It may take a few extra days to appear on Amazon Bedrock.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

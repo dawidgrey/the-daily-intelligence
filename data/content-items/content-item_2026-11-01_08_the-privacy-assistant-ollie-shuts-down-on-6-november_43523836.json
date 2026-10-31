@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_08_the-privacy-assistant-ollie-shuts-down-on-6-november_43523836",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+  "credit": "Bill Lennon on X",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "The privacy assistant Ollie shuts down on 6 November",
+  "friendlyTitle": "The privacy assistant Ollie shuts down on 6 November",
+  "summary": "Ollie co-founder Bill Lennon said on 30 October that the app will shut down on 6 November. Ollie was a subscription assistant for family organisation, connected to email and calendar, with plans for bookings, meal planning, and bills. It had raised a $7.5 million seed round led by Khosla Ventures, announced in September, and was one of the early assistants in this category to complete a SOC 2 audit. Lennon said the company could not keep up as Muse, Instinct, and others entered.",
+  "friendlySummary": "Ollie's co-founder, Bill Lennon, said on 30 October that the app will shut down on 6 November. Ollie was a paid assistant for keeping a family organised. It connected to email and calendar, and planned to help with bookings, meals, and bills. It had raised $7.5 million in September and had passed a SOC 2 privacy audit, an outside check of how a company handles data. Lennon said it could not keep up after larger assistants such as Muse and Instinct entered.",
+  "whyItMatters": "If you use Ollie, the next few days are for export and refunds. Lennon said customers will get those instructions. The shutdown is a reminder that a privacy audit does not keep a small assistant alive once larger agents occupy the same text-message slot. If your family workflow sits inside Ollie, move the calendar and email connections before 6 November. After that date, TechCrunch's report does not say the service remains available.",
+  "friendlyWhyItMatters": "If you use Ollie, use the next few days to export your data and sort a refund. Lennon said customers will get those instructions. A privacy audit did not keep a small assistant alive once larger ones took the same job. If your family plans sit inside Ollie, move the email and calendar connections before 6 November. After that date, the report does not say the service stays open.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}

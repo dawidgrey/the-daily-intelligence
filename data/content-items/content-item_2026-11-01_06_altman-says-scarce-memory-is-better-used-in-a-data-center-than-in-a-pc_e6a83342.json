@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-01_06_altman-says-scarce-memory-is-better-used-in-a-data-center-than-in-a-pc_e6a83342",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "credit": "Cheeky Pint",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-10-31T20:10:28Z",
+  "createdAtUtc": "2026-10-31T20:10:28Z",
+  "updatedAtUtc": "2026-10-31T20:10:28Z",
+  "title": "Altman says scarce memory is better used in a data center than in a PC",
+  "friendlyTitle": "Sam Altman says scarce computer memory is better used in the cloud",
+  "summary": "On the Cheeky Pint podcast, Sam Altman said it is quite terrible, from a global allocation view, for limited DRAM to sit in personal computers and be used a small share of the time. He argued that a supply squeeze is better handled by high use in the cloud. The Verge notes that Samsung and SK Hynix have long-term deals with cloud operators, including projects such as OpenAI's Stargate, and that this is why laptops and phones are getting more expensive.",
+  "friendlySummary": "On a podcast, OpenAI chief executive Sam Altman said it is a poor use of a limited supply for memory chips to sit in personal computers and be used only a small share of the time. He said the cloud can use those chips more of the time. The Verge notes that Samsung and SK Hynix have long deals with cloud companies, including OpenAI's Stargate project, and that this is why laptops and phones cost more.",
+  "whyItMatters": "This does not change what you can buy this week. It is Altman's reason for wanting the scarce chips in data centers rather than on desks, including for people who want to run models locally. If you are pricing a laptop or a phone, the constraint he is describing is already in the shelf price. Local inference does not get cheaper because an open model exists, if the memory it needs has been reserved elsewhere.",
+  "friendlyWhyItMatters": "This does not change what you can buy this week. It is Altman's reason for wanting the scarce chips in data centers rather than on desks, including for people who want to run models on their own computer. If you are pricing a laptop or a phone, that squeeze is already in the price. An open model does not make a local computer cheaper if the memory it needs has been reserved somewhere else.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-01"
+  }
+}
