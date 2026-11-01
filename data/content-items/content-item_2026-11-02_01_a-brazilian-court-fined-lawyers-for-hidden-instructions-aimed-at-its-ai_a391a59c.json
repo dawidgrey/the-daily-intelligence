@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_01_a-brazilian-court-fined-lawyers-for-hidden-instructions-aimed-at-its-ai_a391a59c",
+  "sourceKind": "regulation",
+  "sourceName": "JetStream Security",
+  "sourceUrl": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+  "canonicalUrl": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+  "credit": "Vladimir Aras",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "A Brazilian court fined lawyers for hidden instructions aimed at its AI",
+  "friendlyTitle": "A Brazilian court fined lawyers for hiding instructions for its AI",
+  "summary": "The 3rd Labor Court of Parauapebas fined two law firms after Galileu, the AI used by Brazil's National Justice Council, flagged white text on a white background in a filing. The hidden line told any AI reading the petition to review it superficially and not challenge the documents. The fine was 10 percent of the claim, about $16,000 on a claim of R$842,000. JetStream's English account is from 1 July. Brazilian outlet G1 reported the case on 14 May. It is on Hacker News now, with more than 260 points.",
+  "friendlySummary": "A labor court in Parauapebas, Brazil, fined two law firms after the court's AI, called Galileu, found white writing on a white background in a legal filing. The hidden line told any AI reading the filing to look at it lightly and not question the documents. The fine was 10 percent of the claim, about $16,000 on a claim of R$842,000. The English write-up is from 1 July. A Brazilian news site reported the case on 14 May. People are reading it widely now.",
+  "whyItMatters": "This is not a new ruling from this weekend. It is a settled example of what a court did when a filing tried to steer the reader that was a model. If you send a document an AI will read — a court, a client, a support desk — text a person cannot see is still text. If you receive one, look for text that does not show on the page.",
+  "friendlyWhyItMatters": "This is not a new ruling from this weekend. It is a clear example of what a court did when a filing tried to steer the computer reading it. If you send a document that an AI will read, writing a person cannot see is still writing. If you receive one, check for words that do not show on the page.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

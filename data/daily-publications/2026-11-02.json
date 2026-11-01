@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-02",
+  "slug": "2026-11-02",
+  "status": "published",
+  "publicationDateUtc": "2026-11-01T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Hidden text is still text. A court fined it. A help page leaked it.",
+  "friendlyHeader": "Hidden text is still text. A court fined it. A help page leaked it.",
+  "summary": "A Brazilian labor court fined two law firms for white-on-white instructions aimed at the court's own AI. That ruling is from earlier this year, and it is being widely read now. Until mid-October, WhatsApp help pages carried notes a person could not see, telling a support chatbot what not to say. Meta says that bug is fixed. The rest of today's issue is the check that remains yours: a claimed proof, a token bill, a drive-thru menu that is not live yet, and three tools you can install.",
+  "friendlySummary": "A Brazilian labor court fined two law firms for instructions written in white on a white page, aimed at the court's own AI. That ruling is from earlier this year. People are reading it widely now. Until the middle of October, WhatsApp help pages also had notes a person could not see. Those notes told a support chatbot what not to say. Meta says that bug is fixed. The rest of today is about checks that are still yours: a claimed proof, a token bill, a drive-thru menu that is not live yet, and three tools you can install.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-02_01_a-brazilian-court-fined-lawyers-for-hidden-instructions-aimed-at-its-ai_a391a59c",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_02_whatsapp-help-pages-told-a-chatbot-what-not-to-say-meta-says-that-is-fix_efa8c4c6",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_03_sources-tell-wired-a-contractor-linked-a-personal-coding-agent-to-a-pent_bf3026d4",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_04_a-number-theorist-says-the-field-has-changed-and-the-next-job-is-not-to_7bb04305",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_05_lecun-and-balestriero-say-two-views-of-one-scene-beat-a-bigger-language_3f8fd939",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_06_nolan-lawson-priced-twelve-javascript-frameworks-by-what-an-agent-spent_fe548f54",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_07_starbucks-wants-a-drive-thru-menu-that-recognizes-you-it-is-not-live_0de3f969",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_08_proton-s-chief-executive-cancelled-the-ai-re-interviews-he-said-the-push_88726a3b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_09_blackstone-reportedly-expects-a-junk-credit-rating-for-anthropic-after-t_60ba719a",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_10_apple-s-new-chief-executive-says-the-company-does-not-want-to-ship-ai-fo_89c6cb6d",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_11_cjpais-handy-offline-speech-to-text-with-language-detection-still-marked_4e0cc916",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_12_flashml-org-freetoken-a-local-server-for-large-models-if-you-have-the-gp_cacdd6ce",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-02_13_anomalyco-hex-local-dictation-that-pastes-into-the-app-you-are-already-i_0f453751",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-02.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_06_nolan-lawson-priced-twelve-javascript-frameworks-by-what-an-agent-spent_fe548f54",
+  "sourceKind": "article",
+  "sourceName": "Nolan Lawson",
+  "sourceUrl": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "canonicalUrl": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "Nolan Lawson priced twelve JavaScript frameworks by what an agent spent to build the same app",
+  "friendlyTitle": "Nolan Lawson priced twelve JavaScript frameworks by what an agent spent to build the same app",
+  "summary": "On 28 October, Nolan Lawson published a benchmark in which Claude Opus 5.5 built the same small Pokémon app five times in each of twelve frameworks, then he took the median. Quoted API cost ran from about $2.67 for Hono with htmx to about $4.97 for Angular. The ranges overlap. SvelteKit, Gracile with Lit, and Angular cost more in this test. Angular failed to produce a working app twice, so that median is from three runs. He did not tell the agents to optimize for speed, and he says the app is a content site, not a dashboard or a mail client.",
+  "friendlySummary": "On 28 October, Nolan Lawson published a test in which Claude Opus 5.5 built the same small app five times in each of twelve JavaScript frameworks. He then took the middle result. The quoted cost ran from about $2.67 for Hono with htmx to about $4.97 for Angular. The ranges overlap, so a small gap is not a clear win. SvelteKit, Gracile with Lit, and Angular cost more in this test. Angular failed to make a working app twice, so that middle result is from three runs. He did not tell the agents to make the app fast, and he says this app is a content site, not a complex tool.",
+  "whyItMatters": "If an agent is writing the app, the framework is now a token bill as well as a runtime. This does not crown a winner. Lawson is explicit that a different app could reverse the order, and that some official agent tools were barely used. The useful move is to measure the stack you are about to let an agent install, instead of assuming the one you already know is the cheap one.",
+  "friendlyWhyItMatters": "If an agent is writing the app, the framework is now a token bill as well as a way to run the page. This test does not name a winner. Lawson says a different app could reverse the order, and that some official agent tools were barely used. The useful move is to measure the stack you are about to let an agent install, instead of assuming the one you already know is the cheap one.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

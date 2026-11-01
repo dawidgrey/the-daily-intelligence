@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_12_flashml-org-freetoken-a-local-server-for-large-models-if-you-have-the-gp_cacdd6ce",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/FlashML-org/FreeToken",
+  "canonicalUrl": "https://github.com/FlashML-org/FreeToken",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "FlashML-org/FreeToken: a local server for large models, if you have the GPU",
+  "friendlyTitle": "FreeToken: a local server for large models, if you have the graphics chip",
+  "summary": "FreeToken is an Apache 2.0 inference server aimed at running large models on your own machine. The repo serves an OpenAI-style API, including /v1/completions, and recent work adds GGUF checkpoints on CUDA and HIP. Topics on the repo name DeepSeek, Gemma, Qwen, GLM, and MiniMax. The latest release is v0.2.1, from 26 October. It gained about 230 stars today and sits near 15,000 overall. The line about datacenter-scale serving on a desktop is the project's claim.",
+  "friendlySummary": "FreeToken is an Apache 2.0 program for running large models on your own machine. It offers an API in the same style as OpenAI, including a completions endpoint, and recent work adds GGUF model files on NVIDIA CUDA and AMD HIP. The repo's topics name DeepSeek, Gemma, Qwen, GLM, and MiniMax. The latest release is v0.2.1, from 26 October. It gained about 230 stars today and sits near 15,000 overall. The line about data-center speed on a desktop is the project's own claim.",
+  "whyItMatters": "Use it if you already have a supported GPU and want a local endpoint that tools can call the way they call a hosted model. It is not a CPU app for a laptop with no graphics chip. Read the model list and the install notes before you assume a given checkpoint will load.",
+  "friendlyWhyItMatters": "Use it if you already have a supported graphics chip and want a local address that tools can call the way they call a hosted model. It is not a program for a laptop with no graphics chip. Read the model list and the install notes before you assume a given model file will load.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

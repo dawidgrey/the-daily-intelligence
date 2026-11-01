@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-10-31T20:10:28Z",
+  "generatedAtUtc": "2026-11-01T20:09:46Z",
   "items": [
     {
-      "id": "content-item_2026-11-01_01_a-shared-chatgpt-link-could-read-private-chats-openai-has-closed-it_38122393",
+      "id": "content-item_2026-11-02_01_a-brazilian-court-fined-lawyers-for-hidden-instructions-aimed-at-its-ai_a391a59c",
+      "sourceKind": "regulation",
+      "sourceName": "JetStream Security",
+      "title": "A Brazilian court fined lawyers for hidden instructions aimed at its AI",
+      "sourceUrl": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+    },
+    {
+      "id": "content-item_2026-11-02_02_whatsapp-help-pages-told-a-chatbot-what-not-to-say-meta-says-that-is-fix_efa8c4c6",
       "sourceKind": "article",
-      "sourceName": "Parameter",
-      "title": "A shared ChatGPT link could read private chats. OpenAI has closed it",
-      "sourceUrl": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+      "sourceName": "Redact",
+      "title": "WhatsApp help pages told a chatbot what not to say. Meta says that is fixed",
+      "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
     },
     {
-      "id": "content-item_2026-11-01_02_a-modified-claude-code-extension-sat-in-cursor-s-store-for-part-of-a-day_f5c413d7",
+      "id": "content-item_2026-11-02_03_sources-tell-wired-a-contractor-linked-a-personal-coding-agent-to-a-pent_bf3026d4",
       "sourceKind": "article",
-      "sourceName": "Cursor",
-      "title": "A modified Claude Code extension sat in Cursor's store for part of a day",
-      "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice"
+      "sourceName": "WIRED",
+      "title": "Sources tell WIRED a contractor linked a personal coding agent to a Pentagon network. Accenture says the claim has no merit",
+      "sourceUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
     },
     {
-      "id": "content-item_2026-11-01_03_on-two-older-claude-models-a-sampling-change-skips-the-watermark_d66aef25",
+      "id": "content-item_2026-11-02_04_a-number-theorist-says-the-field-has-changed-and-the-next-job-is-not-to_7bb04305",
       "sourceKind": "article",
-      "sourceName": "The Decoder",
-      "title": "On two older Claude models, a sampling change skips the watermark",
-      "sourceUrl": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/"
+      "sourceName": "Terence Tao",
+      "title": "A number theorist says the field has changed, and the next job is not to declare it finished",
+      "sourceUrl": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
     },
     {
-      "id": "content-item_2026-11-01_04_claude-code-is-being-steered-away-from-remaking-a-specific-game_2fa15f7d",
-      "sourceKind": "product",
-      "sourceName": "Game Developer",
-      "title": "Claude Code is being steered away from remaking a specific game",
-      "sourceUrl": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
-    },
-    {
-      "id": "content-item_2026-11-01_05_apple-intelligence-reaches-china-in-december-without-the-new-siri_506bcb10",
-      "sourceKind": "product",
-      "sourceName": "Apple",
-      "title": "Apple Intelligence reaches China in December, without the new Siri",
-      "sourceUrl": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
-    },
-    {
-      "id": "content-item_2026-11-01_06_altman-says-scarce-memory-is-better-used-in-a-data-center-than-in-a-pc_e6a83342",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Altman says scarce memory is better used in a data center than in a PC",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
-    },
-    {
-      "id": "content-item_2026-11-01_07_openai-has-reportedly-cut-a-30-billion-target-and-closed-11-billion_344dcf79",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "OpenAI has reportedly cut a $30 billion target, and closed $11 billion",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-    },
-    {
-      "id": "content-item_2026-11-01_08_the-privacy-assistant-ollie-shuts-down-on-6-november_43523836",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "The privacy assistant Ollie shuts down on 6 November",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    },
-    {
-      "id": "content-item_2026-11-01_09_nearly-two-in-three-tweens-and-teens-have-used-a-chatbot_150aaed2",
+      "id": "content-item_2026-11-02_05_lecun-and-balestriero-say-two-views-of-one-scene-beat-a-bigger-language_3f8fd939",
       "sourceKind": "research",
-      "sourceName": "NPR",
-      "title": "Nearly two in three tweens and teens have used a chatbot",
-      "sourceUrl": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media"
+      "sourceName": "arXiv",
+      "title": "LeCun and Balestriero say two views of one scene beat a bigger language model",
+      "sourceUrl": "https://arxiv.org/abs/2610.39302"
     },
     {
-      "id": "content-item_2026-11-01_10_zest-will-book-a-table-from-a-text-if-you-have-linked-a-card_d52c9778",
+      "id": "content-item_2026-11-02_06_nolan-lawson-priced-twelve-javascript-frameworks-by-what-an-agent-spent_fe548f54",
+      "sourceKind": "article",
+      "sourceName": "Nolan Lawson",
+      "title": "Nolan Lawson priced twelve JavaScript frameworks by what an agent spent to build the same app",
+      "sourceUrl": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+    },
+    {
+      "id": "content-item_2026-11-02_07_starbucks-wants-a-drive-thru-menu-that-recognizes-you-it-is-not-live_0de3f969",
       "sourceKind": "product",
+      "sourceName": "The Verge",
+      "title": "Starbucks wants a drive-thru menu that recognizes you. It is not live",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+    },
+    {
+      "id": "content-item_2026-11-02_08_proton-s-chief-executive-cancelled-the-ai-re-interviews-he-said-the-push_88726a3b",
+      "sourceKind": "article",
+      "sourceName": "404 Media",
+      "title": "Proton's chief executive cancelled the AI re-interviews. He said the push continues",
+      "sourceUrl": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
+    },
+    {
+      "id": "content-item_2026-11-02_09_blackstone-reportedly-expects-a-junk-credit-rating-for-anthropic-after-t_60ba719a",
+      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Zest will book a table from a text, if you have linked a card",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+      "title": "Blackstone reportedly expects a junk credit rating for Anthropic after the IPO",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
     },
     {
-      "id": "content-item_2026-11-01_11_orkas-ai-orkas-a-local-desktop-where-several-agents-share-one-job_24ee0d11",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "Orkas-AI/Orkas: a local desktop where several agents share one job",
-      "sourceUrl": "https://github.com/Orkas-AI/Orkas"
+      "id": "content-item_2026-11-02_10_apple-s-new-chief-executive-says-the-company-does-not-want-to-ship-ai-fo_89c6cb6d",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Apple's new chief executive says the company does not want to ship AI for its own sake",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
     },
     {
-      "id": "content-item_2026-11-01_12_lightpanda-io-browser-a-smaller-browser-for-agents-under-agpl_7e7a6ce6",
+      "id": "content-item_2026-11-02_11_cjpais-handy-offline-speech-to-text-with-language-detection-still-marked_4e0cc916",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "lightpanda-io/browser: a smaller browser for agents, under AGPL",
-      "sourceUrl": "https://github.com/lightpanda-io/browser"
+      "title": "cjpais/Handy: offline speech-to-text, with language detection still marked experimental",
+      "sourceUrl": "https://github.com/cjpais/Handy"
     },
     {
-      "id": "content-item_2026-11-01_13_mattpocock-skills-engineering-skills-from-one-working-agents-folder_76608378",
+      "id": "content-item_2026-11-02_12_flashml-org-freetoken-a-local-server-for-large-models-if-you-have-the-gp_cacdd6ce",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "mattpocock/skills: engineering skills from one working .agents folder",
-      "sourceUrl": "https://github.com/mattpocock/skills"
+      "title": "FlashML-org/FreeToken: a local server for large models, if you have the GPU",
+      "sourceUrl": "https://github.com/FlashML-org/FreeToken"
+    },
+    {
+      "id": "content-item_2026-11-02_13_anomalyco-hex-local-dictation-that-pastes-into-the-app-you-are-already-i_0f453751",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "anomalyco/hex: local dictation that pastes into the app you are already in",
+      "sourceUrl": "https://github.com/anomalyco/hex"
     }
   ]
 }

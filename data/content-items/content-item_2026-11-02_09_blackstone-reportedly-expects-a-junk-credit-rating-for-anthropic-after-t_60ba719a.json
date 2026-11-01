@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_09_blackstone-reportedly-expects-a-junk-credit-rating-for-anthropic-after-t_60ba719a",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+  "canonicalUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "Blackstone reportedly expects a junk credit rating for Anthropic after the IPO",
+  "friendlyTitle": "Blackstone reportedly expects a junk credit rating for Anthropic after the stock listing",
+  "summary": "On 30 October, TechCrunch reported a Financial Times account that Blackstone, the anchor investor in a $63 billion deal to finance Anthropic's chips, told investors it now expects Anthropic to receive a high junk rating after the IPO. The expected range is double-B, the top of speculative grade. TechCrunch says Blackstone had previously expected an investment-grade rating before 2027. Anthropic and Blackstone declined to comment. This is a forecast relayed by investors, not a rating the agencies have published.",
+  "friendlySummary": "On 30 October, TechCrunch reported a Financial Times account that Blackstone, the lead investor in a $63 billion deal to finance Anthropic's chips, told investors it now expects Anthropic to get a high junk credit rating after it lists on the stock market. The expected range is double-B, the top of the speculative grade. TechCrunch says Blackstone had previously expected a safer, investment-grade rating before 2027. Anthropic and Blackstone declined to comment. This is a forecast passed on by investors, not a rating the agencies have published.",
+  "whyItMatters": "A junk rating, if it arrives, makes the borrowing that pays for compute more expensive. It does not change your Claude plan this week, and it is not yet a rating. If you depend on Claude at work, the useful fact is that the cost of the chips behind it is now part of the public argument about the IPO, not only the quality of the model.",
+  "friendlyWhyItMatters": "A junk rating, if it arrives, makes the borrowing that pays for computer chips more expensive. It does not change your Claude plan this week, and it is not yet a rating. If you depend on Claude at work, the useful fact is that the cost of the chips behind it is now part of the public argument about the stock listing, not only the quality of the model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

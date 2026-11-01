@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_04_a-number-theorist-says-the-field-has-changed-and-the-next-job-is-not-to_7bb04305",
+  "sourceKind": "article",
+  "sourceName": "Terence Tao",
+  "sourceUrl": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+  "canonicalUrl": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "A number theorist says the field has changed, and the next job is not to declare it finished",
+  "friendlyTitle": "A mathematician says the subject has changed, and the next job is not to call it finished",
+  "summary": "On 1 November, Terence Tao published a guest essay by University of Chicago mathematician Frank Calegari. Tao notes that the essay was converted with AI from another file format. Calegari treats OpenAI's 6 October release of more than 700 research papers as a watershed, and also as a mess: some ideas are strong, the writing often breaks the field's rules of attribution, and some papers are wrong. His advice is to spend effort on hiring, publishing, and training students, and to treat a dumped proof as the start of revision, not the end of a subject.",
+  "friendlySummary": "On 1 November, mathematician Terence Tao published a guest essay by Frank Calegari of the University of Chicago. Tao notes that the essay was converted with AI from another file format. Calegari treats OpenAI's 6 October release of more than 700 research papers as a turning point, and also as a mess. Some ideas are strong. The writing often breaks the field's rules for crediting other people. Some papers are wrong. His advice is to spend effort on hiring, publishing, and teaching students, and to treat a dumped proof as the start of checking, not the end of a subject.",
+  "whyItMatters": "If you use a model for expert work, a claimed proof or a finished draft is a document to check, not a result to file. Calegari's practical claim is that the cheaper step is now exploration, and the scarce step is choosing what is worth doing and explaining what was found. That split is not limited to number theory.",
+  "friendlyWhyItMatters": "If you use a model for expert work, a claimed proof or a finished draft is a document to check, not a result to file. Calegari's practical claim is that trying ideas is now cheaper, and the scarce skill is choosing what is worth doing and explaining what was found. That split is not limited to mathematics.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

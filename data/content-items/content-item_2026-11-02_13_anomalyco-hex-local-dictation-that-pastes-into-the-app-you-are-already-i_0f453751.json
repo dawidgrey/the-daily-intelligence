@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_13_anomalyco-hex-local-dictation-that-pastes-into-the-app-you-are-already-i_0f453751",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/anomalyco/hex",
+  "canonicalUrl": "https://github.com/anomalyco/hex",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "anomalyco/hex: local dictation that pastes into the app you are already in",
+  "friendlyTitle": "Hex: local dictation that pastes into the app you are already in",
+  "summary": "Hex is a local speech-to-text app for macOS, Windows, and Linux, under the MIT license. You hold a shortcut, speak, and release. It transcribes on the machine and pastes into the app in front. The project says the first run downloads a speech model, and that after that nothing leaves the machine. It gained about 1,300 stars today. The repo does not take pull requests. Bugs and ideas go in as issues.",
+  "friendlySummary": "Hex is a local speech-to-text app for Mac, Windows, and Linux, under the MIT license. You hold a shortcut, speak, and let go. It turns the speech into text on the machine and pastes it into the app in front. The project says the first run downloads a speech model, and that after that nothing leaves the machine. It gained about 1,300 stars today. The repo does not take code contributions. Bugs and ideas go in as issues.",
+  "whyItMatters": "If you want dictation without sending each clip to a cloud account, Hex is a downloadable option next to the offline app Handy, which is also trending, and next to paid tools such as Granola. Confirm the privacy line on your own machine before you use it for anything sensitive. The README is the claim. It is not an audit.",
+  "friendlyWhyItMatters": "If you want dictation without sending each clip to a cloud account, Hex is a downloadable option next to the offline app Handy, which is also trending, and next to paid tools such as Granola. Check the privacy line on your own machine before you use it for anything sensitive. The README is the claim. It is not an independent audit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}

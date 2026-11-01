@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-02_11_cjpais-handy-offline-speech-to-text-with-language-detection-still-marked_4e0cc916",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/cjpais/Handy",
+  "canonicalUrl": "https://github.com/cjpais/Handy",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-01T20:09:46Z",
+  "createdAtUtc": "2026-11-01T20:09:46Z",
+  "updatedAtUtc": "2026-11-01T20:09:46Z",
+  "title": "cjpais/Handy: offline speech-to-text, with language detection still marked experimental",
+  "friendlyTitle": "Handy: speech-to-text that stays on your computer",
+  "summary": "Handy is a free desktop app, under the MIT license, that transcribes speech on the machine and does not require an account. It runs on macOS, Windows, and Linux. The latest tagged release is v0.9.8, from 3 October. A change merged on 27 October adds language detection for models that do not detect language themselves, and the commit marks that path experimental. It gained about 380 stars today and sits near 36,000 overall.",
+  "friendlySummary": "Handy is a free desktop app, under the MIT license, that turns speech into text on the machine and does not require an account. It runs on Mac, Windows, and Linux. The latest tagged release is v0.9.8, from 3 October. A change merged on 27 October adds language detection for models that do not detect the language themselves, and that path is marked experimental. It gained about 380 stars today and sits near 36,000 overall.",
+  "whyItMatters": "If you want dictation that stays on the computer, Handy is the larger of the two offline apps on today's trending list. Hex, below, is the newer one. Use Handy when you want a released app with a history of builds. Treat the new language detector as experimental until you have tried it on your own recordings.",
+  "friendlyWhyItMatters": "If you want dictation that stays on the computer, Handy is the larger of the two offline apps on today's trending list. Hex, below, is the newer one. Use Handy when you want a released app with a history of builds. Treat the new language detector as experimental until you have tried it on your own recordings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-02"
+  }
+}
