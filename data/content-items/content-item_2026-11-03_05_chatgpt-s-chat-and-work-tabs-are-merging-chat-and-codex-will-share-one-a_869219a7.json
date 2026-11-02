@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_05_chatgpt-s-chat-and-work-tabs-are-merging-chat-and-codex-will-share-one-a_869219a7",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "ChatGPT's Chat and Work tabs are merging. Chat and Codex will share one allowance",
+  "friendlyTitle": "ChatGPT's Chat and Work tabs are merging. Chat and Codex will share one allowance",
+  "summary": "TechCrunch reports an email to users saying OpenAI will merge the Chat and Work tabs in ChatGPT, first for selected users. Codex stays a separate experience in the desktop app. With the change, ChatGPT and Codex draw from the same allowance pool. OpenAI told users the change will not affect most people, and that some may wait for a reset more often, depending on use and model.",
+  "friendlySummary": "TechCrunch reports an email to users saying OpenAI will join the Chat and Work tabs in ChatGPT, first for a selected group. Codex stays a separate part of the desktop app. After the change, ChatGPT and Codex draw from the same allowance. OpenAI told users the change will not affect most people. Some may have to wait for a reset more often, depending on how they use it and which model they pick.",
+  "whyItMatters": "If you use both chat and Codex on one plan, the two meters become one. A heavy coding session can shorten the chat allowance, and the other way around. Look at the pool before you assume the old split still applies. This is not a wide rollout yet.",
+  "friendlyWhyItMatters": "If you use both chat and Codex on one plan, the two meters become one. A heavy coding session can use up chat time, and a long chat can use up coding time. Check the shared pool before you assume the old split still applies. This is not a wide release yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

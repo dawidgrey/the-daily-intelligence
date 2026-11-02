@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_06_openai-wants-future-campuses-to-turn-down-when-the-grid-is-strained-the_19244c7a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/grid-protectors-program",
+  "canonicalUrl": "https://openai.com/index/grid-protectors-program",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "OpenAI wants future campuses to turn down when the grid is strained. The bill cut is not this month",
+  "friendlyTitle": "OpenAI wants future campuses to use less power when the grid is strained. Your bill does not fall this month",
+  "summary": "On 2 November, OpenAI announced the Grid Protectors Program. Future compute campuses are meant to reduce electricity demand when a utility asks, and in some places to supply power from on-site generation or batteries. For a planned campus in Effingham County, Georgia, OpenAI says it has committed to pay the project's infrastructure and electric-service costs, and that an agreement with Georgia Power includes up to 1,000 megawatts of flexible demand response. OpenAI says that is equivalent to the average demand of roughly 700,000 households. Georgia Power projects about $950 million a year in customer savings from 2029, from a portfolio of large-load agreements that includes this project, and at least $15 a month for a typical home using 1,000 kilowatt-hours. The campus is still in development.",
+  "friendlySummary": "On 2 November, OpenAI announced the Grid Protectors Program. Future computing campuses are meant to use less electricity when a utility asks, and in some places to supply power from generators or batteries on site. For a planned campus in Effingham County, Georgia, OpenAI says it will pay the project's connection and power costs. It also says a deal with Georgia Power includes up to 1,000 megawatts that can be turned down. OpenAI says that is about the average demand of 700,000 households. Georgia Power projects about $950 million a year in customer savings from 2029, from a group of large-customer deals that includes this project, and at least $15 a month for a typical home using 1,000 kilowatt-hours. The campus is still being built.",
+  "whyItMatters": "This is not a discount on this month's power bill. It is a design claim: a large computing load can be built to drop when homes need the power, and to pay for the lines it requires. If a campus is proposed near you, ask who pays for the connection, how fast the load can fall, and whether a savings figure is for this project alone or for a whole portfolio. Here, the $15 figure is Georgia Power's portfolio estimate, and it starts in 2029.",
+  "friendlyWhyItMatters": "This is not a discount on this month's power bill. It is a design claim: a large computing site can be built to use less power when homes need it, and to pay for the lines it needs. If a campus is proposed near you, ask who pays for the connection, how fast the load can fall, and whether a savings figure is for this project alone or for a whole group of deals. Here, the $15 figure is Georgia Power's estimate for that group, and it starts in 2029.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_10_mistral-large-4-is-on-hugging-face-a-laptop-will-not-run-it_a1765f44",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/mistral-large4",
+  "canonicalUrl": "https://huggingface.co/blog/mistral-large4",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "Mistral Large 4 is on Hugging Face. A laptop will not run it",
+  "friendlyTitle": "Mistral Large 4 is on Hugging Face. A laptop will not run it",
+  "summary": "On 29 October, Hugging Face published Mistral Large 4, also called Le Chonk. It takes text and images and returns text. Hugging Face describes it as about 1 trillion total parameters and 49 billion active, with a 1 million token context. The official FP8 checkpoint is named Mistral-Large-4-1T-A52B. There is also an NVFP4 build, and community GGUF files. The license is the Mistral Ecosystem Open-Weight License, which Hugging Face describes as an MIT derivative with limits on offering the model as a service.",
+  "friendlySummary": "On 29 October, Hugging Face published Mistral Large 4, also called Le Chonk. It takes text and pictures and returns text. Hugging Face describes it as about 1 trillion total parameters, with 49 billion in use at a time, and a context of 1 million tokens. The official FP8 file is named Mistral-Large-4-1T-A52B. There is also a smaller-number NVFP4 build, and community files in GGUF format. The license is the Mistral Ecosystem Open-Weight License. Hugging Face describes it as close to MIT, with limits on selling the model as a service.",
+  "whyItMatters": "If you want weights you can inspect, this is a current open release, not a chat subscription. Most people will not run a trillion-parameter model at home. The practical checks are the license, if you plan to serve it, and the hardware, if you plan to load it. A benchmark rank is not a reason to move a workflow onto a model you cannot host.",
+  "friendlyWhyItMatters": "If you want model weights you can inspect, this is a current open release, not a chat subscription. Most people will not run a trillion-parameter model at home. Check the license if you plan to serve it, and the hardware if you plan to load it. A leaderboard rank is not a reason to move your work onto a model you cannot run.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

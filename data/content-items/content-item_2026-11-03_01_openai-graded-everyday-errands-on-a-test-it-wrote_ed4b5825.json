@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_01_openai-graded-everyday-errands-on-a-test-it-wrote_ed4b5825",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/lifeval",
+  "canonicalUrl": "https://openai.com/index/lifeval",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "OpenAI graded everyday errands on a test it wrote",
+  "friendlyTitle": "OpenAI graded ordinary errands on a test it wrote",
+  "summary": "On 2 November, OpenAI published LifeVal, an evaluation of tasks people said they wanted help with. The list comes from time-use surveys and a new survey of 3,995 people, and it covers childcare, health, school, household admin, money, shopping, and government services. On OpenAI's chart, average reward rose from 49.3% in December 2025 to 80.6% for GPT-6 Astra. On tasks OpenAI wrote and scored, GPT-6 Astra's best recorded score was 100% for booking a car inspection, ordering a grocery list within a budget, and unsubscribing from email lists.",
+  "friendlySummary": "On 2 November, OpenAI published LifeVal, a test of jobs people said they wanted help with. The list comes from surveys of how people spend time, plus a new survey of 3,995 people. It covers childcare, health, school, household paperwork, money, shopping, and government services. On OpenAI's chart, the average score rose from 49.3% in December 2025 to 80.6% for GPT-6 Astra. On tasks OpenAI wrote and scored, that model's best recorded score was 100% for booking a car inspection, ordering groceries inside a budget, and leaving email lists.",
+  "whyItMatters": "This is OpenAI grading itself, not an independent audit. A perfect score on a scripted task is not a promise that ChatGPT will finish the same errand for you. If you are choosing a model as a personal assistant, the useful question is whether it can complete the task, not whether it can talk about it. LifeVal is their yardstick. It is not yours until someone else can run it.",
+  "friendlyWhyItMatters": "This is OpenAI grading itself, not an outside check. A perfect score on a scripted task is not a promise that ChatGPT will finish the same errand for you. If you are choosing a model as a helper, ask whether it can complete the job, not whether it can talk about it. LifeVal is their measuring stick. It is not yours until someone else can run the same test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

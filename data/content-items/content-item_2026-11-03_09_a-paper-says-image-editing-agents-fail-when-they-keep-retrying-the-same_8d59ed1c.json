@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_09_a-paper-says-image-editing-agents-fail-when-they-keep-retrying-the-same_8d59ed1c",
+  "sourceKind": "research",
+  "sourceName": "arXiv",
+  "sourceUrl": "https://arxiv.org/abs/2610.39664",
+  "canonicalUrl": "https://arxiv.org/abs/2610.39664",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "A paper says image-editing agents fail when they keep retrying the same tool",
+  "friendlyTitle": "A paper says image-editing agents fail when they keep retrying the same tool",
+  "summary": "In a paper submitted on 29 October, Haiyang Xu and co-authors argue that image-editing agents are limited by the tools they can call and by what the judge can see. On their expert-annotated benchmark, a general-purpose editor produced no usable result in more than 40% of cases. Their system, EditAgent, sends each step to a general editor and to specialized methods, and attaches a verification record to each candidate. With those records, ordinary vision-language judges beat reward models trained for the job. Experts preferred the parallel candidates to step-by-step refinement in 78.5% of the comparisons they decided, at no more than half the judge calls. The paper says EditAgent improved two open-weight editors on three benchmarks.",
+  "friendlySummary": "In a paper submitted on 29 October, Haiyang Xu and co-authors argue that image-editing agents are limited by the tools they can use and by what the judge can see. On a test marked by experts, a general editor produced no usable result in more than 40% of cases. Their system, EditAgent, tries a general editor and specialized tools on each step, and attaches a check record to each result. With those records, ordinary vision models beat judge models trained for the job. Experts preferred the side-by-side results to step-by-step fixes in 78.5% of the comparisons they decided, with no more than half the judge calls. The paper says EditAgent improved two open editors on three tests.",
+  "whyItMatters": "This is not a switch in a photo app. If an agent is editing images for you, a second pass with the same tool is a weak repair. The practical claim is to make a few variants from the original, and to judge them with a close crop and a measurement, not by glancing at the full frame. The paper is the claim. It is not a product you can install from the abstract.",
+  "friendlyWhyItMatters": "This is not a new button in a photo app. If an agent is editing images for you, trying the same tool again is a weak fix. The practical claim is to make a few versions from the original picture, and to judge them with a close crop and a measurement, not by glancing at the whole frame. The paper is the claim. It is not a product you can install from the summary.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

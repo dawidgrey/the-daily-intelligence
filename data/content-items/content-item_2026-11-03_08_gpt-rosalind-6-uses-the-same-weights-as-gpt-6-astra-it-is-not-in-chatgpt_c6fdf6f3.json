@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_08_gpt-rosalind-6-uses-the-same-weights-as-gpt-6-astra-it-is-not-in-chatgpt_c6fdf6f3",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+  "canonicalUrl": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "GPT-Rosalind-6 uses the same weights as GPT-6 Astra. It is not in ChatGPT",
+  "friendlyTitle": "GPT-Rosalind-6 uses the same weights as GPT-6 Astra. It is not in ChatGPT",
+  "summary": "OpenAI published a system-card addendum for GPT-Rosalind-6, a biology model offered only after a review of the proposed use and the applicant's security controls. It uses the same weights as GPT-6 Astra. OpenAI says it added no training data and did no extra post-training for this release. It answers more dual-use biology questions than the public model, and it still refuses requests for biological weaponization. OpenAI is treating the launch as High capability in biology and chemistry, below its Critical threshold. On three research benchmarks, at the highest reasoning budget tested, it scored 49.6% on MedChemBench v7 against 28.9% for Rosalind-5.5, 37.7% single-attempt success on GeneBench Pro v13 against 16.7%, and 61.3% on LifeSciBench Gold against 44.0%.",
+  "friendlySummary": "OpenAI published a safety note for GPT-Rosalind-6, a biology model offered only after it reviews the proposed use and the applicant's security controls. It uses the same weights as GPT-6 Astra. OpenAI says it added no training data and did no extra training for this release. It answers more sensitive biology questions than the public model, and it still refuses requests to make a biological weapon. OpenAI is treating the launch as high capability in biology and chemistry, below its top risk line. On three research tests, at the highest reasoning setting tried, it scored 49.6% on a medicinal-chemistry bench against 28.9% for the previous Rosalind model, 37.7% on a biological-data analysis bench against 16.7%, and 61.3% on tasks written by working life scientists against 44.0%.",
+  "whyItMatters": "If you do not have an approved research account, this changes nothing in the chat app you use. If you do, a higher score on OpenAI's own bench is a reason to check the output, not a reason to treat a generated note as finished lab work. Access can be restricted or revoked. The addendum is the document that states the limits.",
+  "friendlyWhyItMatters": "If you do not have an approved research account, this changes nothing in the chat app you use. If you do, a higher score on OpenAI's own test is a reason to check the answer, not a reason to treat a generated note as finished lab work. Access can be limited or taken away. The safety note is the document that states the limits.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

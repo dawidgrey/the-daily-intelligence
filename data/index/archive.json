@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-01T20:09:47Z",
+  "generatedAtUtc": "2026-11-02T20:12:35Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-03",
+      "slug": "2026-11-03",
+      "status": "published",
+      "publicationDateUtc": "2026-11-02T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The score is on their test. The tighter limit is already on yours.",
+      "friendlyHeader": "The score is on their test. The tighter limit is already on yours.",
+      "summary": "OpenAI published a test for everyday errands, and graded its own models on it. Fifty agents, told only to build a civilization, spent the run on rations and permits. Anthropic's amended filing puts nearly $900 billion of compute commitments next to a privacy setting that may keep some customers off the most capable model. If you use Grok Bot, the allowance already got smaller. Musk has not said what the new limit is.",
+      "friendlySummary": "OpenAI published a test for ordinary errands, and graded its own models on it. Fifty agents were told only to build a civilization in a game. They spent the run on food rules and permits. Anthropic's updated filing shows almost $900 billion in computing commitments. A privacy setting may also keep some customers off the most capable model. If you use Grok Bot, your allowance already got smaller. Elon Musk has not said what the new limit is.",
+      "itemCount": 13,
+      "href": "issues/2026-11-03.html",
+      "dataUrl": "data/daily-publications/2026-11-03.json"
+    },
     {
       "id": "daily-publication_2026-11-02",
       "slug": "2026-11-02",

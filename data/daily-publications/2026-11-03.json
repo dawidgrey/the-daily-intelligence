@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-03",
+  "slug": "2026-11-03",
+  "status": "published",
+  "publicationDateUtc": "2026-11-02T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The score is on their test. The tighter limit is already on yours.",
+  "friendlyHeader": "The score is on their test. The tighter limit is already on yours.",
+  "summary": "OpenAI published a test for everyday errands, and graded its own models on it. Fifty agents, told only to build a civilization, spent the run on rations and permits. Anthropic's amended filing puts nearly $900 billion of compute commitments next to a privacy setting that may keep some customers off the most capable model. If you use Grok Bot, the allowance already got smaller. Musk has not said what the new limit is.",
+  "friendlySummary": "OpenAI published a test for ordinary errands, and graded its own models on it. Fifty agents were told only to build a civilization in a game. They spent the run on food rules and permits. Anthropic's updated filing shows almost $900 billion in computing commitments. A privacy setting may also keep some customers off the most capable model. If you use Grok Bot, your allowance already got smaller. Elon Musk has not said what the new limit is.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-03_01_openai-graded-everyday-errands-on-a-test-it-wrote_ed4b5825",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_02_fifty-agents-were-told-to-build-a-civilization-they-built-a-ration-offic_ddcbe2b1",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_03_anthropic-s-amended-filing-shows-17-billion-in-a-quarter-and-895-billion_483659a4",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_04_musk-says-grok-bot-cost-more-to-serve-than-it-earned-some-weekly-limits_3059ef15",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_05_chatgpt-s-chat-and-work-tabs-are-merging-chat-and-codex-will-share-one-a_869219a7",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_06_openai-wants-future-campuses-to-turn-down-when-the-grid-is-strained-the_19244c7a",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_07_the-new-york-times-sued-brave-over-an-ai-index-brave-had-not-answered_8402594b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_08_gpt-rosalind-6-uses-the-same-weights-as-gpt-6-astra-it-is-not-in-chatgpt_c6fdf6f3",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_09_a-paper-says-image-editing-agents-fail-when-they-keep-retrying-the-same_8d59ed1c",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_10_mistral-large-4-is-on-hugging-face-a-laptop-will-not-run-it_a1765f44",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_11_vercel-labs-agent-desktop-a-cli-that-lets-an-agent-operate-desktop-apps_40b1bb8d",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_12_cheaper-inference-omniroute-one-local-endpoint-in-front-of-the-model-acc_e80c9260",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-03_13_kornia-kornia-geometric-computer-vision-in-pytorch-still-climbing-after_4df6ae2f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-03.json",
+    "itemCount": 13
+  }
+}

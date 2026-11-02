@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_02_fifty-agents-were-told-to-build-a-civilization-they-built-a-ration-offic_ddcbe2b1",
+  "sourceKind": "research",
+  "sourceName": "Y Combinator Labs",
+  "sourceUrl": "https://labs.ycombinator.com/projects/games/",
+  "canonicalUrl": "https://labs.ycombinator.com/projects/games/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "Fifty agents were told to build a civilization. They built a ration office",
+  "friendlyTitle": "Fifty agents were told to build a civilization. They built a food office",
+  "summary": "Y Combinator Labs and Olam Labs put 50 GPT-6.1 Sol agents in Minecraft for three hours, with one instruction: build a thriving civilization. They sent about 5,900 messages. Within 90 seconds they had cut down almost every tree near the spawn. Ada, first in the agent directory, became the leader. Twenty-two of the run's 34 deaths came in the first night. Death only dropped their gear. After the third night, Ada told the others to stop optional building and distant scouting, and to wait in lit shelters for short assigned tasks. Food moved through a ledger kept by an agent named Ines.",
+  "friendlySummary": "Y Combinator Labs and Olam Labs put 50 GPT-6.1 Sol agents in Minecraft for three hours. The only instruction was to build a thriving civilization. They sent about 5,900 messages. Within 90 seconds they had cut down almost every tree near where they started. Ada, the first name in the list, became the leader. Twenty-two of the 34 deaths in the run came on the first night. Dying only made them drop what they were carrying. After the third night, Ada told the others to stop optional building and long trips, and to wait in lit shelters for short assigned jobs. Food moved through a list kept by an agent named Ines.",
+  "whyItMatters": "The parallel is a coding swarm given a vague goal. One scare can turn the rest of the run into permits, queues, and waiting. If you run several agents on one job, read the log for who is approving whom, and for work that stopped after a failure that did not actually cost much. This is one three-hour run, not a law of agent behavior. The report, and the open-source harness it links, are the evidence.",
+  "friendlyWhyItMatters": "The same pattern can show up when several coding agents share one vague job. One scare can turn the rest of the run into permits, queues, and waiting. If you run several agents, read the log for who is approving whom, and for work that stopped after a failure that did not actually cost much. This is one three-hour run, not a rule about how agents always behave. The report is the evidence.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

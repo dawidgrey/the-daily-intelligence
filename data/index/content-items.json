@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-01T20:09:46Z",
+  "generatedAtUtc": "2026-11-02T20:12:34Z",
   "items": [
     {
-      "id": "content-item_2026-11-02_01_a-brazilian-court-fined-lawyers-for-hidden-instructions-aimed-at-its-ai_a391a59c",
-      "sourceKind": "regulation",
-      "sourceName": "JetStream Security",
-      "title": "A Brazilian court fined lawyers for hidden instructions aimed at its AI",
-      "sourceUrl": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+      "id": "content-item_2026-11-03_01_openai-graded-everyday-errands-on-a-test-it-wrote_ed4b5825",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI graded everyday errands on a test it wrote",
+      "sourceUrl": "https://openai.com/index/lifeval"
     },
     {
-      "id": "content-item_2026-11-02_02_whatsapp-help-pages-told-a-chatbot-what-not-to-say-meta-says-that-is-fix_efa8c4c6",
+      "id": "content-item_2026-11-03_02_fifty-agents-were-told-to-build-a-civilization-they-built-a-ration-offic_ddcbe2b1",
+      "sourceKind": "research",
+      "sourceName": "Y Combinator Labs",
+      "title": "Fifty agents were told to build a civilization. They built a ration office",
+      "sourceUrl": "https://labs.ycombinator.com/projects/games/"
+    },
+    {
+      "id": "content-item_2026-11-03_03_anthropic-s-amended-filing-shows-17-billion-in-a-quarter-and-895-billion_483659a4",
       "sourceKind": "article",
-      "sourceName": "Redact",
-      "title": "WhatsApp help pages told a chatbot what not to say. Meta says that is fixed",
-      "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+      "sourceName": "Axios",
+      "title": "Anthropic's amended filing shows $17 billion in a quarter, and $895 billion in commitments",
+      "sourceUrl": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge"
     },
     {
-      "id": "content-item_2026-11-02_03_sources-tell-wired-a-contractor-linked-a-personal-coding-agent-to-a-pent_bf3026d4",
+      "id": "content-item_2026-11-03_04_musk-says-grok-bot-cost-more-to-serve-than-it-earned-some-weekly-limits_3059ef15",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Musk says Grok Bot cost more to serve than it earned. Some weekly limits were already gone",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+    },
+    {
+      "id": "content-item_2026-11-03_05_chatgpt-s-chat-and-work-tabs-are-merging-chat-and-codex-will-share-one-a_869219a7",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "ChatGPT's Chat and Work tabs are merging. Chat and Codex will share one allowance",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    },
+    {
+      "id": "content-item_2026-11-03_06_openai-wants-future-campuses-to-turn-down-when-the-grid-is-strained-the_19244c7a",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "OpenAI wants future campuses to turn down when the grid is strained. The bill cut is not this month",
+      "sourceUrl": "https://openai.com/index/grid-protectors-program"
+    },
+    {
+      "id": "content-item_2026-11-03_07_the-new-york-times-sued-brave-over-an-ai-index-brave-had-not-answered_8402594b",
       "sourceKind": "article",
-      "sourceName": "WIRED",
-      "title": "Sources tell WIRED a contractor linked a personal coding agent to a Pentagon network. Accenture says the claim has no merit",
-      "sourceUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+      "sourceName": "TechCrunch",
+      "title": "The New York Times sued Brave over an AI index. Brave had not answered",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
     },
     {
-      "id": "content-item_2026-11-02_04_a-number-theorist-says-the-field-has-changed-and-the-next-job-is-not-to_7bb04305",
-      "sourceKind": "article",
-      "sourceName": "Terence Tao",
-      "title": "A number theorist says the field has changed, and the next job is not to declare it finished",
-      "sourceUrl": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+      "id": "content-item_2026-11-03_08_gpt-rosalind-6-uses-the-same-weights-as-gpt-6-astra-it-is-not-in-chatgpt_c6fdf6f3",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "GPT-Rosalind-6 uses the same weights as GPT-6 Astra. It is not in ChatGPT",
+      "sourceUrl": "https://deploymentsafety.openai.com/gpt-rosalind-6"
     },
     {
-      "id": "content-item_2026-11-02_05_lecun-and-balestriero-say-two-views-of-one-scene-beat-a-bigger-language_3f8fd939",
+      "id": "content-item_2026-11-03_09_a-paper-says-image-editing-agents-fail-when-they-keep-retrying-the-same_8d59ed1c",
       "sourceKind": "research",
       "sourceName": "arXiv",
-      "title": "LeCun and Balestriero say two views of one scene beat a bigger language model",
-      "sourceUrl": "https://arxiv.org/abs/2610.39302"
+      "title": "A paper says image-editing agents fail when they keep retrying the same tool",
+      "sourceUrl": "https://arxiv.org/abs/2610.39664"
     },
     {
-      "id": "content-item_2026-11-02_06_nolan-lawson-priced-twelve-javascript-frameworks-by-what-an-agent-spent_fe548f54",
-      "sourceKind": "article",
-      "sourceName": "Nolan Lawson",
-      "title": "Nolan Lawson priced twelve JavaScript frameworks by what an agent spent to build the same app",
-      "sourceUrl": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
-    },
-    {
-      "id": "content-item_2026-11-02_07_starbucks-wants-a-drive-thru-menu-that-recognizes-you-it-is-not-live_0de3f969",
+      "id": "content-item_2026-11-03_10_mistral-large-4-is-on-hugging-face-a-laptop-will-not-run-it_a1765f44",
       "sourceKind": "product",
-      "sourceName": "The Verge",
-      "title": "Starbucks wants a drive-thru menu that recognizes you. It is not live",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+      "sourceName": "Hugging Face",
+      "title": "Mistral Large 4 is on Hugging Face. A laptop will not run it",
+      "sourceUrl": "https://huggingface.co/blog/mistral-large4"
     },
     {
-      "id": "content-item_2026-11-02_08_proton-s-chief-executive-cancelled-the-ai-re-interviews-he-said-the-push_88726a3b",
-      "sourceKind": "article",
-      "sourceName": "404 Media",
-      "title": "Proton's chief executive cancelled the AI re-interviews. He said the push continues",
-      "sourceUrl": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
-    },
-    {
-      "id": "content-item_2026-11-02_09_blackstone-reportedly-expects-a-junk-credit-rating-for-anthropic-after-t_60ba719a",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Blackstone reportedly expects a junk credit rating for Anthropic after the IPO",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-    },
-    {
-      "id": "content-item_2026-11-02_10_apple-s-new-chief-executive-says-the-company-does-not-want-to-ship-ai-fo_89c6cb6d",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Apple's new chief executive says the company does not want to ship AI for its own sake",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-    },
-    {
-      "id": "content-item_2026-11-02_11_cjpais-handy-offline-speech-to-text-with-language-detection-still-marked_4e0cc916",
+      "id": "content-item_2026-11-03_11_vercel-labs-agent-desktop-a-cli-that-lets-an-agent-operate-desktop-apps_40b1bb8d",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "cjpais/Handy: offline speech-to-text, with language detection still marked experimental",
-      "sourceUrl": "https://github.com/cjpais/Handy"
+      "title": "vercel-labs/agent-desktop: a CLI that lets an agent operate desktop apps by name, not by pixel",
+      "sourceUrl": "https://github.com/vercel-labs/agent-desktop"
     },
     {
-      "id": "content-item_2026-11-02_12_flashml-org-freetoken-a-local-server-for-large-models-if-you-have-the-gp_cacdd6ce",
+      "id": "content-item_2026-11-03_12_cheaper-inference-omniroute-one-local-endpoint-in-front-of-the-model-acc_e80c9260",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "FlashML-org/FreeToken: a local server for large models, if you have the GPU",
-      "sourceUrl": "https://github.com/FlashML-org/FreeToken"
+      "title": "cheaper-inference/OmniRoute: one local endpoint in front of the model accounts you already have",
+      "sourceUrl": "https://github.com/cheaper-inference/OmniRoute"
     },
     {
-      "id": "content-item_2026-11-02_13_anomalyco-hex-local-dictation-that-pastes-into-the-app-you-are-already-i_0f453751",
+      "id": "content-item_2026-11-03_13_kornia-kornia-geometric-computer-vision-in-pytorch-still-climbing-after_4df6ae2f",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "anomalyco/hex: local dictation that pastes into the app you are already in",
-      "sourceUrl": "https://github.com/anomalyco/hex"
+      "title": "kornia/kornia: geometric computer vision in PyTorch, still climbing after the 23 October release",
+      "sourceUrl": "https://github.com/kornia/kornia"
     }
   ]
 }

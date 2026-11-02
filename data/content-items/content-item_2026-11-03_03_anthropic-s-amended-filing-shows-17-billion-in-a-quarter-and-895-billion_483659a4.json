@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_03_anthropic-s-amended-filing-shows-17-billion-in-a-quarter-and-895-billion_483659a4",
+  "sourceKind": "article",
+  "sourceName": "Axios",
+  "sourceUrl": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
+  "canonicalUrl": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "Anthropic's amended filing shows $17 billion in a quarter, and $895 billion in commitments",
+  "friendlyTitle": "Anthropic's updated filing shows $17 billion in a quarter, and $895 billion in commitments",
+  "summary": "Axios reports that Anthropic's amended pre-IPO paperwork puts third-quarter revenue at $17 billion, up nearly 47% from $11.6 billion the quarter before and more than twelvefold from a year earlier. Revenue for the first nine months of 2026 was $33.2 billion, against $2.5 billion a year earlier. The same paperwork discloses about $895.4 billion in spending commitments under purchase agreements and leases, substantially for compute and infrastructure. About $447.5 billion is expected by the end of 2030. Nearly $70 billion is due within 12 months of 30 September 2026. Cash and short-term investments were $131.8 billion at the end of September. Donation-matching expenses this year are $2.1 billion, 6% of operating expenses.",
+  "friendlySummary": "Axios reports that Anthropic's updated paperwork, filed before a possible stock-market listing, puts third-quarter revenue at $17 billion. That is up nearly 47% from $11.6 billion the quarter before, and more than twelve times a year earlier. Revenue for the first nine months of 2026 was $33.2 billion, against $2.5 billion a year earlier. The same paperwork lists about $895.4 billion in spending promises under purchase deals and leases, mostly for computers and data centers. About $447.5 billion is expected by the end of 2030. Nearly $70 billion is due within 12 months of 30 September 2026. Cash and short-term investments were $131.8 billion at the end of September. Matching gifts to charity cost $2.1 billion this year, 6% of operating expenses.",
+  "whyItMatters": "The figure that can change the product you buy is not the headline commitment. Axios says Anthropic cannot retain prompts or outputs from a substantial share of traffic, and warns that zero data retention could become incompatible with certain advanced models. If your company requires that setting, the filing says you may be offered less than the most capable model, or you may look at a competitor with lighter monitoring. That is a procurement question, not a stock tip.",
+  "friendlyWhyItMatters": "The number that can change the product you buy is not the giant commitment. Axios says Anthropic cannot keep the prompts or the answers from a large share of traffic, and warns that this privacy setting could clash with some of its most capable models. If your company requires that setting, the filing says you may be offered a less capable model, or you may look at a rival with lighter monitoring. That is a buying question, not a stock tip.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}

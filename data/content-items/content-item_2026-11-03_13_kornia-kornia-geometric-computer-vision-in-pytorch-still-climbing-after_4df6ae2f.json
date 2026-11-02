@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-03_13_kornia-kornia-geometric-computer-vision-in-pytorch-still-climbing-after_4df6ae2f",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/kornia/kornia",
+  "canonicalUrl": "https://github.com/kornia/kornia",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-02T20:12:34Z",
+  "createdAtUtc": "2026-11-02T20:12:34Z",
+  "updatedAtUtc": "2026-11-02T20:12:34Z",
+  "title": "kornia/kornia: geometric computer vision in PyTorch, still climbing after the 23 October release",
+  "friendlyTitle": "kornia/kornia: computer vision math for PyTorch, still climbing after the 23 October release",
+  "summary": "Kornia is a Python library for geometric computer vision, aimed at spatial AI. Release v0.9.0, on 23 October, is described as more correct, faster to compile, and better on half-precision, Apple's MPS, and CUDA. GitHub's Python trending list showed 412 stars today, and about 12,100 in total.",
+  "friendlySummary": "Kornia is a Python library for the geometry of computer vision, built for spatial AI. Release v0.9.0, on 23 October, is described as more correct, faster to compile, and better with half-precision numbers, Apple's MPS, and NVIDIA's CUDA. GitHub's Python trending list showed 412 stars today, and about 12,100 in total.",
+  "whyItMatters": "Use it when camera or image geometry has to stay inside a PyTorch training loop, instead of leaving for a separate vision tool and coming back. It is a library for that job, not a chat prompt. The 23 October release is the one the daily list is still picking up.",
+  "friendlyWhyItMatters": "Use it when camera or image math has to stay inside a PyTorch training loop, instead of leaving for a separate vision tool and coming back. It is a library for that job, not a chat prompt. The 23 October release is the one the daily list is still picking up.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-03"
+  }
+}
