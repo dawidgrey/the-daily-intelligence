@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_08_crowdstrike-intends-to-buy-fiddler-to-watch-what-agents-do-before-and-af_710937bc",
+  "sourceKind": "article",
+  "sourceName": "CrowdStrike",
+  "sourceUrl": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
+  "canonicalUrl": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "CrowdStrike intends to buy Fiddler, to watch what agents do before and after they ship",
+  "friendlyTitle": "CrowdStrike intends to buy Fiddler, to watch what agents do before and after they go live",
+  "summary": "On 3 November, CrowdStrike said it intends to acquire Fiddler and fold it into the Falcon platform as Falcon Observe, generally available in Q4 FY27. The stated job is to evaluate agents before deployment, then trace decisions and behaviour after they are live, including drift and actions that used valid credentials. Fiddler can instrument agents through OpenTelemetry, and CrowdStrike names LangGraph, Amazon Bedrock, AWS Strands, and Google ADK. The post says the deal is still subject to closing. It does not state a price. TechCrunch, citing The Wall Street Journal, reported about $400 million for Fiddler and about $95 million for a same-day deal to buy Dreadnode, which tests models and agents for flaws.",
+  "friendlySummary": "On 3 November, CrowdStrike said it intends to buy Fiddler and add it to the Falcon platform as Falcon Observe. It says the product will be generally available in the fourth quarter of CrowdStrike's 2027 financial year. The stated job is to test agents before they go live, then trace what they decided and did afterward, including slow changes in behaviour and actions taken with valid login rights. Fiddler can connect to agents through OpenTelemetry. CrowdStrike names LangGraph, Amazon Bedrock, AWS Strands, and Google ADK. The post says the deal still has to close. It does not state a price. TechCrunch, citing The Wall Street Journal, reported about $400 million for Fiddler and about $95 million for a same-day deal to buy Dreadnode, which tests models and agents for flaws.",
+  "whyItMatters": "If agents already run inside a company that uses Falcon, the new question is not only whether an outsider broke in. It is whether an agent with permission made the wrong decision. Falcon Observe is not generally available yet. Until it is, the log you already have is the one that matters, and a quoted purchase price is not a feature.",
+  "friendlyWhyItMatters": "If agents already run inside a company that uses Falcon, the new question is not only whether an outsider broke in. It is whether an agent with permission made the wrong decision. Falcon Observe is not generally available yet. Until it is, the log you already have is the one that matters. A reported purchase price is not a feature.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

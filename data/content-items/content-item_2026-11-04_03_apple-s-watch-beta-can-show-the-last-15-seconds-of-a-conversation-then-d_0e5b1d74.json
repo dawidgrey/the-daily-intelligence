@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_03_apple-s-watch-beta-can-show-the-last-15-seconds-of-a-conversation-then-d_0e5b1d74",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "Apple's Watch beta can show the last 15 seconds of a conversation, then delete it",
+  "friendlyTitle": "Apple's Watch test can show the last 15 seconds of a conversation, then delete it",
+  "summary": "TechCrunch reports that Apple's Audio Intelligence features entered developer beta on 2 November, in the iOS 27.3 and watchOS 27.3 releases, for Apple Watch Series 12 and Ultra 4. Live Rewind is a double-press of the digital crown. It shows the last 15 seconds as text, plays a chime, and shows an animation. If you do not save the snippet, Apple says it is deleted after 30 seconds. Siri Recaps writes a short sentence and bullet points, not a transcript, and does not name speakers or keep the raw audio. Unsaved recaps delete within seven days. You are prompted to review them at the end of the day and when you unlock the watch in the morning. The recap does not run while you are listening to music with headphones, or while noise cancellation is on. Apple says the audio buffer sits in a secure enclave and is not available to Apple.",
+  "friendlySummary": "TechCrunch reports that Apple's Audio Intelligence features entered a developer test on 2 November, in iOS 27.3 and watchOS 27.3, for Apple Watch Series 12 and Ultra 4. Live Rewind is a double-press of the digital crown. It shows the last 15 seconds as text, plays a sound, and shows an animation. If you do not save that text, Apple says it is deleted after 30 seconds. Siri Recaps writes a short sentence and bullet points. It is not a full transcript. It does not name who spoke, and it does not keep the raw audio. Unsaved recaps delete within seven days. You are asked to review them at the end of the day, and when you unlock the watch in the morning. The recap does not run while you listen to music with headphones, or while noise cancellation is on. Apple says the audio sits in a protected part of the chip and is not available to Apple.",
+  "whyItMatters": "This is not on the watch most people are wearing. It is a beta on two new models. If you are in the room with someone who has it, the signal is the chime, the crown press, and the animation, not a recording light you can assume is there. If you turn the recap on, the useful habit is the evening review. What you do not save is supposed to go.",
+  "friendlyWhyItMatters": "This is not on the watch most people are wearing. It is a test on two new models. If you are in the room with someone who has it, look for the sound, the crown press, and the animation. Do not assume there is a recording light. If you turn the recap on, review it in the evening. What you do not save is supposed to be deleted.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

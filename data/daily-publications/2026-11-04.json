@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-04",
+  "slug": "2026-11-04",
+  "status": "published",
+  "publicationDateUtc": "2026-11-03T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The warning test was the low score. The watch kept fifteen seconds.",
+  "friendlyHeader": "The safety test scored lower than the real job. The watch kept the last fifteen seconds.",
+  "summary": "OpenAI compared a safety test with live Codex work and found the models did worse on the test than on the matched jobs. Google will leave Search and Gemini off for school accounts until an administrator turns them on. Apple's Watch beta can show the last 15 seconds of a conversation as text, with a chime, and delete it if you do not save it. A score, a school switch, and a wrist recording are settings now, not demos.",
+  "friendlySummary": "OpenAI compared a safety test with live coding-agent work. The models did worse on the test than on the matching real jobs. Google will leave Search and Gemini off for school accounts until an administrator turns them on. Apple's Watch test can show the last 15 seconds of a conversation as text, with a sound, and delete it if you do not save it. A score, a school switch, and a recording on your wrist are settings now, not demos.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-04_01_openai-s-warning-test-scored-lower-than-the-live-codex-jobs-it-was-meant_379a11d6",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_02_google-will-turn-school-ai-off-including-search-until-an-administrator-t_05510ac4",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_03_apple-s-watch-beta-can-show-the-last-15-seconds-of-a-conversation-then-d_0e5b1d74",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_04_apple-will-require-18-for-apps-that-offer-dating-or-a-romantic-ai-compan_f9c0c715",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_05_netflix-is-testing-an-ai-discover-tab-on-tvs-in-the-united-states_32f57af2",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_06_claude-s-message-threads-cut-the-wait-on-long-agent-sessions-the-token-b_62ae9381",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_07_anthropic-released-flashprove-a-proof-that-a-reply-came-from-the-model-i_d94c9f77",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_08_crowdstrike-intends-to-buy-fiddler-to-watch-what-agents-do-before-and-af_710937bc",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_09_openai-raised-bug-bounty-payouts-a-critical-chatgpt-finding-can-now-reac_6fd6ad79",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_10_fal-says-the-new-round-is-closed-the-16-billion-figure-is-bloomberg-s-vi_c69664e3",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_11_karpathy-nanochat-a-small-harness-for-training-a-chat-model-on-one-gpu-n_221b3f21",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_12_usagi-org-ai-goofish-monitor-an-ai-watcher-for-listings-on-xianyu_51948d77",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-04_13_yuan1z0825-nature-skills-agent-skills-for-academic-prose-and-scientific_513b059e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-04.json",
+    "itemCount": 13
+  }
+}

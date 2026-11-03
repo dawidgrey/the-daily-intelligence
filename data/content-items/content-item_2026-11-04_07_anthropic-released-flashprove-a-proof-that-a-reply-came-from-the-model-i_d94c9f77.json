@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_07_anthropic-released-flashprove-a-proof-that-a-reply-came-from-the-model-i_d94c9f77",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/provable-inference",
+  "canonicalUrl": "https://www.anthropic.com/research/provable-inference",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "Anthropic released FlashProve, a proof that a reply came from the model it names",
+  "friendlyTitle": "Anthropic released a proof that a reply came from the model it names",
+  "summary": "Anthropic published FlashProve, an open prototype for proving that a response came from a committed model without revealing the weights. On Llama 4 Maverick, a 400-billion-parameter mixture-of-experts model in 4-bit weights, one H100 produced proofs at about 110 tokens a second. A proof for a 1,024-token request was about 19 megabytes. Anthropic says that is about 70 to 95 times the GPU time of running the same prompt length in vLLM. The system currently proves contexts only up to 1,024 tokens. It hides the weights, not the architecture. The code, a C++ verifier, a Lean verifier, and top-level Lean statements are under Apache 2.0. Anthropic calls this intermediate progress, not a finished product.",
+  "friendlySummary": "Anthropic published FlashProve, an open prototype. It is meant to prove that a reply came from a named model, without showing the model's weights. On Llama 4 Maverick, a 400-billion-parameter model that uses only part of itself for each word, and in a compressed 4-bit form, one H100 chip produced proofs at about 110 tokens a second. A proof for a 1,024-token request was about 19 megabytes. Anthropic says that took about 70 to 95 times as much GPU time as running the same prompt length in a common open serving tool. The system currently covers contexts only up to 1,024 tokens. It hides the weights, not the design of the model. The code and the formal checks are under the Apache 2.0 license. Anthropic calls this unfinished research, not a product.",
+  "whyItMatters": "Today you cannot check that the model named in the menu is the model that answered. This does not add that check to Claude. It shows a research prototype, on a Meta model, for short requests, at a large extra compute cost. If a provider later offers a proof, the questions are the context length, the proof size, and whether you can verify it without their hardware.",
+  "friendlyWhyItMatters": "Today you cannot check that the model named in the menu is the model that answered. This does not add that check to Claude. It is a research prototype, on a Meta model, for short requests, and it costs a lot of extra computing. If a provider later offers a proof, ask how long a conversation it covers, how big the proof is, and whether you can check it without their hardware.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

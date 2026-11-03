@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_12_usagi-org-ai-goofish-monitor-an-ai-watcher-for-listings-on-xianyu_51948d77",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "canonicalUrl": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "Usagi-org/ai-goofish-monitor: an AI watcher for listings on Xianyu",
+  "friendlyTitle": "Usagi-org/ai-goofish-monitor: an AI watcher for listings on Xianyu",
+  "summary": "ai-goofish-monitor watches Xianyu, Alibaba's secondhand marketplace, with Playwright, and uses a model to score listings against criteria you set. It includes a web admin screen for tasks, results, and alerts. The latest tagged release is 2.5, on 9 October. The default branch last changed on 10 October. MIT. GitHub's Python trending list showed 204 stars today, and about 16,300 in total.",
+  "friendlySummary": "ai-goofish-monitor watches Xianyu, Alibaba's secondhand marketplace, with a browser tool called Playwright. It uses a model to score listings against rules you write. It includes a web admin screen for tasks, results, and alerts. The latest tagged release is 2.5, on 9 October. The main branch last changed on 10 October. The license is MIT. GitHub's Python trending list showed 204 stars today, and about 16,300 in total.",
+  "whyItMatters": "Use it if you shop on Xianyu and want a scheduled search that keeps the listings matching a written brief, instead of refreshing the app. It runs through a browser session you provide, so the marketplace login is yours to protect. It does not help on a marketplace it was not built for.",
+  "friendlyWhyItMatters": "Use it if you shop on Xianyu and want a scheduled search that keeps the listings matching a written brief, instead of refreshing the app. It runs through a browser login you provide, so that login is yours to protect. It does not help on a marketplace it was not built for.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_06_claude-s-message-threads-cut-the-wait-on-long-agent-sessions-the-token-b_62ae9381",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/message-threads",
+  "canonicalUrl": "https://claude.com/resources/articles/message-threads",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "Claude's Message Threads cut the wait on long agent sessions. The token bill does not fall",
+  "friendlyTitle": "Claude's Message Threads shorten the wait on long agent sessions. The token bill does not fall",
+  "summary": "Anthropic has put Message Threads in public beta on the Claude platform, including Claude on AWS, Microsoft Foundry, and Google Cloud. After the first request, the client sends only what is new, plus the ID of the previous response. Anthropic says that for most Claude Code users this is on by default, and that requests of 500,000 to 1 million tokens see median time to first token fall by about 35%. The thread is held encrypted in memory, not written to disk, and expires five minutes after the last request. Claude still reads the full conversation on every turn, so token use does not change. Standard rates and rate limits still apply.",
+  "friendlySummary": "Anthropic has put Message Threads in a public test on the Claude platform, including Claude on AWS, Microsoft Foundry, and Google Cloud. After the first request, the app sends only what is new, plus the ID of the previous reply. Anthropic says this is on by default for most Claude Code users. For requests of 500,000 to 1 million tokens, the typical wait before the first word falls by about 35%. The thread is held encrypted in memory, not written to disk, and expires five minutes after the last request. Claude still reads the full conversation every turn, so token use does not change. Normal prices and limits still apply.",
+  "whyItMatters": "If a coding agent feels slow once the session is huge, this is a latency change, not a discount. A pause longer than five minutes means the next request sends the whole history again. Check the bill in tokens, not in how fast the first word arrived.",
+  "friendlyWhyItMatters": "If a coding agent feels slow once the session is huge, this is a speed change, not a discount. A pause longer than five minutes means the next request sends the whole history again. Check the bill in tokens, not in how fast the first word arrived.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

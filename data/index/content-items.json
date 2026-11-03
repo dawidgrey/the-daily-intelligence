@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-02T20:12:34Z",
+  "generatedAtUtc": "2026-11-03T20:11:30Z",
   "items": [
     {
-      "id": "content-item_2026-11-03_01_openai-graded-everyday-errands-on-a-test-it-wrote_ed4b5825",
+      "id": "content-item_2026-11-04_01_openai-s-warning-test-scored-lower-than-the-live-codex-jobs-it-was-meant_379a11d6",
       "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI graded everyday errands on a test it wrote",
-      "sourceUrl": "https://openai.com/index/lifeval"
+      "sourceName": "OpenAI Alignment",
+      "title": "OpenAI's warning test scored lower than the live Codex jobs it was meant to resemble",
+      "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/"
     },
     {
-      "id": "content-item_2026-11-03_02_fifty-agents-were-told-to-build-a-civilization-they-built-a-ration-offic_ddcbe2b1",
-      "sourceKind": "research",
-      "sourceName": "Y Combinator Labs",
-      "title": "Fifty agents were told to build a civilization. They built a ration office",
-      "sourceUrl": "https://labs.ycombinator.com/projects/games/"
+      "id": "content-item_2026-11-04_02_google-will-turn-school-ai-off-including-search-until-an-administrator-t_05510ac4",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Google will turn school AI off, including Search, until an administrator turns it on",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
     },
     {
-      "id": "content-item_2026-11-03_03_anthropic-s-amended-filing-shows-17-billion-in-a-quarter-and-895-billion_483659a4",
+      "id": "content-item_2026-11-04_03_apple-s-watch-beta-can-show-the-last-15-seconds-of-a-conversation-then-d_0e5b1d74",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Apple's Watch beta can show the last 15 seconds of a conversation, then delete it",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+    },
+    {
+      "id": "content-item_2026-11-04_04_apple-will-require-18-for-apps-that-offer-dating-or-a-romantic-ai-compan_f9c0c715",
+      "sourceKind": "regulation",
+      "sourceName": "TechCrunch",
+      "title": "Apple will require 18+ for apps that offer dating, or a romantic AI companion",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+    },
+    {
+      "id": "content-item_2026-11-04_05_netflix-is-testing-an-ai-discover-tab-on-tvs-in-the-united-states_32f57af2",
+      "sourceKind": "product",
+      "sourceName": "Netflix",
+      "title": "Netflix is testing an AI Discover tab on TVs in the United States",
+      "sourceUrl": "https://about.netflix.com/en/news/introducing-ai-discover"
+    },
+    {
+      "id": "content-item_2026-11-04_06_claude-s-message-threads-cut-the-wait-on-long-agent-sessions-the-token-b_62ae9381",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude's Message Threads cut the wait on long agent sessions. The token bill does not fall",
+      "sourceUrl": "https://claude.com/resources/articles/message-threads"
+    },
+    {
+      "id": "content-item_2026-11-04_07_anthropic-released-flashprove-a-proof-that-a-reply-came-from-the-model-i_d94c9f77",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Anthropic released FlashProve, a proof that a reply came from the model it names",
+      "sourceUrl": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "id": "content-item_2026-11-04_08_crowdstrike-intends-to-buy-fiddler-to-watch-what-agents-do-before-and-af_710937bc",
       "sourceKind": "article",
-      "sourceName": "Axios",
-      "title": "Anthropic's amended filing shows $17 billion in a quarter, and $895 billion in commitments",
-      "sourceUrl": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge"
+      "sourceName": "CrowdStrike",
+      "title": "CrowdStrike intends to buy Fiddler, to watch what agents do before and after they ship",
+      "sourceUrl": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/"
     },
     {
-      "id": "content-item_2026-11-03_04_musk-says-grok-bot-cost-more-to-serve-than-it-earned-some-weekly-limits_3059ef15",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Musk says Grok Bot cost more to serve than it earned. Some weekly limits were already gone",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
-    },
-    {
-      "id": "content-item_2026-11-03_05_chatgpt-s-chat-and-work-tabs-are-merging-chat-and-codex-will-share-one-a_869219a7",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "ChatGPT's Chat and Work tabs are merging. Chat and Codex will share one allowance",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    },
-    {
-      "id": "content-item_2026-11-03_06_openai-wants-future-campuses-to-turn-down-when-the-grid-is-strained-the_19244c7a",
+      "id": "content-item_2026-11-04_09_openai-raised-bug-bounty-payouts-a-critical-chatgpt-finding-can-now-reac_6fd6ad79",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "OpenAI wants future campuses to turn down when the grid is strained. The bill cut is not this month",
-      "sourceUrl": "https://openai.com/index/grid-protectors-program"
+      "title": "OpenAI raised bug-bounty payouts. A critical ChatGPT finding can now reach $30,000",
+      "sourceUrl": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
-      "id": "content-item_2026-11-03_07_the-new-york-times-sued-brave-over-an-ai-index-brave-had-not-answered_8402594b",
+      "id": "content-item_2026-11-04_10_fal-says-the-new-round-is-closed-the-16-billion-figure-is-bloomberg-s-vi_c69664e3",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "The New York Times sued Brave over an AI index. Brave had not answered",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+      "title": "Fal says the new round is closed. The $16 billion figure is Bloomberg's, via TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
     },
     {
-      "id": "content-item_2026-11-03_08_gpt-rosalind-6-uses-the-same-weights-as-gpt-6-astra-it-is-not-in-chatgpt_c6fdf6f3",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "GPT-Rosalind-6 uses the same weights as GPT-6 Astra. It is not in ChatGPT",
-      "sourceUrl": "https://deploymentsafety.openai.com/gpt-rosalind-6"
-    },
-    {
-      "id": "content-item_2026-11-03_09_a-paper-says-image-editing-agents-fail-when-they-keep-retrying-the-same_8d59ed1c",
-      "sourceKind": "research",
-      "sourceName": "arXiv",
-      "title": "A paper says image-editing agents fail when they keep retrying the same tool",
-      "sourceUrl": "https://arxiv.org/abs/2610.39664"
-    },
-    {
-      "id": "content-item_2026-11-03_10_mistral-large-4-is-on-hugging-face-a-laptop-will-not-run-it_a1765f44",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Mistral Large 4 is on Hugging Face. A laptop will not run it",
-      "sourceUrl": "https://huggingface.co/blog/mistral-large4"
-    },
-    {
-      "id": "content-item_2026-11-03_11_vercel-labs-agent-desktop-a-cli-that-lets-an-agent-operate-desktop-apps_40b1bb8d",
+      "id": "content-item_2026-11-04_11_karpathy-nanochat-a-small-harness-for-training-a-chat-model-on-one-gpu-n_221b3f21",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "vercel-labs/agent-desktop: a CLI that lets an agent operate desktop apps by name, not by pixel",
-      "sourceUrl": "https://github.com/vercel-labs/agent-desktop"
+      "sourceName": "GitHub trending Python",
+      "title": "karpathy/nanochat: a small harness for training a chat model on one GPU node",
+      "sourceUrl": "https://github.com/karpathy/nanochat"
     },
     {
-      "id": "content-item_2026-11-03_12_cheaper-inference-omniroute-one-local-endpoint-in-front-of-the-model-acc_e80c9260",
+      "id": "content-item_2026-11-04_12_usagi-org-ai-goofish-monitor-an-ai-watcher-for-listings-on-xianyu_51948d77",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "cheaper-inference/OmniRoute: one local endpoint in front of the model accounts you already have",
-      "sourceUrl": "https://github.com/cheaper-inference/OmniRoute"
+      "sourceName": "GitHub trending Python",
+      "title": "Usagi-org/ai-goofish-monitor: an AI watcher for listings on Xianyu",
+      "sourceUrl": "https://github.com/Usagi-org/ai-goofish-monitor"
     },
     {
-      "id": "content-item_2026-11-03_13_kornia-kornia-geometric-computer-vision-in-pytorch-still-climbing-after_4df6ae2f",
+      "id": "content-item_2026-11-04_13_yuan1z0825-nature-skills-agent-skills-for-academic-prose-and-scientific_513b059e",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "kornia/kornia: geometric computer vision in PyTorch, still climbing after the 23 October release",
-      "sourceUrl": "https://github.com/kornia/kornia"
+      "sourceName": "GitHub trending Python",
+      "title": "Yuan1z0825/nature-skills: agent skills for academic prose and scientific figures",
+      "sourceUrl": "https://github.com/Yuan1z0825/nature-skills"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_11_karpathy-nanochat-a-small-harness-for-training-a-chat-model-on-one-gpu-n_221b3f21",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/karpathy/nanochat",
+  "canonicalUrl": "https://github.com/karpathy/nanochat",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "karpathy/nanochat: a small harness for training a chat model on one GPU node",
+  "friendlyTitle": "karpathy/nanochat: a small toolkit for training a chat model on one GPU machine",
+  "summary": "nanochat is Andrej Karpathy's experimental stack for training a language model on one GPU node, from tokenizer through pretraining, fine-tuning, evaluation, and a simple chat. The speedrun script targets GPT-2 grade on an 8xH100 node. The README's cost example is about $48 for two hours, at about $24 an hour for that node, and closer to $15 on a spot instance. The leaderboard's latest listed row is 1.65 hours, dated 14 March 2026. The default branch last changed on 3 July 2026. MIT. GitHub's Python trending list showed 551 stars today, and about 60,200 in total.",
+  "friendlySummary": "nanochat is Andrej Karpathy's experimental toolkit for training a language model on one GPU machine. It covers the tokenizer, pretraining, fine-tuning, evaluation, and a simple chat. The speedrun script aims for GPT-2 level on a machine with eight H100 chips. The README's cost example is about $48 for two hours, at about $24 an hour for that machine, and closer to $15 on a cheaper spot rental. The leaderboard's latest listed row is 1.65 hours, dated 14 March 2026. The main branch last changed on 3 July 2026. The license is MIT. GitHub's Python trending list showed 551 stars today, and about 60,200 in total.",
+  "whyItMatters": "Use it to see the whole training loop in one readable repo, or to run the published speedrun if you already have an 8xH100 node. It is not a chatbot you install on a laptop and call ChatGPT. The $48 figure is the README's example for about two hours, not a quote for the 1.65-hour leaderboard row.",
+  "friendlyWhyItMatters": "Use it to read the whole training loop in one repo, or to run the published speedrun if you already have a machine with eight H100 chips. It is not a chatbot you install on a laptop and treat as ChatGPT. The $48 figure is the README's example for about two hours, not a price for the 1.65-hour leaderboard row.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

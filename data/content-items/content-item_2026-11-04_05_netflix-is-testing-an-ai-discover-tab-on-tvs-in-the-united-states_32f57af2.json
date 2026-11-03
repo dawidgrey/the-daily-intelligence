@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-04_05_netflix-is-testing-an-ai-discover-tab-on-tvs-in-the-united-states_32f57af2",
+  "sourceKind": "product",
+  "sourceName": "Netflix",
+  "sourceUrl": "https://about.netflix.com/en/news/introducing-ai-discover",
+  "canonicalUrl": "https://about.netflix.com/en/news/introducing-ai-discover",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-03T20:11:30Z",
+  "createdAtUtc": "2026-11-03T20:11:30Z",
+  "updatedAtUtc": "2026-11-03T20:11:30Z",
+  "title": "Netflix is testing an AI Discover tab on TVs in the United States",
+  "friendlyTitle": "Netflix is testing an AI Discover tab on TVs in the United States",
+  "summary": "On 3 November, Netflix said a small group of members in the United States, using Netflix in English on supported TVs, will see a Discover tab. The first experiment is themes with clips: how you want to feel, who is watching, or how much time you have. Netflix's examples include Something Light, Scare Me, Family Movie Night, and Quick Watches. Each title has a Tune Your Recommendations button next to Play and My List, to keep a suggestion or stop one from returning. Netflix calls the tab a test kitchen. Some experiments may later move into the main app. If you have it, the button is in the top bar, with a red gem and a New label. More people get it over the coming weeks.",
+  "friendlySummary": "On 3 November, Netflix said a small group of members in the United States, using Netflix in English on supported TVs, will see a Discover tab. The first experiment is themes with clips. You can start from how you want to feel, who is watching, or how much time you have. Netflix's examples include Something Light, Scare Me, Family Movie Night, and Quick Watches. Each title has a button next to Play and My List. You can keep a suggestion, or tell Netflix not to suggest that title again. Netflix calls the tab a test kitchen. Some experiments may later move into the main app. If you have it, the button is in the top bar, with a red gem and a New label. More people get it over the coming weeks.",
+  "whyItMatters": "This is not a new chatbot on your phone. It is a TV tab, in English, in the United States, for a small group. The useful control is the one that tells Netflix not to suggest a title again. If the tab is not in your top bar, you are not in the test yet.",
+  "friendlyWhyItMatters": "This is not a new chatbot on your phone. It is a TV tab, in English, in the United States, for a small group. The useful control is the one that tells Netflix not to suggest a title again. If the tab is not in your top bar, you are not in the test yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-04"
+  }
+}

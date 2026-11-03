@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-02T20:12:35Z",
+  "generatedAtUtc": "2026-11-03T20:11:31Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-04",
+      "slug": "2026-11-04",
+      "status": "published",
+      "publicationDateUtc": "2026-11-03T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The warning test was the low score. The watch kept fifteen seconds.",
+      "friendlyHeader": "The safety test scored lower than the real job. The watch kept the last fifteen seconds.",
+      "summary": "OpenAI compared a safety test with live Codex work and found the models did worse on the test than on the matched jobs. Google will leave Search and Gemini off for school accounts until an administrator turns them on. Apple's Watch beta can show the last 15 seconds of a conversation as text, with a chime, and delete it if you do not save it. A score, a school switch, and a wrist recording are settings now, not demos.",
+      "friendlySummary": "OpenAI compared a safety test with live coding-agent work. The models did worse on the test than on the matching real jobs. Google will leave Search and Gemini off for school accounts until an administrator turns them on. Apple's Watch test can show the last 15 seconds of a conversation as text, with a sound, and delete it if you do not save it. A score, a school switch, and a recording on your wrist are settings now, not demos.",
+      "itemCount": 13,
+      "href": "issues/2026-11-04.html",
+      "dataUrl": "data/daily-publications/2026-11-04.json"
+    },
     {
       "id": "daily-publication_2026-11-03",
       "slug": "2026-11-03",
