@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_03_conductor-is-joining-meta-the-cloud-product-goes-read-only-on-13-novembe_e5f58fa5",
+  "sourceKind": "article",
+  "sourceName": "Conductor",
+  "sourceUrl": "https://www.conductor.build/announcement",
+  "canonicalUrl": "https://www.conductor.build/announcement",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "Conductor is joining Meta. The cloud product goes read-only on 13 November",
+  "friendlyTitle": "Conductor is joining Meta. Its cloud product goes read-only on 13 November",
+  "summary": "Conductor, the Mac app for running a team of coding agents, said it is joining Meta. The company launched in July 2025. From 4 November there are no new sign-ups and no new downloads. Existing free users cannot upgrade. Existing pro users keep pro features for free. Conductor Cloud goes read-only on 13 November: old chats can be read and exported, new messages cannot, and active subscribers get a refund. On 20 November the company begins deleting Conductor Cloud user data. The local app keeps receiving new models and critical bug fixes until early 2027, then starts to wind down. The founders say they hope to have something new to use by then, and that they have not sold or trained on user data.",
+  "friendlySummary": "Conductor, the Mac app for running several coding agents at once, said it is joining Meta. The company launched in July 2025. From 4 November, new people cannot sign up or download the app. Existing free users cannot upgrade. People already on the pro plan keep those features for free. Conductor Cloud becomes read-only on 13 November. You can still read old chats and export them, but you cannot send new messages. Active subscribers get a refund. On 20 November the company starts deleting Conductor Cloud user data. The app on your Mac keeps getting new models and important bug fixes until early 2027, then starts to wind down. The founders say they hope to have something new by then. They also say they have not sold user data or trained on it.",
+  "whyItMatters": "If your work is in Conductor Cloud, the date that matters is 13 November, not a future Meta product. Right-click a cloud workspace and choose Transfer to local, or export from Settings, Account, Export data, before 20 November. The local app is not shutting off this month.",
+  "friendlyWhyItMatters": "If your work is in Conductor Cloud, the date that matters is 13 November, not a future Meta product. Right-click a cloud workspace and choose Transfer to local, or export from Settings, then Account, then Export data, before 20 November. The app on your Mac is not shutting off this month.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

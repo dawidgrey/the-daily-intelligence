@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-05",
+  "slug": "2026-11-05",
+  "status": "published",
+  "publicationDateUtc": "2026-11-04T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Four people booked the Uber. The GIF is already in ChatGPT.",
+  "friendlyHeader": "Four people booked an Uber with an AI agent. ChatGPT can now make GIFs.",
+  "summary": "Uber's Halloween week covered about 320 million trips and orders. Four rides, and 500 food orders, came from an AI agent. The same day, OpenAI put Images 2.6 in ChatGPT, with looping GIFs and a claim of generations that are 50% faster. Ricursive released a 65-billion-parameter coding model and said the whole project cost $32 million. A booking button, an image setting, and a weight file are the parts a person can actually use.",
+  "friendlySummary": "In its busiest week last quarter, Uber handled about 320 million trips and food orders. Four rides, and 500 food orders, were placed by an AI agent. The same day, OpenAI added a new image tool to ChatGPT. It can make short looping animations, and OpenAI says it is 50% faster. A chip-design lab also released a smaller open coding model and said the project cost $32 million. A booking button, an image setting, and a downloadable model are the parts you can actually use.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-05_01_uber-s-busiest-week-four-rides-booked-by-an-ai-agent-and-500-food-orders_f3f4f568",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_02_images-2-6-is-in-chatgpt-today-it-makes-gifs-and-openai-says-it-is-50-fa_9320bcda",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_03_conductor-is-joining-meta-the-cloud-product-goes-read-only-on-13-novembe_e5f58fa5",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_04_ricursive-released-ripple-65b-preview-and-says-the-project-cost-32-milli_0f35e299",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_05_kimi-k3-1-pro-weights-are-on-hugging-face-it-is-a-2-8-trillion-parameter_7838c877",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_06_tencent-released-hy4-on-an-api-the-weights-are-not-out-yet_07dbf5f1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_07_openai-says-a-research-run-produced-948-local-paths-to-root-in-linux_f730feda",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_08_duckduckgo-is-telling-schools-they-can-turn-its-ai-off-and-keep-search_add91e24",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_09_surge-says-extra-thinking-beat-the-coding-agent-harnesses-it-tested_10f4cc85",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_10_openai-will-acquire-pierre-the-deal-is-not-closed-and-the-libraries-stay_647d6f84",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_11_nvidia-auto-ontology-a-semantic-layer-so-an-agent-query-can-show-its-wor_8ac19897",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_12_fareedkhan-dev-kimi-k3-in-c-kimi-k3-on-a-cpu-if-the-disk-can-hold-1-56-t_cd998f72",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-05_13_max-sixty-worktrunk-a-separate-checkout-for-each-agent-addressed-like-a_d747ecb5",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-05.json",
+    "itemCount": 13
+  }
+}

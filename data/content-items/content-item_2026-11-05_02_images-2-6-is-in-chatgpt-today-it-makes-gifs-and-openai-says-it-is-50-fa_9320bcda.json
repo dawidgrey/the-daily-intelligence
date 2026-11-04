@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_02_images-2-6-is-in-chatgpt-today-it-makes-gifs-and-openai-says-it-is-50-fa_9320bcda",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-images-2-6/",
+  "canonicalUrl": "https://openai.com/index/introducing-images-2-6/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "Images 2.6 is in ChatGPT today. It makes GIFs, and OpenAI says it is 50% faster",
+  "friendlyTitle": "ChatGPT's new image tool is live. It can make GIFs, and OpenAI says it is 50% faster",
+  "summary": "On 4 November, OpenAI released Images 2.6 in ChatGPT, Codex, and the API, on every subscription tier, on desktop, mobile, and the web. OpenAI says people already create 4 billion images a week across those surfaces, and that Images 2.6 generates images 50% faster than before. The new motion format is a GIF: a brand character, a reaction, or a short storyboard loop. In the API, GPT-Image-2.6 Flare and Sunburst are the two choices. At low quality, OpenAI says Flare can finish in as little as six seconds. Sunburst is the higher-detail option, at medium or high quality, and OpenAI says it holds characters and products more steadily across edits. Image markup, already in ChatGPT, comes to the API, along with SVG export and a complexity setting that changes how much planning the model does.",
+  "friendlySummary": "On 4 November, OpenAI released Images 2.6 in ChatGPT, Codex, and the API. It is on every paid plan, on desktop, phone, and the web. OpenAI says people already create 4 billion images a week across those products, and that the new tool makes images 50% faster than before. The new trick is a GIF, a short animation that loops. You can animate a character, a reaction, or a rough storyboard. In the API, there are two models, Flare and Sunburst. OpenAI says Flare, at low quality, can finish in as little as six seconds. Sunburst is for more detail, and OpenAI says it keeps the same character or product more steady when you edit. Marking up an image, already possible in ChatGPT, now works in the API too, along with SVG files for websites and print, and a setting for how much planning the model does.",
+  "whyItMatters": "If you already make images in ChatGPT, this is a setting, not a waitlist. The useful test is a second edit of the same character, not the first pretty frame. A GIF is a short loop, not a video you can recut. Pricing for the API models is on OpenAI's developer pricing page, not in the announcement.",
+  "friendlyWhyItMatters": "If you already make images in ChatGPT, this is on now. It is not a waitlist. The useful test is a second edit of the same character, not the first nice picture. A GIF is a short loop, not a video you can recut. The API price is on OpenAI's developer pricing page, not in the announcement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

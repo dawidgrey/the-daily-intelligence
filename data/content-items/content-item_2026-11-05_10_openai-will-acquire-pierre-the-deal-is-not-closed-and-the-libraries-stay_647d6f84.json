@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_10_openai-will-acquire-pierre-the-deal-is-not-closed-and-the-libraries-stay_647d6f84",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre/",
+  "canonicalUrl": "https://openai.com/index/openai-to-acquire-pierre/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "OpenAI will acquire Pierre. The deal is not closed, and the libraries stay open",
+  "friendlyTitle": "OpenAI will buy Pierre. The deal is not closed, and the code libraries stay open",
+  "summary": "On 4 November, OpenAI said it will acquire Pierre Computer Company, the maker of Code Storage and of the Trees and Diffs libraries already used in the Codex app. Trees is for moving through a project's files. Diffs is for seeing a change. OpenAI says Pierre's open-source projects will stay open source, and that it will keep contributing. Code Storage customers can keep using the service after closing, while OpenAI works to bring those features into Codex. Closing still needs the usual conditions, including regulatory approval. Until then, the companies remain separate.",
+  "friendlySummary": "On 4 November, OpenAI said it will buy Pierre Computer Company. Pierre makes Code Storage, and the Trees and Diffs libraries already used in the Codex app. Trees is for moving through a project's files. Diffs is for seeing what changed. OpenAI says Pierre's open-source projects will stay open source, and that it will keep contributing to them. Code Storage customers can keep using the service after the deal closes, while OpenAI works to move those features into Codex. Closing still needs the usual approvals, including from regulators. Until then, the two companies stay separate.",
+  "whyItMatters": "If you import Trees or Diffs, the announcement is not a shutdown. OpenAI says those projects stay open and that it will keep contributing. If your company stores code on Code Storage, the path OpenAI describes is into Codex after closing, not a date you can put on a calendar yet. A signed announcement is not a closed deal.",
+  "friendlyWhyItMatters": "If you use Trees or Diffs, this announcement is not a shutdown. OpenAI says those projects stay open and that it will keep contributing. If your company stores code on Code Storage, the path OpenAI describes is into Codex after the deal closes, not a date you can put on a calendar yet. An announcement is not a finished deal.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

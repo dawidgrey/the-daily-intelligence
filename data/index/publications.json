@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-03T20:11:31Z",
+  "generatedAtUtc": "2026-11-04T23:53:40Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-05",
+      "slug": "2026-11-05",
+      "status": "published",
+      "publicationDateUtc": "2026-11-04T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Four people booked the Uber. The GIF is already in ChatGPT.",
+      "friendlyHeader": "Four people booked an Uber with an AI agent. ChatGPT can now make GIFs.",
+      "summary": "Uber's Halloween week covered about 320 million trips and orders. Four rides, and 500 food orders, came from an AI agent. The same day, OpenAI put Images 2.6 in ChatGPT, with looping GIFs and a claim of generations that are 50% faster. Ricursive released a 65-billion-parameter coding model and said the whole project cost $32 million. A booking button, an image setting, and a weight file are the parts a person can actually use.",
+      "friendlySummary": "In its busiest week last quarter, Uber handled about 320 million trips and food orders. Four rides, and 500 food orders, were placed by an AI agent. The same day, OpenAI added a new image tool to ChatGPT. It can make short looping animations, and OpenAI says it is 50% faster. A chip-design lab also released a smaller open coding model and said the project cost $32 million. A booking button, an image setting, and a downloadable model are the parts you can actually use.",
+      "itemCount": 13,
+      "href": "issues/2026-11-05.html",
+      "dataUrl": "data/daily-publications/2026-11-05.json"
+    },
     {
       "id": "daily-publication_2026-11-04",
       "slug": "2026-11-04",

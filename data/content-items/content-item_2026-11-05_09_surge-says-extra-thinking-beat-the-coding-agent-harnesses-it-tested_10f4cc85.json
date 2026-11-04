@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_09_surge-says-extra-thinking-beat-the-coding-agent-harnesses-it-tested_10f4cc85",
+  "sourceKind": "research",
+  "sourceName": "Surge AI",
+  "sourceUrl": "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses",
+  "canonicalUrl": "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "Surge says extra thinking beat the coding-agent harnesses it tested",
+  "friendlyTitle": "A test found that making the model think harder beat extra coding-agent tools",
+  "summary": "On 4 November, Surge AI reported a test of coding-agent setups on its sudo L7 benchmark, with the model held at Claude Opus 5.5. Raising vanilla Claude Code from medium thinking effort to xhigh raised the score by 11.3 points, at 3.5 times the cost. Superpowers, a skills plugin, added 2.4 points at about 1.1 times the cost. Claude Code's /goal and /code-review together added 3.3 points at 1.8 times the cost. A Compound Engineering setup cost about eight times vanilla, without a statistically clear gain in this experiment. In one example, a medium-effort run scored 14 out of 100 and cost $0.12; the xhigh run on the same task scored 100 and cost $0.41, because it kept looking and found a second crash the first fix had missed. Surge says this is one model and one set of tasks.",
+  "friendlySummary": "On 4 November, Surge AI reported a test of coding-agent setups on its sudo L7 benchmark. The model stayed the same: Claude Opus 5.5. Turning vanilla Claude Code from a medium thinking setting to the highest setting, xhigh, raised the score by 11.3 points, at 3.5 times the cost. A skills plugin called Superpowers added 2.4 points at about 1.1 times the cost. Claude Code's own goal and code-review commands together added 3.3 points at 1.8 times the cost. A heavier setup, Compound Engineering, cost about eight times the plain run, without a clear gain in this experiment. In one example, the medium run scored 14 out of 100 and cost $0.12. The high-effort run on the same task scored 100 and cost $0.41, because it kept looking and found a second crash the first fix had missed. Surge says this is one model and one set of tasks.",
+  "whyItMatters": "Before you add a stack of reviewer agents, try the effort setting you already have and write down the score and the bill. Surge's own warning is the right size: a room full of reviewers can still miss the requirement, if they all inherited the same wrong assumption. Measure it on your repository. Do not treat 11.3 points as a universal upgrade.",
+  "friendlyWhyItMatters": "Before you add a pile of reviewer agents, try the thinking setting you already have, and write down the score and the bill. Surge's own warning is the right size. A room full of reviewers can still miss the real requirement, if they all started from the same wrong idea. Test it on your own code. Do not treat 11.3 points as a guaranteed upgrade.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_13_max-sixty-worktrunk-a-separate-checkout-for-each-agent-addressed-like-a_d747ecb5",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/max-sixty/worktrunk",
+  "canonicalUrl": "https://github.com/max-sixty/worktrunk",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "max-sixty/worktrunk: a separate checkout for each agent, addressed like a branch",
+  "friendlyTitle": "max-sixty/worktrunk: a separate copy of the repo for each coding agent",
+  "summary": "Worktrunk was the next unpublished AI-related repository on GitHub's daily trending page, with 524 stars in that window and about 11,000 in total. It is a command-line tool that treats git worktrees as something you address by branch name. The README's core example, `wt switch -c -x claude feat`, creates the worktree and starts Claude in it. `wt remove` deletes the worktree and the branch. It also documents hooks, generated commit messages, and a merge cleanup flow. A commit landed on 4 November.",
+  "friendlySummary": "Worktrunk was the next unpublished AI-related repository on GitHub's daily trending page, with 524 stars in that window and about 11,000 in total. It is a command-line tool for git worktrees, which are separate working copies of one repository. You address them by branch name. The README's main example, `wt switch -c -x claude feat`, creates the copy and starts Claude in it. `wt remove` deletes that copy and the branch. It also documents hooks, commit messages written from the diff, and a merge cleanup flow. A commit landed on 4 November.",
+  "whyItMatters": "Use it when two coding agents would otherwise edit the same checkout and step on each other. Each agent gets a worktree, and you switch by branch name instead of remembering a path. It is a git tool with agent commands, not a model. Read `wt --help` before you let an agent run the cleanup command on a branch you still need.",
+  "friendlyWhyItMatters": "Use it when two coding agents would otherwise edit the same folder and overwrite each other. Each agent gets its own working copy, and you switch by branch name instead of remembering a path. It is a git tool with agent commands, not a model. Read `wt --help` before you let an agent run the cleanup command on a branch you still need.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_11_nvidia-auto-ontology-a-semantic-layer-so-an-agent-query-can-show-its-wor_8ac19897",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/NVIDIA/auto-ontology",
+  "canonicalUrl": "https://github.com/NVIDIA/auto-ontology",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "NVIDIA/auto-ontology: a semantic layer so an agent query can show its work",
+  "friendlyTitle": "NVIDIA/auto-ontology: a meaning layer so an agent can show how it got the number",
+  "summary": "NVIDIA Auto Ontology was the top repository on GitHub's daily trending page, with 2,053 stars in that window. It is an Apache-2.0 Python library that builds a semantic layer from database metadata: business terms, checked SQL expressions, and joins, stored in Postgres with pgvector. Agents reach it through MCP, a command line, or an API. The default models in the example environment are NVIDIA NIM endpoints, including Nemotron for chat, embeddings, and reranking. NVIDIA says it is not accepting external pull requests.",
+  "friendlySummary": "NVIDIA Auto Ontology was the top repository on GitHub's daily trending page, with 2,053 stars in that window. It is a Python library under the Apache-2.0 license. It builds a meaning layer from database metadata: business terms, checked SQL formulas, and the joins between tables, stored in Postgres. Agents can reach it through MCP, a command line, or an API. The example setup uses NVIDIA's own model endpoints, including Nemotron, for chat, embeddings, and reranking. NVIDIA says it is not accepting outside code contributions.",
+  "whyItMatters": "Use it when an agent is answering from a company database and you need the same definition of revenue every time, plus the SQL and the steps that produced the number. The documented quick start is Docker Compose against Microsoft's Wide World Importers sample, and it expects an NVIDIA API key. It is a context layer, not a chatbot, and outside code contributions are not being taken.",
+  "friendlyWhyItMatters": "Use it when an agent answers questions from a company database and you need the same definition of revenue every time, plus the SQL and the steps that produced the number. The documented first run uses Docker Compose and Microsoft's sample sales database, and it expects an NVIDIA API key. It is a context layer, not a chatbot, and outside code contributions are not being taken.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

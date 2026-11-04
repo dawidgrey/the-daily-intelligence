@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_12_fareedkhan-dev-kimi-k3-in-c-kimi-k3-on-a-cpu-if-the-disk-can-hold-1-56-t_cd998f72",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+  "canonicalUrl": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "FareedKhan-dev/kimi-k3-in-c: Kimi K3 on a CPU, if the disk can hold 1.56 TB",
+  "friendlyTitle": "FareedKhan-dev/kimi-k3-in-c: Kimi K3 on a normal processor, if the disk can hold 1.56 TB",
+  "summary": "kimi-k3-in-c was the next unpublished AI repository on GitHub's daily trending page, with 351 stars in that window and about 10,300 in total. It is a portable C99 engine, Apache-2.0, version 1.1.0, with no GPU and no BLAS. The README's table says the checkpoint is 1.56 TB on disk, peak memory was measured at 8.24 GB, and the engine itself is 176 KB. On an 8 GB laptop the same table lists 26.5 seconds per token, because the model streams off disk. At 128 GB or more, it lists 5.6 seconds per token. The output is claimed to be byte-identical across those machines. This is Kimi K3, not the K3.1 Pro weights released this week.",
+  "friendlySummary": "kimi-k3-in-c was the next unpublished AI repository on GitHub's daily trending page, with 351 stars in that window and about 10,300 in total. It is a small C program, under the Apache-2.0 license, version 1.1.0. It needs no GPU and no maths library. The README's table says the model file is 1.56 TB on disk, the measured memory peak was 8.24 GB, and the program itself is 176 KB. On an 8 GB laptop the same table lists 26.5 seconds per token, because the model is read from disk on every step. With 128 GB of memory or more, it lists 5.6 seconds per token. The project says the answer is the same on every machine. Only the speed changes. This is Kimi K3, not the K3.1 Pro weights released this week.",
+  "whyItMatters": "Use it to see whether a huge mixture-of-experts model can answer from a CPU if you already have 1.56 TB free and can wait half a minute per token on a laptop. An 8 GB memory figure is not an 8 GB download. A partial layer download is not the model. Read the requirements before you start the fetch.",
+  "friendlyWhyItMatters": "Use it to see whether a huge model can answer from an ordinary processor, if you already have 1.56 TB free and can wait about half a minute per word-piece on a laptop. The 8 GB memory figure is not an 8 GB download. A partial download of a few layers is not the model. Read the requirements before you start the download.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

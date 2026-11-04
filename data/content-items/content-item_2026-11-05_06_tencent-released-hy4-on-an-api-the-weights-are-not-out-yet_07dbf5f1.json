@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_06_tencent-released-hy4-on-an-api-the-weights-are-not-out-yet_07dbf5f1",
+  "sourceKind": "product",
+  "sourceName": "Tencent Hy",
+  "sourceUrl": "https://hy.tencent.ai/research/hy4",
+  "canonicalUrl": "https://hy.tencent.ai/research/hy4",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "Tencent released Hy4 on an API. The weights are not out yet",
+  "friendlyTitle": "Tencent released Hy4 through an API. The weights are not public yet",
+  "summary": "On 4 November, Tencent released Hy4, which it says is the first Hy model it would place among the strongest open-source models. Compared with Hy4 preview, it adds vision, and Tencent says instruction following, long context, long-horizon tasks, and deep research are substantially better. The API is on Tencent Cloud, OpenRouter, and Hy AI Studio. Listed prices per million tokens are $0.042 for cached input, $0.834 for input, and $2.501 for output. Tencent says it plans to open-source the weights, with a system card at that release, and that it is working with vLLM and SGLang. On an internal finance set of 579 tasks, judged by 213 professionals, Tencent ranks Hy4 first among open-weight models at 3.04, against DeepSeek-V4.1-Flash-1017 at 2.97 and both Kimi K3.1 Pro and GLM-5.3 at 2.68. It also says a clear gap remains versus the top closed models, including on its own hard tests for research mathematics, long coding jobs, and visual questions.",
+  "friendlySummary": "On 4 November, Tencent released Hy4. It says this is the first Hy model it would put among the strongest open-source models. Compared with the Hy4 preview, it can see images for the first time. Tencent also says it follows instructions better, handles long documents better, and is stronger on long tasks and research. You can use the API on Tencent Cloud, OpenRouter, and Hy AI Studio. The listed prices, per million tokens, are $0.042 for cached input, $0.834 for new input, and $2.501 for output. Tencent says it plans to publish the weights later, with a safety report at the same time, and that it is working with the vLLM and SGLang serving projects. On its own finance test of 579 tasks, judged by 213 professionals, Tencent ranks Hy4 first among open-weight models at 3.04, against DeepSeek-V4.1-Flash-1017 at 2.97 and both Kimi K3.1 Pro and GLM-5.3 at 2.68. It also says a clear gap remains versus the best closed models, including on its own hard tests for research maths, long coding jobs, and questions about images.",
+  "whyItMatters": "You can call Hy4 today. You cannot download it today. If a vendor says it is serving Hy4, the check is the model ID and the price, not a weights file that does not exist yet. Tencent's finance ranking is its own panel. Treat it as their measurement, and wait for the system card before you decide what the open release actually is.",
+  "friendlyWhyItMatters": "You can call Hy4 today. You cannot download it today. If a company says it is serving Hy4, check the model name and the price, not a weights file that is not out yet. The finance ranking is Tencent's own panel. Treat it as their measurement, and wait for the safety report before you decide what the open release actually is.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}

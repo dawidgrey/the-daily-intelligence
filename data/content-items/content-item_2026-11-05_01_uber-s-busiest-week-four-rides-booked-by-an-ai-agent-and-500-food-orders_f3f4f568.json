@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-05_01_uber-s-busiest-week-four-rides-booked-by-an-ai-agent-and-500-food-orders_f3f4f568",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-04T23:53:39Z",
+  "createdAtUtc": "2026-11-04T23:53:39Z",
+  "updatedAtUtc": "2026-11-04T23:53:39Z",
+  "title": "Uber's busiest week: four rides booked by an AI agent, and 500 food orders",
+  "friendlyTitle": "In Uber's busiest week, an AI agent booked four rides and 500 food orders",
+  "summary": "TechCrunch reports that on Uber's third-quarter earnings call on 4 November, the company said only four rides were ordered through an AI agent during its busiest week in October, the week of Halloween. Chief financial officer Balaji Krishnamurthy said that week covered about 320 million trips and orders across Uber and Uber Eats, and that 500 Uber Eats orders were placed by an AI agent. Chief executive Dara Khosrowshahi called the traction very early and very limited, and said he hopes it grows. He also said booking a ride takes about 50 seconds in the Uber app, and reordering a favourite food takes about 90 seconds.",
+  "friendlySummary": "TechCrunch reports that on Uber's earnings call on 4 November, the company said only four rides were booked by an AI agent during its busiest week in October, the week of Halloween. The finance chief, Balaji Krishnamurthy, said that week covered about 320 million trips and orders across rides and Uber Eats. About 500 food orders were placed by an AI agent. Chief executive Dara Khosrowshahi said this is very early and very limited, and that he hopes it grows. He also said booking a ride takes about 50 seconds in the Uber app, and ordering a favourite meal again takes about 90 seconds.",
+  "whyItMatters": "An agent that can book a car is not the same as people using it. If the app already finishes the job in under a minute, the agent has to beat that, not the idea of an agent. If you are building one, the number to ask for is completed orders, not a demo of the connection.",
+  "friendlyWhyItMatters": "An agent that can book a car is not the same as people using it. If the app already finishes the job in under a minute, the agent has to be faster or easier than that, not just new. If you are building one, ask how many orders it actually completed, not whether it can connect.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-05"
+  }
+}
