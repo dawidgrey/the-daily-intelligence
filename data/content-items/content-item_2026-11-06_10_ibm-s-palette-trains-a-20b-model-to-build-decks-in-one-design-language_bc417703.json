@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-06_10_ibm-s-palette-trains-a-20b-model-to-build-decks-in-one-design-language_bc417703",
+  "sourceKind": "research",
+  "sourceName": "IBM Research",
+  "sourceUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "canonicalUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-05T20:08:58Z",
+  "createdAtUtc": "2026-11-05T20:08:58Z",
+  "updatedAtUtc": "2026-11-05T20:08:58Z",
+  "title": "IBM's Palette trains a 20B model to build decks in one design language",
+  "friendlyTitle": "IBM tested a smaller model that builds slide decks in one design style",
+  "summary": "IBM Research describes Palette, a test of whether a small open-weight model can build slide decks in a company's own design language and keep the files on infrastructure the company controls. They fine-tuned a 20-billion-parameter model with a LoRA adapter, using synthetic data in the IBM Design Language. One role writes a structured brief for the deck. The other writes the code for each slide, and those calls can run in parallel. IBM says that split made the coding stage about 6 to 7 times faster. Every deck then goes through a checker for overlap and overflow. A rewrite is kept only if the checker says the slide improved. On PresentBench, IBM says the result ranks first on two of the three domains it measured. The post was published on 3 November. It does not say the weights are a general product you can drop into PowerPoint today.",
+  "friendlySummary": "IBM Research describes Palette, a test of whether a smaller open-weight model can build slide decks in a company's own design style, on computers the company controls. They fine-tuned a 20-billion-parameter model with a small adapter, using made-up training decks in the IBM Design Language. One role writes a structured plan for the deck. The other writes the code for each slide, and those calls can run at the same time. IBM says that split made the coding stage about 6 to 7 times faster. Every deck then goes through a checker that looks for overlapping boxes and text that runs off the slide. A rewrite is kept only if the checker says the slide got better. On a test called PresentBench, IBM says the result ranks first on two of the three areas it measured. The post was published on 3 November. It does not say you can drop the weights into PowerPoint today.",
+  "whyItMatters": "If a frontier model keeps drifting back to its own house style, or the deck cannot leave your network, the useful path is a model you can train on your template. IBM's lesson is the checker, not the demo slide. A fix that is kept only when it measures better can run on every deck. A prompt that says 'use our brand' often does not.",
+  "friendlyWhyItMatters": "If a large model keeps slipping back to its own look, or the deck cannot leave your network, the useful path is a model you can train on your template. IBM's lesson is the checker, not the sample slide. A fix that is kept only when it measures better can run on every deck. A prompt that says 'use our brand' often does not.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-06_12_conardli-garden-skills-six-agent-skills-from-a-slide-video-to-a-local-se_98270c71",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/ConardLi/garden-skills",
+  "canonicalUrl": "https://github.com/ConardLi/garden-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-05T20:08:58Z",
+  "createdAtUtc": "2026-11-05T20:08:58Z",
+  "updatedAtUtc": "2026-11-05T20:08:58Z",
+  "title": "ConardLi/garden-skills: six agent skills, from a slide video to a local search",
+  "friendlyTitle": "ConardLi/garden-skills: six agent skills, from a short video to a local search",
+  "summary": "garden-skills was the next unpublished AI repository on GitHub's daily trending page, with 241 stars in that window and 14,068 in total. It is MIT-licensed. The README calls it a curated set of agent skills for Claude Code, Cursor, Codex, and other coding agents, and the badge counts six. The gallery lists a code-rendered short video, a web video or presentation, a web-design skill, an image-prompting skill, a skill that turns a source into an article, and a local knowledge retriever.",
+  "friendlySummary": "garden-skills was the next unpublished AI repository on GitHub's daily trending page, with 241 stars in that window and 14,068 in total. The license is MIT. The README calls it a curated set of agent skills for Claude Code, Cursor, Codex, and other coding agents. The badge counts six. The gallery lists a short video rendered from code, a web video or presentation, a web-design skill, an image-prompting skill, a skill that turns a source into an article, and a local knowledge search.",
+  "whyItMatters": "Use it when you want a small, named skill instead of a long prompt for one of those six jobs. Six skills is a short list, which makes it easier to read before you install. Check the license and what each skill calls out to. A local knowledge skill is not the same as an image skill that may send a prompt to a model API.",
+  "friendlyWhyItMatters": "Use it when you want a small, named skill instead of a long prompt for one of those six jobs. Six skills is a short list, so you can read them before you install. Check the license, and check what each skill calls out to. A local search skill is not the same as an image skill that may send your prompt to a model API.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-06"
+  }
+}

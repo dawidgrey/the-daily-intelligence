@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-06_08_a-developer-says-coding-agents-rebuild-libraries-and-the-bill-arrives-la_b5bc763e",
+  "sourceKind": "article",
+  "sourceName": "ben3d.ca",
+  "sourceUrl": "https://ben3d.ca/blog/coding-agents-underestimate-the-cost-of-code",
+  "canonicalUrl": "https://ben3d.ca/blog/coding-agents-underestimate-the-cost-of-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-05T20:08:58Z",
+  "createdAtUtc": "2026-11-05T20:08:58Z",
+  "updatedAtUtc": "2026-11-05T20:08:58Z",
+  "title": "A developer says coding agents rebuild libraries, and the bill arrives later",
+  "friendlyTitle": "A developer says coding agents rebuild tools that already exist, and you pay later",
+  "summary": "Ben, writing at ben3d.ca, says that while building a 3D content platform with Claude he repeatedly had to replace custom code with libraries he named himself: TanStack Query for data fetching, the model-viewer element for 3D previews, and TanStack Form for forms. He is clear that these are observations from his projects, not a controlled study. His argument is that custom code is paid for four times: writing it, testing the edge cases a library already covers, understanding it again when a new agent arrives, and extending a design that encoded one screen. Cheap generation cuts the first cost. The other three remain. He notes that models also invent package names, so caution about an unverified package is reasonable, and that a benchmark which stops at today's issue never sees the cost of the next hundred changes.",
+  "friendlySummary": "Ben, writing at ben3d.ca, says that while building a 3D content platform with Claude he kept replacing custom code with libraries he had to name himself. He used TanStack Query for loading data, the model-viewer element for 3D previews, and TanStack Form for forms. He is clear that these are notes from his own projects, not a controlled study. His argument is that custom code is paid for four times. You pay to write it. You pay to test the edge cases a library already handles. You pay to understand it again when a new agent arrives. And you pay to extend a design that was built for one screen. Cheap generation cuts the first cost. The other three stay. He also notes that models invent package names, so caution about an unverified package is reasonable. A test that stops at today's bug never sees the cost of the next hundred changes.",
+  "whyItMatters": "If an agent writes a private fetching layer, the passing tests are not the bill. Ask what library already does this, and put the ones you trust in the agent's instructions. That only helps when you know the name. The harder case is the library you have not heard of, which the agent should recommend and explain, not silently rebuild.",
+  "friendlyWhyItMatters": "If an agent writes its own data-loading layer, passing tests are not the bill. Ask which library already does this, and put the ones you trust in the agent's instructions. That only helps when you already know the name. The harder case is a library you have not heard of. The agent should recommend it and explain the trade-off, not quietly rebuild it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-06"
+  }
+}

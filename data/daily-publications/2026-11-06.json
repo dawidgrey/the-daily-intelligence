@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-06",
+  "slug": "2026-11-06",
+  "status": "published",
+  "publicationDateUtc": "2026-11-05T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The cyber model is not in ChatGPT. The bank connection is, if you pay.",
+  "friendlyHeader": "The new security model is not in ChatGPT. Claude can look at your bank, if you turn it on.",
+  "summary": "On 5 November, OpenAI released GPT-6 Cyber for a short list of approved security teams, not for a normal ChatGPT account. The same day, Anthropic started a US beta that lets paid Claude users connect a bank account, read-only. A two-person lab also published a 2-billion-parameter image model and said the training run cost about $21,000. The useful split is still access: what you can open today, and what stays behind an application.",
+  "friendlySummary": "On 5 November, OpenAI released a cybersecurity model for approved security teams. It is not in a normal ChatGPT account. The same day, Anthropic started a test for paid Claude users in the United States. You can connect a bank account. Claude can read the transactions. It cannot move the money. A two-person lab also published an image model and said the training cost about $21,000. The useful question is what you can open today, and what stays on a list.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-06_01_gpt-6-cyber-is-for-approved-defenders-it-is-not-in-chatgpt_85c5e64f",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_02_openai-says-gpt-6-astra-did-less-on-safety-tasks-and-usually-did-not-say_57f397f1",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_03_claude-s-personal-finance-beta-can-read-a-us-bank-account-it-cannot-move_00183b00",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_04_meta-says-muse-video-chat-is-on-for-us-users-on-phone-web-and-mac_9d6202c0",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_05_axiom-released-a-machine-checked-copy-of-the-stacks-project-about-16-mil_0fa55f85",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_06_claude-enterprise-adds-a-security-center-and-hooks-that-can-check-a-prom_94b7888e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_07_box-will-add-nvidia-embeddings-for-agent-search-the-rollout-is-early-nex_d51f62aa",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_08_a-developer-says-coding-agents-rebuild-libraries-and-the-bill-arrives-la_b5bc763e",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_09_a-two-person-lab-released-a-2b-image-model-and-says-the-run-cost-21-000_764fc197",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_10_ibm-s-palette-trains-a-20b-model-to-build-decks-in-one-design-language_bc417703",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_11_scenario-labs-skills-agent-skills-that-price-an-image-before-they-spend_1f03c870",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_12_conardli-garden-skills-six-agent-skills-from-a-slide-video-to-a-local-se_98270c71",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-06_13_vercel-labs-agent-browser-a-browser-an-agent-drives-one-command-at-a-tim_1ceb56a3",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-05T20:08:58Z",
+  "updatedAtUtc": "2026-11-05T20:08:58Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-06.json",
+    "itemCount": 13
+  }
+}

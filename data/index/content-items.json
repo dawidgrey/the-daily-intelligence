@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-04T23:53:39Z",
+  "generatedAtUtc": "2026-11-05T20:08:58Z",
   "items": [
     {
-      "id": "content-item_2026-11-05_01_uber-s-busiest-week-four-rides-booked-by-an-ai-agent-and-500-food-orders_f3f4f568",
-      "sourceKind": "article",
+      "id": "content-item_2026-11-06_01_gpt-6-cyber-is-for-approved-defenders-it-is-not-in-chatgpt_85c5e64f",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "GPT-6 Cyber is for approved defenders. It is not in ChatGPT",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber/"
+    },
+    {
+      "id": "content-item_2026-11-06_02_openai-says-gpt-6-astra-did-less-on-safety-tasks-and-usually-did-not-say_57f397f1",
+      "sourceKind": "research",
+      "sourceName": "OpenAI Alignment",
+      "title": "OpenAI says GPT-6 Astra did less on safety tasks, and usually did not say so",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    },
+    {
+      "id": "content-item_2026-11-06_03_claude-s-personal-finance-beta-can-read-a-us-bank-account-it-cannot-move_00183b00",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude's Personal Finance beta can read a US bank account. It cannot move the money",
+      "sourceUrl": "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+    },
+    {
+      "id": "content-item_2026-11-06_04_meta-says-muse-video-chat-is-on-for-us-users-on-phone-web-and-mac_9d6202c0",
+      "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Uber's busiest week: four rides booked by an AI agent, and 500 food orders",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+      "title": "Meta says Muse video chat is on for US users, on phone, web, and Mac",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
     },
     {
-      "id": "content-item_2026-11-05_02_images-2-6-is-in-chatgpt-today-it-makes-gifs-and-openai-says-it-is-50-fa_9320bcda",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "Images 2.6 is in ChatGPT today. It makes GIFs, and OpenAI says it is 50% faster",
-      "sourceUrl": "https://openai.com/index/introducing-images-2-6/"
-    },
-    {
-      "id": "content-item_2026-11-05_03_conductor-is-joining-meta-the-cloud-product-goes-read-only-on-13-novembe_e5f58fa5",
-      "sourceKind": "article",
-      "sourceName": "Conductor",
-      "title": "Conductor is joining Meta. The cloud product goes read-only on 13 November",
-      "sourceUrl": "https://www.conductor.build/announcement"
-    },
-    {
-      "id": "content-item_2026-11-05_04_ricursive-released-ripple-65b-preview-and-says-the-project-cost-32-milli_0f35e299",
+      "id": "content-item_2026-11-06_05_axiom-released-a-machine-checked-copy-of-the-stacks-project-about-16-mil_0fa55f85",
       "sourceKind": "research",
-      "sourceName": "Ricursive Intelligence",
-      "title": "Ricursive released Ripple-65B Preview, and says the project cost $32 million",
-      "sourceUrl": "https://www.ricursive.com/ripple"
+      "sourceName": "Axiom",
+      "title": "Axiom released a machine-checked copy of the Stacks Project, about 16 million lines",
+      "sourceUrl": "https://axiommath.ai/research/the-stacks-project-formalized/"
     },
     {
-      "id": "content-item_2026-11-05_05_kimi-k3-1-pro-weights-are-on-hugging-face-it-is-a-2-8-trillion-parameter_7838c877",
+      "id": "content-item_2026-11-06_06_claude-enterprise-adds-a-security-center-and-hooks-that-can-check-a-prom_94b7888e",
       "sourceKind": "product",
-      "sourceName": "Moonshot AI",
-      "title": "Kimi K3.1 Pro weights are on Hugging Face. It is a 2.8-trillion-parameter model",
-      "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      "sourceName": "Anthropic",
+      "title": "Claude Enterprise adds a security center, and hooks that can check a prompt before it runs",
+      "sourceUrl": "https://claude.com/resources/articles/claude-enterprise-security-updates"
     },
     {
-      "id": "content-item_2026-11-05_06_tencent-released-hy4-on-an-api-the-weights-are-not-out-yet_07dbf5f1",
+      "id": "content-item_2026-11-06_07_box-will-add-nvidia-embeddings-for-agent-search-the-rollout-is-early-nex_d51f62aa",
       "sourceKind": "product",
-      "sourceName": "Tencent Hy",
-      "title": "Tencent released Hy4 on an API. The weights are not out yet",
-      "sourceUrl": "https://hy.tencent.ai/research/hy4"
-    },
-    {
-      "id": "content-item_2026-11-05_07_openai-says-a-research-run-produced-948-local-paths-to-root-in-linux_f730feda",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI says a research run produced 948 local paths to root in Linux",
-      "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
-    },
-    {
-      "id": "content-item_2026-11-05_08_duckduckgo-is-telling-schools-they-can-turn-its-ai-off-and-keep-search_add91e24",
-      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "DuckDuckGo is telling schools they can turn its AI off, and keep search",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+      "title": "Box will add Nvidia embeddings for agent search. The rollout is early next year",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
     },
     {
-      "id": "content-item_2026-11-05_09_surge-says-extra-thinking-beat-the-coding-agent-harnesses-it-tested_10f4cc85",
-      "sourceKind": "research",
-      "sourceName": "Surge AI",
-      "title": "Surge says extra thinking beat the coding-agent harnesses it tested",
-      "sourceUrl": "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses"
-    },
-    {
-      "id": "content-item_2026-11-05_10_openai-will-acquire-pierre-the-deal-is-not-closed-and-the-libraries-stay_647d6f84",
+      "id": "content-item_2026-11-06_08_a-developer-says-coding-agents-rebuild-libraries-and-the-bill-arrives-la_b5bc763e",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "OpenAI will acquire Pierre. The deal is not closed, and the libraries stay open",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre/"
+      "sourceName": "ben3d.ca",
+      "title": "A developer says coding agents rebuild libraries, and the bill arrives later",
+      "sourceUrl": "https://ben3d.ca/blog/coding-agents-underestimate-the-cost-of-code"
     },
     {
-      "id": "content-item_2026-11-05_11_nvidia-auto-ontology-a-semantic-layer-so-an-agent-query-can-show-its-wor_8ac19897",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending Python",
-      "title": "NVIDIA/auto-ontology: a semantic layer so an agent query can show its work",
-      "sourceUrl": "https://github.com/NVIDIA/auto-ontology"
+      "id": "content-item_2026-11-06_09_a-two-person-lab-released-a-2b-image-model-and-says-the-run-cost-21-000_764fc197",
+      "sourceKind": "research",
+      "sourceName": "Linum",
+      "title": "A two-person lab released a 2B image model and says the run cost $21,000",
+      "sourceUrl": "https://www.linum.ai/field-notes/pjit-21k"
     },
     {
-      "id": "content-item_2026-11-05_12_fareedkhan-dev-kimi-k3-in-c-kimi-k3-on-a-cpu-if-the-disk-can-hold-1-56-t_cd998f72",
+      "id": "content-item_2026-11-06_10_ibm-s-palette-trains-a-20b-model-to-build-decks-in-one-design-language_bc417703",
+      "sourceKind": "research",
+      "sourceName": "IBM Research",
+      "title": "IBM's Palette trains a 20B model to build decks in one design language",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+    },
+    {
+      "id": "content-item_2026-11-06_11_scenario-labs-skills-agent-skills-that-price-an-image-before-they-spend_1f03c870",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "FareedKhan-dev/kimi-k3-in-c: Kimi K3 on a CPU, if the disk can hold 1.56 TB",
-      "sourceUrl": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      "title": "scenario-labs/skills: agent skills that price an image before they spend",
+      "sourceUrl": "https://github.com/scenario-labs/skills"
     },
     {
-      "id": "content-item_2026-11-05_13_max-sixty-worktrunk-a-separate-checkout-for-each-agent-addressed-like-a_d747ecb5",
+      "id": "content-item_2026-11-06_12_conardli-garden-skills-six-agent-skills-from-a-slide-video-to-a-local-se_98270c71",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "max-sixty/worktrunk: a separate checkout for each agent, addressed like a branch",
-      "sourceUrl": "https://github.com/max-sixty/worktrunk"
+      "title": "ConardLi/garden-skills: six agent skills, from a slide video to a local search",
+      "sourceUrl": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "id": "content-item_2026-11-06_13_vercel-labs-agent-browser-a-browser-an-agent-drives-one-command-at-a-tim_1ceb56a3",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending",
+      "title": "vercel-labs/agent-browser: a browser an agent drives one command at a time",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser"
     }
   ]
 }

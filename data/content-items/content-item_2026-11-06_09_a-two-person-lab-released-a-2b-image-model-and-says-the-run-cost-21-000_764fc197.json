@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-06_09_a-two-person-lab-released-a-2b-image-model-and-says-the-run-cost-21-000_764fc197",
+  "sourceKind": "research",
+  "sourceName": "Linum",
+  "sourceUrl": "https://www.linum.ai/field-notes/pjit-21k",
+  "canonicalUrl": "https://www.linum.ai/field-notes/pjit-21k",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-05T20:08:58Z",
+  "createdAtUtc": "2026-11-05T20:08:58Z",
+  "updatedAtUtc": "2026-11-05T20:08:58Z",
+  "title": "A two-person lab released a 2B image model and says the run cost $21,000",
+  "friendlyTitle": "A two-person lab released an image model and says training cost $21,000",
+  "summary": "Linum, a two-person lab, published a field note on a text-to-image training run it calls a proof of concept on the way to its next video model. The lab says the run cost $21,000, used 64 H100s, and trained a 2-billion-parameter Pyramid-JiT on 660 million samples: about 610 million at 512-class sizes and 50 million at 1024-class sizes. The weights are on Hugging Face as Linum-AI/pjit-21k, under Apache-2.0. The model card calls it an experimental research artifact, not a production model, and says the DiT file is 8.7 GB in fp32. A frozen Qwen3.5-4B text encoder downloads separately. The card says the model cannot write text or make posters, because that data was filtered out, and that it struggles with full-body shots, crowds, interactions between people, and simple world knowledge such as the dots on a die. The lab says the Hugging Face card and the GitHub inference code were drafted by Claude Opus 5.5 from its internal experiment repo, and that Linum reviewed them.",
+  "friendlySummary": "Linum, a lab of two people, published a note on a text-to-image training run. They call it a test on the way to their next video model. They say the run cost $21,000, used 64 H100 chips, and trained a 2-billion-parameter model on 660 million samples. About 610 million were at smaller image sizes, and about 50 million were at larger ones. The weights are on Hugging Face as Linum-AI/pjit-21k, under the Apache-2.0 license. The model card calls it an experiment, not a product, and says the main file is 8.7 GB. A separate text model, Qwen3.5-4B, downloads as well. The card says this model cannot write text or make posters, because that kind of image was left out of training on purpose. It also struggles with full-body shots, crowds, several people interacting, and simple facts such as the dots on a die. The lab says Claude Opus 5.5 drafted the model card and the inference code from their private experiment files, and that they reviewed the result.",
+  "whyItMatters": "A $21,000 figure is their compute bill for this run, not a price you pay to generate an image, and not a claim that the pictures match a frontier model. If you try it, read the limitations before you prompt a poster or a crowd. The useful part for everyone else is the method: a small lab published the settings, the failures, and the weights, instead of a score with no file behind it.",
+  "friendlyWhyItMatters": "The $21,000 figure is their compute bill for this run. It is not a price you pay to make one image, and it is not a claim that the pictures match a top commercial model. If you try it, read the limits before you ask for a poster or a crowd. For everyone else, the useful part is the method. A small lab published the settings, the failures, and the weights, instead of a score with no file behind it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-06"
+  }
+}

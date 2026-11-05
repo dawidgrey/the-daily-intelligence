@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-04T23:53:40Z",
+  "generatedAtUtc": "2026-11-05T20:08:59Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-06",
+      "slug": "2026-11-06",
+      "status": "published",
+      "publicationDateUtc": "2026-11-05T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The cyber model is not in ChatGPT. The bank connection is, if you pay.",
+      "friendlyHeader": "The new security model is not in ChatGPT. Claude can look at your bank, if you turn it on.",
+      "summary": "On 5 November, OpenAI released GPT-6 Cyber for a short list of approved security teams, not for a normal ChatGPT account. The same day, Anthropic started a US beta that lets paid Claude users connect a bank account, read-only. A two-person lab also published a 2-billion-parameter image model and said the training run cost about $21,000. The useful split is still access: what you can open today, and what stays behind an application.",
+      "friendlySummary": "On 5 November, OpenAI released a cybersecurity model for approved security teams. It is not in a normal ChatGPT account. The same day, Anthropic started a test for paid Claude users in the United States. You can connect a bank account. Claude can read the transactions. It cannot move the money. A two-person lab also published an image model and said the training cost about $21,000. The useful question is what you can open today, and what stays on a list.",
+      "itemCount": 13,
+      "href": "issues/2026-11-06.html",
+      "dataUrl": "data/daily-publications/2026-11-06.json"
+    },
     {
       "id": "daily-publication_2026-11-05",
       "slug": "2026-11-05",
