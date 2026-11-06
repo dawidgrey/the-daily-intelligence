@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-07",
+  "slug": "2026-11-07",
+  "status": "published",
+  "publicationDateUtc": "2026-11-06T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The pace roughly doubled. The buyers want a lower price.",
+  "friendlyHeader": "A lab says the research got about twice as fast. Buyers want a lower price.",
+  "summary": "METR spent eleven weeks inside Anthropic and now says the lab's scores on well-specified tasks are rising at about twice the old rate, with most of that current speedup guessed to come from AI used in the research itself. Anthropic redacted a majority of the evidence METR found most useful. The same week, Reuters reported that some IPO investors see $1.5 trillion as the high end, and Ramp's card data shows token spend almost flat in late summer even as use kept rising. The tools you can open are smaller than that argument: a 15-second video model, a project tab in Muse, and a text thread that can buy.",
+  "friendlySummary": "METR spent eleven weeks looking at Anthropic's research. It now says the lab's test scores are rising about twice as fast as before. METR thinks most of that current speedup comes from staff using AI in the research. Anthropic hid a large share of the evidence. The same week, Reuters reported that some investors think a $1.5 trillion stock-market price is too high. Card data from Ramp shows companies using more AI without spending much more. The tools you can open today are smaller than that argument: a longer video clip, a project tab, and a text message that can shop.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-07_01_metr-says-anthropic-s-scores-are-rising-at-about-1-9-times-the-old-rate_505afecb",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_02_reuters-some-ipo-investors-see-1-5-trillion-as-the-high-end_0861a4e8",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_03_ramp-s-cards-token-spend-rose-1-5-in-late-summer-after-42-in-july_d275be2a",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_04_gemini-omni-1-2-flash-makes-15-second-clips-at-0-07-a-second_63c3d56b",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_05_perplexity-teammates-stay-on-the-job-they-require-max_bb9df04f",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_06_inkling-2-small-is-on-tinker-the-weights-are-not-out-yet_5eb6887e",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_07_muse-spaces-is-a-project-tab-connected-apps-update-it-in-the-background_46e88a02",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_08_amazon-will-let-selected-us-customers-text-alexa-to-shop-including-to-bu_ab4846bb",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_09_in-a-simulated-game-market-claude-made-money-by-waiting-not-by-predictin_0f35f4c9",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_10_underdog-s-woof-is-a-32-mb-speech-model-that-runs-in-the-browser_fbf575ba",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_11_nvidia-tensorrt-llm-a-python-path-from-a-model-definition-to-faster-gpu_4af9dd60",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_12_paradevai-paradev-several-coding-agents-on-the-subscriptions-you-already_8d3f1a7d",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-07_13_mlflow-mlflow-a-record-of-what-the-agent-run-actually-did_76bc2204",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-07.json",
+    "itemCount": 13
+  }
+}

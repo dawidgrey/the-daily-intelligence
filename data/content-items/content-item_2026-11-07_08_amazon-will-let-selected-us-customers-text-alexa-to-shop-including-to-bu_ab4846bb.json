@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_08_amazon-will-let-selected-us-customers-text-alexa-to-shop-including-to-bu_ab4846bb",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "Amazon will let selected US customers text Alexa to shop, including to buy",
+  "friendlyTitle": "Amazon will let some people in the US text Alexa to shop, and to buy",
+  "summary": "On Friday, Amazon said selected customers in the United States will get a text inviting them to shop with Alexa by message. TechCrunch reports that those customers can search, add items to a cart, and purchase, using ordinary language. They can also send a photo of an item, or of someone wearing an outfit, to look for similar listings. The text agent follows shopping updates Amazon announced in late October: lists, price watches, comparisons, and order status. Amazon said people who do not get the invitation can join a waitlist at amazon.com/text-alexa-shopping, and that the feature will roll out more widely in the coming weeks. The launch comes after Amazon blocked Meta's Muse from querying Amazon.com in September, and just before the holiday shopping season. TechCrunch notes that DoorDash has said third-party agents had placed only hundreds of orders, and that Amazon is building the text channel itself.",
+  "friendlySummary": "On Friday, Amazon said selected customers in the United States will get a text inviting them to shop with Alexa by message. TechCrunch reports that those customers can search, add items to a cart, and buy, using ordinary language. They can also send a photo of an item, or of someone wearing an outfit, to look for similar listings. The text agent follows shopping updates Amazon announced in late October: lists, price watches, comparisons, and order status. Amazon said people who do not get the invitation can join a waiting list at amazon.com/text-alexa-shopping. It said the feature will roll out more widely in the coming weeks. The launch comes after Amazon blocked Meta's Muse from querying Amazon.com in September, and just before the holiday shopping season. TechCrunch notes that DoorDash has said outside agents had placed only hundreds of orders, and that Amazon is building the text channel itself.",
+  "whyItMatters": "If the text arrives, read what it can do before you reply yes. Search is not the same switch as purchase. A photo of a person is a photo of a person, sent to a shop. If you do not get the text, the waitlist is the door, not a setting already on. This is a US invitation, not a global Alexa change.",
+  "friendlyWhyItMatters": "If the text arrives, read what it can do before you say yes. Search is not the same switch as buying. A photo of a person is a photo of a person, sent to a shop. If you do not get the text, the waiting list is the door. It is not already on. This is a US invitation, not a change for every Alexa.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}

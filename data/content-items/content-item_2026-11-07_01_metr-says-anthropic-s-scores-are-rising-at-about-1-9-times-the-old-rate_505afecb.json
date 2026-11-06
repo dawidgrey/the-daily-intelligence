@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_01_metr-says-anthropic-s-scores-are-rising-at-about-1-9-times-the-old-rate_505afecb",
+  "sourceKind": "research",
+  "sourceName": "METR",
+  "sourceUrl": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+  "canonicalUrl": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "METR says Anthropic's scores are rising at about 1.9 times the old rate",
+  "friendlyTitle": "METR says Anthropic's test scores are rising about twice as fast",
+  "summary": "From 12 August to 29 October 2026, METR reviewed Anthropic's internal research data to ask whether AI is speeding up AI research. On AECI, Anthropic's bundle of benchmark scores, the lab's models have been gaining ground since October 2025 at an estimated 1.9 times the earlier rate, with a 95% confidence interval of 1.5 to 2.8 times. METR reads that as roughly two years of the old pace packed into one year. Most of the staff who worked on the review now think that, as of October 2026, Anthropic is improving its models on well-specified tasks at about twice the rate seen from March 2024 to October 2025. They would not be surprised if the true figure were closer to 1.3 times or 3 times. METR is confident the speedup is not from training compute growing faster. Its guess is that about 80% of the current acceleration comes from AI used in the research, with substantial uncertainty, and that non-AI factors mattered more in late 2025. The speedup it saw is mostly assistance, not research the model runs alone, though METR says fully automatic contributions may matter more soon. Anthropic had the right to redact non-public material and removed a majority of the evidence METR found most informative. METR says the public therefore has to trust its judgment more than is ideal.",
+  "friendlySummary": "From 12 August to 29 October 2026, METR looked at Anthropic's private research records. The question was whether AI is making the next AI faster to build. On a bundled score called AECI, Anthropic's models have been improving since October 2025 at about 1.9 times the old rate. The likely range is 1.5 to 2.8 times. METR reads that as about two years of the old pace squeezed into one year. Most of the reviewers now think that, as of October 2026, Anthropic is improving its models on clear, checkable tasks at about twice the rate from March 2024 to October 2025. They would not be surprised if the real number were closer to 1.3 times or 3 times. They are sure the speedup is not from buying computer power faster. Their guess is that about 80% of the current speedup comes from using AI in the research, and they say that guess is uncertain. Other causes mattered more in late 2025. What they saw is mostly AI helping people, not AI doing the research alone, though that could change. Anthropic was allowed to hide private material, and it hid most of the evidence METR found most useful. METR says readers have to trust its judgment more than is ideal.",
+  "whyItMatters": "A doubled lab score is not a doubled week for you. The useful split is the one METR states: assistance is already in the research loop, the range is wide, and the file you can read is missing most of the evidence the reviewers wanted. If a vendor cites this report as proof that the next model will arrive twice as fast, the citation is ahead of the interval.",
+  "friendlyWhyItMatters": "A faster lab score is not a faster week for you. METR's own split is the useful one: AI is already helping inside the research, the range is wide, and the public file is missing most of the evidence the reviewers wanted. If a company cites this report as proof that the next model will arrive twice as fast, that claim is ahead of the numbers.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}

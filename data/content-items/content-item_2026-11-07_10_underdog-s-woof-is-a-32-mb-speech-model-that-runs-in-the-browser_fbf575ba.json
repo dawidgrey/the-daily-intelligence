@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_10_underdog-s-woof-is-a-32-mb-speech-model-that-runs-in-the-browser_fbf575ba",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "credit": "Underdog AI on X",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "Underdog's Woof is a 32 MB speech model that runs in the browser",
+  "friendlyTitle": "Underdog's new speech model is 32 MB and runs in the browser",
+  "summary": "TechCrunch reports that Underdog has put a new text-to-speech model, Woof, inside a browser game at underdog.ai/escape. The company says the model is 31.7 MB, with 31 million parameters, and that it runs on most devices without an internet connection. In the demo, typing on a typewriter speaks the text back, and a tuner generates music. TechCrunch says the model is open for download. Founder Sigil Wen told TechCrunch he wanted local models so notes stay on the device, rather than a cloud notetaker. This follows Bark, a 167 MB speech-to-text model from the same company. TechCrunch's own caveat is the right one: a model this small is unlikely to replace a large cloud voice model, and it may still be enough for a local assistant or a short spoken clip.",
+  "friendlySummary": "TechCrunch reports that Underdog has put a new text-to-speech model, called Woof, inside a browser game at underdog.ai/escape. The company says the model is 31.7 MB, with 31 million parameters, and that it runs on most devices without an internet connection. In the demo, typing on a typewriter speaks the text back, and a dial makes music. TechCrunch says anyone can download the model. Founder Sigil Wen told TechCrunch he wanted local models so notes stay on the device, rather than a cloud notetaker. This follows Bark, a 167 MB speech-to-text model from the same company. TechCrunch's own warning is the right one: a model this small is unlikely to replace a large cloud voice model. It may still be enough for a local assistant or a short spoken clip.",
+  "whyItMatters": "The test is the browser tab, not the parameter count. Type a sentence you care about, including a phone number or a name, and listen. If it is good enough, the text never left the machine. If it is not, you still have the cloud model. Do not brief a client on a 32 MB voice until you have heard the sentence you would actually send.",
+  "friendlyWhyItMatters": "Try the browser tab. Do not stop at the size. Type a sentence you care about, including a phone number or a name, and listen. If it is good enough, the text never left the machine. If it is not, you still have the cloud model. Do not promise a client a 32 MB voice until you have heard the sentence you would actually send.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}

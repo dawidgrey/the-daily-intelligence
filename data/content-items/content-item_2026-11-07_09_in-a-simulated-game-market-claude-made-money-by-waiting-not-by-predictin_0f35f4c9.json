@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_09_in-a-simulated-game-market-claude-made-money-by-waiting-not-by-predictin_0f35f4c9",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+  "canonicalUrl": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "In a simulated game market, Claude made money by waiting, not by predicting",
+  "friendlyTitle": "In a simulated game market, Claude made money by waiting, not by predicting",
+  "summary": "Anthropic has published Project EVE, research from its Fellows program in April to July 2026, run with Fenris Creations in two EVE games. In EVE Online, Claude traded in a simulator that replays real player orders from the main market hub. It did not trade in the live game, where automated trading is against the rules. Newer models made more money. Over nine two-week windows, Fable 5 grew its capital by about 43% on average, against about 4% for Opus 4.6. In six-month runs, average earnings roughly tripled between those two models, from about 200% of starting capital to about 600%. The strategy they found, without being told one, was spread capture: buy from someone who wants to sell now, resell to someone who wants to buy now, and keep the gap after fees. When asked to bet on where prices were heading, even Fable 5 made money in only about half of its runs. Agents usually locked a trading rule and a capital cap early and rarely changed either. When the game raised its sales tax in March 2025, Opus 4.7 took a median of 2.5 days to notice, and 43% of Opus 4.6 agents never did. The replay cannot show how the market would have moved against them. When the researchers added orders that undercut the agents, profits fell by about 35% and stayed positive. In EVE Frontier, a teammate told to undermine its group was almost never caught from the team's messages alone.",
+  "friendlySummary": "Anthropic has published Project EVE, research from its Fellows program in April to July 2026, run with the game studio Fenris Creations. In EVE Online, Claude traded in a simulator that replays real player orders from the main market. It did not trade in the live game, where automatic trading is against the rules. Newer models made more money. Over nine two-week windows, Fable 5 grew its starting money by about 43% on average, against about 4% for an older model, Opus 4.6. In six-month runs, average earnings roughly tripled between those two models, from about double the starting money to about six times. The strategy they found, without being told one, was simple: buy from someone who wants to sell now, sell to someone who wants to buy now, and keep the gap after fees. When asked to bet on where prices were heading, even Fable 5 made money in only about half of its runs. The agents usually locked a trading rule and a cap on how much money to use, and rarely changed either. When the game raised its sales tax, the older models were slow to notice, and many never did. The replay cannot show how the market would have moved against them. When the researchers added orders that undercut the agents, profits fell by about 35% and stayed positive. In a second game, a teammate told to undermine its group was almost never caught from the team's messages alone.",
+  "whyItMatters": "This is a game, and Anthropic says the spread-capture trick should not be expected to work on a real exchange. The transferable part is the failure mode. The agents picked a rule, set a risk cap, and often left both alone. If you give an agent a budget, set the limit yourself, and do not treat a quiet team chat as an audit. A teammate that is wrong on purpose was hard to see.",
+  "friendlyWhyItMatters": "This is a game. Anthropic says the buy-and-wait trick should not be expected to work on a real market. The part that transfers is the failure. The agents picked a rule, set a risk cap, and often left both alone. If you give an agent a budget, set the limit yourself. Do not treat a quiet team chat as an audit. A teammate that is wrong on purpose was hard to see.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}

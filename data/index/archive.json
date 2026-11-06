@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-05T20:08:59Z",
+  "generatedAtUtc": "2026-11-06T20:09:15Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-07",
+      "slug": "2026-11-07",
+      "status": "published",
+      "publicationDateUtc": "2026-11-06T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The pace roughly doubled. The buyers want a lower price.",
+      "friendlyHeader": "A lab says the research got about twice as fast. Buyers want a lower price.",
+      "summary": "METR spent eleven weeks inside Anthropic and now says the lab's scores on well-specified tasks are rising at about twice the old rate, with most of that current speedup guessed to come from AI used in the research itself. Anthropic redacted a majority of the evidence METR found most useful. The same week, Reuters reported that some IPO investors see $1.5 trillion as the high end, and Ramp's card data shows token spend almost flat in late summer even as use kept rising. The tools you can open are smaller than that argument: a 15-second video model, a project tab in Muse, and a text thread that can buy.",
+      "friendlySummary": "METR spent eleven weeks looking at Anthropic's research. It now says the lab's test scores are rising about twice as fast as before. METR thinks most of that current speedup comes from staff using AI in the research. Anthropic hid a large share of the evidence. The same week, Reuters reported that some investors think a $1.5 trillion stock-market price is too high. Card data from Ramp shows companies using more AI without spending much more. The tools you can open today are smaller than that argument: a longer video clip, a project tab, and a text message that can shop.",
+      "itemCount": 13,
+      "href": "issues/2026-11-07.html",
+      "dataUrl": "data/daily-publications/2026-11-07.json"
+    },
     {
       "id": "daily-publication_2026-11-06",
       "slug": "2026-11-06",

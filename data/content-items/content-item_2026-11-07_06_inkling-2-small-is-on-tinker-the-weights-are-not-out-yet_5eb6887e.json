@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_06_inkling-2-small-is-on-tinker-the-weights-are-not-out-yet_5eb6887e",
+  "sourceKind": "product",
+  "sourceName": "Thinking Machines",
+  "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+  "canonicalUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "Inkling 2 Small is on Tinker. The weights are not out yet",
+  "friendlyTitle": "Inkling 2 Small is on Tinker. You cannot download the weights yet",
+  "summary": "On 5 November, Thinking Machines introduced Inkling 2 Small, a mixture-of-experts model with 594 billion parameters, 17 billion active, that takes text and images and lets you set how much effort it spends. The company says it scores 31 on the Artificial Analysis Intelligence Index, well above its first Inkling, with the largest gains on long-horizon coding and agent work. It is available now on Tinker for inference and fine-tuning, with closed weights. Thinking Machines says it intends to release the full weights under Apache 2.0 next week, after external safety testing and red-teaming. Until that file is public, it is not an open-weight model you can download. The company also lists limits: it is not the most succinct, it does not always pick the best tools in a codebase with many skills, it has no audio, it is less suited to chat, and it can overreact to mental-health and other safety queries.",
+  "friendlySummary": "On 5 November, Thinking Machines introduced Inkling 2 Small. It is a mixture-of-experts model, which means a large model that uses only part of itself on each reply. It has 594 billion parameters in total, and 17 billion active at once. It takes text and images, and you can set how much effort it spends. The company says it scores 31 on the Artificial Analysis Intelligence Index, well above its first Inkling, with the biggest gains on long coding jobs and agent work. You can use it now on Tinker, Thinking Machines' platform, to run it or fine-tune it. The weights, the file you would download, are still closed. The company says it plans to release that file under the Apache 2.0 license next week, after outside safety testing. Until the file is public, this is not a model you can download. The company also lists limits: it uses more words than it needs, it does not always pick the best tools in a large codebase, it has no audio, it is less suited to chat, and it can overreact to mental-health and other safety questions.",
+  "whyItMatters": "If you fine-tune on Tinker, this is a model you can try today. If you were waiting for an Apache file on your own machine, that file is a plan, dated from 5 November, not a download. A score of 31 is the company's figure on one index. The limits it printed — extra words, weak tool choice, no audio — are the checks that matter more than the parameter count.",
+  "friendlyWhyItMatters": "If you fine-tune on Tinker, you can try this today. If you were waiting to download the file onto your own machine, that file is a plan from 5 November, not a download. A score of 31 is the company's number on one index. The limits it printed — extra words, weak tool choice, no audio — matter more than the size.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-05T20:08:58Z",
+  "generatedAtUtc": "2026-11-06T20:09:14Z",
   "items": [
     {
-      "id": "content-item_2026-11-06_01_gpt-6-cyber-is-for-approved-defenders-it-is-not-in-chatgpt_85c5e64f",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-6 Cyber is for approved defenders. It is not in ChatGPT",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber/"
-    },
-    {
-      "id": "content-item_2026-11-06_02_openai-says-gpt-6-astra-did-less-on-safety-tasks-and-usually-did-not-say_57f397f1",
+      "id": "content-item_2026-11-07_01_metr-says-anthropic-s-scores-are-rising-at-about-1-9-times-the-old-rate_505afecb",
       "sourceKind": "research",
-      "sourceName": "OpenAI Alignment",
-      "title": "OpenAI says GPT-6 Astra did less on safety tasks, and usually did not say so",
-      "sourceUrl": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+      "sourceName": "METR",
+      "title": "METR says Anthropic's scores are rising at about 1.9 times the old rate",
+      "sourceUrl": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
     },
     {
-      "id": "content-item_2026-11-06_03_claude-s-personal-finance-beta-can-read-a-us-bank-account-it-cannot-move_00183b00",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude's Personal Finance beta can read a US bank account. It cannot move the money",
-      "sourceUrl": "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
-    },
-    {
-      "id": "content-item_2026-11-06_04_meta-says-muse-video-chat-is-on-for-us-users-on-phone-web-and-mac_9d6202c0",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Meta says Muse video chat is on for US users, on phone, web, and Mac",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-    },
-    {
-      "id": "content-item_2026-11-06_05_axiom-released-a-machine-checked-copy-of-the-stacks-project-about-16-mil_0fa55f85",
-      "sourceKind": "research",
-      "sourceName": "Axiom",
-      "title": "Axiom released a machine-checked copy of the Stacks Project, about 16 million lines",
-      "sourceUrl": "https://axiommath.ai/research/the-stacks-project-formalized/"
-    },
-    {
-      "id": "content-item_2026-11-06_06_claude-enterprise-adds-a-security-center-and-hooks-that-can-check-a-prom_94b7888e",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude Enterprise adds a security center, and hooks that can check a prompt before it runs",
-      "sourceUrl": "https://claude.com/resources/articles/claude-enterprise-security-updates"
-    },
-    {
-      "id": "content-item_2026-11-06_07_box-will-add-nvidia-embeddings-for-agent-search-the-rollout-is-early-nex_d51f62aa",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Box will add Nvidia embeddings for agent search. The rollout is early next year",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
-    },
-    {
-      "id": "content-item_2026-11-06_08_a-developer-says-coding-agents-rebuild-libraries-and-the-bill-arrives-la_b5bc763e",
+      "id": "content-item_2026-11-07_02_reuters-some-ipo-investors-see-1-5-trillion-as-the-high-end_0861a4e8",
       "sourceKind": "article",
-      "sourceName": "ben3d.ca",
-      "title": "A developer says coding agents rebuild libraries, and the bill arrives later",
-      "sourceUrl": "https://ben3d.ca/blog/coding-agents-underestimate-the-cost-of-code"
+      "sourceName": "Reuters",
+      "title": "Reuters: some IPO investors see $1.5 trillion as the high end",
+      "sourceUrl": "https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/"
     },
     {
-      "id": "content-item_2026-11-06_09_a-two-person-lab-released-a-2b-image-model-and-says-the-run-cost-21-000_764fc197",
+      "id": "content-item_2026-11-07_03_ramp-s-cards-token-spend-rose-1-5-in-late-summer-after-42-in-july_d275be2a",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Ramp's cards: token spend rose 1.5% in late summer, after 42% in July",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "id": "content-item_2026-11-07_04_gemini-omni-1-2-flash-makes-15-second-clips-at-0-07-a-second_63c3d56b",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Gemini Omni 1.2 Flash makes 15-second clips, at $0.07 a second",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "id": "content-item_2026-11-07_05_perplexity-teammates-stay-on-the-job-they-require-max_bb9df04f",
+      "sourceKind": "product",
+      "sourceName": "Perplexity",
+      "title": "Perplexity Teammates stay on the job. They require Max",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+    },
+    {
+      "id": "content-item_2026-11-07_06_inkling-2-small-is-on-tinker-the-weights-are-not-out-yet_5eb6887e",
+      "sourceKind": "product",
+      "sourceName": "Thinking Machines",
+      "title": "Inkling 2 Small is on Tinker. The weights are not out yet",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/"
+    },
+    {
+      "id": "content-item_2026-11-07_07_muse-spaces-is-a-project-tab-connected-apps-update-it-in-the-background_46e88a02",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Muse Spaces is a project tab. Connected apps update it in the background",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "id": "content-item_2026-11-07_08_amazon-will-let-selected-us-customers-text-alexa-to-shop-including-to-bu_ab4846bb",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Amazon will let selected US customers text Alexa to shop, including to buy",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    },
+    {
+      "id": "content-item_2026-11-07_09_in-a-simulated-game-market-claude-made-money-by-waiting-not-by-predictin_0f35f4c9",
       "sourceKind": "research",
-      "sourceName": "Linum",
-      "title": "A two-person lab released a 2B image model and says the run cost $21,000",
-      "sourceUrl": "https://www.linum.ai/field-notes/pjit-21k"
+      "sourceName": "Anthropic",
+      "title": "In a simulated game market, Claude made money by waiting, not by predicting",
+      "sourceUrl": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
     },
     {
-      "id": "content-item_2026-11-06_10_ibm-s-palette-trains-a-20b-model-to-build-decks-in-one-design-language_bc417703",
-      "sourceKind": "research",
-      "sourceName": "IBM Research",
-      "title": "IBM's Palette trains a 20B model to build decks in one design language",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+      "id": "content-item_2026-11-07_10_underdog-s-woof-is-a-32-mb-speech-model-that-runs-in-the-browser_fbf575ba",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Underdog's Woof is a 32 MB speech model that runs in the browser",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
     },
     {
-      "id": "content-item_2026-11-06_11_scenario-labs-skills-agent-skills-that-price-an-image-before-they-spend_1f03c870",
+      "id": "content-item_2026-11-07_11_nvidia-tensorrt-llm-a-python-path-from-a-model-definition-to-faster-gpu_4af9dd60",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "scenario-labs/skills: agent skills that price an image before they spend",
-      "sourceUrl": "https://github.com/scenario-labs/skills"
+      "sourceName": "GitHub",
+      "title": "NVIDIA/TensorRT-LLM: a Python path from a model definition to faster GPU inference",
+      "sourceUrl": "https://github.com/NVIDIA/TensorRT-LLM"
     },
     {
-      "id": "content-item_2026-11-06_12_conardli-garden-skills-six-agent-skills-from-a-slide-video-to-a-local-se_98270c71",
+      "id": "content-item_2026-11-07_12_paradevai-paradev-several-coding-agents-on-the-subscriptions-you-already_8d3f1a7d",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "ConardLi/garden-skills: six agent skills, from a slide video to a local search",
-      "sourceUrl": "https://github.com/ConardLi/garden-skills"
+      "sourceName": "GitHub",
+      "title": "ParadevAI/Paradev: several coding agents, on the subscriptions you already pay",
+      "sourceUrl": "https://github.com/ParadevAI/Paradev"
     },
     {
-      "id": "content-item_2026-11-06_13_vercel-labs-agent-browser-a-browser-an-agent-drives-one-command-at-a-tim_1ceb56a3",
+      "id": "content-item_2026-11-07_13_mlflow-mlflow-a-record-of-what-the-agent-run-actually-did_76bc2204",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "vercel-labs/agent-browser: a browser an agent drives one command at a time",
-      "sourceUrl": "https://github.com/vercel-labs/agent-browser"
+      "sourceName": "GitHub",
+      "title": "mlflow/mlflow: a record of what the agent run actually did",
+      "sourceUrl": "https://github.com/mlflow/mlflow"
     }
   ]
 }

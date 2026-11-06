@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-07_04_gemini-omni-1-2-flash-makes-15-second-clips-at-0-07-a-second_63c3d56b",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-06T20:09:14Z",
+  "createdAtUtc": "2026-11-06T20:09:14Z",
+  "updatedAtUtc": "2026-11-06T20:09:14Z",
+  "title": "Gemini Omni 1.2 Flash makes 15-second clips, at $0.07 a second",
+  "friendlyTitle": "Google's video model now makes 15-second clips, for 7 cents a second",
+  "summary": "On 5 November, Google made Gemini Omni 1.2 Flash generally available on the Gemini API and in Gemini for business. Native clips can now run up to 15 seconds, up from 10 in Omni 1.1, in one-second steps from 3 to 15. Google says the price is 30% lower than Omni 1.1, at $0.07 per second for 720p. You can draft at 360p or 720p, change a detail in a later turn instead of regenerating the whole clip, and upscale a keeper to 1080p or 4K. Google says the model holds character, product, and style references more steadily, including short motion clips of up to three seconds and audio cues, and that multi-turn edits can swap a background or product across the full 15 seconds. In the Gemini app, 15-second video is rolling out to Google AI Ultra subscribers. In Google Vids, Google says 15-second clips are available at no additional cost with a Google account or a Workspace subscription. Flow is where Google points people who want to direct scenes by conversation.",
+  "friendlySummary": "On 5 November, Google made Gemini Omni 1.2 Flash generally available on its developer API and in Gemini for business. A clip can now run up to 15 seconds, up from 10 in the previous version. You can pick a length from 3 to 15 seconds, in steps of one second. Google says the price is 30% lower, at $0.07 per second for 720p video. You can draft at lower quality, fix one detail in a follow-up instead of making the whole clip again, and then raise a keeper to 1080p or 4K. Google says the model holds a face, a product, or a style more steadily, including a short motion clip of up to three seconds and an audio cue. A later message can swap a background or a product across the full 15 seconds. In the Gemini app, 15-second video is rolling out to Google AI Ultra subscribers. In Google Vids, Google says those clips cost nothing extra with a Google account or a Workspace plan. Flow is the tool Google points to if you want to direct a scene by conversation.",
+  "whyItMatters": "The saving is the second turn, not the first generate. If a logo or a face drifts, an edit is cheaper than a new 15-second clip, and the posted price is $0.07 a second at 720p before you upscale. A Google account does not automatically mean the Gemini app will make the clip. That rollout is for Ultra. Check the app you actually have before you brief a client on it.",
+  "friendlyWhyItMatters": "The saving is the second try, not the first. If a logo or a face drifts, an edit is cheaper than a new 15-second clip. The posted price is 7 cents a second at 720p, before you raise the quality. A normal Google account does not automatically mean the Gemini app will make the clip. That rollout is for Ultra subscribers. Check the app you actually have before you promise it to a client.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-07"
+  }
+}
