@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_06_google-is-taking-the-unfinished-wyoming-site-the-price-was-not-disclosed_36231604",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "Google is taking the unfinished Wyoming site. The price was not disclosed.",
+  "friendlyTitle": "Google is taking over an unfinished Wyoming data center",
+  "summary": "Crusoe confirmed it sold an unfinished southeastern Wyoming data-center project to Google, after failing to land Google as a customer and after Google reportedly raised cost and timeline concerns. Google said it will invest $17 billion to develop the campus. Crusoe is still building a separate campus for Google near Amarillo, Texas.",
+  "friendlySummary": "Crusoe confirmed it sold an unfinished Wyoming data-center project to Google. Google says it will invest $17 billion to build the campus. Crusoe is still building a different site for Google in Texas.",
+  "whyItMatters": "The constraint is delivery, not the announcement. An independent developer can miss budget and schedule on power and equipment, and the buyer may take the site rather than wait. Google did not say what it paid.",
+  "friendlyWhyItMatters": "Big AI buildings are hard to finish on time and on budget. If a project near you changes owners, the useful question is who now pays for the power and the construction, not who first announced it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

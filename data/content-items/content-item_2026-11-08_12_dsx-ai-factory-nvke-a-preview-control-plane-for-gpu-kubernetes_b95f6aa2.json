@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_12_dsx-ai-factory-nvke-a-preview-control-plane-for-gpu-kubernetes_b95f6aa2",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/dsx-ai-factory/nvke",
+  "canonicalUrl": "https://github.com/dsx-ai-factory/nvke",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "dsx-ai-factory/nvke: a preview control plane for GPU Kubernetes",
+  "friendlyTitle": "A preview tool for running Kubernetes on your own NVIDIA GPUs",
+  "summary": "NVIDIA Kubernetes Engine was high on GitHub Trending today, with 125 stars in the daily count. It is a management plane for creating separate Kubernetes clusters on your own NVIDIA GPU machines. NVIDIA marks it as a preview and says not to use it for production. A local quickstart can run without GPU hardware, on a Linux host with Docker, 6 CPUs, 12 GiB of memory, and 100 GiB of disk.",
+  "friendlySummary": "NVKE was trending on GitHub today. It is a control panel for creating Kubernetes clusters on NVIDIA GPU machines that you own. NVIDIA says it is a preview and not ready for production. You can try a local version without a GPU, if the computer has enough CPU, memory, and disk.",
+  "whyItMatters": "A platform team can try the control loop on simulated machines before committing hardware. A real install still needs your own nodes, images, and NVIDIA Infra Controller, which the preview lists as the only compatible provider.",
+  "friendlyWhyItMatters": "Use the local quickstart to see how the control plane works before you buy machines. A real cluster still needs your own hardware and NVIDIA's infrastructure controller.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

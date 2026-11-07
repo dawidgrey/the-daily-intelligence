@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_13_gepa-ai-gepa-reflective-search-for-a-better-prompt-or-a-better-program_6fb44f7c",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/gepa-ai/gepa",
+  "canonicalUrl": "https://github.com/gepa-ai/gepa",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "gepa-ai/gepa: reflective search for a better prompt, or a better program",
+  "friendlyTitle": "A tool that rewrites prompts by looking at what failed",
+  "summary": "GEPA was on GitHub's Jupyter trending list today, with 25 stars in the daily count. It optimizes prompts, code, and other text by reflecting on what failed, rather than only chasing a single score. The license is MIT. The project cites its paper, 'GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning.'",
+  "friendlySummary": "GEPA was trending on GitHub today. It tries to improve a prompt or a piece of code by reflecting on failed examples, not only by chasing one score. The license is MIT.",
+  "whyItMatters": "Point it at a task you can score, and a small set of examples, when a hand-written prompt has stopped improving. Keep a budget. A reflective search still spends model calls, and a higher score on your examples is not proof it will hold on the next ones.",
+  "friendlyWhyItMatters": "Use it when a prompt is stuck and you can score the answers. Set a spending limit. A better score on your test examples does not guarantee the same result on new ones.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

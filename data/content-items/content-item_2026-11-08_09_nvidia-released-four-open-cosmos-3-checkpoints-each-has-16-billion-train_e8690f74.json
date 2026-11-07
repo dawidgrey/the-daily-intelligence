@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_09_nvidia-released-four-open-cosmos-3-checkpoints-each-has-16-billion-train_e8690f74",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "canonicalUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "NVIDIA released four open Cosmos 3 checkpoints. Each has 16 billion trainable parameters.",
+  "friendlyTitle": "NVIDIA released open models that simulate a next scene from an action",
+  "summary": "NVIDIA added four open-weight Cosmos 3 Nano checkpoints for interactive world simulation: multi-view driving data under changed weather and light, streaming camera and LiDAR, simulator controls rendered as video, and video predicted from robot or camera actions. Each is a post-trained example with 16 billion trainable parameters, under the OpenMDW 1.1 license.",
+  "friendlySummary": "NVIDIA published four open Cosmos 3 models for making simulated worlds. They can change the weather in a driving scene, stream camera and laser-sensor views, turn a simulator's controls into video, or predict what a robot camera would see after an action. Each has 16 billion trainable parameters, and the license allows commercial use under its terms.",
+  "whyItMatters": "A robotics or driving team can generate the next observation from an action instead of only replaying recorded video. NVIDIA says the open problem is still measuring where those scenes are faithful enough to train or test a policy, and where they are not.",
+  "friendlyWhyItMatters": "This can help test a driving or robot policy without only replaying old recordings. A generated scene is not the same as a real one, so you still need to check where the simulation is trustworthy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

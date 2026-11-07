@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_08_a-66-mb-stand-in-caught-a-bug-that-sat-in-main-for-two-months_fec0e46c",
+  "sourceKind": "article",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/transformers-mic",
+  "canonicalUrl": "https://huggingface.co/blog/transformers-mic",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "A 66 MB stand-in caught a bug that sat in main for two months",
+  "friendlyTitle": "A tiny test model caught a bug that hid for two months",
+  "summary": "Hugging Face proposes Model Integration Contracts: a shrunk copy of a real model, a short usage example, and human-reviewed expected outputs, run on CPU. A 66 MB UMT5 fixture flagged a 30 July change that let the decoder attend to future tokens. The bug stayed in Transformers main until 28 September. A plain forward pass would not have caught it.",
+  "friendlySummary": "Hugging Face describes a way to test big AI models with a much smaller copy that still uses the real code path. One of these small copies caught a bug that let a model peek at the answer it was supposed to predict. The bug had already been in the main code for almost two months.",
+  "whyItMatters": "If you depend on a model library, the useful test is the path users actually run, including the default attention code, not only whether the model loads. An agent can draft the contract. A person still has to approve the expected outputs.",
+  "friendlyWhyItMatters": "Loading a model is not the same as checking that it behaves. A small, repeatable test can catch that kind of mistake before users do, but a person still needs to approve what 'correct' means.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

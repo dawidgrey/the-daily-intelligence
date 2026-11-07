@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_02_a-watch-study-matched-office-screening-it-is-not-a-diagnosis_25f25557",
+  "sourceKind": "research",
+  "sourceName": "Google Research",
+  "sourceUrl": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+  "canonicalUrl": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "A watch study matched office screening. It is not a diagnosis.",
+  "friendlyTitle": "A watch study can flag high blood pressure. It cannot diagnose it.",
+  "summary": "Google Research reports a model that uses a consumer watch's pulse and motion sensors, with no cuff calibration, to estimate sustained high blood pressure. In 196 people not on blood-pressure medication, initial screening sensitivity was 65.8% and specificity 90.0% against 24-hour ambulatory monitoring, compared with 55.3% sensitivity for an office cuff reading.",
+  "friendlySummary": "Google tested whether a normal smartwatch, using its pulse and motion sensors, can spot signs of high blood pressure without a cuff. In a study of 196 people, it found more true cases than a single office reading, and it rarely flagged people who did not have high blood pressure.",
+  "whyItMatters": "Google says the findings helped inform a Health app trend feature, and later in the same post says the methods are exploratory and not a product diagnosis. A nudge to get checked is the practical use. A watch score is not a cuff result.",
+  "friendlyWhyItMatters": "This may help someone notice a risk and book a real check. It does not replace a blood-pressure cuff or a doctor's diagnosis.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

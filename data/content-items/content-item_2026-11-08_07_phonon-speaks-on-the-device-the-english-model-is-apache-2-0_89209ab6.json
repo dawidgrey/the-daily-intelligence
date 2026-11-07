@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_07_phonon-speaks-on-the-device-the-english-model-is-apache-2-0_89209ab6",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/phonon-tts",
+  "canonicalUrl": "https://huggingface.co/blog/phonon-tts",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "Phonon speaks on the device. The English model is Apache 2.0.",
+  "friendlyTitle": "A small speech model can talk on your own device",
+  "summary": "Gradium's Phonon speech models, about 65 MB and 75 MB, run without a server on phones, laptops, and in a browser. Phonon 31m is English and Apache 2.0. Phonon 40m adds French, German, Spanish, and Portuguese under a non-commercial license. On Hugging Face's Open TTS Leaderboard, Phonon ranked first for intelligibility in German and Spanish, and the English models led CPU time-to-first-audio at 28 ms and 38 ms.",
+  "friendlySummary": "Phonon is a text-to-speech model small enough to run on a phone, a laptop, or in a browser, with no server. The English model is free to use, including in a product. The model that also speaks French, German, Spanish, and Portuguese is free only for non-commercial use.",
+  "whyItMatters": "Offline speech means the sentence does not have to leave the machine, and the voice still works with the network off. Commercial use of the larger multilingual model is priced by user count, not by minutes generated.",
+  "friendlyWhyItMatters": "Your words can stay on the device, and the voice still works offline. If you want the multilingual model in a paid product, the license is based on how many people use it, not how much it speaks.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

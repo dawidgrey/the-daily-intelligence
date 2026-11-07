@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-06T20:09:14Z",
+  "generatedAtUtc": "2026-11-07T20:14:58Z",
   "items": [
     {
-      "id": "content-item_2026-11-07_01_metr-says-anthropic-s-scores-are-rising-at-about-1-9-times-the-old-rate_505afecb",
-      "sourceKind": "research",
-      "sourceName": "METR",
-      "title": "METR says Anthropic's scores are rising at about 1.9 times the old rate",
-      "sourceUrl": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
-    },
-    {
-      "id": "content-item_2026-11-07_02_reuters-some-ipo-investors-see-1-5-trillion-as-the-high-end_0861a4e8",
-      "sourceKind": "article",
-      "sourceName": "Reuters",
-      "title": "Reuters: some IPO investors see $1.5 trillion as the high end",
-      "sourceUrl": "https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/"
-    },
-    {
-      "id": "content-item_2026-11-07_03_ramp-s-cards-token-spend-rose-1-5-in-late-summer-after-42-in-july_d275be2a",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Ramp's cards: token spend rose 1.5% in late summer, after 42% in July",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-    },
-    {
-      "id": "content-item_2026-11-07_04_gemini-omni-1-2-flash-makes-15-second-clips-at-0-07-a-second_63c3d56b",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini Omni 1.2 Flash makes 15-second clips, at $0.07 a second",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-    },
-    {
-      "id": "content-item_2026-11-07_05_perplexity-teammates-stay-on-the-job-they-require-max_bb9df04f",
-      "sourceKind": "product",
-      "sourceName": "Perplexity",
-      "title": "Perplexity Teammates stay on the job. They require Max",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work"
-    },
-    {
-      "id": "content-item_2026-11-07_06_inkling-2-small-is-on-tinker-the-weights-are-not-out-yet_5eb6887e",
-      "sourceKind": "product",
-      "sourceName": "Thinking Machines",
-      "title": "Inkling 2 Small is on Tinker. The weights are not out yet",
-      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/"
-    },
-    {
-      "id": "content-item_2026-11-07_07_muse-spaces-is-a-project-tab-connected-apps-update-it-in-the-background_46e88a02",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Muse Spaces is a project tab. Connected apps update it in the background",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-    },
-    {
-      "id": "content-item_2026-11-07_08_amazon-will-let-selected-us-customers-text-alexa-to-shop-including-to-bu_ab4846bb",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Amazon will let selected US customers text Alexa to shop, including to buy",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-    },
-    {
-      "id": "content-item_2026-11-07_09_in-a-simulated-game-market-claude-made-money-by-waiting-not-by-predictin_0f35f4c9",
+      "id": "content-item_2026-11-08_01_claude-can-tidy-its-notes-between-sessions-it-can-also-save-the-wrong-ru_594105e3",
       "sourceKind": "research",
       "sourceName": "Anthropic",
-      "title": "In a simulated game market, Claude made money by waiting, not by predicting",
-      "sourceUrl": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
+      "title": "Claude can tidy its notes between sessions. It can also save the wrong rule.",
+      "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory"
     },
     {
-      "id": "content-item_2026-11-07_10_underdog-s-woof-is-a-32-mb-speech-model-that-runs-in-the-browser_fbf575ba",
-      "sourceKind": "product",
+      "id": "content-item_2026-11-08_02_a-watch-study-matched-office-screening-it-is-not-a-diagnosis_25f25557",
+      "sourceKind": "research",
+      "sourceName": "Google Research",
+      "title": "A watch study matched office screening. It is not a diagnosis.",
+      "sourceUrl": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
+    },
+    {
+      "id": "content-item_2026-11-08_03_nine-agents-wrote-follow-up-papers-none-cleared-the-scientists-bar_30bfb5cf",
+      "sourceKind": "research",
+      "sourceName": "arXiv",
+      "title": "Nine agents wrote follow-up papers. None cleared the scientists' bar.",
+      "sourceUrl": "https://arxiv.org/abs/2610.19159"
+    },
+    {
+      "id": "content-item_2026-11-08_04_an-ai-auditor-can-catch-most-cheating-the-false-alarms-pile-up_c4ea5289",
+      "sourceKind": "research",
+      "sourceName": "Free Systems",
+      "title": "An AI auditor can catch most cheating. The false alarms pile up.",
+      "sourceUrl": "https://freesystems.substack.com/p/were-using-ai-to-audit-ai"
+    },
+    {
+      "id": "content-item_2026-11-08_05_openai-has-11-billion-of-a-round-that-is-not-closed_314bd089",
+      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Underdog's Woof is a 32 MB speech model that runs in the browser",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+      "title": "OpenAI has $11 billion of a round that is not closed",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     },
     {
-      "id": "content-item_2026-11-07_11_nvidia-tensorrt-llm-a-python-path-from-a-model-definition-to-faster-gpu_4af9dd60",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "NVIDIA/TensorRT-LLM: a Python path from a model definition to faster GPU inference",
-      "sourceUrl": "https://github.com/NVIDIA/TensorRT-LLM"
+      "id": "content-item_2026-11-08_06_google-is-taking-the-unfinished-wyoming-site-the-price-was-not-disclosed_36231604",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Google is taking the unfinished Wyoming site. The price was not disclosed.",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     },
     {
-      "id": "content-item_2026-11-07_12_paradevai-paradev-several-coding-agents-on-the-subscriptions-you-already_8d3f1a7d",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "ParadevAI/Paradev: several coding agents, on the subscriptions you already pay",
-      "sourceUrl": "https://github.com/ParadevAI/Paradev"
+      "id": "content-item_2026-11-08_07_phonon-speaks-on-the-device-the-english-model-is-apache-2-0_89209ab6",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "Phonon speaks on the device. The English model is Apache 2.0.",
+      "sourceUrl": "https://huggingface.co/blog/phonon-tts"
     },
     {
-      "id": "content-item_2026-11-07_13_mlflow-mlflow-a-record-of-what-the-agent-run-actually-did_76bc2204",
+      "id": "content-item_2026-11-08_08_a-66-mb-stand-in-caught-a-bug-that-sat-in-main-for-two-months_fec0e46c",
+      "sourceKind": "article",
+      "sourceName": "Hugging Face",
+      "title": "A 66 MB stand-in caught a bug that sat in main for two months",
+      "sourceUrl": "https://huggingface.co/blog/transformers-mic"
+    },
+    {
+      "id": "content-item_2026-11-08_09_nvidia-released-four-open-cosmos-3-checkpoints-each-has-16-billion-train_e8690f74",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "NVIDIA released four open Cosmos 3 checkpoints. Each has 16 billion trainable parameters.",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+    },
+    {
+      "id": "content-item_2026-11-08_10_openai-s-announcement-says-compute-campus-the-buildings-are-still-data-c_32791f69",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "OpenAI's announcement says compute campus. The buildings are still data centers.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
+    },
+    {
+      "id": "content-item_2026-11-08_11_marker-inc-korea-autorag-a-librarian-for-the-files-already-on-the-machin_0dd33553",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "mlflow/mlflow: a record of what the agent run actually did",
-      "sourceUrl": "https://github.com/mlflow/mlflow"
+      "title": "Marker-Inc-Korea/AutoRAG: a librarian for the files already on the machine",
+      "sourceUrl": "https://github.com/Marker-Inc-Korea/AutoRAG"
+    },
+    {
+      "id": "content-item_2026-11-08_12_dsx-ai-factory-nvke-a-preview-control-plane-for-gpu-kubernetes_b95f6aa2",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "dsx-ai-factory/nvke: a preview control plane for GPU Kubernetes",
+      "sourceUrl": "https://github.com/dsx-ai-factory/nvke"
+    },
+    {
+      "id": "content-item_2026-11-08_13_gepa-ai-gepa-reflective-search-for-a-better-prompt-or-a-better-program_6fb44f7c",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "gepa-ai/gepa: reflective search for a better prompt, or a better program",
+      "sourceUrl": "https://github.com/gepa-ai/gepa"
     }
   ]
 }

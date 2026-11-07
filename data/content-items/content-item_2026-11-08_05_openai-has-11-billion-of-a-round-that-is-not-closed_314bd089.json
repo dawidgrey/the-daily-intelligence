@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_05_openai-has-11-billion-of-a-round-that-is-not-closed_314bd089",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "OpenAI has $11 billion of a round that is not closed",
+  "friendlyTitle": "OpenAI has reportedly raised $11 billion. The round is not finished.",
+  "summary": "TechCrunch, citing Bloomberg, reports that OpenAI has raised $11 billion so far in a round valuing the company at $1.25 trillion. The round has not closed. A source told Bloomberg it could reach about $20 billion, short of a $30 billion target reported in late September and of an earlier $1.4 trillion valuation aim.",
+  "friendlySummary": "Bloomberg, reported by TechCrunch, says OpenAI has taken in $11 billion so far in a new round at a $1.25 trillion valuation. The round is still open and may end near $20 billion, well below the $30 billion the company was said to want.",
+  "whyItMatters": "OpenAI has not confirmed the figure. For anyone buying tools or planning around the lab's spending, the useful fact is that the raise is smaller and slower than the earlier target, and still unfinished.",
+  "friendlyWhyItMatters": "Treat this as a report, not a company announcement. It matters if you are deciding how much to rely on OpenAI's spending plans, because the money is coming in more slowly than expected.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}

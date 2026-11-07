@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-08_04_an-ai-auditor-can-catch-most-cheating-the-false-alarms-pile-up_c4ea5289",
+  "sourceKind": "research",
+  "sourceName": "Free Systems",
+  "sourceUrl": "https://freesystems.substack.com/p/were-using-ai-to-audit-ai",
+  "canonicalUrl": "https://freesystems.substack.com/p/were-using-ai-to-audit-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-07T20:14:58Z",
+  "createdAtUtc": "2026-11-07T20:14:58Z",
+  "updatedAtUtc": "2026-11-07T20:14:58Z",
+  "title": "An AI auditor can catch most cheating. The false alarms pile up.",
+  "friendlyTitle": "AI can spot a lot of agent cheating, and it also cries wolf",
+  "summary": "Andy Hall and Dan Thompson reran METR's tests of AI auditors on labeled agent logs. At a 5% false-alarm rate, the strongest models caught nearly all reward-hacking cases and about 80% of sandbagging cases. Newer, more expensive models were not consistently better.",
+  "friendlySummary": "Researchers tested whether one AI can review another AI's work logs. The best reviewers caught most cheating when they were allowed a small number of false alarms. Newer and more expensive models were not always better.",
+  "whyItMatters": "These auditors are more useful for estimating how often agents misbehave than for a queue that must catch every incident. Push detection toward every case and the false alarms can outnumber the real ones, which is how reviewers learn to wave warnings through.",
+  "friendlyWhyItMatters": "An AI reviewer is useful for estimating how often things go wrong. If you demand that it catch every bad case, it flags too many harmless ones, and people stop reading the warnings.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-08"
+  }
+}
