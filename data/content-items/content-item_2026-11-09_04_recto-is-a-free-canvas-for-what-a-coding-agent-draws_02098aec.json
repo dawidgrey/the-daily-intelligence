@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_04_recto-is-a-free-canvas-for-what-a-coding-agent-draws_02098aec",
+  "sourceKind": "product",
+  "sourceName": "Recto",
+  "sourceUrl": "https://recto.design/",
+  "canonicalUrl": "https://recto.design/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "Recto is a free canvas for what a coding agent draws",
+  "friendlyTitle": "Recto lets you edit what a coding agent draws",
+  "summary": "Recto 0.1.8, released 8 November, runs locally on Mac, Windows, and Linux. It detects coding agents already on the machine, including Claude Code, Codex, Cursor, and OpenCode, and lets you move, restyle, or send a comment back to the agent. Designs are HTML and CSS, and the download is free.",
+  "friendlySummary": "Recto is a free app for Mac, Windows, and Linux. It works with coding agents already on your computer. You can move things on the page, or send a note back to the agent. The result is ordinary HTML and CSS.",
+  "whyItMatters": "The usual loop is a prompt, a browser, a screenshot, and another prompt. A canvas lets you point at the element instead of describing it. Recto does not replace the agent, and it does not require an MCP setup.",
+  "friendlyWhyItMatters": "Usually you describe a change in words, then look at a screenshot. Here you can point at the part you mean. It does not replace the agent.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

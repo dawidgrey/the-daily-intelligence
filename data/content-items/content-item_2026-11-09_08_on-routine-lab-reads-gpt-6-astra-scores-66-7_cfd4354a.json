@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_08_on-routine-lab-reads-gpt-6-astra-scores-66-7_cfd4354a",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "canonicalUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "On routine lab reads, GPT-6 Astra scores 66.7%",
+  "friendlyTitle": "A new test scores how well models read lab results",
+  "summary": "BioBasicsBench is 100 tasks built with Ligo from raw wet-lab evidence, such as gel images, plates, and instrument files. At the highest reported reasoning setting, GPT-6 Astra earned 66.7% of available credit, against 43.8% for GPT-5.6 Sol. OpenAI says the gain is mostly in reading images and knowing when the evidence is not enough.",
+  "friendlySummary": "OpenAI tested models on 100 ordinary lab tasks, using real photos and instrument files. The best score shown was 66.7 out of 100. An older model scored 43.8.",
+  "whyItMatters": "A wrong read of a control can send a scientist down a dead experiment. The benchmark is a score on interpretation, not a lab assistant you should trust unsupervised. Better reading of experimental evidence is useful. It is not permission to run the experiment.",
+  "friendlyWhyItMatters": "A wrong reading can waste the next experiment. The test measures reading, not doing the lab work. A person still has to check the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

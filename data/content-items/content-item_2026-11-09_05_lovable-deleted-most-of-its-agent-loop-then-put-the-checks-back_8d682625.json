@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_05_lovable-deleted-most-of-its-agent-loop-then-put-the-checks-back_8d682625",
+  "sourceKind": "article",
+  "sourceName": "Lovable",
+  "sourceUrl": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+  "canonicalUrl": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "Lovable deleted most of its agent loop, then put the checks back",
+  "friendlyTitle": "Lovable removed most of its free-running agent code",
+  "summary": "Anton Osika writes that open-ended agents got stuck, so the team deleted almost all of that code and returned to one request and a predictable chain of tools. Short notes about recurring mistakes, retrieved into context, worked better for them than the fine-tuned models they had planned. The company says users have created more than 70 million projects.",
+  "friendlySummary": "Lovable's founder says open-ended agents got stuck. The team deleted most of that code and went back to one request and a fixed set of steps. Short notes about common mistakes worked better than training a new model.",
+  "whyItMatters": "More freedom for the model made the product less dependable. The practical pattern is a short instruction loaded only when it applies, plus a fast way to see the error. The open problems he names are still the hard ones: production changes, trust, and a stack that can be forked and checked.",
+  "friendlyWhyItMatters": "Giving the model more freedom made the product less reliable. A short note, loaded only when it is needed, plus a fast way to see the error, was the useful change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_07_abu-dhabi-says-one-food-import-check-now-takes-minutes_db104812",
+  "sourceKind": "article",
+  "sourceName": "The National",
+  "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+  "canonicalUrl": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "Abu Dhabi says one food-import check now takes minutes",
+  "friendlyTitle": "Abu Dhabi says one food check now takes minutes, not days",
+  "summary": "Faisal Al Hawi, of Abu Dhabi's Department of Government Enablement, told The National that AI has already cut some food-import processing from several days to minutes. The wider OpenAI partnership aims at a workforce of people plus agents, with government data processed inside the UAE. The stated target is an AI-native government by the end of 2027.",
+  "friendlySummary": "An Abu Dhabi official says AI has already cut some food-import checks from days to minutes. A wider deal with OpenAI aims to give public workers their own agents. Government data is meant to stay in the UAE.",
+  "whyItMatters": "This is a service-time claim, not a demo. If it holds, the useful pattern is a narrow procedure with a person still accountable, not an agent for every desk. The 2027 goal is a plan. The food-import change is the part already described as live.",
+  "friendlyWhyItMatters": "The useful part is a specific form that used to take days. The plan for a whole AI government by 2027 is still a plan. A person is still supposed to be accountable.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

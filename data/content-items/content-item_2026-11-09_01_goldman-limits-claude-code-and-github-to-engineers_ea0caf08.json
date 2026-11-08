@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_01_goldman-limits-claude-code-and-github-to-engineers_ea0caf08",
+  "sourceKind": "article",
+  "sourceName": "Bloomberg via Financial Advisor",
+  "sourceUrl": "https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html",
+  "canonicalUrl": "https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "Goldman limits Claude Code and GitHub to engineers",
+  "friendlyTitle": "Goldman lets only engineers use some coding tools",
+  "summary": "Internal guidance updated in October, reported by Bloomberg on 2 November, limits Anthropic's Claude Code and Microsoft's GitHub to Goldman's engineers. Traders had used the tools to watch client flows and model positions. The limit does not cover strats, who sit between trading, research, and engineering.",
+  "friendlySummary": "Goldman told most bankers and traders they can no longer use Claude Code or GitHub's coding tools. Engineers still can. Some traders had used the tools to watch client trades and model the market.",
+  "whyItMatters": "A coding agent can write and run code with the same access as the person using it, outside the review path engineers already have. The bank's own assistant, which mixes models from several companies, is still available. The argument drawing a crowd on Hacker News is who should be allowed to ship unreviewed agent code at work.",
+  "friendlyWhyItMatters": "Code from an agent can run with the same access as the person who asked for it. At a bank, that can cross rules that keep deal information away from traders. The bank's own assistant is still there.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

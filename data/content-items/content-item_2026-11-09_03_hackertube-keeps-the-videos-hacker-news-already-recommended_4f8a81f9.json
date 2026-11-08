@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_03_hackertube-keeps-the-videos-hacker-news-already-recommended_4f8a81f9",
+  "sourceKind": "product",
+  "sourceName": "HackerTube",
+  "sourceUrl": "https://hackertube.org/",
+  "canonicalUrl": "https://hackertube.org/",
+  "credit": "@karpathy",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "HackerTube keeps the videos Hacker News already recommended",
+  "friendlyTitle": "A new site plays videos that Hacker News recommended",
+  "summary": "Andrej Karpathy has published HackerTube, a site of videos that people on Hacker News have recommended. It needs no login, and it shows a frame from the video rather than a designed thumbnail. He has said on X that Claude did nearly all of the build.",
+  "friendlySummary": "Andrej Karpathy made HackerTube, a simple site of videos people on Hacker News have recommended. You do not need an account. He has said on X that Claude did almost all of the building.",
+  "whyItMatters": "It is a working example of a small product assembled by directing an agent, and a watch list that is not ranked by a clickbait thumbnail. The selection is whatever Hacker News argued for, which is a bias of its own.",
+  "friendlyWhyItMatters": "It is a real product made by telling an agent what to build, and a watch list that does not use clickbait pictures. The list still follows what one community likes.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

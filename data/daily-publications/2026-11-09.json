@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-09",
+  "slug": "2026-11-09",
+  "status": "published",
+  "publicationDateUtc": "2026-11-08T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The coding agent stays with the engineers. The last detail is still yours.",
+  "friendlyHeader": "The bank limited the coding tool. Most jobs still need a person.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today the loudest workplace story is a bank taking coding agents off the trading floor. A new test says the best model fully finishes about one real revision in four. The rest of the issue is what to do with that gap.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today, a bank stopped most traders from using a coding agent. A new test says the best model fully finishes only about one job in four. The other items are tools and projects you can use.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-09_01_goldman-limits-claude-code-and-github-to-engineers_ea0caf08",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_02_on-real-app-revisions-the-best-model-fully-finishes-one-task-in-four_ac7cc8d4",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_03_hackertube-keeps-the-videos-hacker-news-already-recommended_4f8a81f9",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_04_recto-is-a-free-canvas-for-what-a-coding-agent-draws_02098aec",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_05_lovable-deleted-most-of-its-agent-loop-then-put-the-checks-back_8d682625",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_06_psi-is-a-6-4-mb-coding-agent-you-can-read_af61f600",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_07_abu-dhabi-says-one-food-import-check-now-takes-minutes_db104812",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_08_on-routine-lab-reads-gpt-6-astra-scores-66-7_cfd4354a",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_09_four-australian-universities-are-rolling-out-chatgpt-edu_b58fee4e",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_10_one-coding-fleet-cut-tokens-per-line-by-about-3-3-times_2deb9c7f",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_11_albert-weasker-niubigeo-ask-model-apis-how-a-brand-shows-up_0e06b048",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_12_meta-astryx-a-design-system-an-agent-can-read_0d415288",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-09_13_poco-ai-agentero-a-local-desk-for-papers-and-agents_326d2dcd",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-09.json",
+    "itemCount": 13
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_06_psi-is-a-6-4-mb-coding-agent-you-can-read_af61f600",
+  "sourceKind": "product",
+  "sourceName": "psi",
+  "sourceUrl": "https://psicode.ai/",
+  "canonicalUrl": "https://psicode.ai/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "psi is a 6.4 MB coding agent you can read",
+  "friendlyTitle": "psi is a very small coding agent you can inspect",
+  "summary": "psi is a portable coding agent written in ANSI C and Lua, under an MIT license. The site says the binary is 6.4 MB and runs on Linux, macOS, Windows, FreeBSD, OpenBSD, and Haiku. You bring a provider: Anthropic, OpenAI Codex, OpenRouter, or a local model through Ollama.",
+  "friendlySummary": "psi is a coding agent in a 6.4 MB file. It runs on common computers and a few unusual ones. The license lets you read and change it. You still need your own model account.",
+  "whyItMatters": "Most coding agents are large apps you cannot easily audit. psi keeps the loop, tools, and terminal in Lua, so a person who wants a small agent can inspect it and add a command in a few lines. It is new, and it still needs a model account to do the work.",
+  "friendlyWhyItMatters": "Most coding agents are large and hard to check. This one keeps the main behavior in a simple script language, so you can read it and add a command.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}

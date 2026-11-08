@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-07T20:14:58Z",
+  "generatedAtUtc": "2026-11-08T20:12:27Z",
   "items": [
     {
-      "id": "content-item_2026-11-08_01_claude-can-tidy-its-notes-between-sessions-it-can-also-save-the-wrong-ru_594105e3",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Claude can tidy its notes between sessions. It can also save the wrong rule.",
-      "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory"
+      "id": "content-item_2026-11-09_01_goldman-limits-claude-code-and-github-to-engineers_ea0caf08",
+      "sourceKind": "article",
+      "sourceName": "Bloomberg via Financial Advisor",
+      "title": "Goldman limits Claude Code and GitHub to engineers",
+      "sourceUrl": "https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html"
     },
     {
-      "id": "content-item_2026-11-08_02_a-watch-study-matched-office-screening-it-is-not-a-diagnosis_25f25557",
-      "sourceKind": "research",
-      "sourceName": "Google Research",
-      "title": "A watch study matched office screening. It is not a diagnosis.",
-      "sourceUrl": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
-    },
-    {
-      "id": "content-item_2026-11-08_03_nine-agents-wrote-follow-up-papers-none-cleared-the-scientists-bar_30bfb5cf",
+      "id": "content-item_2026-11-09_02_on-real-app-revisions-the-best-model-fully-finishes-one-task-in-four_ac7cc8d4",
       "sourceKind": "research",
       "sourceName": "arXiv",
-      "title": "Nine agents wrote follow-up papers. None cleared the scientists' bar.",
-      "sourceUrl": "https://arxiv.org/abs/2610.19159"
+      "title": "On real app revisions, the best model fully finishes one task in four",
+      "sourceUrl": "https://arxiv.org/abs/2610.35138"
     },
     {
-      "id": "content-item_2026-11-08_04_an-ai-auditor-can-catch-most-cheating-the-false-alarms-pile-up_c4ea5289",
+      "id": "content-item_2026-11-09_03_hackertube-keeps-the-videos-hacker-news-already-recommended_4f8a81f9",
+      "sourceKind": "product",
+      "sourceName": "HackerTube",
+      "title": "HackerTube keeps the videos Hacker News already recommended",
+      "sourceUrl": "https://hackertube.org/"
+    },
+    {
+      "id": "content-item_2026-11-09_04_recto-is-a-free-canvas-for-what-a-coding-agent-draws_02098aec",
+      "sourceKind": "product",
+      "sourceName": "Recto",
+      "title": "Recto is a free canvas for what a coding agent draws",
+      "sourceUrl": "https://recto.design/"
+    },
+    {
+      "id": "content-item_2026-11-09_05_lovable-deleted-most-of-its-agent-loop-then-put-the-checks-back_8d682625",
+      "sourceKind": "article",
+      "sourceName": "Lovable",
+      "title": "Lovable deleted most of its agent loop, then put the checks back",
+      "sourceUrl": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it"
+    },
+    {
+      "id": "content-item_2026-11-09_06_psi-is-a-6-4-mb-coding-agent-you-can-read_af61f600",
+      "sourceKind": "product",
+      "sourceName": "psi",
+      "title": "psi is a 6.4 MB coding agent you can read",
+      "sourceUrl": "https://psicode.ai/"
+    },
+    {
+      "id": "content-item_2026-11-09_07_abu-dhabi-says-one-food-import-check-now-takes-minutes_db104812",
+      "sourceKind": "article",
+      "sourceName": "The National",
+      "title": "Abu Dhabi says one food-import check now takes minutes",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/"
+    },
+    {
+      "id": "content-item_2026-11-09_08_on-routine-lab-reads-gpt-6-astra-scores-66-7_cfd4354a",
       "sourceKind": "research",
-      "sourceName": "Free Systems",
-      "title": "An AI auditor can catch most cheating. The false alarms pile up.",
-      "sourceUrl": "https://freesystems.substack.com/p/were-using-ai-to-audit-ai"
+      "sourceName": "OpenAI",
+      "title": "On routine lab reads, GPT-6 Astra scores 66.7%",
+      "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
     },
     {
-      "id": "content-item_2026-11-08_05_openai-has-11-billion-of-a-round-that-is-not-closed_314bd089",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "OpenAI has $11 billion of a round that is not closed",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-    },
-    {
-      "id": "content-item_2026-11-08_06_google-is-taking-the-unfinished-wyoming-site-the-price-was-not-disclosed_36231604",
-      "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Google is taking the unfinished Wyoming site. The price was not disclosed.",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-    },
-    {
-      "id": "content-item_2026-11-08_07_phonon-speaks-on-the-device-the-english-model-is-apache-2-0_89209ab6",
+      "id": "content-item_2026-11-09_09_four-australian-universities-are-rolling-out-chatgpt-edu_b58fee4e",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Phonon speaks on the device. The English model is Apache 2.0.",
-      "sourceUrl": "https://huggingface.co/blog/phonon-tts"
+      "sourceName": "OpenAI",
+      "title": "Four Australian universities are rolling out ChatGPT Edu",
+      "sourceUrl": "https://openai.com/index/australian-universities-ai-native-graduates"
     },
     {
-      "id": "content-item_2026-11-08_08_a-66-mb-stand-in-caught-a-bug-that-sat-in-main-for-two-months_fec0e46c",
+      "id": "content-item_2026-11-09_10_one-coding-fleet-cut-tokens-per-line-by-about-3-3-times_2deb9c7f",
       "sourceKind": "article",
-      "sourceName": "Hugging Face",
-      "title": "A 66 MB stand-in caught a bug that sat in main for two months",
-      "sourceUrl": "https://huggingface.co/blog/transformers-mic"
+      "sourceName": "Alexander Marquardt",
+      "title": "One coding fleet cut tokens per line by about 3.3 times",
+      "sourceUrl": "https://alexmarquardt.com/ai-tools/agent-fleet-token-efficiency/"
     },
     {
-      "id": "content-item_2026-11-08_09_nvidia-released-four-open-cosmos-3-checkpoints-each-has-16-billion-train_e8690f74",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "NVIDIA released four open Cosmos 3 checkpoints. Each has 16 billion trainable parameters.",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-    },
-    {
-      "id": "content-item_2026-11-08_10_openai-s-announcement-says-compute-campus-the-buildings-are-still-data-c_32791f69",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "OpenAI's announcement says compute campus. The buildings are still data centers.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"
-    },
-    {
-      "id": "content-item_2026-11-08_11_marker-inc-korea-autorag-a-librarian-for-the-files-already-on-the-machin_0dd33553",
+      "id": "content-item_2026-11-09_11_albert-weasker-niubigeo-ask-model-apis-how-a-brand-shows-up_0e06b048",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "Marker-Inc-Korea/AutoRAG: a librarian for the files already on the machine",
-      "sourceUrl": "https://github.com/Marker-Inc-Korea/AutoRAG"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "Albert-Weasker/niubigeo: ask model APIs how a brand shows up",
+      "sourceUrl": "https://github.com/Albert-Weasker/niubigeo"
     },
     {
-      "id": "content-item_2026-11-08_12_dsx-ai-factory-nvke-a-preview-control-plane-for-gpu-kubernetes_b95f6aa2",
+      "id": "content-item_2026-11-09_12_meta-astryx-a-design-system-an-agent-can-read_0d415288",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "dsx-ai-factory/nvke: a preview control plane for GPU Kubernetes",
-      "sourceUrl": "https://github.com/dsx-ai-factory/nvke"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "meta/astryx: a design system an agent can read",
+      "sourceUrl": "https://github.com/meta/astryx"
     },
     {
-      "id": "content-item_2026-11-08_13_gepa-ai-gepa-reflective-search-for-a-better-prompt-or-a-better-program_6fb44f7c",
+      "id": "content-item_2026-11-09_13_poco-ai-agentero-a-local-desk-for-papers-and-agents_326d2dcd",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "gepa-ai/gepa: reflective search for a better prompt, or a better program",
-      "sourceUrl": "https://github.com/gepa-ai/gepa"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "poco-ai/Agentero: a local desk for papers and agents",
+      "sourceUrl": "https://github.com/poco-ai/Agentero"
     }
   ]
 }

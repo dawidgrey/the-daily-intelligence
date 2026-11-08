@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-09_11_albert-weasker-niubigeo-ask-model-apis-how-a-brand-shows-up_0e06b048",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/Albert-Weasker/niubigeo",
+  "canonicalUrl": "https://github.com/Albert-Weasker/niubigeo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-08T20:12:27Z",
+  "createdAtUtc": "2026-11-08T20:12:27Z",
+  "updatedAtUtc": "2026-11-08T20:12:27Z",
+  "title": "Albert-Weasker/niubigeo: ask model APIs how a brand shows up",
+  "friendlyTitle": "NiubiGEO checks how AI models talk about a brand",
+  "summary": "NiubiGEO is an open-source workbench for brand-visibility and competitor reports. It was the most-starred new AI project on GitHub's daily TypeScript list, with about 1,307 stars today.",
+  "friendlySummary": "This free project asks model APIs how a brand appears, then saves the answers. It was the most-starred new AI project on GitHub's TypeScript list today.",
+  "whyItMatters": "You can run it yourself, under Apache-2.0, to record what provider APIs return about a brand and export a monitoring history. It observes those API responses, not the consumer chat apps people actually open. Paid testing services sit outside the open-source tool.",
+  "friendlyWhyItMatters": "A business can run it to keep a record of what models say, and compare competitors. It checks the API, not the chat app a customer uses. Paid services are separate.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-09"
+  }
+}
