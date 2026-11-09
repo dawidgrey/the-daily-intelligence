@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_07_fireworks-says-the-october-breach-reached-billing-records-and-some-model_d654e2a1",
+  "sourceKind": "article",
+  "sourceName": "Fireworks AI",
+  "sourceUrl": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+  "canonicalUrl": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "Fireworks says the October breach reached billing records and some model files",
+  "friendlyTitle": "Fireworks says the October break-in reached bills and some model files",
+  "summary": "Fireworks updated its 9 October bulletin. It now says the incident reached billing and shipping addresses, invoices, balances, and credit use. Card numbers are not stored by Fireworks and were not taken. For a limited set of accounts, secrets, datasets, and incomplete model weights were also accessed. A follow-on intrusion on 23–24 October was detected the same day.",
+  "friendlySummary": "Fireworks updated its October security notice. Attackers reached billing addresses, invoices, and account balances. Card numbers were not stored there. For some customers, secrets, datasets, and unfinished model files were also opened. A later break-in on 23–24 October was caught the same day.",
+  "whyItMatters": "If you train or store models at Fireworks, check the notice for your account. Fireworks says it has not found impact on its default zero-retention inference, training SDK, and Nexus products, and has not seen further successful access on the customer platform since 25 October. It has turned off self-serve dataset upload and download. The investigation is not finished.",
+  "friendlyWhyItMatters": "If you keep models or data at Fireworks, read the notice for your account. Fireworks says its default no-storage inference products were not affected, and it has not seen a successful return since 25 October. It has turned off self-serve dataset uploads while it keeps looking. The review is not done.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

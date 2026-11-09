@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_11_google-deepmind-mujoco-a-physics-simulator-for-robots-a-week-after-versi_2ed36b56",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/google-deepmind/mujoco",
+  "canonicalUrl": "https://github.com/google-deepmind/mujoco",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "google-deepmind/mujoco: a physics simulator for robots, a week after version 4.0.0",
+  "friendlyTitle": "MuJoCo lets you test a robot in software before it moves",
+  "summary": "MuJoCo simulates joints, contact, and motion. DeepMind shipped version 4.0.0 on 6 November. On GitHub's daily trending list it gained about 579 stars, with about 16,800 in total.",
+  "friendlySummary": "MuJoCo is DeepMind's tool for simulating how joints and objects touch and move. Version 4.0.0 came out on 6 November. It gained about 579 stars on GitHub's daily list.",
+  "whyItMatters": "Use it to train or test a robot controller in software before the hardware moves. It is a physics engine, not a chatbot. The 4.0.0 release is why it is back on the daily list.",
+  "friendlyWhyItMatters": "Use it when you are teaching a robot or a controller, and you want to try the idea on a computer first. It does not chat. It models physical movement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

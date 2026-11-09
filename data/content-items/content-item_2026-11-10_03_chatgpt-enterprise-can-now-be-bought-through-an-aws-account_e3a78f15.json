@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_03_chatgpt-enterprise-can-now-be-bought-through-an-aws-account_e3a78f15",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/",
+  "canonicalUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "ChatGPT Enterprise can now be bought through an AWS account",
+  "friendlyTitle": "Companies can now buy ChatGPT Enterprise through AWS",
+  "summary": "On 9 November, OpenAI listed ChatGPT Enterprise in AWS Marketplace. Eligible customers can buy it through an existing AWS account and apply eligible spend toward AWS commitments. OpenAI says the listing has the same models and features as a direct purchase, released at the same time. Healthcare and financial-services versions are also available to eligible customers.",
+  "friendlySummary": "On 9 November, OpenAI put ChatGPT Enterprise in the AWS store. A company that already pays AWS can buy it there and count eligible spend toward its AWS commitment. OpenAI says the product is the same as buying it directly. Health and finance versions are available to some customers.",
+  "whyItMatters": "The change is procurement, not a new model. A company that already buys through AWS can start a rollout without a separate vendor contract. It does not change what the product can do.",
+  "friendlyWhyItMatters": "This does not add a new model. It removes a purchasing step. If your company already buys software through AWS, the rollout can start sooner.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

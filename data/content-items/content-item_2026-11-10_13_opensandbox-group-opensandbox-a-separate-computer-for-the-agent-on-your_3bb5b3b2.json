@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_13_opensandbox-group-opensandbox-a-separate-computer-for-the-agent-on-your_3bb5b3b2",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/opensandbox-group/OpenSandbox",
+  "canonicalUrl": "https://github.com/opensandbox-group/OpenSandbox",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "opensandbox-group/OpenSandbox: a separate computer for the agent, on your machines",
+  "friendlyTitle": "OpenSandbox gives an agent its own small computer",
+  "summary": "OpenSandbox is an Agentic AI Foundation project that runs an agent in an isolated environment. It can execute code, handle files, and open a browser or desktop. It gained about 159 stars on GitHub's daily trending list, with about 16,900 in total.",
+  "friendlySummary": "OpenSandbox runs an AI agent in a separate box. The agent can run code, handle files, and open a browser there. It gained about 159 stars on GitHub's daily list.",
+  "whyItMatters": "Start it locally with Docker, then move the same API to Kubernetes. A credential vault lets the agent call outside services without putting the real secret in the sandbox. Use it when the agent should not run loose on the machine you are using.",
+  "friendlyWhyItMatters": "Use it so the agent does not run loose on your own computer. You can start on a laptop and later move the same setup to a server. Secrets can stay outside the box the agent works in.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

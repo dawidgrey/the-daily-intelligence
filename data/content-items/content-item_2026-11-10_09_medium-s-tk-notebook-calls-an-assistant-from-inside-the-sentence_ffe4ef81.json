@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_09_medium-s-tk-notebook-calls-an-assistant-from-inside-the-sentence_ffe4ef81",
+  "sourceKind": "product",
+  "sourceName": "Medium",
+  "sourceUrl": "https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1",
+  "canonicalUrl": "https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "Medium's TK notebook calls an assistant from inside the sentence",
+  "friendlyTitle": "Medium's new notebook lets you ask for help inside the sentence",
+  "summary": "Medium chief executive Tony Stubblebine introduced TK on 9 November, a private notebook at tk.xyz. Typing @TK in a sentence asks an assistant for a fact, a saved paragraph, or feedback. The first version includes editorial and headline skills, imports from Medium, Bear, and Obsidian, and can publish a note saying what a person wrote and what a model wrote.",
+  "friendlySummary": "Medium launched TK, a private notebook, on 9 November. You type @TK in a sentence to ask for a fact, an old paragraph, or feedback on the draft. It can import notes from Medium, Bear, and Obsidian. You can also publish a note that says what a person wrote and what a model wrote.",
+  "whyItMatters": "It keeps the assistant in the draft, rather than in a separate chat. Medium says no AI company trains on the notes without permission, and it ships an MCP server so another agent can read them. A desktop app is not in this version. The provenance note is optional. It does not, by itself, tell a reader what was generated.",
+  "friendlyWhyItMatters": "The help stays in the writing, instead of in another window. Medium says your notes are not used to train an AI company unless you allow it. Another agent can read the notes if you connect it. A desktop app is not in this first version. The note about who wrote what is optional.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

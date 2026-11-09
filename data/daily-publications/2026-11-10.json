@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-10",
+  "slug": "2026-11-10",
+  "status": "published",
+  "publicationDateUtc": "2026-11-09T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The flagship got cheaper. The small model is priced for the busywork.",
+  "friendlyHeader": "The big model costs less. The small one is for everyday tasks.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Anthropic cut the price of its most capable model and still tells most people to start with a smaller one. Meta priced a model for the steps an agent repeats. The rest is what that shift does to buying software, building hardware, and keeping a customer's files.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Anthropic made its strongest model cheaper, and still says most people should start with a smaller one. Meta released a low-priced model for repeated tasks. The other items cover buying tools, building things, and a security warning.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-10_01_fable-5-2-costs-8-per-million-input-tokens-anthropic-still-points-most-w_796a7f7e",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_02_muse-ember-scores-36-on-a-public-index-at-about-0-14-a-task_feb2ba21",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_03_chatgpt-enterprise-can-now-be-bought-through-an-aws-account_e3a78f15",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_04_google-adds-two-tpu-systems-one-for-private-data-one-for-long-context_d38ba6f8",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_05_three-claude-designed-devices-worked-none-is-certified_ce5ea4c2",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_06_an-automated-researcher-closed-part-of-ten-safety-gaps-the-tests-were-na_293bd11d",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_07_fireworks-says-the-october-breach-reached-billing-records-and-some-model_d654e2a1",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_08_a-cooling-tower-maker-says-a-drawing-search-fell-from-an-hour-to-4-5-min_932fe34b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_09_medium-s-tk-notebook-calls-an-assistant-from-inside-the-sentence_ffe4ef81",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_10_disney-will-train-adobe-models-on-its-own-characters-the-tools-are-for-i_e2a9eaff",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_11_google-deepmind-mujoco-a-physics-simulator-for-robots-a-week-after-versi_2ed36b56",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_12_ruvnet-ruview-presence-and-vital-signs-from-wi-fi-without-a-camera_ea9a5697",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-10_13_opensandbox-group-opensandbox-a-separate-computer-for-the-agent-on-your_3bb5b3b2",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-10.json",
+    "itemCount": 13
+  }
+}

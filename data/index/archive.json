@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-08T20:12:28Z",
+  "generatedAtUtc": "2026-11-09T20:11:54Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-10",
+      "slug": "2026-11-10",
+      "status": "published",
+      "publicationDateUtc": "2026-11-09T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The flagship got cheaper. The small model is priced for the busywork.",
+      "friendlyHeader": "The big model costs less. The small one is for everyday tasks.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Anthropic cut the price of its most capable model and still tells most people to start with a smaller one. Meta priced a model for the steps an agent repeats. The rest is what that shift does to buying software, building hardware, and keeping a customer's files.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Anthropic made its strongest model cheaper, and still says most people should start with a smaller one. Meta released a low-priced model for repeated tasks. The other items cover buying tools, building things, and a security warning.",
+      "itemCount": 13,
+      "href": "issues/2026-11-10.html",
+      "dataUrl": "data/daily-publications/2026-11-10.json"
+    },
     {
       "id": "daily-publication_2026-11-09",
       "slug": "2026-11-09",

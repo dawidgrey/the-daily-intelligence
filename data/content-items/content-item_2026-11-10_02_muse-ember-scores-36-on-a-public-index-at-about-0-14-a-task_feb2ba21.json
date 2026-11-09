@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_02_muse-ember-scores-36-on-a-public-index-at-about-0-14-a-task_feb2ba21",
+  "sourceKind": "product",
+  "sourceName": "Meta AI",
+  "sourceUrl": "https://research.meta.ai/blog/muse-ember",
+  "canonicalUrl": "https://research.meta.ai/blog/muse-ember",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "Muse Ember scores 36 on a public index, at about $0.14 a task",
+  "friendlyTitle": "Meta's small model scores 36, at about 14 cents a task",
+  "summary": "Meta released Muse Ember on 9 November for the steps agents repeat: tool calls, small coding jobs, routing, extraction, and long documents. On the Meta Model API it is muse-ember-1.0, at $0.10 per million input tokens and $0.50 per million output tokens, with a 1 million token window. Meta says its best setting scores 36 on the Artificial Analysis index, about $0.14 a task.",
+  "friendlySummary": "Meta released Muse Ember on 9 November. It is built for the small steps an agent repeats, such as calling a tool, reading a file, or pulling a fact from a long document. It costs $0.10 per million input tokens and $0.50 per million output tokens. Meta says its best setting scores 36 on a public test, at about $0.14 a task.",
+  "whyItMatters": "That is the same index score Meta cites for Claude Haiku 5.5's best setting, at a lower price on Meta's chart. It is a model for volume, not for the hardest job. If an agent spends most of its tokens on small structured steps, this is the price to compare.",
+  "friendlyWhyItMatters": "Meta says that score matches the best score of a similar Claude model, at a lower price on Meta's chart. Use it when you have many small tasks. Do not assume it is the right model for the hardest job.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_08_a-cooling-tower-maker-says-a-drawing-search-fell-from-an-hour-to-4-5-min_932fe34b",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/kuken",
+  "canonicalUrl": "https://openai.com/index/kuken",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "A cooling-tower maker says a drawing search fell from an hour to 4.5 minutes",
+  "friendlyTitle": "Engineers now find an old drawing in 4.5 minutes, the company says",
+  "summary": "OpenAI's 9 November customer story says Kuken Industries, a Japanese cooling-tower maker, built a search tool on the OpenAI API with partner Recursive. Engineers can look up 70 years of drawings by part number or by pasting a screenshot. Kuken says a search now takes 4.5 minutes, down from nearly an hour, and expects about 90 percent fewer hours spent searching over a year.",
+  "friendlySummary": "Kuken Industries makes cooling towers in Japan. Its drawings go back 70 years. With a tool built on the OpenAI API, engineers can search by part number or by pasting a picture. Kuken says a search now takes 4.5 minutes, down from nearly an hour.",
+  "whyItMatters": "The numbers are the company's, from its own tests. The practical change is that a newer engineer can find the original drawing without asking a veteran where the file lives. Kuken is also testing a checker that flags mismatches in partner drawings. In a prototype, it says about 90 percent of the flags were real. That checker is not in production.",
+  "friendlyWhyItMatters": "Those numbers come from the company, not from an outside test. The useful part is that a new engineer can find the right drawing without asking a veteran where it is. A second tool that checks drawings for mistakes is still a prototype.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}

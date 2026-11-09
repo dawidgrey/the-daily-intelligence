@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-10_05_three-claude-designed-devices-worked-none-is-certified_ce5ea4c2",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/claude-electronics-design",
+  "canonicalUrl": "https://www.anthropic.com/research/claude-electronics-design",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-09T20:11:54Z",
+  "createdAtUtc": "2026-11-09T20:11:54Z",
+  "updatedAtUtc": "2026-11-09T20:11:54Z",
+  "title": "Three Claude-designed devices worked. None is certified.",
+  "friendlyTitle": "Three devices designed by Claude worked. They are still prototypes.",
+  "summary": "Anthropic and Diode Computers asked Claude Fable 5.2 to design a USB speakerphone, a voice-assistant hub, and a handheld virtual pet from short prompts. Diode built the boards. Anthropic says the prototypes worked without fixes to the circuitry, and that one speakerphone was still working after weeks of use. They have not had electrical validation, antenna tuning, thermal testing, or certification.",
+  "friendlySummary": "Anthropic and Diode asked Claude to design a speakerphone, a voice hub, and a small virtual pet. People built the boards. Anthropic says the circuits worked without fixes. The devices have not been fully tested or certified for sale.",
+  "whyItMatters": "A year ago, the same collaboration could not reliably finish a board. On Diode's internal layout test, Fable 5.2 scored 69 percent, against 25 percent for Fable 5. Anthropic has a commercial relationship with Diode, and people still assembled the hardware. The useful change is fewer dead-end layouts, not a factory.",
+  "friendlyWhyItMatters": "A year ago, the same kind of design often could not be finished. The new model is better at placing parts on a board. A person still has to build it. A working prototype is not a product you can buy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-10"
+  }
+}
