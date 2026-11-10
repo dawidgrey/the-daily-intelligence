@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_11_homeassistant-ai-ha-mcp-an-assistant-that-can-change-the-house-if-you-gi_81f33d0f",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/homeassistant-ai/ha-mcp",
+  "canonicalUrl": "https://github.com/homeassistant-ai/ha-mcp",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "homeassistant-ai/ha-mcp: an assistant that can change the house, if you give it an admin token",
+  "friendlyTitle": "ha-mcp lets an assistant change your Home Assistant setup",
+  "summary": "ha-mcp is an MCP server that lets Claude, ChatGPT, and other assistants configure Home Assistant. The README lists 87 tools. The recommended install is the Home Assistant integration, on Home Assistant 2026.8 or newer. It gained about 790 stars on GitHub's daily trending list, with about 6,500 in total. The license is MIT.",
+  "friendlySummary": "ha-mcp connects Claude, ChatGPT, or another assistant to Home Assistant. The project lists 87 tools. It needs Home Assistant 2026.8 or newer. It gained about 790 stars on GitHub's daily list and has about 6,500 in total.",
+  "whyItMatters": "Use it to ask an assistant to add an automation or check a device, instead of clicking through the settings. It needs an administrator token, or a separate local-only admin account. A leaked token works from anywhere. File and YAML editing is off unless you turn it on. Run one install method, not two.",
+  "friendlyWhyItMatters": "Use it to ask an assistant to add an automation or check a device. It needs an administrator login. A leaked token can be used from anywhere, so a separate local-only account is safer. Do not turn on file editing unless you mean to. Run only one copy.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

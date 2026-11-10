@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_03_claude-can-now-keep-the-board-the-sheet-and-the-chart-in-the-chat_7737e173",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "canonicalUrl": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Claude can now keep the board, the sheet, and the chart in the chat",
+  "friendlyTitle": "Claude can now make a board, a spreadsheet, and a chart in the chat",
+  "summary": "On 10 November, Anthropic launched Claude Whiteboards and Claude Sheets in beta, and made Claude Dashboards generally available under the name Claude Data. A board can turn a messy plan into owners and dates. A sheet can start from a prompt, with tabs, formulas, and drop-downs. Data adds certified metric definitions and live sharing. All three are on paid plans.",
+  "friendlySummary": "On 10 November, Anthropic added Claude Whiteboards and Claude Sheets in beta, and made its dashboard tool generally available as Claude Data. You can turn a rough plan into a board, or ask for a simple spreadsheet. Data can lock a metric definition so the team uses the same number. These are on paid plans.",
+  "whyItMatters": "The point is to stop pasting Claude's output into another tool and losing the thread. Sheets are still simple. Anthropic says to export to Excel or CSV when you need a full spreadsheet. On Team plans the three tools are on by default. On Enterprise, Whiteboards and Sheets start off, and Claude Data turns on by default on 19 November. An admin can change that.",
+  "friendlyWhyItMatters": "The useful change is that the work can stay in Claude instead of being copied into another app. The spreadsheet is still basic. Export it when you need a full Excel file. On a Team plan these tools are on. On an Enterprise plan, an admin may need to turn the board and the sheet on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

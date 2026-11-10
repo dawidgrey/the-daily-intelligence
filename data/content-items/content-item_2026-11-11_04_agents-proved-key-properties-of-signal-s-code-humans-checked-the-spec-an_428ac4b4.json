@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_04_agents-proved-key-properties-of-signal-s-code-humans-checked-the-spec-an_428ac4b4",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Agents proved key properties of Signal's code. Humans checked the spec and 1 percent of the proof.",
+  "friendlyTitle": "AI helped prove that Signal's code meets the security rules experts wrote",
+  "summary": "On 10 November, Google DeepMind said AlphaProof Code formally verified key security properties of the code behind the Signal protocol, down to the compiled implementation. Human experts approved every specification. Agents wrote more than six million lines of Lean, then flagged about 1 percent for a second human look. Lean checked the rest. The work took four weeks. DeepMind open-sourced the artifacts.",
+  "friendlySummary": "On 10 November, Google DeepMind said a new agent system proved key security properties of the real code behind the Signal messaging protocol. People approved every rule. Agents wrote the proofs, and people reviewed about 1 percent of them. A proof checker reviewed the rest. The work took four weeks. The proof files are public.",
+  "whyItMatters": "This is not a claim that Signal was broken, or that any app can now prove itself. It is a proof that this implementation meets the properties the experts wrote down. When DeepMind put two previously fixed bugs back into an isolated copy, the system proved those copies insecure. The practical use is for code whose failure would be expensive, and only where someone qualified still writes the specification.",
+  "friendlyWhyItMatters": "This does not mean Signal was unsafe, and it does not mean any app can now prove itself. It means this code met the rules the experts wrote. When the team put two old bugs back into a test copy, the system showed those copies were insecure. Use the idea on important code, and still have a person write the rules.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

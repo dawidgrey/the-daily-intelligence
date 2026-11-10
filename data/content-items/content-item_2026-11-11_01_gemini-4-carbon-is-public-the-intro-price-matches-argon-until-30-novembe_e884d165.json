@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_01_gemini-4-carbon-is-public-the-intro-price-matches-argon-until-30-novembe_e884d165",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Gemini 4 Carbon is public. The intro price matches Argon until 30 November.",
+  "friendlyTitle": "Google's strongest model is open. The cheap price lasts until 30 November.",
+  "summary": "On 10 November, Google opened Gemini 4 Carbon to paying developers and enterprises in AI Studio and Gemini for business, and began rolling it out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode. The introductory API price matches Argon: $2 per million input tokens and $10 per million output tokens. On 30 November that rises to $4 and $20. Google says Argon is still the model for most coding and knowledge work.",
+  "friendlySummary": "On 10 November, Google opened Gemini 4 Carbon to paying developers and companies, and started giving it to Google AI Ultra subscribers in the Gemini app and Search. The starting price matches a smaller model: $2 per million input tokens and $10 per million output tokens. On 30 November that becomes $4 and $20. Google says most everyday coding should still start on the smaller model, Argon.",
+  "whyItMatters": "Carbon is the model Google points at long, open-ended jobs, not every chat. It is previewing /swarm in Antigravity, which turns one prompt into a team of agents you can watch. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench, at more than twice lower cost per task than the next external model on those tests. Those are Google's comparisons. A free Gemini account does not get this model.",
+  "friendlyWhyItMatters": "Use Carbon for a hard, open-ended job, not for every chat. Google is also testing a feature that turns one prompt into a team of agents. Google says Carbon scored first on three work tests, at a lower cost per task than the next model. Those scores are Google's. A free Gemini account does not include this model.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

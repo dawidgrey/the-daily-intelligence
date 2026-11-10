@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_07_hugging-face-added-a-pipeline-that-returns-a-choice-not-a-paragraph_3229de0d",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/decision",
+  "canonicalUrl": "https://huggingface.co/blog/decision",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Hugging Face added a pipeline that returns a choice, not a paragraph",
+  "friendlyTitle": "Hugging Face added a model type that picks an answer instead of writing one",
+  "summary": "On 10 November, Hugging Face documented decision models in Transformers. You pass a state and one or more questions with allowed answers. The model returns a choice, or a score, and a probability. It does not write the answer token by token. The post's example uses the pipeline name \"decision\" and the model autotrust/GEV-26B-Decide.",
+  "friendlySummary": "On 10 November, Hugging Face showed how to use a decision model in its Transformers library. You give it the situation and a list of allowed answers. It returns a choice and a probability. It does not write a paragraph. The example uses a model called autotrust/GEV-26B-Decide.",
+  "whyItMatters": "This is the same job Amazon's ticket system just moved off a chat model: routing, urgency, and yes-or-no labels. A normal classifier has its labels baked in. A decision model takes the allowed answers at request time, and can ask several typed questions about one state. It is not a replacement for writing, coding, or any answer that is not on the list you supplied.",
+  "friendlyWhyItMatters": "Use this for sorting, routing, or a yes-or-no label. You can change the allowed answers without retraining a fixed classifier. Do not use it to write, code, or answer a question that is not on your list.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_05_a-us-shop-can-claim-a-chatgpt-profile-and-answer-from-its-own-agent_03fce933",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt/",
+  "canonicalUrl": "https://openai.com/index/introducing-businesses-chatgpt/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "A US shop can claim a ChatGPT profile and answer from its own agent",
+  "friendlyTitle": "A US shop can claim its ChatGPT page and answer through its own agent",
+  "summary": "On 10 November, OpenAI opened Businesses in ChatGPT in beta. A business can claim a profile, update details, and see aggregated counts of mentions, profile views, and website clicks. Eligible ecommerce and online-service businesses in the United States can also launch a Business Agent. The agent chat is labeled and separate from the person's ChatGPT conversation. OpenAI says it does not share those chats with the business.",
+  "friendlySummary": "On 10 November, OpenAI let businesses claim a profile in ChatGPT and update their details. Eligible online shops and service businesses in the United States can also add a Business Agent. That chat is labeled, and it is separate from your normal ChatGPT chat. OpenAI says it does not give those chats to the business.",
+  "whyItMatters": "For a shopper, the useful check is the label. A Business Agent speaks for the company. It is not ChatGPT's independent answer. A business can also pay to sponsor that agent as an ad destination. Sponsored placements are labeled too. Insights appear only after enough conversations to meet OpenAI's threshold. The agent is not available to every business, or outside the US launch.",
+  "friendlyWhyItMatters": "Read the label. A Business Agent is speaking for the company, not giving ChatGPT's own answer. A business can also pay to promote that agent. Those ads are labeled too. This is a US beta for certain online businesses. It is not available to every company yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

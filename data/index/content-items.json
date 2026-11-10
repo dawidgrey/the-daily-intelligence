@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-09T20:11:54Z",
+  "generatedAtUtc": "2026-11-10T20:08:56Z",
   "items": [
     {
-      "id": "content-item_2026-11-10_01_fable-5-2-costs-8-per-million-input-tokens-anthropic-still-points-most-w_796a7f7e",
-      "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Fable 5.2 costs $8 per million input tokens. Anthropic still points most work to Opus.",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-    },
-    {
-      "id": "content-item_2026-11-10_02_muse-ember-scores-36-on-a-public-index-at-about-0-14-a-task_feb2ba21",
-      "sourceKind": "product",
-      "sourceName": "Meta AI",
-      "title": "Muse Ember scores 36 on a public index, at about $0.14 a task",
-      "sourceUrl": "https://research.meta.ai/blog/muse-ember"
-    },
-    {
-      "id": "content-item_2026-11-10_03_chatgpt-enterprise-can-now-be-bought-through-an-aws-account_e3a78f15",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Enterprise can now be bought through an AWS account",
-      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/"
-    },
-    {
-      "id": "content-item_2026-11-10_04_google-adds-two-tpu-systems-one-for-private-data-one-for-long-context_d38ba6f8",
+      "id": "content-item_2026-11-11_01_gemini-4-carbon-is-public-the-intro-price-matches-argon-until-30-novembe_e884d165",
       "sourceKind": "product",
       "sourceName": "Google",
-      "title": "Google adds two TPU systems: one for private data, one for long context",
-      "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+      "title": "Gemini 4 Carbon is public. The intro price matches Argon until 30 November.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
     },
     {
-      "id": "content-item_2026-11-10_05_three-claude-designed-devices-worked-none-is-certified_ce5ea4c2",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Three Claude-designed devices worked. None is certified.",
-      "sourceUrl": "https://www.anthropic.com/research/claude-electronics-design"
-    },
-    {
-      "id": "content-item_2026-11-10_06_an-automated-researcher-closed-part-of-ten-safety-gaps-the-tests-were-na_293bd11d",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "An automated researcher closed part of ten safety gaps. The tests were narrow.",
-      "sourceUrl": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
-    },
-    {
-      "id": "content-item_2026-11-10_07_fireworks-says-the-october-breach-reached-billing-records-and-some-model_d654e2a1",
+      "id": "content-item_2026-11-11_02_amazon-labeled-tickets-with-a-2b-model-the-bill-fell-about-98-percent_fe065624",
       "sourceKind": "article",
-      "sourceName": "Fireworks AI",
-      "title": "Fireworks says the October breach reached billing records and some model files",
-      "sourceUrl": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+      "sourceName": "Strands Agents",
+      "title": "Amazon labeled tickets with a 2B model. The bill fell about 98 percent.",
+      "sourceUrl": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
     },
     {
-      "id": "content-item_2026-11-10_08_a-cooling-tower-maker-says-a-drawing-search-fell-from-an-hour-to-4-5-min_932fe34b",
-      "sourceKind": "article",
+      "id": "content-item_2026-11-11_03_claude-can-now-keep-the-board-the-sheet-and-the-chart-in-the-chat_7737e173",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude can now keep the board, the sheet, and the chart in the chat",
+      "sourceUrl": "https://claude.com/resources/articles/sheets-whiteboards-data"
+    },
+    {
+      "id": "content-item_2026-11-11_04_agents-proved-key-properties-of-signal-s-code-humans-checked-the-spec-an_428ac4b4",
+      "sourceKind": "research",
+      "sourceName": "Google DeepMind",
+      "title": "Agents proved key properties of Signal's code. Humans checked the spec and 1 percent of the proof.",
+      "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "id": "content-item_2026-11-11_05_a-us-shop-can-claim-a-chatgpt-profile-and-answer-from-its-own-agent_03fce933",
+      "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "A cooling-tower maker says a drawing search fell from an hour to 4.5 minutes",
-      "sourceUrl": "https://openai.com/index/kuken"
+      "title": "A US shop can claim a ChatGPT profile and answer from its own agent",
+      "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt/"
     },
     {
-      "id": "content-item_2026-11-10_09_medium-s-tk-notebook-calls-an-assistant-from-inside-the-sentence_ffe4ef81",
+      "id": "content-item_2026-11-11_06_on-upwork-ai-related-jobs-paid-more-because-the-brief-got-wider_3588ceed",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "On Upwork, AI-related jobs paid more because the brief got wider",
+      "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "id": "content-item_2026-11-11_07_hugging-face-added-a-pipeline-that-returns-a-choice-not-a-paragraph_3229de0d",
       "sourceKind": "product",
-      "sourceName": "Medium",
-      "title": "Medium's TK notebook calls an assistant from inside the sentence",
-      "sourceUrl": "https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1"
+      "sourceName": "Hugging Face",
+      "title": "Hugging Face added a pipeline that returns a choice, not a paragraph",
+      "sourceUrl": "https://huggingface.co/blog/decision"
     },
     {
-      "id": "content-item_2026-11-10_10_disney-will-train-adobe-models-on-its-own-characters-the-tools-are-for-i_e2a9eaff",
+      "id": "content-item_2026-11-11_08_a-humanoid-sorted-car-parts-at-96-percent-the-model-is-for-partners-not_a98763b8",
       "sourceKind": "product",
-      "sourceName": "Adobe",
-      "title": "Disney will train Adobe models on its own characters. The tools are for its teams.",
-      "sourceUrl": "https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools"
+      "sourceName": "Google DeepMind",
+      "title": "A humanoid sorted car parts at 96 percent. The model is for partners, not a home robot.",
+      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
     },
     {
-      "id": "content-item_2026-11-10_11_google-deepmind-mujoco-a-physics-simulator-for-robots-a-week-after-versi_2ed36b56",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "google-deepmind/mujoco: a physics simulator for robots, a week after version 4.0.0",
-      "sourceUrl": "https://github.com/google-deepmind/mujoco"
+      "id": "content-item_2026-11-11_09_tsmc-s-board-approved-up-to-500-million-each-for-anthropic-and-openai_139484b5",
+      "sourceKind": "article",
+      "sourceName": "TSMC",
+      "title": "TSMC's board approved up to $500 million each for Anthropic and OpenAI",
+      "sourceUrl": "https://pr.tsmc.com/english/news/3352"
     },
     {
-      "id": "content-item_2026-11-10_12_ruvnet-ruview-presence-and-vital-signs-from-wi-fi-without-a-camera_ea9a5697",
-      "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "ruvnet/RuView: presence and vital signs from Wi-Fi, without a camera",
-      "sourceUrl": "https://github.com/ruvnet/RuView"
+      "id": "content-item_2026-11-11_10_gemini-will-show-the-memory-summary-you-can-correct-it-us-paid-plans-onl_9f50f4db",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "Gemini will show the memory summary. You can correct it. US paid plans only.",
+      "sourceUrl": "https://support.google.com/gemini/answer/18617127"
     },
     {
-      "id": "content-item_2026-11-10_13_opensandbox-group-opensandbox-a-separate-computer-for-the-agent-on-your_3bb5b3b2",
+      "id": "content-item_2026-11-11_11_homeassistant-ai-ha-mcp-an-assistant-that-can-change-the-house-if-you-gi_81f33d0f",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "opensandbox-group/OpenSandbox: a separate computer for the agent, on your machines",
-      "sourceUrl": "https://github.com/opensandbox-group/OpenSandbox"
+      "title": "homeassistant-ai/ha-mcp: an assistant that can change the house, if you give it an admin token",
+      "sourceUrl": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "id": "content-item_2026-11-11_12_whitetowerai-ohmygame-one-app-for-a-game-still-in-beta-still-your-api-ke_71745e81",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending",
+      "title": "WhiteTowerAI/ohmygame: one app for a game, still in beta, still your API key",
+      "sourceUrl": "https://github.com/WhiteTowerAI/ohmygame"
+    },
+    {
+      "id": "content-item_2026-11-11_13_ashishpatel26-500-ai-agents-projects-a-catalog-of-agent-ideas-not-an-age_6a5f2d3f",
+      "sourceKind": "github",
+      "sourceName": "GitHub trending",
+      "title": "ashishpatel26/500-AI-Agents-Projects: a catalog of agent ideas, not an agent",
+      "sourceUrl": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
     }
   ]
 }

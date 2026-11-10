@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_13_ashishpatel26-500-ai-agents-projects-a-catalog-of-agent-ideas-not-an-age_6a5f2d3f",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+  "canonicalUrl": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "ashishpatel26/500-AI-Agents-Projects: a catalog of agent ideas, not an agent",
+  "friendlyTitle": "500 AI Agents Projects is a list of examples, not one agent",
+  "summary": "500 AI Agents Projects is a curated list of agent use cases, grouped by industry, with links to open-source implementations. It is not one tool you run. It gained about 110 stars on GitHub's daily trending list, with about 39,600 in total. The license is MIT. The latest commit on the default branch was 6 November.",
+  "friendlySummary": "This repository collects agent ideas by industry and links to open-source projects. It is not a single tool you install. It gained about 110 stars on GitHub's daily list and has about 39,600 in total.",
+  "whyItMatters": "Use it to find a worked example in your field before you build one. The linked projects are other people's code. Quality, licenses, and maintenance vary. Read the project you open. Do not treat the list as a review.",
+  "friendlyWhyItMatters": "Use it to find an example in your field before you build your own. The links go to other people's code. Some are useful. Some are old. Read the project before you trust it. The list itself is not a review.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

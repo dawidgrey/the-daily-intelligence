@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_06_on-upwork-ai-related-jobs-paid-more-because-the-brief-got-wider_3588ceed",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work",
+  "canonicalUrl": "https://openai.com/index/ai-effect-on-freelance-work",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "On Upwork, AI-related jobs paid more because the brief got wider",
+  "friendlyTitle": "AI-related freelance jobs had bigger budgets because the work was wider",
+  "summary": "On 10 November, OpenAI and Upwork published a study of freelance postings against ChatGPT use. Of 63 matched work categories, 43 followed one pattern: work that was common in ChatGPT lost share on Upwork, and less common work gained share. Twenty categories went the other way. AI-related postings combined tasks that used to be hired separately. Their adjusted comparison put fixed-price budgets 52 percent higher and hours in the first 90 days 41 percent higher. Posted hourly rates were about the same.",
+  "friendlySummary": "On 10 November, OpenAI and Upwork compared freelance job posts with how people use ChatGPT. In 43 of 63 job types, work that was common in ChatGPT became a smaller share of freelance posts. Twenty job types moved the other way. AI-related posts asked for more kinds of work in one job. Their adjusted numbers show fixed-price budgets about 52 percent higher, and more hours. The posted hourly rate was about the same.",
+  "whyItMatters": "This is not a finding that freelance work is disappearing. It is a finding that some briefs are being reassembled. A client who used to hire writing, editing, and motion graphics separately may now post one job that asks for all three, plus an AI tool. If you freelance, the useful check is whether your offer is a single task ChatGPT already does, or a finished piece that still needs a person to assemble.",
+  "friendlyWhyItMatters": "This does not say freelance work is vanishing. It says some clients are packing more tasks into one job. If you freelance, check whether you sell one task a chatbot already does, or a finished piece that still needs a person to put the parts together.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

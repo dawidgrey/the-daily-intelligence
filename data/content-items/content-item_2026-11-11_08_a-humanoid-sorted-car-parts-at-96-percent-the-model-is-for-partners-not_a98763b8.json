@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_08_a-humanoid-sorted-car-parts-at-96-percent-the-model-is-for-partners-not_a98763b8",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "canonicalUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "A humanoid sorted car parts at 96 percent. The model is for partners, not a home robot.",
+  "friendlyTitle": "A factory robot sorted car parts at 96 percent. You cannot buy this model.",
+  "summary": "On 10 November, Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action model for robot partners. On its own tests of more than 200 tasks, success was 30 to 100 percent higher than its previous baselines, depending on the task, and the tasks finished 20 to 30 percent faster. In a factory proof of concept with Apptronik and Mercedes-Benz, an Apollo 2 humanoid sorted automotive parts into trays at a 96 percent success rate.",
+  "friendlySummary": "On 10 November, Google DeepMind released Gemini Robotics 2.5 for its robot partners. On DeepMind's own tests, it succeeded more often and finished faster than the previous version. In a factory trial with Mercedes-Benz, a humanoid robot sorted car parts into trays and succeeded 96 percent of the time.",
+  "whyItMatters": "The 96 percent figure is a pilot on two Mercedes-Benz lines, not a home product and not a claim that the robot can do every factory job. DeepMind says safety guidance raised safe completion by 33 percent around obstacles and 43 percent around people, on its own tests. The model is rolling out to robotics partners. There is nothing here to install on a laptop.",
+  "friendlyWhyItMatters": "That 96 percent is a factory trial, not a home robot and not every factory job. DeepMind also says the robot got safer around obstacles and people on its own tests. The model is going to robot companies. There is nothing for you to download.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

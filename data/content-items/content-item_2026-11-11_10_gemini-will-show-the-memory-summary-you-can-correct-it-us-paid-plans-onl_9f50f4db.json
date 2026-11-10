@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_10_gemini-will-show-the-memory-summary-you-can-correct-it-us-paid-plans-onl_9f50f4db",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://support.google.com/gemini/answer/18617127",
+  "canonicalUrl": "https://support.google.com/gemini/answer/18617127",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Gemini will show the memory summary. You can correct it. US paid plans only.",
+  "friendlyTitle": "You can now read and fix what Gemini remembers. US paid plans only.",
+  "summary": "Google's help page now documents Memory summary in the Gemini app. A signed-in adult in the United States, on an active Google AI plan, with Keep Activity and Memory turned on, can open Settings, then Personal Intelligence, then Memory summary. The page is in English, on the Gemini mobile app and gemini.google.com. You can add or remove facts with a prompt, and review a history of changes.",
+  "friendlySummary": "Google now lets some people open a memory summary in the Gemini app. You must be 18 or older, in the United States, on a paid Google AI plan, with activity and memory turned on. It works in English, on the phone app and the website. You can add a fact, remove a fact, and see a history of changes.",
+  "whyItMatters": "A personal model is only useful if you can see what it stored. This is that view, for a narrow set of accounts. It is not available on a free plan, outside the US, or in other languages yet. Turning Memory off stops Gemini from learning more about you. It does not, by itself, delete older activity. That remains a separate control.",
+  "friendlyWhyItMatters": "A personal assistant is more useful if you can see what it saved. This is that page, for a small set of accounts. It is not on the free plan, and not outside the United States yet. Turning memory off stops new learning. It does not, by itself, delete your older activity.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

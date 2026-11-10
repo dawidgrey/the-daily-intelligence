@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-11",
+  "slug": "2026-11-11",
+  "status": "published",
+  "publicationDateUtc": "2026-11-10T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Carbon is public. A ticket label no longer needs a chat model.",
+  "friendlyHeader": "The strongest Google model is open. A small model can sort the tickets.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Google opened its strongest model to paying users, and still says most work should start on a smaller one. Amazon's engineers stopped using a frontier model to sort tickets. The rest is what that split does to proofs, spreadsheets, shopping, and a robot on a factory line.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Google opened its strongest model to paying users, and still says most jobs should start smaller. Amazon stopped using a large chat model to label tickets. The other items cover proofs, spreadsheets, shopping, and a factory robot.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-11_01_gemini-4-carbon-is-public-the-intro-price-matches-argon-until-30-novembe_e884d165",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_02_amazon-labeled-tickets-with-a-2b-model-the-bill-fell-about-98-percent_fe065624",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_03_claude-can-now-keep-the-board-the-sheet-and-the-chart-in-the-chat_7737e173",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_04_agents-proved-key-properties-of-signal-s-code-humans-checked-the-spec-an_428ac4b4",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_05_a-us-shop-can-claim-a-chatgpt-profile-and-answer-from-its-own-agent_03fce933",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_06_on-upwork-ai-related-jobs-paid-more-because-the-brief-got-wider_3588ceed",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_07_hugging-face-added-a-pipeline-that-returns-a-choice-not-a-paragraph_3229de0d",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_08_a-humanoid-sorted-car-parts-at-96-percent-the-model-is-for-partners-not_a98763b8",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_09_tsmc-s-board-approved-up-to-500-million-each-for-anthropic-and-openai_139484b5",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_10_gemini-will-show-the-memory-summary-you-can-correct-it-us-paid-plans-onl_9f50f4db",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_11_homeassistant-ai-ha-mcp-an-assistant-that-can-change-the-house-if-you-gi_81f33d0f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_12_whitetowerai-ohmygame-one-app-for-a-game-still-in-beta-still-your-api-ke_71745e81",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-11_13_ashishpatel26-500-ai-agents-projects-a-catalog-of-agent-ideas-not-an-age_6a5f2d3f",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-11.json",
+    "itemCount": 13
+  }
+}

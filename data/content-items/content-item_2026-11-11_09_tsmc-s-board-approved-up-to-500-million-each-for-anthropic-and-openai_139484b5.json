@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_09_tsmc-s-board-approved-up-to-500-million-each-for-anthropic-and-openai_139484b5",
+  "sourceKind": "article",
+  "sourceName": "TSMC",
+  "sourceUrl": "https://pr.tsmc.com/english/news/3352",
+  "canonicalUrl": "https://pr.tsmc.com/english/news/3352",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "TSMC's board approved up to $500 million each for Anthropic and OpenAI",
+  "friendlyTitle": "TSMC's board approved up to $500 million each for Anthropic and OpenAI",
+  "summary": "On 10 November, TSMC's board approved an investment of no more than US$500 million in Anthropic common shares, at Anthropic's IPO price, and no more than US$500 million in OpenAI preferred stock. The same meeting approved about US$40.9 billion in capital spending, mostly for advanced chip capacity, packaging, and fab construction, and a separate investment company capped at US$500 million.",
+  "friendlySummary": "On 10 November, TSMC's board approved investments of no more than US$500 million in Anthropic and no more than US$500 million in OpenAI. The Anthropic shares would be bought at Anthropic's IPO price. The same meeting approved about US$40.9 billion to build and upgrade chip factories.",
+  "whyItMatters": "This is an approval with a ceiling, not a confirmation that the money has been sent. It does put the main advanced-chip manufacturer on the cap table plans of both labs. For anyone buying AI tools, the nearer fact is the capacity spend: TSMC is still building the fabs those models depend on. The Anthropic line is tied to an IPO price, so it does not close until that offering does.",
+  "friendlyWhyItMatters": "This is permission to invest, with a cap. It is not proof the money has already moved. The factory spending matters more for daily tools: these models still depend on TSMC's chips. The Anthropic investment waits for the IPO price.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}

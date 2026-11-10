@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-09T20:11:54Z",
+  "generatedAtUtc": "2026-11-10T20:08:57Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-11",
+      "slug": "2026-11-11",
+      "status": "published",
+      "publicationDateUtc": "2026-11-10T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Carbon is public. A ticket label no longer needs a chat model.",
+      "friendlyHeader": "The strongest Google model is open. A small model can sort the tickets.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Google opened its strongest model to paying users, and still says most work should start on a smaller one. Amazon's engineers stopped using a frontier model to sort tickets. The rest is what that split does to proofs, spreadsheets, shopping, and a robot on a factory line.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Google opened its strongest model to paying users, and still says most jobs should start smaller. Amazon stopped using a large chat model to label tickets. The other items cover proofs, spreadsheets, shopping, and a factory robot.",
+      "itemCount": 13,
+      "href": "issues/2026-11-11.html",
+      "dataUrl": "data/daily-publications/2026-11-11.json"
+    },
     {
       "id": "daily-publication_2026-11-10",
       "slug": "2026-11-10",

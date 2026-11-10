@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-11_02_amazon-labeled-tickets-with-a-2b-model-the-bill-fell-about-98-percent_fe065624",
+  "sourceKind": "article",
+  "sourceName": "Strands Agents",
+  "sourceUrl": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+  "canonicalUrl": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-10T20:08:56Z",
+  "createdAtUtc": "2026-11-10T20:08:56Z",
+  "updatedAtUtc": "2026-11-10T20:08:56Z",
+  "title": "Amazon labeled tickets with a 2B model. The bill fell about 98 percent.",
+  "friendlyTitle": "Amazon sorted tickets with a small model. The cost fell about 98 percent.",
+  "summary": "Two Amazon engineers replaced Claude Sonnet 4.6 with Strands Decider E4B on an internal ticketing system that sorts work into 20 labels. On their numbers, a ticket fell from $0.0222 to about $0.0005, and the average call from 4.2 seconds to 0.9 seconds. They ran both models on live traffic before turning Sonnet off. They say the change will save millions of dollars in token cost a year.",
+  "friendlySummary": "Two Amazon engineers stopped using Claude Sonnet 4.6 to put internal tickets into 20 categories. A smaller decision model did the job. On their numbers, one ticket fell from about 2 cents to about a twentieth of a cent, and the wait fell from 4.2 seconds to 0.9 seconds. They ran both models on real tickets before switching.",
+  "whyItMatters": "A decision model returns a choice and a confidence score. It does not write an explanation. That fit a closed catalog at high volume. It will not fit a label set that changes every week, a ticket that needs a written reason, or a case that does not fit in a few thousand tokens. They also found that changing the order of JSON keys moved the probabilities by up to 0.19. Sort the keys before you compare runs.",
+  "friendlyWhyItMatters": "This works when the answer is one choice from a fixed list, and you have a lot of them. It does not work if you need a written reason, or the list changes every week. They also found that changing the order of the data fields moved the answer. Keep the field order the same when you test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-11"
+  }
+}
