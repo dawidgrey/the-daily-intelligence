@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_10_openai-says-it-can-stop-a-research-job-s-model-output-in-35-seconds_2881e5b1",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/control-room/",
+  "canonicalUrl": "https://openai.com/index/control-room/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "OpenAI says it can stop a research job's model output in 35 seconds",
+  "friendlyTitle": "OpenAI says it can stop a research job in 35 seconds",
+  "summary": "OpenAI described Control Room, a system that tracks research workloads and can deny further model output. Every agentic research job must carry an approved safety case. The inference engine, not the job's own code, asks permission before each sample. OpenAI says the longest gap from a stop order to no further output is 35 seconds, because of a cache. If Control Room itself is down, frontier research jobs fail closed. That setting is still rolling out to the remaining research workloads.",
+  "friendlySummary": "OpenAI described Control Room, a system that tracks research jobs and can stop them from producing more model output. Each research job that uses an agent must have an approved safety case. The model server, not the job itself, asks permission before each step. OpenAI says a stop takes at most 35 seconds. If Control Room is down, the newest research jobs stop instead of continuing.",
+  "whyItMatters": "This is a kill switch for OpenAI's own research cluster, not a button in ChatGPT. The public serving stack, OpenAI says, was already easier to take down. The useful design choice is where the check sits: in the small number of inference paths, not in researcher code that changes often. A 35-second window is not instant. OpenAI says it is trying to close that gap.",
+  "friendlyWhyItMatters": "This is a stop button for OpenAI's own research computers, not a setting in ChatGPT. The check sits in the model server, so a buggy research script cannot skip it. Thirty-five seconds is not instant. OpenAI says it wants that delay to reach zero.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

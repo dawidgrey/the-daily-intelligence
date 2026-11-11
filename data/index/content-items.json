@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-10T20:08:56Z",
+  "generatedAtUtc": "2026-11-11T20:10:32Z",
   "items": [
     {
-      "id": "content-item_2026-11-11_01_gemini-4-carbon-is-public-the-intro-price-matches-argon-until-30-novembe_e884d165",
+      "id": "content-item_2026-11-12_01_gemini-decision-1-returns-a-probability-the-output-bill-is-zero_8c909746",
       "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini 4 Carbon is public. The intro price matches Argon until 30 November.",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      "sourceName": "Google AI Studio",
+      "title": "Gemini Decision 1 returns a probability. The output bill is zero.",
+      "sourceUrl": "https://aistudio.google.com/docs/models/gemini-decision-1"
     },
     {
-      "id": "content-item_2026-11-11_02_amazon-labeled-tickets-with-a-2b-model-the-bill-fell-about-98-percent_fe065624",
+      "id": "content-item_2026-11-12_02_united-tells-personal-agents-they-cannot-finish-the-booking_62ffa050",
       "sourceKind": "article",
-      "sourceName": "Strands Agents",
-      "title": "Amazon labeled tickets with a 2B model. The bill fell about 98 percent.",
-      "sourceUrl": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+      "sourceName": "United Airlines",
+      "title": "United tells personal agents they cannot finish the booking",
+      "sourceUrl": "https://www.united.com/en/us/newsroom/announcements/cision-125496"
     },
     {
-      "id": "content-item_2026-11-11_03_claude-can-now-keep-the-board-the-sheet-and-the-chart-in-the-chat_7737e173",
+      "id": "content-item_2026-11-12_03_aws-emulator-gives-a-coding-agent-a-local-cloud-to-test-against_62504a28",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude can now keep the board, the sheet, and the chart in the chat",
-      "sourceUrl": "https://claude.com/resources/articles/sheets-whiteboards-data"
+      "sourceName": "All Things Distributed",
+      "title": "AWS Emulator gives a coding agent a local cloud to test against",
+      "sourceUrl": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
     },
     {
-      "id": "content-item_2026-11-11_04_agents-proved-key-properties-of-signal-s-code-humans-checked-the-spec-an_428ac4b4",
+      "id": "content-item_2026-11-12_04_australia-may-require-companies-to-report-an-ai-incident-and-to-prevent_c255e450",
+      "sourceKind": "regulation",
+      "sourceName": "BBC",
+      "title": "Australia may require companies to report an AI incident, and to prevent the harm",
+      "sourceUrl": "https://www.bbc.com/news/articles/cmp3g37l566po"
+    },
+    {
+      "id": "content-item_2026-11-12_05_yogurt-takes-meeting-notes-on-your-computer-without-joining-the-call_f6b29b4e",
+      "sourceKind": "product",
+      "sourceName": "GitHub",
+      "title": "Yogurt takes meeting notes on your computer, without joining the call",
+      "sourceUrl": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "id": "content-item_2026-11-12_06_an-australian-law-firm-says-87-percent-of-enabled-staff-use-chatgpt_f28f90d2",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "An Australian law firm says 87 percent of enabled staff use ChatGPT",
+      "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "id": "content-item_2026-11-12_07_klad-lets-an-agent-draw-a-larger-company-needs-a-paid-seat_3f42633d",
+      "sourceKind": "product",
+      "sourceName": "GitHub",
+      "title": "Klad lets an agent draw. A larger company needs a paid seat.",
+      "sourceUrl": "https://github.com/klad-app/klad"
+    },
+    {
+      "id": "content-item_2026-11-12_08_alphagenome-2-finds-more-cell-specific-dna-effects-it-is-not-a-diagnosis_5b916f1b",
       "sourceKind": "research",
       "sourceName": "Google DeepMind",
-      "title": "Agents proved key properties of Signal's code. Humans checked the spec and 1 percent of the proof.",
-      "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      "title": "AlphaGenome 2 finds more cell-specific DNA effects. It is not a diagnosis.",
+      "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     },
     {
-      "id": "content-item_2026-11-11_05_a-us-shop-can-claim-a-chatgpt-profile-and-answer-from-its-own-agent_03fce933",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "A US shop can claim a ChatGPT profile and answer from its own agent",
-      "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt/"
+      "id": "content-item_2026-11-12_09_coreweave-wants-customers-to-pay-before-the-gpus-are-fully-built_c063829a",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "CoreWeave wants customers to pay before the GPUs are fully built",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
     },
     {
-      "id": "content-item_2026-11-11_06_on-upwork-ai-related-jobs-paid-more-because-the-brief-got-wider_3588ceed",
+      "id": "content-item_2026-11-12_10_openai-says-it-can-stop-a-research-job-s-model-output-in-35-seconds_2881e5b1",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "On Upwork, AI-related jobs paid more because the brief got wider",
-      "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work"
+      "title": "OpenAI says it can stop a research job's model output in 35 seconds",
+      "sourceUrl": "https://openai.com/index/control-room/"
     },
     {
-      "id": "content-item_2026-11-11_07_hugging-face-added-a-pipeline-that-returns-a-choice-not-a-paragraph_3229de0d",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "Hugging Face added a pipeline that returns a choice, not a paragraph",
-      "sourceUrl": "https://huggingface.co/blog/decision"
-    },
-    {
-      "id": "content-item_2026-11-11_08_a-humanoid-sorted-car-parts-at-96-percent-the-model-is-for-partners-not_a98763b8",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "A humanoid sorted car parts at 96 percent. The model is for partners, not a home robot.",
-      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-    },
-    {
-      "id": "content-item_2026-11-11_09_tsmc-s-board-approved-up-to-500-million-each-for-anthropic-and-openai_139484b5",
-      "sourceKind": "article",
-      "sourceName": "TSMC",
-      "title": "TSMC's board approved up to $500 million each for Anthropic and OpenAI",
-      "sourceUrl": "https://pr.tsmc.com/english/news/3352"
-    },
-    {
-      "id": "content-item_2026-11-11_10_gemini-will-show-the-memory-summary-you-can-correct-it-us-paid-plans-onl_9f50f4db",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini will show the memory summary. You can correct it. US paid plans only.",
-      "sourceUrl": "https://support.google.com/gemini/answer/18617127"
-    },
-    {
-      "id": "content-item_2026-11-11_11_homeassistant-ai-ha-mcp-an-assistant-that-can-change-the-house-if-you-gi_81f33d0f",
+      "id": "content-item_2026-11-12_11_shadcn-improve-the-expensive-model-writes-the-plan-a-cheaper-one-does-th_9b895686",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "homeassistant-ai/ha-mcp: an assistant that can change the house, if you give it an admin token",
-      "sourceUrl": "https://github.com/homeassistant-ai/ha-mcp"
+      "title": "shadcn/improve: the expensive model writes the plan, a cheaper one does the edit",
+      "sourceUrl": "https://github.com/shadcn/improve"
     },
     {
-      "id": "content-item_2026-11-11_12_whitetowerai-ohmygame-one-app-for-a-game-still-in-beta-still-your-api-ke_71745e81",
+      "id": "content-item_2026-11-12_12_aminblg-simpleenglish-an-agent-skill-for-short-controlled-technical-sent_8f1425b3",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "WhiteTowerAI/ohmygame: one app for a game, still in beta, still your API key",
-      "sourceUrl": "https://github.com/WhiteTowerAI/ohmygame"
+      "title": "AminBlg/SimpleEnglish: an agent skill for short, controlled technical sentences",
+      "sourceUrl": "https://github.com/AminBlg/SimpleEnglish"
     },
     {
-      "id": "content-item_2026-11-11_13_ashishpatel26-500-ai-agents-projects-a-catalog-of-agent-ideas-not-an-age_6a5f2d3f",
+      "id": "content-item_2026-11-12_13_openai-codex-security-a-scanner-for-your-own-repo-with-a-spend-limit_65f8a2e3",
       "sourceKind": "github",
       "sourceName": "GitHub trending",
-      "title": "ashishpatel26/500-AI-Agents-Projects: a catalog of agent ideas, not an agent",
-      "sourceUrl": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+      "title": "openai/codex-security: a scanner for your own repo, with a spend limit",
+      "sourceUrl": "https://github.com/openai/codex-security"
     }
   ]
 }

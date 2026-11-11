@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_05_yogurt-takes-meeting-notes-on-your-computer-without-joining-the-call_f6b29b4e",
+  "sourceKind": "product",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/FrigadeHQ/yogurt",
+  "canonicalUrl": "https://github.com/FrigadeHQ/yogurt",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "Yogurt takes meeting notes on your computer, without joining the call",
+  "friendlyTitle": "Yogurt writes meeting notes on your computer, and does not join the call",
+  "summary": "Frigade released Yogurt, a free open-source app for private AI meeting notes. It records the call from your computer and does not add a bot to the meeting. Downloads cover Apple-silicon Mac, Windows, and Linux. The project lists local speech and language models, and it asks for 8 GB of memory. The license is MIT. The latest release on the page is 0.3.5, dated 11 November.",
+  "friendlySummary": "Yogurt is a free, open-source app for meeting notes. It records from your computer. It does not add a bot to the meeting. You can download it for a recent Apple-silicon Mac, Windows, or Linux. It uses local speech and language models, and it needs 8 GB of memory. The latest release is 0.3.5, from 11 November.",
+  "whyItMatters": "A notes bot in the call is visible, and the audio often leaves the room. Yogurt is the other design: the app sits with you, and the notes are meant to stay on the machine. That is useful for a client call you cannot invite a bot into. It is new, at 173 stars, and it is not a hosted workspace. If you need shared team memory, this is not that product.",
+  "friendlyWhyItMatters": "A notes bot is visible in the call, and the audio often leaves your computer. Yogurt is built to keep the notes on the machine. That helps when you cannot invite a bot to a client call. It is new, and it is not a shared team workspace.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

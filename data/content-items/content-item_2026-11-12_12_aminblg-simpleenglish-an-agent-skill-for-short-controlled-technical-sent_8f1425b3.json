@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_12_aminblg-simpleenglish-an-agent-skill-for-short-controlled-technical-sent_8f1425b3",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/AminBlg/SimpleEnglish",
+  "canonicalUrl": "https://github.com/AminBlg/SimpleEnglish",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "AminBlg/SimpleEnglish: an agent skill for short, controlled technical sentences",
+  "friendlyTitle": "SimpleEnglish asks an agent to write short, plain technical sentences",
+  "summary": "SimpleEnglish is an agent skill that pushes a model toward ASD-STE100 Simplified Technical English. It paraphrases the writing rules and does not ship the official dictionary. Version 2.1.2, released 10 November, allows a list or a table when the content is steps, parallel items, or a comparison. It gained 29 stars on GitHub's daily Python trending list, with 4,370 in total. The license is MIT. It is not affiliated with ASD.",
+  "friendlySummary": "SimpleEnglish is an agent skill for Simplified Technical English. It teaches the writing rules in its own words. It does not include the official word list. Version 2.1.2, from 10 November, allows a list or a table for steps or a comparison. It gained 29 stars on GitHub's daily Python list and has 4,370 in total. It is not an official ASD project.",
+  "whyItMatters": "Use it when an agent writes instructions, release notes, or support replies and you need short sentences with a controlled vocabulary. It will not choose the approved word for you. The project says you still need your own copy of the standard if you want the dictionary check. Read the output. A simpler sentence can still be the wrong instruction.",
+  "friendlyWhyItMatters": "Use it when an agent writes instructions or support replies and you want short, controlled sentences. It will not pick the approved word for you. You still need your own copy of the standard for the dictionary check. Read the result. A shorter sentence can still be the wrong instruction.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

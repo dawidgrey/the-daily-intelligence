@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_09_coreweave-wants-customers-to-pay-before-the-gpus-are-fully-built_c063829a",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "CoreWeave wants customers to pay before the GPUs are fully built",
+  "friendlyTitle": "CoreWeave is asking customers to pay before the computers are fully built",
+  "summary": "CoreWeave's third-quarter results, as reported by TechCrunch from the company's earnings, show $3.66 billion in revenue, up 168 percent from a year earlier, a $709 million net loss, and $846 million in interest expense. The company expects about $9 billion in customer prepayments and deposits over the next three months. Chief executive Michael Intrator said CoreWeave will not fund the business with unsecured debt at current yields. Prices rose about 25 percent in July and another 10 percent later in the quarter.",
+  "friendlySummary": "TechCrunch reports CoreWeave's third-quarter results. Revenue was $3.66 billion, up 168 percent from a year earlier. The company still lost $709 million, and interest cost $846 million. It expects about $9 billion in customer prepayments over the next three months. The chief executive said the company will not borrow without security at today's rates.",
+  "whyItMatters": "If you buy GPU capacity, the contract shape is changing. Intrator said short-term capacity is selling at more than $40 million per megawatt a year, against $20 million to $25 million on new four- and five-year deals. Paying up front can lock a price that looks cheap now and expensive later, or the reverse. The backlog is $132.5 billion. The demand is real on these numbers. The financing is not settled.",
+  "friendlyWhyItMatters": "If you rent AI computer power, the deal is changing. Short contracts are much more expensive than four- and five-year deals. Paying early can lock a price that later looks too high, or too low. Demand is strong on these numbers. The way it is being paid for is not settled.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

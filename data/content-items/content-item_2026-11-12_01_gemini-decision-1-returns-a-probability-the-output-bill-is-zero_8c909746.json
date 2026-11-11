@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_01_gemini-decision-1-returns-a-probability-the-output-bill-is-zero_8c909746",
+  "sourceKind": "product",
+  "sourceName": "Google AI Studio",
+  "sourceUrl": "https://aistudio.google.com/docs/models/gemini-decision-1",
+  "canonicalUrl": "https://aistudio.google.com/docs/models/gemini-decision-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "Gemini Decision 1 returns a probability. The output bill is zero.",
+  "friendlyTitle": "Google's new model picks an answer. It does not write a paragraph.",
+  "summary": "Google's Decisions API, using gemini-decision-1, scores typed questions over text, images, video, audio, and PDFs and returns a calibrated probability. A request can ask up to 1,000 questions in one pass. Questions cannot see each other. Output tokens are always zero. On the paid tier, input is $0.10 per million tokens. The free tier is free of charge, and Google says that free-tier content is used to improve its products.",
+  "friendlySummary": "Gemini Decision 1 looks at text, pictures, video, audio, or a PDF and returns a score, not a paragraph. You can ask up to 1,000 separate questions in one call. The questions cannot see each other. On the paid plan, input costs $0.10 per million tokens. Output costs nothing, because there is no written answer. The free plan is free, and Google may use that content to improve its products.",
+  "whyItMatters": "Use it when the next step is a yes, a queue, or a severity score, not a written explanation. A yes/no answer is always between 0.01 and 0.99, so a check above 0.99 never matches. It does not support batch jobs, context caching, or tool calls. Yesterday's note covered a different decision model at Hugging Face. This one is Google's, and the free tier is not private.",
+  "friendlyWhyItMatters": "Use it when you need a yes, a department, or a severity score, and your code can act on the number. A yes/no score never reaches 1.00, so do not write a rule that waits for a perfect yes. It cannot run in a batch, and it cannot call tools. The free plan is not private.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

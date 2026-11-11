@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_02_united-tells-personal-agents-they-cannot-finish-the-booking_62ffa050",
+  "sourceKind": "article",
+  "sourceName": "United Airlines",
+  "sourceUrl": "https://www.united.com/en/us/newsroom/announcements/cision-125496",
+  "canonicalUrl": "https://www.united.com/en/us/newsroom/announcements/cision-125496",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "United tells personal agents they cannot finish the booking",
+  "friendlyTitle": "United says a personal AI assistant cannot finish your booking",
+  "summary": "On 11 November, United said it is restricting unauthorized third-party personal AI agents on its own sites and through travel agencies and aggregators. The airline says sharing an account with an assistant can expose data, and that an agent can buy a ticket, change a booking, or spend MileagePlus miles without the customer meaning to. It also says automated check-in can conflict with rules that require a person to confirm a bag contains no banned items.",
+  "friendlySummary": "On 11 November, United said it will block personal AI assistants that were not approved to use its site or a travel agency. The airline says sharing your login can expose private data. An assistant might also buy a ticket, change a trip, or spend miles when you did not mean to. Check-in still needs a person to confirm the bag is allowed.",
+  "whyItMatters": "If an assistant books your travel, this is a wall, not a prompt problem. United is changing booking, ticketing, and distribution policy, and it says it will update its Digital Trust Center so customers can see what the limits mean and what to do if an agent already acted. The notice does not ban United's own app. It targets personal agents you did not authorize on United's systems.",
+  "friendlyWhyItMatters": "If you were going to let an assistant book the flight, United is closing that door. The airline says it will explain the new limits on its help pages, and what to do if an assistant already changed a booking. This is about outside assistants, not United's own app.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

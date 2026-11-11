@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_13_openai-codex-security-a-scanner-for-your-own-repo-with-a-spend-limit_65f8a2e3",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/openai/codex-security",
+  "canonicalUrl": "https://github.com/openai/codex-security",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "openai/codex-security: a scanner for your own repo, with a spend limit",
+  "friendlyTitle": "Codex Security scans your own code and can stop when the budget runs out",
+  "summary": "Codex Security is OpenAI's command-line tool and TypeScript kit for scanning a codebase, checking whether a reported weakness is real, and proposing a fix. Release 0.9.1 shipped on 10 November. A commit on 11 November keeps a scan's budget across retries. It gained 20 stars on GitHub's daily trending list, with 11,611 in total. It is published on npm as @openai/codex-security.",
+  "friendlySummary": "Codex Security is OpenAI's tool for scanning a code project, checking whether a reported weakness is real, and suggesting a fix. Version 0.9.1 came out on 10 November. A change on 11 November keeps the scan inside a spending limit, including retries. It gained 20 stars on GitHub's daily list and has 11,611 in total.",
+  "whyItMatters": "Use it to review a repository you own before you merge, and to cap what the scan is allowed to spend. A proposed fix is a draft. You still read the diff. It is not a reason to point an agent at a system you do not control. Twenty stars in a day is a small move on a large repo. The useful change this week is the budget, not the star count.",
+  "friendlyWhyItMatters": "Use it on a project you own, before you merge, and set a limit on what the scan can spend. A suggested fix is a draft. You still read the change. Do not point it at a system you do not control. The useful update this week is the spending limit, not the star count.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

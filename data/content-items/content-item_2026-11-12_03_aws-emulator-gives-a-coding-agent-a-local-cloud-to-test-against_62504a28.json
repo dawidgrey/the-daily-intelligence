@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_03_aws-emulator-gives-a-coding-agent-a-local-cloud-to-test-against_62504a28",
+  "sourceKind": "product",
+  "sourceName": "All Things Distributed",
+  "sourceUrl": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+  "canonicalUrl": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "AWS Emulator gives a coding agent a local cloud to test against",
+  "friendlyTitle": "Amazon gave coding agents a free local copy of AWS",
+  "summary": "On 11 November, Amazon released AWS Emulator, a free local copy of AWS that coding agents can call without the live cloud. Swami Sivasubramanian writes that agents built it from more than 400 public API models covering more than 200 services, then tested it against real AWS. The code is dedicated to the public domain under CC0. The commit history, and a folder of behaviors that still do not match AWS, are public.",
+  "friendlySummary": "On 11 November, Amazon released AWS Emulator. It is a free copy of AWS that runs on your own computer, with no cloud connection. Agents built it from public descriptions of more than 200 services, then checked it against the real AWS. The code is public. So is a list of things that still do not match.",
+  "whyItMatters": "An agent that writes cloud code needs a service that answers like the real one, or it cannot check its own work. The useful shift is the job around that loop. Sivasubramanian says the engineer now writes the spec, the tests, and the merge gate, and that a rebuild which once took months finished in about two hours once the agent had those. A local pass is not a production pass. The known gaps are listed on purpose.",
+  "friendlyWhyItMatters": "A coding agent can only fix what it can run. This lets it test cloud code before you pay for a real service. The engineer's job moves to the rules: what the code should do, how to test it, and what must pass before a change is kept. A local test is not the same as production. Read the list of known gaps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_11_shadcn-improve-the-expensive-model-writes-the-plan-a-cheaper-one-does-th_9b895686",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending",
+  "sourceUrl": "https://github.com/shadcn/improve",
+  "canonicalUrl": "https://github.com/shadcn/improve",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "shadcn/improve: the expensive model writes the plan, a cheaper one does the edit",
+  "friendlyTitle": "improve lets a strong model write the plan, and a cheaper model do the edit",
+  "summary": "improve is an agent skill that audits a repository and writes implementation plans for another agent to carry out. It does not edit source code. Plans land in a plans folder as plain markdown. It gained 333 stars on GitHub's daily trending list, with 10,718 in total. The license is MIT. The latest commit on the default branch was 12 September.",
+  "friendlySummary": "improve is an agent skill that reviews a code project and writes a plan for another agent to follow. It does not change the code itself. The plans are ordinary markdown files. It gained 333 stars on GitHub's daily list and has 10,718 in total. The last commit was 12 September.",
+  "whyItMatters": "Use it when you want the capable model to decide what is worth doing, and a cheaper model to make the change from a written plan. You still read the plan and you still merge. The star jump is renewed interest, not a release from this week. Run it on a repo you control. Do not treat the findings table as a security review by itself.",
+  "friendlyWhyItMatters": "Use it when the expensive model should choose the work, and a cheaper model should make the edit from a written plan. You still read the plan, and you still accept the change. The new stars are interest, not a new release this week. Run it only on a project you control.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

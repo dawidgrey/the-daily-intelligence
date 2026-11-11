@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-12",
+  "slug": "2026-11-12",
+  "status": "published",
+  "publicationDateUtc": "2026-11-11T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "A choice no longer needs a paragraph. A booking still needs you.",
+  "friendlyHeader": "A small model can pick the answer. You still have to book the flight.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Google shipped a model that returns a probability, not a paragraph. United told personal agents they cannot finish a booking. The rest is what that split does to cloud tests, meeting notes, Australian rules, and the price of a GPU.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Google released a model that returns a choice, not a paragraph. United said a personal assistant cannot finish a flight booking. The other items cover cloud tests, meeting notes, Australian rules, and the price of computer power.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-12_01_gemini-decision-1-returns-a-probability-the-output-bill-is-zero_8c909746",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_02_united-tells-personal-agents-they-cannot-finish-the-booking_62ffa050",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_03_aws-emulator-gives-a-coding-agent-a-local-cloud-to-test-against_62504a28",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_04_australia-may-require-companies-to-report-an-ai-incident-and-to-prevent_c255e450",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_05_yogurt-takes-meeting-notes-on-your-computer-without-joining-the-call_f6b29b4e",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_06_an-australian-law-firm-says-87-percent-of-enabled-staff-use-chatgpt_f28f90d2",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_07_klad-lets-an-agent-draw-a-larger-company-needs-a-paid-seat_3f42633d",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_08_alphagenome-2-finds-more-cell-specific-dna-effects-it-is-not-a-diagnosis_5b916f1b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_09_coreweave-wants-customers-to-pay-before-the-gpus-are-fully-built_c063829a",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_10_openai-says-it-can-stop-a-research-job-s-model-output-in-35-seconds_2881e5b1",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_11_shadcn-improve-the-expensive-model-writes-the-plan-a-cheaper-one-does-th_9b895686",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_12_aminblg-simpleenglish-an-agent-skill-for-short-controlled-technical-sent_8f1425b3",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-12_13_openai-codex-security-a-scanner-for-your-own-repo-with-a-spend-limit_65f8a2e3",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-12.json",
+    "itemCount": 13
+  }
+}

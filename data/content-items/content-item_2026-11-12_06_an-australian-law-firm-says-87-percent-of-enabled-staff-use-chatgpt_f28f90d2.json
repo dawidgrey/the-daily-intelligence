@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_06_an-australian-law-firm-says-87-percent-of-enabled-staff-use-chatgpt_f28f90d2",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "canonicalUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "An Australian law firm says 87 percent of enabled staff use ChatGPT",
+  "friendlyTitle": "An Australian law firm says most enabled staff now use ChatGPT",
+  "summary": "On 12 November, OpenAI published an interview with Sam Nickless, chief executive of Gilbert + Tobin, an Australian corporate law firm. He says 87 percent of enabled ChatGPT users are active, more than twice the firm's usual rate for a new tool. He also says a confidential partner-review job, run in ChatGPT Work, cost about $62. The firm says people still define the task, check the output, and own the result.",
+  "friendlySummary": "On 12 November, OpenAI published an interview with Sam Nickless, the chief executive of Gilbert + Tobin. He says 87 percent of staff who were given ChatGPT use it. That is more than twice the firm's usual rate for a new tool. He also says one confidential review job cost about $62. People still have to check the work and own the result.",
+  "whyItMatters": "This is the firm's account, on OpenAI's site, not an independent audit. The useful part is the boundary he describes. A custom assistant can hold his writing and working style so a report can test a draft before the meeting. He says it does not decide, and it does not speak for him. If you run a professional firm, the check is the same: a secure tenant, no client data in the open tool, and a person on the final work.",
+  "friendlyWhyItMatters": "This is the firm's story, on OpenAI's website. It is not an outside audit. The useful limit is clear. A custom assistant can help a person test a draft. Nickless says it does not make the decision, and it does not speak for him. Keep client data out of the open tool, and keep a person on the final work.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}

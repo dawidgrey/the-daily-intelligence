@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-12_08_alphagenome-2-finds-more-cell-specific-dna-effects-it-is-not-a-diagnosis_5b916f1b",
+  "sourceKind": "research",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "canonicalUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-11T20:10:32Z",
+  "createdAtUtc": "2026-11-11T20:10:32Z",
+  "updatedAtUtc": "2026-11-11T20:10:32Z",
+  "title": "AlphaGenome 2 finds more cell-specific DNA effects. It is not a diagnosis.",
+  "friendlyTitle": "A new DNA model is better at cell-specific effects. It is not a medical test.",
+  "summary": "On 11 November, DeepMind released AlphaGenome 2, a model that predicts how a DNA change acts in a specific cell type rather than in a tissue average. On the TenK10K immune-cell set, DeepMind says it identified 30 percent of causal variants, against 16 percent for the previous model, and 43 percent of directional gene effects, against 23 percent. It is available for non-commercial research through an API. Commercial use is in private preview.",
+  "friendlySummary": "On 11 November, DeepMind released AlphaGenome 2. It predicts how a DNA change acts in one kind of cell, not just in a whole tissue. On one immune-cell test, DeepMind says it found 30 percent of the causal variants, up from 16 percent. It is open for non-commercial research. Companies can apply for a private preview.",
+  "whyItMatters": "A variant can matter in one cell type and not in another. A tissue average misses that. Researchers can now ask the model about a cell state it was not trained on, including from a small single-cell sample. DeepMind says it is for research only, and it has not been validated for clinical or diagnostic use. A better ranking of variants is not a test result for a patient.",
+  "friendlyWhyItMatters": "The same DNA change can matter in one cell and not in another. This model is built for that difference. DeepMind says it is for research only. It is not approved as a medical test. A better research ranking is not a result for a patient.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-12"
+  }
+}
