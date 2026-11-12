@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-13",
+  "slug": "2026-11-13",
+  "status": "published",
+  "publicationDateUtc": "2026-11-12T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "The everyday model got a price. The chip company got a new chief.",
+  "friendlyHeader": "Google priced a faster everyday model. Nvidia changed its chief.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Google priced a fast model for the jobs that do not need its deepest one. Nvidia said its chief executive has resigned, and named the finance chief to stand in. The rest is what that split does to a chat log, a phone call, a shopping answer, and a model you can run yourself.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Google released a model for ordinary jobs, with a clear price. Nvidia said its chief executive has resigned, and the finance chief will stand in. The other items cover a chat leak, phone calls, shopping answers, and tools you can run yourself.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-13_01_gemini-4-hydrogen-is-1-50-in-and-7-50-out-the-free-app-may-not-pick-it_ec9fd407",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_02_jensen-huang-resigned-colette-kress-is-interim-chief-and-still-cfo_b8785a00",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_03_notion-says-a-vendor-kept-chat-text-it-had-promised-not-to-keep_a7266a93",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_04_scribe-v3-live-is-meant-to-wait-for-the-end-of-the-sentence_9fcb62f6",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_05_ibm-marked-instructions-apart-from-the-data-the-models-are-a-preview_a88bddb1",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_06_an-0-8b-assistant-calls-tools-on-the-device-it-is-not-for-a-high-stakes_b22522d1",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_07_ai-shopping-answers-recommended-risky-sites-6-3-times-more-often-than-th_6343eb17",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_08_a-fake-spacex-event-page-was-still-asking-for-a-work-login_886e9406",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_09_a-fed-governor-says-the-labor-share-hit-52-8-percent-that-is-his-view-no_c726a8b2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_10_phota-says-it-can-fix-the-shot-without-inventing-a-new-face_d0b6d30c",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_11_googlechrome-modern-web-guidance-src-a-skill-pack-so-the-agent-stops-wri_95c23a9a",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_12_ggml-org-llama-cpp-local-model-inference-still-the-day-s-third-ai-climb_7d8321c3",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-13_13_qwenlm-qwen-code-a-terminal-coding-agent-you-can-point-at-more-than-one_5ad23f0e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-13.json",
+    "itemCount": 13
+  }
+}

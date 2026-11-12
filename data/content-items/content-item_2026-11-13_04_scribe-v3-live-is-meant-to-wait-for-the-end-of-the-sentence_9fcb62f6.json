@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_04_scribe-v3-live-is-meant-to-wait-for-the-end-of-the-sentence_9fcb62f6",
+  "sourceKind": "product",
+  "sourceName": "ElevenLabs",
+  "sourceUrl": "https://elevenlabs.io/blog/scribe-v3",
+  "canonicalUrl": "https://elevenlabs.io/blog/scribe-v3",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "Scribe v3 Live is meant to wait for the end of the sentence",
+  "friendlyTitle": "A new speech model is meant to stop cutting people off mid-sentence",
+  "summary": "ElevenLabs released Scribe v3 for recorded audio and Scribe v3 Live for real-time speech. The company says v3 makes 27 percent fewer word errors than v2 across 102 languages, and that Live makes 43 percent fewer errors than Scribe v2 Realtime. Live also labels speakers in real time for the first time. Both are in the ElevenLabs API now. The model IDs are scribe_v3 and scribe_v3_live. Live is also in ElevenAgents.",
+  "friendlySummary": "ElevenLabs released two speech-to-text models. Scribe v3 is for recordings. Scribe v3 Live is for live calls. The company says v3 makes 27 percent fewer word errors than the last version, across 102 languages. Live makes 43 percent fewer errors than the last live model, and it can label who is speaking in real time. Both are available in the developer API now.",
+  "whyItMatters": "A voice agent that waits only for silence will cut someone off while they read a number. Live uses the conversation, not just the pause, to decide the turn is over. You can preload up to 1,000 terms you know will appear, and a larger library for terms that might. Enterprise customers can use isolated servers in the EU, India, or Singapore, and a zero-retention mode that deletes audio and text when the request ends. These accuracy figures are ElevenLabs' own tests.",
+  "friendlyWhyItMatters": "A phone agent that only waits for silence will interrupt someone who pauses to read a number. The live model uses the conversation, not just the pause, to decide the person has finished. You can give it up to 1,000 names or terms you know will come up. Business customers can keep the audio in the EU, India, or Singapore, and ask for it to be deleted when the request ends. The accuracy numbers are the company's own.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

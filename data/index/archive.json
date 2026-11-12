@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-11T20:10:33Z",
+  "generatedAtUtc": "2026-11-12T20:09:32Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-13",
+      "slug": "2026-11-13",
+      "status": "published",
+      "publicationDateUtc": "2026-11-12T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The everyday model got a price. The chip company got a new chief.",
+      "friendlyHeader": "Google priced a faster everyday model. Nvidia changed its chief.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Google priced a fast model for the jobs that do not need its deepest one. Nvidia said its chief executive has resigned, and named the finance chief to stand in. The rest is what that split does to a chat log, a phone call, a shopping answer, and a model you can run yourself.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Google released a model for ordinary jobs, with a clear price. Nvidia said its chief executive has resigned, and the finance chief will stand in. The other items cover a chat leak, phone calls, shopping answers, and tools you can run yourself.",
+      "itemCount": 13,
+      "href": "issues/2026-11-13.html",
+      "dataUrl": "data/daily-publications/2026-11-13.json"
+    },
     {
       "id": "daily-publication_2026-11-12",
       "slug": "2026-11-12",

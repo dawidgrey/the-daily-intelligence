@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_06_an-0-8b-assistant-calls-tools-on-the-device-it-is-not-for-a-high-stakes_b22522d1",
+  "sourceKind": "research",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/qvac/botpsy",
+  "canonicalUrl": "https://huggingface.co/blog/qvac/botpsy",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "An 0.8B assistant calls tools on the device. It is not for a high-stakes job.",
+  "friendlyTitle": "A small model can use tools on your own device. It is not for important decisions.",
+  "summary": "On 11 November, Tether's QVAC group released BotPsy, a 0.8 billion-parameter model built on Qwen3.5-0.8B for tool use on a device. The authors say it is for low- and medium-difficulty tasks such as search, calendar, files, and simple commerce, and that it is not for high-stakes use. On their tests it leads models up to 1.2 billion parameters on six tool benchmarks, and beats a 2 billion-parameter Qwen on five of the six. Weights and GGUF files are on Hugging Face.",
+  "friendlySummary": "On 11 November, a Tether research group released BotPsy. It has 0.8 billion parameters and is built to call tools on a device, not in the cloud. The authors say it fits simple jobs, such as search, calendar, files, and basic shopping help. They say it is not for high-stakes use. On their tests it beat other small models, including a model more than twice its size on five of six tool tests. The files are on Hugging Face.",
+  "whyItMatters": "A routine tool call does not need a frontier bill, and it does not need to leave the machine. The useful limit is in the same post. On the authors' red-team, BotPsy still produced an unsafe response 21 percent of the time, down from 36 percent for its base model. Under prompt injection, that rate was 31 percent. A smaller local model can draft the next step. It should not be the only check on a payment, a medical note, or a message you cannot take back.",
+  "friendlyWhyItMatters": "A simple tool call does not need an expensive cloud model, and it does not have to leave your computer. The same post gives the limit. In the authors' own safety tests, BotPsy still gave an unsafe answer 21 percent of the time. A hidden instruction in tool output still got through 31 percent of the time. It can draft a next step. It should not be the only check on a payment, a medical note, or a message you cannot undo.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

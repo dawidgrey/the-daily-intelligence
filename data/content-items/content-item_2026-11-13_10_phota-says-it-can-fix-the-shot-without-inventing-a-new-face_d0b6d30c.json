@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_10_phota-says-it-can-fix-the-shot-without-inventing-a-new-face_d0b6d30c",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "Phota says it can fix the shot without inventing a new face",
+  "friendlyTitle": "A new iPhone app says it can improve a photo without changing the person",
+  "summary": "TechCrunch reported on 12 November that Phota Labs, founded by former Adobe computational-photography engineers Cecilia Zhang and Zach Xia, launched a free iPhone app that restyles everyday photos. The founders say their identity model is meant to keep the person recognizable, unlike a general image tool that invents a face when the source is blurry. Edited images carry an invisible watermark. Android is planned. A freemium price is planned later. The company raised a $5.6 million seed round led by a16z last year.",
+  "friendlySummary": "On 12 November, TechCrunch reported that Phota Labs launched a free iPhone app. The founders used to work on photo tools at Adobe. They say the app can restyle an everyday photo while keeping the person recognizable, even when the original is blurry. Edited photos carry a hidden watermark. An Android app is planned. A paid tier is planned later. The company raised $5.6 million in seed funding last year.",
+  "whyItMatters": "The useful test is whether the person in the picture is still the person. That claim comes from the founders, via TechCrunch, not from an independent check. A watermark helps a platform mark the file as AI-edited. It does not tell the person you send it to. The app is free while they build a user base. If you need a record of what the camera actually saw, keep the original.",
+  "friendlyWhyItMatters": "The useful test is simple: is the person in the new photo still the same person? That claim comes from the founders, not from an outside test. A hidden watermark can tell a platform the file was edited. It does not tell the person you send it to. The app is free for now. If you need the picture the camera actually took, keep the original.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

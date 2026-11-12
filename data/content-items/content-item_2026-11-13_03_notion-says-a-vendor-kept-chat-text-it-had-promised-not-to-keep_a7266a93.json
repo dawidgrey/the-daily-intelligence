@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_03_notion-says-a-vendor-kept-chat-text-it-had-promised-not-to-keep_a7266a93",
+  "sourceKind": "article",
+  "sourceName": "Notion",
+  "sourceUrl": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+  "canonicalUrl": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "Notion says a vendor kept chat text it had promised not to keep",
+  "friendlyTitle": "Notion says a vendor kept chat text from some workspaces",
+  "summary": "Notion says Fireworks AI notified it of a security incident affecting fewer than 1 percent of workspaces. The exposed text is Notion AI chat input and output that Notion had sent to Fireworks for the Insights feature. On 3 November, Notion says it disconnected Fireworks, deleted the data held there, stopped sending traffic, and halted training runs. Insights is off while Notion investigates. Meeting-note audio was not affected unless someone pasted it into a chat.",
+  "friendlySummary": "Notion says Fireworks AI told it about a security incident. Fewer than 1 percent of workspaces were affected. The exposed text is what people typed into Notion AI, and what the model wrote back, for a feature called Insights. On 3 November, Notion says it cut Fireworks off, deleted the data held there, and stopped training runs. Meeting audio was not taken unless someone pasted it into a chat.",
+  "whyItMatters": "If neither you nor a workspace owner has heard from Notion, the company says it has not identified your workspace as affected. The investigation is still open. Affected owners can review the text on a desktop browser under the question-mark menu, then Security incident review. If anyone pasted a password or an API key into Notion AI, rotate it. Notion says a zero-retention promise did not cover Insights, because Notion itself stored those chats to run the feature, and the vendor retained data anyway.",
+  "friendlyWhyItMatters": "If Notion has not emailed you or your workspace owner, it says your workspace was not identified as affected. The check is not finished. Affected owners can review the text on a computer, not in the phone app, under the question-mark menu. If anyone pasted a password or a key into Notion AI, change it. A promise not to keep data did not cover this feature, because Notion stored the chats to run it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

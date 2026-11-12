@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_01_gemini-4-hydrogen-is-1-50-in-and-7-50-out-the-free-app-may-not-pick-it_ec9fd407",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "Gemini 4 Hydrogen is $1.50 in and $7.50 out. The free app may not pick it.",
+  "friendlyTitle": "Google's new everyday model has a clear price. The free app may not use it.",
+  "summary": "On 12 November, Google introduced Gemini 4 Hydrogen as the fast model for everyday coding and agent work, not the deep-reasoning model. Carbon and Argon remain those. The price is flat across a 1 million-token window: $1.50 per million input tokens and $7.50 per million output tokens. At the default high thinking level, Google says Hydrogen scores 51 on the Artificial Analysis Intelligence Index, against 50 for Argon, and 54 at a new xhigh setting.",
+  "friendlySummary": "On 12 November, Google released Gemini 4 Hydrogen. It is the fast model for ordinary coding and agent work. The deeper models are still Carbon and Argon. The price does not change with length, up to 1 million tokens: $1.50 per million tokens in, and $7.50 per million tokens out. Google says that, on one public index, Hydrogen scores 51 at its normal setting, against 50 for Argon.",
+  "whyItMatters": "Use it when the job is write, test, and check, and keep Carbon for the hard design pass. Developers can call it in AI Studio and the Gemini API today. Search has it for all users. In the Gemini app, a free account gets Hydrogen only when automatic model selection decides the prompt needs it. Antigravity, and Gemini in Sheets, start with paid Pro and Ultra plans. These benchmark figures are Google's.",
+  "friendlyWhyItMatters": "Use Hydrogen when you want the model to write, test, and check. Keep the deeper model for the hard design work. Developers can use it today. Search has it for everyone. On a free Gemini app account, Google picks Hydrogen only when it thinks the question needs it. The paid plans are the ones that can use it in Antigravity and in Sheets. The scores are Google's own.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

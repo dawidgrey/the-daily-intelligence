@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_07_ai-shopping-answers-recommended-risky-sites-6-3-times-more-often-than-th_6343eb17",
+  "sourceKind": "research",
+  "sourceName": "Podqi",
+  "sourceUrl": "https://podqi.com/research/ai-search-brand-risk",
+  "canonicalUrl": "https://podqi.com/research/ai-search-brand-risk",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "AI shopping answers recommended risky sites 6.3 times more often than they warned",
+  "friendlyTitle": "AI shopping answers recommended risky sites much more often than they warned",
+  "summary": "Podqi, an intellectual-property firm, published a September study of 6,795 shopping answers about 151 brands from ChatGPT, Gemini, and Perplexity. The data came from Gauge. Podqi says about 9 in 100 answers showed a risky site, meaning a lookalike, a suspected counterfeit store, or a dead domain. Of those answers, 57 percent recommended the site as a place to buy, and risky sites were recommended 6.3 times as often as they were warned against. The Verge featured the research. The page also sells Podqi's service.",
+  "friendlySummary": "Podqi, a firm that protects brands, studied 6,795 shopping answers from September about 151 brands. The answers came from ChatGPT, Gemini, and Perplexity. Podqi says about 9 in 100 answers showed a risky site: a lookalike, a suspected fake store, or a dead address. Of those, 57 percent recommended the site as a place to buy. Risky sites were recommended 6.3 times as often as they were warned against. The Verge wrote about the study. Podqi also sells a protection service.",
+  "whyItMatters": "If an assistant names a regional or official store, treat the URL as unverified and start from the brand's own site. Podqi says 367 of 718 risky domains were dead, so an address an answer keeps repeating can be registered later by someone else. The riskiest question in the study was the innocent one: does this brand ship to my country, and what are its regional sites. This is one firm's review of September answers, not a live audit of today's models.",
+  "friendlyWhyItMatters": "If an assistant gives you a regional or official store link, do not treat it as checked. Start from the brand's own website. Podqi says 367 of 718 risky addresses were dead, so a link an answer keeps repeating could be taken over later. The riskiest question was a simple one: does this brand ship to my country. This is one firm's look at September answers, not a check of today's models.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_08_a-fake-spacex-event-page-was-still-asking-for-a-work-login_886e9406",
+  "sourceKind": "article",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "A fake SpaceX event page was still asking for a work login",
+  "friendlyTitle": "Fake AI event pages are asking people to sign in with a work account",
+  "summary": "BleepingComputer reported on 5 November that attackers were using fake OpenAI, SpaceX, and Anthropic event pages to steal Microsoft and Google work accounts. Push Security said it blocked visits to the pages in late October. One page advertised a private SpaceX event on 12 November and offered Grok Heavy or a SpaceX share. The pages ask visitors to continue with Microsoft or Google. The Microsoft path uses a device-code login. The Google path proxies the real sign-in page.",
+  "friendlySummary": "On 5 November, BleepingComputer reported that attackers were using fake OpenAI, SpaceX, and Anthropic event pages to steal Microsoft and Google work accounts. One page advertised a private SpaceX event on 12 November and offered a reward for signing up. The pages ask you to continue with Microsoft or Google. The Microsoft path asks for a device code. The Google path shows a sign-in page that is not Google's.",
+  "whyItMatters": "Do not enter a Microsoft device code that a page you did not open yourself has given you, and do not sign in with a work account to claim a free AI plan. A device-code approval can hand over access without you typing a password on the attacker's site. A proxied Google login can take the session after you pass the second factor. If your company does not need device-code sign-in, turn it off. A phishing-resistant key is stronger than a code in a text message.",
+  "friendlyWhyItMatters": "Do not type a Microsoft device code that came from a page you did not open yourself. Do not sign in with a work account to claim a free AI plan. Approving a device code can give someone access without you typing a password on their site. A fake Google page can take the session after you pass the second check. If your company does not need device-code sign-in, turn it off.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

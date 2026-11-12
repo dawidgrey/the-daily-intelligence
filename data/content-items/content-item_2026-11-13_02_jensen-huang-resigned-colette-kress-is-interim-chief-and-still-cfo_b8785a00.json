@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_02_jensen-huang-resigned-colette-kress-is-interim-chief-and-still-cfo_b8785a00",
+  "sourceKind": "article",
+  "sourceName": "NVIDIA Newsroom",
+  "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+  "canonicalUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "Jensen Huang resigned. Colette Kress is interim chief, and still CFO.",
+  "friendlyTitle": "Nvidia's chief executive resigned. The finance chief is standing in.",
+  "summary": "On 12 November, Nvidia said Jensen Huang resigned as president, chief executive, and a board member, effective immediately. Colette Kress, chief financial officer since September 2013, is interim chief executive and keeps the finance job while the board searches for a permanent successor. Harvey C. Jones is the board's first chair. The announcement does not state a reason. Separate reporting has tied the resignation to personal allegations. Those claims are not in the company statement.",
+  "friendlySummary": "On 12 November, Nvidia said Jensen Huang resigned as president, chief executive, and a board member, effective immediately. Colette Kress, the finance chief since 2013, will lead for now and keep the finance job. The board will look for a permanent replacement. Harvey C. Jones is the board's first chair. The company statement does not say why Huang left. Other reports have tied it to personal allegations. Those claims are not in Nvidia's announcement.",
+  "whyItMatters": "If you buy Nvidia compute, or depend on its open models, the announcement says operations, customer commitments, and the product roadmap are expected to continue. It does not say the open-model program is unchanged in practice. Third-quarter results are still set for Tuesday 17 November, at about 1:20 p.m. Pacific time, with the call at 2 p.m. A leadership change is not, by itself, a change in what you can buy tomorrow.",
+  "friendlyWhyItMatters": "If you rent Nvidia computers, or use its open models, the company says day-to-day work, customer promises, and the product plan should continue. It does not prove the open-model work will stay the same. Results are still due on Tuesday 17 November. A new interim chief is not, by itself, a change in what you can buy tomorrow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

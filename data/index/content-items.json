@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-11T20:10:32Z",
+  "generatedAtUtc": "2026-11-12T20:09:31Z",
   "items": [
     {
-      "id": "content-item_2026-11-12_01_gemini-decision-1-returns-a-probability-the-output-bill-is-zero_8c909746",
+      "id": "content-item_2026-11-13_01_gemini-4-hydrogen-is-1-50-in-and-7-50-out-the-free-app-may-not-pick-it_ec9fd407",
       "sourceKind": "product",
-      "sourceName": "Google AI Studio",
-      "title": "Gemini Decision 1 returns a probability. The output bill is zero.",
-      "sourceUrl": "https://aistudio.google.com/docs/models/gemini-decision-1"
+      "sourceName": "Google",
+      "title": "Gemini 4 Hydrogen is $1.50 in and $7.50 out. The free app may not pick it.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
     },
     {
-      "id": "content-item_2026-11-12_02_united-tells-personal-agents-they-cannot-finish-the-booking_62ffa050",
+      "id": "content-item_2026-11-13_02_jensen-huang-resigned-colette-kress-is-interim-chief-and-still-cfo_b8785a00",
       "sourceKind": "article",
-      "sourceName": "United Airlines",
-      "title": "United tells personal agents they cannot finish the booking",
-      "sourceUrl": "https://www.united.com/en/us/newsroom/announcements/cision-125496"
+      "sourceName": "NVIDIA Newsroom",
+      "title": "Jensen Huang resigned. Colette Kress is interim chief, and still CFO.",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
     },
     {
-      "id": "content-item_2026-11-12_03_aws-emulator-gives-a-coding-agent-a-local-cloud-to-test-against_62504a28",
-      "sourceKind": "product",
-      "sourceName": "All Things Distributed",
-      "title": "AWS Emulator gives a coding agent a local cloud to test against",
-      "sourceUrl": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
-    },
-    {
-      "id": "content-item_2026-11-12_04_australia-may-require-companies-to-report-an-ai-incident-and-to-prevent_c255e450",
-      "sourceKind": "regulation",
-      "sourceName": "BBC",
-      "title": "Australia may require companies to report an AI incident, and to prevent the harm",
-      "sourceUrl": "https://www.bbc.com/news/articles/cmp3g37l566po"
-    },
-    {
-      "id": "content-item_2026-11-12_05_yogurt-takes-meeting-notes-on-your-computer-without-joining-the-call_f6b29b4e",
-      "sourceKind": "product",
-      "sourceName": "GitHub",
-      "title": "Yogurt takes meeting notes on your computer, without joining the call",
-      "sourceUrl": "https://github.com/FrigadeHQ/yogurt"
-    },
-    {
-      "id": "content-item_2026-11-12_06_an-australian-law-firm-says-87-percent-of-enabled-staff-use-chatgpt_f28f90d2",
+      "id": "content-item_2026-11-13_03_notion-says-a-vendor-kept-chat-text-it-had-promised-not-to-keep_a7266a93",
       "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "An Australian law firm says 87 percent of enabled staff use ChatGPT",
-      "sourceUrl": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      "sourceName": "Notion",
+      "title": "Notion says a vendor kept chat text it had promised not to keep",
+      "sourceUrl": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
     },
     {
-      "id": "content-item_2026-11-12_07_klad-lets-an-agent-draw-a-larger-company-needs-a-paid-seat_3f42633d",
+      "id": "content-item_2026-11-13_04_scribe-v3-live-is-meant-to-wait-for-the-end-of-the-sentence_9fcb62f6",
       "sourceKind": "product",
-      "sourceName": "GitHub",
-      "title": "Klad lets an agent draw. A larger company needs a paid seat.",
-      "sourceUrl": "https://github.com/klad-app/klad"
+      "sourceName": "ElevenLabs",
+      "title": "Scribe v3 Live is meant to wait for the end of the sentence",
+      "sourceUrl": "https://elevenlabs.io/blog/scribe-v3"
     },
     {
-      "id": "content-item_2026-11-12_08_alphagenome-2-finds-more-cell-specific-dna-effects-it-is-not-a-diagnosis_5b916f1b",
+      "id": "content-item_2026-11-13_05_ibm-marked-instructions-apart-from-the-data-the-models-are-a-preview_a88bddb1",
       "sourceKind": "research",
-      "sourceName": "Google DeepMind",
-      "title": "AlphaGenome 2 finds more cell-specific DNA effects. It is not a diagnosis.",
-      "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      "sourceName": "Hugging Face",
+      "title": "IBM marked instructions apart from the data. The models are a preview.",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     {
-      "id": "content-item_2026-11-12_09_coreweave-wants-customers-to-pay-before-the-gpus-are-fully-built_c063829a",
+      "id": "content-item_2026-11-13_06_an-0-8b-assistant-calls-tools-on-the-device-it-is-not-for-a-high-stakes_b22522d1",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face",
+      "title": "An 0.8B assistant calls tools on the device. It is not for a high-stakes job.",
+      "sourceUrl": "https://huggingface.co/blog/qvac/botpsy"
+    },
+    {
+      "id": "content-item_2026-11-13_07_ai-shopping-answers-recommended-risky-sites-6-3-times-more-often-than-th_6343eb17",
+      "sourceKind": "research",
+      "sourceName": "Podqi",
+      "title": "AI shopping answers recommended risky sites 6.3 times more often than they warned",
+      "sourceUrl": "https://podqi.com/research/ai-search-brand-risk"
+    },
+    {
+      "id": "content-item_2026-11-13_08_a-fake-spacex-event-page-was-still-asking-for-a-work-login_886e9406",
       "sourceKind": "article",
+      "sourceName": "BleepingComputer",
+      "title": "A fake SpaceX event page was still asking for a work login",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    },
+    {
+      "id": "content-item_2026-11-13_09_a-fed-governor-says-the-labor-share-hit-52-8-percent-that-is-his-view-no_c726a8b2",
+      "sourceKind": "article",
+      "sourceName": "Federal Reserve",
+      "title": "A Fed governor says the labor share hit 52.8 percent. That is his view, not a rate decision.",
+      "sourceUrl": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
+    },
+    {
+      "id": "content-item_2026-11-13_10_phota-says-it-can-fix-the-shot-without-inventing-a-new-face_d0b6d30c",
+      "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "CoreWeave wants customers to pay before the GPUs are fully built",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+      "title": "Phota says it can fix the shot without inventing a new face",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
     },
     {
-      "id": "content-item_2026-11-12_10_openai-says-it-can-stop-a-research-job-s-model-output-in-35-seconds_2881e5b1",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI says it can stop a research job's model output in 35 seconds",
-      "sourceUrl": "https://openai.com/index/control-room/"
-    },
-    {
-      "id": "content-item_2026-11-12_11_shadcn-improve-the-expensive-model-writes-the-plan-a-cheaper-one-does-th_9b895686",
+      "id": "content-item_2026-11-13_11_googlechrome-modern-web-guidance-src-a-skill-pack-so-the-agent-stops-wri_95c23a9a",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "shadcn/improve: the expensive model writes the plan, a cheaper one does the edit",
-      "sourceUrl": "https://github.com/shadcn/improve"
+      "sourceName": "GitHub",
+      "title": "GoogleChrome/modern-web-guidance-src: a skill pack so the agent stops writing last decade's web",
+      "sourceUrl": "https://github.com/GoogleChrome/modern-web-guidance-src"
     },
     {
-      "id": "content-item_2026-11-12_12_aminblg-simpleenglish-an-agent-skill-for-short-controlled-technical-sent_8f1425b3",
+      "id": "content-item_2026-11-13_12_ggml-org-llama-cpp-local-model-inference-still-the-day-s-third-ai-climb_7d8321c3",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "AminBlg/SimpleEnglish: an agent skill for short, controlled technical sentences",
-      "sourceUrl": "https://github.com/AminBlg/SimpleEnglish"
+      "sourceName": "GitHub",
+      "title": "ggml-org/llama.cpp: local model inference, still the day's third AI climb",
+      "sourceUrl": "https://github.com/ggml-org/llama.cpp"
     },
     {
-      "id": "content-item_2026-11-12_13_openai-codex-security-a-scanner-for-your-own-repo-with-a-spend-limit_65f8a2e3",
+      "id": "content-item_2026-11-13_13_qwenlm-qwen-code-a-terminal-coding-agent-you-can-point-at-more-than-one_5ad23f0e",
       "sourceKind": "github",
-      "sourceName": "GitHub trending",
-      "title": "openai/codex-security: a scanner for your own repo, with a spend limit",
-      "sourceUrl": "https://github.com/openai/codex-security"
+      "sourceName": "GitHub",
+      "title": "QwenLM/qwen-code: a terminal coding agent you can point at more than one provider",
+      "sourceUrl": "https://github.com/QwenLM/qwen-code"
     }
   ]
 }

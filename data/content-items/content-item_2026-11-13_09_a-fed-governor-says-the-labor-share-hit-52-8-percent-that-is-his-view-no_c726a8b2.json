@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_09_a-fed-governor-says-the-labor-share-hit-52-8-percent-that-is-his-view-no_c726a8b2",
+  "sourceKind": "article",
+  "sourceName": "Federal Reserve",
+  "sourceUrl": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+  "canonicalUrl": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "A Fed governor says the labor share hit 52.8 percent. That is his view, not a rate decision.",
+  "friendlyTitle": "A Federal Reserve governor says workers' share of income hit a low. This is his view.",
+  "summary": "On 12 November, Federal Reserve Governor Michael Barr said the labor share of US national income fell to 52.8 percent in the second quarter of 2026, which he called a record low. He said AI could send returns to capital rather than wages if a few firms capture the gains, and that smaller firms could then lose share. He also said displacement so far has been limited, access to AI is still fairly broad, and there are signs of substitution for younger, less-experienced workers. These are his views, not the Board's or the rate-setting committee's.",
+  "friendlySummary": "On 12 November, Federal Reserve Governor Michael Barr said workers' share of US national income fell to 52.8 percent in the second quarter of 2026. He called that a record low. He said AI could send the gains to owners rather than wages if a few companies capture them. He also said AI has not widely replaced workers yet, and that access is still fairly broad. He sees early signs that younger, less-experienced workers are the ones being replaced first. These are his views, not an official Federal Reserve decision.",
+  "whyItMatters": "Nothing in the speech changes a price, a model, or a rule tomorrow. The practical distinction is the one he draws. Tasks with clear guardrails and predictable outcomes are the ones he expects to automate first. Work that needs judgment, coordination, or a relationship is the work he expects AI to add to, not replace. He says a fast shift would be harder for workers to absorb than a slow one, and that training and new jobs are the response to prepare, not a program he announced.",
+  "friendlyWhyItMatters": "This speech does not change a price, a tool, or a rule tomorrow. The useful split is the one he describes. Jobs with clear rules and a predictable result are the ones he expects to be automated first. Work that needs judgment, coordination, or a relationship is the work he expects AI to help with, not replace. He says a fast change would be harder for people to absorb than a slow one. He did not announce a training program.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}

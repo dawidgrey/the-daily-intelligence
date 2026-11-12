@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-13_13_qwenlm-qwen-code-a-terminal-coding-agent-you-can-point-at-more-than-one_5ad23f0e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/QwenLM/qwen-code",
+  "canonicalUrl": "https://github.com/QwenLM/qwen-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-12T20:09:31Z",
+  "createdAtUtc": "2026-11-12T20:09:31Z",
+  "updatedAtUtc": "2026-11-12T20:09:31Z",
+  "title": "QwenLM/qwen-code: a terminal coding agent you can point at more than one provider",
+  "friendlyTitle": "Qwen Code is a terminal coding agent that can use more than one model provider",
+  "summary": "Qwen Code was on GitHub Trending today with 151 stars in the day and about 29,700 overall. It is an open-source terminal coding agent, with desktop, editor, web, and chat clients. The license is Apache 2.0. It can use Qwen, OpenAI, Anthropic, Gemini, or a local server such as Ollama or vLLM. Node 22 or newer is required for the npm install. A Qwen Plus or Pro subscription, or an API key, is required to sign in.",
+  "friendlySummary": "Qwen Code was trending on GitHub today, with 151 new stars and about 29,700 in total. It is an open-source coding agent for the terminal, and it also has desktop, editor, web, and chat apps. The license is Apache 2.0. It can use Qwen, OpenAI, Anthropic, Gemini, or a local model server. You need Node 22 or newer for the npm install, and a subscription or an API key to sign in.",
+  "whyItMatters": "Run qwen in a project when you want one agent harness and the freedom to change the model behind it. There is also a desktop app, and qwen serve for a local web view. That server listens on your machine without a token by default. On a shared computer, set QWEN_SERVER_TOKEN and require auth. Their SWE-bench Verified scores, 76.4 to 77.8 percent, used Qwen 3.7 Max and are their own measurement.",
+  "friendlyWhyItMatters": "Use it when you want one coding agent and the freedom to change the model behind it. There is a desktop app, and a local web view. That local server does not ask for a password by default. On a shared computer, turn authentication on. Their coding-benchmark scores used one Qwen model and are their own measurement.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-13"
+  }
+}
