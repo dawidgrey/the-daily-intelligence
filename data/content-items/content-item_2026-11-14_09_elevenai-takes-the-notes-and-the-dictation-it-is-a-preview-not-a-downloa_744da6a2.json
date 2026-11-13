@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_09_elevenai-takes-the-notes-and-the-dictation-it-is-a-preview-not-a-downloa_744da6a2",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "ElevenAI takes the notes and the dictation. It is a preview, not a download.",
+  "friendlyTitle": "ElevenLabs is testing an app for meeting notes and dictation. You cannot download it yet.",
+  "summary": "TechCrunch reported on 13 November that ElevenLabs has opened a preview app called ElevenAI. It combines meeting notes, dictation, and agent follow-ups, and it is aimed at teams rather than a single user. You request early access. You do not download it yet. The company says it notifies other participants that a conversation is being recorded, can answer questions across past meetings, and can draft a follow-up such as an email through ElevenAgent. Dictation works in other apps, in more than 90 languages, including industry terms.",
+  "friendlySummary": "TechCrunch reported on 13 November that ElevenLabs has opened a preview app called ElevenAI. It takes meeting notes, turns speech into text, and can draft a follow-up such as an email. It is aimed at teams. You ask for early access. You cannot just download it. The company says it tells other people on the call that the conversation is being recorded, and that dictation works in more than 90 languages.",
+  "whyItMatters": "This is the same week ElevenLabs shipped Scribe v3 for speech-to-text. ElevenAI is the app around that kind of work, not a new model score. If your team already pays for a notetaker, the pitch is one vendor instead of two licences. It is still a waitlist. A tool that notifies participants is the minimum. It does not replace asking the room, and a preview does not tell you where the audio is stored.",
+  "friendlyWhyItMatters": "This is the app around the speech tools ElevenLabs already sells. If your team pays for a separate notetaker, the offer is one vendor instead of two. It is still a waiting list. A notice on the call is the minimum. It does not replace asking the room, and a preview does not tell you where the audio is kept.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

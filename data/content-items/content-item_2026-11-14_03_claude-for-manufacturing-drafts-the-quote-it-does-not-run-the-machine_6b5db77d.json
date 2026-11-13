@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_03_claude-for-manufacturing-drafts-the-quote-it-does-not-run-the-machine_6b5db77d",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/claude-for-manufacturing",
+  "canonicalUrl": "https://claude.com/resources/articles/claude-for-manufacturing",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "Claude for Manufacturing drafts the quote. It does not run the machine.",
+  "friendlyTitle": "Claude can draft a factory quote. It does not run the machine.",
+  "summary": "Anthropic launched Claude for Manufacturing, a plugin with 17 skills for quoting, failed inspections, breakdown notes, supplier comparisons, design variants, and production reports. It reads a plant's existing records through connectors to Autodesk Fusion, Infor, Microsoft 365, and Oracle NetSuite. Systems without a connector can be used through files saved to Microsoft 365. The plugin is for Team and Enterprise plans. Anthropic says it drafts documents for a person to review. It does not operate equipment.",
+  "friendlySummary": "Anthropic released a plugin called Claude for Manufacturing. It has 17 starting skills, including quotes, quality reports, breakdown notes, supplier comparisons, and production reports. It can read records from Autodesk Fusion, Infor, Microsoft 365, and Oracle NetSuite. It is for paid team and company plans. Anthropic says it writes drafts for a person to check. It does not operate equipment.",
+  "whyItMatters": "A quote or an 8D that links back to the drawing is useful only if someone still signs it. Anthropic says skills are built to end with that review. Infor's separate plugin can go further: after a buyer approves, Claude can release a purchase order and reschedule production, using that buyer's Infor permissions. That is a write, not a robot. A separate research preview, the Model Hardware Standard, is about equipment, and it is not this plugin. A technical webinar is set for 17 November at 11:00 a.m. US Eastern time.",
+  "friendlyWhyItMatters": "A draft is useful only if the person responsible still signs it. Anthropic says the skills are built to stop at that review. A separate Infor plugin can change records after a buyer approves, using that buyer's existing permissions. That is a paperwork change, not a robot. A webinar is set for 17 November at 11:00 a.m. US Eastern time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

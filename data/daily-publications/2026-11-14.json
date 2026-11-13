@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-14",
+  "slug": "2026-11-14",
+  "status": "published",
+  "publicationDateUtc": "2026-11-13T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "An agent can pay. It still has to ask.",
+  "friendlyHeader": "An agent can pay now. It still has to ask you first.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today OpenAI let a ChatGPT agent pay, but only after you approve the purchase. Anthropic put Claude on the video call, and gave factory teams a plugin that drafts the paperwork and stops there. The rest is what to check before you trust an agent with a booking, a local model, or a skill you have not read.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. OpenAI let a ChatGPT agent pay for things, but you approve each purchase. Anthropic can put Claude in a video call, and it can draft factory paperwork for a person to check. The other items cover local models, a research mistake, and tools you can inspect yourself.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-14_01_chatgpt-wallet-pays-without-your-card-number-you-still-approve-every-pur_5bf4951a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_02_claude-can-join-the-meet-call-it-writes-the-notes-it-does-not-keep-the-a_21ab7432",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_03_claude-for-manufacturing-drafts-the-quote-it-does-not-run-the-machine_6b5db77d",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_04_openai-folded-the-robotics-team-into-the-general-model-groups_d6f57ed8",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_05_perplexity-decider-v1-3-returns-a-probability-not-a-paragraph_18188c8a",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_06_on-one-rtx-3090-ollama-was-slightly-faster-lm-studio-served-four-jobs-be_1c96c3a7",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_07_the-maya-site-was-already-in-a-journal-the-agents-missed-the-paper_3b869b11",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_08_daybreak-can-test-a-web-app-and-draft-a-patch-a-person-still-merges-it_4ee6684a",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_09_elevenai-takes-the-notes-and-the-dictation-it-is-a-preview-not-a-downloa_744da6a2",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_10_llama-cpp-v1-0-promises-a-stable-c-api-a-break-will-change-the-major-ver_40e78db6",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_11_volcengine-openviking-agent-memory-you-can-open-as-files_22094f39",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_12_backnotprop-plannotator-mark-up-the-plan-then-send-it-back-to-the-agent_09a3e479",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-14_13_a2ui-project-a2ui-the-agent-sends-layout-data-your-app-draws-the-buttons_4e2960d2",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-14.json",
+    "itemCount": 13
+  }
+}

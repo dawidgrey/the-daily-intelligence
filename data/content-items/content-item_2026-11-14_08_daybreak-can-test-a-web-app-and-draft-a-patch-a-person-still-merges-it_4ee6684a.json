@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_08_daybreak-can-test-a-web-app-and-draft-a-patch-a-person-still-merges-it_4ee6684a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/daybreak/red-team/",
+  "canonicalUrl": "https://openai.com/daybreak/red-team/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "Daybreak can test a web app and draft a patch. A person still merges it.",
+  "friendlyTitle": "OpenAI's new security tools can test an app and draft a fix. A person still approves it.",
+  "summary": "OpenAI's Daybreak pages now describe two security products. Daybreak Red Team, in early access, uses agents to test web applications, check reported vulnerabilities, and retest whether a patch stops the issue. The operator sets the scope, including which apps and endpoints the agents can reach, and whether they may change synthetic test data or only read. Daybreak Defense Factory takes findings from existing security tools, or from Red Team, and prepares patches for an engineer to review before merge.",
+  "friendlySummary": "OpenAI now has two security products under the Daybreak name. Red Team is in early access. Agents test web applications, check reported flaws, and test whether a fix holds. You set what they are allowed to reach. Defense Factory takes those findings, or findings from tools you already use, and prepares a code fix for an engineer to review before it is merged.",
+  "whyItMatters": "Neither page is a switch you can flip in ChatGPT. Red Team asks you to register interest. Defense Factory asks you to contact sales. The Decoder reported both products on 13 November. OpenAI's pages do not name a price or a self-serve start date. The useful boundary is on the page: scope controls, isolated environments, and a person who reviews the patch. An agent that proposes a fix is not an agent that should ship it.",
+  "friendlyWhyItMatters": "You cannot turn these on inside ordinary ChatGPT. Red Team asks you to register interest. Defense Factory asks you to talk to sales. The useful limit is the same in both: you set the scope, and a person reviews the change. A suggested fix is not a fix that should ship by itself.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

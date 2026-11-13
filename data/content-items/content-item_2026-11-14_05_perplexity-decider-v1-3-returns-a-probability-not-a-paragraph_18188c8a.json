@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_05_perplexity-decider-v1-3-returns-a-probability-not-a-paragraph_18188c8a",
+  "sourceKind": "research",
+  "sourceName": "Perplexity",
+  "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+  "canonicalUrl": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "Perplexity Decider v1.3 returns a probability, not a paragraph.",
+  "friendlyTitle": "A new Perplexity model returns a chance, not a paragraph.",
+  "summary": "Perplexity released Decider v1.3 and a smaller Decider Flash v1.3. You give one input and several questions. For each question it returns a probability over yes/no, custom labels, or a score. It does not write a free-form answer. A new locate mode can also return the exact span of text, with start and end positions, for tasks such as pulling a city name or finding personal information. Both models are Apache-licensed on Hugging Face, and available through OpenRouter and Perplexity's Decisions API.",
+  "friendlySummary": "Perplexity released Decider v1.3 and a smaller, faster version called Flash. You give it one piece of text and several questions. For each question it returns a chance for each answer, such as yes or no, or a score. It does not write a long reply. It can also point to the exact words it used, such as a city name. Both models are free to use under the Apache licence, on Hugging Face, OpenRouter, and Perplexity's own API.",
+  "whyItMatters": "Routing, moderation, and ranking do not need a paragraph. Perplexity says to use v1.3 when the judgment is costly, and Flash when volume and latency matter more. It also says to set the cutoff on your own labelled examples. A 0.5 threshold is not a universal rule. In v1.3, each question is isolated from the others, so adding a question is less likely to change an earlier answer. A probability is a ranking signal. It is not a decision you should skip reading.",
+  "friendlyWhyItMatters": "Sorting, safety checks, and routing do not need a written essay. Perplexity says to use the larger model when a wrong answer is expensive, and the smaller one when you have a lot of items and need speed. Set the cutoff on your own examples. A score of 0.5 is not a rule that fits every job. A chance is a signal. It is not a reason to skip the check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

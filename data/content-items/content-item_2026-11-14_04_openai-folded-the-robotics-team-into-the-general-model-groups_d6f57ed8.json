@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_04_openai-folded-the-robotics-team-into-the-general-model-groups_d6f57ed8",
+  "sourceKind": "article",
+  "sourceName": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+  "canonicalUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "OpenAI folded the robotics team into the general-model groups.",
+  "friendlyTitle": "OpenAI closed its separate robotics team and moved the people.",
+  "summary": "Fortune reported on 13 November that OpenAI has disbanded its stand-alone robotics team and confirmed the change when asked. Robotics researchers now report to chief research officer Mark Chen. The applied robotics and hardware teams report to president Greg Brockman. OpenAI told Fortune this is meant to speed robotics up, not drop it. The company said general models, including GPT-6 Astra, can be applied to robots directly, which is why it no longer wants a separate robotics model group.",
+  "friendlySummary": "Fortune reported on 13 November that OpenAI has closed its stand-alone robotics team. The company confirmed the change. Robotics researchers now sit with the main research group. The applied robotics and hardware teams sit with the applied group. OpenAI told Fortune this is meant to speed the work up, not stop it. The company said its general models can now run robot tasks directly, so it no longer wants a separate robot model group.",
+  "whyItMatters": "If you are waiting on a specialised robot brain from OpenAI, the company is saying the general model is now the path. That is a bet, not a shipped home robot. Fortune also reported an empty OpenAI booth at a robotics conference in Austin this week, and a 2027 target Sam Altman has given for a first public humanoid demonstration. A Nvidia study cited in the piece put an Astra-powered agent at 74.8 percent on a simulated manipulation test, against 51.0 percent for the best specialised model on that board. Simulated. A professor quoted in the story still sees a need for smaller models that can run on the robot without a constant network connection.",
+  "friendlyWhyItMatters": "If you were waiting for a special robot brain from OpenAI, the company is saying the general model is the path. That is a plan, not a robot you can buy. Fortune also reported an empty OpenAI booth at a robotics conference this week. A study mentioned in the article tested a simulated robot, not a robot in a room. One professor said smaller models are still needed on the machine itself, because a large model in the cloud needs a network connection.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

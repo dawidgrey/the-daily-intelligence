@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_01_chatgpt-wallet-pays-without-your-card-number-you-still-approve-every-pur_5bf4951a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+  "canonicalUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "ChatGPT Wallet pays without your card number. You still approve every purchase.",
+  "friendlyTitle": "ChatGPT can pay, but it does not get your real card number.",
+  "summary": "On 13 November, OpenAI introduced ChatGPT Wallet. A user adds a card once. Before each purchase, they review the items, the total, and the card, then approve it with a check such as Face ID or a fingerprint. The payment network then issues a token, a stand-in for the card number, so the agent and the shop do not receive the real card details. It starts in dots, for ChatGPT Pro subscribers aged 18 and older in the US, with eligible US-issued American Express, Mastercard, or Visa cards.",
+  "friendlySummary": "On 13 November, OpenAI released ChatGPT Wallet. You add a card once. Before each purchase, you see the items, the total, and the card, then approve it with a face scan or a fingerprint. The payment network gives the shop a stand-in number, not your real card number. It starts with ChatGPT Pro users aged 18 and older in the United States, and only with eligible US cards from American Express, Mastercard, or Visa.",
+  "whyItMatters": "This is not a standing order. OpenAI says full delegation, with spending limits and categories, is something it expects later, with extra checks. It is not available now. A shop can still block the agent or decline the payment. Businesses can follow OpenAI's commerce playbook: claim the business profile, allow signed agent traffic, and ask their payments provider how it treats these tokens. Rewards and eligible dispute protections stay with the card. A token is not a reason to stop reading the total.",
+  "friendlyWhyItMatters": "The agent cannot keep spending on its own. OpenAI says a later version may let you set a limit and a type of purchase in advance. That is not available now. A shop can still block the agent or refuse the payment. Your card rewards, and the usual dispute rights, stay with the card. Always read the total before you approve.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_10_llama-cpp-v1-0-promises-a-stable-c-api-a-break-will-change-the-major-ver_40e78db6",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "canonicalUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "llama.cpp v1.0 promises a stable C API. A break will change the major version.",
+  "friendlyTitle": "llama.cpp version 1.0 is a promise about what will break.",
+  "summary": "On 13 November, the llama.cpp project released library version 1.0.0 for llama.cpp and for ggml. The point is not a new model. It is a versioning promise. A breaking change to the public C API in the include directory will now raise the major version. A compatible feature, backend update, or new model support raises the minor version. A bug fix with no API change is a patch. The project says it currently supports more than 150 architecture variants.",
+  "friendlySummary": "On 13 November, the llama.cpp project released version 1.0.0 of its libraries. This is not a new model. It is a promise about changes. If the public programming interface breaks, the first version number will change. A new feature that still works with old programs changes the middle number. A bug fix changes the last number. The project says it supports more than 150 kinds of model.",
+  "whyItMatters": "If you ship an app on llama.cpp, a major bump is now the signal that your build may break. Prebuilt artifacts cover Linux, macOS, Windows, Android, and iOS. Packages also go out through Docker, Debian, Homebrew, conda-forge, MacPorts, Winget, and an XCFramework for Apple platforms. The same post points to Llama desktop apps for macOS and Windows. It does not announce a Linux desktop app. Yesterday's trending-repo note was about the project climbing GitHub. This is the stability promise.",
+  "friendlyWhyItMatters": "If you build an app on llama.cpp, a change in the first version number now means your build may break. Ready-made files cover the main phone and computer systems. Desktop apps from the same team are for Mac and Windows. The post does not announce a Linux desktop app. This is about stability, not about the project being popular on GitHub.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

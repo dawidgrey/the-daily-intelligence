@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_07_the-maya-site-was-already-in-a-journal-the-agents-missed-the-paper_3b869b11",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "The Maya site was already in a journal. The agents missed the paper.",
+  "friendlyTitle": "The Maya site was already known. The agents missed the paper.",
+  "summary": "The Verge reported that Google researcher Pietro Miotti, working on a personal project, set 48 agents on public lidar data and thought they had found an unregistered Maya site in Mexico. Mexico's anthropology institute told him it had no registered site at that location. Archaeologists then pointed to a journal paper, more than a year old, that had already documented it. Miotti, who is not an archaeologist, updated the post and said the agents missed the paper because site coordinates are not in a searchable database. Checking means comparing images with figures in papers.",
+  "friendlySummary": "The Verge reported that a Google researcher, on a personal project, used 48 agents to search public laser maps. He thought they had found an unregistered Maya site in Mexico. A Mexican government institute said it had no registered site there. Archaeologists then pointed to a journal paper, more than a year old, that had already documented it. He updated the post. He said the agents missed the paper because the exact location is not in a simple search database. Checking means comparing pictures in papers.",
+  "whyItMatters": "A government reply of 'not in our register' is not the same as 'unknown'. If you use agents to search a field you do not know, the missing step is still the literature, and the people who already work there. Archaeologists told The Verge that local communities often already know these places, that spotting a mound is not a discovery, and that publicising coordinates can attract looters. One specialist said he had already received another AI 'discovery' email the same day. An agent that cannot match a figure in a PDF will sound certain anyway.",
+  "friendlyWhyItMatters": "A government office saying 'we have no record' is not the same as 'nobody knows this place'. If you use agents in a field you do not know, you still need the existing papers, and the people who already work there. Archaeologists said local communities often already know these sites. Announcing a location can also attract looters. An agent that cannot match a picture in a paper can still sound sure.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

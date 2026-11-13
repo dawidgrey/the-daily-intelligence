@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_13_a2ui-project-a2ui-the-agent-sends-layout-data-your-app-draws-the-buttons_4e2960d2",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/a2ui-project/a2ui",
+  "canonicalUrl": "https://github.com/a2ui-project/a2ui",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "a2ui-project/a2ui: the agent sends layout data, your app draws the buttons",
+  "friendlyTitle": "A2UI lets an agent ask for a screen. Your app draws the buttons.",
+  "summary": "A2UI was on GitHub's TypeScript trending page this morning, at about 17,300 stars. It is an open-source framework for agent-built screens. The agent streams layout as data. The app renders that data with its own native components, in React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose. The agent does not send executable interface code. The licence is Apache-2.0.",
+  "friendlySummary": "A2UI was on GitHub's TypeScript trending page this morning, with about 17,300 stars. It lets an agent describe a screen as data. Your app then draws that screen with its own buttons and lists, on the web, iPhone, and Android. The agent does not send code for the app to run. The licence is Apache-2.0.",
+  "whyItMatters": "Use it when a chat reply would be clearer as a form, a list, or a chart, and you do not want the model to invent HTML that your app then runs. A catalog limits which components the agent can ask for. You can try compositions in the browser with A2UI Composer. The CLI tagged v0.3.0 on 11 November. The repository was still being updated on 13 November. A schema is a boundary. It is not a review of what the agent decided to show.",
+  "friendlyWhyItMatters": "Use it when a written reply would be clearer as a form, a list, or a chart, and you do not want the model to invent a page your app then runs. You choose which parts the agent is allowed to use. You can try examples in the browser. A numbered tool release came out on 11 November, and the project was still being updated on 13 November. A limit on the parts is not a check of what the agent chose to show.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

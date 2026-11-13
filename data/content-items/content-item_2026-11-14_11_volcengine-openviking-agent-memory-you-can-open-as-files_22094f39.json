@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_11_volcengine-openviking-agent-memory-you-can-open-as-files_22094f39",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/volcengine/OpenViking",
+  "canonicalUrl": "https://github.com/volcengine/OpenViking",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "volcengine/OpenViking: agent memory you can open as files",
+  "friendlyTitle": "OpenViking keeps an agent's notes as files you can open.",
+  "summary": "OpenViking was among the most-starred AI repositories on GitHub's Python trending page this morning, at about 42,200 stars. It is a context database that stores an agent's knowledge, memory, and skills as a virtual filesystem under viking://, instead of only as embeddings you cannot read. Release v0.5.5 was published on 13 November. The licence is AGPL-3.0.",
+  "friendlySummary": "OpenViking was one of the most popular AI projects on GitHub's Python trending page this morning, with about 42,200 stars. It stores what an agent knows, remembers, and can do as files you can browse, not only as hidden numbers. Version 0.5.5 came out on 13 November. The licence is AGPL-3.0.",
+  "whyItMatters": "You can browse a demo in the browser at studio.openviking.ai without installing it, or self-host the studio. The layout splits resources, memories, and skills, and it writes short summaries so an agent can skip a file it does not need. On the project's own memory test of an older build, 0.3.22, it reports large gains. Those figures are not a result for v0.5.5. If you change the code and serve it, read the AGPL terms before you ship.",
+  "friendlyWhyItMatters": "You can try a demo in the browser without installing it. The files are split into documents, memories, and skills, with short summaries so the agent can skip what it does not need. The project's own older test reported large gains. That test was not on today's version. If your company changes the code and runs it as a service, read the licence before you ship.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-12T20:09:31Z",
+  "generatedAtUtc": "2026-11-13T20:10:30Z",
   "items": [
     {
-      "id": "content-item_2026-11-13_01_gemini-4-hydrogen-is-1-50-in-and-7-50-out-the-free-app-may-not-pick-it_ec9fd407",
+      "id": "content-item_2026-11-14_01_chatgpt-wallet-pays-without-your-card-number-you-still-approve-every-pur_5bf4951a",
       "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini 4 Hydrogen is $1.50 in and $7.50 out. The free app may not pick it.",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Wallet pays without your card number. You still approve every purchase.",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
-      "id": "content-item_2026-11-13_02_jensen-huang-resigned-colette-kress-is-interim-chief-and-still-cfo_b8785a00",
-      "sourceKind": "article",
-      "sourceName": "NVIDIA Newsroom",
-      "title": "Jensen Huang resigned. Colette Kress is interim chief, and still CFO.",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
-    },
-    {
-      "id": "content-item_2026-11-13_03_notion-says-a-vendor-kept-chat-text-it-had-promised-not-to-keep_a7266a93",
-      "sourceKind": "article",
-      "sourceName": "Notion",
-      "title": "Notion says a vendor kept chat text it had promised not to keep",
-      "sourceUrl": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
-    },
-    {
-      "id": "content-item_2026-11-13_04_scribe-v3-live-is-meant-to-wait-for-the-end-of-the-sentence_9fcb62f6",
+      "id": "content-item_2026-11-14_02_claude-can-join-the-meet-call-it-writes-the-notes-it-does-not-keep-the-a_21ab7432",
       "sourceKind": "product",
-      "sourceName": "ElevenLabs",
-      "title": "Scribe v3 Live is meant to wait for the end of the sentence",
-      "sourceUrl": "https://elevenlabs.io/blog/scribe-v3"
+      "sourceName": "Anthropic",
+      "title": "Claude can join the Meet call. It writes the notes. It does not keep the audio.",
+      "sourceUrl": "https://claude.com/resources/articles/claude-meetings"
     },
     {
-      "id": "content-item_2026-11-13_05_ibm-marked-instructions-apart-from-the-data-the-models-are-a-preview_a88bddb1",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "IBM marked instructions apart from the data. The models are a preview.",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      "id": "content-item_2026-11-14_03_claude-for-manufacturing-drafts-the-quote-it-does-not-run-the-machine_6b5db77d",
+      "sourceKind": "product",
+      "sourceName": "Anthropic",
+      "title": "Claude for Manufacturing drafts the quote. It does not run the machine.",
+      "sourceUrl": "https://claude.com/resources/articles/claude-for-manufacturing"
     },
     {
-      "id": "content-item_2026-11-13_06_an-0-8b-assistant-calls-tools-on-the-device-it-is-not-for-a-high-stakes_b22522d1",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "An 0.8B assistant calls tools on the device. It is not for a high-stakes job.",
-      "sourceUrl": "https://huggingface.co/blog/qvac/botpsy"
-    },
-    {
-      "id": "content-item_2026-11-13_07_ai-shopping-answers-recommended-risky-sites-6-3-times-more-often-than-th_6343eb17",
-      "sourceKind": "research",
-      "sourceName": "Podqi",
-      "title": "AI shopping answers recommended risky sites 6.3 times more often than they warned",
-      "sourceUrl": "https://podqi.com/research/ai-search-brand-risk"
-    },
-    {
-      "id": "content-item_2026-11-13_08_a-fake-spacex-event-page-was-still-asking-for-a-work-login_886e9406",
+      "id": "content-item_2026-11-14_04_openai-folded-the-robotics-team-into-the-general-model-groups_d6f57ed8",
       "sourceKind": "article",
-      "sourceName": "BleepingComputer",
-      "title": "A fake SpaceX event page was still asking for a work login",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+      "sourceName": "Fortune",
+      "title": "OpenAI folded the robotics team into the general-model groups.",
+      "sourceUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
     },
     {
-      "id": "content-item_2026-11-13_09_a-fed-governor-says-the-labor-share-hit-52-8-percent-that-is-his-view-no_c726a8b2",
+      "id": "content-item_2026-11-14_05_perplexity-decider-v1-3-returns-a-probability-not-a-paragraph_18188c8a",
+      "sourceKind": "research",
+      "sourceName": "Perplexity",
+      "title": "Perplexity Decider v1.3 returns a probability, not a paragraph.",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+    },
+    {
+      "id": "content-item_2026-11-14_06_on-one-rtx-3090-ollama-was-slightly-faster-lm-studio-served-four-jobs-be_1c96c3a7",
       "sourceKind": "article",
-      "sourceName": "Federal Reserve",
-      "title": "A Fed governor says the labor share hit 52.8 percent. That is his view, not a rate decision.",
-      "sourceUrl": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
+      "sourceName": "homebrewserver.club",
+      "title": "On one RTX 3090, Ollama was slightly faster. LM Studio served four jobs better.",
+      "sourceUrl": "https://homebrewserver.club/lm-studio-vs-ollama.html"
     },
     {
-      "id": "content-item_2026-11-13_10_phota-says-it-can-fix-the-shot-without-inventing-a-new-face_d0b6d30c",
+      "id": "content-item_2026-11-14_07_the-maya-site-was-already-in-a-journal-the-agents-missed-the-paper_3b869b11",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "The Maya site was already in a journal. The agents missed the paper.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    },
+    {
+      "id": "content-item_2026-11-14_08_daybreak-can-test-a-web-app-and-draft-a-patch-a-person-still-merges-it_4ee6684a",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "Daybreak can test a web app and draft a patch. A person still merges it.",
+      "sourceUrl": "https://openai.com/daybreak/red-team/"
+    },
+    {
+      "id": "content-item_2026-11-14_09_elevenai-takes-the-notes-and-the-dictation-it-is-a-preview-not-a-downloa_744da6a2",
       "sourceKind": "product",
       "sourceName": "TechCrunch",
-      "title": "Phota says it can fix the shot without inventing a new face",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+      "title": "ElevenAI takes the notes and the dictation. It is a preview, not a download.",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
     },
     {
-      "id": "content-item_2026-11-13_11_googlechrome-modern-web-guidance-src-a-skill-pack-so-the-agent-stops-wri_95c23a9a",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "GoogleChrome/modern-web-guidance-src: a skill pack so the agent stops writing last decade's web",
-      "sourceUrl": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      "id": "content-item_2026-11-14_10_llama-cpp-v1-0-promises-a-stable-c-api-a-break-will-change-the-major-ver_40e78db6",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "llama.cpp v1.0 promises a stable C API. A break will change the major version.",
+      "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
-      "id": "content-item_2026-11-13_12_ggml-org-llama-cpp-local-model-inference-still-the-day-s-third-ai-climb_7d8321c3",
+      "id": "content-item_2026-11-14_11_volcengine-openviking-agent-memory-you-can-open-as-files_22094f39",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "ggml-org/llama.cpp: local model inference, still the day's third AI climb",
-      "sourceUrl": "https://github.com/ggml-org/llama.cpp"
+      "title": "volcengine/OpenViking: agent memory you can open as files",
+      "sourceUrl": "https://github.com/volcengine/OpenViking"
     },
     {
-      "id": "content-item_2026-11-13_13_qwenlm-qwen-code-a-terminal-coding-agent-you-can-point-at-more-than-one_5ad23f0e",
+      "id": "content-item_2026-11-14_12_backnotprop-plannotator-mark-up-the-plan-then-send-it-back-to-the-agent_09a3e479",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "QwenLM/qwen-code: a terminal coding agent you can point at more than one provider",
-      "sourceUrl": "https://github.com/QwenLM/qwen-code"
+      "title": "backnotprop/plannotator: mark up the plan, then send it back to the agent",
+      "sourceUrl": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "id": "content-item_2026-11-14_13_a2ui-project-a2ui-the-agent-sends-layout-data-your-app-draws-the-buttons_4e2960d2",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "a2ui-project/a2ui: the agent sends layout data, your app draws the buttons",
+      "sourceUrl": "https://github.com/a2ui-project/a2ui"
     }
   ]
 }

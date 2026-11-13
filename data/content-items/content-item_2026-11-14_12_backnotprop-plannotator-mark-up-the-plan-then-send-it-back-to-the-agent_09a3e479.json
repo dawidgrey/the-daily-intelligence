@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_12_backnotprop-plannotator-mark-up-the-plan-then-send-it-back-to-the-agent_09a3e479",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/backnotprop/plannotator",
+  "canonicalUrl": "https://github.com/backnotprop/plannotator",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "backnotprop/plannotator: mark up the plan, then send it back to the agent",
+  "friendlyTitle": "Plannotator lets you mark up an agent's plan and send the notes back.",
+  "summary": "Plannotator was on GitHub's TypeScript trending page this morning, at about 10,400 stars. It is a local, browser-based review surface for coding agents, including Claude Code, Codex, Copilot CLI, Gemini CLI, and OpenCode. When an agent proposes a plan, an HTML page, or a diff, the app opens in the browser. You comment, and the comments go back to the agent. The licence is Apache-2.0. The repository was updated on 13 November.",
+  "friendlySummary": "Plannotator was on GitHub's TypeScript trending page this morning, with about 10,400 stars. It is a review app that runs on your computer and opens in the browser. It works with coding agents such as Claude Code, Codex, and Gemini CLI. When an agent proposes a plan or a code change, you can comment on it, and those comments go back to the agent. The licence is Apache-2.0. The project was updated on 13 November.",
+  "whyItMatters": "Use it when you do not want the only review step to be another prompt. It covers plans and specs, local diffs, and remote pull requests, including GitHub and GitLab. Code review also lists GitButler, Jujutsu, and Perforce. It plugs in through plugins, hooks, and commands, so the agent opens the review instead of you pasting a diff into chat. A comment is feedback. It is not an approval log unless you treat it as one.",
+  "friendlyWhyItMatters": "Use it when you do not want the only review step to be another chat message. It covers plans, local code changes, and pull requests on GitHub and GitLab. It connects through plugins and hooks, so the agent opens the review for you. A comment is feedback. It is not an approval record unless you decide to treat it as one.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

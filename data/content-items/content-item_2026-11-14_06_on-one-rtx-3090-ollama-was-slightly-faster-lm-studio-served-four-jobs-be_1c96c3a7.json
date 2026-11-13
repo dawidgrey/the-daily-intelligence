@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_06_on-one-rtx-3090-ollama-was-slightly-faster-lm-studio-served-four-jobs-be_1c96c3a7",
+  "sourceKind": "article",
+  "sourceName": "homebrewserver.club",
+  "sourceUrl": "https://homebrewserver.club/lm-studio-vs-ollama.html",
+  "canonicalUrl": "https://homebrewserver.club/lm-studio-vs-ollama.html",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "On one RTX 3090, Ollama was slightly faster. LM Studio served four jobs better.",
+  "friendlyTitle": "On one graphics card, Ollama was a little faster. LM Studio handled more jobs at once.",
+  "summary": "A homebrewserver.club test ran the same two Qwen3.5 GGUF files, checked by SHA-256, in Ollama 0.40.15 and LM Studio's headless daemon, in Docker, on one RTX 3090. Both tools use llama.cpp. With one request, Ollama wrote at 42.3 tokens a second on the 27B model, against 40.1 for LM Studio's defaults. With four requests at once, LM Studio's default setup reached 90.2 tokens a second. Ollama, set to four slots, fell to 33.1 and spilled part of the model onto the CPU.",
+  "friendlySummary": "A published test ran the same two model files in Ollama and LM Studio, on one RTX 3090 graphics card, in Linux. Both tools use the same underlying engine. With one request, Ollama was a little faster. With four requests at once, LM Studio's default setup was much faster. Ollama slowed down because part of the larger model spilled off the graphics card onto the main processor.",
+  "whyItMatters": "The gap is mostly settings, not a different model. Ollama's default on that card was a 32,768-token context. LM Studio's four slots shared one 8,192-token context, so they stayed on the GPU. At the same context, memory use was about equal. Ollama also has an official NVIDIA Docker image. LM Studio's preview image is CPU-only until you add an unsupported CUDA runtime. The author's verdict: Ollama for an always-on home server, LM Studio for a desktop app and several users at once. These figures are one machine, five-run medians, thinking off. They are not a ranking for your card.",
+  "friendlyWhyItMatters": "The difference is mostly the default settings, not a better model. Ollama kept a longer memory for each job. LM Studio shared a shorter memory across four jobs, so they all stayed on the graphics card. Ollama is simpler for a computer that stays on. LM Studio is the easier desktop app, and it can serve several people at once with less tuning. These numbers are from one computer. They are not a ranking for yours.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}

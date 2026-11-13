@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-12T20:09:32Z",
+  "generatedAtUtc": "2026-11-13T20:10:31Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-14",
+      "slug": "2026-11-14",
+      "status": "published",
+      "publicationDateUtc": "2026-11-13T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "An agent can pay. It still has to ask.",
+      "friendlyHeader": "An agent can pay now. It still has to ask you first.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today OpenAI let a ChatGPT agent pay, but only after you approve the purchase. Anthropic put Claude on the video call, and gave factory teams a plugin that drafts the paperwork and stops there. The rest is what to check before you trust an agent with a booking, a local model, or a skill you have not read.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. OpenAI let a ChatGPT agent pay for things, but you approve each purchase. Anthropic can put Claude in a video call, and it can draft factory paperwork for a person to check. The other items cover local models, a research mistake, and tools you can inspect yourself.",
+      "itemCount": 13,
+      "href": "issues/2026-11-14.html",
+      "dataUrl": "data/daily-publications/2026-11-14.json"
+    },
     {
       "id": "daily-publication_2026-11-13",
       "slug": "2026-11-13",

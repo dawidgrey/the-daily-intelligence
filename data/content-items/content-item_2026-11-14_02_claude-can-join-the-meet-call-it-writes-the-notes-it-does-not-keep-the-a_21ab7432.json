@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-14_02_claude-can-join-the-meet-call-it-writes-the-notes-it-does-not-keep-the-a_21ab7432",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/claude-meetings",
+  "canonicalUrl": "https://claude.com/resources/articles/claude-meetings",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-13T20:10:30Z",
+  "createdAtUtc": "2026-11-13T20:10:30Z",
+  "updatedAtUtc": "2026-11-13T20:10:30Z",
+  "title": "Claude can join the Meet call. It writes the notes. It does not keep the audio.",
+  "friendlyTitle": "Claude can join a Google Meet call. It keeps notes, not the recording.",
+  "summary": "Anthropic's Claude Meetings is in beta on Team and Enterprise plans, starting with Google Meet. Claude joins as a visible participant, posts a notice in the chat, and can be asked questions out loud or in chat. By default it answers in writing. It can draft a document or a whiteboard during the call, and it saves notes, a transcript, and screen descriptions on a meeting page in Claude. It does not save the audio.",
+  "friendlySummary": "Anthropic is testing Claude Meetings on paid team and company plans. It starts with Google Meet. Claude shows up as its own person on the call, posts a notice in the chat, and can answer questions spoken aloud or typed. It can start a document or a whiteboard while you talk. After the call, the notes, the written transcript, and descriptions of the screen are saved in Claude. It does not save the audio.",
+  "whyItMatters": "Ask the room before you turn it on. By default, Claude stays out if someone from outside the organisation is invited, and leaves if an outsider joins later. An admin can allow guest calls. On those calls it posts a notice but does not reply in chat, and guest speech still goes into the notes. During the beta, notes and transcripts are free. A connected-tool lookup counts toward plan usage. Documents it builds in the call are free through 10 February 2027. Organisations with zero data retention, a HIPAA-ready setup, or customer-managed encryption keys do not get the beta.",
+  "friendlyWhyItMatters": "Ask everyone on the call before you add it. By default, Claude stays out if someone from outside your organisation is invited, and it leaves if an outsider joins later. An admin can allow outside guests. During the test, notes and transcripts are free. Looking something up in a connected tool counts toward your plan. Organisations that require the strictest data settings do not get this test yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-14"
+  }
+}
