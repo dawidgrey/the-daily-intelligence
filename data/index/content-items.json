@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-13T20:10:30Z",
+  "generatedAtUtc": "2026-11-14T20:10:50Z",
   "items": [
     {
-      "id": "content-item_2026-11-14_01_chatgpt-wallet-pays-without-your-card-number-you-still-approve-every-pur_5bf4951a",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Wallet pays without your card number. You still approve every purchase.",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "id": "content-item_2026-11-14_02_claude-can-join-the-meet-call-it-writes-the-notes-it-does-not-keep-the-a_21ab7432",
+      "id": "content-item_2026-11-15_01_claude-can-run-the-threads-you-still-pick-the-goal_a9dc79e6",
       "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Claude can join the Meet call. It writes the notes. It does not keep the audio.",
-      "sourceUrl": "https://claude.com/resources/articles/claude-meetings"
+      "title": "Claude can run the threads. You still pick the goal.",
+      "sourceUrl": "https://claude.com/resources/articles/projects-redesigned"
     },
     {
-      "id": "content-item_2026-11-14_03_claude-for-manufacturing-drafts-the-quote-it-does-not-run-the-machine_6b5db77d",
+      "id": "content-item_2026-11-15_02_the-agent-can-stay-on-your-network-the-beta-is-private_5b59c75a",
       "sourceKind": "product",
       "sourceName": "Anthropic",
-      "title": "Claude for Manufacturing drafts the quote. It does not run the machine.",
-      "sourceUrl": "https://claude.com/resources/articles/claude-for-manufacturing"
+      "title": "The agent can stay on your network. The beta is private.",
+      "sourceUrl": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
     },
     {
-      "id": "content-item_2026-11-14_04_openai-folded-the-robotics-team-into-the-general-model-groups_d6f57ed8",
+      "id": "content-item_2026-11-15_03_the-app-was-easy-to-build-the-records-were-easy-to-read_c8d55e52",
       "sourceKind": "article",
-      "sourceName": "Fortune",
-      "title": "OpenAI folded the robotics team into the general-model groups.",
-      "sourceUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+      "sourceName": "Crissy Field",
+      "title": "The app was easy to build. The records were easy to read.",
+      "sourceUrl": "https://www.crissyfield.de/research/lovable-en/"
     },
     {
-      "id": "content-item_2026-11-14_05_perplexity-decider-v1-3-returns-a-probability-not-a-paragraph_18188c8a",
+      "id": "content-item_2026-11-15_04_the-buffers-held-the-patch-window-is-getting-shorter_73104598",
+      "sourceKind": "regulation",
+      "sourceName": "APRA",
+      "title": "The buffers held. The patch window is getting shorter.",
+      "sourceUrl": "https://www.apra.gov.au/news-and-publications/apras-system-risk-outlook-november-2026"
+    },
+    {
+      "id": "content-item_2026-11-15_05_langchain-raised-300-million-to-sell-control-of-agents-not-a-model_1742558d",
+      "sourceKind": "article",
+      "sourceName": "LangChain",
+      "title": "LangChain raised $300 million to sell control of agents, not a model.",
+      "sourceUrl": "https://www.langchain.com/blog/series-c"
+    },
+    {
+      "id": "content-item_2026-11-15_06_the-agents-searched-people-still-checked-the-proof_90d40fe0",
       "sourceKind": "research",
-      "sourceName": "Perplexity",
-      "title": "Perplexity Decider v1.3 returns a probability, not a paragraph.",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+      "sourceName": "Google Research",
+      "title": "The agents searched. People still checked the proof.",
+      "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
     },
     {
-      "id": "content-item_2026-11-14_06_on-one-rtx-3090-ollama-was-slightly-faster-lm-studio-served-four-jobs-be_1c96c3a7",
-      "sourceKind": "article",
-      "sourceName": "homebrewserver.club",
-      "title": "On one RTX 3090, Ollama was slightly faster. LM Studio served four jobs better.",
-      "sourceUrl": "https://homebrewserver.club/lm-studio-vs-ollama.html"
+      "id": "content-item_2026-11-15_07_a-safer-score-can-mean-the-test-asked-the-wrong-question_26498fde",
+      "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "A safer score can mean the test asked the wrong question.",
+      "sourceUrl": "https://www.anthropic.com/research/building-strong-safety-evaluations"
     },
     {
-      "id": "content-item_2026-11-14_07_the-maya-site-was-already-in-a-journal-the-agents-missed-the-paper_3b869b11",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "The Maya site was already in a journal. The agents missed the paper.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+      "id": "content-item_2026-11-15_08_the-same-question-can-cost-more-tokens-in-another-language_e1387486",
+      "sourceKind": "research",
+      "sourceName": "University of Michigan",
+      "title": "The same question can cost more tokens in another language.",
+      "sourceUrl": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
     },
     {
-      "id": "content-item_2026-11-14_08_daybreak-can-test-a-web-app-and-draft-a-patch-a-person-still-merges-it_4ee6684a",
+      "id": "content-item_2026-11-15_09_the-agent-can-click-the-old-portal-a-person-still-sets-the-limit_d1318183",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "Daybreak can test a web app and draft a patch. A person still merges it.",
-      "sourceUrl": "https://openai.com/daybreak/red-team/"
+      "title": "The agent can click the old portal. A person still sets the limit.",
+      "sourceUrl": "https://openai.com/business/customer-stories/shield"
     },
     {
-      "id": "content-item_2026-11-14_09_elevenai-takes-the-notes-and-the-dictation-it-is-a-preview-not-a-downloa_744da6a2",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "ElevenAI takes the notes and the dictation. It is a preview, not a download.",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+      "id": "content-item_2026-11-15_10_glm-5-3-does-not-fit-one-gpu-two-stations-can-share-it_dbb6a705",
+      "sourceKind": "article",
+      "sourceName": "NVIDIA",
+      "title": "GLM-5.3 does not fit one GPU. Two stations can share it.",
+      "sourceUrl": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
     },
     {
-      "id": "content-item_2026-11-14_10_llama-cpp-v1-0-promises-a-stable-c-api-a-break-will-change-the-major-ver_40e78db6",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "llama.cpp v1.0 promises a stable C API. A break will change the major version.",
-      "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
-      "id": "content-item_2026-11-14_11_volcengine-openviking-agent-memory-you-can-open-as-files_22094f39",
+      "id": "content-item_2026-11-15_11_tradermonty-claude-trading-skills-a-checklist-before-the-trade-not-a-tip_ec453d12",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "volcengine/OpenViking: agent memory you can open as files",
-      "sourceUrl": "https://github.com/volcengine/OpenViking"
+      "title": "tradermonty/claude-trading-skills: a checklist before the trade, not a tip",
+      "sourceUrl": "https://github.com/tradermonty/claude-trading-skills"
     },
     {
-      "id": "content-item_2026-11-14_12_backnotprop-plannotator-mark-up-the-plan-then-send-it-back-to-the-agent_09a3e479",
+      "id": "content-item_2026-11-15_12_juliusbrussee-caveman-shorter-agent-talk-same-code-author-s-own-numbers_3fa1090a",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "backnotprop/plannotator: mark up the plan, then send it back to the agent",
-      "sourceUrl": "https://github.com/backnotprop/plannotator"
+      "title": "JuliusBrussee/caveman: shorter agent talk, same code, author's own numbers",
+      "sourceUrl": "https://github.com/JuliusBrussee/caveman"
     },
     {
-      "id": "content-item_2026-11-14_13_a2ui-project-a2ui-the-agent-sends-layout-data-your-app-draws-the-buttons_4e2960d2",
+      "id": "content-item_2026-11-15_13_nvidia-skillevaluator-test-the-skill-before-you-trust-the-agent_37814481",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "a2ui-project/a2ui: the agent sends layout data, your app draws the buttons",
-      "sourceUrl": "https://github.com/a2ui-project/a2ui"
+      "title": "NVIDIA/SkillEvaluator: test the skill before you trust the agent",
+      "sourceUrl": "https://github.com/NVIDIA/SkillEvaluator"
     }
   ]
 }

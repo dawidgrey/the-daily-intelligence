@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_13_nvidia-skillevaluator-test-the-skill-before-you-trust-the-agent_37814481",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/NVIDIA/SkillEvaluator",
+  "canonicalUrl": "https://github.com/NVIDIA/SkillEvaluator",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "NVIDIA/SkillEvaluator: test the skill before you trust the agent",
+  "friendlyTitle": "NVIDIA's tool for testing an agent skill before you install it",
+  "summary": "SkillEvaluator is NVIDIA's framework for checking agent skills, the folders of instructions an agent loads before a task. It starts with quality checks, including overlap between skills, and can then compare live runs with the skill on and off. The first tier runs from the command line without an API key. It is Apache-2.0 licensed and gained 168 stars on GitHub Trending today.",
+  "friendlySummary": "SkillEvaluator checks the instruction folders that agents load before they do a job. It looks for quality problems first, including skills that overlap. It can then run the same task with the skill and without it. The first checks do not need an API key. It gained 168 stars on GitHub today.",
+  "whyItMatters": "Point it at a skill folder before you install that skill into Claude Code, Codex, or another agent. A passing text check is not the same as a better result, so use the with-and-without run when the skill will touch real work. Documentation is on NVIDIA's docs site.",
+  "friendlyWhyItMatters": "Run it on a skill before you add that skill to Claude, Codex, or another agent. A clean text check does not prove the skill helps. When the skill will touch real work, compare a run with it and a run without it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

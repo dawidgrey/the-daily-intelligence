@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_08_the-same-question-can-cost-more-tokens-in-another-language_e1387486",
+  "sourceKind": "research",
+  "sourceName": "University of Michigan",
+  "sourceUrl": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+  "canonicalUrl": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The same question can cost more tokens in another language.",
+  "friendlyTitle": "The same question can cost more in another language.",
+  "summary": "A University of Michigan study, published on 5 November and presented at EMNLP, measured Qwen 3, Gemma 3, and Llama 3.1 on reading questions in 122 languages. English used the least energy. Hindi used about 7.9 times as much as English, and Bengali about 15.3 times. The researchers say the gap comes from more tokens, and that languages using more tokens also tended to get weaker answers. Western European languages were often at twice the English energy, or less.",
+  "friendlySummary": "University of Michigan researchers measured three open AI models on reading questions in 122 languages. English used the least energy. Hindi used about 8 times as much, and Bengali about 15 times as much. The reason was more text pieces for the model to process. Languages that needed more pieces also tended to get weaker answers.",
+  "whyItMatters": "If you pay by the token, a prompt in your own language can cost more than the same prompt in English, and the answer may be weaker. The researchers suggest routing to a model built for that language, or translating first when the translation is reliable. The figures are from three open models on benchmark questions, not from every commercial chat app.",
+  "friendlyWhyItMatters": "If you pay by the piece of text, asking in your own language can cost more than asking in English. The answer may also be worse. A model built for that language, or a good translation step first, can narrow the gap. These numbers are from three open models on test questions, not from every chat app.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

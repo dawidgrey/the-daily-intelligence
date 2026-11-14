@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_06_the-agents-searched-people-still-checked-the-proof_90d40fe0",
+  "sourceKind": "research",
+  "sourceName": "Google Research",
+  "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+  "canonicalUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The agents searched. People still checked the proof.",
+  "friendlyTitle": "The agents searched. People still checked the proof.",
+  "summary": "On 13 November, Google Research reported results from Antigravity's /teamwork, a multi-agent setup built on Gemini 4 models. Partner teams used it on open problems in maths, chemistry, and systems work. One result is a Lean-checked proof of the 2013 Courtade–Kumar conjecture, produced with researchers from Google, CUHK, USC, and CMU. Google says the tools are available in Antigravity, with more features still rolling out to outside users.",
+  "friendlySummary": "On 13 November, Google Research described a team of agents working with Gemini 4 models. Researchers used it on open problems in maths, chemistry, and software. One result is a machine-checked proof of a maths conjecture from 2013, done with university partners. Google says the tools are in Antigravity, with more still coming for outside users.",
+  "whyItMatters": "The useful pattern is not one prompt and a trusted answer. Each agent gets only the files it needs, and a separate checker — a proof tool, a test suite, or a simulator — rejects candidates that fail. If you do research or long engineering work, that split is the part worth copying. The person still frames the question and signs the result.",
+  "friendlyWhyItMatters": "Do not treat one long answer as finished work. Give each agent only the files it needs, and let a separate checker reject bad attempts. A proof tool, a test, or a simulator can do that job. A person still has to ask the question and accept the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

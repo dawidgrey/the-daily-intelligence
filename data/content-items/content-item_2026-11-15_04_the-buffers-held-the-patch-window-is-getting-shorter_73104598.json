@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_04_the-buffers-held-the-patch-window-is-getting-shorter_73104598",
+  "sourceKind": "regulation",
+  "sourceName": "APRA",
+  "sourceUrl": "https://www.apra.gov.au/news-and-publications/apras-system-risk-outlook-november-2026",
+  "canonicalUrl": "https://www.apra.gov.au/news-and-publications/apras-system-risk-outlook-november-2026",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The buffers held. The patch window is getting shorter.",
+  "friendlyTitle": "The banks are still steady. They have less time to fix a hole.",
+  "summary": "On 12 November, APRA published its System Risk Outlook. The regulator says Australia's banks, insurers, and super funds remain resilient, and that this cannot be assumed if financial and operational shocks arrive together. It says frontier models are getting better at finding software flaws and automating complex cyber tasks, which can leave less time to patch. Its 2027 system stress test will look at AI-driven economic disruption, including a sharp fall in AI-related asset values.",
+  "friendlySummary": "On 12 November, Australia's financial regulator, APRA, published its risk outlook. It says banks, insurers, and super funds are still strong. It also says the newest AI models can find software holes faster, so there is less time to fix them. In 2027 it will test what happens if AI shakes up businesses or AI company values fall hard.",
+  "whyItMatters": "For a bank, insurer, or super fund, APRA's practical list is still ordinary: patch on time, control who can log in, and test recovery. AI may help find flaws, but the regulator says it does not replace those basics, and it needs a person in charge. Customers should care because a shared service provider can spread one failure across many institutions.",
+  "friendlyWhyItMatters": "If you bank or hold super, the useful part is simple. Patch on time. Control who can sign in. Practise how you recover. AI can help find problems, but it does not replace those basics. One shared supplier can spread a failure to many companies.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

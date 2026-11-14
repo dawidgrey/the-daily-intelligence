@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_03_the-app-was-easy-to-build-the-records-were-easy-to-read_c8d55e52",
+  "sourceKind": "article",
+  "sourceName": "Crissy Field",
+  "sourceUrl": "https://www.crissyfield.de/research/lovable-en/",
+  "canonicalUrl": "https://www.crissyfield.de/research/lovable-en/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The app was easy to build. The records were easy to read.",
+  "friendlyTitle": "The app was easy to build. Strangers could read the records.",
+  "summary": "Crissy Field examined 159,041 Lovable projects archived from December 2025 to September 2026. Of 24,664 sites that sent database records as soon as the page loaded, the firm found email-bearing records in 7,403 of them. The examples include a forum with more than 80,000 profiles and 200,000 chat messages, and one service with more than 1,000 identity-document records, including passport numbers. The firm says that 30 percent figure is not a confirmed leak rate, and it is not publishing how the records were retrieved.",
+  "friendlySummary": "A security firm looked at 159,041 apps built with Lovable, from old public web archives. On thousands of them, database records loaded without a login. The examples include a forum with more than 80,000 profiles and 200,000 messages, and one service with passport details. The firm is not publishing how it fetched the records.",
+  "whyItMatters": "Lovable's terms put data responsibility on the customer, even when the pitch is that no technical skill is required. If an app holds customer, tenant, or identity data, check who can read it before you treat the builder as a security review. Access mistakes are not unique to AI-built apps. A shared pattern across many apps makes the same mistake easier to find.",
+  "friendlyWhyItMatters": "An easy builder does not mean the data is locked. Lovable's terms say the customer is responsible for the data. Before an app stores customer or identity records, have someone check who can read them. This kind of mistake can happen in any app. It is easier to repeat when many apps are built the same way.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

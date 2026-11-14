@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_02_the-agent-can-stay-on-your-network-the-beta-is-private_5b59c75a",
+  "sourceKind": "product",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+  "canonicalUrl": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The agent can stay on your network. The beta is private.",
+  "friendlyTitle": "You can run the agent inside your own network. You have to ask for access.",
+  "summary": "On 12 November, Anthropic opened a private beta for self-hosted Claude Managed Agents. The harness, sandboxes, credentials, and session history can run in your own cloud or on your own machines. Model calls can go to Anthropic, Amazon Bedrock, Google's Agent Platform, Microsoft Foundry, or a gateway you run. Developers still use the same core APIs as the hosted service.",
+  "friendlySummary": "On 12 November, Anthropic opened a private test of agents you host yourself. The agent, its work area, its passwords, and its history can stay in your cloud or on your own machines. The model request can still go to Anthropic, or to Amazon, Google, Microsoft, or a gate you run.",
+  "whyItMatters": "This is for agents that touch internal code and systems, where a hosted sandbox is not enough. Anthropic's design keeps the agent loop outside the sandbox, adds credentials through a proxy rather than inside the sandbox, and can limit which hosts a session may reach. Every step is meant to export to the monitoring tools you already use. Access is through an Anthropic account team, not a public download.",
+  "friendlyWhyItMatters": "This is for work that should not leave your network. The design keeps passwords out of the area where the agent's code runs, and you can limit which sites it may call. Each step can be sent to the logs you already use. It is not a public download. You ask Anthropic for access.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

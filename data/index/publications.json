@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-13T20:10:31Z",
+  "generatedAtUtc": "2026-11-14T20:10:51Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-15",
+      "slug": "2026-11-15",
+      "status": "published",
+      "publicationDateUtc": "2026-11-14T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The agent can keep going. The fence is still yours.",
+      "friendlyHeader": "An agent can keep working after you leave. You still set the limits.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Anthropic let a Claude Code project run parallel threads after you step away, and opened a private way to keep that control plane on your own network. A security firm found AI-built apps leaving personal records readable. The rest is what to check before you trust a safety score, a token bill, or an agent with a login.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Anthropic let a Claude project run several jobs at once, even after you step away. A security firm found some AI-built apps left personal records open. The other items cover safety tests, language costs, and tools you can inspect yourself.",
+      "itemCount": 13,
+      "href": "issues/2026-11-15.html",
+      "dataUrl": "data/daily-publications/2026-11-15.json"
+    },
     {
       "id": "daily-publication_2026-11-14",
       "slug": "2026-11-14",

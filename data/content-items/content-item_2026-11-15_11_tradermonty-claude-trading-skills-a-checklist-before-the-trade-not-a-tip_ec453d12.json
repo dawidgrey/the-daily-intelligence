@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_11_tradermonty-claude-trading-skills-a-checklist-before-the-trade-not-a-tip_ec453d12",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/tradermonty/claude-trading-skills",
+  "canonicalUrl": "https://github.com/tradermonty/claude-trading-skills",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "tradermonty/claude-trading-skills: a checklist before the trade, not a tip",
+  "friendlyTitle": "A Claude toolkit for checking a trade, not for picking one",
+  "summary": "Claude Trading Skills is an open toolkit of Claude skills for individual investors who cannot watch the market all day. It covers market review, charts, calendars, screeners, risk checks, trade planning, and a journal. The author says the point is a better decision process, not handing buy and sell decisions to a model. It led today's Python list on GitHub Trending, with 556 stars in the day.",
+  "friendlySummary": "This open project gives Claude a set of skills for people who invest but do not have all day to watch prices. It helps with a market review, charts, calendars, screens, risk checks, a plan, and a journal. The author says the goal is a better process, not letting the model decide what to buy. It was the top Python project on GitHub Trending today.",
+  "whyItMatters": "Use it to force a review before a trade: risk first, then a candidate, then a written plan and a journal. It is not a signal service, not financial advice, and not a broker. A screen or a backtest in the repo is the author's process, not a promise of profit.",
+  "friendlyWhyItMatters": "Use it to slow a decision down: check the risk, then look for a candidate, then write the plan and keep a journal. It does not tell you what to buy. It is not advice, and it is not a broker. Past screens in the project do not promise a profit.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_09_the-agent-can-click-the-old-portal-a-person-still-sets-the-limit_d1318183",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/business/customer-stories/shield",
+  "canonicalUrl": "https://openai.com/business/customer-stories/shield",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "The agent can click the old portal. A person still sets the limit.",
+  "friendlyTitle": "The agent can click through the old website. A person still sets the limit.",
+  "summary": "On 13 November, OpenAI published a customer story about Shield, an IT-services firm. Shield says GPT-6 Astra now handles supported browser tasks in older portals that have no API, inside its Forge platform. Technicians choose which actions the agent may take alone and which need a review. Shield says these browser workflows are live, with thousands of runs a month, and that the model was 35 to 40 percent faster than the computer-use models it used before. Phone calls, on-site work, and remote-desktop tasks still need a person.",
+  "friendlySummary": "On 13 November, OpenAI told a customer story about Shield, a firm that supports other companies' computers. Shield says a new model can now do some jobs in old websites that have no proper connection for software. Technicians choose what the agent may do alone, and what a person must check. Calls, visits, and remote-desktop work still need a person.",
+  "whyItMatters": "This is a vendor case study, not an independent test. The useful part is the split: hand off the login-and-click work, and keep a person for judgment and for anything the agent is not allowed to do. If your own tools have no API, computer use is the workaround, and it still needs an allow-list.",
+  "friendlyWhyItMatters": "This is the company's report, not an outside test. The useful idea is the split. Let the agent do the clicking. Keep a person for judgment, and for anything you have not allowed. If your tools have no proper connection, an agent that uses the screen is a workaround. It still needs a list of what it may touch.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

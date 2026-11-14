@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_10_glm-5-3-does-not-fit-one-gpu-two-stations-can-share-it_dbb6a705",
+  "sourceKind": "article",
+  "sourceName": "NVIDIA",
+  "sourceUrl": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+  "canonicalUrl": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "GLM-5.3 does not fit one GPU. Two stations can share it.",
+  "friendlyTitle": "This large model does not fit on one graphics chip. Two machines can share it.",
+  "summary": "On 13 November, NVIDIA published a tutorial for serving GLM-5.3 NVFP4 across two DGX Stations with vLLM. The quantized model has 753 billion parameters, with about 40 billion active per token, and the checkpoint is about 464 GB. That is more than the 252 GB on one GB300 GPU. The setup splits the weights across both machines and exposes one OpenAI-compatible endpoint. On NVIDIA's own coding benchmark, output peaked at 607.8 tokens per second with 16 requests at once.",
+  "friendlySummary": "On 13 November, NVIDIA showed how to run a compressed GLM-5.3 model across two of its DGX Station computers. The model file is about 464 GB. One of these chips has 252 GB, so one machine is not enough. The two machines act as one service that other software can call. On NVIDIA's own test, the fastest result was about 608 tokens a second.",
+  "whyItMatters": "If you want a frontier-sized model on hardware you control, one box may no longer be enough, even after quantization. This path is for teams that already have two DGX Stations and can accept the license terms. The speed figure is NVIDIA's, on its own coding set, and it fell to 385 tokens per second with 32 requests at once.",
+  "friendlyWhyItMatters": "A very large model may not fit on one computer, even after it is compressed. This guide is for teams that already own two of these machines and accept the license. The speed number is NVIDIA's own test. It dropped when more people asked at the same time.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}

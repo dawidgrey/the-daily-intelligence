@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-15_07_a-safer-score-can-mean-the-test-asked-the-wrong-question_26498fde",
+  "sourceKind": "research",
+  "sourceName": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+  "canonicalUrl": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-14T20:10:50Z",
+  "createdAtUtc": "2026-11-14T20:10:50Z",
+  "updatedAtUtc": "2026-11-14T20:10:50Z",
+  "title": "A safer score can mean the test asked the wrong question.",
+  "friendlyTitle": "A high safety score can mean the test asked the wrong question.",
+  "summary": "Anthropic published a guide for people who build or rely on AI safety tests. The warning is that a safety claim is only as sound as the test behind it. A model that refuses every sensitive prompt can score well and still fail a person who needed a careful answer. In a Claude Fable 5.1 check, Anthropic says a system-prompt change moved the appropriate-response rate from 60 percent on the API to 94 percent on claude.ai.",
+  "friendlySummary": "Anthropic published a guide on how to test whether an AI model did the right thing. A model can look safe because it refuses every hard prompt, and still fail someone who needed a careful answer. In one Claude check, Anthropic says a change to the instructions moved the good-response rate from 60 percent on the API to 94 percent on claude.ai.",
+  "whyItMatters": "If you read a model card, ask what was measured, who graded it, and whether people agreed with the grader. Anthropic's short list is: write down the thing you mean to measure before you collect data, check the grader against human judgment, and report the uncertainty. Do not compare two scores when the settings changed.",
+  "friendlyWhyItMatters": "When you read a safety number, ask what was measured and who marked the answers. Write down the question before you run the test. Check the marker against people. Show how sure the number is. Do not compare two scores if the settings were different.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-15"
+  }
+}
