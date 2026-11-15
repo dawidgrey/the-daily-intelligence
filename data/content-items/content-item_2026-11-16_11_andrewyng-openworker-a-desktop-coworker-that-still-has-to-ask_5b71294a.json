@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_11_andrewyng-openworker-a-desktop-coworker-that-still-has-to-ask_5b71294a",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/andrewyng/openworker",
+  "canonicalUrl": "https://github.com/andrewyng/openworker",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "andrewyng/openworker: a desktop coworker that still has to ask",
+  "friendlyTitle": "OpenWorker: a desktop coworker that still has to ask",
+  "summary": "OpenWorker is Andrew Ng's open desktop app for research, writing, and code review, plus a harness SDK for building your own agent app. It runs on your machine. You bring a cloud key or a local model through Ollama. GitHub lists about 19,300 stars, and it gained 139 more on today's trending list. The latest release is v0.3.1, from 5 October. It is MIT licensed, and the desktop app is an open beta.",
+  "friendlySummary": "OpenWorker is Andrew Ng's free desktop app for research, writing, and code review. It also includes a kit for building your own agent app. It runs on your computer. You bring a cloud key, or a local model through Ollama. GitHub lists about 19,300 stars, and it gained 139 more on today's trending list. The latest release, v0.3.1, is from 5 October. The license is MIT, and the desktop app is still a public test.",
+  "whyItMatters": "Use the desktop app when you want a brief, a folder, or a reviewed pull request without sending the files to a hosted agent. Some dangerous actions stay human-only, even in auto-approve. Windows builds are not code-signed yet, so SmartScreen will warn. The agent can propose the write. You still approve it.",
+  "friendlyWhyItMatters": "Use the desktop app when you want a brief, a tidy folder, or a reviewed code change without sending the files to a hosted agent. Some dangerous actions always need a person, even if you turn on auto-approve. The Windows download is not signed yet, so Windows will warn. The agent can suggest the file. You still approve it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

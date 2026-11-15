@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_12_ag-ui-protocol-ag-ui-the-agent-sends-events-your-app-draws-the-chat_d9a65073",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/ag-ui-protocol/ag-ui",
+  "canonicalUrl": "https://github.com/ag-ui-protocol/ag-ui",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "ag-ui-protocol/ag-ui: the agent sends events, your app draws the chat",
+  "friendlyTitle": "AG-UI: the agent sends events, and your app draws the chat",
+  "summary": "AG-UI is an open, event-based protocol for putting an agent inside an application. During a run, the backend emits one of about 16 event types. The app decides how that looks. It is MIT licensed. GitHub lists about 17,700 stars, and it gained 393 today. The current release is dated 13 November.",
+  "friendlySummary": "AG-UI is an open set of events for putting an agent inside an app you already have. While the agent works, it sends one of about 16 event types. Your app decides how that looks. The license is MIT. GitHub lists about 17,700 stars, and it gained 393 today. The latest release is from 13 November.",
+  "whyItMatters": "Use it when the chat, the buttons, and the status have to live in your own interface, not in someone else's. MCP is how an agent calls tools. AG-UI is how a person sees the run. The protocol does not review the agent's work for you.",
+  "friendlyWhyItMatters": "Use it when the chat, the buttons, and the status have to live in your own app. A different standard, MCP, is how an agent calls tools. AG-UI is how a person sees the work. The protocol does not check the agent's answer for you.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

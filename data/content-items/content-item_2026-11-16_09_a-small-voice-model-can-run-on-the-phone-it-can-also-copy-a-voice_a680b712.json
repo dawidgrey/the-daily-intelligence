@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_09_a-small-voice-model-can-run-on-the-phone-it-can-also-copy-a-voice_a680b712",
+  "sourceKind": "product",
+  "sourceName": "Zyphra",
+  "sourceUrl": "https://huggingface.co/blog/Zyphra/zonos3-mini",
+  "canonicalUrl": "https://huggingface.co/blog/Zyphra/zonos3-mini",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "A small voice model can run on the phone. It can also copy a voice.",
+  "friendlyTitle": "A small voice model can run on the phone. It can also copy a voice.",
+  "summary": "On 11 November, Zyphra released ZONOS3-Mini, with weights under Apache 2.0. It uses 100 million active parameters, 800 million in total, and it speaks 43 languages. Zyphra says time to the first audio was under 570 milliseconds in the browser on a Pixel 9, and under 150 milliseconds on an M3 MacBook Air. On Zyphra's own multilingual test, it ranked first among open-weight models.",
+  "friendlySummary": "On 11 November, Zyphra released a text-to-speech model with free Apache 2.0 weights. It uses 100 million active parameters, out of 800 million in total, and it speaks 43 languages. Zyphra says the first sound arrived in under 570 milliseconds in the browser on a Pixel 9, and in under 150 milliseconds on an M3 MacBook Air. On Zyphra's own test, it ranked first among open models.",
+  "whyItMatters": "A voice you can run on your own machine is useful for a reader, a prototype, or a copy of your own voice. Zero-shot cloning means a short sample is enough. That is a reason to use your own voice, not someone else's. The speed and rank figures are Zyphra's.",
+  "friendlyWhyItMatters": "A voice that runs on your own phone or laptop is useful for reading text aloud, or for a copy of your own voice. It can copy a voice from a short sample. Use your own. Do not copy someone else's. The speed and rank numbers come from Zyphra.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

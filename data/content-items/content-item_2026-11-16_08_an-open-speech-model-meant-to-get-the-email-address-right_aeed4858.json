@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_08_an-open-speech-model-meant-to-get-the-email-address-right_aeed4858",
+  "sourceKind": "product",
+  "sourceName": "Salesforce",
+  "sourceUrl": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+  "canonicalUrl": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "An open speech model, meant to get the email address right.",
+  "friendlyTitle": "An open speech model that is meant to get the email address right.",
+  "summary": "On 12 November, Salesforce released SOV-Transcribe-1 under the Apache 2.0 license. It has 4 billion active parameters, 26 billion in total, and it transcribes a finished recording rather than a live stream. Salesforce says that, as of 12 November, it had a 2.28 percent word error rate on Artificial Analysis, first among open-weight non-streaming models and seventh overall. On a private test of phone numbers, emails, and code symbols, it passed 76.3 percent of recordings and recovered 93.4 percent of the target terms.",
+  "friendlySummary": "On 12 November, Salesforce released a speech-to-text model you can download, under a free Apache 2.0 license. It uses 4 billion active parameters, out of 26 billion in total, and it works on a finished recording, not a live call. Salesforce says that on 12 November it had a 2.28 percent word error rate, the best open model of its type on that public list, and seventh overall. On a private test of phone numbers, emails, and code, it got every target term right in 76.3 percent of recordings.",
+  "whyItMatters": "A transcript that looks fine can still drop a digit. If you run voice notes or call transcripts yourself, the useful parts are the license and the entity score, not the rank. Those scores are Salesforce's, on the tests it names. The technical report was still listed as coming soon.",
+  "friendlyWhyItMatters": "A transcript can look fine and still drop a digit. If you keep your own voice notes or call transcripts, the license and the score on names and numbers matter more than the rank. Those scores come from Salesforce, on the tests it names. The long technical report was not out yet.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_13_kajisho5-ffmpeg-skill-cut-the-video-on-this-machine-with-no-upload_45b453e3",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/kajisho5/ffmpeg-skill",
+  "canonicalUrl": "https://github.com/kajisho5/ffmpeg-skill",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "kajisho5/ffmpeg-skill: cut the video on this machine, with no upload",
+  "friendlyTitle": "ffmpeg-skill: cut the video on this computer, with no upload",
+  "summary": "ffmpeg-skill gives a coding agent 42 local FFmpeg tools, plus an MCP server, for cuts, captions, reframing, loudness, and exports sized for a platform. It needs no cloud account and no API key. GitHub lists about 5,900 stars, and it gained 285 today. Version 3.9.3 landed on 15 November. It is MIT licensed.",
+  "friendlySummary": "ffmpeg-skill gives a coding agent 42 local video tools, plus a server the agent can call. It can cut, add captions, reframe, fix loudness, and export for a platform. It does not need a cloud account or an API key. GitHub lists about 5,900 stars, and it gained 285 today. Version 3.9.3 came out on 15 November. The license is MIT.",
+  "whyItMatters": "Ask the agent to trim a clip or burn in captions, and the file stays on the machine. You still need FFmpeg installed. The agent proposes the edit. You keep the original until you decide the output is the one you wanted.",
+  "friendlyWhyItMatters": "Ask the agent to trim a clip or add captions, and the file stays on your computer. You still need FFmpeg installed. The agent suggests the edit. Keep the original until you have checked the result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

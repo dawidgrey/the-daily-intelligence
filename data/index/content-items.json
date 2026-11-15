@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-14T20:10:50Z",
+  "generatedAtUtc": "2026-11-15T20:12:28Z",
   "items": [
     {
-      "id": "content-item_2026-11-15_01_claude-can-run-the-threads-you-still-pick-the-goal_a9dc79e6",
+      "id": "content-item_2026-11-16_01_gemini-can-read-the-spending-it-cannot-move-the-money_12b9210c",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "Claude can run the threads. You still pick the goal.",
-      "sourceUrl": "https://claude.com/resources/articles/projects-redesigned"
+      "sourceName": "Google",
+      "title": "Gemini can read the spending. It cannot move the money.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
     },
     {
-      "id": "content-item_2026-11-15_02_the-agent-can-stay-on-your-network-the-beta-is-private_5b59c75a",
+      "id": "content-item_2026-11-16_02_gemini-live-is-on-the-carplay-screen-the-brief-is-not-for-everyone_845b2050",
       "sourceKind": "product",
-      "sourceName": "Anthropic",
-      "title": "The agent can stay on your network. The beta is private.",
-      "sourceUrl": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+      "sourceName": "Google",
+      "title": "Gemini Live is on the CarPlay screen. The brief is not for everyone.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
     },
     {
-      "id": "content-item_2026-11-15_03_the-app-was-easy-to-build-the-records-were-easy-to-read_c8d55e52",
+      "id": "content-item_2026-11-16_03_muse-will-phone-the-business-the-business-may-hang-up_1a628d75",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Muse will phone the business. The business may hang up.",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "id": "content-item_2026-11-16_04_solo-closes-on-30-november-the-page-does-not-move-itself_897abc72",
       "sourceKind": "article",
-      "sourceName": "Crissy Field",
-      "title": "The app was easy to build. The records were easy to read.",
-      "sourceUrl": "https://www.crissyfield.de/research/lovable-en/"
+      "sourceName": "The Register",
+      "title": "Solo closes on 30 November. The page does not move itself.",
+      "sourceUrl": "https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632"
     },
     {
-      "id": "content-item_2026-11-15_04_the-buffers-held-the-patch-window-is-getting-shorter_73104598",
+      "id": "content-item_2026-11-16_05_the-adviser-covers-all-22-centers-a-person-still-accepts-the-route_c479f284",
       "sourceKind": "regulation",
-      "sourceName": "APRA",
-      "title": "The buffers held. The patch window is getting shorter.",
-      "sourceUrl": "https://www.apra.gov.au/news-and-publications/apras-system-risk-outlook-november-2026"
+      "sourceName": "Ars Technica",
+      "title": "The adviser covers all 22 centers. A person still accepts the route.",
+      "sourceUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     },
     {
-      "id": "content-item_2026-11-15_05_langchain-raised-300-million-to-sell-control-of-agents-not-a-model_1742558d",
-      "sourceKind": "article",
-      "sourceName": "LangChain",
-      "title": "LangChain raised $300 million to sell control of agents, not a model.",
-      "sourceUrl": "https://www.langchain.com/blog/series-c"
-    },
-    {
-      "id": "content-item_2026-11-15_06_the-agents-searched-people-still-checked-the-proof_90d40fe0",
-      "sourceKind": "research",
-      "sourceName": "Google Research",
-      "title": "The agents searched. People still checked the proof.",
-      "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
-    },
-    {
-      "id": "content-item_2026-11-15_07_a-safer-score-can-mean-the-test-asked-the-wrong-question_26498fde",
-      "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "A safer score can mean the test asked the wrong question.",
-      "sourceUrl": "https://www.anthropic.com/research/building-strong-safety-evaluations"
-    },
-    {
-      "id": "content-item_2026-11-15_08_the-same-question-can-cost-more-tokens-in-another-language_e1387486",
-      "sourceKind": "research",
-      "sourceName": "University of Michigan",
-      "title": "The same question can cost more tokens in another language.",
-      "sourceUrl": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
-    },
-    {
-      "id": "content-item_2026-11-15_09_the-agent-can-click-the-old-portal-a-person-still-sets-the-limit_d1318183",
+      "id": "content-item_2026-11-16_06_codex-is-dropping-plan-mode-no-date-yet_49e6a92a",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "The agent can click the old portal. A person still sets the limit.",
-      "sourceUrl": "https://openai.com/business/customer-stories/shield"
+      "title": "Codex is dropping plan mode. No date yet.",
+      "sourceUrl": "https://github.com/openai/codex/issues/18490#issuecomment-6890525683"
     },
     {
-      "id": "content-item_2026-11-15_10_glm-5-3-does-not-fit-one-gpu-two-stations-can-share-it_dbb6a705",
-      "sourceKind": "article",
-      "sourceName": "NVIDIA",
-      "title": "GLM-5.3 does not fit one GPU. Two stations can share it.",
-      "sourceUrl": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
+      "id": "content-item_2026-11-16_07_the-model-answered-the-question-the-question-was-the-wrong-one_8400bdfe",
+      "sourceKind": "research",
+      "sourceName": "Allen Institute for AI",
+      "title": "The model answered the question. The question was the wrong one.",
+      "sourceUrl": "https://huggingface.co/blog/allenai/xybench"
     },
     {
-      "id": "content-item_2026-11-15_11_tradermonty-claude-trading-skills-a-checklist-before-the-trade-not-a-tip_ec453d12",
+      "id": "content-item_2026-11-16_08_an-open-speech-model-meant-to-get-the-email-address-right_aeed4858",
+      "sourceKind": "product",
+      "sourceName": "Salesforce",
+      "title": "An open speech model, meant to get the email address right.",
+      "sourceUrl": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1"
+    },
+    {
+      "id": "content-item_2026-11-16_09_a-small-voice-model-can-run-on-the-phone-it-can-also-copy-a-voice_a680b712",
+      "sourceKind": "product",
+      "sourceName": "Zyphra",
+      "title": "A small voice model can run on the phone. It can also copy a voice.",
+      "sourceUrl": "https://huggingface.co/blog/Zyphra/zonos3-mini"
+    },
+    {
+      "id": "content-item_2026-11-16_10_six-open-models-match-a-blackwell-start-that-is-not-a-map-of-the-chips_d096a8a4",
+      "sourceKind": "research",
+      "sourceName": "Unemployment Labs",
+      "title": "Six open models match a Blackwell start. That is not a map of the chips.",
+      "sourceUrl": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+      "id": "content-item_2026-11-16_11_andrewyng-openworker-a-desktop-coworker-that-still-has-to-ask_5b71294a",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "tradermonty/claude-trading-skills: a checklist before the trade, not a tip",
-      "sourceUrl": "https://github.com/tradermonty/claude-trading-skills"
+      "title": "andrewyng/openworker: a desktop coworker that still has to ask",
+      "sourceUrl": "https://github.com/andrewyng/openworker"
     },
     {
-      "id": "content-item_2026-11-15_12_juliusbrussee-caveman-shorter-agent-talk-same-code-author-s-own-numbers_3fa1090a",
+      "id": "content-item_2026-11-16_12_ag-ui-protocol-ag-ui-the-agent-sends-events-your-app-draws-the-chat_d9a65073",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "JuliusBrussee/caveman: shorter agent talk, same code, author's own numbers",
-      "sourceUrl": "https://github.com/JuliusBrussee/caveman"
+      "title": "ag-ui-protocol/ag-ui: the agent sends events, your app draws the chat",
+      "sourceUrl": "https://github.com/ag-ui-protocol/ag-ui"
     },
     {
-      "id": "content-item_2026-11-15_13_nvidia-skillevaluator-test-the-skill-before-you-trust-the-agent_37814481",
+      "id": "content-item_2026-11-16_13_kajisho5-ffmpeg-skill-cut-the-video-on-this-machine-with-no-upload_45b453e3",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "NVIDIA/SkillEvaluator: test the skill before you trust the agent",
-      "sourceUrl": "https://github.com/NVIDIA/SkillEvaluator"
+      "title": "kajisho5/ffmpeg-skill: cut the video on this machine, with no upload",
+      "sourceUrl": "https://github.com/kajisho5/ffmpeg-skill"
     }
   ]
 }

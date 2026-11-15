@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_05_the-adviser-covers-all-22-centers-a-person-still-accepts-the-route_c479f284",
+  "sourceKind": "regulation",
+  "sourceName": "Ars Technica",
+  "sourceUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "canonicalUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "The adviser covers all 22 centers. A person still accepts the route.",
+  "friendlyTitle": "The flight adviser now covers the whole country. A person still accepts the route.",
+  "summary": "On 10 November, the US Federal Aviation Administration said it will use SMART, its $875 million traffic adviser, in the airspace of all 22 centers. Since 21 September, in the Washington region, the agency says it rerouted 180 flights and saved about 10 minutes and almost 80 gallons of fuel per flight. Those figures are the FAA's, for that first region. A team in Washington checks a recommendation before it goes out. Local controllers can refuse it. The system is not allowed to fly the aircraft.",
+  "friendlySummary": "On 10 November, the US aviation agency said it will use SMART, an $875 million traffic adviser, across all 22 air-traffic centers. Since 21 September, around Washington, the agency says it changed the route of 180 flights and saved about 10 minutes and almost 80 gallons of fuel each. Those numbers are the agency's, and only for that first area. A team in Washington checks each suggestion. Local controllers can say no. The system is not allowed to fly the plane.",
+  "whyItMatters": "If you fly in the US, the change is a suggested route, not an autopilot. The controllers' union, NATCA, told Flying it was not involved in the design, testing, or rollout, so it will not vouch for the effect on staff. Ars notes the FAA has not shown the same savings on a named passenger flight.",
+  "friendlyWhyItMatters": "If you fly in the US, this is a suggested route, not an autopilot. The controllers' union told Flying magazine it was not asked to help design, test, or roll out the tool, so it will not say what it does to the staff. The agency has not shown the same savings on a named passenger flight.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

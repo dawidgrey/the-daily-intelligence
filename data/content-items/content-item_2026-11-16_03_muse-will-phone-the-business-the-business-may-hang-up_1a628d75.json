@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_03_muse-will-phone-the-business-the-business-may-hang-up_1a628d75",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+  "credit": "@alexandr_wang",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "Muse will phone the business. The business may hang up.",
+  "friendlyTitle": "Muse can call a business for you. The business may hang up.",
+  "summary": "On 12 November, Meta opened Muse phone calls to paid subscribers in the United States. Alexandr Wang, Meta's chief AI officer, said it can take the calls people avoid, including cable, the DMV, or a restaurant with no online booking. Plans start at $20 a month for 500 million Muse tokens a week, or $100 a month for 3 billion. TechCrunch reports that many businesses hang up once they hear an agent.",
+  "friendlySummary": "On 12 November, Meta let paying Muse users in the United States ask the agent to make phone calls. Meta's Alexandr Wang said it can handle calls people avoid, such as cable, the motor registry, or a restaurant that does not take online bookings. The cheaper plan is $20 a month. TechCrunch says many businesses hang up when they hear an agent.",
+  "whyItMatters": "A patient agent on hold is useful only if someone stays on the line. Meta said last month that Muse had more than 10 million users. A call placed in your name is still yours if the booking is wrong. Free accounts do not get the dialer.",
+  "friendlyWhyItMatters": "An agent that waits on hold only helps if a person stays on the line. Meta said last month that Muse had more than 10 million users. If the booking is wrong, it is still your booking. Free accounts cannot use the calls.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

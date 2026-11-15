@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_01_gemini-can-read-the-spending-it-cannot-move-the-money_12b9210c",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "Gemini can read the spending. It cannot move the money.",
+  "friendlyTitle": "Gemini can see what you spent. It cannot move the money.",
+  "summary": "On 13 November, Google started letting Gemini app users in the United States connect Google Wallet. You can ask it to chart last quarter's spending, list subscriptions and price rises, or draft a holiday budget from last year's gifts and travel. A deeper read needs a bank or card link through Plaid. The connection is off until you turn it on, on the web or in the Android and iOS apps, and you can turn it off again.",
+  "friendlySummary": "On 13 November, Google let Gemini users in the United States connect Google Wallet. You can ask it to chart last quarter, list subscriptions, or help set a holiday budget from last year's spending. A deeper look needs a bank or card link. The link stays off until you turn it on, and you can turn it off again.",
+  "whyItMatters": "Google says Gemini can only read the accounts. It cannot move, manage, or invest the money. A chart of your own transactions is not financial advice. The useful check is the switch: if you do not want a chat app reading the feed, leave it off.",
+  "friendlyWhyItMatters": "Google says Gemini can only read the accounts. It cannot send, manage, or invest the money. A chart of your own spending is not advice. If you do not want a chat app reading the feed, leave the switch off.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

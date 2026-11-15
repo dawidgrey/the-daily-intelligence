@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_06_codex-is-dropping-plan-mode-no-date-yet_49e6a92a",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://github.com/openai/codex/issues/18490#issuecomment-6890525683",
+  "canonicalUrl": "https://github.com/openai/codex/issues/18490#issuecomment-6890525683",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "Codex is dropping plan mode. No date yet.",
+  "friendlyTitle": "Codex is removing plan mode. It has not said when.",
+  "summary": "On 15 November, an OpenAI maintainer wrote on a Codex GitHub issue that plan mode will be deprecated soon, and that the team will not add new plan-mode features. The issue, a request to compact the context before implementing a plan, was closed as not planned. The comment does not give a date, or say what replaces the step.",
+  "friendlySummary": "On 15 November, an OpenAI maintainer wrote on GitHub that Codex plan mode will be removed soon. The team will not add new features to it. The note does not give a date, or say what replaces the step. The request it was answering was closed.",
+  "whyItMatters": "Plan mode is the pause where Codex writes a plan before it edits. If you use that pause to catch a bad approach, the next build may not offer it. Until the change lands, the current buttons still work. A missing date is not a shutdown notice.",
+  "friendlyWhyItMatters": "Plan mode is the pause where Codex writes a plan before it changes the code. If you use that pause to catch a bad idea, the next version may not have it. Until then, the current buttons still work. No date does not mean it stopped today.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

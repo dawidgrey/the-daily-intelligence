@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_07_the-model-answered-the-question-the-question-was-the-wrong-one_8400bdfe",
+  "sourceKind": "research",
+  "sourceName": "Allen Institute for AI",
+  "sourceUrl": "https://huggingface.co/blog/allenai/xybench",
+  "canonicalUrl": "https://huggingface.co/blog/allenai/xybench",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "The model answered the question. The question was the wrong one.",
+  "friendlyTitle": "The model answered the question you asked. That was the wrong question.",
+  "summary": "On 13 November, the Allen Institute for AI released XYBench, 8,115 questions where the stated request is not the real problem. It won the Best Resource Paper award at EMNLP 2026. On the Stack Overflow items, five models included a fix for the stated request in 75 to 86 percent of answers, and a fix for the underlying goal in 59 to 71 percent. They focused on the underlying goal in only 35 to 41 percent of answers. Human reference answers steered people off the mistaken approach more often.",
+  "friendlySummary": "On 13 November, the Allen Institute for AI published a test of 8,115 questions where the request is not the real problem. It won a best-paper award at a major language conference this year. On programming questions, five models fixed the stated request more often than the real problem. They focused on the real problem in only 35 to 41 percent of answers. Human answers were better at saying the first idea was wrong.",
+  "whyItMatters": "If you ask how to thicken frosting, and the cupcakes are still warm, a helpful assistant says wait. These models often helped with the frosting. The test is in English, and mostly about procedures. A clearer question still helps. It does not close the gap with a careful human answer.",
+  "friendlyWhyItMatters": "If the frosting will not stick because the cupcakes are still warm, a helpful answer says wait. These models often told you how to thicken the frosting. The test is in English, and mostly about step-by-step jobs. Asking a clearer question helps. It does not match a careful human answer.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}

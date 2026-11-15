@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-16_02_gemini-live-is-on-the-carplay-screen-the-brief-is-not-for-everyone_845b2050",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-15T20:12:28Z",
+  "createdAtUtc": "2026-11-15T20:12:28Z",
+  "updatedAtUtc": "2026-11-15T20:12:28Z",
+  "title": "Gemini Live is on the CarPlay screen. The brief is not for everyone.",
+  "friendlyTitle": "You can talk to Gemini from the car screen. Not every brief is included.",
+  "summary": "On 11 November, Google began rolling Gemini Live out to Apple CarPlay for Gemini users on iOS, in every language Gemini Live already supports. Update the iPhone app, allow the microphone, use Live once on the phone, then tap the Gemini icon on the car display. It can walk through the calendar, summarize Gmail, or rehearse a meeting. The chat syncs back to the phone when you park.",
+  "friendlySummary": "On 11 November, Google started putting Gemini Live on Apple CarPlay for iPhone users, in the languages it already speaks. Update the app, allow the microphone, try Live once on the phone, then tap the Gemini icon in the car. It can go through your calendar, summarize email, or help you practise a meeting. The chat is waiting on the phone when you park.",
+  "whyItMatters": "This is for talking, not for looking down. Google says Daily Brief has to be switched on first, and it is not available to people under 18 or in the European Economic Area and Nigeria. Interrupt it when the road needs you. The car is still yours to drive.",
+  "friendlyWhyItMatters": "Use it by voice. Do not look down. Google says the daily brief must be switched on first, and it is not available to people under 18, or in the European Economic Area and Nigeria. Stop the chat when the road needs you. You are still the driver.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-16"
+  }
+}
