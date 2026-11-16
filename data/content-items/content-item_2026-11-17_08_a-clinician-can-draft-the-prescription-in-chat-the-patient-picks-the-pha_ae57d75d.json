@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-17_08_a-clinician-can-draft-the-prescription-in-chat-the-patient-picks-the-pha_ae57d75d",
+  "sourceKind": "product",
+  "sourceName": "Photon",
+  "sourceUrl": "https://photonhealth.com/integrations/openai",
+  "canonicalUrl": "https://photonhealth.com/integrations/openai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-16T20:14:11Z",
+  "createdAtUtc": "2026-11-16T20:14:11Z",
+  "updatedAtUtc": "2026-11-16T20:14:11Z",
+  "title": "A clinician can draft the prescription in chat. The patient picks the pharmacy.",
+  "friendlyTitle": "A doctor can draft a prescription in chat. The patient picks the pharmacy.",
+  "summary": "Photon lets eligible US clinicians draft, review, and send a prescription from ChatGPT for Clinicians or ChatGPT for Healthcare. After the clinician sends it, the patient gets a text, outside ChatGPT, to compare pharmacies by price and location. Controlled substances are not supported, verification is required before the first send, and Photon says the integration is free through 31 December 2026.",
+  "friendlySummary": "Photon lets licensed clinicians in the United States draft, check, and send a prescription from ChatGPT. The patient then gets a text, outside the chat, to compare pharmacies by price and place. Controlled drugs are not included. The clinician must be verified before the first send. Photon says this is free through 31 December 2026.",
+  "whyItMatters": "You remain responsible for the prescription you authorize. A chat account is not a privacy agreement. Photon says a business associate agreement has to be in place before you share protected patient information, and allergies and current medicines saved in Photon are what the draft is checked against.",
+  "friendlyWhyItMatters": "The clinician is still responsible for the prescription they send. A chat account is not a privacy agreement. Photon says the right health-privacy contract has to be in place before patient details are shared. The draft is checked against allergies and medicines saved in Photon, not against a chart it has never seen.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-17"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-17_01_the-hugging-face-token-now-routes-through-openrouter_853b24ff",
+  "sourceKind": "product",
+  "sourceName": "Hugging Face",
+  "sourceUrl": "https://huggingface.co/blog/openrouter",
+  "canonicalUrl": "https://huggingface.co/blog/openrouter",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-16T20:14:11Z",
+  "createdAtUtc": "2026-11-16T20:14:11Z",
+  "updatedAtUtc": "2026-11-16T20:14:11Z",
+  "title": "The Hugging Face token now routes through OpenRouter.",
+  "friendlyTitle": "Your Hugging Face token now chooses a provider for you.",
+  "summary": "On 16 November, Hugging Face switched language-model calls on Inference Providers from its own router to OpenRouter. The same token still works, through OpenAI-style or Anthropic-style APIs, and OpenRouter picks a provider by live price, speed, and reliability, then retries another if the first fails.",
+  "friendlySummary": "On 16 November, Hugging Face started sending language-model requests through OpenRouter. You keep the same token and the same code. OpenRouter picks a provider for each call based on price, speed, and whether it is working, and it tries another if the first one fails.",
+  "whyItMatters": "Your code does not have to change, but the machine behind a call can. Hugging Face cites OpenRouter figures that open-weight models were 71.7% of tokens served by the end of September 2026, at about four times less than closed models on average. A retry is not a fact check.",
+  "friendlyWhyItMatters": "This can make open models easier to run, and cheaper on average. It does not check the answer. If the provider changes, you still have to read what came back.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-17"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-17_03_audible-will-speak-a-reason-to-try-the-next-book_6f7c3353",
+  "sourceKind": "product",
+  "sourceName": "Audible",
+  "sourceUrl": "https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories",
+  "canonicalUrl": "https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-16T20:14:11Z",
+  "createdAtUtc": "2026-11-16T20:14:11Z",
+  "updatedAtUtc": "2026-11-16T20:14:11Z",
+  "title": "Audible will speak a reason to try the next book.",
+  "friendlyTitle": "Audible can speak a short reason to try the next book.",
+  "summary": "Audible has launched audio discovery for select English-language titles in the United States. A short clip plays a narrated sample, an AI-generated overview of the themes and what listeners liked, and editor or author commentary taken from older Audible interviews. Ask a Question and spoiler-free Recaps are expanding to more US titles, with a broader rollout due in December, only for books you already have.",
+  "friendlySummary": "Audible has added audio discovery for some English-language books in the United States. You hear a sample, a short AI overview of the themes and what listeners liked, and a comment from an editor or the author. Two other tools, questions and spoiler-free recaps, are spreading to more US titles in December, but only for books you already have.",
+  "whyItMatters": "The clip is meant for a commute or a walk, when you will not scroll reviews. Audible says the overview draws on public synopses, metadata, and reviews. A summary of what people liked is not the complaints, so the sample is still the better check.",
+  "friendlyWhyItMatters": "This is for listening while you walk or commute, when you will not read reviews. The overview uses public book descriptions and reviews. A summary of what people liked can miss the complaints, so the sample is still the better check.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-17"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-17_11_google-research-paper-orchestra-agents-that-turn-notes-into-latex_14832d82",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/google-research/paper-orchestra",
+  "canonicalUrl": "https://github.com/google-research/paper-orchestra",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-16T20:14:11Z",
+  "createdAtUtc": "2026-11-16T20:14:11Z",
+  "updatedAtUtc": "2026-11-16T20:14:11Z",
+  "title": "google-research/paper-orchestra: agents that turn notes into LaTeX",
+  "friendlyTitle": "A set of agents that turns research notes into a paper draft",
+  "summary": "PaperOrchestra, from Google Cloud AI Research, is a multi-agent pipeline that turns ideas and experiment logs into a LaTeX manuscript, including a literature pass, section drafts, revision, and plots. It was among the most starred Python repositories on GitHub's daily trending list, with 306 stars today. The authors say it is not an officially supported Google product, and the paper dataset is not in the repo.",
+  "friendlySummary": "PaperOrchestra is a Google research project that uses several agents to turn ideas and experiment notes into a LaTeX paper, with a literature section and charts. It was one of the most starred Python projects on GitHub today, with 306 new stars. Google does not officially support it, and the dataset is not in the download.",
+  "whyItMatters": "If you already have notes and results, it can assemble a conference-template draft instead of starting from a blank file. You still need your own model keys, and a generated paper is a draft to check, not a submission.",
+  "friendlyWhyItMatters": "Use it when you already have the notes and want a first draft in a conference template. You still need a model key, and you still have to read the paper before you send it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-17"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-17_13_fujiwarachoki-supoclip-an-open-clip-cutter-that-calls-a-model_cf6f2679",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/FujiwaraChoki/supoclip",
+  "canonicalUrl": "https://github.com/FujiwaraChoki/supoclip",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-16T20:14:11Z",
+  "createdAtUtc": "2026-11-16T20:14:11Z",
+  "updatedAtUtc": "2026-11-16T20:14:11Z",
+  "title": "FujiwaraChoki/supoclip: an open clip cutter that calls a model",
+  "friendlyTitle": "An open tool that cuts long video into short clips",
+  "summary": "Supoclip, an open-source alternative to OpusClip, gained 103 stars on GitHub's daily Python trending list and has about 3,300 stars overall. It turns longer video into short clips and expects an AI provider key, including OpenRouter. The license is AGPL-3.0.",
+  "friendlySummary": "Supoclip is an open-source alternative to OpusClip. It gained 103 stars on GitHub's Python list today and has about 3,300 stars in all. It cuts a long video into short clips and needs an AI provider key, including OpenRouter. The license is AGPL-3.0.",
+  "whyItMatters": "If you want short clips from a long recording without a hosted clipping service, this is a project you can run with your own model key. Watch the cuts before you publish them, and read the AGPL terms before you build a product on the code.",
+  "friendlyWhyItMatters": "Use it if you want short clips from a long recording and you are willing to connect your own AI provider. Watch the clips before you post them. Read the AGPL license before you build a product on the code.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-17"
+  }
+}

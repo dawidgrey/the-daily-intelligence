@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-15T20:12:29Z",
+  "generatedAtUtc": "2026-11-16T20:14:11Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-17",
+      "slug": "2026-11-17",
+      "status": "published",
+      "publicationDateUtc": "2026-11-16T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "It can draft the errand. You still sign it.",
+      "friendlyHeader": "It can prepare the task. You still approve it.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today a Hugging Face token routes open models through OpenRouter, and the code stays put. A healthcare agent can draft the MRI paperwork, but a person still sends it. Audible will speak a reason to try the next book. A US chip-rule text would cover remote compute, and the public copy still has blank dates.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today your Hugging Face token can reach open models through a new router, without new code. A healthcare agent can draft the paperwork, but a person still sends it. Audible can speak a short reason to try the next book. A US rule about advanced chips is public, but the start date is still blank.",
+      "itemCount": 13,
+      "href": "issues/2026-11-17.html",
+      "dataUrl": "data/daily-publications/2026-11-17.json"
+    },
     {
       "id": "daily-publication_2026-11-16",
       "slug": "2026-11-16",
