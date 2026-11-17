@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_03_mai-code-2-is-in-copilot-the-discount-is-promotional_930d2827",
+  "sourceKind": "product",
+  "sourceName": "Microsoft",
+  "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+  "canonicalUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "MAI Code 2 is in Copilot. The discount is promotional.",
+  "friendlyTitle": "Microsoft's new coding model is in Copilot. The low price is a sale.",
+  "summary": "Microsoft released MAI Code 2 and the cheaper Code 2 Flash for everyday coding. Both are in GitHub Copilot. Flash is also in a limited preview in Microsoft Foundry. On four coding tests, Microsoft says Code 2 reached 98% of GPT-6.1 Sol's score at 40% of the cost, and 96% of Claude Opus 5.5's score at 5% of the cost. Those costs use a 50% promotional price.",
+  "friendlySummary": "Microsoft released two coding models, Code 2 and the cheaper Code 2 Flash. Both are in GitHub Copilot. Flash is also in a limited preview in Microsoft Foundry. Microsoft says Code 2 came close to two leading models on four coding tests, at a much lower price. That price uses a 50% sale.",
+  "whyItMatters": "Microsoft says the models are not yet tuned for science research or very long agent jobs. The average pass rate on its four-test mix was 63.2%, against 64.1% for GPT-6.1 Sol, at $0.309 a task versus $0.761. A cheaper patch is still a patch. Read the diff before you merge it.",
+  "friendlyWhyItMatters": "Microsoft says these models are not yet tuned for science research or very long jobs. On its own mix of tests, Code 2 passed 63.2% of tasks, close to a rival, at a lower cost per task. A cheaper code change is still a code change. Read it before you merge it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

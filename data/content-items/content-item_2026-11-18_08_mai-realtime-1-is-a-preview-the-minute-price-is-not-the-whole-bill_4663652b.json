@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_08_mai-realtime-1-is-a-preview-the-minute-price-is-not-the-whole-bill_4663652b",
+  "sourceKind": "product",
+  "sourceName": "Microsoft",
+  "sourceUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+  "canonicalUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "MAI Realtime 1 is a preview. The minute price is not the whole bill.",
+  "friendlyTitle": "Microsoft's new voice model is a preview. The minute price is not the whole bill.",
+  "summary": "Microsoft introduced MAI Realtime 1, a speech-to-speech model priced at $0.01 per audio minute, with reasoning billed separately at $1 per million input tokens and $5 per million output tokens. You can try it in MAI Labs or register for a limited Foundry preview. Preview customers are not billed until the public preview begins.",
+  "friendlySummary": "Microsoft introduced MAI Realtime 1, a model that listens and speaks. The audio price is $0.01 a minute. Extra reasoning is billed separately, at $1 per million input tokens and $5 per million output tokens. You can try it in MAI Labs, or ask for a limited preview. Preview users are not billed until the public preview starts.",
+  "whyItMatters": "Microsoft says it is bringing the model to Dynamics 365 Contact Center and to Dragon Copilot for practice conversations with nurses. Those product claims, and the benchmark comparisons, are Microsoft's. A voice agent can take the routine call. A person still has to take the exception.",
+  "friendlyWhyItMatters": "Microsoft says it will use the model in a customer-service product and in practice talks for nurses. Those plans, and the test scores, are Microsoft's. A voice agent can take the routine call. A person still has to take the unusual one.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_04_history-off-no-longer-means-the-chat-is-gone_20d9792e",
+  "sourceKind": "article",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "History off no longer means the chat is gone.",
+  "friendlyTitle": "Turning history off no longer deletes the chat quickly.",
+  "summary": "On 16 November, Google said Gemini history and model training are now separate settings, rolling out globally over the coming weeks. If the new History setting is off, future chats are kept for about two months, to answer you, process feedback, and protect the service. Google's privacy hub, updated the same day, says temporary chats are not used to train models, and that the last 24 hours can be used as context.",
+  "friendlySummary": "On 16 November, Google said you can now keep Gemini chat history and still opt out of model training. The change is rolling out worldwide over the coming weeks. If history is off, future chats are kept for about two months. Google's privacy page says temporary chats are not used to train models.",
+  "whyItMatters": "Turning history off is no longer a short delete. TechCrunch, citing a 12 November archive of the same help page, says the old period was 72 hours. You can keep history and still opt out of training. Do not put a password, a medical detail, or a client file in a chat you would not want kept for two months.",
+  "friendlyWhyItMatters": "Off no longer means gone in a few days. TechCrunch, using an older copy of Google's help page from 12 November, says the old period was 72 hours. You can keep the chats and still say no to training. Do not type a password, a health detail, or a client file into a chat you would not want kept for two months.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

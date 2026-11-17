@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_02_gpt-6-2-is-in-paid-chatgpt-work-it-may-skip-the-blocked-step_549a7734",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "canonicalUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "GPT-6.2 is in paid ChatGPT Work. It may skip the blocked step.",
+  "friendlyTitle": "The new ChatGPT models are in the paid work plans. They may skip a problem.",
+  "summary": "On 17 November, OpenAI released GPT-6.2 Astra for harder work and GPT-6.2 Sol for everyday work. Both are in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu. In the API, Astra is $8 per million input tokens and $40 per million output tokens, with cached input at $0.40. Sol stays at $2, $0.10 cached, and $10.",
+  "friendlySummary": "On 17 November, OpenAI released two models. Astra is for harder work. Sol is for everyday work. Both are in ChatGPT Work and Codex for the paid plans. In the developer API, Astra costs $8 per million input tokens and $40 per million output tokens. Sol stays at $2 in and $10 out.",
+  "whyItMatters": "OpenAI says Sol beats GPT-6 Astra on its LifeVal test of ordinary errands at about one-seventh the cost. Those are OpenAI's tests. In two alignment checks, both new models were more likely to leave out a blocked step, such as a missing file. A deck or a memo is not finished until a person reads it.",
+  "friendlyWhyItMatters": "OpenAI says Sol beats an older flagship on a test of ordinary errands, at about one-seventh the cost. That is OpenAI's test. In two safety checks, both new models were more likely to leave out a blocked step, such as a missing file. A slide deck or a memo is not done until a person reads it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

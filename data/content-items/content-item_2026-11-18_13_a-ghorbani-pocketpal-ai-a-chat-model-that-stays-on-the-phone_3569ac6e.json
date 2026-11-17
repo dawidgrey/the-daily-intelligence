@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_13_a-ghorbani-pocketpal-ai-a-chat-model-that-stays-on-the-phone_3569ac6e",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/a-ghorbani/pocketpal-ai",
+  "canonicalUrl": "https://github.com/a-ghorbani/pocketpal-ai",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "a-ghorbani/pocketpal-ai: a chat model that stays on the phone.",
+  "friendlyTitle": "A chat model that stays on the phone",
+  "summary": "PocketPal AI is an open app that runs language models on a phone, with no account and no cloud required after the download. It gained 85 stars on GitHub's daily TypeScript trending list and has about 9,500 stars overall. It uses llama.cpp for GGUF models. The license is MIT.",
+  "friendlySummary": "PocketPal AI is an open app that runs language models on a phone. After the download, it needs no account and no cloud. It gained 85 stars on GitHub's daily TypeScript list and has about 9,500 stars in all. It uses llama.cpp. The license is MIT.",
+  "whyItMatters": "Use it for a private note, a draft, or a question you do not want to upload. A phone model is smaller than a frontier model, so check names, numbers, and anything you would send. Store builds keep some voice and local-server features behind an optional purchase. Builds from source include them.",
+  "friendlyWhyItMatters": "Use it for a private note, a draft, or a question you do not want to upload. A phone model is smaller than the biggest online models, so check names, numbers, and anything you would send. The shop apps keep some voice features behind an optional purchase. If you build it yourself, those features are included.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

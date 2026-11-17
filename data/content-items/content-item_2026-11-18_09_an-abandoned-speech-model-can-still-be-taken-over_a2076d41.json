@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_09_an-abandoned-speech-model-can-still-be-taken-over_a2076d41",
+  "sourceKind": "article",
+  "sourceName": "BleepingComputer",
+  "sourceUrl": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+  "canonicalUrl": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "An abandoned speech model can still be taken over.",
+  "friendlyTitle": "A popular speech model was left open to a takeover.",
+  "summary": "On 17 November, BleepingComputer reported that researchers took over the Hugging Face account behind Kokoro, a speech model with nearly 13 million downloads a month. They recovered a domain the project still listed, then reset the login. They changed the weights on their own machine so the spoken words no longer matched the text, and they did not upload that copy.",
+  "friendlySummary": "On 17 November, BleepingComputer reported that researchers took over the Hugging Face account for Kokoro, a speech model downloaded nearly 13 million times a month. They recovered a web domain the project still listed, then reset the login. They changed the model on their own computer so the spoken words no longer matched the text. They did not upload that copy.",
+  "whyItMatters": "Hugging Face had not responded when the article was published. If a tool updates Kokoro, or any quiet open model, on its own, a new file can change what it says without changing the app. Pin the revision you have already checked, and pause the update when the publisher has gone silent.",
+  "friendlyWhyItMatters": "Hugging Face had not replied when the article was published. If a tool updates this model, or any quiet open model, by itself, a new file can change what it says without changing the app. Keep the version you have already checked. Pause the update if the publisher has gone silent.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

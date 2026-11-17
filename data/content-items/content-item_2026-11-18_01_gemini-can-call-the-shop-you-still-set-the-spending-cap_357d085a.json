@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_01_gemini-can-call-the-shop-you-still-set-the-spending-cap_357d085a",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "Gemini can call the shop. You still set the spending cap.",
+  "friendlyTitle": "Gemini can phone the shop. You still set the spending limit.",
+  "summary": "On 17 November, Google said Gemini Tasks is rolling out free on Gemini 4 Hydrogen in the United States, Japan, Korea, Canada, Australia, and India. You switch the app from Chat to Task, text it, or forward mail to gemini@google.com. Google says it can call a business, read a bill, or check out with Google Pay, and that it is designed to ask before it clicks Buy.",
+  "friendlySummary": "On 17 November, Google said a free Tasks mode is rolling out in the United States, Japan, Korea, Canada, Australia, and India. You switch Gemini from Chat to Task, text it, or forward an email. Google says it can call a business, read a bill, or pay with Google Pay, and that it is built to ask before it clicks Buy.",
+  "whyItMatters": "The examples are Google's, not an independent test. You can set a hard spending cap, and Gemini is meant to say it is an AI on a call and not to share payment details unless you allow it. Calling is not available in five US states, and the newer texting path needs a US number. A booked slot is still yours to keep or cancel.",
+  "friendlyWhyItMatters": "Those examples are Google's own stories, not an outside test. You can set a hard spending limit. On a call, Gemini is meant to say it is an AI and not to share your card unless you allow it. Calling is missing in five US states, and the texting path needs a US phone number. You can still cancel the booking.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

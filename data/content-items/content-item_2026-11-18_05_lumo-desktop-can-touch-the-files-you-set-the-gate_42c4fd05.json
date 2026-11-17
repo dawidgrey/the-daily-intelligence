@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_05_lumo-desktop-can-touch-the-files-you-set-the-gate_42c4fd05",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "Lumo Desktop can touch the files. You set the gate.",
+  "friendlyTitle": "Lumo's desktop app can open your files. You choose what it may do.",
+  "summary": "On 17 November, Proton launched Lumo Desktop for Windows, macOS, and Linux. It can use local files, a shell, a browser, Proton Mail, and connectors such as Dropbox and Jira. Proton says you can mark each action as automatic, ask-first, or blocked, and that chats are encrypted, not logged on the server, and not used for ads or training.",
+  "friendlySummary": "On 17 November, Proton launched Lumo Desktop for Windows, Mac, and Linux. It can use local files, a command line, a browser, Proton Mail, and other apps such as Dropbox and Jira. Proton says you can set each action to run on its own, to ask first, or to stay blocked. Proton also says chats are encrypted and not used to train models.",
+  "whyItMatters": "Those privacy claims are Proton's. A desktop agent that can run a shell is only as careful as the permissions you set. Turn off the tools you do not need, and keep approval on for anything that sends mail, edits a file, or spends money.",
+  "friendlyWhyItMatters": "Those privacy promises are Proton's. An app that can run commands on your computer is only as safe as the switches you set. Turn off tools you do not need. Keep the ask-first switch on for mail, file changes, and anything that spends money.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

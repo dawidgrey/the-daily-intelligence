@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_11_tencent-loopforge-the-agent-opens-the-sandbox-you-approve-the-merge_6a369387",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/Tencent/LoopForge",
+  "canonicalUrl": "https://github.com/Tencent/LoopForge",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "Tencent/LoopForge: the agent opens the sandbox. You approve the merge.",
+  "friendlyTitle": "A self-hosted desk for coding agents, with a stop for approval",
+  "summary": "LoopForge is a self-hosted workspace for shipping code with coding agents. It gained 590 stars on GitHub's daily trending list and has about 3,000 stars overall. A chat can open a Docker sandbox, call a coding-agent CLI, and save a repeatable workflow with human approval gates. The license is MIT.",
+  "friendlySummary": "LoopForge is a workspace you run yourself for shipping code with coding agents. It gained 590 stars on GitHub's daily trending list and has about 3,000 stars in all. A chat can open a sealed work area, call a coding agent, and save a repeatable process that waits for a person. The license is MIT.",
+  "whyItMatters": "Use it if you want Codex, Claude Code, or another coding CLI to work in a sandbox on your own server, and to stop at a person before the change ships. You still bring the model key. The installer listens on every network interface at port 8090 until you restrict it.",
+  "friendlyWhyItMatters": "Use it if you want a coding agent to work on your own server, and to stop for approval before the change ships. You still bring your own model key. Until you lock it down, the installer listens on every network address at port 8090.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

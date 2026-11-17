@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-16T20:14:11Z",
+  "generatedAtUtc": "2026-11-17T20:09:59Z",
   "items": [
     {
-      "id": "content-item_2026-11-17_01_the-hugging-face-token-now-routes-through-openrouter_853b24ff",
+      "id": "content-item_2026-11-18_01_gemini-can-call-the-shop-you-still-set-the-spending-cap_357d085a",
       "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "The Hugging Face token now routes through OpenRouter.",
-      "sourceUrl": "https://huggingface.co/blog/openrouter"
+      "sourceName": "Google",
+      "title": "Gemini can call the shop. You still set the spending cap.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
     },
     {
-      "id": "content-item_2026-11-17_02_the-agent-can-draft-the-mri-request-a-person-still-sends-it_b0ded74e",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "The agent can draft the MRI request. A person still sends it.",
-      "sourceUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-    },
-    {
-      "id": "content-item_2026-11-17_03_audible-will-speak-a-reason-to-try-the-next-book_6f7c3353",
-      "sourceKind": "product",
-      "sourceName": "Audible",
-      "title": "Audible will speak a reason to try the next book.",
-      "sourceUrl": "https://www.audible.com/about/newsroom/audible-personalizes-how-listeners-find-explore-and-return-to-stories"
-    },
-    {
-      "id": "content-item_2026-11-17_04_the-next-research-grants-are-plus-not-pro-and-first-come_f26f2a4d",
+      "id": "content-item_2026-11-18_02_gpt-6-2-is-in-paid-chatgpt-work-it-may-skip-the-blocked-step_549a7734",
       "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "The next research grants are Plus, not Pro, and first come.",
-      "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      "title": "GPT-6.2 is in paid ChatGPT Work. It may skip the blocked step.",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
     },
     {
-      "id": "content-item_2026-11-17_05_a-1-million-grant-for-young-people-learning-ai-skills_e3915f7e",
+      "id": "content-item_2026-11-18_03_mai-code-2-is-in-copilot-the-discount-is-promotional_930d2827",
+      "sourceKind": "product",
+      "sourceName": "Microsoft",
+      "title": "MAI Code 2 is in Copilot. The discount is promotional.",
+      "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+    },
+    {
+      "id": "content-item_2026-11-18_04_history-off-no-longer-means-the-chat-is-gone_20d9792e",
       "sourceKind": "article",
+      "sourceName": "Google",
+      "title": "History off no longer means the chat is gone.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/"
+    },
+    {
+      "id": "content-item_2026-11-18_05_lumo-desktop-can-touch-the-files-you-set-the-gate_42c4fd05",
+      "sourceKind": "product",
+      "sourceName": "TechCrunch",
+      "title": "Lumo Desktop can touch the files. You set the gate.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "id": "content-item_2026-11-18_06_a-decision-model-can-return-the-amount-or-say-it-is-not-there_41f1acc0",
+      "sourceKind": "product",
+      "sourceName": "Liquid AI",
+      "title": "A decision model can return the amount, or say it is not there.",
+      "sourceUrl": "https://www.liquid.ai/blog/d1-2"
+    },
+    {
+      "id": "content-item_2026-11-18_07_astra-for-law-leads-one-legal-test-most-assignments-still-fail-it_0604bc2b",
+      "sourceKind": "product",
       "sourceName": "OpenAI",
-      "title": "A £1 million grant for young people learning AI skills.",
-      "sourceUrl": "https://openai.com/index/the-kings-trust-and-openai"
+      "title": "Astra for Law leads one legal test. Most assignments still fail it.",
+      "sourceUrl": "https://openai.com/index/astra-law-6-2"
     },
     {
-      "id": "content-item_2026-11-17_06_qwen4-max-uses-fewer-tokens-on-alibaba-s-own-work-test_9c9fe7af",
+      "id": "content-item_2026-11-18_08_mai-realtime-1-is-a-preview-the-minute-price-is-not-the-whole-bill_4663652b",
       "sourceKind": "product",
-      "sourceName": "The Decoder",
-      "title": "Qwen4-Max uses fewer tokens on Alibaba's own work test.",
-      "sourceUrl": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/"
+      "sourceName": "Microsoft",
+      "title": "MAI Realtime 1 is a preview. The minute price is not the whole bill.",
+      "sourceUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/"
     },
     {
-      "id": "content-item_2026-11-17_07_the-chip-rule-text-is-public-the-start-date-is-still-blank_6f1bfcea",
-      "sourceKind": "regulation",
-      "sourceName": "US Commerce Department",
-      "title": "The chip-rule text is public. The start date is still blank.",
-      "sourceUrl": "https://www.bis.gov/media/documents/rin-0694-ak50.pdf"
+      "id": "content-item_2026-11-18_09_an-abandoned-speech-model-can-still-be-taken-over_a2076d41",
+      "sourceKind": "article",
+      "sourceName": "BleepingComputer",
+      "title": "An abandoned speech model can still be taken over.",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/"
     },
     {
-      "id": "content-item_2026-11-17_08_a-clinician-can-draft-the-prescription-in-chat-the-patient-picks-the-pha_ae57d75d",
-      "sourceKind": "product",
-      "sourceName": "Photon",
-      "title": "A clinician can draft the prescription in chat. The patient picks the pharmacy.",
-      "sourceUrl": "https://photonhealth.com/integrations/openai"
+      "id": "content-item_2026-11-18_10_a-250-million-round-does-not-update-the-client-model_d9a047af",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "A $250 million round does not update the client model.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
     },
     {
-      "id": "content-item_2026-11-17_09_muse-will-look-for-poppy-first-you-still-set-the-permissions_53159014",
-      "sourceKind": "product",
-      "sourceName": "Sierra",
-      "title": "Muse will look for Poppy first. You still set the permissions.",
-      "sourceUrl": "https://sierra.ai/blog/releasing-poppy"
-    },
-    {
-      "id": "content-item_2026-11-17_10_perplexity-will-watch-the-page-then-ping-the-agent_35f68b36",
-      "sourceKind": "product",
-      "sourceName": "Perplexity",
-      "title": "Perplexity will watch the page, then ping the agent.",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api"
-    },
-    {
-      "id": "content-item_2026-11-17_11_google-research-paper-orchestra-agents-that-turn-notes-into-latex_14832d82",
+      "id": "content-item_2026-11-18_11_tencent-loopforge-the-agent-opens-the-sandbox-you-approve-the-merge_6a369387",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "google-research/paper-orchestra: agents that turn notes into LaTeX",
-      "sourceUrl": "https://github.com/google-research/paper-orchestra"
+      "title": "Tencent/LoopForge: the agent opens the sandbox. You approve the merge.",
+      "sourceUrl": "https://github.com/Tencent/LoopForge"
     },
     {
-      "id": "content-item_2026-11-17_12_openai-whisper-speech-to-text-on-your-own-machine_4a3141e5",
+      "id": "content-item_2026-11-18_12_lnkiai-m3e-canvas-sketch-the-screen-then-hand-the-agent-a-prompt_e45249a5",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "openai/whisper: speech to text on your own machine",
-      "sourceUrl": "https://github.com/openai/whisper"
+      "title": "lnkiai/m3e-canvas: sketch the screen, then hand the agent a prompt.",
+      "sourceUrl": "https://github.com/lnkiai/m3e-canvas"
     },
     {
-      "id": "content-item_2026-11-17_13_fujiwarachoki-supoclip-an-open-clip-cutter-that-calls-a-model_cf6f2679",
+      "id": "content-item_2026-11-18_13_a-ghorbani-pocketpal-ai-a-chat-model-that-stays-on-the-phone_3569ac6e",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "FujiwaraChoki/supoclip: an open clip cutter that calls a model",
-      "sourceUrl": "https://github.com/FujiwaraChoki/supoclip"
+      "title": "a-ghorbani/pocketpal-ai: a chat model that stays on the phone.",
+      "sourceUrl": "https://github.com/a-ghorbani/pocketpal-ai"
     }
   ]
 }

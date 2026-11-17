@@ -1,9 +1,23 @@
 {
   "schemaVersion": 1,
   "recordType": "ArchiveIndex",
-  "generatedAtUtc": "2026-11-16T20:14:11Z",
+  "generatedAtUtc": "2026-11-17T20:10:00Z",
   "limit": 20,
   "items": [
+    {
+      "id": "daily-publication_2026-11-18",
+      "slug": "2026-11-18",
+      "status": "published",
+      "publicationDateUtc": "2026-11-17T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "It can call the shop. You still set the cap.",
+      "friendlyHeader": "It can make the call. You still set the spending limit.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Gemini can phone a shop and check out, including in Australia, if you turn on Tasks and set a spending limit. GPT-6.2 is in paid ChatGPT Work. Microsoft's new coding model is in GitHub Copilot, at a promotional price. A Gemini chat with history off is now kept for about two months.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today Gemini can phone a shop and pay, including in Australia, if you switch on Tasks and set a spending limit. A new ChatGPT model is in the paid work plans. Microsoft's new coding model is in GitHub Copilot, at a sale price. A Gemini chat with history turned off is now kept for about two months.",
+      "itemCount": 13,
+      "href": "issues/2026-11-18.html",
+      "dataUrl": "data/daily-publications/2026-11-18.json"
+    },
     {
       "id": "daily-publication_2026-11-17",
       "slug": "2026-11-17",

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-18_10_a-250-million-round-does-not-update-the-client-model_d9a047af",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-17T20:09:59Z",
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "title": "A $250 million round does not update the client model.",
+  "friendlyTitle": "A $250 million raise does not update the client spreadsheet.",
+  "summary": "Model ML, a London startup that builds agents for financial models, pitch decks, and due-diligence reports, raised $250 million in a Series B at a $1.5 billion valuation. General Atlantic and QED Investors co-led the round. The company says the agents sit in a client's Excel and PowerPoint and update the files when a deal changes.",
+  "friendlySummary": "Model ML, a London startup, raised $250 million at a $1.5 billion valuation. It builds agents for financial models, pitch decks, and research reports used by bankers and consultants. General Atlantic and QED Investors led the round. The company says the agents work inside a client's Excel and PowerPoint and update the files when a deal changes.",
+  "whyItMatters": "Model ML also says open-source models let it run at about 2% of the cost of frontier models, and faster. That figure is the company's. A funding round is not a login. A spreadsheet that rewrites itself still needs a person before it goes to a client.",
+  "friendlyWhyItMatters": "The company also says open-source models let it run at about 2% of the cost of the biggest models, and faster. That number is the company's. A funding round is not a product you can open today. A spreadsheet that rewrites itself still needs a person before it goes to a client.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-18"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-18",
+  "slug": "2026-11-18",
+  "status": "published",
+  "publicationDateUtc": "2026-11-17T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "It can call the shop. You still set the cap.",
+  "friendlyHeader": "It can make the call. You still set the spending limit.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today Gemini can phone a shop and check out, including in Australia, if you turn on Tasks and set a spending limit. GPT-6.2 is in paid ChatGPT Work. Microsoft's new coding model is in GitHub Copilot, at a promotional price. A Gemini chat with history off is now kept for about two months.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today Gemini can phone a shop and pay, including in Australia, if you switch on Tasks and set a spending limit. A new ChatGPT model is in the paid work plans. Microsoft's new coding model is in GitHub Copilot, at a sale price. A Gemini chat with history turned off is now kept for about two months.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-18_01_gemini-can-call-the-shop-you-still-set-the-spending-cap_357d085a",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_02_gpt-6-2-is-in-paid-chatgpt-work-it-may-skip-the-blocked-step_549a7734",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_03_mai-code-2-is-in-copilot-the-discount-is-promotional_930d2827",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_04_history-off-no-longer-means-the-chat-is-gone_20d9792e",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_05_lumo-desktop-can-touch-the-files-you-set-the-gate_42c4fd05",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_06_a-decision-model-can-return-the-amount-or-say-it-is-not-there_41f1acc0",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_07_astra-for-law-leads-one-legal-test-most-assignments-still-fail-it_0604bc2b",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_08_mai-realtime-1-is-a-preview-the-minute-price-is-not-the-whole-bill_4663652b",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_09_an-abandoned-speech-model-can-still-be-taken-over_a2076d41",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_10_a-250-million-round-does-not-update-the-client-model_d9a047af",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_11_tencent-loopforge-the-agent-opens-the-sandbox-you-approve-the-merge_6a369387",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_12_lnkiai-m3e-canvas-sketch-the-screen-then-hand-the-agent-a-prompt_e45249a5",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-18_13_a-ghorbani-pocketpal-ai-a-chat-model-that-stays-on-the-phone_3569ac6e",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-17T20:09:59Z",
+  "updatedAtUtc": "2026-11-17T20:09:59Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-18.json",
+    "itemCount": 13
+  }
+}
