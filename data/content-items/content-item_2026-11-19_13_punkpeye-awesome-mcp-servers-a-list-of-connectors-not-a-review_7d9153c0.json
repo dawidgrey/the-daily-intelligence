@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_13_punkpeye-awesome-mcp-servers-a-list-of-connectors-not-a-review_7d9153c0",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/punkpeye/awesome-mcp-servers",
+  "canonicalUrl": "https://github.com/punkpeye/awesome-mcp-servers",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "punkpeye/awesome-mcp-servers: a list of connectors, not a review",
+  "friendlyTitle": "Awesome MCP Servers is a list of connectors, not a review.",
+  "summary": "Awesome MCP Servers gained 52 stars on GitHub's daily trending list. The repo has about 98,000 stars, under MIT. It is a collection of MCP servers, not a server itself.",
+  "friendlySummary": "This list of MCP servers gained 52 stars on GitHub's daily trending list. The repo has about 98,000 stars, under an MIT license. It is a directory, not a server you run by opening the page.",
+  "whyItMatters": "Use it to find a connector for an agent, then read that server's own permissions before you connect it. A listing is not a security review. A server can still reach the files, mail, or accounts you allow.",
+  "friendlyWhyItMatters": "Use it to find a connector for an agent. Then read what that server is allowed to touch before you connect it. Being on the list is not a safety check. A server can still reach the files, mail, or accounts you allow.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

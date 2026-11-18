@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_10_genie-4-is-in-project-genie-the-gate-is-an-ultra-plan_652211f5",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "canonicalUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "Genie 4 is in Project Genie. The gate is an Ultra plan.",
+  "friendlyTitle": "Genie 4 is in a Google app. You need the Ultra plan.",
+  "summary": "On 18 November, DeepMind said Genie 4 is rolling out inside Project Genie to eligible Google AI Ultra subscribers. You can type a prompt while a world is running, including to change the scene, and the model adds native audio. Google AI Pro members can join a waitlist.",
+  "friendlySummary": "On 18 November, DeepMind said Genie 4 is rolling out inside Project Genie to eligible Google AI Ultra subscribers. You can type a new prompt while a world is running, including to change the scene, and the model adds sound. People on the Pro plan can join a waitlist.",
+  "whyItMatters": "Generated video and audio carry a SynthID watermark, DeepMind says, and inputs and outputs are screened. The same post lists limits that remain: camera lag, fine physical interaction, audio precision, and whether a scene stays put. A playable world is not a finished game, and it is not on the free plan.",
+  "friendlyWhyItMatters": "DeepMind says the video and audio carry a SynthID watermark, and that inputs and outputs are checked. The same post lists limits that remain: camera lag, small physical actions, sound accuracy, and whether a scene stays the same. A world you can walk through is not a finished game, and it is not free.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

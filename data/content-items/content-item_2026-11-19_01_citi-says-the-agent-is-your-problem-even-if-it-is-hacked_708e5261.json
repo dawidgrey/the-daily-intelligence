@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_01_citi-says-the-agent-is-your-problem-even-if-it-is-hacked_708e5261",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "Citi says the agent is your problem, even if it is hacked.",
+  "friendlyTitle": "Citi says the helper is your problem, even if it is hacked.",
+  "summary": "On 18 November, TechCrunch reported that Citibank changed its online agreement so customers who give a third-party AI tool access to an account are responsible for what that tool does. The bank told TechCrunch the change is meant to make that risk clear, and the report says the terms also leave the customer responsible if the tool leaks the login or is hacked.",
+  "friendlySummary": "On 18 November, TechCrunch reported that Citibank changed its online rules. If you let an outside AI tool into your account, what it does is your responsibility. The report says that also covers a case where the tool leaks the login or is hacked.",
+  "whyItMatters": "TechCrunch says JPMorgan and Bank of America announced similar policies last month, that PNC changed its terms on 18 November, and that Citizens emailed a similar warning this week. Do not give a bank password to an outside agent. The same report says Anthropic's own finance tool is billed as read-only.",
+  "friendlyWhyItMatters": "TechCrunch says JPMorgan and Bank of America announced similar rules last month. PNC changed its terms on 18 November. Citizens sent a similar warning by email this week. Do not give a bank password to an outside helper. Anthropic's own money tool, in the same report, is described as read-only.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

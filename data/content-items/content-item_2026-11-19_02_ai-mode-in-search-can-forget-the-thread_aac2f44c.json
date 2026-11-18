@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_02_ai-mode-in-search-can-forget-the-thread_aac2f44c",
+  "sourceKind": "product",
+  "sourceName": "Google",
+  "sourceUrl": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+  "canonicalUrl": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "AI Mode in Search can forget the thread.",
+  "friendlyTitle": "Search can forget one AI chat.",
+  "summary": "On 17 November, Google said temporary threads are rolling out in AI Mode in Search, on desktop and mobile, in every language AI Mode supports. You click an icon in the upper right. Google says the session is detached from your account, is not saved to history, and does not change later recommendations.",
+  "friendlySummary": "On 17 November, Google said a temporary chat is coming to AI Mode in Search, on computers and phones, in every language that mode supports. You click an icon at the top right. Google says that chat is not tied to your account, is not saved in history, and does not change later suggestions.",
+  "whyItMatters": "That is Google's description, not an outside check of what the servers keep. It is also a different switch from the Gemini app history setting. Use it for a lookup you do not want folded into later suggestions, then close the thread.",
+  "friendlyWhyItMatters": "That is Google's description, not an outside check of what the servers keep. It is also a different switch from history in the Gemini app. Use it for a search you do not want mixed into later suggestions, then close the chat.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

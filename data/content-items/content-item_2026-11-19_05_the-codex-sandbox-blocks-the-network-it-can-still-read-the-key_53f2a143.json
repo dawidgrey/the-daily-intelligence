@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_05_the-codex-sandbox-blocks-the-network-it-can-still-read-the-key_53f2a143",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
+  "canonicalUrl": "https://openai.com/index/inside-the-codex-sandbox",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "The Codex sandbox blocks the network. It can still read the key.",
+  "friendlyTitle": "Codex can be boxed in. It can still read a key.",
+  "summary": "On 18 November, OpenAI described the default Codex sandbox for a Git project. Commands may write in the workspace, while .git and .codex stay read-only, and network access is off. Reads are broad, limited by the operating system's own permissions.",
+  "friendlySummary": "On 18 November, OpenAI described the default box around Codex in a Git project. It may change files in the project. The Git folder and the Codex settings stay read-only. The network is off. It can still read many other files, if your computer already allows that.",
+  "whyItMatters": "OpenAI says a command may still read a config file that holds an API key, and that a change in an ignored folder can later run outside the sandbox. The fence is the permission profile you set. A blocked upload is not the same as a hidden secret.",
+  "friendlyWhyItMatters": "OpenAI says a command may still read a settings file that holds an API key. A change in a folder Git ignores can later run outside the box. You set the limits. Blocking an upload does not hide a secret.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

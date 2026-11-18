@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_12_colbymchenry-codegraph-a-local-map-of-the-repo-for-the-agent_52b03674",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/colbymchenry/codegraph",
+  "canonicalUrl": "https://github.com/colbymchenry/codegraph",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "colbymchenry/codegraph: a local map of the repo, for the agent",
+  "friendlyTitle": "CodeGraph keeps a local map of the code, for the agent.",
+  "summary": "CodeGraph gained 129 stars on GitHub's TypeScript trending list today. The repo has about 78,000 stars, under MIT, and tagged v1.6.3 on 17 November. The project says it keeps a local code graph that updates as the files change, for Claude Code, Codex, Cursor, Gemini, and Hermes Agent, among others.",
+  "friendlySummary": "CodeGraph gained 129 stars on GitHub's TypeScript trending list today. The repo has about 78,000 stars, under an MIT license. Version 1.6.3 was tagged on 17 November. The project says it keeps a local map of the code that updates when files change, for Claude Code, Codex, Cursor, Gemini, and Hermes Agent, among others.",
+  "whyItMatters": "Point a coding agent at the index instead of making it reread the tree. The project claims fewer tokens and fewer tool calls, and says the index stays on your machine. Those savings are the author's claim. You still read the diff.",
+  "friendlyWhyItMatters": "Point a coding helper at the map instead of making it reread the whole project. The author says this uses fewer tokens and fewer tool calls, and that the map stays on your computer. Those savings are the author's claim. You still read the code change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

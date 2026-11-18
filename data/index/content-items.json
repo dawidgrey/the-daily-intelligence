@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-17T20:09:59Z",
+  "generatedAtUtc": "2026-11-18T20:12:26Z",
   "items": [
     {
-      "id": "content-item_2026-11-18_01_gemini-can-call-the-shop-you-still-set-the-spending-cap_357d085a",
-      "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "Gemini can call the shop. You still set the spending cap.",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-    },
-    {
-      "id": "content-item_2026-11-18_02_gpt-6-2-is-in-paid-chatgpt-work-it-may-skip-the-blocked-step_549a7734",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "GPT-6.2 is in paid ChatGPT Work. It may skip the blocked step.",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-    },
-    {
-      "id": "content-item_2026-11-18_03_mai-code-2-is-in-copilot-the-discount-is-promotional_930d2827",
-      "sourceKind": "product",
-      "sourceName": "Microsoft",
-      "title": "MAI Code 2 is in Copilot. The discount is promotional.",
-      "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
-    },
-    {
-      "id": "content-item_2026-11-18_04_history-off-no-longer-means-the-chat-is-gone_20d9792e",
-      "sourceKind": "article",
-      "sourceName": "Google",
-      "title": "History off no longer means the chat is gone.",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/"
-    },
-    {
-      "id": "content-item_2026-11-18_05_lumo-desktop-can-touch-the-files-you-set-the-gate_42c4fd05",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Lumo Desktop can touch the files. You set the gate.",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
-    },
-    {
-      "id": "content-item_2026-11-18_06_a-decision-model-can-return-the-amount-or-say-it-is-not-there_41f1acc0",
-      "sourceKind": "product",
-      "sourceName": "Liquid AI",
-      "title": "A decision model can return the amount, or say it is not there.",
-      "sourceUrl": "https://www.liquid.ai/blog/d1-2"
-    },
-    {
-      "id": "content-item_2026-11-18_07_astra-for-law-leads-one-legal-test-most-assignments-still-fail-it_0604bc2b",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "Astra for Law leads one legal test. Most assignments still fail it.",
-      "sourceUrl": "https://openai.com/index/astra-law-6-2"
-    },
-    {
-      "id": "content-item_2026-11-18_08_mai-realtime-1-is-a-preview-the-minute-price-is-not-the-whole-bill_4663652b",
-      "sourceKind": "product",
-      "sourceName": "Microsoft",
-      "title": "MAI Realtime 1 is a preview. The minute price is not the whole bill.",
-      "sourceUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/"
-    },
-    {
-      "id": "content-item_2026-11-18_09_an-abandoned-speech-model-can-still-be-taken-over_a2076d41",
-      "sourceKind": "article",
-      "sourceName": "BleepingComputer",
-      "title": "An abandoned speech model can still be taken over.",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/"
-    },
-    {
-      "id": "content-item_2026-11-18_10_a-250-million-round-does-not-update-the-client-model_d9a047af",
+      "id": "content-item_2026-11-19_01_citi-says-the-agent-is-your-problem-even-if-it-is-hacked_708e5261",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "A $250 million round does not update the client model.",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+      "title": "Citi says the agent is your problem, even if it is hacked.",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
     },
     {
-      "id": "content-item_2026-11-18_11_tencent-loopforge-the-agent-opens-the-sandbox-you-approve-the-merge_6a369387",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "Tencent/LoopForge: the agent opens the sandbox. You approve the merge.",
-      "sourceUrl": "https://github.com/Tencent/LoopForge"
+      "id": "content-item_2026-11-19_02_ai-mode-in-search-can-forget-the-thread_aac2f44c",
+      "sourceKind": "product",
+      "sourceName": "Google",
+      "title": "AI Mode in Search can forget the thread.",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
     },
     {
-      "id": "content-item_2026-11-18_12_lnkiai-m3e-canvas-sketch-the-screen-then-hand-the-agent-a-prompt_e45249a5",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "lnkiai/m3e-canvas: sketch the screen, then hand the agent a prompt.",
-      "sourceUrl": "https://github.com/lnkiai/m3e-canvas"
+      "id": "content-item_2026-11-19_03_amazon-and-google-will-hold-nearly-30-percent-of-anthropic_6908e719",
+      "sourceKind": "article",
+      "sourceName": "TechCrunch",
+      "title": "Amazon and Google will hold nearly 30 percent of Anthropic.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
     },
     {
-      "id": "content-item_2026-11-18_13_a-ghorbani-pocketpal-ai-a-chat-model-that-stays-on-the-phone_3569ac6e",
+      "id": "content-item_2026-11-19_04_california-sued-openai-over-safety-claims-nothing-is-decided_868aad68",
+      "sourceKind": "regulation",
+      "sourceName": "Associated Press",
+      "title": "California sued OpenAI over safety claims. Nothing is decided.",
+      "sourceUrl": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69"
+    },
+    {
+      "id": "content-item_2026-11-19_05_the-codex-sandbox-blocks-the-network-it-can-still-read-the-key_53f2a143",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "The Codex sandbox blocks the network. It can still read the key.",
+      "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "id": "content-item_2026-11-19_06_four-outside-groups-will-sit-inside-openai-reports-can-still-wait_6811ffdc",
+      "sourceKind": "article",
+      "sourceName": "OpenAI",
+      "title": "Four outside groups will sit inside OpenAI. Reports can still wait.",
+      "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    },
+    {
+      "id": "content-item_2026-11-19_07_openai-says-model-written-chip-changes-are-in-a-design-amd-sent-to-be-bu_c7d3ecb0",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says model-written chip changes are in a design AMD sent to be built.",
+      "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "id": "content-item_2026-11-19_08_a-0-5b-speech-model-is-open-the-scores-are-the-maker-s_679cee5e",
+      "sourceKind": "product",
+      "sourceName": "Hugging Face",
+      "title": "A 0.5B speech model is open. The scores are the maker's.",
+      "sourceUrl": "https://huggingface.co/blog/rumble-2-flash"
+    },
+    {
+      "id": "content-item_2026-11-19_09_vibe-desktop-can-edit-the-local-repo-linux-is-not-out_bc42d9ba",
+      "sourceKind": "product",
+      "sourceName": "Mistral",
+      "title": "Vibe Desktop can edit the local repo. Linux is not out.",
+      "sourceUrl": "https://docs.mistral.ai/vibe/code/desktop/overview"
+    },
+    {
+      "id": "content-item_2026-11-19_10_genie-4-is-in-project-genie-the-gate-is-an-ultra-plan_652211f5",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Genie 4 is in Project Genie. The gate is an Ultra plan.",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/"
+    },
+    {
+      "id": "content-item_2026-11-19_11_ethanplusai-sellbird-cold-email-on-your-model-plan-you-still-own-the-sen_0f9bbc30",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "a-ghorbani/pocketpal-ai: a chat model that stays on the phone.",
-      "sourceUrl": "https://github.com/a-ghorbani/pocketpal-ai"
+      "title": "ethanplusai/sellbird: cold email on your model plan. You still own the send.",
+      "sourceUrl": "https://github.com/ethanplusai/sellbird"
+    },
+    {
+      "id": "content-item_2026-11-19_12_colbymchenry-codegraph-a-local-map-of-the-repo-for-the-agent_52b03674",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "colbymchenry/codegraph: a local map of the repo, for the agent",
+      "sourceUrl": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "id": "content-item_2026-11-19_13_punkpeye-awesome-mcp-servers-a-list-of-connectors-not-a-review_7d9153c0",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "punkpeye/awesome-mcp-servers: a list of connectors, not a review",
+      "sourceUrl": "https://github.com/punkpeye/awesome-mcp-servers"
     }
   ]
 }

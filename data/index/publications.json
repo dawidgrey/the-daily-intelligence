@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-17T20:10:00Z",
+  "generatedAtUtc": "2026-11-18T20:12:27Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-19",
+      "slug": "2026-11-19",
+      "status": "published",
+      "publicationDateUtc": "2026-11-18T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The login is still yours. So is the loss.",
+      "friendlyHeader": "The bank login is still yours. So is the loss.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today, Citi tells customers that a third-party finance agent is their responsibility, even if it is hacked. Google is adding a temporary thread to AI Mode in Search. Anthropic's filing, as TechCrunch reads it, leaves Amazon and Google with nearly 30 percent of the company after the IPO.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today, Citi says a money helper from another company is your responsibility, even if it is hacked. Google is adding a temporary chat in Search. Amazon and Google will own close to 30 percent of Anthropic after it sells shares, TechCrunch reports from the filing.",
+      "itemCount": 13,
+      "href": "issues/2026-11-19.html",
+      "dataUrl": "data/daily-publications/2026-11-19.json"
+    },
     {
       "id": "daily-publication_2026-11-18",
       "slug": "2026-11-18",

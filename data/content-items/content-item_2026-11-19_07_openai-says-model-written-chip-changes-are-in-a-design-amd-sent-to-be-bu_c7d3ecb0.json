@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_07_openai-says-model-written-chip-changes-are-in-a-design-amd-sent-to-be-bu_c7d3ecb0",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "canonicalUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "OpenAI says model-written chip changes are in a design AMD sent to be built.",
+  "friendlyTitle": "OpenAI says model-written chip changes are in a design AMD sent to be built.",
+  "summary": "On 18 November, OpenAI said its models found power, performance, and area changes in AMD's flagship GPU designs, up to 14 percent against heavily optimized baselines, and that AMD put some of those changes in a design already sent for manufacturing. OpenAI also says its team estimates about 13 percent less standard-cell area in one Jalapeño block and 10 percent in another, and that those changes were proven in silicon.",
+  "friendlySummary": "On 18 November, OpenAI said its models found ways to make AMD's top graphics-chip designs up to 14 percent better on power, speed, or size, against designs that were already heavily tuned. It says AMD put some of those changes in a design already sent to be manufactured. OpenAI also says two blocks of its own chip used about 13 percent and 10 percent less cell area, and that those changes worked in real silicon.",
+  "whyItMatters": "Those numbers are OpenAI's. It says AMD verified single-digit percentage gains on an upcoming CPU. 'A year of progress in less than five months' is OpenAI's comparison, not an independent clock. It does not change the chip in a laptop you can buy today.",
+  "friendlyWhyItMatters": "Those numbers are OpenAI's. It says AMD checked smaller gains, in the single digits, on an upcoming processor. 'A year of progress in less than five months' is OpenAI's comparison, not an outside clock. It does not change the chip in a laptop you can buy today.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}

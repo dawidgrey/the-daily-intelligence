@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-19_03_amazon-and-google-will-hold-nearly-30-percent-of-anthropic_6908e719",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-18T20:12:26Z",
+  "createdAtUtc": "2026-11-18T20:12:26Z",
+  "updatedAtUtc": "2026-11-18T20:12:26Z",
+  "title": "Amazon and Google will hold nearly 30 percent of Anthropic.",
+  "friendlyTitle": "Amazon and Google will own close to 30 percent of Anthropic.",
+  "summary": "TechCrunch, citing Anthropic's IPO disclosure, says Amazon will hold 14.7 percent after the offering, in non-voting shares, and could reach 23.8 percent if it converted every remaining note. Google will hold 13.7 percent, also non-voting.",
+  "friendlySummary": "TechCrunch, using Anthropic's share-sale filing, says Amazon will own 14.7 percent after the sale, without votes, and could reach 23.8 percent if it turned every remaining note into shares. Google will own 13.7 percent, also without votes.",
+  "whyItMatters": "A group that includes Google, Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC Partners agreed to buy $26 billion of that stock, with Google and Nvidia each taking $10 billion, TechCrunch reports. The same piece says Anthropic has committed to spend more than $100 billion on Amazon's cloud over the next decade. Those figures are the filing as TechCrunch reads it, not a forecast of Claude's price.",
+  "friendlyWhyItMatters": "TechCrunch says a group that includes Google, Nvidia, AMD, Microsoft, and others agreed to buy $26 billion of that stock. Google and Nvidia each agreed to buy $10 billion. The same story says Anthropic has promised to spend more than $100 billion on Amazon's cloud over the next ten years. Those numbers come from the filing as TechCrunch reads it. They are not a forecast of Claude's price.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-19"
+  }
+}
