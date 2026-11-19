@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-18T20:12:27Z",
+  "generatedAtUtc": "2026-11-19T20:11:35Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-20",
+      "slug": "2026-11-20",
+      "status": "published",
+      "publicationDateUtc": "2026-11-19T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "The shares opened. The switches did too.",
+      "friendlyHeader": "The shares started trading. The off switches did too.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today, Anthropic's shares started trading on Nasdaq. Canva added a switch for generative AI. United says an outside agent still cannot book the flight.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today, Anthropic's shares started trading. Canva added a switch to turn off AI that creates new text or pictures. United says an outside helper still cannot book the flight.",
+      "itemCount": 13,
+      "href": "issues/2026-11-20.html",
+      "dataUrl": "data/daily-publications/2026-11-20.json"
+    },
     {
       "id": "daily-publication_2026-11-19",
       "slug": "2026-11-19",

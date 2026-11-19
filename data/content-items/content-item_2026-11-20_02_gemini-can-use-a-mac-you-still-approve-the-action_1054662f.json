@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_02_gemini-can-use-a-mac-you-still-approve-the-action_1054662f",
+  "sourceKind": "product",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "Gemini can use a Mac. You still approve the action.",
+  "friendlyTitle": "Gemini can use a Mac. You still have to say yes.",
+  "summary": "TechCrunch reports that Google announced computer use in the Gemini desktop app for macOS on 19 November. The agent can work across Mac apps and websites in the background, while you watch a live preview and keep your own cursor. You can pause, stop, or approve an action before it happens.",
+  "friendlySummary": "TechCrunch reports that Google announced this for the Gemini app on Mac on 19 November. The helper can use Mac apps and websites in the background. You watch a live preview and keep your own cursor. You can pause it, stop it, or approve an action before it happens.",
+  "whyItMatters": "TechCrunch says the feature is in English, in the United States, and needs the Gemini Mac app plus a Google AI Plus, Pro, or Ultra plan. Google has not given a date for other countries or for Windows. An approval step is not a review of what the agent read.",
+  "friendlyWhyItMatters": "TechCrunch says it is in English, in the United States, and needs the Gemini Mac app plus a paid Google AI Plus, Pro, or Ultra plan. Google has not said when it will reach other countries or Windows. Saying yes is not the same as checking what the helper read.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

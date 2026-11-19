@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_07_dictation-in-chatgpt-writes-the-words-as-you-speak_26008605",
+  "sourceKind": "product",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+  "credit": "@ChatGPT",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "Dictation in ChatGPT writes the words as you speak.",
+  "friendlyTitle": "ChatGPT can write your words while you are still talking.",
+  "summary": "The Verge reports that Live Dictation is rolling out globally on every ChatGPT plan, on the web, the desktop app, and iOS and Android. Speech becomes text while you talk. Tap or click the waveform to show the transcript, then edit it in the prompt box.",
+  "friendlySummary": "The Verge reports that Live Dictation is rolling out worldwide on every ChatGPT plan. It works on the website, the desktop app, and the iPhone and Android apps. Your speech becomes text while you talk. Tap or click the sound wave to show the text, then edit it before you send it.",
+  "whyItMatters": "The Verge, citing OpenAI, says the old 10-minute recording limit is gone and that OpenAI calls the feature more reliable. That is the company's description. Read the transcript before you send it, especially a name, a number, or a dose.",
+  "friendlyWhyItMatters": "The Verge, citing OpenAI, says the old 10-minute recording limit is gone. OpenAI also says the feature is more reliable. That is the company's description. Read the text before you send it, especially a name, a number, or a dose.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

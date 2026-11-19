@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_06_chatgpt-health-is-reaching-android-desktop-and-sites_cb6abc3b",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "canonicalUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "ChatGPT Health is reaching Android, desktop, and sites.",
+  "friendlyTitle": "ChatGPT Health is reaching Android, the desktop app, and sites.",
+  "summary": "OpenAI's release notes for 19 November say Health is rolling out to the desktop app, dots, sites, and Android, including Health Connect. The notes say it can use connected sleep and activity data, and that a dot may suggest a schedule change or a preventive-care reminder from connected records.",
+  "friendlySummary": "OpenAI's release notes for 19 November say Health is rolling out to the desktop app, to dots, to sites, and to Android, including Health Connect. The notes say it can use connected sleep and activity data. A dot may suggest a new time for a workout, or a reminder about preventive care, from records you connect.",
+  "whyItMatters": "OpenAI says this is for Free, Go, Plus, and Pro users in the United States, that dots are currently for Pro, and that the rollout is gradual. Update the app and look for Health in the sidebar or Explore menu. A suggestion from a connected record is not a diagnosis.",
+  "friendlyWhyItMatters": "OpenAI says this is for Free, Go, Plus, and Pro users in the United States. Dots are currently for Pro users. The rollout is gradual. Update the app and look for Health in the sidebar, or in the Explore menu. A suggestion from a connected record is not a diagnosis.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

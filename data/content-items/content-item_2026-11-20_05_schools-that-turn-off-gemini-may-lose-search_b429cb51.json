@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_05_schools-that-turn-off-gemini-may-lose-search_b429cb51",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "Schools that turn off Gemini may lose Search.",
+  "friendlyTitle": "Schools that turn off Gemini may lose Search.",
+  "summary": "The Verge, citing The New York Times, reports that New York, Los Angeles, and Chicago schools are considering other search tools after Google said schools that opt out of AI features will lose Search. Chris Phillips, Google's vice president of education, told the Times that starting next year those schools will not have access to Search.",
+  "friendlySummary": "The Verge, using a New York Times report, says schools in New York, Los Angeles, and Chicago are looking at other search tools. Google told the Times that schools which turn off AI features will lose Search. Chris Phillips, a Google education executive, said that starts next year.",
+  "whyItMatters": "Google spokesperson Laura Breen told The Verge a related plan: next year the Gemini app, Gemini Notebook, and Search will be off by default until a school turns them on. That is a stated plan, not a switch that has already happened. A district looking at alternatives is not the same as a finished move.",
+  "friendlyWhyItMatters": "A Google spokesperson, Laura Breen, told The Verge something related. Next year the Gemini app, Gemini Notebook, and Search will be off until a school turns them on. That is a plan, not a change that has already happened. A district looking at other tools is not the same as a finished move.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

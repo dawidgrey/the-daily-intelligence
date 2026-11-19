@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_11_mjmirza-app-store-compliance-a-store-rule-check-for-the-coding-agent_d664b5a4",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/mjmirza/app-store-compliance",
+  "canonicalUrl": "https://github.com/mjmirza/app-store-compliance",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "mjmirza/app-store-compliance: a store-rule check for the coding agent",
+  "friendlyTitle": "App Store Compliance is a rule check for a coding helper.",
+  "summary": "App Store Compliance gained 542 stars on GitHub's daily trending list. The repo has 1,725 stars. It is a playbook and pre-submission guard for App Store and Google Play rules, with a skill for coding agents. Version 2.4.0 was tagged on 15 November. The license is OpenRoots Agent License 2.3, not a standard open-source license.",
+  "friendlySummary": "This project gained 542 stars on GitHub's daily trending list. The repo has 1,725 stars. It is a checklist and a pre-submit check for Apple App Store and Google Play rules, with a skill for coding helpers. Version 2.4.0 was tagged on 15 November. The license is OpenRoots Agent License 2.3. That is not one of the usual open-source licenses.",
+  "whyItMatters": "Point a coding agent at it before you submit an app, then read the findings yourself. The project says it tracks 117 rejection patterns. That count is the author's. A passing check is not store approval.",
+  "friendlyWhyItMatters": "Point a coding helper at it before you submit an app, then read what it flags. The author says it tracks 117 common rejection patterns. That number is the author's. A pass is not approval from the store.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

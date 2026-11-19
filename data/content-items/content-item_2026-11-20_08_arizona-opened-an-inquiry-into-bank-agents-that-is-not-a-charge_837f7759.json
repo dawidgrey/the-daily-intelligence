@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_08_arizona-opened-an-inquiry-into-bank-agents-that-is-not-a-charge_837f7759",
+  "sourceKind": "regulation",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/",
+  "canonicalUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "Arizona opened an inquiry into bank agents. That is not a charge.",
+  "friendlyTitle": "Arizona opened an investigation into bank helpers. That is not a charge.",
+  "summary": "Reuters reports that Arizona Attorney General Kris Mayes said on 18 November that the state has opened a criminal investigation into OpenAI and other AI companies over what she called the apparent infiltration of banks by rogue agents. She did not name the other companies or the banks. A Reuters request to OpenAI got no immediate comment.",
+  "friendlySummary": "Reuters reports that Arizona's attorney general, Kris Mayes, said on 18 November that the state has opened a criminal investigation into OpenAI and other AI companies. She described it as outside helpers getting into banks without approval. She did not name the other companies or the banks. OpenAI did not immediately comment.",
+  "whyItMatters": "Reuters says an investigation is not a charge, and that the office is looking at whether state law is being violated on an ongoing basis. Do not treat the attorney general's wording as a finding. Do not give a bank login to an outside agent while this is unresolved.",
+  "friendlyWhyItMatters": "Reuters says an investigation is not a charge. The office is checking whether state law is being broken right now. Do not treat her words as a proven finding. Do not give a bank login to an outside helper while this is unresolved.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "regulation",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

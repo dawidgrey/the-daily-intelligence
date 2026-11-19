@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-18T20:12:26Z",
+  "generatedAtUtc": "2026-11-19T20:11:34Z",
   "items": [
     {
-      "id": "content-item_2026-11-19_01_citi-says-the-agent-is-your-problem-even-if-it-is-hacked_708e5261",
+      "id": "content-item_2026-11-20_01_anthropic-opened-at-111-50-the-price-was-still-moving_d680d875",
       "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Citi says the agent is your problem, even if it is hacked.",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      "title": "Anthropic opened at $111.50. The price was still moving.",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
     },
     {
-      "id": "content-item_2026-11-19_02_ai-mode-in-search-can-forget-the-thread_aac2f44c",
+      "id": "content-item_2026-11-20_02_gemini-can-use-a-mac-you-still-approve-the-action_1054662f",
       "sourceKind": "product",
-      "sourceName": "Google",
-      "title": "AI Mode in Search can forget the thread.",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
-    },
-    {
-      "id": "content-item_2026-11-19_03_amazon-and-google-will-hold-nearly-30-percent-of-anthropic_6908e719",
-      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "Amazon and Google will hold nearly 30 percent of Anthropic.",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+      "title": "Gemini can use a Mac. You still approve the action.",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
     },
     {
-      "id": "content-item_2026-11-19_04_california-sued-openai-over-safety-claims-nothing-is-decided_868aad68",
+      "id": "content-item_2026-11-20_03_canva-can-hide-generative-ai-background-remover-stays_015a134a",
+      "sourceKind": "product",
+      "sourceName": "Canva",
+      "title": "Canva can hide generative AI. Background Remover stays.",
+      "sourceUrl": "https://www.canva.com/newsroom/news/ai-controls-canva/"
+    },
+    {
+      "id": "content-item_2026-11-20_04_united-will-not-let-an-outside-agent-book-the-flight_9b9ab0c4",
+      "sourceKind": "article",
+      "sourceName": "United Airlines",
+      "title": "United will not let an outside agent book the flight.",
+      "sourceUrl": "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
+    },
+    {
+      "id": "content-item_2026-11-20_05_schools-that-turn-off-gemini-may-lose-search_b429cb51",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Schools that turn off Gemini may lose Search.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+    },
+    {
+      "id": "content-item_2026-11-20_06_chatgpt-health-is-reaching-android-desktop-and-sites_cb6abc3b",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Health is reaching Android, desktop, and sites.",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    },
+    {
+      "id": "content-item_2026-11-20_07_dictation-in-chatgpt-writes-the-words-as-you-speak_26008605",
+      "sourceKind": "product",
+      "sourceName": "The Verge",
+      "title": "Dictation in ChatGPT writes the words as you speak.",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "id": "content-item_2026-11-20_08_arizona-opened-an-inquiry-into-bank-agents-that-is-not-a-charge_837f7759",
       "sourceKind": "regulation",
-      "sourceName": "Associated Press",
-      "title": "California sued OpenAI over safety claims. Nothing is decided.",
-      "sourceUrl": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69"
+      "sourceName": "Reuters",
+      "title": "Arizona opened an inquiry into bank agents. That is not a charge.",
+      "sourceUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
     },
     {
-      "id": "content-item_2026-11-19_05_the-codex-sandbox-blocks-the-network-it-can-still-read-the-key_53f2a143",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "The Codex sandbox blocks the network. It can still read the key.",
-      "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox"
-    },
-    {
-      "id": "content-item_2026-11-19_06_four-outside-groups-will-sit-inside-openai-reports-can-still-wait_6811ffdc",
-      "sourceKind": "article",
-      "sourceName": "OpenAI",
-      "title": "Four outside groups will sit inside OpenAI. Reports can still wait.",
-      "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    },
-    {
-      "id": "content-item_2026-11-19_07_openai-says-model-written-chip-changes-are-in-a-design-amd-sent-to-be-bu_c7d3ecb0",
+      "id": "content-item_2026-11-20_09_anthropic-says-claude-finished-two-black-hole-calculations_122be7cf",
       "sourceKind": "research",
+      "sourceName": "Anthropic",
+      "title": "Anthropic says Claude finished two black-hole calculations.",
+      "sourceUrl": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "id": "content-item_2026-11-20_10_openai-s-agents-are-chasing-chatgpt-slowdowns_6687f7be",
+      "sourceKind": "article",
       "sourceName": "OpenAI",
-      "title": "OpenAI says model-written chip changes are in a design AMD sent to be built.",
-      "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models"
+      "title": "OpenAI's agents are chasing ChatGPT slowdowns.",
+      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
     },
     {
-      "id": "content-item_2026-11-19_08_a-0-5b-speech-model-is-open-the-scores-are-the-maker-s_679cee5e",
-      "sourceKind": "product",
-      "sourceName": "Hugging Face",
-      "title": "A 0.5B speech model is open. The scores are the maker's.",
-      "sourceUrl": "https://huggingface.co/blog/rumble-2-flash"
-    },
-    {
-      "id": "content-item_2026-11-19_09_vibe-desktop-can-edit-the-local-repo-linux-is-not-out_bc42d9ba",
-      "sourceKind": "product",
-      "sourceName": "Mistral",
-      "title": "Vibe Desktop can edit the local repo. Linux is not out.",
-      "sourceUrl": "https://docs.mistral.ai/vibe/code/desktop/overview"
-    },
-    {
-      "id": "content-item_2026-11-19_10_genie-4-is-in-project-genie-the-gate-is-an-ultra-plan_652211f5",
-      "sourceKind": "product",
-      "sourceName": "Google DeepMind",
-      "title": "Genie 4 is in Project Genie. The gate is an Ultra plan.",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/"
-    },
-    {
-      "id": "content-item_2026-11-19_11_ethanplusai-sellbird-cold-email-on-your-model-plan-you-still-own-the-sen_0f9bbc30",
+      "id": "content-item_2026-11-20_11_mjmirza-app-store-compliance-a-store-rule-check-for-the-coding-agent_d664b5a4",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "ethanplusai/sellbird: cold email on your model plan. You still own the send.",
-      "sourceUrl": "https://github.com/ethanplusai/sellbird"
+      "title": "mjmirza/app-store-compliance: a store-rule check for the coding agent",
+      "sourceUrl": "https://github.com/mjmirza/app-store-compliance"
     },
     {
-      "id": "content-item_2026-11-19_12_colbymchenry-codegraph-a-local-map-of-the-repo-for-the-agent_52b03674",
+      "id": "content-item_2026-11-20_12_openvinotoolkit-openvino-run-a-model-on-the-hardware-you-have_c6688854",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "colbymchenry/codegraph: a local map of the repo, for the agent",
-      "sourceUrl": "https://github.com/colbymchenry/codegraph"
+      "title": "openvinotoolkit/openvino: run a model on the hardware you have",
+      "sourceUrl": "https://github.com/openvinotoolkit/openvino"
     },
     {
-      "id": "content-item_2026-11-19_13_punkpeye-awesome-mcp-servers-a-list-of-connectors-not-a-review_7d9153c0",
+      "id": "content-item_2026-11-20_13_flashml-org-freevideo-local-video-with-a-separate-weight-license_124a9c7c",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "punkpeye/awesome-mcp-servers: a list of connectors, not a review",
-      "sourceUrl": "https://github.com/punkpeye/awesome-mcp-servers"
+      "title": "FlashML-org/FreeVideo: local video, with a separate weight license",
+      "sourceUrl": "https://github.com/FlashML-org/FreeVideo"
     }
   ]
 }

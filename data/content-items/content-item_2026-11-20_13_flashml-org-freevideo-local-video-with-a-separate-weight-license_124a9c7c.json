@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_13_flashml-org-freevideo-local-video-with-a-separate-weight-license_124a9c7c",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/FlashML-org/FreeVideo",
+  "canonicalUrl": "https://github.com/FlashML-org/FreeVideo",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "FlashML-org/FreeVideo: local video, with a separate weight license",
+  "friendlyTitle": "FreeVideo makes video on your own computer. The model has a separate license.",
+  "summary": "FreeVideo gained 99 stars on GitHub's Python trending list. The repo has 3,409 stars. Version 0.6.4 was tagged on 19 November. The project says it runs MiniMax H3 video generation in as little as 8 GB of video memory and 16 GB of RAM. The code is Apache-2.0. The weights use the MiniMax H3 Community License, which has territorial and use limits.",
+  "friendlySummary": "FreeVideo gained 99 stars on GitHub's Python trending list. The repo has 3,409 stars. Version 0.6.4 was tagged on 19 November. The project says it can run MiniMax H3 video generation with as little as 8 GB of graphics memory and 16 GB of regular memory. The code uses a free Apache 2.0 license. The model weights use the MiniMax H3 Community License, which limits where and how they can be used.",
+  "whyItMatters": "Use it if you want a video draft on your own machine instead of a hosted generator. The memory floor is the project's claim, not an outside test. Read the weight license before you ship a clip.",
+  "friendlyWhyItMatters": "Use it if you want a video draft on your own computer instead of a website. The memory numbers are the project's claim, not an outside test. Read the weight license before you publish a clip.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

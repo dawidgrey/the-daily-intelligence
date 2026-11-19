@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_10_openai-s-agents-are-chasing-chatgpt-slowdowns_6687f7be",
+  "sourceKind": "article",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "canonicalUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "OpenAI's agents are chasing ChatGPT slowdowns.",
+  "friendlyTitle": "OpenAI's helpers are looking for what makes ChatGPT slow.",
+  "summary": "On 19 November, OpenAI described the Performance Factory, a set of Codex workflows that investigate performance alerts, propose a fix, and check whether speed recovered after deployment. OpenAI says the regression workflow tracked more than 1,700 investigations in a little over three months and found a cause in more than 600.",
+  "friendlySummary": "On 19 November, OpenAI described the Performance Factory. It is a set of Codex workflows. They look into speed alerts, suggest a fix, and check whether speed came back after the fix is released. OpenAI says this workflow tracked more than 1,700 investigations in a little over three months, and found a cause in more than 600.",
+  "whyItMatters": "Those counts are OpenAI's, about 17 investigations a day. OpenAI says an engineer still reviews the proposed fix. A slow reply in ChatGPT is not evidence that this system has already repaired it.",
+  "friendlyWhyItMatters": "Those numbers are OpenAI's. That is about 17 investigations a day. OpenAI says a person still reviews the suggested fix. A slow reply in ChatGPT does not mean this system has already repaired it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

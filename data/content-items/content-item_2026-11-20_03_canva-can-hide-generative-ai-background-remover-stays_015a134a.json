@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_03_canva-can-hide-generative-ai-background-remover-stays_015a134a",
+  "sourceKind": "product",
+  "sourceName": "Canva",
+  "sourceUrl": "https://www.canva.com/newsroom/news/ai-controls-canva/",
+  "canonicalUrl": "https://www.canva.com/newsroom/news/ai-controls-canva/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "Canva can hide generative AI. Background Remover stays.",
+  "friendlyTitle": "Canva can turn off AI that creates new work. Simple photo edits stay.",
+  "summary": "On 19 November, Canva said two AI controls are available on Free and Pro at no extra cost. One switch hides generative AI features. The other limits AI-generated items in the library. Canva says Background Remover and Magic Grab stay on, because they edit what is already there.",
+  "friendlySummary": "On 19 November, Canva said two new controls are free on the Free and Pro plans. One switch hides AI tools that create new text, images, or designs. The other shows less AI-made content in the library. Canva says Background Remover and Magic Grab stay on, because they only edit what you already have.",
+  "whyItMatters": "The generative switch is under Profile, Settings, Permissions. The library control is under Profile, Your account, AI Personalization. Canva says those assistive edits will not add an AI-generated label. A hidden button is not a promise that every suggestion on the page is human-made.",
+  "friendlyWhyItMatters": "The first switch is under Profile, then Settings, then Permissions. The library switch is under Profile, then Your account, then AI Personalization. Canva says those simple edits will not mark your design as AI-made. Hiding a button does not prove that every suggestion on the page was made by a person.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}

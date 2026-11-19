@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-20_12_openvinotoolkit-openvino-run-a-model-on-the-hardware-you-have_c6688854",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/openvinotoolkit/openvino",
+  "canonicalUrl": "https://github.com/openvinotoolkit/openvino",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-19T20:11:34Z",
+  "createdAtUtc": "2026-11-19T20:11:34Z",
+  "updatedAtUtc": "2026-11-19T20:11:34Z",
+  "title": "openvinotoolkit/openvino: run a model on the hardware you have",
+  "friendlyTitle": "OpenVINO runs a model on the computer you already have.",
+  "summary": "OpenVINO gained 246 stars on GitHub's daily trending list. The repo has 11,525 stars, under Apache-2.0. It is Intel's open toolkit for optimizing and deploying AI inference. The latest tagged release, 2026.4.1, is from 1 October, so today's climb is not a new release.",
+  "friendlySummary": "OpenVINO gained 246 stars on GitHub's daily trending list. The repo has 11,525 stars, under a free Apache 2.0 license. It is Intel's open toolkit for making AI models run faster and putting them into apps. The latest tagged release, 2026.4.1, is from 1 October. Today's rise is not a new release.",
+  "whyItMatters": "Use it when you want a model to run on a CPU, GPU, or other supported chip without keeping a separate serving stack for each one. Read the device support for your machine before you assume a speed gain. Trending is not a benchmark.",
+  "friendlyWhyItMatters": "Use it when you want one toolkit to run a model on a processor, a graphics chip, or another supported chip. Read which devices your computer actually supports before you expect a speed gain. Being on the trending list is not a speed test.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-20"
+  }
+}
