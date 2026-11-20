@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_02_signal-is-blocking-the-screenshot-you-can-turn-that-off_11f79f6f",
+  "sourceKind": "product",
+  "sourceName": "Signal",
+  "sourceUrl": "https://signal.org/blog/protecting-your-privacy/",
+  "canonicalUrl": "https://signal.org/blog/protecting-your-privacy/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "Signal is blocking the screenshot. You can turn that off.",
+  "friendlyTitle": "Signal is blocking screenshots. You can turn that off.",
+  "summary": "On 20 November, Signal president Meredith Whittaker said the app is blocking screenshots on iOS 27, and turning on screen security on Android when it detects an assistant trying to read the screen. The aim is to stop Gemini and Siri from capturing Signal chats. You can turn the block off in settings.",
+  "friendlySummary": "On 20 November, Signal's president, Meredith Whittaker, said the app is blocking screenshots on iOS 27. On Android, it turns on screen security when it detects a helper trying to read the screen. The aim is to stop Gemini and Siri from copying Signal chats. You can turn the block off in settings.",
+  "whyItMatters": "Signal says turning it off can expose your chats and your contacts' chats, and that the fix is incomplete because an agent could still read files already on the phone. Signal cannot block screenshots on macOS. Its advice there is System Settings, then Siri, then Excluded Apps.",
+  "friendlyWhyItMatters": "Signal says turning it off can expose your chats, and the chats of the people you message. The fix is not complete, because a helper could still read files already saved on the phone. Signal cannot block screenshots on a Mac. Its advice there is System Settings, then Siri, then Excluded Apps.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

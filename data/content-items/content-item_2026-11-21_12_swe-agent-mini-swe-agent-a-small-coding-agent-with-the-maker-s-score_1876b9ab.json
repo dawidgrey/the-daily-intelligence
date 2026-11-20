@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_12_swe-agent-mini-swe-agent-a-small-coding-agent-with-the-maker-s-score_1876b9ab",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/SWE-agent/mini-swe-agent",
+  "canonicalUrl": "https://github.com/SWE-agent/mini-swe-agent",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "SWE-agent/mini-swe-agent: a small coding agent, with the maker's score",
+  "friendlyTitle": "mini-swe-agent is a small coding helper. The score is the maker's.",
+  "summary": "mini-swe-agent gained 62 stars on GitHub's Python trending list. The repo has 9,895 stars, under MIT. The project calls it a roughly 100-line agent for GitHub issues and the command line, and says it scores above 74 percent on SWE-bench verified. The latest tag, v2.4.6, is from 23 July, so today's climb is not a new release.",
+  "friendlySummary": "mini-swe-agent gained 62 stars on GitHub's Python trending list. The repo has 9,895 stars, under a free MIT license. The project calls it a roughly 100-line helper for GitHub issues and the command line. It says the helper scores above 74 percent on SWE-bench verified, a test of fixing real software issues. The latest tagged version, v2.4.6, is from 23 July. Today's rise is not a new release.",
+  "whyItMatters": "Use it when you want a small coding agent you can read, instead of a large harness. The benchmark figure is the project's. Read the diff before you merge it.",
+  "friendlyWhyItMatters": "Use it when you want a small coding helper you can read, instead of a large toolkit. The test score is the project's. Read the code changes before you merge them.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

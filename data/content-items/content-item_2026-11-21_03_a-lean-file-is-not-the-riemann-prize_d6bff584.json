@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_03_a-lean-file-is-not-the-riemann-prize_d6bff584",
+  "sourceKind": "research",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "A Lean file is not the Riemann prize.",
+  "friendlyTitle": "A checked file is not the Riemann prize.",
+  "summary": "TechCrunch reports that Levent Alpöge, a mathematician at Anthropic, posted an essay saying he had a Lean-compilable solution to the Riemann hypothesis, and that he asked Dario Amodei on Sunday night how to announce it. TechCrunch also reports that Stanford professor Ravi Vakil posted a separate draft of the General Riemann hypothesis by Alessandro Masullo, which Vakil said used no AI.",
+  "friendlySummary": "TechCrunch reports that Levent Alpöge, a mathematician at Anthropic, posted an essay saying he had a solution to the Riemann hypothesis that a proof-checking program called Lean could compile. He asked Anthropic's chief executive, Dario Amodei, on Sunday night how to announce it. TechCrunch also reports that Stanford professor Ravi Vakil posted a separate draft of a related problem by Alessandro Masullo. Vakil said that draft used no AI.",
+  "whyItMatters": "TechCrunch says mathematicians are still working through the Lean result, and that Alpöge has said he will pursue an explanation people can read. A file that compiles is not a Clay Mathematics Institute prize, and it is not a proof the field has accepted. Do not treat either draft as settled.",
+  "friendlyWhyItMatters": "TechCrunch says mathematicians are still working through the checked file. Alpöge has said he will write an explanation people can read. A file that a program accepts is not the Clay Mathematics Institute prize. It is not a proof the field has accepted. Do not treat either draft as finished.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

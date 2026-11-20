@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "recordType": "PublicationIndex",
-  "generatedAtUtc": "2026-11-19T20:11:35Z",
+  "generatedAtUtc": "2026-11-20T20:11:04Z",
   "items": [
+    {
+      "id": "daily-publication_2026-11-21",
+      "slug": "2026-11-21",
+      "status": "published",
+      "publicationDateUtc": "2026-11-20T19:00:00Z",
+      "displayTimeZone": "Australia/Sydney",
+      "header": "Back near the sale price. The chat stays closed.",
+      "friendlyHeader": "The share price fell back. The private chat stays closed.",
+      "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today, Anthropic's shares were back near the sale price during Friday's session. Signal is blocking phone screenshots so a phone assistant cannot read the chat. A claimed math proof is not a prize.",
+      "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today, Anthropic's shares were back near the first sale price during Friday's trading. Signal is blocking phone screenshots so a phone helper cannot read the chat. A claimed math proof is not a prize.",
+      "itemCount": 13,
+      "href": "issues/2026-11-21.html",
+      "dataUrl": "data/daily-publications/2026-11-21.json"
+    },
     {
       "id": "daily-publication_2026-11-20",
       "slug": "2026-11-20",

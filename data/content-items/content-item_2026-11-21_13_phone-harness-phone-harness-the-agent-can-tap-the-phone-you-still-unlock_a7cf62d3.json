@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_13_phone-harness-phone-harness-the-agent-can-tap-the-phone-you-still-unlock_a7cf62d3",
+  "sourceKind": "github",
+  "sourceName": "GitHub",
+  "sourceUrl": "https://github.com/phone-harness/phone-harness",
+  "canonicalUrl": "https://github.com/phone-harness/phone-harness",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "phone-harness/phone-harness: the agent can tap the phone. You still unlock it.",
+  "friendlyTitle": "Phone Harness lets a helper tap the phone. You still unlock it.",
+  "summary": "Phone Harness gained 206 stars on GitHub's Python trending list. The repo has 5,342 stars, under MIT. It lets an agent see and tap a phone: iPhone through the mirroring window, Android through adb. The latest tag, 0.3.3, is from 2 November. The repo was pushed on 20 November.",
+  "friendlySummary": "Phone Harness gained 206 stars on GitHub's Python trending list. The repo has 5,342 stars, under a free MIT license. It lets a helper see and tap a phone. On iPhone it uses the mirroring window. On Android it uses a debug link. The latest tagged version, 0.3.3, is from 2 November. The repo was updated on 20 November.",
+  "whyItMatters": "Use it only on a phone you control, and only for a task you can watch. The README says connecting the phone is your job, that text recognition sees words rather than icons, and that a locked screen still needs you. A tap the agent sends is a tap on your account.",
+  "friendlyWhyItMatters": "Use it only on a phone you control, and only for a task you can watch. The README says connecting the phone is your job, that text recognition sees words rather than icons, and that a locked screen still needs you. A tap the helper sends is a tap on your account.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

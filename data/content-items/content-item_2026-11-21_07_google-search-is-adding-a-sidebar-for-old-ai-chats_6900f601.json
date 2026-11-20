@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_07_google-search-is-adding-a-sidebar-for-old-ai-chats_6900f601",
+  "sourceKind": "product",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "canonicalUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "credit": "@rmstein",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "Google Search is adding a sidebar for old AI chats.",
+  "friendlyTitle": "Google Search is adding a sidebar for old AI chats.",
+  "summary": "The Verge reports that Robby Stein, a Google vice president of product, said on 19 November that a collapsible sidebar is rolling out globally on the desktop homepage. It lists recent AI Mode searches so you can reopen them. From the clip he posted, The Verge says you open it from a gray bar on the left.",
+  "friendlySummary": "The Verge reports that Robby Stein, a Google product executive, said on 19 November that a sidebar you can open and close is rolling out worldwide on the desktop homepage. It lists recent AI Mode searches so you can reopen them. From the clip he posted, The Verge says you open it from a gray bar on the left.",
+  "whyItMatters": "Stein said people are bringing questions that are not finished in one search. A sidebar is a way back to an old thread. It is not a new model, and it does not make those chats private.",
+  "friendlyWhyItMatters": "Stein said people are asking questions that are not finished in one search. A sidebar is a way back to an old chat. It is not a new model. It does not make those chats private.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

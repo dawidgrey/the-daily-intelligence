@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_09_a-saved-line-number-can-point-at-the-wrong-function_e25b5e78",
+  "sourceKind": "research",
+  "sourceName": "Enola",
+  "sourceUrl": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
+  "canonicalUrl": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "A saved line number can point at the wrong function.",
+  "friendlyTitle": "A saved line number can point at the wrong function.",
+  "summary": "Enola checked agent notes saved against older revisions of Excalidraw and Vite. After 30 days, 13 of 45 Excalidraw locations and 8 of 51 Vite locations pointed into a different function. The original functions were usually still in the repo. Other edits had moved them.",
+  "friendlySummary": "Enola checked notes that coding helpers saved against older versions of two projects, Excalidraw and Vite. After 30 days, 13 of 45 Excalidraw locations and 8 of 51 Vite locations pointed into a different function. The original functions were usually still in the project. Other edits had moved them.",
+  "whyItMatters": "The study is the author's, on two TypeScript projects and 96 locations. A note that still opens a file can look right and describe the wrong code. If an agent keeps memory between sessions, check the function, not only the line number.",
+  "friendlyWhyItMatters": "This is the author's study, on two TypeScript projects and 96 locations. A note that still opens a file can look right and describe the wrong code. If a helper keeps notes between sessions, check the function, not only the line number.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

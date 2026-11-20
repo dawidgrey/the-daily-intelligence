@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-19T20:11:34Z",
+  "generatedAtUtc": "2026-11-20T20:11:02Z",
   "items": [
     {
-      "id": "content-item_2026-11-20_01_anthropic-opened-at-111-50-the-price-was-still-moving_d680d875",
+      "id": "content-item_2026-11-21_01_anthropic-was-last-at-87-28-that-was-not-the-close_f3230761",
       "sourceKind": "article",
-      "sourceName": "TechCrunch",
-      "title": "Anthropic opened at $111.50. The price was still moving.",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "id": "content-item_2026-11-20_02_gemini-can-use-a-mac-you-still-approve-the-action_1054662f",
-      "sourceKind": "product",
-      "sourceName": "TechCrunch",
-      "title": "Gemini can use a Mac. You still approve the action.",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "id": "content-item_2026-11-20_03_canva-can-hide-generative-ai-background-remover-stays_015a134a",
-      "sourceKind": "product",
-      "sourceName": "Canva",
-      "title": "Canva can hide generative AI. Background Remover stays.",
-      "sourceUrl": "https://www.canva.com/newsroom/news/ai-controls-canva/"
-    },
-    {
-      "id": "content-item_2026-11-20_04_united-will-not-let-an-outside-agent-book-the-flight_9b9ab0c4",
-      "sourceKind": "article",
-      "sourceName": "United Airlines",
-      "title": "United will not let an outside agent book the flight.",
-      "sourceUrl": "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
-    },
-    {
-      "id": "content-item_2026-11-20_05_schools-that-turn-off-gemini-may-lose-search_b429cb51",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Schools that turn off Gemini may lose Search.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
-    },
-    {
-      "id": "content-item_2026-11-20_06_chatgpt-health-is-reaching-android-desktop-and-sites_cb6abc3b",
-      "sourceKind": "product",
-      "sourceName": "OpenAI",
-      "title": "ChatGPT Health is reaching Android, desktop, and sites.",
-      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-    },
-    {
-      "id": "content-item_2026-11-20_07_dictation-in-chatgpt-writes-the-words-as-you-speak_26008605",
-      "sourceKind": "product",
-      "sourceName": "The Verge",
-      "title": "Dictation in ChatGPT writes the words as you speak.",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
-    },
-    {
-      "id": "content-item_2026-11-20_08_arizona-opened-an-inquiry-into-bank-agents-that-is-not-a-charge_837f7759",
-      "sourceKind": "regulation",
       "sourceName": "Reuters",
-      "title": "Arizona opened an inquiry into bank agents. That is not a charge.",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
+      "title": "Anthropic was last at $87.28. That was not the close.",
+      "sourceUrl": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"
     },
     {
-      "id": "content-item_2026-11-20_09_anthropic-says-claude-finished-two-black-hole-calculations_122be7cf",
+      "id": "content-item_2026-11-21_02_signal-is-blocking-the-screenshot-you-can-turn-that-off_11f79f6f",
+      "sourceKind": "product",
+      "sourceName": "Signal",
+      "title": "Signal is blocking the screenshot. You can turn that off.",
+      "sourceUrl": "https://signal.org/blog/protecting-your-privacy/"
+    },
+    {
+      "id": "content-item_2026-11-21_03_a-lean-file-is-not-the-riemann-prize_d6bff584",
       "sourceKind": "research",
-      "sourceName": "Anthropic",
-      "title": "Anthropic says Claude finished two black-hole calculations.",
-      "sourceUrl": "https://www.anthropic.com/research/claude-black-hole-physics"
+      "sourceName": "TechCrunch",
+      "title": "A Lean file is not the Riemann prize.",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
     },
     {
-      "id": "content-item_2026-11-20_10_openai-s-agents-are-chasing-chatgpt-slowdowns_6687f7be",
+      "id": "content-item_2026-11-21_04_the-commission-confirms-an-ai-assisted-attack-it-has-not-named-who_66202c26",
       "sourceKind": "article",
+      "sourceName": "AP News",
+      "title": "The Commission confirms an AI-assisted attack. It has not named who.",
+      "sourceUrl": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70"
+    },
+    {
+      "id": "content-item_2026-11-21_05_medchembench-is-a-test-on-old-papers-it-is-not-a-new-drug_f4784c30",
+      "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "OpenAI's agents are chasing ChatGPT slowdowns.",
-      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      "title": "MedChemBench is a test on old papers. It is not a new drug.",
+      "sourceUrl": "https://openai.com/index/introducing-medchembench"
     },
     {
-      "id": "content-item_2026-11-20_11_mjmirza-app-store-compliance-a-store-rule-check-for-the-coding-agent_d664b5a4",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "mjmirza/app-store-compliance: a store-rule check for the coding agent",
-      "sourceUrl": "https://github.com/mjmirza/app-store-compliance"
+      "id": "content-item_2026-11-21_06_a-harness-adapter-is-a-small-add-on-not-a-new-model_211fbe80",
+      "sourceKind": "research",
+      "sourceName": "Hugging Face",
+      "title": "A harness adapter is a small add-on, not a new model.",
+      "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale"
     },
     {
-      "id": "content-item_2026-11-20_12_openvinotoolkit-openvino-run-a-model-on-the-hardware-you-have_c6688854",
-      "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "openvinotoolkit/openvino: run a model on the hardware you have",
-      "sourceUrl": "https://github.com/openvinotoolkit/openvino"
+      "id": "content-item_2026-11-21_07_google-search-is-adding-a-sidebar-for-old-ai-chats_6900f601",
+      "sourceKind": "product",
+      "sourceName": "The Verge",
+      "title": "Google Search is adding a sidebar for old AI chats.",
+      "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
     },
     {
-      "id": "content-item_2026-11-20_13_flashml-org-freevideo-local-video-with-a-separate-weight-license_124a9c7c",
+      "id": "content-item_2026-11-21_08_openai-says-agents-finish-more-of-the-long-tasks-people-still-run-the-la_45d1c404",
+      "sourceKind": "research",
+      "sourceName": "OpenAI",
+      "title": "OpenAI says agents finish more of the long tasks. People still run the lab.",
+      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier/"
+    },
+    {
+      "id": "content-item_2026-11-21_09_a-saved-line-number-can-point-at-the-wrong-function_e25b5e78",
+      "sourceKind": "research",
+      "sourceName": "Enola",
+      "title": "A saved line number can point at the wrong function.",
+      "sourceUrl": "https://enola.tech/blog/agent-memory-needs-a-code-reference"
+    },
+    {
+      "id": "content-item_2026-11-21_10_apple-posted-a-job-for-an-agent-the-listing-is-gone_a22c687c",
+      "sourceKind": "article",
+      "sourceName": "The Verge",
+      "title": "Apple posted a job for an agent. The listing is gone.",
+      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    },
+    {
+      "id": "content-item_2026-11-21_11_agentscope-ai-agentscope-a-framework-you-can-watch-while-it-runs_0c225b4f",
       "sourceKind": "github",
       "sourceName": "GitHub",
-      "title": "FlashML-org/FreeVideo: local video, with a separate weight license",
-      "sourceUrl": "https://github.com/FlashML-org/FreeVideo"
+      "title": "agentscope-ai/agentscope: a framework you can watch while it runs",
+      "sourceUrl": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+      "id": "content-item_2026-11-21_12_swe-agent-mini-swe-agent-a-small-coding-agent-with-the-maker-s-score_1876b9ab",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "SWE-agent/mini-swe-agent: a small coding agent, with the maker's score",
+      "sourceUrl": "https://github.com/SWE-agent/mini-swe-agent"
+    },
+    {
+      "id": "content-item_2026-11-21_13_phone-harness-phone-harness-the-agent-can-tap-the-phone-you-still-unlock_a7cf62d3",
+      "sourceKind": "github",
+      "sourceName": "GitHub",
+      "title": "phone-harness/phone-harness: the agent can tap the phone. You still unlock it.",
+      "sourceUrl": "https://github.com/phone-harness/phone-harness"
     }
   ]
 }

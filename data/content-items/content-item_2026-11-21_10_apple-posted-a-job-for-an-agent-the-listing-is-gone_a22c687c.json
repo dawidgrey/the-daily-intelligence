@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_10_apple-posted-a-job-for-an-agent-the-listing-is-gone_a22c687c",
+  "sourceKind": "article",
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "canonicalUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "credit": "@markgurman",
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "Apple posted a job for an agent. The listing is gone.",
+  "friendlyTitle": "Apple posted a job for a helper. The listing is gone.",
+  "summary": "The Verge, citing Bloomberg, reports that a since-removed Apple job listing sought an engineer to lead an agent that could browse the web, work across apps, write code, and call services. The listing said the role would work with Siri, UI frameworks, and Apple's foundation models. The Verge says the listing has been taken down.",
+  "friendlySummary": "The Verge, citing Bloomberg, reports that an Apple job listing, since removed, sought an engineer to lead a helper that could browse the web, work across apps, write code, and call services. The listing said the role would work with Siri, the teams that build the interface, and Apple's own models. The Verge says the listing has been taken down.",
+  "whyItMatters": "A removed listing is not a product, and it has no ship date. Apple's upgraded Siri is already in a public beta. This posting does not say that beta can now book, browse, or edit for you.",
+  "friendlyWhyItMatters": "A removed job post is not a product. It has no release date. Apple's upgraded Siri is already in a public test. This posting does not say that test can now book, browse, or edit for you.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

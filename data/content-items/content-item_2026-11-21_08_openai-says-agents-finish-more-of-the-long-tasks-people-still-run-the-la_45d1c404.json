@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_08_openai-says-agents-finish-more-of-the-long-tasks-people-still-run-the-la_45d1c404",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier/",
+  "canonicalUrl": "https://openai.com/index/research-acceleration-jagged-frontier/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "OpenAI says agents finish more of the long tasks. People still run the lab.",
+  "friendlyTitle": "OpenAI says helpers finish more of the long tasks. People still run the lab.",
+  "summary": "OpenAI says that from March to October, estimated success on internal research tasks judged to take a person two to four hours rose from 23 percent to 46 percent. At published API prices, the median researcher's daily agent spend reached $2,400 in October, up 62 percent from September. The 90th percentile reached $23,000.",
+  "friendlySummary": "OpenAI says that from March to October, the estimated success rate on internal research tasks judged to take a person two to four hours rose from 23 percent to 46 percent. At the published prices, the typical researcher's daily helper spend reached $2,400 in October. That is up 62 percent from September. The top 10 percent reached $23,000 a day.",
+  "whyItMatters": "OpenAI says these are internal estimates, and that people remain central. Success was 79 percent on monitoring a training run and 25 percent on writing inference code. A lab's own spend figure is not a bill you can compare with yours, and it is not a feature you can switch on.",
+  "friendlyWhyItMatters": "OpenAI says these are internal estimates, and that people are still central. Success was 79 percent on watching a training run, and 25 percent on writing the code that serves a model. A lab's own spend figure is not a bill you can compare with yours. It is not a feature you can turn on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}

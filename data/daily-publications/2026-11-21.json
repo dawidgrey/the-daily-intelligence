@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "recordType": "DailyPublication",
+  "id": "daily-publication_2026-11-21",
+  "slug": "2026-11-21",
+  "status": "published",
+  "publicationDateUtc": "2026-11-20T19:00:00Z",
+  "displayTimeZone": "Australia/Sydney",
+  "header": "Back near the sale price. The chat stays closed.",
+  "friendlyHeader": "The share price fell back. The private chat stays closed.",
+  "summary": "The Daily Intelligence is a short daily brief on AI that changes work, tools, and ordinary decisions. Today, Anthropic's shares were back near the sale price during Friday's session. Signal is blocking phone screenshots so a phone assistant cannot read the chat. A claimed math proof is not a prize.",
+  "friendlySummary": "This is a short daily note on AI that can change work and daily life. Today, Anthropic's shares were back near the first sale price during Friday's trading. Signal is blocking phone screenshots so a phone helper cannot read the chat. A claimed math proof is not a prize.",
+  "contentItemRefs": [
+    {
+      "contentItemId": "content-item_2026-11-21_01_anthropic-was-last-at-87-28-that-was-not-the-close_f3230761",
+      "position": 1,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_02_signal-is-blocking-the-screenshot-you-can-turn-that-off_11f79f6f",
+      "position": 2,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_03_a-lean-file-is-not-the-riemann-prize_d6bff584",
+      "position": 3,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_04_the-commission-confirms-an-ai-assisted-attack-it-has-not-named-who_66202c26",
+      "position": 4,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_05_medchembench-is-a-test-on-old-papers-it-is-not-a-new-drug_f4784c30",
+      "position": 5,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_06_a-harness-adapter-is-a-small-add-on-not-a-new-model_211fbe80",
+      "position": 6,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_07_google-search-is-adding-a-sidebar-for-old-ai-chats_6900f601",
+      "position": 7,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_08_openai-says-agents-finish-more-of-the-long-tasks-people-still-run-the-la_45d1c404",
+      "position": 8,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_09_a-saved-line-number-can-point-at-the-wrong-function_e25b5e78",
+      "position": 9,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_10_apple-posted-a-job-for-an-agent-the-listing-is-gone_a22c687c",
+      "position": 10,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_11_agentscope-ai-agentscope-a-framework-you-can-watch-while-it-runs_0c225b4f",
+      "position": 11,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_12_swe-agent-mini-swe-agent-a-small-coding-agent-with-the-maker-s-score_1876b9ab",
+      "position": 12,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    },
+    {
+      "contentItemId": "content-item_2026-11-21_13_phone-harness-phone-harness-the-agent-can-tap-the-phone-you-still-unlock_a7cf62d3",
+      "position": 13,
+      "displayRole": "primary",
+      "overrideTitle": null,
+      "overrideFriendlyTitle": null,
+      "overrideSummary": null,
+      "overrideFriendlySummary": null,
+      "overrideWhyItMatters": null,
+      "overrideFriendlyWhyItMatters": null
+    }
+  ],
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "metadata": {
+    "legacySource": "final_issue_2026-11-21.json",
+    "itemCount": 13
+  }
+}

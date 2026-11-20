@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-21_04_the-commission-confirms-an-ai-assisted-attack-it-has-not-named-who_66202c26",
+  "sourceKind": "article",
+  "sourceName": "AP News",
+  "sourceUrl": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
+  "canonicalUrl": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-20T20:11:02Z",
+  "createdAtUtc": "2026-11-20T20:11:02Z",
+  "updatedAtUtc": "2026-11-20T20:11:02Z",
+  "title": "The Commission confirms an AI-assisted attack. It has not named who.",
+  "friendlyTitle": "The European Commission says an AI tool was used. It has not named who.",
+  "summary": "AP reports that European Commission spokesperson Thomas Regnier confirmed on Thursday that an attack detected on 22 October used AI tools. He said several applications were taken down and most have been restored. He did not name who was behind it.",
+  "friendlySummary": "AP reports that a European Commission spokesperson, Thomas Regnier, confirmed on Thursday that an attack found on 22 October used AI tools. He said several apps were taken offline, and most are back. He did not name who did it.",
+  "whyItMatters": "Regnier told AP the Commission has not detected a data breach affecting staff as a whole. Politico reported that translation and reimbursement tools were hit. Regnier declined to confirm that account. A confirmation is not a finding about your own systems.",
+  "friendlyWhyItMatters": "Regnier told AP the Commission has not found a data leak affecting staff as a whole. Politico reported that translation and expense tools were hit. Regnier would not confirm that account. This is not a finding about your own systems.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-21"
+  }
+}
