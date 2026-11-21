@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_01_inkling-2-mini-loops-the-middle-the-scores-are-the-lab-s_b9db119f",
+  "sourceKind": "product",
+  "sourceName": "Thinking Machines",
+  "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "canonicalUrl": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Inkling 2 Mini loops the middle. The scores are the lab's.",
+  "friendlyTitle": "Inkling 2 Mini repeats its middle layers. The test scores are the maker's.",
+  "summary": "On 20 November, Thinking Machines released Inkling 2 Mini, an open-weight model with 26.4 billion parameters and about 20 GB of weights. The middle 12 layers run three times, so the lab counts 5.4 billion weight activations per token. It says the model leads open-weight models under 100 billion parameters on DeepSWE v1.1 at 48.2 percent and on Vals Index v2.2 at 46.5 percent.",
+  "friendlySummary": "On 20 November, Thinking Machines released Inkling 2 Mini. It is an open model with 26.4 billion parameters and about 20 GB of weights. The middle 12 layers run three times, so the lab counts 5.4 billion weight uses per token. The lab says it leads other open models under 100 billion parameters on two coding tests: 48.2 percent on DeepSWE v1.1, and 46.5 percent on Vals Index v2.2.",
+  "whyItMatters": "Those coding scores are the lab's, and it says evaluation setups vary. The weights fit a machine with about 20 GB free, but Thinking Machines says local Ollama support starts at a Mac with 32 GB of memory. More loops did not add facts, in the lab's tests. A laptop run is not a hosted assistant.",
+  "friendlyWhyItMatters": "Those coding scores are the lab's, and the lab says the tests were not all run the same way. The weights need about 20 GB free. Thinking Machines says running it locally with Ollama starts at a Mac with 32 GB of memory. Extra loops did not add facts, in the lab's tests. A laptop run is not a hosted assistant.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

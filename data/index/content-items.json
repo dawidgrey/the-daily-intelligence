@@ -1,98 +1,98 @@
 {
   "schemaVersion": 1,
   "recordType": "ContentItemIndex",
-  "generatedAtUtc": "2026-11-20T20:11:02Z",
+  "generatedAtUtc": "2026-11-21T20:10:53Z",
   "items": [
     {
-      "id": "content-item_2026-11-21_01_anthropic-was-last-at-87-28-that-was-not-the-close_f3230761",
+      "id": "content-item_2026-11-22_01_inkling-2-mini-loops-the-middle-the-scores-are-the-lab-s_b9db119f",
+      "sourceKind": "product",
+      "sourceName": "Thinking Machines",
+      "title": "Inkling 2 Mini loops the middle. The scores are the lab's.",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-mini/"
+    },
+    {
+      "id": "content-item_2026-11-22_02_gemini-4-neon-is-3-in-and-15-out-the-free-app-may-not-pick-it_0c3c8b23",
+      "sourceKind": "product",
+      "sourceName": "Google DeepMind",
+      "title": "Gemini 4 Neon is $3 in and $15 out. The free app may not pick it.",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    },
+    {
+      "id": "content-item_2026-11-22_03_a-watermark-is-a-mark-it-is-not-a-fact-check_1bd26c8e",
+      "sourceKind": "product",
+      "sourceName": "OpenAI",
+      "title": "A watermark is a mark. It is not a fact check.",
+      "sourceUrl": "https://openai.com/research/verify/"
+    },
+    {
+      "id": "content-item_2026-11-22_04_muse-read-a-signal-reminder-reuters-could-not-tell-a-mix-up-from-a-guess_0fbbf8b0",
       "sourceKind": "article",
       "sourceName": "Reuters",
-      "title": "Anthropic was last at $87.28. That was not the close.",
-      "sourceUrl": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"
+      "title": "Muse read a Signal reminder. Reuters could not tell a mix-up from a guess.",
+      "sourceUrl": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/"
     },
     {
-      "id": "content-item_2026-11-21_02_signal-is-blocking-the-screenshot-you-can-turn-that-off_11f79f6f",
-      "sourceKind": "product",
-      "sourceName": "Signal",
-      "title": "Signal is blocking the screenshot. You can turn that off.",
-      "sourceUrl": "https://signal.org/blog/protecting-your-privacy/"
-    },
-    {
-      "id": "content-item_2026-11-21_03_a-lean-file-is-not-the-riemann-prize_d6bff584",
-      "sourceKind": "research",
+      "id": "content-item_2026-11-22_05_a-text-message-agent-is-a-list-it-is-not-a-test_01945f6a",
+      "sourceKind": "article",
       "sourceName": "TechCrunch",
-      "title": "A Lean file is not the Riemann prize.",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      "title": "A text-message agent is a list. It is not a test.",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
     },
     {
-      "id": "content-item_2026-11-21_04_the-commission-confirms-an-ai-assisted-attack-it-has-not-named-who_66202c26",
-      "sourceKind": "article",
-      "sourceName": "AP News",
-      "title": "The Commission confirms an AI-assisted attack. It has not named who.",
-      "sourceUrl": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70"
+      "id": "content-item_2026-11-22_06_coding-tasks-are-getting-longer-judgment-is-still-the-gap_5fc49c0e",
+      "sourceKind": "research",
+      "sourceName": "METR",
+      "title": "Coding tasks are getting longer. Judgment is still the gap.",
+      "sourceUrl": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/"
     },
     {
-      "id": "content-item_2026-11-21_05_medchembench-is-a-test-on-old-papers-it-is-not-a-new-drug_f4784c30",
+      "id": "content-item_2026-11-22_07_pulling-the-private-reasoning-got-harder-that-is-openai-s-test_3ea993db",
       "sourceKind": "research",
       "sourceName": "OpenAI",
-      "title": "MedChemBench is a test on old papers. It is not a new drug.",
-      "sourceUrl": "https://openai.com/index/introducing-medchembench"
+      "title": "Pulling the private reasoning got harder. That is OpenAI's test.",
+      "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation"
     },
     {
-      "id": "content-item_2026-11-21_06_a-harness-adapter-is-a-small-add-on-not-a-new-model_211fbe80",
-      "sourceKind": "research",
-      "sourceName": "Hugging Face",
-      "title": "A harness adapter is a small add-on, not a new model.",
-      "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale"
+      "id": "content-item_2026-11-22_08_gpt-6-2-is-briefer-by-default-old-be-concise-prompts-can-cut-too-much_d536e38a",
+      "sourceKind": "article",
+      "sourceName": "The Decoder",
+      "title": "GPT-6.2 is briefer by default. Old 'be concise' prompts can cut too much.",
+      "sourceUrl": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/"
     },
     {
-      "id": "content-item_2026-11-21_07_google-search-is-adding-a-sidebar-for-old-ai-chats_6900f601",
+      "id": "content-item_2026-11-22_09_two-pcs-can-share-a-model-the-insider-build-is-not-out-yet_235d7947",
       "sourceKind": "product",
-      "sourceName": "The Verge",
-      "title": "Google Search is adding a sidebar for old AI chats.",
-      "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+      "sourceName": "Microsoft",
+      "title": "Two PCs can share a model. The Insider build is not out yet.",
+      "sourceUrl": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602"
     },
     {
-      "id": "content-item_2026-11-21_08_openai-says-agents-finish-more-of-the-long-tasks-people-still-run-the-la_45d1c404",
-      "sourceKind": "research",
-      "sourceName": "OpenAI",
-      "title": "OpenAI says agents finish more of the long tasks. People still run the lab.",
-      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier/"
+      "id": "content-item_2026-11-22_10_loom-flags-a-stale-note-it-does-not-rewrite-it_34654b01",
+      "sourceKind": "product",
+      "sourceName": "ClickHouse",
+      "title": "Loom flags a stale note. It does not rewrite it.",
+      "sourceUrl": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code"
     },
     {
-      "id": "content-item_2026-11-21_09_a-saved-line-number-can-point-at-the-wrong-function_e25b5e78",
-      "sourceKind": "research",
-      "sourceName": "Enola",
-      "title": "A saved line number can point at the wrong function.",
-      "sourceUrl": "https://enola.tech/blog/agent-memory-needs-a-code-reference"
-    },
-    {
-      "id": "content-item_2026-11-21_10_apple-posted-a-job-for-an-agent-the-listing-is-gone_a22c687c",
-      "sourceKind": "article",
-      "sourceName": "The Verge",
-      "title": "Apple posted a job for an agent. The listing is gone.",
-      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-    },
-    {
-      "id": "content-item_2026-11-21_11_agentscope-ai-agentscope-a-framework-you-can-watch-while-it-runs_0c225b4f",
+      "id": "content-item_2026-11-22_11_mastra-ai-mastra-a-typescript-framework-with-a-pause-for-approval_355f618a",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "agentscope-ai/agentscope: a framework you can watch while it runs",
-      "sourceUrl": "https://github.com/agentscope-ai/agentscope"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "mastra-ai/mastra: a TypeScript framework, with a pause for approval",
+      "sourceUrl": "https://github.com/mastra-ai/mastra"
     },
     {
-      "id": "content-item_2026-11-21_12_swe-agent-mini-swe-agent-a-small-coding-agent-with-the-maker-s-score_1876b9ab",
+      "id": "content-item_2026-11-22_12_awslabs-cli-agent-orchestrator-several-coding-clis-in-separate-terminals_0fa0232f",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "SWE-agent/mini-swe-agent: a small coding agent, with the maker's score",
-      "sourceUrl": "https://github.com/SWE-agent/mini-swe-agent"
+      "sourceName": "GitHub trending Python",
+      "title": "awslabs/cli-agent-orchestrator: several coding CLIs, in separate terminals",
+      "sourceUrl": "https://github.com/awslabs/cli-agent-orchestrator"
     },
     {
-      "id": "content-item_2026-11-21_13_phone-harness-phone-harness-the-agent-can-tap-the-phone-you-still-unlock_a7cf62d3",
+      "id": "content-item_2026-11-22_13_tianma-if-edgeever-notes-you-host-with-an-mcp-door_a8749d9c",
       "sourceKind": "github",
-      "sourceName": "GitHub",
-      "title": "phone-harness/phone-harness: the agent can tap the phone. You still unlock it.",
-      "sourceUrl": "https://github.com/phone-harness/phone-harness"
+      "sourceName": "GitHub trending TypeScript",
+      "title": "tianma-if/edgeever: notes you host, with an MCP door",
+      "sourceUrl": "https://github.com/tianma-if/edgeever"
     }
   ]
 }

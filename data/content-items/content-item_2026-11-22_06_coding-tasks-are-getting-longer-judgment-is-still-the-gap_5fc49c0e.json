@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_06_coding-tasks-are-getting-longer-judgment-is-still-the-gap_5fc49c0e",
+  "sourceKind": "research",
+  "sourceName": "METR",
+  "sourceUrl": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+  "canonicalUrl": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Coding tasks are getting longer. Judgment is still the gap.",
+  "friendlyTitle": "Coding tasks are getting longer. Judgment is still the gap.",
+  "summary": "On 20 November, METR updated its tests of public models through Opus 5.5 and GPT-6 Astra. On its coding and optimization tasks with a clear score, models usually matched or beat the skilled humans METR could recruit. On tasks where the right choice is hard to check, METR says the agents had worse judgment than human experts.",
+  "friendlySummary": "On 20 November, METR updated its tests of public models, through Opus 5.5 and GPT-6 Astra. On coding and optimization tasks with a clear score, the models usually matched or beat the skilled people METR could hire. On tasks where the right choice is hard to check, METR says the agents judged worse than human experts.",
+  "whyItMatters": "On the combined time-horizon suite, METR puts the doubling time at about 3.6 months. It also says current public evidence cannot rule out drastic AI research acceleration in the next couple of years, and that it remains uncertain what capabilities that would require. A result on METR's tasks is not a result on your job.",
+  "friendlyWhyItMatters": "On the combined set of timed tasks, METR says the length of work models can finish is doubling about every 3.6 months. METR also says public evidence cannot rule out a sharp speed-up in AI research over the next couple of years, and that it is still unsure what skills that would take. A result on METR's tasks is not a result on your job.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

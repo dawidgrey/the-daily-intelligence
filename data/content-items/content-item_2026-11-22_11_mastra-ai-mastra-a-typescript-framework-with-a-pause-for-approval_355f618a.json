@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_11_mastra-ai-mastra-a-typescript-framework-with-a-pause-for-approval_355f618a",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending TypeScript",
+  "sourceUrl": "https://github.com/mastra-ai/mastra",
+  "canonicalUrl": "https://github.com/mastra-ai/mastra",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "mastra-ai/mastra: a TypeScript framework, with a pause for approval",
+  "friendlyTitle": "Mastra: a TypeScript kit for agents, with a pause for approval",
+  "summary": "Mastra gained 31 stars on GitHub's TypeScript trending list today, and now has about 29,700. It is a TypeScript framework for agents and workflows, with model routing, memory, and MCP servers. The core is Apache-2.0. Code under directories named ee/ is under a separate enterprise license.",
+  "friendlySummary": "Mastra gained 31 stars on GitHub's TypeScript trending list today, and now has about 29,700. It is a TypeScript kit for agents and workflows, with model routing, memory, and MCP servers. The core is under the Apache-2.0 license. Code in folders named ee/ is under a separate enterprise license.",
+  "whyItMatters": "You can start a project with npm create mastra@latest and suspend an agent or workflow until a person approves the next step. A framework is not a finished assistant, and the enterprise folders are not covered by the Apache grant.",
+  "friendlyWhyItMatters": "You can start a project with npm create mastra@latest, and pause an agent or a workflow until a person approves the next step. A kit is not a finished assistant. The enterprise folders are not covered by the Apache license.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_12_awslabs-cli-agent-orchestrator-several-coding-clis-in-separate-terminals_0fa0232f",
+  "sourceKind": "github",
+  "sourceName": "GitHub trending Python",
+  "sourceUrl": "https://github.com/awslabs/cli-agent-orchestrator",
+  "canonicalUrl": "https://github.com/awslabs/cli-agent-orchestrator",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "awslabs/cli-agent-orchestrator: several coding CLIs, in separate terminals",
+  "friendlyTitle": "cli-agent-orchestrator: several coding tools, in separate terminals",
+  "summary": "AWS Labs' cli-agent-orchestrator gained 14 stars on GitHub's Python trending list today, and has about 1,600. It coordinates coding CLIs such as Claude Code, Kiro, and Codex in isolated tmux sessions. The license is Apache-2.0.",
+  "friendlySummary": "AWS Labs' cli-agent-orchestrator gained 14 stars on GitHub's Python trending list today, and has about 1,600. It coordinates coding tools such as Claude Code, Kiro, and Codex in separate tmux sessions. The license is Apache-2.0.",
+  "whyItMatters": "You can split a job across more than one coding agent without putting every session in the same terminal. Isolation here is a separate session, not a security review. You still decide what each CLI is allowed to run.",
+  "friendlyWhyItMatters": "You can split a job across more than one coding agent without putting every session in the same terminal. A separate session is not a security review. You still decide what each tool is allowed to run.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "github",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

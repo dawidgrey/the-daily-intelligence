@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_10_loom-flags-a-stale-note-it-does-not-rewrite-it_34654b01",
+  "sourceKind": "product",
+  "sourceName": "ClickHouse",
+  "sourceUrl": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code",
+  "canonicalUrl": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Loom flags a stale note. It does not rewrite it.",
+  "friendlyTitle": "Loom marks a stale note. It does not rewrite it.",
+  "summary": "ClickHouse released Loom, an open-source store that keeps agent notes next to a code index. On the company's own questions about the ClickHouse codebase, it says the mean answer-quality score rose from 0.78 to 0.84 after Loom was added. A note tied to a function is flagged if that code changes.",
+  "friendlySummary": "ClickHouse released Loom, an open-source store that keeps agent notes next to an index of the code. On the company's own questions about the ClickHouse codebase, it says the average answer-quality score rose from 0.78 to 0.84 after Loom was added. A note tied to a function is flagged if that code changes.",
+  "whyItMatters": "That score is ClickHouse's, on its own repository. Loom does not rewrite a stale note for you. Two agents can share a namespace only if you point them at the same deployment, and you still decide what is allowed to be shared. A memory of the code is not a review of the change.",
+  "friendlyWhyItMatters": "That score is ClickHouse's, on its own repository. Loom does not rewrite a stale note for you. Two agents can share notes only if you point them at the same deployment, and you still decide what may be shared. A memory of the code is not a review of the change.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

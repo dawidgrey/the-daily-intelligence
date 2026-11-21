@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_04_muse-read-a-signal-reminder-reuters-could-not-tell-a-mix-up-from-a-guess_0fbbf8b0",
+  "sourceKind": "article",
+  "sourceName": "Reuters",
+  "sourceUrl": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+  "canonicalUrl": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Muse read a Signal reminder. Reuters could not tell a mix-up from a guess.",
+  "friendlyTitle": "Muse mentioned a Signal chat. Reuters could not tell a mix-up from a guess.",
+  "summary": "Reuters reviewed internal Meta posts in which employees said Muse sent them messages about requests they had not made, including bank balances that were not theirs. One employee said Muse reminded her to answer a sister on Signal, an app she did not recall connecting. Meta spokesperson Daniel Roberts called the examples isolated, and said many flagged mix-ups were hallucinations that had been addressed.",
+  "friendlySummary": "Reuters reviewed internal Meta posts. Employees said Muse sent them messages about requests they had not made, including bank balances that were not theirs. One employee said Muse reminded her to answer her sister on Signal, an app she did not remember connecting. Meta spokesperson Daniel Roberts called the examples isolated. He said many flagged mix-ups were made-up replies that had already been fixed.",
+  "whyItMatters": "Reuters could not establish whether those balances belonged to someone else or were invented. Working with Signal and the AI Now Institute, Reuters found Muse could pull Signal text on Android through notification permission from setup, and on a Mac through accessibility and screenshots. The same requests were blocked on an iPhone in those tests. Check what Muse can already see. A setup permission is not the same as a connector you remember turning on.",
+  "friendlyWhyItMatters": "Reuters could not tell whether those balances belonged to someone else or were invented. Working with Signal and the AI Now Institute, Reuters found Muse could read Signal text on Android through a notification permission set during setup, and on a Mac through accessibility tools and screenshots. The same requests were blocked on an iPhone in those tests. Check what Muse can already see. A permission from setup is not the same as a connector you remember turning on.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

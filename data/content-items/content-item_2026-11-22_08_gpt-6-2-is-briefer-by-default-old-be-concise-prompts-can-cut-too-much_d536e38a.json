@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_08_gpt-6-2-is-briefer-by-default-old-be-concise-prompts-can-cut-too-much_d536e38a",
+  "sourceKind": "article",
+  "sourceName": "The Decoder",
+  "sourceUrl": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+  "canonicalUrl": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "GPT-6.2 is briefer by default. Old 'be concise' prompts can cut too much.",
+  "friendlyTitle": "GPT-6.2 is shorter by default. An old 'be brief' prompt can cut too much.",
+  "summary": "The Decoder reports new OpenAI prompt guidance for GPT-6.2 Astra and Sol. OpenAI's model guide says Astra writes more briefly than earlier models, so an old instruction to be concise can now cut too far. If the next step is unclear, OpenAI says the model may stop and wait, and recommends telling it to continue only on steps it is already allowed to take.",
+  "friendlySummary": "The Decoder reports new OpenAI prompt guidance for GPT-6.2 Astra and Sol. OpenAI's model guide says Astra writes more briefly than earlier models, so an old instruction to be concise can now cut too far. If the next step is unclear, OpenAI says the model may stop and wait. It recommends telling the model to continue only on steps it is already allowed to take.",
+  "whyItMatters": "OpenAI's guide also says temperature and top_p are no longer supported, and that editing earlier messages drops the reasoning that followed them, which can raise token use. For a new integration, OpenAI suggests medium reasoning effort. If you were on none or minimal, it says use low. A prompt template is not a guarantee the model will stop before a destructive step.",
+  "friendlyWhyItMatters": "OpenAI's guide also says temperature and top_p are no longer supported. Editing earlier messages drops the reasoning that came after them, which can raise the token bill. For a new setup, OpenAI suggests medium reasoning effort. If you were on none or minimal, it says use low. A prompt template does not guarantee the model will stop before a destructive step.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

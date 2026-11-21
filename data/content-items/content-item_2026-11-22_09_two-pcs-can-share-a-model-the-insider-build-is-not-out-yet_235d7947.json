@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_09_two-pcs-can-share-a-model-the-insider-build-is-not-out-yet_235d7947",
+  "sourceKind": "product",
+  "sourceName": "Microsoft",
+  "sourceUrl": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+  "canonicalUrl": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Two PCs can share a model. The Insider build is not out yet.",
+  "friendlyTitle": "Two PCs can share one model. The test build is not out yet.",
+  "summary": "On 19 November, Microsoft announced a developer preview of RDMA over USB4 on Windows, so a compatible inference stack can split one model across PCs linked by USB4 cables. Microsoft says the preview is coming soon to Windows Insiders in the Experimental channel, and that the feature is off by default. In its lab, small-message round trips were about 28 to 50 microseconds, roughly four times lower than Ethernet over the same link.",
+  "friendlySummary": "On 19 November, Microsoft announced a developer preview of RDMA over USB4 on Windows. The idea is to split one model across PCs linked by USB4 cables, using their combined memory. Microsoft says the preview is coming soon to Windows Insiders in the Experimental channel, and that the feature is off by default. In its lab, small messages took about 28 to 50 microseconds for a round trip, roughly four times faster than ordinary Ethernet over the same cable.",
+  "whyItMatters": "That latency figure is Microsoft's, between two PCs. AMD measured 21.98 tokens per second decoding Qwen3-235B at 4-bit on its own three-PC setup. Those are the makers' numbers, on their hardware. You cannot turn this on in a normal Windows install today.",
+  "friendlyWhyItMatters": "That speed figure is Microsoft's, between two PCs. AMD measured 21.98 tokens per second while generating text from Qwen3-235B at 4-bit, on its own three-PC setup. Those are the makers' numbers, on their hardware. You cannot turn this on in a normal Windows install today.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

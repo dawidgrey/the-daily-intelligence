@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_03_a-watermark-is-a-mark-it-is-not-a-fact-check_1bd26c8e",
+  "sourceKind": "product",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/research/verify/",
+  "canonicalUrl": "https://openai.com/research/verify/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "A watermark is a mark. It is not a fact check.",
+  "friendlyTitle": "A watermark is a mark. It does not check the facts.",
+  "summary": "OpenAI's public Verify tool checks one uploaded image, audio file, or PDF for C2PA metadata or a SynthID watermark tied to ChatGPT, the API, or Codex. OpenAI says a detected signal means the file was likely processed by its tools, and that false positives are rare. The public page does not check text.",
+  "friendlySummary": "OpenAI's public Verify tool checks one uploaded image, audio file, or PDF. It looks for C2PA metadata or a SynthID watermark tied to ChatGPT, the API, or Codex. OpenAI says a found signal means the file was likely processed by its tools, and that false alarms are rare. The public page does not check plain text.",
+  "whyItMatters": "A mark does not say the content is accurate, or how much of it the model wrote. No mark does not clear the file: metadata can be stripped, a watermark can degrade, and another company's model is outside this check. OpenAI says uploaded files are not stored unless the law requires it, and are not used for training.",
+  "friendlyWhyItMatters": "A mark does not say the content is true, or how much of it the model wrote. No mark does not clear the file. Metadata can be removed, a watermark can fade, and another company's model is outside this check. OpenAI says uploaded files are not kept unless the law requires it, and are not used for training.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

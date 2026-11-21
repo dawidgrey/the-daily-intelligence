@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_07_pulling-the-private-reasoning-got-harder-that-is-openai-s-test_3ea993db",
+  "sourceKind": "research",
+  "sourceName": "OpenAI",
+  "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
+  "canonicalUrl": "https://openai.com/index/combatting-adversarial-distillation",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Pulling the private reasoning got harder. That is OpenAI's test.",
+  "friendlyTitle": "Pulling the private reasoning got harder. That number is OpenAI's.",
+  "summary": "On 20 November, OpenAI said it had tightened defenses that stop someone from pulling GPT-6.2's protected reasoning, the intermediate steps the model does not show as the answer. In an internal adaptive test, OpenAI says the average success rate fell from 54.0 percent against GPT-6 Astra with its original safeguards to 0.2 percent against GPT-6.2 Astra with the update.",
+  "friendlySummary": "On 20 November, OpenAI said it had made it harder to pull out GPT-6.2's protected reasoning, the middle steps the model does not show as the answer. In an internal test that adapted to the defenses, OpenAI says the average success rate fell from 54.0 percent against GPT-6 Astra with the old safeguards to 0.2 percent against GPT-6.2 Astra with the update.",
+  "whyItMatters": "Those figures are OpenAI's, on its own red-team. OpenAI says exact reasoning traces can teach a second model skills the original safeguards would have blocked, including in cybersecurity. The post does not say a weaker copy is now impossible. If you use the API, rewriting an earlier message drops the reasoning that followed it.",
+  "friendlyWhyItMatters": "Those figures are OpenAI's, on its own test. OpenAI says the hidden steps can teach a second model skills the first model's safeguards would have blocked, including in cybersecurity. The post does not say a weaker copy is now impossible. If you use the API, rewriting an earlier message drops the reasoning that came after it.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "research",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

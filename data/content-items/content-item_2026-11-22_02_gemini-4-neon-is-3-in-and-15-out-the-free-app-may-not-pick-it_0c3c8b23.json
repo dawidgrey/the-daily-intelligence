@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_02_gemini-4-neon-is-3-in-and-15-out-the-free-app-may-not-pick-it_0c3c8b23",
+  "sourceKind": "product",
+  "sourceName": "Google DeepMind",
+  "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "Gemini 4 Neon is $3 in and $15 out. The free app may not pick it.",
+  "friendlyTitle": "Gemini 4 Neon costs $3 in and $15 out. The free app may not offer it.",
+  "summary": "On 18 November, Google introduced Gemini 4 Neon at $3 per million input tokens, $0.15 per million cached input tokens, and $15 per million output tokens, with a 1 million-token window. Google says it scores 61 on the Artificial Analysis Intelligence Index at the xhigh setting, third overall, and 70.9 percent on the Vals Index, second there.",
+  "friendlySummary": "On 18 November, Google introduced Gemini 4 Neon. The price is $3 per million input tokens, $0.15 per million for cached input, and $15 per million output tokens. The context window is 1 million tokens. Google says it scores 61 on the Artificial Analysis Intelligence Index at the highest thinking setting, third overall, and 70.9 percent on the Vals Index, second there.",
+  "whyItMatters": "Those rankings are Google's reading of outside indexes, not an audit of your work. Neon is in the Gemini API and AI Studio, and in the Gemini app and Antigravity for paid Pro and Ultra subscribers. A free Gemini account may not get the dropdown.",
+  "friendlyWhyItMatters": "Those rankings are Google's reading of outside scoreboards. They are not a test of your work. Neon is in the Gemini API and AI Studio. In the Gemini app and in Antigravity, Google says it is for paid Pro and Ultra subscribers. A free Gemini account may not get the choice.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "product",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "recordType": "ContentItem",
+  "id": "content-item_2026-11-22_05_a-text-message-agent-is-a-list-it-is-not-a-test_01945f6a",
+  "sourceKind": "article",
+  "sourceName": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "canonicalUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "credit": null,
+  "sourcePublishedAtUtc": null,
+  "capturedAtUtc": "2026-11-21T20:10:53Z",
+  "createdAtUtc": "2026-11-21T20:10:53Z",
+  "updatedAtUtc": "2026-11-21T20:10:53Z",
+  "title": "A text-message agent is a list. It is not a test.",
+  "friendlyTitle": "A list of text-message helpers is not a test.",
+  "summary": "On 21 November, TechCrunch listed agents you can reach by text instead of a new app. Ask Proxy's personal plan is $1 a day over SMS. Folk's Pro plan is $8.33 a month. Comma is free to start and open source, over Signal, Telegram, and WeChat. Fambot, for family calendars, is free in beta.",
+  "friendlySummary": "On 21 November, TechCrunch listed helpers you can reach by text, instead of installing another app. Ask Proxy's personal plan is $1 a day by SMS. Folk's Pro plan is $8.33 a month. Comma is free to start and open source, over Signal, Telegram, and WeChat. Fambot, for family calendars, is free while it is in testing.",
+  "whyItMatters": "TechCrunch is describing what the companies say the agents can do, not measuring whether they finish the task. Texting one means connecting a calendar, email, or messages. A roundup is not a comparison, and a price is not a result.",
+  "friendlyWhyItMatters": "TechCrunch is describing what the companies say the helpers can do. It is not measuring whether they finish the job. Texting one means connecting a calendar, email, or messages. A list is not a comparison. A price is not a result.",
+  "tags": [],
+  "metadata": {
+    "legacyKind": "article",
+    "legacyPublicationSlug": "2026-11-22"
+  }
+}
